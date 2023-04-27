@@ -1,0 +1,174 @@
+project,language,filename,blank,comment,code
+fbcunn,Lua,D:\clones\fbcunn\test\test_LocallyConnected.lua,293,214.0,1401.0
+fbcunn,C++,D:\clones\fbcunn\test\ConvolutionTest.cpp,180,109.0,1087.0
+fbcunn,C++,D:\clones\fbcunn\src\fft\CuFFTConvolution.cpp,91,78.0,816.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\SpatialConvolutionFFT.lua,120,133.0,759.0
+fbcunn,C++,D:\clones\fbcunn\src\fft\SpatialConvolutionCuFFT.cpp,118,71.0,742.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\SpatialConvolutionFFTTiled.lua,110,130.0,684.0
+fbcunn,CUDA,D:\clones\fbcunn\src\SpatialBatchNormalization.cu,71,70.0,650.0
+fbcunn,C++,D:\clones\fbcunn\test\FFTTest.cpp,142,38.0,630.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\SpatialConvolutionCuFFT.lua,102,161.0,626.0
+fbcunn,C++,D:\clones\fbcunn\src\CuBLASWrapper.cpp,75,39.0,603.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_FFTModule.lua,77,30.0,545.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_FFT.lua,50,43.0,520.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\SpatialConvolutionFBFFTGemm.lua,81,100.0,418.0
+fbcunn,CUDA,D:\clones\fbcunn\src\LocallyConnectedUpdateGradInput.cu,46,26.0,407.0
+fbcunn,C++,D:\clones\fbcunn\src\TemporalConvolutionFBHost.cpp,51,91.0,400.0
+fbcunn,CUDA,D:\clones\fbcunn\src\BatchNormalization.cu,49,16.0,395.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\SpatialConvolution.lua,47,68.0,386.0
+fbcunn,C++,D:\clones\fbcunn\test\ReferenceConvolutions.cpp,88,116.0,352.0
+fbcunn,CUDA,D:\clones\fbcunn\src\HSM.cu,30,62.0,350.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_ClassHierarchicalNLLCriterion.lua,41,20.0,342.0
+fbcunn,CUDA,D:\clones\fbcunn\src\FeatureLPPooling.cu,84,124.0,334.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_VolumetricMaxPooling.lua,90,25.0,321.0
+fbcunn,C++,D:\clones\fbcunn\src\HSMHost.cpp,34,5.0,305.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\SpatialConvolutionFBFFT.lua,60,71.0,302.0
+fbcunn,CMake,D:\clones\fbcunn\CMakeLists.txt,75,26.0,296.0
+fbcunn,CUDA,D:\clones\fbcunn\src\fft\CuFFTWrapper.cu,39,23.0,295.0
+fbcunn,Lua,D:\clones\fbcunn\test\volumetric_average_pooling_test.lua,102,24.0,294.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_SparseModules.lua,26,45.0,274.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\SpatialConvolutionFFTTiledAsync.lua,47,51.0,271.0
+fbcunn,C++,D:\clones\fbcunn\src\fft\FFTWrapperLua.cpp,29,5.0,267.0
+fbcunn,CUDA,D:\clones\fbcunn\src\LocallyConnectedAccGradParameters.cu,26,34.0,262.0
+fbcunn,C++,D:\clones\fbcunn\test\TestUtils.cpp,61,19.0,259.0
+fbcunn,C++,D:\clones\fbcunn\src\fft\SpatialConvolutionCuFFTHost.cpp,44,11.0,255.0
+fbcunn,C++,D:\clones\fbcunn\test\BiasTest.cpp,77,28.0,254.0
+fbcunn,CUDA,D:\clones\fbcunn\test\InputCentricConvolution_UpdateOutput.cu,36,58.0,253.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_FeatureLPPooling.lua,46,5.0,249.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_CuFFT.lua,33,36.0,241.0
+fbcunn,CUDA,D:\clones\fbcunn\src\LocallyConnectedUpdateOutput.cu,25,43.0,240.0
+fbcunn,C++,D:\clones\fbcunn\src\FeatureLPPoolingHost.cpp,47,26.0,237.0
+fbcunn,C++,D:\clones\fbcunn\test\CuBLASTest.cpp,36,29.0,222.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\AbstractParallel.lua,52,33.0,213.0
+fbcunn,Lua,D:\clones\fbcunn\test\test.lua,43,8.0,213.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\src\fft\Utils-inl.h,32,24.0,210.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\src\fft\CuFFTStrategy.h,35,12.0,209.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\OneBitSGD.lua,43,33.0,203.0
+fbcunn,CUDA,D:\clones\fbcunn\src\ConvolutionBias.cu,54,26.0,202.0
+fbcunn,CUDA,D:\clones\fbcunn\src\TemporalConvolutionTBC.cu,18,23.0,193.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_Threshold.lua,61,19.0,190.0
+fbcunn,C++,D:\clones\fbcunn\src\LocallyConnectedHost.cpp,45,47.0,189.0
+fbcunn,C++,D:\clones\fbcunn\src\CuBLASWrapperLua.cpp,33,3.0,181.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\SpatialConvolutionFFTTiledIterated.lua,28,23.0,180.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_LookupTableGPU.lua,30,4.0,172.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\SpatialConvolutionFFTTiledSync.lua,38,38.0,171.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_FBFFTTiling.lua,22,16.0,170.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_SpatialConvolutionTuned.lua,19,20.0,170.0
+fbcunn,CUDA,D:\clones\fbcunn\src\TemporalMaxPooling.cu,46,23.0,168.0
+fbcunn,C++,D:\clones\fbcunn\src\util\AsyncCopier.cpp,27,13.0,168.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\FFTWrapper.lua,19,14.0,165.0
+fbcunn,CUDA,D:\clones\fbcunn\src\CrossMapNormalization.cu,32,26.0,161.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\ModelParallel.lua,34,37.0,160.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_HSM_speed.lua,23,7.0,160.0
+fbcunn,C++,D:\clones\fbcunn\src\fft\FBFFTHost.cpp,25,4.0,156.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_BatchNormalization.lua,29,30.0,155.0
+fbcunn,CUDA,D:\clones\fbcunn\src\fft\CuFFTConvolution.cuh,35,32.0,152.0
+fbcunn,CUDA,D:\clones\fbcunn\src\OneBitQuantization.cu,45,38.0,150.0
+fbcunn,C++,D:\clones\fbcunn\src\fft\SpatialConvolutionCuFFTTuner.cpp,29,12.0,149.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_HSM_cuda.lua,22,10.0,149.0
+fbcunn,CUDA,D:\clones\fbcunn\src\LocallyConnected.cuh,28,33.0,148.0
+fbcunn,C++,D:\clones\fbcunn\src\CudaTensorUtils.cpp,32,2.0,146.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\SpatialBatchNormalization.lua,27,25.0,136.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_TemporalConvolutionFB.lua,26,5.0,136.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\BatchNormalization.lua,27,25.0,133.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_ModelParallel.lua,32,5.0,133.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_DataParallel.lua,21,9.0,131.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_KMaxPooling.lua,50,9.0,129.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\src\DeviceTensorUtils-inl.h,20,8.0,124.0
+fbcunn,C++,D:\clones\fbcunn\src\LookupTableGPUHost.cpp,31,8.0,123.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_TemporalKMaxPooling.lua,37,10.0,123.0
+fbcunn,C++,D:\clones\fbcunn\src\TemporalKMaxPoolingHost.cpp,40,9.0,122.0
+fbcunn,C++,D:\clones\fbcunn\test\CudaTensorTest.cpp,34,18.0,122.0
+fbcunn,CUDA,D:\clones\fbcunn\src\fft\CuFFTWrapper.cuh,22,13.0,121.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\DataParallel.lua,21,53.0,116.0
+fbcunn,C++,D:\clones\fbcunn\src\CrossMapNormalizationHost.cpp,32,10.0,114.0
+fbcunn,CUDA,D:\clones\fbcunn\src\fft\CuFFTConvolution_AccGradParameters.cu,20,4.0,113.0
+fbcunn,C++,D:\clones\fbcunn\src\HalfPrecTest.cpp,19,2.0,112.0
+fbcunn,CUDA,D:\clones\fbcunn\test\CudaTensorTestKernels.cu,32,8.0,110.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_HSM.lua,12,3.0,108.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\LookupTableGPU.lua,12,19.0,105.0
+fbcunn,CUDA,D:\clones\fbcunn\src\fft\CuFFTConvolution_UpdateOutput.cu,19,4.0,105.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\src\BLASParameters.h,22,31.0,104.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_OneBitSGD.lua,22,1.0,101.0
+fbcunn,C++,D:\clones\fbcunn\src\OneBitQuantizationHost.cpp,26,6.0,99.0
+fbcunn,C++,D:\clones\fbcunn\src\SparseNLLCriterionHost.cpp,20,1.0,99.0
+fbcunn,CUDA,D:\clones\fbcunn\src\fft\CuFFTConvolution_UpdateGradInput.cu,17,4.0,93.0
+fbcunn,CUDA,D:\clones\fbcunn\src\TemporalKMaxPooling.cu,26,6.0,92.0
+fbcunn,C++,D:\clones\fbcunn\src\TemporalConvolutionTBCHost.cpp,24,1.0,90.0
+fbcunn,CUDA,D:\clones\fbcunn\src\SparseNLLCriterion.cu,17,11.0,86.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_OneBitDataParallel.lua,17,0.0,86.0
+fbcunn,C++,D:\clones\fbcunn\src\HalfPrec.cpp,18,3.0,84.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_CuBLAS.lua,11,15.0,81.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_SequentialCriterion.lua,11,4.0,81.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_SparseNLLCriterion.lua,9,4.0,81.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_Util.lua,16,1.0,79.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_GroupKMaxPooling.lua,38,14.0,76.0
+fbcunn,CUDA,D:\clones\fbcunn\src\fft\FFTIteratedConvolution.cu,13,11.0,74.0
+fbcunn,CUDA,D:\clones\fbcunn\src\LookupTableGPU.cu,22,26.0,72.0
+fbcunn,Lua,D:\clones\fbcunn\test\benchmark_fft.lua,16,19.0,71.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\init.lua,7,19.0,68.0
+fbcunn,CUDA,D:\clones\fbcunn\src\MM.cu,13,1.0,63.0
+fbcunn,Markdown,D:\clones\fbcunn\INSTALL.md,14,0.0,57.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_LinearNB.lua,17,3.0,56.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\src\CuBLASWrapper.h,13,32.0,53.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\src\CudaTensorUtils.h,16,15.0,53.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_OneBitQuantization.lua,22,18.0,53.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\TemporalConvolutionFB.lua,12,2.0,52.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\test\ReferenceConvolutions.h,12,44.0,51.0
+fbcunn,Lua,D:\clones\fbcunn\test\test_WeightedLookupTable.lua,19,6.0,51.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\src\fft\Utils.h,11,40.0,48.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\src\util\AsyncCopier.h,15,4.0,47.0
+fbcunn,Markdown,D:\clones\fbcunn\README.md,19,0.0,44.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\CuBLASWrapper.lua,6,1.0,42.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\test\TestUtils.h,14,16.0,42.0
+fbcunn,C++,D:\clones\fbcunn\src\WeightedLookupTableHost.cpp,14,3.0,41.0
+fbcunn,CUDA,D:\clones\fbcunn\src\fft\FBFFTDevice.cu,9,1.0,40.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\OneBitDataParallel.lua,9,9.0,39.0
+fbcunn,CUDA,D:\clones\fbcunn\src\util\Transform.cu,9,1.0,38.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\src\DeviceTensorUtils.h,11,6.0,37.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\FeatureLPPooling.lua,13,20.0,35.0
+fbcunn,C++,D:\clones\fbcunn\src\InitCuda.cpp,8,8.0,35.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\FFTCDefs.lua,1,0.0,33.0
+fbcunn,CUDA,D:\clones\fbcunn\src\WeightedLookupTable.cu,12,6.0,33.0
+fbcunn,CUDA,D:\clones\fbcunn\src\fft\CuFFTConvolution_AccGradParameters.cuh,8,3.0,32.0
+fbcunn,CUDA,D:\clones\fbcunn\src\fft\CuFFTConvolution_UpdateOutput.cuh,8,10.0,29.0
+fbcunn,CUDA,D:\clones\fbcunn\src\TemporalConvolutionTBC.cuh,5,1.0,28.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\OneBitQuantization.lua,7,5.0,27.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\TemporalKMaxPooling.lua,11,13.0,27.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\src\fft\FBFFTHost.h,6,5.0,27.0
+fbcunn,CUDA,D:\clones\fbcunn\src\CrossMapNormalization.cuh,5,4.0,26.0
+fbcunn,CUDA,D:\clones\fbcunn\src\util\Transform.cuh,8,7.0,25.0
+fbcunn,CUDA,D:\clones\fbcunn\src\fft\CuFFTConvolution_UpdateGradInput.cuh,8,10.0,24.0
+fbcunn,CMake,D:\clones\fbcunn\cmake\MultiLevelIncludes.cmake,2,27.0,23.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\src\util\Misc.h,10,1.0,23.0
+fbcunn,Lua,D:\clones\fbcunn\fbcunn\HalfPrecision.lua,6,1.0,22.0
+fbcunn,C++,D:\clones\fbcunn\src\util\GlobalAsyncCopier.cpp,8,4.0,22.0
+fbcunn,C++,D:\clones\fbcunn\src\BLASParameters.cpp,5,1.0,21.0
+fbcunn,CUDA,D:\clones\fbcunn\src\ConvolutionBias.cuh,7,13.0,20.0
+fbcunn,Bourne Shell,D:\clones\fbcunn\docs.sh,1,1.0,19.0
+fbcunn,CUDA,D:\clones\fbcunn\src\FeatureLPPooling.cuh,5,1.0,18.0
+fbcunn,CUDA,D:\clones\fbcunn\src\HalfPrecKernels.cu,4,1.0,18.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\src\fft\SpatialConvolutionCuFFT.h,8,1.0,18.0
+fbcunn,C++,D:\clones\fbcunn\src\util\Misc.cpp,7,3.0,18.0
+fbcunn,CUDA,D:\clones\fbcunn\src\TemporalKMaxPooling.cuh,5,1.0,17.0
+fbcunn,CUDA,D:\clones\fbcunn\src\OneBitQuantization.cuh,5,1.0,16.0
+fbcunn,CUDA,D:\clones\fbcunn\src\SparseNLLCriterion.cuh,5,1.0,15.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\src\HalfPrec.h,4,1.0,13.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\src\MM.h,6,1.0,12.0
+fbcunn,C++,D:\clones\fbcunn\src\Utils.cpp,3,2.0,11.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\src\util\GlobalAsyncCopier.h,6,4.0,11.0
+fbcunn,CUDA,D:\clones\fbcunn\test\InputCentricConvolution_UpdateOutput.cuh,4,1.0,11.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\src\fft\SpatialConvolutionCuFFTTuner.h,6,1.0,10.0
+fbcunn,CUDA,D:\clones\fbcunn\src\init.cu,5,0.0,10.0
+fbcunn,CUDA,D:\clones\fbcunn\test\CudaTensorTestKernels.cuh,7,7.0,10.0
+fbcunn,Bourne Shell,D:\clones\fbcunn\test\run_test_HSM_seed.sh,0,0.0,9.0
+fbcunn,CMake,D:\clones\fbcunn\cmake\FindGlog.cmake,5,10.0,8.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\src\Includes.h,4,0.0,8.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\src\Utils.h,5,0.0,8.0
+fbcunn,CMake,D:\clones\fbcunn\cmake\FindFolly.cmake,5,12.0,7.0
+fbcunn,CMake,D:\clones\fbcunn\cmake\FindTHPP.cmake,5,12.0,7.0
+fbcunn,CUDA,D:\clones\fbcunn\src\fft\Utils.cuh,4,3.0,7.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\src\Tensor.h,4,0.0,6.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\src\LuaUtils.h,4,0.0,5.0
+fbcunn,C/C++ Header,D:\clones\fbcunn\src\Storage.h,4,0.0,5.0
+fbcunn,Lua,D:\clones\fbcunn\test\fb_test.lua,2,0.0,4.0

@@ -1,0 +1,35 @@
+project,language,filename,blank,comment,code
+schema,ClojureC,D:\clones\schema\test\cljc\schema\core_test.cljc,232,49.0,1248.0
+schema,ClojureC,D:\clones\schema\src\cljc\schema\core.cljc,250,92.0,1124.0
+schema,Markdown,D:\clones\schema\LICENSE.md,89,0.0,510.0
+schema,Clojure,D:\clones\schema\src\clj\schema\macros.clj,35,10.0,343.0
+schema,Markdown,D:\clones\schema\README.md,113,0.0,290.0
+schema,Markdown,D:\clones\schema\CHANGELOG.md,51,0.0,180.0
+schema,Clojure,D:\clones\schema\src\clj\schema\experimental\generators.clj,36,9.0,173.0
+schema,ClojureC,D:\clones\schema\src\cljc\schema\coerce.cljc,20,4.0,127.0
+schema,ClojureC,D:\clones\schema\src\cljc\schema\utils.cljc,39,15.0,126.0
+schema,ClojureC,D:\clones\schema\src\cljc\schema\spec\collection.cljc,22,9.0,109.0
+schema,YAML,D:\clones\schema\.github\workflows\test.yml,3,2.0,88.0
+schema,ClojureC,D:\clones\schema\test\cljc\schema\coerce_test.cljc,14,1.0,88.0
+schema,Clojure,D:\clones\schema\src\clj\schema\experimental\complete.clj,11,5.0,86.0
+schema,ClojureC,D:\clones\schema\src\cljc\schema\spec\core.cljc,15,11.0,78.0
+schema,ClojureC,D:\clones\schema\src\cljc\schema\spec\variant.cljc,9,4.0,74.0
+schema,ClojureC,D:\clones\schema\src\cljc\schema\experimental\abstract_map.cljc,10,6.0,60.0
+schema,Clojure,D:\clones\schema\project.clj,10,0.0,56.0
+schema,Clojure,D:\clones\schema\test\clj\schema\experimental\complete_test.clj,8,0.0,53.0
+schema,Clojure,D:\clones\schema\test\clj\schema\experimental\generators_test.clj,10,0.0,52.0
+schema,ClojureC,D:\clones\schema\test\cljc\schema\experimental\abstract_map_test.cljc,8,0.0,41.0
+schema,Clojure,D:\clones\schema\test\clj\schema\macros_test.clj,2,0.0,29.0
+schema,Clojure,D:\clones\schema\test\clj\schema\test_macros.clj,3,0.0,23.0
+schema,ClojureC,D:\clones\schema\test\cljc\schema\utils_test.cljc,7,1.0,21.0
+schema,ClojureC,D:\clones\schema\src\cljc\schema\test.cljc,2,0.0,18.0
+schema,ClojureScript,D:\clones\schema\test\cljs\schema\test_runner.cljs,1,0.0,15.0
+schema,Bourne Shell,D:\clones\schema\bin\push_docs.sh,3,2.0,14.0
+schema,ClojureC,D:\clones\schema\src\cljc\schema\spec\leaf.cljc,4,2.0,14.0
+schema,ClojureC,D:\clones\schema\test\cljc\schema\test_test.cljc,3,0.0,12.0
+schema,Markdown,D:\clones\schema\CONTRIBUTING.md,8,0.0,11.0
+schema,Bourne Shell,D:\clones\schema\bin\setup_codox.sh,2,2.0,10.0
+schema,Clojure,D:\clones\schema\src\clj\schema\potemkin.clj,1,0.0,10.0
+schema,Bourne Shell,D:\clones\schema\bin\release.sh,1,1.0,5.0
+schema,ClojureC,D:\clones\schema\test\cljc\schema\other_namespace.cljc,1,0.0,5.0
+schema,Markdown,D:\clones\schema\.github\ISSUE_TEMPLATE.md,0,0.0,2.0

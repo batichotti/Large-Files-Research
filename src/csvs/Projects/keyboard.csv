@@ -1,0 +1,14 @@
+project,language,filename,blank,comment,code
+keyboard,JSON,D:\clones\keyboard\karabiner\karabiner.json,0,0.0,690.0
+keyboard,Lua,D:\clones\keyboard\hammerspoon\windows.lua,40,58.0,177.0
+keyboard,Markdown,D:\clones\keyboard\README.md,61,0.0,131.0
+keyboard,Lua,D:\clones\keyboard\hammerspoon\markdown.lua,17,33.0,62.0
+keyboard,Lua,D:\clones\keyboard\hammerspoon\status-message.lua,9,0.0,58.0
+keyboard,Lua,D:\clones\keyboard\hammerspoon\delete-words.lua,7,24.0,39.0
+keyboard,Lua,D:\clones\keyboard\hammerspoon\panes.lua,3,3.0,37.0
+keyboard,Lua,D:\clones\keyboard\hammerspoon\control-escape.lua,7,4.0,32.0
+keyboard,Lua,D:\clones\keyboard\hammerspoon\init.lua,7,12.0,22.0
+keyboard,Lua,D:\clones\keyboard\hammerspoon\windows-bindings-defaults.lua,2,24.0,22.0
+keyboard,Bourne Shell,D:\clones\keyboard\script\setup,11,9.0,19.0
+keyboard,Lua,D:\clones\keyboard\hammerspoon\hyper.lua,2,0.0,17.0
+keyboard,Lua,D:\clones\keyboard\hammerspoon\hyper-apps-defaults.lua,0,5.0,11.0

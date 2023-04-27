@@ -1,0 +1,1437 @@
+project,language,filename,blank,comment,code
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue7197-load\js\chunk-vendors.6e82bc79.js,6849,6493.0,32035.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\react-devtools-extension\react-devtools\build\panel.js,4420,7819.0,20573.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\react-devtools-extension\react-devtools\build\backend.js,1456,966.0,7015.0
+nw.js,Markdown,D:\clones\nw.js\CHANGELOG.md,323,0.0,2039.0
+nw.js,C++,D:\clones\nw.js\src\renderer\printing\print_web_view_helper.cc,276,153.0,1608.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\async\README.md,443,0.0,1434.0
+nw.js,HTML,D:\clones\nw.js\test\node_modules\ecstatic\coverage\lcov-report\lib\ecstatic.js.html,0,0.0,1223.0
+nw.js,C++,D:\clones\nw.js\src\nw_content.cc,152,55.0,1179.0
+nw.js,Python,D:\clones\nw.js\test\test.py,273,92.0,1159.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\async\lib\async.js,149,49.0,1067.0
+nw.js,C++,D:\clones\nw.js\src\nwjs_browsertest.cc,172,57.0,996.0
+nw.js,C++,D:\clones\nw.js\src\api\nw_window_api.cc,132,12.0,974.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\test\pack.js,82,12.0,858.0
+nw.js,JavaScript,D:\clones\nw.js\src\resources\api_nw_newwin.js,57,21.0,832.0
+nw.js,C++,D:\clones\nw.js\src\net\sqlite_persistent_cookie_store.cc,172,147.0,808.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\test\pack-no-proprietary.js,73,18.0,795.0
+nw.js,JavaScript,D:\clones\nw.js\src\resources\api_nw_window.js,44,12.0,738.0
+nw.js,HTML,D:\clones\nw.js\test\node_modules\ecstatic\coverage\lcov-report\lib\ecstatic\showdir.js.html,0,0.0,737.0
+nw.js,HTML,D:\clones\nw.js\test\node_modules\ecstatic\coverage\lcov-report\lib\ecstatic\opts.js.html,0,0.0,605.0
+nw.js,C++,D:\clones\nw.js\src\renderer\nw_extensions_renderer_hooks.cc,67,27.0,588.0
+nw.js,Python,D:\clones\nw.js\nw.gypi,2,10.0,566.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\minimatch.js,141,219.0,552.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue7197-load\js\app.6d98adfb.js,215,354.0,547.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue6056-spawn-crash\node_modules\dblite\build\dblite.node.js,59,348.0,524.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\glob.js,135,102.0,515.0
+nw.js,C++,D:\clones\nw.js\src\browser\autofill_popup_controller_impl.cc,129,46.0,491.0
+nw.js,C++,D:\clones\nw.js\src\browser\printing_handler.cc,71,22.0,447.0
+nw.js,C++,D:\clones\nw.js\src\renderer\shell_content_renderer_client.cc,89,62.0,436.0
+nw.js,Markdown,D:\clones\nw.js\docs\References\Window.md,265,0.0,424.0
+nw.js,C++,D:\clones\nw.js\src\browser\file_select_helper.cc,79,68.0,419.0
+nw.js,C++,D:\clones\nw.js\src\browser\printing\print_view_manager.cc,80,83.0,419.0
+nw.js,Python,D:\clones\nw.js\tools\package_binaries.py,43,47.0,406.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\http-proxy\README.md,99,0.0,394.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\test\parse.js,54,5.0,387.0
+nw.js,C++,D:\clones\nw.js\src\browser\printing\printing_message_filter.cc,42,22.0,382.0
+nw.js,C++,D:\clones\nw.js\src\nw_package.cc,86,63.0,381.0
+nw.js,HTML,D:\clones\nw.js\test\node_modules\ecstatic\coverage\lcov-report\lib\ecstatic\status-handlers.js.html,0,0.0,377.0
+nw.js,C++,D:\clones\nw.js\src\nw_custom_bindings.cc,51,27.0,365.0
+nw.js,Markdown,D:\clones\nw.js\test\sanity\issue6056-spawn-crash\node_modules\dblite\README.md,80,0.0,365.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\optimist\readme.markdown,155,0.0,358.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\test\parse.js,6,0.0,353.0
+nw.js,XML,D:\clones\nw.js\src\mac\English.lproj\HttpAuth.xib,0,0.0,350.0
+nw.js,C++,D:\clones\nw.js\src\browser\nw_chrome_browser_hooks.cc,52,18.0,343.0
+nw.js,C++,D:\clones\nw.js\src\browser\printing\print_dialog_gtk.cc,62,30.0,336.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\test\extract.js,25,8.0,334.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\sync.js,85,47.0,328.0
+nw.js,C++,D:\clones\nw.js\src\api\nw_screen_api.cc,68,17.0,324.0
+nw.js,C++,D:\clones\nw.js\src\browser\nw_extensions_browser_hooks.cc,55,16.0,323.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\ecstatic\lib\ecstatic.js,57,44.0,322.0
+nw.js,C++,D:\clones\nw.js\src\browser\pepper\pepper_flash_clipboard_message_filter.cc,36,24.0,316.0
+nw.js,Python,D:\clones\nw.js\test\sanity\nw_util.py,59,28.0,301.0
+nw.js,Markdown,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\README.md,80,0.0,297.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\qs\test\parse.js,113,4.0,296.0
+nw.js,C++,D:\clones\nw.js\src\api\nw_clipboard_api.cc,56,1.0,294.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\renderer\printing\print_web_view_helper.h,106,110.0,283.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\index.js,57,9.0,277.0
+nw.js,C++,D:\clones\nw.js\src\net\shell_url_request_context_getter.cc,47,28.0,274.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\node_modules\minimist\test\parse.js,39,5.0,274.0
+nw.js,C++,D:\clones\nw.js\src\browser\chrome_crash_reporter_client.cc,59,45.0,270.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\he\README.md,109,0.0,270.0
+nw.js,JavaScript,D:\clones\nw.js\test\auto\common.js,66,33.0,269.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\lib\writer.js,71,50.0,269.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\debug\CHANGELOG.md,95,0.0,267.0
+nw.js,Objective-C++,D:\clones\nw.js\src\api\shortcut\global_shortcut_listener_mac.mm,65,70.0,264.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\rimraf.js,45,24.0,264.0
+nw.js,C++,D:\clones\nw.js\src\browser\printing\print_job.cc,57,44.0,263.0
+nw.js,C++,D:\clones\nw.js\src\browser\printing\print_job_worker.cc,54,52.0,260.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\lib\header.js,66,59.0,260.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\test\usage.js,34,0.0,258.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\he\he.js,27,66.0,249.0
+nw.js,C++,D:\clones\nw.js\src\browser\autofill_popup_view_gtk.cc,62,20.0,245.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\nw_window_api.h,80,18.0,243.0
+nw.js,C++,D:\clones\nw.js\src\api\app\app.cc,37,38.0,242.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\union\README.md,88,0.0,235.0
+nw.js,C++,D:\clones\nw.js\src\api\nw_app_api.cc,45,5.0,228.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\debug\README.md,85,0.0,227.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\portfinder\lib\portfinder.js,50,178.0,226.0
+nw.js,C++,D:\clones\nw.js\src\media\media_stream_devices_controller.cc,36,28.0,208.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\graceful-fs\graceful-fs.js,38,7.0,206.0
+nw.js,Objective-C++,D:\clones\nw.js\src\browser\autofill_popup_view_cocoa.mm,41,30.0,204.0
+nw.js,Objective-C++,D:\clones\nw.js\src\api\menuitem\menuitem_mac.mm,47,22.0,201.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\minimist\index.js,32,3.0,201.0
+nw.js,C++,D:\clones\nw.js\src\api\shortcut\shortcut.cc,16,24.0,199.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\graceful-fs\polyfills.js,27,29.0,196.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\react-devtools-extension\react-devtools\build\inject.js,44,68.0,193.0
+nw.js,CSS,D:\clones\nw.js\test\node_modules\ecstatic\coverage\lcov-report\base.css,14,6.0,192.0
+nw.js,C++,D:\clones\nw.js\src\api\object_manager.cc,23,26.0,191.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\lib\parse.js,38,48.0,189.0
+nw.js,C++,D:\clones\nw.js\tools\payload.cc,41,30.0,189.0
+nw.js,C++,D:\clones\nw.js\src\renderer\printing\print_web_view_helper_pdf_win.cc,31,14.0,188.0
+nw.js,C++,D:\clones\nw.js\src\renderer\printing\print_web_view_helper_win.cc,34,30.0,184.0
+nw.js,C++,D:\clones\nw.js\src\renderer\autofill_agent.cc,40,35.0,182.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\lib\dir-reader.js,42,28.0,182.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\common.js,38,27.0,180.0
+nw.js,Markdown,D:\clones\nw.js\docs\References\Manifest Format.md,128,0.0,179.0
+nw.js,C++,D:\clones\nw.js\src\browser\autofill_popup_base_view.cc,41,21.0,179.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\ecstatic\README.md,84,0.0,178.0
+nw.js,JavaScript,D:\clones\nw.js\src\resources\api_nw_shortcut.js,37,13.0,177.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\lib\reader.js,41,37.0,177.0
+nw.js,XML,D:\clones\nw.js\src\resources\nw_strings.grd,0,1.0,174.0
+nw.js,JavaScript,D:\clones\nw.js\src\resources\api_nw_menu.js,19,0.0,173.0
+nw.js,C++,D:\clones\nw.js\src\renderer\pepper_uma_host.cc,26,10.0,172.0
+nw.js,C++,D:\clones\nw.js\src\api\menuitem\menuitem_views.cc,35,22.0,171.0
+nw.js,C++,D:\clones\nw.js\src\api\screen\desktop_capture_api.cc,39,13.0,169.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\node_modules\minimist\test\parse.js,26,4.0,167.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\corser\lib\corser.js,8,55.0,165.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\test\header.js,13,5.0,165.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\qs\README.md,59,0.0,163.0
+nw.js,JavaScript,D:\clones\nw.js\src\resources\api_nw_menuitem.js,45,2.0,162.0
+nw.js,C++,D:\clones\nw.js\src\browser\pepper\pepper_isolated_file_system_message_filter.cc,24,18.0,160.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\ecstatic\lib\ecstatic\opts.js,22,1.0,157.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\node_modules\minimist\index.js,27,3.0,157.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\node_modules\minimist\index.js,27,3.0,157.0
+nw.js,Markdown,D:\clones\nw.js\docs\References\Screen.md,64,0.0,156.0
+nw.js,JavaScript,D:\clones\nw.js\src\api\menu\menu.js,19,21.0,156.0
+nw.js,C++,D:\clones\nw.js\src\browser\nw_content_browser_hooks.cc,39,23.0,156.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\lib\pack.js,47,33.0,156.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\http-server\test\http-server-test.js,3,0.0,155.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\test\dir-normalization.js,20,2.0,155.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\index.js,31,8.0,152.0
+nw.js,C++,D:\clones\nw.js\src\renderer\printing\print_web_view_helper_linux.cc,28,12.0,151.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\lib\entry.js,39,30.0,151.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Users\Advanced\JavaScript Contexts in NW.js.md,77,0.0,148.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\eventemitter3\index.js,44,97.0,148.0
+nw.js,C++,D:\clones\nw.js\src\api\menu\menu_views.cc,34,34.0,147.0
+nw.js,Markdown,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\README.md,70,0.0,146.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\minimist\test\bool.js,20,1.0,145.0
+nw.js,C++,D:\clones\nw.js\src\net\app_protocol_handler.cc,25,18.0,142.0
+nw.js,JavaScript,D:\clones\nw.js\src\api\menuitem\menuitem.js,42,24.0,141.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\lib\response-stream.js,41,23.0,139.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\block-stream\block-stream.js,23,47.0,139.0
+nw.js,Markdown,D:\clones\nw.js\docs\References\App.md,66,0.0,138.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\tar.js,17,18.0,138.0
+nw.js,Python,D:\clones\nw.js\test\sanity\crash-dump-report\crash_server.py,38,31.0,137.0
+nw.js,C++,D:\clones\nw.js\src\api\menuitem\menuitem_gtk.cc,29,20.0,135.0
+nw.js,Python,D:\clones\nw.js\test\testpy\__init__.py,30,31.0,133.0
+nw.js,C++,D:\clones\nw.js\src\net\shell_network_delegate.cc,25,3.0,132.0
+nw.js,Objective-C++,D:\clones\nw.js\src\nw_content_mac.mm,43,2.0,132.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\ecstatic\lib\ecstatic\show-dir\index.js,27,20.0,132.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\ecstatic\coverage\lcov-report\sorter.js,12,15.0,131.0
+nw.js,C++,D:\clones\nw.js\src\api\shortcut\global_shortcut_listener_x11.cc,34,30.0,129.0
+nw.js,HTML,D:\clones\nw.js\test\node_modules\ecstatic\coverage\lcov-report\lib\ecstatic\index.html,4,0.0,128.0
+nw.js,C++,D:\clones\nw.js\src\media\media_capture_devices_dispatcher.cc,24,4.0,127.0
+nw.js,C++,D:\clones\nw.js\src\api\bindings_common.cc,27,19.0,125.0
+nw.js,JavaScript,D:\clones\nw.js\src\resources\api_nw_tray.js,35,2.0,125.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\mime\CHANGELOG.md,39,0.0,125.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue6171-sdk-start-crash\index.html,7,5.0,124.0
+nw.js,C++,D:\clones\nw.js\src\api\menuitem\menuitem.cc,16,20.0,123.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\qs\test\stringify.js,52,4.0,123.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\lib\extended-header-writer.js,36,32.0,123.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Users\Getting Started.md,46,0.0,121.0
+nw.js,C++,D:\clones\nw.js\src\api\screen\screen.cc,27,23.0,121.0
+nw.js,C++,D:\clones\nw.js\src\nw_content_verifier_delegate.cc,25,8.0,121.0
+nw.js,JavaScript,D:\clones\nw.js\src\resources\api_nw_app.js,9,1.0,120.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\colors\ReadMe.md,47,0.0,120.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\debug\src\node.js,47,81.0,120.0
+nw.js,C++,D:\clones\nw.js\src\browser\nw_autofill_client.cc,30,10.0,118.0
+nw.js,C++,D:\clones\nw.js\src\browser\popup_controller_common.cc,25,18.0,118.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\colors\lib\colors.js,32,26.0,118.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\lib\entry-writer.js,36,15.0,118.0
+nw.js,Objective-C++,D:\clones\nw.js\src\renderer\printing\print_web_view_helper_mac.mm,23,5.0,117.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Developers\Building NW.js.md,44,0.0,116.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\corser\README.md,86,0.0,116.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\http-proxy\lib\http-proxy\index.js,36,32.0,116.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\file_select_helper.h,39,50.0,115.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\http-server\package.json,0,0.0,115.0
+nw.js,Objective-C++,D:\clones\nw.js\src\api\nw_window_api_mac.mm,29,12.0,114.0
+nw.js,Objective-C++,D:\clones\nw.js\src\browser\autofill_popup_base_view_cocoa.mm,38,23.0,114.0
+nw.js,Objective-C++,D:\clones\nw.js\src\browser\color_chooser_mac.mm,33,14.0,114.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\examples\filter-pipe.js,15,5.0,114.0
+nw.js,C++,D:\clones\nw.js\src\api\menu\menu_gtk.cc,21,30.0,113.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\async\package.json,0,0.0,113.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Users\Advanced\Use NaCl in NW.js.md,48,0.0,112.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\lib\dir-writer.js,29,33.0,112.0
+nw.js,C++,D:\clones\nw.js\src\api\nw_object_api.cc,27,0.0,110.0
+nw.js,C++,D:\clones\nw.js\src\api\nw_shortcut_api.cc,24,4.0,110.0
+nw.js,C++,D:\clones\nw.js\src\browser\menubar_controller.cc,23,5.0,110.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\nw_content.h,12,0.0,110.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\http-proxy\lib\http-proxy\common.js,34,105.0,110.0
+nw.js,Markdown,D:\clones\nw.js\README.md,43,0.0,108.0
+nw.js,IDL,D:\clones\nw.js\src\api\nw_window.idl,6,0.0,108.0
+nw.js,C++,D:\clones\nw.js\src\browser\capture_page_helper.cc,26,24.0,108.0
+nw.js,HTML,D:\clones\nw.js\src\resources\pages\print_preview_page.html,7,0.0,108.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\autofill_popup_controller_impl.h,44,48.0,107.0
+nw.js,C++,D:\clones\nw.js\src\net\resource_request_job.cc,21,26.0,107.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\lib\extended-header.js,19,14.0,107.0
+nw.js,C++,D:\clones\nw.js\src\browser\autofill_popup_view_views.cc,28,9.0,106.0
+nw.js,C++,D:\clones\nw.js\src\browser\printing\printer_query.cc,26,12.0,106.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\lib\file-reader.js,21,23.0,106.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\nw_app_api.h,37,5.0,105.0
+nw.js,C++,D:\clones\nw.js\src\browser\printing\print_job_manager.cc,14,7.0,105.0
+nw.js,XML,D:\clones\nw.js\test\data\PepperFlash\mac\PepperFlashPlayer.plugin\Contents\_CodeSignature\CodeResources,0,0.0,105.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\http-server\lib\http-server.js,23,13.0,105.0
+nw.js,C++,D:\clones\nw.js\src\browser\nw_constrained_window_views_client.cc,20,15.0,104.0
+nw.js,HTML,D:\clones\nw.js\test\node_modules\ecstatic\coverage\lcov-report\index.html,2,0.0,104.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\qs\lib\parse.js,44,9.0,104.0
+nw.js,Python,D:\clones\nw.js\test\sanity\package\test.py,15,4.0,104.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\node_modules\minimist\test\bool.js,15,1.0,103.0
+nw.js,Python,D:\clones\nw.js\tools\file_util.py,16,22.0,103.0
+nw.js,JavaScript,D:\clones\nw.js\src\api\tray\tray.js,28,23.0,102.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\test\extract-move.js,22,8.0,102.0
+nw.js,JavaScript,D:\clones\nw.js\src\api\app\app.js,28,20.0,101.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\ms\index.js,11,40.0,101.0
+nw.js,Python,D:\clones\nw.js\tools\make-nw-headers.py,17,7.0,101.0
+nw.js,C++,D:\clones\nw.js\src\browser\nw_form_database_service.cc,18,9.0,100.0
+nw.js,C++,D:\clones\nw.js\src\browser\pepper\pepper_flash_browser_host.cc,17,16.0,100.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\examples\pipe.js,15,3.0,100.0
+nw.js,Objective-C++,D:\clones\nw.js\src\browser\file_select_helper_mac.mm,28,15.0,99.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\debug\src\debug.js,38,65.0,99.0
+nw.js,Objective-C++,D:\clones\nw.js\src\browser\standard_menus_mac.mm,32,24.0,98.0
+nw.js,Windows Resource File,D:\clones\nw.js\src\shell.rc,21,31.0,97.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\colors\lib\custom\zalgo.js,5,2.0,97.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Developers\Enable Proprietary Codecs.md,36,0.0,96.0
+nw.js,Markdown,D:\clones\nw.js\docs\References\MenuItem.md,46,0.0,95.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\menu\menu.h,32,29.0,95.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\lib\buffered-stream.js,24,22.0,95.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\window-resizeto\index.html,7,0.0,95.0
+nw.js,Objective-C++,D:\clones\nw.js\src\api\tray\tray_mac.mm,17,23.0,94.0
+nw.js,HTML,D:\clones\nw.js\test\manual\window\index.html,7,0.0,94.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\minimist\test\unknown.js,9,0.0,93.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\window-id-maximize\index.html,0,0.0,93.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\menuitem\menuitem.h,28,25.0,92.0
+nw.js,C++,D:\clones\nw.js\src\renderer\nw_render_view_observer.cc,25,23.0,92.0
+nw.js,HTML,D:\clones\nw.js\test\node_modules\ecstatic\coverage\lcov-report\lib\index.html,1,0.0,92.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\printing\print_job.h,53,68.0,91.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\colors\lib\extendStringPrototype.js,17,10.0,91.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\ecstatic\lib\ecstatic\status-handlers.js,7,6.0,91.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\http-proxy\lib\http-proxy\passes\web-incoming.js,32,57.0,91.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\qs\lib\utils.js,40,2.0,90.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\graceful-fs\legacy-streams.js,26,2.0,90.0
+nw.js,XML,D:\clones\nw.js\src\mac\app-Info.plist,0,0.0,89.0
+nw.js,Python,D:\clones\nw.js\tools\aws_uploader.py,24,15.0,89.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\debug\package.json,0,0.0,88.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\he\package.json,0,0.0,88.0
+nw.js,XML,D:\clones\nw.js\src\resources\nw_resources.grd,0,2.0,87.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\async\CHANGELOG.md,38,0.0,87.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\ecstatic\CHANGELOG.md,24,0.0,87.0
+nw.js,Python,D:\clones\nw.js\test\sanity\crash-dump-report\test.py,18,10.0,87.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\debug\src\browser.js,28,71.0,86.0
+nw.js,HTML,D:\clones\nw.js\test\node_modules\ecstatic\coverage\lcov-report\lib\ecstatic\etag.js.html,0,0.0,86.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\test\simple-test.js,4,7.0,86.0
+nw.js,CSS,D:\clones\nw.js\test\sanity\issue6171-sdk-start-crash\css\pdftest.css,15,3.0,86.0
+nw.js,C++,D:\clones\nw.js\src\api\shortcut\global_shortcut_listener.cc,22,30.0,85.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\printing\print_view_manager.h,49,66.0,85.0
+nw.js,C++,D:\clones\nw.js\src\media\media_internals.cc,21,19.0,84.0
+nw.js,C++,D:\clones\nw.js\src\policy_cert_verifier.cc,15,4.0,84.0
+nw.js,Markdown,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\README.md,38,0.0,84.0
+nw.js,C++,D:\clones\nw.js\src\browser\menubar_view.cc,18,6.0,83.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\node_modules\concat-map\package.json,0,0.0,83.0
+nw.js,Python,D:\clones\nw.js\tools\git_util.py,23,20.0,83.0
+nw.js,Markdown,D:\clones\nw.js\docs\References\Menu.md,42,0.0,82.0
+nw.js,Markdown,D:\clones\nw.js\docs\References\Shortcut.md,30,0.0,81.0
+nw.js,C++,D:\clones\nw.js\src\api\tray\tray_aura.cc,22,19.0,81.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\requires-port\test.js,17,0.0,81.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\lib\proxy-writer.js,18,12.0,81.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\inflight\test.js,16,0.0,81.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue5762-user-data-dir\test.py,15,4.0,79.0
+nw.js,C++,D:\clones\nw.js\src\api\shortcut\global_shortcut_listener_win.cc,20,23.0,78.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\http-proxy\lib\http-proxy\passes\ws-incoming.js,28,50.0,78.0
+nw.js,Python,D:\clones\nw.js\test\sanity\additional_trust_anchors\test.py,15,13.0,78.0
+nw.js,Python,D:\clones\nw.js\tools\patcher.py,23,20.0,78.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\media\media_capture_devices_dispatcher.h,23,26.0,77.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\lib\file-writer.js,23,7.0,77.0
+nw.js,Python,D:\clones\nw.js\tools\roll-deps.py,21,16.0,77.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\nw_autofill_client.h,17,19.0,76.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\http-proxy\package.json,0,0.0,76.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\index.js,14,8.0,76.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\net\shell_url_request_context_getter.h,21,22.0,75.0
+nw.js,C++,D:\clones\nw.js\src\renderer\shell_render_process_observer.cc,16,25.0,75.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\eventemitter3\package.json,0,0.0,75.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\lib\core.js,18,15.0,75.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\package.json,0,0.0,75.0
+nw.js,Bourne Shell,D:\clones\nw.js\tools\sysroot_ld_path.sh,14,11.0,75.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\object_manager.h,22,23.0,74.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\package.json,0,0.0,74.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\requires-port\package.json,0,0.0,74.0
+nw.js,Python,D:\clones\nw.js\test\sanity\testcfg.py,21,0.0,74.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\window-id-pos\index.html,0,0.0,74.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\window-id\index.html,0,0.0,74.0
+nw.js,Python,D:\clones\nw.js\tools\sign\sign.py,15,11.0,74.0
+nw.js,Markdown,D:\clones\nw.js\docs\References\Changes to DOM.md,44,0.0,73.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\printing\printing_message_filter.h,28,26.0,73.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\http-proxy\lib\http-proxy\passes\web-outgoing.js,15,50.0,73.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\mime\package.json,0,0.0,73.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\minimist\package.json,0,0.0,73.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue6231-linux-websocket-more-than-2-connections\index.html,8,0.0,73.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\graceful-fs\package.json,0,0.0,73.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\node_modules\balanced-match\package.json,0,0.0,73.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\package.json,0,0.0,73.0
+nw.js,Bourne Again Shell,D:\clones\nw.js\tools\dump_mac_syms,24,64.0,73.0
+nw.js,C++,D:\clones\nw.js\src\api\menu\menu_delegate.cc,23,19.0,72.0
+nw.js,HTML,D:\clones\nw.js\test\auto\node-readdir\index.html,20,0.0,72.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\lib\abstract.js,12,1.0,72.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\lib\proxy-reader.js,18,5.0,72.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Developers\Writing Test Cases for NW.js.md,30,0.0,71.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\mkdirp\node_modules\minimist\package.json,0,0.0,71.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\optimist\node_modules\minimist\package.json,0,0.0,71.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\react-devtools-extension\react-devtools\build\background.js,21,26.0,71.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\package.json,0,0.0,71.0
+nw.js,Markdown,D:\clones\nw.js\docs\References\Clipboard.md,36,0.0,70.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\path-is-absolute\package.json,0,0.0,70.0
+nw.js,YAML,D:\clones\nw.js\mkdocs.yml,0,0.0,69.0
+nw.js,C++,D:\clones\nw.js\src\browser\pepper\chrome_browser_pepper_host_factory.cc,13,12.0,69.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ms\package.json,0,0.0,69.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4521-notification-perm\test.py,34,27.0,69.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\tar\node_modules\tar\package.json,0,0.0,69.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Users\Package and Distribute.md,40,0.0,68.0
+nw.js,Objective-C++,D:\clones\nw.js\src\api\nw_menu_api_mac.mm,8,0.0,68.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\screen\desktop_capture_api.h,31,16.0,68.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\common\shell_switches.h,13,5.0,68.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\renderer\shell_content_renderer_client.h,23,22.0,68.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\optimist\package.json,0,0.0,68.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\portfinder\package.json,0,0.0,68.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Users\Advanced\Use Native Node Modules.md,27,0.0,67.0
+nw.js,C++,D:\clones\nw.js\src\browser\net_disk_cache_remover.cc,15,6.0,67.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\minimist\readme.markdown,24,0.0,67.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4579-capture-remote\index.html,9,0.0,67.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue5787-MediaElementAudioSource\test.html,7,0.0,67.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue6056-spawn-crash\node_modules\dblite\package.json,0,0.0,67.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\lib\link-writer.js,13,15.0,67.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\node_modules\minimist\package.json,0,0.0,67.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Developers\Writing Documents for NW.js.md,22,0.0,66.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\common\node_hooks.h,5,0.0,66.0
+nw.js,HTML,D:\clones\nw.js\test\manual\window\popup.html,14,0.0,66.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\eventemitter3\README.md,23,0.0,66.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\wordwrap\package.json,0,0.0,66.0
+nw.js,Python,D:\clones\nw.js\test\sanity\clipboard\test.py,8,0.0,66.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue7197-load\nw-main.js,7,46.0,66.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\screen-choosedekstopmedia\index.html,5,0.0,66.0
+nw.js,Objective-C++,D:\clones\nw.js\src\browser\chrome_event_processing_window.mm,19,22.0,65.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\lib\ecstatic\show-dir\icons.json,0,0.0,65.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\lib\routing-stream.js,14,47.0,65.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\union\package.json,0,0.0,65.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\wordwrap\index.js,11,0.0,65.0
+nw.js,C++,D:\clones\nw.js\src\api\tray\tray.cc,14,19.0,64.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\autofill_popup_view_gtk.h,24,12.0,64.0
+nw.js,C++,D:\clones\nw.js\src\browser\color_chooser_win.cc,18,10.0,64.0
+nw.js,C++,D:\clones\nw.js\src\browser\media_capture_util.cc,16,8.0,64.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\media\media_internals.h,23,20.0,64.0
+nw.js,JavaScript,D:\clones\nw.js\src\resources\api_nw_screen.js,11,4.0,64.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\url-join\test\tests.js,18,0.0,64.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\lib\extract.js,17,13.0,64.0
+nw.js,C++,D:\clones\nw.js\src\browser\color_chooser_dialog.cc,13,6.0,63.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\renderer\autofill_agent.h,17,38.0,63.0
+nw.js,Markdown,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\README.md,13,0.0,63.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\node_modules\minimist\test\short.js,4,0.0,63.0
+nw.js,Markdown,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\readme.markdown,37,0.0,63.0
+nw.js,Python,D:\clones\nw.js\test\sanity\webview-localfile\test.py,10,0.0,63.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\mkdirp\package.json,0,0.0,62.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\package.json,0,0.0,62.0
+nw.js,Objective-C++,D:\clones\nw.js\src\api\menu\menu_mac.mm,14,28.0,61.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\nw_object_api.h,22,0.0,61.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\tray\tray.h,17,28.0,61.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\printing\print_job_worker.h,34,51.0,61.0
+nw.js,C++,D:\clones\nw.js\src\common\shell_switches.cc,25,38.0,61.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\corser\package.json,0,0.0,61.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\ecstatic\CONTRIBUTING.md,25,0.0,61.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\test\streaming-test.js,7,0.0,61.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\inflight\package.json,0,0.0,61.0
+nw.js,Python,D:\clones\nw.js\tools\build_native_modules.py,21,4.0,61.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\api_messages.h,21,27.0,60.0
+nw.js,C++,D:\clones\nw.js\src\api\menu\menu.cc,9,19.0,60.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\printing\print_dialog_gtk.h,18,14.0,60.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\ecstatic\CONTRIBUTORS.md,2,0.0,60.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue5097-packaged-create-file-in-arg\test.py,14,7.0,60.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\package.json,0,0.0,60.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\package.json,0,0.0,60.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\once\package.json,0,0.0,60.0
+nw.js,JSON,D:\clones\nw.js\src\api\_api_features.json,2,0.0,59.0
+nw.js,C++,D:\clones\nw.js\src\browser\login_view.cc,21,9.0,59.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\printing_handler.h,13,6.0,59.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\autofill_popup_base_view.h,24,17.0,58.0
+nw.js,JavaScript,D:\clones\nw.js\src\resources\api_nw_clipboard.js,10,6.0,58.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\mime\README.md,32,0.0,58.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\react-devtools-extension\react-devtools\build\main.js,20,28.0,58.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\block-stream\test\pause-resume.js,10,5.0,58.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\printing\printer_query.h,27,26.0,57.0
+nw.js,C++,D:\clones\nw.js\src\nw_base.cc,13,0.0,57.0
+nw.js,HTML,D:\clones\nw.js\src\resources\pages\fatal_error.html,11,0.0,57.0
+nw.js,HTML,D:\clones\nw.js\src\resources\pages\package_error.html,11,0.0,57.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\opener\package.json,0,0.0,57.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\qs\package.json,0,0.0,57.0
+nw.js,C++,D:\clones\nw.js\src\api\clipboard\clipboard.cc,11,19.0,56.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\net\shell_network_delegate.h,12,4.0,56.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\url-join\package.json,0,0.0,56.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\dom-storage-quota\index.html,5,0.0,56.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\examples\reader.js,10,2.0,56.0
+nw.js,Markdown,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\node_modules\balanced-match\README.md,24,0.0,56.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Users\Advanced\Support for Mac App Store.md,22,0.0,55.0
+nw.js,Markdown,D:\clones\nw.js\docs\References\webview Tag.md,24,0.0,55.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\chrome_crash_reporter_client.h,17,4.0,55.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\capture_page\index.html,6,0.0,55.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\clipboard\index.html,0,0.0,55.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue4521-notification-perm\server.js,10,8.0,55.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\react-devtools-extension\react-devtools\build\contentScript.js,21,26.0,55.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\server.js,10,8.0,55.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\block-stream\package.json,0,0.0,55.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\node_modules\balanced-match\test\balanced.js,1,0.0,55.0
+nw.js,Markdown,D:\clones\nw.js\docs\References\Tray.md,35,0.0,54.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\nw_screen_api.h,21,6.0,54.0
+nw.js,Objective-C++,D:\clones\nw.js\src\browser\app_controller_mac.mm,12,29.0,54.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\colors\package.json,0,0.0,54.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\test\_.js,17,0.0,54.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\tar\index.html,8,0.0,54.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\block-stream\bench\block-stream-pause.js,11,5.0,54.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\block-stream\bench\dropper-pause.js,11,5.0,54.0
+nw.js,Python,D:\clones\nw.js\test\utils.py,12,32.0,54.0
+nw.js,Markdown,D:\clones\nw.js\docs\index.md,6,0.0,53.0
+nw.js,C++,D:\clones\nw.js\src\renderer\nw_content_renderer_hooks.cc,11,5.0,53.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\qs\lib\stringify.js,22,2.0,53.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4877-inject-webview\test.py,8,0.0,53.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\screen-desktopcapturemonitor\index.html,7,0.0,53.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Users\FAQ.md,23,0.0,52.0
+nw.js,JavaScript,D:\clones\nw.js\src\api\screen\screen.js,12,25.0,52.0
+nw.js,C++,D:\clones\nw.js\src\api\tray\tray_gtk.cc,16,21.0,52.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\pepper\pepper_flash_clipboard_message_filter.h,15,11.0,52.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\nw_package.h,35,39.0,52.0
+nw.js,HTML,D:\clones\nw.js\test\full\shortcut-normal\index.html,0,0.0,52.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\block-stream\bench\block-stream.js,11,5.0,52.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\block-stream\bench\dropper.js,11,5.0,52.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\block-stream\test\nopad-thorough.js,11,5.0,52.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\block-stream\test\thorough.js,11,5.0,52.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\once\node_modules\wrappy\package.json,0,0.0,52.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\shortcut\shortcut_constants.h,6,19.0,51.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\pepper\pepper_isolated_file_system_message_filter.h,20,10.0,51.0
+nw.js,HTML,D:\clones\nw.js\test\full\shortcut-event\index.html,1,0.0,51.0
+nw.js,Python,D:\clones\nw.js\test\full\shortcut-failure\test.py,8,0.0,51.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\mime\mime.js,19,38.0,51.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\app-getproxyforurl\index.html,3,0.0,51.0
+nw.js,Markdown,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\node_modules\minimist\readme.markdown,22,0.0,51.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Users\Advanced\Test with ChromeDriver.md,18,0.0,50.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Users\Migration\From 0.12 to 0.13.md,19,0.0,50.0
+nw.js,C++,D:\clones\nw.js\src\api\shell\shell.cc,10,20.0,50.0
+nw.js,C++,D:\clones\nw.js\src\browser\browser_view_layout.cc,21,3.0,50.0
+nw.js,C++,D:\clones\nw.js\src\browser\color_chooser_aura.cc,12,6.0,50.0
+nw.js,JSON,D:\clones\nw.js\test\data\PepperFlash\linux_ia32\manifest.json,0,0.0,50.0
+nw.js,JSON,D:\clones\nw.js\test\data\PepperFlash\linux_x64\manifest.json,0,0.0,50.0
+nw.js,JSON,D:\clones\nw.js\test\data\PepperFlash\mac\manifest.json,0,0.0,50.0
+nw.js,JSON,D:\clones\nw.js\test\data\PepperFlash\win_ia32\manifest.json,0,0.0,50.0
+nw.js,JSON,D:\clones\nw.js\test\data\PepperFlash\win_x64\manifest.json,0,0.0,50.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\qs\CHANGELOG.md,18,0.0,50.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\wordwrap\README.markdown,20,0.0,50.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue5882-debugging-tools-crash\test.py,7,0.0,50.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\inherits\package.json,0,0.0,50.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\shortcut\global_shortcut_listener_mac.h,27,46.0,49.0
+nw.js,C++,D:\clones\nw.js\src\api\shortcut\shortcut_constants.cc,4,19.0,49.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\popup_controller_common.h,23,33.0,49.0
+nw.js,CSS,D:\clones\nw.js\test\data\platform_apps\local_pdf\app.css,7,0.0,49.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\examples\simple\simple.js,11,0.0,49.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\test\double-write-test.js,6,7.0,49.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue7182-cors\remote.html,4,0.0,49.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue7305-nwfaketop-cookie\test.py,9,0.0,49.0
+nw.js,Python,D:\clones\nw.js\test\sanity\new-win-policy\test.py,6,1.0,49.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\lib\collect.js,12,7.0,49.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\event\event.h,17,18.0,48.0
+nw.js,IDL,D:\clones\nw.js\src\api\nw_current_window_internal.idl,3,0.0,48.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\nw_content_browser_hooks.h,16,29.0,48.0
+nw.js,Objective-C++,D:\clones\nw.js\src\paths_mac.mm,14,26.0,48.0
+nw.js,HTML,D:\clones\nw.js\src\resources\pages\shell_devtools_discovery_page.html,6,0.0,48.0
+nw.js,Python,D:\clones\nw.js\test\full\shortcut-normal\test.py,6,0.0,48.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue7305-nwfaketop-cookie\server.js,7,1.0,48.0
+nw.js,Python,D:\clones\nw.js\test\sanity\screen-desktopcapturemonitor\test.py,9,0.0,48.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Users\Advanced\Customize Menubar.md,24,0.0,47.0
+nw.js,Objective-C++,D:\clones\nw.js\src\browser\chrome_crash_reporter_client_mac.mm,11,4.0,47.0
+nw.js,HTML,D:\clones\nw.js\test\full\shortcut-failure\index.html,0,0.0,47.0
+nw.js,XML,D:\clones\nw.js\test\data\PepperFlash\mac\PepperFlashPlayer.plugin\Contents\Info.plist,0,0.0,46.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4269-click-link-crash\test.py,7,0.0,46.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue5220-nwjc-buffer\index.html,6,0.0,46.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue5781-X-Frame-Options\test.py,7,0.0,46.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue7305-nwfaketop-cookie-neg\test.py,10,0.0,46.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4788-openremote-cdtopen\test.py,10,14.0,45.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue6061-bincrash\test.py,4,0.0,45.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue6136-nwjs-history-escapes-iframe\test.py,10,0.0,45.0
+nw.js,IDL,D:\clones\nw.js\src\api\nw_screen.idl,9,0.0,44.0
+nw.js,HTML,D:\clones\nw.js\test\full\issue2261-disable-menu-hotkey\index.html,7,0.0,44.0
+nw.js,Python,D:\clones\nw.js\test\full\shortcut-creation\test.py,8,0.0,44.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\colors\lib\custom\trap.js,1,0.0,44.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\colors\lib\styles.js,13,20.0,44.0
+nw.js,Python,D:\clones\nw.js\test\sanity\cookie-lost-devtools-close\test.py,7,8.0,44.0
+nw.js,Python,D:\clones\nw.js\test\sanity\iframe-remote-neg\test.py,8,14.0,44.0
+nw.js,Python,D:\clones\nw.js\test\sanity\iframe-remote\test.py,8,14.0,44.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue5020-nested-loop\index.html,1,0.0,44.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\block-stream\test\nopad.js,13,0.0,44.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\win-move\index.html,2,0.0,44.0
+nw.js,Markdown,D:\clones\nw.js\docs\References\Command Line Options.md,35,0.0,43.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\nw_clipboard_api.h,18,0.0,43.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\shortcut\global_shortcut_listener_x11.h,16,29.0,43.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\capture_page_helper.h,22,25.0,43.0
+nw.js,C++,D:\clones\nw.js\src\common\nw_content_common_hooks.cc,8,4.0,43.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\opener\README.md,14,0.0,43.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\portfinder\README.md,12,0.0,43.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue3780-jailed\test.py,3,0.0,43.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4221-win-open-manifest\test.py,4,0.0,43.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue5980-aws-sdk-embedded-youtobe-video-crash\test.py,6,0.0,43.0
+nw.js,Python,D:\clones\nw.js\test\sanity\nwjc\test.py,3,0.0,43.0
+nw.js,Markdown,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\node_modules\concat-map\README.markdown,19,0.0,43.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\nw_chrome_browser_hooks.h,12,9.0,42.0
+nw.js,C++,D:\clones\nw.js\src\browser\pepper\pepper_broker_message_filter.cc,11,3.0,42.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\http-server\README.md,34,0.0,42.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\test\prop-test.js,3,0.0,42.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue5943-mac-dblite-module-with-node8-crash\package.json,0,0.0,42.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue6056-spawn-crash\package.json,0,0.0,42.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue6324-extension_all_frame_true_exit\test_ext\manifest.json,0,0.0,42.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\block-stream\test\two-stream.js,14,3.0,42.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\base\base.h,14,19.0,41.0
+nw.js,IDL,D:\clones\nw.js\src\api\nw_app.idl,1,0.0,41.0
+nw.js,C++,D:\clones\nw.js\src\api\object_manager_factory.cc,13,6.0,41.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\pepper\pepper_flash_browser_host.h,14,5.0,41.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue5087-webview-cleardata\test.py,8,0.0,41.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue7305-nwfaketop-cookie-neg\https-server.py,6,1.0,41.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\once\node_modules\wrappy\test\basic.js,8,2.0,41.0
+nw.js,Python,D:\clones\nw.js\test\sanity\window-id\test.py,12,0.0,41.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\shortcut\global_shortcut_listener.h,21,54.0,40.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\nw_extensions_browser_hooks.h,13,11.0,40.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\printing\print_job_manager.h,23,17.0,40.0
+nw.js,C++,D:\clones\nw.js\src\geolocation\shell_access_token_store.cc,10,5.0,40.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\test\body-parser-test.js,3,7.0,40.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue7182-cors\test.py,6,0.0,40.0
+nw.js,Python,D:\clones\nw.js\test\sanity\module-bin\test.py,3,0.0,40.0
+nw.js,Markdown,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\once\README.md,11,0.0,40.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\menubar_controller.h,13,0.0,39.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\net\sqlite_persistent_cookie_store.h,14,12.0,39.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\examples\simple\middleware\favicon.js,10,47.0,39.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue5943-mac-dblite-module-with-node8-crash\start.html,9,8.0,39.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue6001-devtools-open-crash\test.py,6,0.0,39.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue6056-spawn-crash\start.html,11,8.0,39.0
+nw.js,Python,D:\clones\nw.js\test\sanity\webview-node-remote\test.py,9,0.0,39.0
+nw.js,Python,D:\clones\nw.js\test\sanity\window-resizeto\test.py,4,0.0,39.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Developers\Understanding Crash Dump.md,23,0.0,38.0
+nw.js,C++,D:\clones\nw.js\src\api\nw_shell_api.cc,12,0.0,38.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\nw_form_database_service.h,18,11.0,38.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\net\resource_request_job.h,18,31.0,38.0
+nw.js,JavaScript,D:\clones\nw.js\test\data\platform_apps\6212-crossdomain-screen\demo.js,3,0.0,38.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\colors\tests\basic-test.js,12,0.0,38.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\ms\readme.md,13,0.0,38.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4184-no-opener\test.py,7,0.0,38.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue5787-MediaElementAudioSource\test.py,5,0.0,38.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue6099-AdSense-trouble\test.py,8,0.0,38.0
+nw.js,Python,D:\clones\nw.js\test\sanity\webview-cdt-ext\test.py,6,1.0,38.0
+nw.js,Python,D:\clones\nw.js\test\sanity\webview-cdt\test.py,6,0.0,38.0
+nw.js,Python,D:\clones\nw.js\test\sanity\webview-localres\test.py,9,0.0,38.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Users\Advanced\Protect JavaScript Source Code.md,19,0.0,37.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\color_chooser_dialog.h,14,22.0,37.0
+nw.js,Python,D:\clones\nw.js\test\full\wopen-obj-external\test.py,9,0.0,37.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\opener\opener.js,10,13.0,37.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4130-win-open-close-fail-http\test.py,8,0.0,37.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4221-win-open-manifest\index.html,0,0.0,37.0
+nw.js,Python,D:\clones\nw.js\test\sanity\node-main\test.py,9,0.0,37.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\inflight\inflight.js,5,2.0,37.0
+nw.js,Python,D:\clones\nw.js\test\sanity\window-id-pos\test.py,11,0.0,37.0
+nw.js,Python,D:\clones\nw.js\tools\commit_id.py,9,2.0,37.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Users\Advanced\Autoupdates.md,14,0.0,36.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\autofill_popup_controller.h,20,20.0,36.0
+nw.js,Windows Resource File,D:\clones\nw.js\src\ffmpeg.rc,3,7.0,36.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\policy_cert_verifier.h,13,14.0,36.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\colors\examples\normal-usage.js,23,15.0,36.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\mime\src\build.js,14,3.0,36.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4822-fail-tick\index.html,4,0.0,36.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\test\chmod.js,5,0.0,36.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\win-manifest-fullscreen\index.html,1,0.0,36.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\app\app.h,17,24.0,35.0
+nw.js,JavaScript,D:\clones\nw.js\src\api\shortcut\shorcut.js,11,20.0,35.0
+nw.js,Objective-C++,D:\clones\nw.js\src\browser\autofill_popup_view_bridge.mm,12,3.0,35.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\nw_content_verifier_delegate.h,16,13.0,35.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\colors\tests\safe-test.js,10,0.0,35.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\test\header-test.js,1,0.0,35.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue6663-window-getPrinters-return-array\test.py,4,0.0,35.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue6784-webview\test.py,6,0.0,35.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue7183-node-remote-file\index.html,3,0.0,35.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\bin.js,4,1.0,35.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\node_modules\balanced-match\index.js,2,1.0,35.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\node_modules\concat-map\test\map.js,4,0.0,35.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\webview-cdt\index.html,4,0.0,35.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\colors\examples\safe-string.js,28,14.0,34.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\lib\ecstatic\aliases.json,0,0.0,34.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\node_modules\minimist\test\num.js,2,0.0,34.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\lib\request-stream.js,8,16.0,34.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\test\ecstatic-test.js,3,7.0,34.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4121-inpect-node-crash\test.py,3,0.0,34.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue5730-add-node-in-permissions\test.py,6,0.0,34.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue7183-node-remote-file\test.py,14,2.0,34.0
+nw.js,Python,D:\clones\nw.js\test\sanity\open-remote\test.py,9,8.0,34.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\examples\reader.js,2,0.0,34.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\lib\link-reader.js,8,11.0,34.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\test\00-setup-fixtures.js,6,13.0,34.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\pepper\pepper_broker_message_filter.h,13,5.0,33.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\printing\print_job_worker_owner.h,18,15.0,33.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\media\media_stream_devices_controller.h,20,24.0,33.0
+nw.js,HTML,D:\clones\nw.js\test\manual\issue4709-osx-cdthotkey\index.html,4,0.0,33.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\mime\src\test.js,10,17.0,33.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\requires-port\README.md,14,0.0,33.0
+nw.js,Python,D:\clones\nw.js\test\sanity\app-getproxyforurl\test.py,8,7.0,33.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\cookie-lost-devtools-close\index.html,1,0.0,33.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4579-capture-remote\test.py,9,6.0,33.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue6231-linux-websocket-more-than-2-connections\test.py,8,0.0,33.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue7503-close\test.py,8,0.0,33.0
+nw.js,Markdown,D:\clones\nw.js\test\sanity\tar\node_modules\tar\README.md,17,0.0,33.0
+nw.js,Markdown,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\inherits\README.md,9,0.0,33.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\worker-process-stdout\index.html,4,0.0,33.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Users\Advanced\Transparent Window.md,14,0.0,32.0
+nw.js,JavaScript,D:\clones\nw.js\src\api\clipboard\clipboard.js,11,19.0,32.0
+nw.js,HTML,D:\clones\nw.js\test\full\shortcut-creation\index.html,0,0.0,32.0
+nw.js,HTML,D:\clones\nw.js\test\manual\window\newpop.html,0,0.0,32.0
+nw.js,make,D:\clones\nw.js\test\node_modules\debug\Makefile,14,4.0,32.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\test\after-test.js,5,0.0,32.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\document-start-end\index.html,1,0.0,32.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\manifest-size-position\index.html,0,0.0,32.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\react-devtools-extension\react-devtools\panel.html,0,1.0,32.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\test\perm_sync.js,4,0.0,32.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\test\race.js,5,0.0,32.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\window-resizeto\newpop.html,0,0.0,32.0
+nw.js,Python,D:\clones\nw.js\test\sanity\worker-nwbin\test.py,2,0.0,32.0
+nw.js,C++,D:\clones\nw.js\tools\win_delay_load_hook.cc,10,8.0,32.0
+nw.js,C++,D:\clones\nw.js\src\api\base\base.cc,9,19.0,31.0
+nw.js,Objective-C++,D:\clones\nw.js\src\api\base\base_mac.mm,10,0.0,31.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\nw_shell_api.h,13,0.0,31.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\color_chooser_aura.h,14,13.0,31.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\minimist\test\default_bool.js,4,0.0,31.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\url-join\README.md,16,0.0,31.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\url-join\lib\url-join.js,13,5.0,31.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue3835-inspect-crash\test.py,3,0.0,31.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4157-nav-win-lost\index.html,0,0.0,31.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4157-nav-win-lost\next.html,0,0.0,31.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue5355-cookie-lost-remote-page\test.py,6,7.0,31.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue7503-close\main.js,8,0.0,31.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\bindings_common.h,13,29.0,30.0
+nw.js,XML,D:\clones\nw.js\src\mac\helper-Info.plist,0,0.0,30.0
+nw.js,JavaScript,D:\clones\nw.js\src\resources\api_window_internal.js,1,0.0,30.0
+nw.js,Python,D:\clones\nw.js\test\full\issue2261-disable-menu-hotkey\test.py,3,3.0,30.0
+nw.js,Python,D:\clones\nw.js\test\full\issue4186-mac-title\test.py,7,12.0,30.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\test\status-code-test.js,1,0.0,30.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4143-chrome-sockets-permission\test.py,8,0.0,30.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4180-remote-win-open\test.py,8,0.0,30.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4691-win-open-null\index.html,1,0.0,30.0
+nw.js,Python,D:\clones\nw.js\test\sanity\node-remote-negtive\test.py,7,5.0,30.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\require-methods\index.html,4,0.0,30.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\node_modules\minimist\test\long.js,1,0.0,30.0
+nw.js,Markdown,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\inflight\README.md,7,0.0,30.0
+nw.js,Python,D:\clones\nw.js\src\api\schemas.gypi,1,3.0,29.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\shortcut\global_shortcut_listener_win.h,12,26.0,29.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\renderer\nw_render_view_observer.h,16,22.0,29.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\test\dash.js,2,0.0,29.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\lib\http-stream.js,8,15.0,29.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4131-form-post\index.html,1,0.0,29.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4493-win-open-size\test.py,4,2.0,29.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4993-window-resize-event-height\index.html,1,0.0,29.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue5020-nested-loop\test.py,3,0.0,29.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue5943-mac-dblite-module-with-node8-crash\test.py,6,0.0,29.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue6113-mac-create-crash\test.py,5,0.0,29.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue6229-webview-executeScript\index.html,3,0.0,29.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue6251-node-crypto\test.py,3,0.0,29.0
+nw.js,Python,D:\clones\nw.js\test\sanity\node-remote\test.py,7,6.0,29.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\react-devtools-extension\build\build.min.js,0,0.0,29.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\lib\get-type.js,4,0.0,29.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\test\clobber.js,8,1.0,29.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\test\perm.js,3,0.0,29.0
+nw.js,Markdown,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\path-is-absolute\readme.md,22,0.0,29.0
+nw.js,Python,D:\clones\nw.js\tools\exec_util.py,3,4.0,29.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Users\Debugging with DevTools.md,19,0.0,28.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\object_manager_factory.h,12,3.0,28.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\autofill_popup_base_view_cocoa.h,12,8.0,28.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\autofill_popup_view.h,19,16.0,28.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\autofill_popup_view_bridge.h,15,9.0,28.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\renderer\nw_extensions_renderer_hooks.h,7,6.0,28.0
+nw.js,HTML,D:\clones\nw.js\test\data\platform_apps\silent_print\index.html,0,0.0,28.0
+nw.js,HTML,D:\clones\nw.js\test\full\wopen-obj-navigate\index.html,0,0.0,28.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\colors\lib\system\supports-colors.js,14,19.0,28.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\minimist\test\dash.js,3,0.0,28.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue3780-jailed-elements\test.py,3,0.0,28.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4007-reload-lost-app-window\index.html,2,0.0,28.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4096-download\test.py,12,14.0,28.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4131-form-post\test.py,3,0.0,28.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4352-zoom-all\test.py,2,0.0,28.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue5163-new-instance\test.py,2,0.0,28.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\fstream.js,7,0.0,28.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\test\rel.js,4,0.0,28.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\test\sync.js,4,0.0,28.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\test\umask_sync.js,4,0.0,28.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\window-eval\index.html,1,0.0,28.0
+nw.js,Objective-C++,D:\clones\nw.js\src\api\menu\menu_delegate_mac.mm,11,25.0,27.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\browser_view_layout.h,12,9.0,27.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\menubar_view.h,14,11.0,27.0
+nw.js,JSON,D:\clones\nw.js\test\data\platform_apps\local_pdf\package.json,0,0.0,27.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\ecstatic\lib\ecstatic\show-dir\sort-files.js,5,3.0,27.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\url-join\bower.json,0,0.0,27.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4007-reload-lost-app-window\test.py,3,1.0,27.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4269-click-link-crash\index.html,2,0.0,27.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue6229-webview-executeScript\test.py,4,0.0,27.0
+nw.js,Python,D:\clones\nw.js\test\sanity\node-remote-array\test.py,8,6.0,27.0
+nw.js,Python,D:\clones\nw.js\test\sanity\require-path\test.py,3,0.0,27.0
+nw.js,Markdown,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\graceful-fs\README.md,9,0.0,27.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\bin\cmd.js,6,0.0,27.0
+nw.js,Markdown,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\once\node_modules\wrappy\README.md,9,0.0,27.0
+nw.js,Python,D:\clones\nw.js\test\sanity\webview-node-neg\test.py,6,0.0,27.0
+nw.js,Python,D:\clones\nw.js\test\sanity\webview-node\test.py,6,0.0,27.0
+nw.js,Python,D:\clones\nw.js\test\sanity\window-open\test.py,6,0.0,27.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\worker-nwbin\index.html,4,0.0,27.0
+nw.js,diff,D:\clones\nw.js\patch\patches\selenium.patch,4,16.0,26.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\autofill_popup_view_views.h,13,10.0,26.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\renderer\common\render_messages.h,13,27.0,26.0
+nw.js,Python,D:\clones\nw.js\test\full\wopen-obj-navigate\test.py,2,0.0,26.0
+nw.js,HTML,D:\clones\nw.js\test\manual\memory-leak-reload\index.html,0,0.0,26.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\minimist\test\all_bool.js,6,0.0,26.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\example\line_count_options.js,3,0.0,26.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\example\line_count_wrap.js,3,0.0,26.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\examples\simple\middleware\gzip-encode.js,9,5.0,26.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\wordwrap\test\wrap.js,5,0.0,26.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue4131-form-post\server.js,4,0.0,26.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4493-win-open-size\index.html,0,0.0,26.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4791-injectend-iframe\test.py,2,0.0,26.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4791-injectstart-iframe\test.py,2,0.0,26.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\new-win-policy\target.html,0,0.0,26.0
+nw.js,Python,D:\clones\nw.js\test\sanity\nwuseragent\test.py,7,11.0,26.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\react-devtools-extension\react-devtools\manifest.json,0,0.0,26.0
+nw.js,Markdown,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\README.md,12,0.0,26.0
+nw.js,IDL,D:\clones\nw.js\src\api\nw_clipboard.idl,4,0.0,25.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\autofill_popup_view_delegate.h,16,18.0,25.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\nw_custom_bindings.h,8,4.0,25.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\nw_version.h,8,19.0,25.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\renderer\nw_chrome_renderer_hooks.h,6,5.0,25.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\examples\socketio\server.js,5,0.0,25.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4138-win-not-close\test.py,2,0.0,25.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4157-nav-win-lost\test.py,4,0.0,25.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue5220-nwjc-buffer\test.py,6,1.0,25.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue7239-worker-module\index.html,7,0.0,25.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue7239-worker-module\test.py,5,0.0,25.0
+nw.js,Python,D:\clones\nw.js\test\sanity\react-devtools-extension\test.py,3,8.0,25.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\examples\symlink-write.js,2,0.0,25.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\test\mkdirp.js,3,0.0,25.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\test\opts_fs.js,4,0.0,25.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\test\umask.js,3,0.0,25.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\test\error-on-broken.js,8,0.0,25.0
+nw.js,Python,D:\clones\nw.js\test\sanity\win-move\test.py,5,0.0,25.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Users\Advanced\Content Verification.md,12,0.0,24.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\clipboard\clipboard.h,9,19.0,24.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\menu\menu_delegate.h,14,19.0,24.0
+nw.js,IDL,D:\clones\nw.js\src\api\nw_shortcut.idl,8,0.0,24.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\nw_shortcut_api.h,9,0.0,24.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\shortcut\shortcut.h,11,20.0,24.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\login_view.h,11,12.0,24.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\geolocation\shell_access_token_store.h,12,5.0,24.0
+nw.js,C++,D:\clones\nw.js\src\net\clear_on_exit_policy.cc,8,3.0,24.0
+nw.js,Python,D:\clones\nw.js\test\full\issue4118-mac-quit\test.py,4,0.0,24.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\examples\simple\spdy.js,4,2.0,24.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\wordwrap\test\break.js,6,0.0,24.0
+nw.js,Python,D:\clones\nw.js\test\sanity\crash-dump-report\report.py,9,6.0,24.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4056-mac-close-crash\index.html,0,0.0,24.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4164-close-not-quit\test.py,5,0.0,24.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4187-close-hidden\index.html,7,0.0,24.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4187-close-hidden\test.py,3,0.0,24.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4199-cookie\index.html,0,0.0,24.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4357-buffer-crash\package.json,0,0.0,24.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue5882-debugging-tools-crash\index.html,0,0.0,24.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue6251-node-crypto\index.html,1,0.0,24.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue7294-navigation\test.py,4,0.0,24.0
+nw.js,Python,D:\clones\nw.js\test\sanity\manifest-inject-newwin\test.py,4,0.0,24.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\new-win-policy\index.html,0,0.0,24.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\screen-events\index.html,0,0.0,24.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\once\node_modules\wrappy\wrappy.js,4,5.0,24.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\webview-cdt-ext\package.json,0,0.0,24.0
+nw.js,Bourne Shell,D:\clones\nw.js\tools\dump_app_syms,11,9.0,24.0
+nw.js,JSON,D:\clones\nw.js\tools\sign\verified_contents.json,0,0.0,24.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\nw_menu_api.h,10,0.0,23.0
+nw.js,IDL,D:\clones\nw.js\src\api\nw_tray.idl,1,0.0,23.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\pepper\chrome_browser_pepper_host_factory.h,10,5.0,23.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\net\app_protocol_handler.h,9,5.0,23.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\renderer\shell_render_process_observer.h,10,20.0,23.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\resource.h,5,9.0,23.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\debug\karma.conf.js,24,23.0,23.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4679-process-event-uncaughtException\index.html,2,0.0,23.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue5947-localStorage_getItem_url_crash\test.py,6,0.0,23.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue6143-mac-setProgressBar-crash\test.py,3,0.0,23.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue6339-child-process-execSync-crash\test.py,5,0.0,23.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue7344-new-inst-mixctx\test.py,2,0.0,23.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue7609-mixed-context\test.py,2,0.0,23.0
+nw.js,Python,D:\clones\nw.js\test\sanity\manifest-default-inject\test.py,2,0.0,23.0
+nw.js,C++,D:\clones\nw.js\test\sanity\native-module-buffer\buffer_example.cpp,6,1.0,23.0
+nw.js,Python,D:\clones\nw.js\test\sanity\native-module-buffer\test.py,5,0.0,23.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\block-stream\test\basic.js,4,0.0,23.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\lib\socket-reader.js,7,6.0,23.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\test\opts_fs_sync.js,4,0.0,23.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\test\parse-discard.js,6,0.0,23.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\webview-node-neg\window.html,2,0.0,23.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\webview-node\window.html,2,0.0,23.0
+nw.js,Markdown,D:\clones\nw.js\docs\References\Shell.md,15,0.0,22.0
+nw.js,Python,D:\clones\nw.js\src\api\api_registration.gyp,2,8.0,22.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\net\clear_on_exit_policy.h,13,11.0,22.0
+nw.js,XML,D:\clones\nw.js\src\nw.exe.manifest,0,0.0,22.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\nw_protocol_handler.h,9,19.0,22.0
+nw.js,JavaScript,D:\clones\nw.js\src\resources\api_nw_object.js,3,3.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_am.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_ar.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_bg.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_bn.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_ca.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_cs.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_da.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_de.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_el.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_en-GB.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_es-419.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_es.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_et.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_fa.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_fi.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_fil.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_fr.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_gu.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_hi.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_hr.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_hu.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_id.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_it.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_iw.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_ja.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_kn.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_ko.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_lt.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_lv.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_ml.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_mr.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_ms.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_nl.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_no.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_pl.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_pt-BR.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_pt-PT.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_ro.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_ru.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_sk.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_sl.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_sr.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_sv.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_sw.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_ta.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_te.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_th.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_tr.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_uk.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_vi.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_zh-CN.xtb,0,0.0,22.0
+nw.js,XML,D:\clones\nw.js\src\resources\locale\nw_strings_zh-TW.xtb,0,0.0,22.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4352-zoom-all\index.html,0,0.0,22.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4679-process-event-uncaughtException\test.py,5,0.0,22.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue5202-tray-menu-id\index.html,3,0.0,22.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue6056-spawn-crash\test.py,3,0.0,22.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue6171-sdk-start-crash\package.json,0,0.0,22.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue7450-worker-crash\test.py,4,0.0,22.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\node_modules\minimist\test\dash.js,2,0.0,22.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\once\test\once.js,1,0.0,22.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\worker-require-module\index.html,3,0.0,22.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\worker-sharedworker\index.html,1,0.0,22.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\worker-stream-wrap\index.html,3,0.0,22.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\requires-port\index.js,8,9.0,21.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\examples\after\index.js,5,0.0,21.0
+nw.js,Python,D:\clones\nw.js\test\sanity\app-open-event\test.py,4,1.0,21.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\capture_page\popup.html,1,0.0,21.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\crash-dump-report\app\index.html,0,0.0,21.0
+nw.js,Python,D:\clones\nw.js\test\sanity\dom-storage-quota\test.py,3,0.0,21.0
+nw.js,Python,D:\clones\nw.js\test\sanity\http-server-node.py,7,0.0,21.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\iframe-nw\index.html,1,0.0,21.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4018-vm-crash\test.py,6,0.0,21.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4286-inject-start-end\index.html,3,0.0,21.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4691-win-open-null\test.py,3,0.0,21.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4822-fail-tick\test.py,3,0.0,21.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4993-window-resize-event-height\test.py,3,0.0,21.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue5010-bluetooth-permission\index.html,1,0.0,21.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue5355-cookie-lost-remote-page\index.html,0,0.0,21.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue6136-nwjs-history-escapes-iframe\iframe-second-page.html,0,0.0,21.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue7197-load\test.py,5,0.0,21.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\inherits\inherits_browser.js,0,2.0,21.0
+nw.js,Python,D:\clones\nw.js\test\sanity\user-agent\test.py,4,0.0,21.0
+nw.js,Python,D:\clones\nw.js\test\sanity\win-manifest-fullscreen\test.py,4,0.0,21.0
+nw.js,Markdown,D:\clones\nw.js\.github\ISSUE_TEMPLATE.md,13,0.0,20.0
+nw.js,YAML,D:\clones\nw.js\.github\stale.yml,0,6.0,20.0
+nw.js,Python,D:\clones\nw.js\src\api\api.gyp,0,1.0,20.0
+nw.js,C++,D:\clones\nw.js\src\api\nw_menu_api.cc,5,0.0,20.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\shell\shell.h,10,19.0,20.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\nw_export.h,5,0.0,20.0
+nw.js,HTML,D:\clones\nw.js\test\auto\process-exit-event\index.html,1,0.0,20.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\ecstatic\lib\ecstatic\show-dir\size-to-string.js,5,4.0,20.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\examples\simple\middleware\gzip-decode.js,6,0.0,20.0
+nw.js,Python,D:\clones\nw.js\test\sanity\capture_page\test.py,2,0.0,20.0
+nw.js,Python,D:\clones\nw.js\test\sanity\child_process\test.py,3,0.0,20.0
+nw.js,Python,D:\clones\nw.js\test\sanity\document-start-end\test.py,3,1.0,20.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4138-win-not-close\index.html,1,0.0,20.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4399-filereader\index.html,3,0.0,20.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue5229-menubar-crash\index.html,0,0.0,20.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue6504-indexedDB-open-crash\test.py,4,0.0,20.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue7306-loaded\test.py,4,0.0,20.0
+nw.js,Python,D:\clones\nw.js\test\sanity\require-methods\test.py,2,0.0,20.0
+nw.js,Python,D:\clones\nw.js\test\sanity\tar\test.py,3,0.0,20.0
+nw.js,Bourne Shell,D:\clones\nw.js\tools\extract_l10n_id.sh,4,0.0,20.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\media_capture_util.h,10,9.0,19.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\debug\component.json,0,0.0,19.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\ecstatic\lib\ecstatic\show-dir\perms-to-string.js,4,0.0,19.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\node_modules\minimist\test\dotted.js,3,0.0,19.0
+nw.js,YAML,D:\clones\nw.js\test\node_modules\requires-port\.travis.yml,0,0.0,19.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\child_process\index.html,1,0.0,19.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue6229-webview-executeScript\package.json,1,0.0,19.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue6324-extension_all_frame_true_exit\test.py,2,0.0,19.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\manifest-default-inject\index.html,3,0.0,19.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\test\return.js,3,3.0,19.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\once\once.js,2,0.0,19.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\inherits\test.js,6,0.0,19.0
+nw.js,Python,D:\clones\nw.js\tools\sync.py,7,0.0,19.0
+nw.js,diff,D:\clones\nw.js\patch\patches\ffmpeg.patch,2,23.0,18.0
+nw.js,C++,D:\clones\nw.js\src\api\api_messages.cc,6,9.0,18.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\screen\screen.h,12,18.0,18.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\standard_menus_mac.h,10,19.0,18.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\nw_base.h,3,0.0,18.0
+nw.js,C++,D:\clones\nw.js\src\renderer\common\render_messages.cc,6,25.0,18.0
+nw.js,XML,D:\clones\nw.js\src\resources\component_extension_resources.grd,0,2.0,18.0
+nw.js,HTML,D:\clones\nw.js\test\data\platform_apps\6212-crossdomain-screen\index.html,0,0.0,18.0
+nw.js,YAML,D:\clones\nw.js\test\node_modules\http-server\.travis.yml,4,0.0,18.0
+nw.js,Python,D:\clones\nw.js\test\sanity\app-argv\test.py,2,0.0,18.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4056-mac-close-crash\test.py,3,0.0,18.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4399-filereader\test.py,5,0.0,18.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue5010-bluetooth-permission\test.py,3,0.0,18.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue6099-AdSense-trouble\index.js,2,0.0,18.0
+nw.js,Python,D:\clones\nw.js\test\sanity\manifest-size-position\test.py,4,0.0,18.0
+nw.js,Python,D:\clones\nw.js\test\sanity\nwuseragent\echo-user-agent.py,10,0.0,18.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\screen-property\index.html,0,0.0,18.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\screen\index.html,0,0.0,18.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\lib\buffer-entry.js,5,7.0,18.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\node_modules\minimist\test\default_bool.js,2,0.0,18.0
+nw.js,Python,D:\clones\nw.js\test\sanity\window-eval\test.py,2,0.0,18.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\worker-stream-event\index.html,0,0.0,18.0
+nw.js,Python,D:\clones\nw.js\tools\archive_symbols.py,9,4.0,18.0
+nw.js,JavaScript,D:\clones\nw.js\src\api\base\base.js,6,21.0,17.0
+nw.js,Objective-C++,D:\clones\nw.js\src\api\menuitem\menuitem_delegate_mac.mm,9,20.0,17.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\autofill_popup_view_cocoa.h,10,8.0,17.0
+nw.js,C++,D:\clones\nw.js\src\renderer\prerenderer\prerenderer_client.cc,8,19.0,17.0
+nw.js,JavaScript,D:\clones\nw.js\src\resources\nw_pre13_shim.js,4,3.0,17.0
+nw.js,HTML,D:\clones\nw.js\test\data\platform_apps\6212-crossdomain-screen\remote.html,0,0.0,17.0
+nw.js,HTML,D:\clones\nw.js\test\data\platform_apps\print_test\index.html,0,0.0,17.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\lib\ecstatic\defaults.json,0,0.0,17.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\ms\license.md,4,0.0,17.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\example\line_count.js,3,0.0,17.0
+nw.js,Python,D:\clones\nw.js\test\sanity\iframe-nw\test.py,2,0.0,17.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue3780-jailed\index.html,0,0.0,17.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4199-cookie\test.py,3,0.0,17.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4791-injectstart-iframe\index.html,1,0.0,17.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4877-inject-webview\iframe.html,0,0.0,17.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue5202-tray-menu-id\test.py,3,0.0,17.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue5229-menubar-crash\test.py,2,0.0,17.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue5781-X-Frame-Options\http-server.py,5,1.0,17.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue6099-AdSense-trouble\iframe.js,3,0.0,17.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue6143-mac-setProgressBar-crash\index.html,0,0.0,17.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue6171-sdk-start-crash\test.py,2,1.0,17.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue7173-iframe\test.py,3,0.0,17.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\new-win-policy\checksize.html,0,0.0,17.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\node-remote-negtive\index.html,1,0.0,17.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\node-remote\index.html,1,0.0,17.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\examples\packer.js,6,1.0,17.0
+nw.js,Python,D:\clones\nw.js\test\sanity\user-agent\echo-user-agent.py,10,0.0,17.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\webview-cdt-ext\extensions\manifest.json,0,0.0,17.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\webview-localres-neg\1.html,0,0.0,17.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\webview-node\package.json,2,0.0,17.0
+nw.js,Python,D:\clones\nw.js\test\sanity\worker-sharedworker\test.py,2,0.0,17.0
+nw.js,Bourne Shell,D:\clones\nw.js\tools\make-nw-headers.sh,2,0.0,17.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\browser_dialogs.h,6,4.0,16.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\nw_content_mac.h,4,0.0,16.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\renderer\prerenderer\prerenderer_client.h,9,20.0,16.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\renderer\shell_extensions_renderer_client.h,8,4.0,16.0
+nw.js,JavaScript,D:\clones\nw.js\src\resources\api_nw_test.js,2,0.0,16.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\ecstatic\lib\ecstatic\show-dir\styles.js,4,0.0,16.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\example\usage-options.js,3,0.0,16.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\app-getproxyforurl\bg.js,2,1.0,16.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\document-start-end\iframe.html,0,0.0,16.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4791-injectend-iframe\index.html,1,0.0,16.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4791-injectstart-iframe\iframe.html,1,0.0,16.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue5355-cookie-lost-remote-page\main.js,3,3.0,16.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue5730-add-node-in-permissions\manifest.json,1,0.0,16.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue5980-aws-sdk-embedded-youtobe-video-crash\package.json,0,0.0,16.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue7344-new-inst-mixctx\index.html,0,0.0,16.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue7609-mixed-context\index.html,0,0.0,16.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\nwjc\index.html,0,0.0,16.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\screen-desktopcapturemonitor\popup.html,0,0.0,16.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\test\root.js,2,1.0,16.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\test\zz-cleanup.js,3,1.0,16.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\webview-cdt\package.json,0,0.0,16.0
+nw.js,Python,D:\clones\nw.js\test\sanity\worker-stream-wrap\test.py,2,0.0,16.0
+nw.js,Markdown,D:\clones\nw.js\docs\References\Changes to Node.md,6,0.0,15.0
+nw.js,C++,D:\clones\nw.js\src\api\event\event.cc,8,18.0,15.0
+nw.js,IDL,D:\clones\nw.js\src\api\nw_object.idl,1,0.0,15.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\app-open-event\index.html,1,0.0,15.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\document-start-end\popup.html,0,0.0,15.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4114-show-false-crash\test.py,2,0.0,15.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4352-zoom-all\popup.html,0,0.0,15.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4791-injectend-iframe\iframe.html,1,0.0,15.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue5730-add-node-in-permissions\index.html,3,0.0,15.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue6061-bincrash\index.html,0,0.0,15.0
+nw.js,Python,D:\clones\nw.js\test\sanity\manifest-html-main\test.py,2,0.0,15.0
+nw.js,Python,D:\clones\nw.js\test\sanity\manifest-js-main\test.py,2,0.0,15.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\react-devtools-extension\index.html,0,0.0,15.0
+nw.js,Python,D:\clones\nw.js\test\sanity\screen-choosedekstopmedia\test.py,2,0.0,15.0
+nw.js,Python,D:\clones\nw.js\test\sanity\screen\test.py,2,0.0,15.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\graceful-fs\fs.js,6,0.0,15.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\test\return_sync.js,4,5.0,15.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\webview-cdt-ext\core.js,5,0.0,15.0
+nw.js,Python,D:\clones\nw.js\tools\dump_win_syms.py,1,0.0,15.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Users\Advanced\Security in NW.js.md,6,0.0,14.0
+nw.js,diff,D:\clones\nw.js\patch\patches\buildtools.patch,2,14.0,14.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\chrome_event_processing_window.h,7,12.0,14.0
+nw.js,HTML,D:\clones\nw.js\test\full\issue4118-mac-quit\index.html,0,0.0,14.0
+nw.js,HTML,D:\clones\nw.js\test\full\wopen-obj-navigate\next.html,0,0.0,14.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\test\short.js,2,0.0,14.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\app-argv\index.html,0,0.0,14.0
+nw.js,Python,D:\clones\nw.js\test\sanity\app-open-event\second_instance.py,5,0.0,14.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\cookie-lost-devtools-close\bg.js,2,1.0,14.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4121-inpect-node-crash\index.html,0,0.0,14.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4164-close-not-quit\index.html,0,0.0,14.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue6001-devtools-open-crash\index.html,0,0.0,14.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue6113-mac-create-crash\index.html,0,0.0,14.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue6339-child-process-execSync-crash\index.html,0,0.0,14.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue7173-iframe\index.html,0,0.0,14.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue7239-worker-module\package.json,0,0.0,14.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue7239-worker-module\worker.js,3,1.0,14.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue7306-loaded\test.html,1,0.0,14.0
+nw.js,Python,D:\clones\nw.js\test\sanity\manifest-html-main-inside\test.py,2,0.0,14.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\open-remote\remote.html,0,0.0,14.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\package\app\index.html,0,0.0,14.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\examples\extracter.js,5,0.0,14.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\node_modules\minimist\test\dotted.js,2,0.0,14.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\path-is-absolute\index.js,4,2.0,14.0
+nw.js,Python,D:\clones\nw.js\tools\sign\convertkey.py,2,4.0,14.0
+nw.js,diff,D:\clones\nw.js\patch\patches\icu.patch,0,10.0,13.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\menu\menu_delegate_mac.h,6,19.0,13.0
+nw.js,IDL,D:\clones\nw.js\src\api\nw_test.idl,1,0.0,13.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\printing\printing_ui_web_contents_observer.h,6,6.0,13.0
+nw.js,C++,D:\clones\nw.js\src\renderer\shell_extensions_renderer_client.cc,7,7.0,13.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\iframe-nw\iframe.html,1,0.0,13.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue3835-inspect-crash\index.html,0,0.0,13.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4138-win-not-close\child.html,0,0.0,13.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4788-openremote-cdtopen\remote.html,0,0.0,13.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue5947-localStorage_getItem_url_crash\index.html,0,0.0,13.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue6099-AdSense-trouble\iframe.html,0,0.0,13.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\native-module-buffer\package.json,0,0.0,13.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\require-path\index.html,0,0.0,13.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\require-path\public\index.html,0,0.0,13.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\webview-cdt-ext\index.js,1,0.0,13.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\webview-node-neg\webview.html,0,0.0,13.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\webview-node\webview.html,0,0.0,13.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\window-eval\iframe.html,1,0.0,13.0
+nw.js,IDL,D:\clones\nw.js\src\api\nw_shell.idl,1,0.0,12.0
+nw.js,C++,D:\clones\nw.js\src\browser\printing\printing_ui_web_contents_observer.cc,4,3.0,12.0
+nw.js,C++,D:\clones\nw.js\src\nw_protocol_handler.cc,6,19.0,12.0
+nw.js,JavaScript,D:\clones\nw.js\src\resources\api_nw_shell.js,2,0.0,12.0
+nw.js,HTML,D:\clones\nw.js\src\resources\pages\nw_version.html,0,0.0,12.0
+nw.js,JSON,D:\clones\nw.js\test\data\platform_apps\silent_print\package.json,0,0.0,12.0
+nw.js,Python,D:\clones\nw.js\test\full\issue5061-cdt-emptyid\test.py,2,0.0,12.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\colors\themes\generic-logging.js,0,0.0,12.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\minimist\test\kv_short.js,4,0.0,12.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\minimist\test\stop_early.js,3,0.0,12.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue6136-nwjs-history-escapes-iframe\second-page.html,0,0.0,12.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue6229-webview-executeScript\site.html,3,0.0,12.0
+nw.js,CSS,D:\clones\nw.js\test\sanity\react-devtools-extension\css\bundle.css,2,10.0,12.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\require-path\common.js,2,0.0,12.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\node_modules\concat-map\index.js,1,0.0,12.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\webview-localres\package.json,0,0.0,12.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\window-resizeto\package.json,0,0.0,12.0
+nw.js,Python,D:\clones\nw.js\tools\getnwversion.py,10,1.0,12.0
+nw.js,IDL,D:\clones\nw.js\src\api\nw_menu.idl,1,0.0,11.0
+nw.js,JavaScript,D:\clones\nw.js\src\api\shell\shell.js,1,19.0,11.0
+nw.js,Objective-C++,D:\clones\nw.js\src\browser\nw_autofill_client_mac.mm,7,3.0,11.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\printing\print_view_manager_observer.h,6,6.0,11.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\common\nw_content_common_hooks.h,6,5.0,11.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\renderer\nw_content_renderer_hooks.h,7,7.0,11.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\colors\lib\maps\america.js,1,0.0,11.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\colors\lib\maps\rainbow.js,2,0.0,11.0
+nw.js,YAML,D:\clones\nw.js\test\node_modules\debug\.travis.yml,3,0.0,11.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\test\parse_modified.js,3,0.0,11.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\additional_trust_anchors\test.html,0,0.0,11.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue3780-jailed\child.html,0,0.0,11.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4114-show-false-crash\index.html,0,0.0,11.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4187-close-hidden\splash.html,3,0.0,11.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4521-notification-perm\test.html,0,0.0,11.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4691-win-open-null\new-instance.html,0,0.0,11.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4691-win-open-null\same-instance.html,0,0.0,11.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue5148-iframe-err-crash\test.py,2,0.0,11.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue5163-new-instance\child.html,0,0.0,11.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue5980-aws-sdk-embedded-youtobe-video-crash\index.html,0,0.0,11.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue6136-nwjs-history-escapes-iframe\iframe-index.html,0,0.0,11.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue6136-nwjs-history-escapes-iframe\index.html,0,0.0,11.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue7197-load\package.json,0,0.0,11.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue7450-worker-crash\index.html,0,0.0,11.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue7609-mixed-context\child.html,0,0.0,11.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\manifest-html-main\index.html,0,0.0,11.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\manifest-inject-newwin\index.html,0,0.0,11.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\manifest-js-main\index.html,0,0.0,11.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\lib\global-header-writer.js,3,0.0,11.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\webview-localres\1.html,0,0.0,11.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Developers\Contributing to NW.js.md,6,0.0,10.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\menuitem\menuitem_delegate_mac.h,6,19.0,10.0
+nw.js,C++,D:\clones\nw.js\src\api\v8_internal_helper.cc,3,0.0,10.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\net_disk_cache_remover.h,8,5.0,10.0
+nw.js,HTML,D:\clones\nw.js\test\auto\empty-app-exit-with-0\index.html,1,0.0,10.0
+nw.js,HTML,D:\clones\nw.js\test\auto\nw-test-fail\index.html,1,0.0,10.0
+nw.js,HTML,D:\clones\nw.js\test\auto\process-exit-with-42\index.html,1,0.0,10.0
+nw.js,HTML,D:\clones\nw.js\test\full\issue4186-mac-title\index.html,1,0.0,10.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\ecstatic\example\express.js,2,0.0,10.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\ecstatic\tools\build-icons.js,5,0.0,10.0
+nw.js,YAML,D:\clones\nw.js\test\node_modules\union\.travis.yml,2,0.0,10.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\wordwrap\example\center.js,0,0.0,10.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue5087-webview-cleardata\1.html,0,0.0,10.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue6324-extension_all_frame_true_exit\index.html,0,0.0,10.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue6504-indexedDB-open-crash\main.html,0,0.0,10.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\manifest-inject-newwin\package.json,0,0.0,10.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\native-module-buffer\index.js,5,1.0,10.0
+nw.js,Python,D:\clones\nw.js\test\sanity\start-page\test.py,2,0.0,10.0
+nw.js,Markdown,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\block-stream\README.md,4,0.0,10.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\user-agent\index.html,1,0.0,10.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\webview-cdt-ext\index.html,3,0.0,10.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\webview-localfile\1.html,0,0.0,10.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\webview-node\background.js,0,0.0,10.0
+nw.js,HTML,D:\clones\nw.js\tools\sign\index.html,1,0.0,10.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\paths_mac.h,7,6.0,9.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\debug\src\inspector-log.js,2,4.0,9.0
+nw.js,HTML,D:\clones\nw.js\test\node_modules\http-server\public\404.html,1,0.0,9.0
+nw.js,HTML,D:\clones\nw.js\test\node_modules\http-server\public\index.html,3,0.0,9.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\example\bool.js,1,0.0,9.0
+nw.js,TypeScript,D:\clones\nw.js\test\node_modules\portfinder\lib\portfinder.d.ts,4,20.0,9.0
+nw.js,Python,D:\clones\nw.js\test\sanity\additional_trust_anchors\https-server.py,3,0.0,9.0
+nw.js,Python,D:\clones\nw.js\test\sanity\issue4184-no-opener\https-server.py,3,0.0,9.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4357-buffer-crash\index.html,0,0.0,9.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue5730-add-node-in-permissions\background.js,0,0.0,9.0
+nw.js,CSS,D:\clones\nw.js\test\sanity\issue5730-add-node-in-permissions\style.css,1,0.0,9.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue7503-close\main.html,0,0.0,9.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\manifest-size-position\package.json,0,0.0,9.0
+nw.js,Python,D:\clones\nw.js\test\sanity\native-module-buffer\binding.gyp,0,0.0,9.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\nwjc\mytest.js,1,0.0,9.0
+nw.js,Python,D:\clones\nw.js\test\sanity\open-remote\http-server.py,6,0.0,9.0
+nw.js,YAML,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\.travis.yml,0,0.0,9.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\window-id-pos\package.json,0,0.0,9.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\worker-nwbin\worker.js,0,0.0,9.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\worker-sharedworker\sharedworker.js,0,0.0,9.0
+nw.js,Python,D:\clones\nw.js\tools\getnwisrelease.py,4,1.0,9.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Users\Advanced\Build Flavors.md,5,0.0,8.0
+nw.js,Markdown,D:\clones\nw.js\docs\References\Chrome Extension APIs.md,3,0.0,8.0
+nw.js,HTML,D:\clones\nw.js\test\full\wopen-obj-navigate\popup.html,0,0.0,8.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\ecstatic\example\core.js,2,0.0,8.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\ecstatic\example\union.js,2,0.0,8.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\http-proxy\lib\http-proxy.js,12,46.0,8.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\example\xup.js,2,0.0,8.0
+nw.js,HTML,D:\clones\nw.js\test\node_modules\union\examples\socketio\index.html,0,0.0,8.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\lib\index.js,3,13.0,8.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4221-win-open-manifest\package.json,0,0.0,8.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4493-win-open-size\package.json,0,0.0,8.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue5087-webview-cleardata\package.json,0,0.0,8.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue5093-window-size-match-package-json\package.json,0,0.0,8.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue7450-worker-crash\package.json,0,0.0,8.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\manifest-default-inject\popup.html,0,0.0,8.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\module-bin\index.html,0,0.0,8.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\native-module-buffer\index.html,0,0.0,8.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\new-win-policy\package.json,0,0.0,8.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\react-devtools-extension\react-devtools\main.html,0,0.0,8.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\screen-choosedekstopmedia\package.json,0,0.0,8.0
+nw.js,YAML,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\.travis.yml,0,0.0,8.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\webview-cdt-ext\extensions\devtools.html,0,0.0,8.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\worker-msgloop\worker.js,0,0.0,8.0
+nw.js,Markdown,D:\clones\nw.js\BACKERS.md,4,0.0,7.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Developers\Repositories.md,2,0.0,7.0
+nw.js,diff,D:\clones\nw.js\patch\patches\vulcan.patch,2,6.0,7.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\api\base\base_mac.h,3,0.0,7.0
+nw.js,IDL,D:\clones\nw.js\src\api\nw_menuitem.idl,1,0.0,7.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\app_controller_mac.h,4,19.0,7.0
+nw.js,C/C++ Header,D:\clones\nw.js\src\browser\nw_constrained_window_views_client.h,5,3.0,7.0
+nw.js,HTML,D:\clones\nw.js\src\resources\pages\nw_gpu.html,0,0.0,7.0
+nw.js,JSON,D:\clones\nw.js\test\data\platform_apps\6212-crossdomain-screen\package.json,0,0.0,7.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\colors\lib\maps\random.js,1,0.0,7.0
+nw.js,YAML,D:\clones\nw.js\test\node_modules\ecstatic\.travis.yml,0,0.0,7.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\ecstatic\lib\ecstatic\etag.js,0,0.0,7.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\minimist\test\parse_modified.js,2,0.0,7.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\example\boolean_double.js,0,0.0,7.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\example\boolean_single.js,0,0.0,7.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\example\default_singles.js,0,0.0,7.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\test\whitespace.js,1,0.0,7.0
+nw.js,make,D:\clones\nw.js\test\node_modules\qs\Makefile,1,0.0,7.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\qs\lib\index.js,6,2.0,7.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4114-show-false-crash\package.json,0,0.0,7.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4187-close-hidden\package.json,0,0.0,7.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue5730-add-node-in-permissions\main.js,6,0.0,7.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue5882-debugging-tools-crash\package.json,0,0.0,7.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue7294-navigation\main.js,0,0.0,7.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue7503-close\local.html,0,0.0,7.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\node_modules\minimist\test\parse_modified.js,2,0.0,7.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\node_modules\minimist\test\whitespace.js,1,0.0,7.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\webview-cdt-ext\extensions\custom.html,0,0.0,7.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\window-id\package.json,0,0.0,7.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Developers\Contributors of Documents.md,1,0.0,6.0
+nw.js,diff,D:\clones\nw.js\patch\patches\gyp.patch,1,7.0,6.0
+nw.js,HTML,D:\clones\nw.js\test\full\issue5061-cdt-emptyid\main.html,0,0.0,6.0
+nw.js,YAML,D:\clones\nw.js\test\node_modules\colors\.travis.yml,0,0.0,6.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\example\default_hash.js,2,0.0,6.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\example\divide.js,2,0.0,6.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\example\string.js,1,4.0,6.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\union\test\helpers\macros.js,4,7.0,6.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue4018-vm-crash\bug.js,0,0.0,6.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue6061-bincrash\index.js,2,1.0,6.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\manifest-default-inject\package.json,0,0.0,6.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\module-bin\lib2.js,1,0.0,6.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\example.js,2,0.0,6.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\node_modules\concat-map\example\map.js,0,0.0,6.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\webview-cdt-ext\extensions\devtools.js,0,2.0,6.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\window-open\index.html,1,0.0,6.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\worker-stream-wrap\worker.js,0,0.0,6.0
+nw.js,HTML,D:\clones\nw.js\custom_theme\searchbox.html,0,0.0,5.0
+nw.js,Markdown,D:\clones\nw.js\docs\For Users\Advanced\Use Flash Plugin.md,3,0.0,5.0
+nw.js,diff,D:\clones\nw.js\patch\patches\openssl.patch,0,8.0,5.0
+nw.js,diff,D:\clones\nw.js\patch\patches\webrtc_openssl.patch,0,8.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\auto\nw-test-fail\package.json,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\auto\process-exit-event\package.json,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\auto\process-exit-with-42\package.json,0,0.0,5.0
+nw.js,Python,D:\clones\nw.js\test\auto\testcfg.py,1,0.0,5.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\debug\src\index.js,1,4.0,5.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\ecstatic\test.js,2,0.0,5.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\mime\cli.js,3,0.0,5.0
+nw.js,YAML,D:\clones\nw.js\test\node_modules\url-join\.travis.yml,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\app-open-event\package.json,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\capture_page\package.json,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\crash-dump-report\app\package.json,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\dom-storage-quota\package.json,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\iframe-nw\package.json,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\iframe-remote\package.json,1,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4096-download\package.json,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4131-form-post\package.json,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4180-remote-win-open\package.json,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4184-no-opener\package.json,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4791-injectend-iframe\package.json,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4791-injectstart-iframe\package.json,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4877-inject-webview\package.json,0,0.0,5.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue6056-spawn-crash\dbcontrol.js,6,17.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue6504-indexedDB-open-crash\package.json,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue7305-nwfaketop-cookie-neg\package.json,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue7305-nwfaketop-cookie\package.json,0,0.0,5.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue7306-loaded\main.js,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\module-bin\package.json,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\node-main\package.json,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\open-remote\package.json,0,0.0,5.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\examples\pow.js,1,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\tar\package.json,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\user-agent\package.json,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\win-manifest-fullscreen\package.json,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\window-eval\package.json,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\window-open\package.json,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\worker-require-module\node_modules\test\package.json,0,0.0,5.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\worker-require-module\worker.js,0,0.0,5.0
+nw.js,JSON,D:\clones\nw.js\tools\sign\package.json,0,0.0,5.0
+nw.js,diff,D:\clones\nw.js\patch\patches\devtools.patch,1,7.0,4.0
+nw.js,diff,D:\clones\nw.js\patch\patches\perfetto.patch,2,6.0,4.0
+nw.js,diff,D:\clones\nw.js\patch\patches\vulkan-deps.patch,1,7.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\auto\node-readdir\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\full\issue2261-disable-menu-hotkey\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\full\issue4118-mac-quit\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\full\issue4186-mac-title\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\full\shortcut-creation\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\full\shortcut-event\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\full\shortcut-failure\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\full\shortcut-normal\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\manual\memory-leak-reload\package.json,0,0.0,4.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\colors\lib\maps\zebra.js,1,0.0,4.0
+nw.js,YAML,D:\clones\nw.js\test\node_modules\corser\.travis.yml,0,0.0,4.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\example\nonopt.js,0,0.0,4.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\union\CHANGELOG.md,3,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\app-argv\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\child_process\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\clipboard\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\document-start-end\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\iframe-remote-neg\package.json,1,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue3780-jailed-elements\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue3780-jailed\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4007-reload-lost-app-window\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4018-vm-crash\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4056-mac-close-crash\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4121-inpect-node-crash\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4130-win-open-close-fail-http\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4138-win-not-close\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4143-chrome-sockets-permission\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4157-nav-win-lost\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4164-close-not-quit\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4199-cookie\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4269-click-link-crash\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4286-inject-start-end\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4352-zoom-all\package.json,0,0.0,4.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue4357-buffer-crash\index.js,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4399-filereader\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4521-notification-perm\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4679-process-event-uncaughtException\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4691-win-open-null\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4822-fail-tick\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue4993-window-resize-event-height\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue5010-bluetooth-permission\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue5020-nested-loop\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue5202-tray-menu-id\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue5220-nwjc-buffer\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue5229-menubar-crash\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue5762-user-data-dir\app\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue5781-X-Frame-Options\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue5787-MediaElementAudioSource\package.json,0,0.0,4.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue5943-mac-dblite-module-with-node8-crash\dbcontrol.js,7,16.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue5947-localStorage_getItem_url_crash\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue6001-devtools-open-crash\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue6099-AdSense-trouble\package.json,1,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue6113-mac-create-crash\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue6136-nwjs-history-escapes-iframe\package.json,1,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue6143-mac-setProgressBar-crash\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue6231-linux-websocket-more-than-2-connections\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue6324-extension_all_frame_true_exit\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue6339-child-process-execSync-crash\package.json,0,0.0,4.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue6663-window-getPrinters-return-array\index.html,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue6663-window-getPrinters-return-array\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue7173-iframe\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue7294-navigation\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue7306-loaded\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue7503-close\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue7609-mixed-context\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\manifest-html-main-inside\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\manifest-html-main\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\manifest-js-main-inside\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\manifest-js-main\package.json,0,0.0,4.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\module-bin\testmodule.js,1,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\nwjc\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\nwuseragent\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\package\app\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\react-devtools-extension\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\require-methods\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\require-path\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\screen-events\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\screen-property\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\screen\package.json,0,0.0,4.0
+nw.js,YAML,D:\clones\nw.js\test\sanity\tar\node_modules\tar\.travis.yml,0,0.0,4.0
+nw.js,YAML,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\node_modules\balanced-match\.travis.yml,0,0.0,4.0
+nw.js,YAML,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\node_modules\concat-map\.travis.yml,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\win-move\package.json,0,0.0,4.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\window-open\remote.html,0,0.0,4.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\worker-nwbin\mytest.js,1,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\worker-process-stdout\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\worker-require-module\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\worker-sharedworker\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\worker-stream-event\package.json,0,0.0,4.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\worker-stream-wrap\package.json,0,0.0,4.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\colors\lib\index.js,1,8.0,3.0
+nw.js,Bourne Shell,D:\clones\nw.js\test\node_modules\ecstatic\tools\get-icons.sh,1,0.0,3.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\example\short.js,0,0.0,3.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\test\_\bin.js,0,0.0,3.0
+nw.js,YAML,D:\clones\nw.js\test\node_modules\qs\.travis.yml,1,0.0,3.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\iframe-remote\test.html,0,0.0,3.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4959-stringify-window\main.html,0,0.0,3.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue5730-add-node-in-permissions\jquery.min.js,0,2.0,3.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue6504-indexedDB-open-crash\worker.js,1,0.0,3.0
+nw.js,make,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\node_modules\balanced-match\Makefile,3,0.0,3.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\rimraf\node_modules\glob\node_modules\minimatch\node_modules\brace-expansion\node_modules\balanced-match\example.js,2,0.0,3.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\colors\safe.js,0,7.0,2.0
+nw.js,Bourne Shell,D:\clones\nw.js\test\node_modules\ecstatic\example\cli.sh,2,0.0,2.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\example\reflect.js,0,0.0,2.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\optimist\test\_\argv.js,0,0.0,2.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\wordwrap\example\meat.js,1,0.0,2.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue5980-aws-sdk-embedded-youtobe-video-crash\index.js,2,0.0,2.0
+nw.js,CSS,D:\clones\nw.js\test\sanity\issue7197-load\css\app.95551f8f.css,1,5.0,2.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue7294-navigation\index.html,0,0.0,2.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\new-win-policy\end.js,0,0.0,2.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\new-win-policy\start.js,1,0.0,2.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\fstream\node_modules\mkdirp\node_modules\minimist\example\parse.js,0,0.0,2.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\worker-process-stdout\worker.js,0,1.0,2.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\async\dist\async.min.js,0,1.0,1.0
+nw.js,YAML,D:\clones\nw.js\test\node_modules\debug\.coveralls.yml,0,0.0,1.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\debug\node.js,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\1089e711f18d2cef72071d9d94b2113a.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\246c1d9b9690a1b25a37590e214926eb.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\370f05d87a90d99a9391d2c4707dabe7.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\3d0091927809edba2172020b3e0eb278.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\43ba11797e49f169b6e0ed203795ffc0.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\440e615b5769bc16d3a797b07369937b.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\45d156bbbe05e26013a2478828a2300f.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\47f92d828cfbd2b8e98f91d65290178c.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\49eb33cd8cebe3f4ac8c85d10406aa0d.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\4b420cf944a9102eadb9161a78cbe6d4.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\4d3a90c70f7e04637f342841413f105d.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\4e4208b377ac94a853b58ea95cf76678.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\72781a4abb14bb9fa12ab44adc03ae95.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\7dca6987350b11397f7b183230cd8ed3.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\8194b7c452bb548b092aced3e5cb504d.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\85d3709905e273444b70ec852b4995af.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\86f120f0940c97d5a9b83c119e07fd1b.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\90450770f19a6254f215aa67f3fd17ba.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\90ba340dcd6d2d939145d1d5dd4f00b3.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\95b26ca55299b8f0e6578dba3580cdd8.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\a2f2985a4ea3dffac854649c4653dd80.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\a708dc3afadc5f62acbddbac4ebe3b22.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\a860bba1a65f01c6497ea05b245f3478.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\aa457714b2f466ea5ef63eab9399b3ed.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\ac19822dc89661f902371db3d0a0c5e3.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\b5225977cfe01259785efd49292dac24.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\b82f09ad43968671cbe2e66ae7eec462.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\b99369b1a3b1c739915c627032b30676.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\ba58ee6f0559fcdd43eb68812779a128.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\bc92c2aaf165b06a2777c3c88f434a9d.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\c5cd7f005408251e64df50ca2012ff6e.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\cc0c6b1e00994792240a528b9bac4eeb.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\d83cb5b33e0221913dd5ce977de3cdc2.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\de480016f80f842ede70e908d8d2914c.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\ecstatic\.nyc_output\ef3194cd8a43a90bd63564bd70f59d3c.json,0,0.0,1.0
+nw.js,CSS,D:\clones\nw.js\test\node_modules\ecstatic\coverage\lcov-report\prettify.css,0,0.0,1.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\ecstatic\coverage\lcov-report\prettify.js,0,0.0,1.0
+nw.js,HTML,D:\clones\nw.js\test\node_modules\ecstatic\example\public\beep\index.html,0,0.0,1.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\http-proxy\index.js,1,11.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\node_modules\mime\types.json,0,0.0,1.0
+nw.js,Markdown,D:\clones\nw.js\test\node_modules\qs\CONTRIBUTING.md,0,0.0,1.0
+nw.js,JavaScript,D:\clones\nw.js\test\node_modules\qs\index.js,0,0.0,1.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\child_process\worker.js,0,0.0,1.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue4018-vm-crash\bug.html,0,0.0,1.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue4121-inpect-node-crash\test.js,0,0.0,1.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue4791-injectend-iframe\inject_end.js,0,0.0,1.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue4877-inject-webview\inject_start.js,0,0.0,1.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue5148-iframe-err-crash\frame.html,0,0.0,1.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue5148-iframe-err-crash\main.html,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\issue5148-iframe-err-crash\package.json,0,0.0,1.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue5220-nwjc-buffer\ajax.js,0,0.0,1.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue5220-nwjc-buffer\arraybuffer.js,0,0.0,1.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue5220-nwjc-buffer\buffer.js,0,0.0,1.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue5220-nwjc-buffer\path.js,0,0.0,1.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\issue6001-devtools-open-crash\index.js,0,0.0,1.0
+nw.js,HTML,D:\clones\nw.js\test\sanity\issue7197-load\index.html,0,0.0,1.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\manifest-default-inject\inject_end.js,0,0.0,1.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\manifest-default-inject\inject_start.js,0,0.0,1.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\manifest-js-main\index.js,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\react-devtools-extension\react-devtools\_metadata\computed_hashes.json,0,0.0,1.0
+nw.js,JSON,D:\clones\nw.js\test\sanity\react-devtools-extension\react-devtools\_metadata\verified_contents.json,0,0.0,1.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\require-path\test.js,0,0.0,1.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\tar\node_modules\tar\node_modules\inherits\inherits.js,0,0.0,1.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\webview-localres-neg\local.js,0,0.0,1.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\webview-localres\local.js,0,0.0,1.0
+nw.js,JavaScript,D:\clones\nw.js\test\sanity\worker-require-module\node_modules\test\index.js,0,0.0,1.0
+nw.js,JavaScript,D:\clones\nw.js\src\resources\nwapp\background.js,0,1.0,0.0
+nw.js,CSS,D:\clones\nw.js\test\sanity\issue5730-add-node-in-permissions\styles.css,0,1.0,0.0

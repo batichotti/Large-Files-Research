@@ -1,0 +1,85 @@
+project,language,filename,blank,comment,code
+fzf,Go,D:\clones\fzf\src\terminal.go,202,85.0,2625.0
+fzf,Ruby,D:\clones\fzf\test\test_go.rb,313,71.0,2325.0
+fzf,Go,D:\clones\fzf\src\options.go,95,24.0,1639.0
+fzf,Markdown,D:\clones\fzf\CHANGELOG.md,200,0.0,1021.0
+fzf,vim script,D:\clones\fzf\plugin\fzf.vim,101,59.0,894.0
+fzf,Go,D:\clones\fzf\src\tui\light.go,86,26.0,875.0
+fzf,Go,D:\clones\fzf\src\algo\algo.go,87,141.0,656.0
+fzf,Go,D:\clones\fzf\src\tui\tcell.go,79,34.0,608.0
+fzf,Go,D:\clones\fzf\src\tui\tui.go,75,3.0,547.0
+fzf,Markdown,D:\clones\fzf\README.md,181,0.0,534.0
+fzf,Go,D:\clones\fzf\src\algo\normalize.go,11,3.0,478.0
+fzf,Markdown,D:\clones\fzf\ADVANCED.md,129,0.0,475.0
+fzf,Go,D:\clones\fzf\src\options_test.go,39,7.0,411.0
+fzf,Go,D:\clones\fzf\src\terminal_test.go,99,148.0,391.0
+fzf,Markdown,D:\clones\fzf\README-VIM.md,102,0.0,384.0
+fzf,Go,D:\clones\fzf\src\ansi_test.go,42,17.0,368.0
+fzf,Go,D:\clones\fzf\src\pattern.go,43,25.0,357.0
+fzf,Go,D:\clones\fzf\src\ansi.go,35,34.0,340.0
+fzf,Bourne Again Shell,D:\clones\fzf\install,38,10.0,329.0
+fzf,Bourne Again Shell,D:\clones\fzf\shell\completion.bash,40,22.0,319.0
+fzf,Go,D:\clones\fzf\src\core.go,28,41.0,286.0
+fzf,zsh,D:\clones\fzf\shell\completion.zsh,36,67.0,226.0
+fzf,Go,D:\clones\fzf\src\tokenizer.go,21,12.0,220.0
+fzf,Bourne Again Shell,D:\clones\fzf\bin\fzf-tmux,24,12.0,197.0
+fzf,Go,D:\clones\fzf\src\matcher.go,31,8.0,196.0
+fzf,Go,D:\clones\fzf\src\pattern_test.go,18,0.0,191.0
+fzf,Go,D:\clones\fzf\src\result.go,31,24.0,188.0
+fzf,Go,D:\clones\fzf\src\reader.go,16,7.0,178.0
+fzf,Go,D:\clones\fzf\src\algo\algo_test.go,21,4.0,172.0
+fzf,Go,D:\clones\fzf\src\util\chars.go,23,6.0,169.0
+fzf,Go,D:\clones\fzf\src\tui\tcell_test.go,27,236.0,129.0
+fzf,Go,D:\clones\fzf\src\util\util.go,16,13.0,126.0
+fzf,make,D:\clones\fzf\Makefile,32,9.0,125.0
+fzf,Go,D:\clones\fzf\src\result_test.go,17,15.0,125.0
+fzf,Fish Shell,D:\clones\fzf\shell\key-bindings.fish,26,31.0,115.0
+fzf,YAML,D:\clones\fzf\.goreleaser.yml,8,0.0,111.0
+fzf,Go,D:\clones\fzf\src\tui\light_windows.go,21,14.0,110.0
+fzf,Bourne Again Shell,D:\clones\fzf\uninstall,13,0.0,104.0
+fzf,Go,D:\clones\fzf\src\tokenizer_test.go,7,3.0,102.0
+fzf,Go,D:\clones\fzf\src\merger.go,14,8.0,98.0
+fzf,Go,D:\clones\fzf\src\tui\light_unix.go,15,3.0,92.0
+fzf,zsh,D:\clones\fzf\shell\key-bindings.zsh,11,19.0,90.0
+fzf,Go,D:\clones\fzf\src\history.go,10,7.0,79.0
+fzf,Go,D:\clones\fzf\src\merger_test.go,11,3.0,74.0
+fzf,Go,D:\clones\fzf\src\util\eventbox.go,14,12.0,70.0
+fzf,Bourne Again Shell,D:\clones\fzf\shell\key-bindings.bash,13,20.0,63.0
+fzf,Go,D:\clones\fzf\src\chunklist.go,17,10.0,62.0
+fzf,Go,D:\clones\fzf\src\util\util_windows.go,10,11.0,62.0
+fzf,PowerShell,D:\clones\fzf\install.ps1,5,0.0,60.0
+fzf,Go,D:\clones\fzf\src\history_test.go,6,2.0,60.0
+fzf,Go,D:\clones\fzf\src\cache.go,14,8.0,59.0
+fzf,Go,D:\clones\fzf\src\constants.go,16,11.0,58.0
+fzf,Go,D:\clones\fzf\src\util\util_test.go,8,0.0,58.0
+fzf,Go,D:\clones\fzf\src\chunklist_test.go,14,9.0,57.0
+fzf,Go,D:\clones\fzf\src\util\eventbox_test.go,7,2.0,52.0
+fzf,Go,D:\clones\fzf\src\reader_test.go,13,9.0,41.0
+fzf,Go,D:\clones\fzf\src\util\chars_test.go,5,0.0,41.0
+fzf,Go,D:\clones\fzf\src\tui\ttyname_unix.go,7,2.0,38.0
+fzf,Markdown,D:\clones\fzf\BUILD.md,13,0.0,36.0
+fzf,Go,D:\clones\fzf\src\cache_test.go,3,0.0,36.0
+fzf,YAML,D:\clones\fzf\.github\workflows\linux.yml,10,0.0,35.0
+fzf,YAML,D:\clones\fzf\.github\workflows\macos.yml,10,0.0,35.0
+fzf,YAML,D:\clones\fzf\.github\workflows\codeql-analysis.yml,8,2.0,34.0
+fzf,Go,D:\clones\fzf\src\item.go,7,4.0,33.0
+fzf,Go,D:\clones\fzf\src\tui\dummy.go,10,1.0,33.0
+fzf,Go,D:\clones\fzf\src\util\util_unix.go,8,7.0,32.0
+fzf,Go,D:\clones\fzf\src\terminal_windows.go,7,7.0,31.0
+fzf,YAML,D:\clones\fzf\.rubocop.yml,0,0.0,28.0
+fzf,Go,D:\clones\fzf\src\util\atomicbool.go,6,5.0,23.0
+fzf,Go,D:\clones\fzf\src\item_test.go,3,0.0,20.0
+fzf,Go,D:\clones\fzf\src\terminal_unix.go,6,1.0,19.0
+fzf,Go,D:\clones\fzf\src\tui\tui_test.go,3,0.0,17.0
+fzf,Markdown,D:\clones\fzf\.github\ISSUE_TEMPLATE.md,6,0.0,16.0
+fzf,Go,D:\clones\fzf\src\util\atomicbool_test.go,3,0.0,14.0
+fzf,Go,D:\clones\fzf\src\result_others.go,2,1.0,13.0
+fzf,Go,D:\clones\fzf\src\result_x86.go,3,1.0,12.0
+fzf,Go,D:\clones\fzf\main.go,3,0.0,11.0
+fzf,YAML,D:\clones\fzf\.github\dependabot.yml,0,0.0,10.0
+fzf,Go,D:\clones\fzf\src\util\slab.go,2,0.0,10.0
+fzf,Dockerfile,D:\clones\fzf\Dockerfile,1,1.0,9.0
+fzf,Go,D:\clones\fzf\src\tui\ttyname_windows.go,4,2.0,8.0
+fzf,Go,D:\clones\fzf\src\protector\protector_openbsd.go,3,2.0,5.0
+fzf,Go,D:\clones\fzf\src\protector\protector.go,2,2.0,4.0
+fzf,YAML,D:\clones\fzf\.github\FUNDING.yml,0,0.0,1.0

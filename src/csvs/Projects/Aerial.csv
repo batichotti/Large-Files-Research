@@ -1,0 +1,212 @@
+project,language,filename,blank,comment,code
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\Settings panels\OverlaysViewController.xib,4,3.0,1874.0
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\VideosViewController.xib,0,0.0,1009.0
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\Settings panels\SourcesViewController.xib,1,0.0,638.0
+Aerial,XML,D:\clones\Aerial\Resources\Old stuff\CustomVideos.xib,1,0.0,627.0
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\Settings panels\AdvancedViewController.xib,6,0.0,595.0
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\Settings panels\TimeViewController.xib,7,2.0,580.0
+Aerial,XML,D:\clones\Aerial\beta-appcast.xml,50,0.0,559.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\VideosViewController.swift,120,76.0,547.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Prefs\PrefsInfo.swift,78,48.0,541.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\AerialView.swift,132,100.0,525.0
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\Settings panels\CacheViewController.xib,0,0.0,519.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\ManifestLoader.swift,151,444.0,509.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Cache\Cache.swift,135,176.0,495.0
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\First time setup\VideoFormatViewController.xib,0,0.0,437.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Controllers\CustomVideoController.swift,94,80.0,436.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Sources\VideoList.swift,76,85.0,424.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Sources\SourceList.swift,79,33.0,382.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Layers\Weather\ForecastLayer.swift,113,42.0,376.0
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\Settings panels\DisplaysViewController.xib,0,0.0,375.0
+Aerial,JSON,D:\clones\Aerial\Resources\Community\en.json,0,0.0,374.0
+Aerial,JSON,D:\clones\Aerial\Resources\Community\fr.json,0,0.0,374.0
+Aerial,JSON,D:\clones\Aerial\Resources\Community\hu.json,0,0.0,374.0
+Aerial,JSON,D:\clones\Aerial\Resources\Community\ru.json,0,0.0,374.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Hardware\DisplayDetection.swift,75,43.0,356.0
+Aerial,XML,D:\clones\Aerial\Aerial\App\Resources\Base.lproj\MainMenu.xib,0,0.0,345.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Sources\Source.swift,68,42.0,337.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Music\Music.swift,32,38.0,336.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Prefs\Preferences.swift,59,13.0,331.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\SidebarViewController.swift,80,40.0,313.0
+Aerial,JSON,D:\clones\Aerial\Resources\Community\ar.json,0,0.0,299.0
+Aerial,JSON,D:\clones\Aerial\Resources\Community\de.json,0,0.0,299.0
+Aerial,JSON,D:\clones\Aerial\Resources\Community\es.json,0,0.0,299.0
+Aerial,JSON,D:\clones\Aerial\Resources\Community\he.json,0,0.0,299.0
+Aerial,JSON,D:\clones\Aerial\Resources\Community\it.json,0,0.0,299.0
+Aerial,JSON,D:\clones\Aerial\Resources\Community\ja.json,0,0.0,299.0
+Aerial,JSON,D:\clones\Aerial\Resources\Community\ko.json,0,0.0,299.0
+Aerial,JSON,D:\clones\Aerial\Resources\Community\nl.json,0,0.0,299.0
+Aerial,JSON,D:\clones\Aerial\Resources\Community\pl.json,0,0.0,299.0
+Aerial,JSON,D:\clones\Aerial\Resources\Community\pt_BR.json,0,0.0,299.0
+Aerial,JSON,D:\clones\Aerial\Resources\Community\sv.json,0,0.0,299.0
+Aerial,JSON,D:\clones\Aerial\Resources\Community\zh_CN.json,0,0.0,299.0
+Aerial,JSON,D:\clones\Aerial\Resources\Community\zh_TW.json,0,0.0,299.0
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\First time setup\TimeSetupViewController.xib,0,2.0,294.0
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\Settings panels\NowPlayingViewController.xib,0,0.0,291.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Sources\SourceInfo.swift,26,31.0,288.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\Settings panels\SourcesViewController.swift,60,41.0,266.0
+Aerial,XML,D:\clones\Aerial\appcast.xml,30,0.0,254.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Time\TimeManagement.swift,47,66.0,252.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Cache\PoiStringProvider.swift,39,41.0,251.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\Settings panels\CacheViewController.swift,64,27.0,249.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Cache\VideoCache.swift,73,137.0,242.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Cache\VideoDownload.swift,67,22.0,232.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Layers\Weather\ConditionSymbolLayer.swift,52,31.0,218.0
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\First time setup\RecapViewController.xib,0,0.0,218.0
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\SidebarViewController.xib,0,0.0,215.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\PanelWindowController.swift,46,33.0,209.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Time\Solar.swift,63,71.0,208.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\Settings panels\AdvancedViewController.swift,54,21.0,204.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\AerialVideo.swift,35,32.0,201.0
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\First time setup\CacheSetupViewController.xib,0,0.0,197.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Layers\AnimatableLayer.swift,49,48.0,195.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Layers\Weather\ConditionLayer.swift,73,40.0,192.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\API\OneCall.swift,39,61.0,191.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\API\Forecast.swift,35,30.0,189.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\API\OpenWeather.swift,35,27.0,187.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\PrefPanel\DisplayView.swift,42,32.0,187.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\Settings panels\TimeViewController.swift,42,19.0,182.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Aerial.swift,30,28.0,172.0
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\Settings panels\FiltersViewController.xib,0,0.0,161.0
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\Infos panels\CreditsViewController.xib,2,0.0,160.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Cache\VideoLoader.swift,57,25.0,159.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\CustomVideoFolders.swift,34,11.0,157.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\PrefPanel\InfoCommonView.swift,32,38.0,156.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Layers\LayerManager.swift,34,44.0,155.0
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\Settings panels\BrightnessViewController.xib,0,0.0,152.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\Settings panels\NowPlayingViewController.swift,46,18.0,148.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Cache\VideoManager.swift,34,27.0,147.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Cache\Thumbnails.swift,31,42.0,145.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\Settings panels\OverlaysViewController.swift,40,35.0,144.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Prefs\PrefsVideos.swift,37,35.0,139.0
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\Infos panels\HelpViewController.xib,0,0.0,139.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\PrefPanel\InfoWeatherView.swift,23,15.0,136.0
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\Infos panels\InfoViewController.xib,1,0.0,129.0
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\Settings panels\Collection View\PlayingCollectionViewItem.xib,0,0.0,125.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\ErrorLog.swift,31,22.0,122.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Layers\Weather\WeatherLayer.swift,21,17.0,121.0
+Aerial,Markdown,D:\clones\Aerial\Documentation\FAQs.md,74,0.0,117.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Layers\AnimationTextLayer.swift,30,30.0,116.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Downloads\DownloadManager.swift,40,30.0,114.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Layers\BatteryIconLayer.swift,31,17.0,110.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\AerialView+Player.swift,25,18.0,109.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Sources\Sidebar.swift,19,12.0,106.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\PrefPanel\CheckCellView.swift,24,9.0,105.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Hardware\HardwareDetection.swift,20,36.0,103.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\PrefPanel\InfoTableSource.swift,27,19.0,101.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\Settings panels\DisplaysViewController.swift,26,17.0,100.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Layers\LocationLayer.swift,29,27.0,99.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Layers\MessageLayer.swift,22,14.0,99.0
+Aerial,Markdown,D:\clones\Aerial\Documentation\ChangeLog.md,69,0.0,97.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Locations.swift,18,27.0,93.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Layers\CountdownLayer.swift,24,18.0,90.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Layers\Music\MusicLayer.swift,29,25.0,87.0
+Aerial,XML,D:\clones\Aerial\Aerial.xcodeproj\xcshareddata\xcschemes\Aerial.xcscheme,0,0.0,85.0
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\First time setup\WelcomeViewController.xib,0,0.0,83.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\First time setup\FirstSetupWindowController.swift,18,10.0,82.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\Settings panels\BrightnessViewController.swift,21,9.0,80.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\First time setup\TimeSetupViewController.swift,22,12.0,77.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\First time setup\VideoFormatViewController.swift,18,12.0,76.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\API\GeoCoding.swift,15,17.0,75.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Layers\TimerLayer.swift,19,16.0,74.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Hardware\NightShift.swift,20,14.0,73.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\Settings panels\FiltersViewController.swift,20,10.0,70.0
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\First time setup\NextViewController.xib,0,0.0,69.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Extensions\NSImage+trim.swift,21,14.0,68.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Cache\AssetLoaderDelegate.swift,20,15.0,65.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Layers\DateLayer.swift,14,13.0,64.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\PrefPanel\InfoSettingsView.swift,23,12.0,63.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Layers\ClockLayer.swift,17,13.0,62.0
+Aerial,JSON,D:\clones\Aerial\Aerial\App\Resources\Assets.xcassets\AppIcon.appiconset\Contents.json,0,0.0,59.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Sources\DescriptionCellView.swift,11,16.0,57.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Layers\Music\ArtworkLayer.swift,14,10.0,55.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\Settings panels\Collection View\PlayingCollectionViewItem.swift,16,26.0,53.0
+Aerial,Markdown,D:\clones\Aerial\Documentation\Troubleshooting.md,28,0.0,52.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\PrefPanel\InfoMessageView.swift,17,11.0,51.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Cache\TimeMachine.swift,20,9.0,50.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Prefs\PrefsDisplays.swift,14,18.0,50.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Layers\AnimationLayer.swift,12,16.0,50.0
+Aerial,XML,D:\clones\Aerial\AerialApp copy-Info.plist,0,0.0,49.0
+Aerial,Markdown,D:\clones\Aerial\Documentation\Installation.md,30,0.0,49.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Prefs\PrefsTime.swift,17,20.0,47.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\AerialView+Brightness.swift,7,13.0,47.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Layers\DownloadIndicatorLayer.swift,11,12.0,47.0
+Aerial,Markdown,D:\clones\Aerial\Documentation\MoreVideos.md,26,0.0,47.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\PrefPanel\InfoClockView.swift,11,9.0,46.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Music\AppleMusicSong.swift,10,20.0,45.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Music\AppleMusicSearch.swift,10,20.0,44.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\PrefPanel\InfoCountdownView.swift,14,10.0,44.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\CustomVideoFolders+helpers.swift,8,8.0,43.0
+Aerial,XML,D:\clones\Aerial\Resources\Old stuff\Info.plist,0,0.0,43.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\MainUI\VideoCellView.swift,12,10.0,41.0
+Aerial,JSON,D:\clones\Aerial\Aerial\App\Resources\Assets.xcassets\Accent Color.colorset\Contents.json,0,0.0,38.0
+Aerial,JSON,D:\clones\Aerial\Aerial\App\Resources\Assets.xcassets\FirstPanelBackground.colorset\Contents.json,0,0.0,38.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Hardware\Battery.swift,13,15.0,38.0
+Aerial,XML,D:\clones\Aerial\Aerial.xcodeproj\xcuserdata\macbook.xcuserdatad\xcschemes\xcschememanagement.plist,0,0.0,37.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Downloads\AsynchronousOperation.swift,23,31.0,37.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\PrefPanel\InfoSettingsTableSource.swift,11,9.0,36.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\PrefPanel\InfoTimerView.swift,8,8.0,36.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Extensions\AVAsset+VideoOrientation.swift,9,16.0,35.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Prefs\PrefsCache.swift,14,18.0,34.0
+Aerial,Markdown,D:\clones\Aerial\Readme.md,27,0.0,34.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\PrefPanel\InfoMusicView.swift,10,9.0,33.0
+Aerial,Markdown,D:\clones\Aerial\Resources\Community\Readme.md,16,0.0,33.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Sources\ActionCellView.swift,4,7.0,31.0
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\PanelWindowController.xib,0,0.0,31.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\PrefPanel\VideoViewItem.swift,6,15.0,30.0
+Aerial,XML,D:\clones\Aerial\Resources\MainUI\First time setup\FirstSetupWindowController.xib,0,0.0,30.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\First time setup\NextViewController.swift,8,8.0,30.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\First time setup\CacheSetupViewController.swift,6,8.0,29.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\Infos panels\CreditsViewController.swift,7,8.0,26.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\Infos panels\HelpViewController.swift,8,8.0,26.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Prefs\PrefsUpdates.swift,6,12.0,25.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\PrefPanel\InfoDateView.swift,10,8.0,25.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Downloads\FileHelpers.swift,6,7.0,24.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\MainUI\AspectFillNSImageView.swift,9,9.0,24.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Extensions\AVPlayerItem+vibrance.swift,7,7.0,23.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\SeededGenerator.swift,7,7.0,23.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Layers\LayerOffsets.swift,3,7.0,23.0
+Aerial,Markdown,D:\clones\Aerial\Documentation\AutoUpdates.md,22,0.0,23.0
+Aerial,Markdown,D:\clones\Aerial\Documentation\Contribute.md,14,0.0,23.0
+Aerial,Markdown,D:\clones\Aerial\Documentation\OfflineMode.md,16,0.0,23.0
+Aerial,make,D:\clones\Aerial\Makefile,10,0.0,22.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\First time setup\RecapViewController.swift,5,8.0,22.0
+Aerial,XML,D:\clones\Aerial\Tests\Info.plist,0,0.0,22.0
+Aerial,YAML,D:\clones\Aerial\.swiftlint.yml,3,9.0,21.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\PlaybackSpeed.swift,4,8.0,20.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Music\SpotifySong.swift,3,11.0,19.0
+Aerial,Markdown,D:\clones\Aerial\Documentation\CustomVideos.md,19,0.0,19.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Hardware\DarkMode.swift,3,8.0,18.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\Infos panels\InfoViewController.swift,7,7.0,18.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Layers\Weather\WindDirectionLayer.swift,4,7.0,17.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Layers\Weather\YahooLogoLayer.swift,4,8.0,17.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Hardware\Brightness.swift,5,7.0,16.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Sources\CheckboxCellView.swift,8,14.0,16.0
+Aerial,Markdown,D:\clones\Aerial\Documentation\HardwareDecoding.md,11,0.0,16.0
+Aerial,JSON,D:\clones\Aerial\Resources\Community\missingvideos.json,0,0.0,16.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Extensions\AVPlayerViewExtension.swift,5,9.0,14.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\MainUI\SidebarOutlineView.swift,8,7.0,14.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\Sources\SourceOutlineView.swift,8,7.0,14.0
+Aerial,Markdown,D:\clones\Aerial\issue_template.md,6,0.0,14.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Extensions\DispatchQueue+Extension.swift,4,7.0,13.0
+Aerial,Swift,D:\clones\Aerial\Resources\MainUI\First time setup\WelcomeViewController.swift,4,8.0,12.0
+Aerial,Swift,D:\clones\Aerial\Aerial\App\AppDelegate.swift,4,9.0,11.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Extensions\NSButton+icons.swift,4,7.0,11.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Prefs\PrefsAdvanced.swift,6,8.0,11.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\AerialPlayerItem.swift,2,7.0,11.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\PrefPanel\InfoBatteryView.swift,4,8.0,11.0
+Aerial,YAML,D:\clones\Aerial\.travis.yml,0,0.0,10.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\PrefPanel\InfoLocationView.swift,6,8.0,10.0
+Aerial,Markdown,D:\clones\Aerial\Documentation\README.md,10,0.0,10.0
+Aerial,XML,D:\clones\Aerial\Aerial.xcodeproj\project.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist,0,0.0,8.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\PrefPanel\VideoHeaderView.swift,4,9.0,8.0
+Aerial,YAML,D:\clones\Aerial\.codeclimate.yml,1,0.0,7.0
+Aerial,XML,D:\clones\Aerial\Aerial.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\Extensions\NSMenuItem+icons.swift,2,7.0,7.0
+Aerial,JSON,D:\clones\Aerial\Aerial\App\Resources\Assets.xcassets\Contents.json,0,0.0,6.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Models\API\APISecrets.swift,3,10.0,6.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\PrefPanel\InfoContainerView.swift,2,9.0,4.0
+Aerial,Swift,D:\clones\Aerial\Aerial\Source\Views\MainUI\ShadowTextFieldCell.swift,3,7.0,3.0
+Aerial,C/C++ Header,D:\clones\Aerial\Aerial\Source\Models\Time\Aerial-Bridging-Header.h,1,4.0,1.0
+Aerial,Objective-C,D:\clones\Aerial\Aerial\Source\Models\Time\IOBridge.m,1,8.0,1.0
+Aerial,Swift,D:\clones\Aerial\Tests\PreferencesTests.swift,5,25.0,0.0

@@ -1,0 +1,9 @@
+project,language,filename,blank,comment,code
+spring-framework,JSP,D:\clones\spring-framework\spring-test\src\test\webapp\WEB-INF\layouts\main.jsp,1,0.0,11.0
+spring-boot,JSP,D:\clones\spring-boot\spring-boot-tests\spring-boot-smoke-tests\spring-boot-smoke-test-web-jsp\src\main\webapp\WEB-INF\jsp\welcome.jsp,4,0.0,14.0
+spring-framework,JSP,D:\clones\spring-framework\spring-test\src\test\resources\META-INF\web-resources\WEB-INF\layouts\standardLayout.jsp,0,0.0,12.0
+spring-boot,JSP,D:\clones\spring-boot\spring-boot-tests\spring-boot-smoke-tests\spring-boot-smoke-test-web-jsp\src\main\webapp\WEB-INF\jsp\error.jsp,0,0.0,6.0
+spring-boot,JSP,D:\clones\spring-boot\spring-boot-tests\spring-boot-smoke-tests\spring-boot-smoke-test-traditional\src\main\webapp\WEB-INF\views\home.jsp,0,0.0,11.0
+Hystrix,JSP,D:\clones\Hystrix\hystrix-examples-webapp\src\main\webapp\index.jsp,5,0.0,73.0
+spring-framework,JSP,D:\clones\spring-framework\spring-webmvc\src\test\resources\org\springframework\web\servlet\config\annotation\WEB-INF\index.jsp,1,0.0,11.0
+spring-framework,JSP,D:\clones\spring-framework\spring-test\src\test\resources\META-INF\web-resources\WEB-INF\views\home.jsp,1,0.0,1.0

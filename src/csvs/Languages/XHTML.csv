@@ -1,0 +1,9 @@
+project,language,filename,blank,comment,code
+node,XHTML,D:\clones\node\test\fixtures\wpt\url\a-element-xhtml.xhtml,0,1.0,14.0
+ipython,XHTML,D:\clones\ipython\docs\source\interactive\figs\jn.xhtml,0,0.0,375.0
+h2o,XHTML,D:\clones\h2o\t\50mimemap\doc_root\index.xhtml,0,0.0,1.0
+node,XHTML,D:\clones\node\test\fixtures\wpt\common\third_party\reftest-analyzer.xhtml,101,34.0,799.0
+node,XHTML,D:\clones\node\test\fixtures\wpt\common\dummy.xhtml,0,0.0,2.0
+jekyll,XHTML,D:\clones\jekyll\test\fixtures\webrick\bar\foo.xhtml,0,0.0,1.0
+brackets,XHTML,D:\clones\brackets\test\spec\LiveDevelopment-test-files\test.xhtml,1,0.0,14.0
+node,XHTML,D:\clones\node\test\fixtures\wpt\url\a-element-origin-xhtml.xhtml,0,1.0,14.0

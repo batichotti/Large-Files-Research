@@ -1,0 +1,187 @@
+project,language,filename,blank,comment,code
+hub,Cucumber,D:\clones\hub\features\pull_request.feature,110,6.0,1271.0
+hub,Go,D:\clones\hub\github\client.go,226,5.0,1177.0
+hub,Cucumber,D:\clones\hub\features\issue.feature,67,15.0,849.0
+hub,Cucumber,D:\clones\hub\features\release.feature,57,8.0,833.0
+hub,Go,D:\clones\hub\commands\issue.go,163,0.0,762.0
+hub,Go,D:\clones\hub\commands\release.go,140,0.0,584.0
+hub,Go,D:\clones\hub\github\http.go,73,5.0,509.0
+hub,Cucumber,D:\clones\hub\features\authentication.feature,24,0.0,507.0
+hub,Cucumber,D:\clones\hub\features\api.feature,34,0.0,496.0
+hub,Go,D:\clones\hub\commands\pr.go,117,1.0,414.0
+hub,Go,D:\clones\hub\commands\pull_request.go,86,2.0,396.0
+hub,Go,D:\clones\hub\github\config.go,65,11.0,338.0
+hub,Cucumber,D:\clones\hub\features\checkout.feature,14,0.0,322.0
+hub,Bourne Shell,D:\clones\hub\etc\hub.bash_completion.sh,19,48.0,320.0
+hub,Go,D:\clones\hub\git\git.go,63,5.0,319.0
+hub,Go,D:\clones\hub\commands\api.go,59,0.0,311.0
+hub,Go,D:\clones\hub\commands\issue_test.go,8,0.0,302.0
+hub,Cucumber,D:\clones\hub\features\fork.feature,19,0.0,286.0
+hub,Cucumber,D:\clones\hub\features\create.feature,23,0.0,280.0
+hub,Cucumber,D:\clones\hub\features\clone.feature,28,0.0,275.0
+hub,Ruby,D:\clones\hub\features\steps.rb,52,2.0,263.0
+hub,Ruby,D:\clones\hub\features\support\completion.rb,37,10.0,254.0
+hub,Cucumber,D:\clones\hub\features\pr-list.feature,17,8.0,235.0
+hub,Go,D:\clones\hub\github\localrepo.go,49,3.0,235.0
+hub,Go,D:\clones\hub\github\config_service_test.go,41,0.0,213.0
+hub,Go,D:\clones\hub\ui\format.go,39,12.0,213.0
+hub,Cucumber,D:\clones\hub\features\gist.feature,11,0.0,209.0
+hub,Go,D:\clones\hub\commands\args.go,44,0.0,205.0
+hub,Cucumber,D:\clones\hub\features\pr-show.feature,13,2.0,205.0
+hub,Go,D:\clones\hub\md2roff\renderer.go,21,1.0,201.0
+hub,Cucumber,D:\clones\hub\features\remote_add.feature,25,0.0,197.0
+hub,Go,D:\clones\hub\commands\help.go,31,5.0,193.0
+hub,Go,D:\clones\hub\utils\args_parser_test.go,20,0.0,193.0
+hub,Cucumber,D:\clones\hub\features\pr-merge.feature,24,0.0,191.0
+hub,Go,D:\clones\hub\utils\args_parser.go,23,0.0,189.0
+hub,Cucumber,D:\clones\hub\features\ci_status.feature,15,0.0,187.0
+hub,Cucumber,D:\clones\hub\features\browse.feature,34,0.0,185.0
+hub,Go,D:\clones\hub\commands\ci_status.go,35,0.0,170.0
+hub,Go,D:\clones\hub\ui\format_test.go,7,0.0,166.0
+hub,Go,D:\clones\hub\github\project.go,29,1.0,162.0
+hub,Ruby,D:\clones\hub\features\support\local_server.rb,25,1.0,161.0
+hub,Cucumber,D:\clones\hub\features\fetch.feature,14,0.0,152.0
+hub,Go,D:\clones\hub\git\git_test.go,33,3.0,150.0
+hub,Cucumber,D:\clones\hub\features\compare.feature,26,0.0,145.0
+hub,Go,D:\clones\hub\github\project_test.go,34,0.0,143.0
+hub,Go,D:\clones\hub\md2roff-bin\cmd.go,21,0.0,141.0
+hub,Go,D:\clones\hub\commands\runner.go,30,2.0,140.0
+hub,Markdown,D:\clones\hub\share\man\man1\hub.1.md,72,0.0,140.0
+hub,Go,D:\clones\hub\commands\checkout.go,29,2.0,135.0
+hub,Go,D:\clones\hub\commands\commands.go,28,0.0,134.0
+hub,Go,D:\clones\hub\commands\gist.go,33,0.0,130.0
+hub,Go,D:\clones\hub\github\crash_report.go,28,0.0,130.0
+hub,Go,D:\clones\hub\github\editor.go,26,1.0,129.0
+hub,Go,D:\clones\hub\commands\clone.go,27,1.0,125.0
+hub,Go,D:\clones\hub\utils\color.go,16,0.0,124.0
+hub,Go,D:\clones\hub\cmd\cmd.go,26,8.0,123.0
+hub,Go,D:\clones\hub\commands\create.go,28,0.0,123.0
+hub,Go,D:\clones\hub\commands\remote.go,25,2.0,123.0
+hub,Go,D:\clones\hub\commands\compare.go,31,1.0,122.0
+hub,Go,D:\clones\hub\github\template_test.go,35,0.0,122.0
+hub,Ruby,D:\clones\hub\features\support\env.rb,20,18.0,118.0
+hub,Bourne Shell,D:\clones\hub\fixtures\test.git\hooks\pre-rebase.sample,31,21.0,117.0
+hub,Markdown,D:\clones\hub\README.md,46,0.0,116.0
+hub,Go,D:\clones\hub\commands\args_test.go,27,0.0,113.0
+hub,Go,D:\clones\hub\commands\sync.go,24,0.0,113.0
+hub,Cucumber,D:\clones\hub\features\alias.feature,21,6.0,112.0
+hub,Go,D:\clones\hub\commands\browse.go,26,0.0,110.0
+hub,Go,D:\clones\hub\commands\alias.go,19,0.0,108.0
+hub,Go,D:\clones\hub\commands\commands_test.go,38,0.0,108.0
+hub,Go,D:\clones\hub\commands\fork.go,21,2.0,105.0
+hub,Go,D:\clones\hub\commands\utils.go,21,0.0,101.0
+hub,Go,D:\clones\hub\utils\utils.go,18,0.0,101.0
+hub,Go,D:\clones\hub\utils\json.go,8,0.0,96.0
+hub,Go,D:\clones\hub\commands\apply.go,21,1.0,92.0
+hub,Cucumber,D:\clones\hub\features\merge.feature,5,0.0,92.0
+hub,HTML,D:\clones\hub\man-template.html,4,0.0,91.0
+hub,Go,D:\clones\hub\fixtures\test_configs.go,24,0.0,90.0
+hub,Cucumber,D:\clones\hub\features\delete.feature,6,0.0,89.0
+hub,Go,D:\clones\hub\commands\cherry_pick.go,16,0.0,82.0
+hub,Go,D:\clones\hub\github\remote.go,16,3.0,82.0
+hub,Go,D:\clones\hub\commands\fetch.go,17,0.0,81.0
+hub,Bourne Shell,D:\clones\hub\fixtures\test.git\hooks\update.sample,8,39.0,81.0
+hub,make,D:\clones\hub\Makefile,19,0.0,80.0
+hub,Go,D:\clones\hub\commands\merge.go,22,1.0,79.0
+hub,Cucumber,D:\clones\hub\features\am.feature,7,0.0,79.0
+hub,Cucumber,D:\clones\hub\features\pr-checkout.feature,3,0.0,79.0
+hub,Go,D:\clones\hub\commands\delete.go,19,0.0,78.0
+hub,Go,D:\clones\hub\github\http_test.go,16,0.0,78.0
+hub,Go,D:\clones\hub\ui\ui.go,16,5.0,77.0
+hub,Go,D:\clones\hub\commands\init.go,20,4.0,76.0
+hub,Go,D:\clones\hub\git\ssh_config.go,14,0.0,76.0
+hub,Go,D:\clones\hub\commands\init_test.go,21,0.0,72.0
+hub,Cucumber,D:\clones\hub\features\issue-transfer.feature,2,0.0,71.0
+hub,Cucumber,D:\clones\hub\features\apply.feature,6,0.0,70.0
+hub,Go,D:\clones\hub\fixtures\test_repo.go,13,0.0,68.0
+hub,Go,D:\clones\hub\git\url_test.go,17,0.0,68.0
+hub,Go,D:\clones\hub\github\template.go,13,0.0,68.0
+hub,Cucumber,D:\clones\hub\features\submodule_add.feature,5,1.0,67.0
+hub,Go,D:\clones\hub\github\remote_test.go,14,0.0,66.0
+hub,Go,D:\clones\hub\github\config_decoder.go,11,0.0,65.0
+hub,Bourne Again Shell,D:\clones\hub\script\coverage,11,0.0,64.0
+hub,Go,D:\clones\hub\github\editor_test.go,15,1.0,62.0
+hub,Go,D:\clones\hub\github\message_builder.go,9,0.0,55.0
+hub,Bourne Again Shell,D:\clones\hub\script\test,9,3.0,55.0
+hub,Go,D:\clones\hub\utils\utils_test.go,17,0.0,54.0
+hub,Go,D:\clones\hub\commands\push.go,15,0.0,51.0
+hub,Go,D:\clones\hub\github\hosts.go,13,0.0,51.0
+hub,Bourne Again Shell,D:\clones\hub\script\package,11,3.0,51.0
+hub,Bourne Again Shell,D:\clones\hub\features\support\fakebin\git,2,5.0,50.0
+hub,Cucumber,D:\clones\hub\features\sync.feature,6,0.0,50.0
+hub,Go,D:\clones\hub\git\url.go,14,3.0,49.0
+hub,Cucumber,D:\clones\hub\features\cherry_pick.feature,10,0.0,48.0
+hub,Go,D:\clones\hub\coverage\coverage.go,6,0.0,47.0
+hub,Markdown,D:\clones\hub\CONTRIBUTING.md,15,0.0,45.0
+hub,Bourne Again Shell,D:\clones\hub\script\get,7,3.0,44.0
+hub,Go,D:\clones\hub\commands\remote_test.go,12,0.0,42.0
+hub,Cucumber,D:\clones\hub\features\help.feature,10,0.0,42.0
+hub,Go,D:\clones\hub\github\config_encoder.go,10,0.0,42.0
+hub,Go,D:\clones\hub\github\branch.go,12,0.0,41.0
+hub,DOS Batch,D:\clones\hub\script\install.bat,12,8.0,41.0
+hub,Cucumber,D:\clones\hub\features\zsh_completion.feature,7,1.0,37.0
+hub,Go,D:\clones\hub\github\client_test.go,10,0.0,37.0
+hub,Markdown,D:\clones\hub\features\README.md,13,0.0,36.0
+hub,Cucumber,D:\clones\hub\features\git_compatibility.feature,3,0.0,36.0
+hub,Ruby,D:\clones\hub\features\support\rspec_matchers.rb,14,4.0,35.0
+hub,Go,D:\clones\hub\github\config_service.go,8,0.0,35.0
+hub,Go,D:\clones\hub\main.go,6,2.0,35.0
+hub,Cucumber,D:\clones\hub\features\bash_completion.feature,9,0.0,34.0
+hub,Markdown,D:\clones\hub\etc\README.md,14,0.0,33.0
+hub,Go,D:\clones\hub\git\ssh_config_test.go,9,0.0,31.0
+hub,Bourne Again Shell,D:\clones\hub\script\build,6,2.0,31.0
+hub,Go,D:\clones\hub\commands\submodule.go,7,0.0,30.0
+hub,Go,D:\clones\hub\github\branch_test.go,11,0.0,29.0
+hub,Bourne Again Shell,D:\clones\hub\script\publish-release,8,0.0,29.0
+hub,Markdown,D:\clones\hub\CODE_OF_CONDUCT.md,18,0.0,28.0
+hub,Bourne Shell,D:\clones\hub\fixtures\test.git\hooks\pre-commit.sample,5,17.0,28.0
+hub,Go,D:\clones\hub\github\url_test.go,6,0.0,28.0
+hub,Go,D:\clones\hub\internal\assert\assert.go,5,4.0,28.0
+hub,Go,D:\clones\hub\commands\pull_request_test.go,6,0.0,27.0
+hub,Go,D:\clones\hub\github\crash_report_test.go,5,0.0,27.0
+hub,Go,D:\clones\hub\github\url.go,7,0.0,27.0
+hub,YAML,D:\clones\hub\.github\workflows\release.yml,5,0.0,25.0
+hub,Go,D:\clones\hub\commands\utils_test.go,7,0.0,25.0
+hub,Bourne Shell,D:\clones\hub\fixtures\test.git\hooks\pre-push.sample,6,22.0,25.0
+hub,vim script,D:\clones\hub\share\vim\vimfiles\syntax\pullrequest.vim,7,5.0,25.0
+hub,Bourne Again Shell,D:\clones\hub\script\cross-compile,4,4.0,24.0
+hub,Go,D:\clones\hub\cmd\cmd_test.go,5,0.0,23.0
+hub,YAML,D:\clones\hub\.github\workflows\ci.yml,6,0.0,22.0
+hub,Go,D:\clones\hub\commands\fetch_test.go,5,0.0,22.0
+hub,Go,D:\clones\hub\commands\version.go,4,0.0,20.0
+hub,Cucumber,D:\clones\hub\features\push.feature,4,0.0,20.0
+hub,Go,D:\clones\hub\github\localrepo_test.go,4,0.0,20.0
+hub,Cucumber,D:\clones\hub\features\fish_completion.feature,5,0.0,19.0
+hub,Bourne Shell,D:\clones\hub\script\install.sh,4,1.0,19.0
+hub,Cucumber,D:\clones\hub\features\init.feature,3,0.0,18.0
+hub,Go,D:\clones\hub\github\message_builder_test.go,5,0.0,18.0
+hub,Bourne Again Shell,D:\clones\hub\script\tag-release,7,0.0,17.0
+hub,Dockerfile,D:\clones\hub\Dockerfile,7,1.0,15.0
+hub,Bourne Again Shell,D:\clones\hub\script\ruby-test,2,0.0,15.0
+hub,Go,D:\clones\hub\commands\runner_test.go,5,0.0,14.0
+hub,Bourne Again Shell,D:\clones\hub\script\bootstrap,4,0.0,14.0
+hub,Bourne Again Shell,D:\clones\hub\script\github-release,3,5.0,14.0
+hub,Bourne Again Shell,D:\clones\hub\script\version,4,1.0,14.0
+hub,Markdown,D:\clones\hub\.github\ISSUE_TEMPLATE\bug_report.md,4,0.0,13.0
+hub,Go,D:\clones\hub\commands\push_test.go,5,7.0,13.0
+hub,Bourne Again Shell,D:\clones\hub\script\docker,4,3.0,13.0
+hub,Markdown,D:\clones\hub\.github\ISSUE_TEMPLATE\feature_request.md,3,0.0,11.0
+hub,Go,D:\clones\hub\commands\compare_test.go,3,0.0,11.0
+hub,Go,D:\clones\hub\fixtures\fixtures.go,3,0.0,11.0
+hub,Go,D:\clones\hub\github\reset_console.go,5,2.0,11.0
+hub,Bourne Again Shell,D:\clones\hub\script\changelog,3,6.0,11.0
+hub,Bourne Shell,D:\clones\hub\fixtures\test.git\hooks\commit-msg.sample,3,15.0,6.0
+hub,Bourne Shell,D:\clones\hub\fixtures\test.git\hooks\prepare-commit-msg.sample,5,25.0,6.0
+hub,Bourne Shell,D:\clones\hub\fixtures\test.git\hooks\applypatch-msg.sample,1,9.0,5.0
+hub,Bourne Shell,D:\clones\hub\fixtures\test.git\hooks\pre-applypatch.sample,1,8.0,5.0
+hub,Go,D:\clones\hub\github\reset_console_windows.go,3,3.0,4.0
+hub,YAML,D:\clones\hub\cucumber.yml,0,0.0,3.0
+hub,Bourne Again Shell,D:\clones\hub\features\support\fakebin\curl,1,0.0,3.0
+hub,Markdown,D:\clones\hub\.github\SECURITY.md,1,0.0,2.0
+hub,Bourne Shell,D:\clones\hub\features\support\fakebin\man,0,0.0,2.0
+hub,Bourne Shell,D:\clones\hub\features\support\fakebin\open,0,0.0,2.0
+hub,Bourne Shell,D:\clones\hub\fixtures\test.git\hooks\post-update.sample,1,5.0,2.0
+hub,DOS Batch,D:\clones\hub\script\build.bat,1,0.0,2.0
+hub,DOS Batch,D:\clones\hub\script\version.bat,1,0.0,2.0
+hub,Go,D:\clones\hub\version\version.go,1,1.0,2.0
+hub,vim script,D:\clones\hub\share\vim\vimfiles\ftdetect\pullrequest.vim,0,0.0,1.0

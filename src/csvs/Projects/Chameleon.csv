@@ -1,0 +1,65 @@
+project,language,filename,blank,comment,code
+Chameleon,XML,D:\clones\Chameleon\ChameleonDemo-Swift\Base.lproj\Main.storyboard,0,5.0,936.0
+Chameleon,Objective-C,D:\clones\Chameleon\Pod\Classes\Objective-C\UIViewController+Chameleon.m,177,19.0,704.0
+Chameleon,Objective-C,D:\clones\Chameleon\Pod\Classes\Objective-C\UIColor+Chameleon.m,300,152.0,634.0
+Chameleon,Objective-C,D:\clones\Chameleon\Pod\Classes\Objective-C\Chameleon_.m,138,40.0,615.0
+Chameleon,Markdown,D:\clones\Chameleon\README.md,189,0.0,598.0
+Chameleon,Objective-C,D:\clones\Chameleon\Pod\Classes\Objective-C\NSArray+Chameleon.m,201,114.0,421.0
+Chameleon,Swift,D:\clones\Chameleon\Pod\Classes\Swift\ChameleonShorthand.swift,90,72.0,175.0
+Chameleon,C/C++ Header,D:\clones\Chameleon\Pod\Classes\Objective-C\UIColor+Chameleon.h,153,731.0,159.0
+Chameleon,Objective-C,D:\clones\Chameleon\Pod\Classes\Objective-C\UIColor+ChameleonPrivate.m,67,47.0,137.0
+Chameleon,Markdown,D:\clones\Chameleon\CHANGELOG.md,52,0.0,132.0
+Chameleon,Objective-C,D:\clones\Chameleon\Pod\Classes\Objective-C\UINavigationController+Chameleon.m,71,13.0,130.0
+Chameleon,XML,D:\clones\Chameleon\ChameleonDemo\Base.lproj\Main.storyboard,0,3.0,101.0
+Chameleon,XML,D:\clones\Chameleon\Chameleon.xcodeproj\xcshareddata\xcschemes\Chameleon.xcscheme,0,0.0,82.0
+Chameleon,XML,D:\clones\Chameleon\ChameleonDemo-ObjC\Base.lproj\Main.storyboard,0,2.0,82.0
+Chameleon,Swift,D:\clones\Chameleon\ChameleonDemo-Swift\FirstViewController.swift,26,25.0,75.0
+Chameleon,C/C++ Header,D:\clones\Chameleon\Pod\Classes\Objective-C\ChameleonMacros.h,29,24.0,71.0
+Chameleon,JSON,D:\clones\Chameleon\ChameleonDemo\Assets.xcassets\AppIcon.appiconset\Contents.json,0,0.0,68.0
+Chameleon,Swift,D:\clones\Chameleon\ChameleonDemo-Swift\SecondViewController.swift,23,10.0,66.0
+Chameleon,JSON,D:\clones\Chameleon\ChameleonDemo-Swift\Assets.xcassets\AppIcon.appiconset\Contents.json,0,0.0,54.0
+Chameleon,XML,D:\clones\Chameleon\ChameleonDemo\Info.plist,0,0.0,49.0
+Chameleon,XML,D:\clones\Chameleon\ChameleonDemo-Swift\Info.plist,0,0.0,45.0
+Chameleon,XML,D:\clones\Chameleon\ChameleonDemo-ObjC\Info.plist,0,0.0,42.0
+Chameleon,XML,D:\clones\Chameleon\ChameleonDemo-Swift\Base.lproj\LaunchScreen.storyboard,0,1.0,42.0
+Chameleon,Objective-C,D:\clones\Chameleon\Pod\Classes\Objective-C\UIImage+ChameleonPrivate.m,17,17.0,40.0
+Chameleon,JSON,D:\clones\Chameleon\ChameleonDemo-ObjC\Assets.xcassets\AppIcon.appiconset\Contents.json,0,0.0,38.0
+Chameleon,XML,D:\clones\Chameleon\ChameleonDemo\Base.lproj\LaunchScreen.storyboard,0,1.0,27.0
+Chameleon,XML,D:\clones\Chameleon\Chameleon\Info.plist,0,0.0,26.0
+Chameleon,XML,D:\clones\Chameleon\ChameleonDemo-ObjC\Base.lproj\LaunchScreen.storyboard,0,1.0,26.0
+Chameleon,Ruby,D:\clones\Chameleon\ChameleonFramework.podspec,5,0.0,25.0
+Chameleon,Objective-C,D:\clones\Chameleon\Pod\Classes\Objective-C\UIView+ChameleonPrivate.m,14,7.0,25.0
+Chameleon,JSON,D:\clones\Chameleon\ChameleonDemo-Swift\Assets.xcassets\SampleImageOne.imageset\Contents.json,0,0.0,21.0
+Chameleon,JSON,D:\clones\Chameleon\ChameleonDemo-Swift\Assets.xcassets\SampleImageTwo.imageset\Contents.json,0,0.0,21.0
+Chameleon,JSON,D:\clones\Chameleon\ChameleonDemo-Swift\Assets.xcassets\logo.imageset\Contents.json,0,0.0,21.0
+Chameleon,C/C++ Header,D:\clones\Chameleon\Pod\Classes\Objective-C\Chameleon_.h,9,36.0,21.0
+Chameleon,C/C++ Header,D:\clones\Chameleon\Pod\Classes\Objective-C\NSArray+Chameleon.h,18,74.0,20.0
+Chameleon,Objective-C,D:\clones\Chameleon\ChameleonDemo-ObjC\AppDelegate.m,15,15.0,19.0
+Chameleon,Objective-C,D:\clones\Chameleon\Pod\Classes\Objective-C\UIAppearance+Swift.m,6,7.0,19.0
+Chameleon,C/C++ Header,D:\clones\Chameleon\Pod\Classes\Objective-C\UIColor+ChameleonPrivate.h,11,7.0,18.0
+Chameleon,Markdown,D:\clones\Chameleon\LICENSE.md,4,0.0,17.0
+Chameleon,C/C++ Header,D:\clones\Chameleon\Pod\Classes\Objective-C\Chameleon.h,7,10.0,14.0
+Chameleon,C/C++ Header,D:\clones\Chameleon\Pod\Classes\Objective-C\UIViewController+Chameleon.h,7,43.0,14.0
+Chameleon,Objective-C,D:\clones\Chameleon\ChameleonDemo-ObjC\ViewController.m,10,10.0,12.0
+Chameleon,JSON,D:\clones\Chameleon\ChameleonDemo-Swift\Assets.xcassets\first.imageset\Contents.json,0,0.0,12.0
+Chameleon,JSON,D:\clones\Chameleon\ChameleonDemo-Swift\Assets.xcassets\second.imageset\Contents.json,0,0.0,12.0
+Chameleon,Swift,D:\clones\Chameleon\ChameleonDemo\AppDelegate.swift,9,7.0,12.0
+Chameleon,Objective-C,D:\clones\Chameleon\Pod\Classes\Objective-C\UIButton+Chameleon.m,7,7.0,9.0
+Chameleon,Swift,D:\clones\Chameleon\ChameleonDemo-Swift\AppDelegate.swift,8,7.0,8.0
+Chameleon,Swift,D:\clones\Chameleon\ChameleonDemo\ViewController.swift,4,7.0,8.0
+Chameleon,C/C++ Header,D:\clones\Chameleon\Pod\Classes\Objective-C\ChameleonEnums.h,4,27.0,8.0
+Chameleon,XML,D:\clones\Chameleon\Chameleon.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+Chameleon,Objective-C,D:\clones\Chameleon\ChameleonDemo-ObjC\main.m,2,7.0,7.0
+Chameleon,C/C++ Header,D:\clones\Chameleon\Pod\Classes\Objective-C\UIImage+ChameleonPrivate.h,7,7.0,7.0
+Chameleon,Markdown,D:\clones\Chameleon\.github\ISSUE_TEMPLATE.md,3,0.0,6.0
+Chameleon,JSON,D:\clones\Chameleon\ChameleonDemo-Swift\Assets.xcassets\Contents.json,0,0.0,6.0
+Chameleon,Objective-C,D:\clones\Chameleon\Pod\Classes\Objective-C\UILabel+Chameleon.m,5,7.0,6.0
+Chameleon,C/C++ Header,D:\clones\Chameleon\Pod\Classes\Objective-C\UINavigationController+Chameleon.h,5,21.0,6.0
+Chameleon,C/C++ Header,D:\clones\Chameleon\ChameleonDemo-ObjC\AppDelegate.h,6,7.0,5.0
+Chameleon,C/C++ Header,D:\clones\Chameleon\Pod\Classes\Objective-C\ChameleonConstants.h,4,12.0,5.0
+Chameleon,C/C++ Header,D:\clones\Chameleon\Pod\Classes\Objective-C\UIView+ChameleonPrivate.h,4,7.0,5.0
+Chameleon,C/C++ Header,D:\clones\Chameleon\ChameleonDemo-ObjC\ViewController.h,5,7.0,4.0
+Chameleon,Objective-C,D:\clones\Chameleon\Pod\Classes\Objective-C\ChameleonConstants.m,4,7.0,4.0
+Chameleon,C/C++ Header,D:\clones\Chameleon\Pod\Classes\Objective-C\UIAppearance+Swift.h,4,9.0,4.0
+Chameleon,C/C++ Header,D:\clones\Chameleon\Pod\Classes\Objective-C\UIButton+Chameleon.h,4,7.0,4.0
+Chameleon,C/C++ Header,D:\clones\Chameleon\Pod\Classes\Objective-C\UILabel+Chameleon.h,4,7.0,4.0

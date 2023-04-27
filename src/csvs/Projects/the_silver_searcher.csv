@@ -1,0 +1,41 @@
+project,language,filename,blank,comment,code
+the_silver_searcher,C/C++ Header,D:\clones\the_silver_searcher\src\uthash.h,65,126.0,780.0
+the_silver_searcher,C,D:\clones\the_silver_searcher\src\options.c,58,23.0,777.0
+the_silver_searcher,C,D:\clones\the_silver_searcher\src\util.c,88,44.0,583.0
+the_silver_searcher,C,D:\clones\the_silver_searcher\src\search.c,83,37.0,576.0
+the_silver_searcher,C,D:\clones\the_silver_searcher\src\ignore.c,48,14.0,321.0
+the_silver_searcher,C,D:\clones\the_silver_searcher\src\zfile.c,62,27.0,314.0
+the_silver_searcher,C,D:\clones\the_silver_searcher\src\print.c,42,17.0,313.0
+the_silver_searcher,C,D:\clones\the_silver_searcher\src\print_w32.c,14,13.0,300.0
+the_silver_searcher,m4,D:\clones\the_silver_searcher\m4\ax_pthread.m4,34,0.0,298.0
+the_silver_searcher,C,D:\clones\the_silver_searcher\src\main.c,21,4.0,215.0
+the_silver_searcher,C,D:\clones\the_silver_searcher\src\decompress.c,42,29.0,207.0
+the_silver_searcher,C,D:\clones\the_silver_searcher\src\lang.c,10,3.0,196.0
+the_silver_searcher,Markdown,D:\clones\the_silver_searcher\doc\ag.1.md,83,0.0,179.0
+the_silver_searcher,Bourne Shell,D:\clones\the_silver_searcher\sanitize.sh,26,14.0,156.0
+the_silver_searcher,Markdown,D:\clones\the_silver_searcher\README.md,90,0.0,127.0
+the_silver_searcher,Bourne Shell,D:\clones\the_silver_searcher\ag.bashcomp.sh,10,3.0,122.0
+the_silver_searcher,C/C++ Header,D:\clones\the_silver_searcher\src\options.h,10,1.0,95.0
+the_silver_searcher,C/C++ Header,D:\clones\the_silver_searcher\src\util.h,28,2.0,89.0
+the_silver_searcher,C,D:\clones\the_silver_searcher\src\scandir.c,11,0.0,66.0
+the_silver_searcher,m4,D:\clones\the_silver_searcher\configure.ac,20,0.0,64.0
+the_silver_searcher,C,D:\clones\the_silver_searcher\src\log.c,12,0.0,64.0
+the_silver_searcher,C/C++ Header,D:\clones\the_silver_searcher\src\search.h,16,1.0,61.0
+the_silver_searcher,Bourne Shell,D:\clones\the_silver_searcher\format.sh,6,3.0,48.0
+the_silver_searcher,YAML,D:\clones\the_silver_searcher\.travis.yml,8,0.0,42.0
+the_silver_searcher,YAML,D:\clones\the_silver_searcher\.clang-format,0,0.0,38.0
+the_silver_searcher,C/C++ Header,D:\clones\the_silver_searcher\src\ignore.h,14,0.0,34.0
+the_silver_searcher,make,D:\clones\the_silver_searcher\Makefile.am,9,0.0,24.0
+the_silver_searcher,C/C++ Header,D:\clones\the_silver_searcher\src\log.h,9,0.0,23.0
+the_silver_searcher,C/C++ Header,D:\clones\the_silver_searcher\src\print.h,4,0.0,22.0
+the_silver_searcher,C/C++ Header,D:\clones\the_silver_searcher\src\decompress.h,7,0.0,19.0
+the_silver_searcher,Python,D:\clones\the_silver_searcher\tests\big\create_big_file.py,8,2.0,19.0
+the_silver_searcher,Markdown,D:\clones\the_silver_searcher\CONTRIBUTING.md,9,0.0,17.0
+the_silver_searcher,C/C++ Header,D:\clones\the_silver_searcher\src\scandir.h,5,0.0,15.0
+the_silver_searcher,Bourne Shell,D:\clones\the_silver_searcher\autogen.sh,4,4.0,13.0
+the_silver_searcher,C/C++ Header,D:\clones\the_silver_searcher\src\lang.h,9,14.0,13.0
+the_silver_searcher,Bourne Shell,D:\clones\the_silver_searcher\pgo.sh,2,0.0,8.0
+the_silver_searcher,Bourne Shell,D:\clones\the_silver_searcher\build.sh,2,0.0,6.0
+the_silver_searcher,Bourne Shell,D:\clones\the_silver_searcher\doc\generate_man.sh,3,4.0,4.0
+the_silver_searcher,C/C++ Header,D:\clones\the_silver_searcher\src\win32\config.h,0,0.0,2.0
+the_silver_searcher,Bourne Shell,D:\clones\the_silver_searcher\tests\setup.sh,2,5.0,2.0

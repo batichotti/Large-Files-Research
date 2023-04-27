@@ -1,0 +1,147 @@
+project,language,filename,blank,comment,code
+mosh,C++,D:\clones\mosh\src\crypto\ocb.cc,132,159.0,1272.0
+mosh,C++,D:\clones\mosh\src\frontend\mosh-server.cc,144,129.0,778.0
+mosh,m4,D:\clones\mosh\m4\ax_cxx_compile_stdcxx.m4,218,7.0,723.0
+mosh,C++,D:\clones\mosh\src\frontend\terminaloverlay.cc,139,139.0,654.0
+mosh,C++,D:\clones\mosh\src\network\network.cc,112,59.0,535.0
+mosh,C++,D:\clones\mosh\src\terminal\terminalframebuffer.cc,94,42.0,519.0
+mosh,m4,D:\clones\mosh\m4\ax_with_curses.m4,34,0.0,484.0
+mosh,m4,D:\clones\mosh\configure.ac,66,3.0,479.0
+mosh,C++,D:\clones\mosh\src\terminal\terminalfunctions.cc,100,85.0,458.0
+mosh,C++,D:\clones\mosh\src\tests\ocb-aes.cc,77,49.0,429.0
+mosh,Perl,D:\clones\mosh\scripts\mosh.pl,73,56.0,409.0
+mosh,C++,D:\clones\mosh\src\frontend\stmclient.cc,97,81.0,402.0
+mosh,C++,D:\clones\mosh\src\terminal\terminaldisplay.cc,66,99.0,372.0
+mosh,C/C++ Header,D:\clones\mosh\src\terminal\terminalframebuffer.h,92,60.0,325.0
+mosh,C/C++ Header,D:\clones\mosh\src\network\transportsender-impl.h,75,52.0,300.0
+mosh,C++,D:\clones\mosh\src\terminal\parserstate.cc,80,29.0,281.0
+mosh,C/C++ Header,D:\clones\mosh\src\frontend\terminaloverlay.h,76,30.0,238.0
+mosh,Bourne Shell,D:\clones\mosh\src\tests\e2e-test,28,33.0,236.0
+mosh,C++,D:\clones\mosh\src\crypto\crypto.cc,59,45.0,212.0
+mosh,C++,D:\clones\mosh\src\examples\termemu.cc,62,54.0,210.0
+mosh,C++,D:\clones\mosh\src\terminal\terminaldispatcher.cc,41,31.0,185.0
+mosh,C/C++ Header,D:\clones\mosh\src\util\select.h,42,47.0,159.0
+mosh,C++,D:\clones\mosh\src\examples\parse.cc,40,30.0,151.0
+mosh,C++,D:\clones\mosh\src\statesync\completeterminal.cc,36,32.0,149.0
+mosh,C++,D:\clones\mosh\src\frontend\mosh-client.cc,34,44.0,143.0
+mosh,m4,D:\clones\mosh\m4\pkg.m4,17,0.0,142.0
+mosh,C/C++ Header,D:\clones\mosh\src\network\network.h,53,48.0,137.0
+mosh,C++,D:\clones\mosh\src\util\pty_compat.cc,23,28.0,134.0
+mosh,Markdown,D:\clones\mosh\src\tests\README.md,43,0.0,132.0
+mosh,C/C++ Header,D:\clones\mosh\src\network\networktransport-impl.h,35,40.0,131.0
+mosh,C++,D:\clones\mosh\src\network\transportfragment.cc,38,30.0,131.0
+mosh,Markdown,D:\clones\mosh\README.md,42,0.0,122.0
+mosh,C++,D:\clones\mosh\src\examples\ntester.cc,29,29.0,114.0
+mosh,C/C++ Header,D:\clones\mosh\src\terminal\parseraction.h,25,28.0,113.0
+mosh,C++,D:\clones\mosh\src\terminal\terminal.cc,28,42.0,113.0
+mosh,Bourne Shell,D:\clones\mosh\src\tests\emulation-attributes.test,13,24.0,110.0
+mosh,Bourne Shell,D:\clones\mosh\src\tests\e2e-test-subrs,10,15.0,100.0
+mosh,C/C++ Header,D:\clones\mosh\src\crypto\crypto.h,35,34.0,98.0
+mosh,Bourne Shell,D:\clones\mosh\macosx\build.sh,23,34.0,96.0
+mosh,C++,D:\clones\mosh\src\statesync\user.cc,18,28.0,92.0
+mosh,C++,D:\clones\mosh\src\terminal\parser.cc,31,43.0,92.0
+mosh,C++,D:\clones\mosh\src\tests\base64.cc,19,36.0,90.0
+mosh,m4,D:\clones\mosh\m4\ax_check_library.m4,8,0.0,87.0
+mosh,C/C++ Header,D:\clones\mosh\src\frontend\stmclient.h,22,28.0,87.0
+mosh,C++,D:\clones\mosh\src\terminal\terminaldisplayinit.cc,19,33.0,87.0
+mosh,C++,D:\clones\mosh\src\tests\encrypt-decrypt.cc,34,32.0,86.0
+mosh,C/C++ Header,D:\clones\mosh\src\network\transportsender.h,40,47.0,81.0
+mosh,C/C++ Header,D:\clones\mosh\src\crypto\byteorder.h,22,29.0,80.0
+mosh,C++,D:\clones\mosh\src\tests\inpty.cc,17,31.0,79.0
+mosh,YAML,D:\clones\mosh\.travis.yml,9,20.0,78.0
+mosh,C++,D:\clones\mosh\src\util\locale_utils.cc,19,30.0,78.0
+mosh,C++,D:\clones\mosh\src\examples\benchmark.cc,19,32.0,76.0
+mosh,Bourne Shell,D:\clones\mosh\src\tests\server-network-timeout.test,9,29.0,76.0
+mosh,C++,D:\clones\mosh\src\crypto\base64.cc,15,31.0,74.0
+mosh,C/C++ Header,D:\clones\mosh\src\terminal\parserstate.h,20,26.0,73.0
+mosh,Bourne Shell,D:\clones\mosh\src\tests\e2e-test-server,4,15.0,73.0
+mosh,m4,D:\clones\mosh\m4\ax_check_compile_flag.m4,2,0.0,70.0
+mosh,C++,D:\clones\mosh\src\util\timestamp.cc,19,41.0,70.0
+mosh,m4,D:\clones\mosh\m4\ax_check_link_flag.m4,2,0.0,69.0
+mosh,make,D:\clones\mosh\src\tests\Makefile.am,12,0.0,68.0
+mosh,C/C++ Header,D:\clones\mosh\src\terminal\terminaldispatcher.h,27,27.0,67.0
+mosh,Bourne Shell,D:\clones\mosh\src\tests\repeat.test,11,13.0,67.0
+mosh,Bourne Shell,D:\clones\mosh\src\tests\pty-deadlock.test,7,24.0,63.0
+mosh,Bourne Shell,D:\clones\mosh\src\tests\prediction-unicode.test,7,31.0,59.0
+mosh,C/C++ Header,D:\clones\mosh\src\network\transportfragment.h,24,26.0,58.0
+mosh,C/C++ Header,D:\clones\mosh\src\network\networktransport.h,32,37.0,57.0
+mosh,Bourne Shell,D:\clones\mosh\src\tests\window-resize.test,7,21.0,55.0
+mosh,C++,D:\clones\mosh\src\terminal\parseraction.cc,20,26.0,54.0
+mosh,C/C++ Header,D:\clones\mosh\src\util\shared.h,11,27.0,52.0
+mosh,XML,D:\clones\mosh\macosx\mosh-package.pmdoc.in\01prefix-contents.xml,0,0.0,50.0
+mosh,C/C++ Header,D:\clones\mosh\src\statesync\user.h,21,27.0,48.0
+mosh,Bourne Shell,D:\clones\mosh\src\tests\emulation-scroll.test,8,20.0,48.0
+mosh,make,D:\clones\mosh\Makefile.am,8,8.0,47.0
+mosh,C/C++ Header,D:\clones\mosh\src\terminal\parserstatefamily.h,14,26.0,46.0
+mosh,Bourne Shell,D:\clones\mosh\src\tests\emulation-cursor-motion.test,6,7.0,45.0
+mosh,C/C++ Header,D:\clones\mosh\src\terminal\terminal.h,17,27.0,43.0
+mosh,C/C++ Header,D:\clones\mosh\src\crypto\ae.h,15,125.0,42.0
+mosh,C/C++ Header,D:\clones\mosh\src\terminal\parser.h,23,28.0,42.0
+mosh,Bourne Shell,D:\clones\mosh\src\tests\emulation-back-tab.test,6,8.0,42.0
+mosh,C/C++ Header,D:\clones\mosh\src\crypto\prng.h,21,29.0,41.0
+mosh,Bourne Shell,D:\clones\mosh\src\tests\network-no-diff.test,8,11.0,39.0
+mosh,Bourne Shell,D:\clones\mosh\src\tests\unicode-later-combining.test,7,16.0,39.0
+mosh,HTML,D:\clones\mosh\ocb-license.html,9,0.0,38.0
+mosh,Bourne Shell,D:\clones\mosh\appveyor.sh,5,8.0,37.0
+mosh,C/C++ Header,D:\clones\mosh\src\statesync\completeterminal.h,19,31.0,37.0
+mosh,C/C++ Header,D:\clones\mosh\src\terminal\terminaldisplay.h,22,28.0,37.0
+mosh,C++,D:\clones\mosh\src\terminal\terminaluserinput.cc,14,33.0,37.0
+mosh,Bourne Shell,D:\clones\mosh\src\tests\emulation-80th-column.test,6,14.0,37.0
+mosh,Bourne Shell,D:\clones\mosh\src\tests\emulation-ascii-iso-8859.test,6,6.0,34.0
+mosh,XML,D:\clones\mosh\macosx\mosh-package.pmdoc.in\index.xml,0,0.0,32.0
+mosh,C++,D:\clones\mosh\src\tests\nonce-incr.cc,15,27.0,31.0
+mosh,XML,D:\clones\mosh\macosx\mosh-package.pmdoc.in\01prefix.xml,0,0.0,30.0
+mosh,C/C++ Header,D:\clones\mosh\src\terminal\parsertransition.h,14,31.0,29.0
+mosh,Bourne Shell,D:\clones\mosh\macosx\brew-deps.sh,6,36.0,28.0
+mosh,Bourne Shell,D:\clones\mosh\src\tests\emulation-multiline-scroll.test,5,14.0,27.0
+mosh,Bourne Shell,D:\clones\mosh\src\tests\emulation-wrap-across-frames.test,6,11.0,27.0
+mosh,Perl,D:\clones\mosh\src\tests\print-exitstatus,2,4.0,27.0
+mosh,C++,D:\clones\mosh\src\examples\decrypt.cc,15,28.0,26.0
+mosh,C++,D:\clones\mosh\src\examples\encrypt.cc,16,28.0,26.0
+mosh,C++,D:\clones\mosh\src\network\compressor.cc,11,27.0,26.0
+mosh,Perl,D:\clones\mosh\src\tests\genbase64.pl,3,0.0,25.0
+mosh,YAML,D:\clones\mosh\.github\workflows\ci.yml,10,0.0,24.0
+mosh,Protocol Buffers,D:\clones\mosh\src\protobufs\hostinput.proto,8,0.0,24.0
+mosh,C/C++ Header,D:\clones\mosh\src\terminal\terminaluserinput.h,13,26.0,24.0
+mosh,make,D:\clones\mosh\src\examples\Makefile.am,7,0.0,23.0
+mosh,Protocol Buffers,D:\clones\mosh\src\protobufs\userinput.proto,7,0.0,20.0
+mosh,Bourne Shell,D:\clones\mosh\src\tests\e2e-failure.test,4,3.0,20.0
+mosh,Bourne Shell,D:\clones\mosh\src\tests\e2e-success.test,4,3.0,20.0
+mosh,Bourne Shell,D:\clones\mosh\src\tests\unicode-combine-fallback-assert.test,5,10.0,20.0
+mosh,YAML,D:\clones\mosh\appveyor.yml,8,27.0,19.0
+mosh,C/C++ Header,D:\clones\mosh\src\network\compressor.h,14,27.0,19.0
+mosh,Bourne Shell,D:\clones\mosh\src\tests\local.test,2,0.0,19.0
+mosh,C++,D:\clones\mosh\src\util\swrite.cc,9,26.0,19.0
+mosh,C/C++ Header,D:\clones\mosh\src\util\dos_assert.h,11,26.0,17.0
+mosh,C/C++ Header,D:\clones\mosh\src\util\locale_utils.h,10,26.0,17.0
+mosh,C/C++ Header,D:\clones\mosh\src\network\transportstate.h,9,26.0,16.0
+mosh,C++,D:\clones\mosh\src\tests\test_utils.cc,10,26.0,16.0
+mosh,C/C++ Header,D:\clones\mosh\src\util\fatal_assert.h,10,26.0,15.0
+mosh,Bourne Shell,D:\clones\mosh\scripts\wrap-compiler-for-flag-check,2,6.0,14.0
+mosh,make,D:\clones\mosh\src\crypto\Makefile.am,3,0.0,14.0
+mosh,make,D:\clones\mosh\src\frontend\Makefile.am,5,0.0,14.0
+mosh,Perl,D:\clones\mosh\src\tests\hold-stdin,2,5.0,14.0
+mosh,C/C++ Header,D:\clones\mosh\src\util\pty_compat.h,11,26.0,14.0
+mosh,make,D:\clones\mosh\debian\rules,5,11.0,13.0
+mosh,Bourne Shell,D:\clones\mosh\macosx\osx-xcode.sh,3,15.0,12.0
+mosh,Protocol Buffers,D:\clones\mosh\src\protobufs\transportinstruction.proto,6,0.0,12.0
+mosh,make,D:\clones\mosh\src\include\Makefile.am,3,0.0,11.0
+mosh,make,D:\clones\mosh\src\protobufs\Makefile.am,6,0.0,11.0
+mosh,C++,D:\clones\mosh\src\tests\is-utf8-locale.cc,8,26.0,11.0
+mosh,C++,D:\clones\mosh\src\util\select.cc,11,26.0,11.0
+mosh,make,D:\clones\mosh\conf\Makefile.am,2,0.0,9.0
+mosh,make,D:\clones\mosh\scripts\Makefile.am,1,0.0,9.0
+mosh,C/C++ Header,D:\clones\mosh\src\tests\test_utils.h,11,26.0,9.0
+mosh,make,D:\clones\mosh\man\Makefile.am,2,0.0,7.0
+mosh,C/C++ Header,D:\clones\mosh\src\util\timestamp.h,9,26.0,6.0
+mosh,C/C++ Header,D:\clones\mosh\src\crypto\base64.h,8,26.0,5.0
+mosh,make,D:\clones\mosh\src\network\Makefile.am,2,0.0,4.0
+mosh,make,D:\clones\mosh\src\statesync\Makefile.am,2,0.0,4.0
+mosh,make,D:\clones\mosh\src\terminal\Makefile.am,2,0.0,4.0
+mosh,C/C++ Header,D:\clones\mosh\src\util\swrite.h,8,26.0,4.0
+mosh,C/C++ Header,D:\clones\mosh\src\tests\base64_vector.h,0,0.0,3.0
+mosh,make,D:\clones\mosh\src\util\Makefile.am,2,0.0,3.0
+mosh,Bourne Shell,D:\clones\mosh\autogen.sh,1,0.0,2.0
+mosh,Bourne Shell,D:\clones\mosh\build-package.sh,1,0.0,2.0
+mosh,Bourne Shell,D:\clones\mosh\build-source-package.sh,1,0.0,2.0
+mosh,make,D:\clones\mosh\src\Makefile.am,0,0.0,1.0

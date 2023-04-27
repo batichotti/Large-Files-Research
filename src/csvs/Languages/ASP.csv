@@ -1,0 +1,5 @@
+project,language,filename,blank,comment,code
+ring,ASP,D:\clones\ring\ring-core\test\ring\assets\index.asp,0,0.0,1.0
+mono,ASP,D:\clones\mono\mcs\class\System.Web\Test\mainsoft\NunitWeb\NunitWeb\Resources\My.ashx,0,0.0,1.0
+SignalR,ASP,D:\clones\SignalR\samples\Microsoft.AspNet.SignalR.LoadTestHarness\Baseline\Basic.ashx,0,0.0,1.0
+SignalR,ASP,D:\clones\SignalR\samples\Microsoft.AspNet.SignalR.LoadTestHarness\Baseline\QueryString.ashx,0,0.0,1.0

@@ -1,0 +1,83 @@
+project,language,filename,blank,comment,code
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\PersistentQueueSpec.scala,208,44.0,1127.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\PersistentQueue.scala,102,135.0,700.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\Journal.scala,88,66.0,576.0
+kestrel,Ruby,D:\clones\kestrel\src\scripts\ksniff,67,0.0,526.0
+kestrel,Markdown,D:\clones\kestrel\docs\guide.md,173,0.0,494.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\QueueCollectionSpec.scala,59,18.0,408.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\ServerSpec.scala,61,42.0,387.0
+kestrel,Ruby,D:\clones\kestrel\src\main\ruby\kcluster\bin\kcluster,48,5.0,382.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\MemcacheHandlerSpec.scala,93,16.0,382.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\ThriftHandlerSpec.scala,86,15.0,361.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\ServerStatusSpec.scala,74,16.0,336.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\KestrelHandler.scala,56,25.0,300.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\QueueCollection.scala,40,54.0,298.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\Kestrel.scala,50,35.0,296.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\KestrelHandlerSpec.scala,40,16.0,293.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\load\ManyClients.scala,20,24.0,247.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\MemcacheHandler.scala,19,21.0,243.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\load\PutMany.scala,25,23.0,241.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\load\Flood.scala,23,27.0,237.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\TextHandler.scala,16,24.0,219.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\JournalSpec.scala,32,17.0,214.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\ZooKeeperServerStatusSpec.scala,56,16.0,213.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\ThriftHandler.scala,36,19.0,210.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\ServerStatus.scala,40,50.0,197.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\ZooKeeperServerStatus.scala,41,55.0,197.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\ReadBehindSpec.scala,25,21.0,191.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\tools\QDumper.scala,17,16.0,190.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\TextHandlerSpec.scala,51,16.0,180.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\load\JournalPacking.scala,21,23.0,175.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\load\LeakyThriftReader.scala,23,25.0,175.0
+kestrel,Markdown,D:\clones\kestrel\README.md,78,0.0,171.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\load\Client.scala,42,26.0,142.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\LocalDirectory.scala,29,20.0,128.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\DeadlineWaitQueueSpec.scala,24,15.0,128.0
+kestrel,Bourne Shell,D:\clones\kestrel\src\scripts\kestrel.sh,22,11.0,116.0
+kestrel,Markdown,D:\clones\kestrel\docs\journal_format.md,52,0.0,111.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\load\LoadTesting.scala,13,17.0,111.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\PeriodicSyncStorage.scala,19,12.0,107.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\JournalPacker.scala,12,21.0,92.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\config\KestrelConfig.scala,39,149.0,92.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\TestClient.scala,21,18.0,92.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\config\QueueConfig.scala,27,127.0,88.0
+kestrel,Scala,D:\clones\kestrel\config\development.scala,11,5.0,71.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\ItemIdList.scala,12,13.0,70.0
+kestrel,Ruby,D:\clones\kestrel\src\main\ruby\kestrel_client.rb,13,0.0,62.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\ItemIdListSpec.scala,14,15.0,62.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\PeriodicSyncFileSpec.scala,13,16.0,60.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\DeadlineWaitQueue.scala,9,22.0,55.0
+kestrel,Bourne Shell,D:\clones\kestrel\src\scripts\foreground.sh,14,11.0,55.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\tools\QPacker.scala,8,16.0,52.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\QItem.scala,6,16.0,50.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\PersistentStreamContainer.scala,11,55.0,49.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\AliasedQueueSpec.scala,12,13.0,48.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\BlockingContainer.scala,5,0.0,48.0
+kestrel,Markdown,D:\clones\kestrel\docs\text_protocol.md,31,0.0,47.0
+kestrel,Scala,D:\clones\kestrel\project\Build.scala,7,2.0,45.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\config\QueueConfigSpec.scala,11,19.0,41.0
+kestrel,Scala,D:\clones\kestrel\config\production.scala,10,5.0,38.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\config\ConfigValueSpec.scala,9,15.0,34.0
+kestrel,Thrift,D:\clones\kestrel\src\main\thrift\kestrel.thrift,24,82.0,33.0
+kestrel,Bourne Shell,D:\clones\kestrel\src\scripts\base.sh,6,4.0,33.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\DumpJournal.scala,2,0.0,33.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\AliasedQueue.scala,10,21.0,31.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\tools\Util.scala,5,17.0,31.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\QueueMatchers.scala,6,16.0,28.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\config\ConfigValue.scala,5,30.0,24.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\FakeTimer.scala,8,16.0,24.0
+kestrel,Scala,D:\clones\kestrel\src\test\scala\net\lag\kestrel\JournalTestUtil.scala,2,0.0,22.0
+kestrel,Scala,D:\clones\kestrel\project\plugins.sbt,4,0.0,20.0
+kestrel,Ruby,D:\clones\kestrel\src\main\ruby\kcluster\kcluster.gemspec,3,0.0,17.0
+kestrel,Scala,D:\clones\kestrel\src\main\scala\net\lag\kestrel\config\AliasConfig.scala,6,22.0,16.0
+kestrel,Bourne Shell,D:\clones\kestrel\src\scripts\devel.sh,3,1.0,14.0
+kestrel,Ruby,D:\clones\kestrel\src\scripts\console,3,0.0,10.0
+kestrel,Bourne Again Shell,D:\clones\kestrel\src\scripts\load\leaky-reader,0,0.0,6.0
+kestrel,Bourne Again Shell,D:\clones\kestrel\src\scripts\load\flood,0,0.0,5.0
+kestrel,Bourne Again Shell,D:\clones\kestrel\src\scripts\load\many-clients,0,0.0,5.0
+kestrel,Bourne Again Shell,D:\clones\kestrel\src\scripts\load\packing,0,0.0,5.0
+kestrel,Bourne Again Shell,D:\clones\kestrel\src\scripts\load\put-many,0,0.0,5.0
+kestrel,Bourne Shell,D:\clones\kestrel\src\scripts\qdump.sh,0,0.0,5.0
+kestrel,Bourne Shell,D:\clones\kestrel\src\scripts\qpack.sh,0,0.0,5.0
+kestrel,Properties,D:\clones\kestrel\project\release.properties,0,2.0,2.0
+kestrel,Properties,D:\clones\kestrel\project\build.properties,0,0.0,1.0

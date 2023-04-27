@@ -1,0 +1,541 @@
+project,language,filename,blank,comment,code
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\SimplePhotoFilter\SimplePhotoFilter\en.lproj\MainMenu.xib,0,0.0,4562.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\FilterShowcase\FilterShowcase\en.lproj\MainMenu.xib,0,0.0,3139.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\MultiViewFilterExample\MultiViewFilterExample\en.lproj\MainMenu.xib,0,0.0,3128.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\FilterShowcase\FilterShowcase\ShowcaseFilterViewController.m,310,59.0,1473.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\Mac\FilterShowcase\SLSFilterShowcaseWindowController.m,167,12.0,1229.0
+GPUImage,Swift,D:\clones\GPUImage\examples\iOS\FilterShowcaseSwift\FilterShowcaseSwift\FilterOperations.swift,56,14.0,1141.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageVideoCamera.m,161,66.0,835.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\iOS\GPUImageMovieWriter.m,163,78.0,775.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\SimpleVideoFileFilter\SimpleVideoFilter\Base.lproj\MainMenu.xib,0,0.0,676.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\SimpleVideoFilter\SimpleVideoFilter\Base.lproj\MainMenu.xib,0,0.0,676.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageMovie.m,133,70.0,673.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\FilterShowcaseSwift\FilterShowcaseSwift\Base.lproj\MainMenu.xib,0,0.0,666.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageFilter.m,130,24.0,599.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\Mac\GPUImageAVCamera.m,129,58.0,584.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\FilterShowcase\SLSFilterShowcaseWindowController.xib,0,0.0,581.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\SimplePhotoFilter\SimplePhotoFilter\en.lproj\SLSDocument.xib,0,0.0,537.0
+GPUImage,Markdown,D:\clones\GPUImage\README.md,266,0.0,490.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageKuwaharaRadius3Filter.m,56,6.0,485.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageToneCurveFilter.m,116,26.0,479.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\Mac\GPUImageMovieWriter.m,122,57.0,465.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\ShaderDesigner\ShaderDesigner\Base.lproj\MainMenu.xib,0,0.0,417.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageGaussianBlurFilter.m,85,32.0,396.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageFramebuffer.m,76,8.0,373.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\iOS\GPUImageView.m,94,21.0,369.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\Mac\GPUImageView.m,87,11.0,360.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\CubeExample\Classes\ES2Renderer.m,103,32.0,356.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageOutput.m,77,6.0,356.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageDilationFilter.m,76,0.0,355.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageFourInputFilter.m,51,2.0,348.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageJFAVoronoiFilter.m,82,21.0,343.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\MultiViewFilterExample\MultiViewFilterExample\SLSMultiViewWindowController.xib,0,0.0,309.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageThreeInputFilter.m,49,2.0,277.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\iOS\GPUImagePicture.m,66,33.0,272.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageHSBFilter.m,57,86.0,271.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageErosionFilter.m,52,0.0,260.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageHistogramFilter.m,69,18.0,254.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageRGBDilationFilter.m,52,0.0,254.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageRGBErosionFilter.m,52,0.0,252.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageStillCamera.m,75,18.0,245.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageHistogramEqualizationFilter.m,56,7.0,244.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\FilterShowcase\FilterShowcase\ShowcaseFilterViewController.xib,0,0.0,242.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\iOS\GPUImageContext.m,67,14.0,239.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageRawDataOutput.m,62,15.0,230.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageThresholdedNonMaximumSuppressionFilter.m,58,10.0,229.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\ColorObjectTracking\ColorObjectTracking\ColorTrackingViewController.m,57,12.0,223.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\FeatureExtractionTest\FeatureExtractionTest\FeatureExtractionAppDelegate.m,59,17.0,222.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\ShaderDesigner\ShaderDesigner\ShaderDesignerWindowController.xib,0,0.0,216.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageTwoInputFilter.m,46,2.0,216.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\Mac\GPUImagePicture.m,54,33.0,212.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\Mac\GPUImageContext.m,56,6.0,206.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageCropFilter.m,60,13.0,201.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageHarrisCornerDetectionFilter.m,63,34.0,195.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\BenchmarkSuite\BenchmarkSuite\VideoFilteringDisplayController.m,82,31.0,192.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\BenchmarkSuite\BenchmarkSuite\BenchmarkTableViewController.xib,0,0.0,186.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageTransformFilter.m,41,35.0,184.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageGaussianBlurPositionFilter.m,48,2.0,182.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageParallelCoordinateLineTransformFilter.m,60,24.0,182.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\FilterShowcase\FilterShowcase\ShowcaseFilterListController.m,22,39.0,181.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageLanczosResamplingFilter.m,51,7.0,181.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageBilateralFilter.m,50,2.0,179.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageKuwaharaFilter.m,44,6.0,173.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageHueBlendFilter.m,27,15.0,170.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageSaturationBlendFilter.m,28,15.0,170.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GLProgram.m,39,28.0,169.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\iOS\Framework\GPUImageFramework.h,5,4.0,168.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageFilterPipeline.m,40,11.0,167.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImage.h,3,2.0,165.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageSkinToneFilter.m,44,37.0,165.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageColourFASTSamplingOperation.m,38,2.0,164.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImagePerlinNoiseFilter.m,54,22.0,163.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageLuminosity.m,74,94.0,161.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\Mac\GPUImage.h,4,4.0,159.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageAverageColor.m,46,1.0,157.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImagePixellatePositionFilter.m,37,0.0,157.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageFilterGroup.m,38,18.0,152.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageMotionBlurFilter.m,36,21.0,152.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\FilterShowcase\FilterShowcase\ShowcaseFilterViewController.h,7,2.0,148.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageFramebufferCache.m,31,12.0,147.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageSingleComponentGaussianBlurFilter.m,31,13.0,145.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageMosaicFilter.m,41,3.0,144.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageSobelEdgeDetectionFilter.m,40,4.0,144.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageHoughTransformLineDetector.m,43,55.0,143.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImagePinchDistortionFilter.m,37,0.0,139.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageTwoPassFilter.m,42,21.0,138.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\SimpleImageFilter\SimpleImageFilter\SimpleImageViewController.m,39,15.0,135.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageCrosshatchFilter.m,28,1.0,134.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageSphereRefractionFilter.m,45,0.0,134.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageBulgeDistortionFilter.m,41,0.0,133.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\Mac\ShaderDesigner\ShaderDesigner\ShaderDesignerWindowController.m,32,2.0,131.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\Mac\FilterShowcase\SLSFilterShowcaseWindowController.h,6,0.0,128.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageBoxBlurFilter.m,37,13.0,128.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageLineGenerator.m,36,2.0,126.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImagePoissonBlendFilter.m,42,11.0,122.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\BenchmarkSuite\BenchmarkSuite\VideoFilteringDisplayController.xib,0,0.0,119.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageColorLocalBinaryPatternFilter.m,28,14.0,117.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImagePixellateFilter.m,34,0.0,117.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageSharpenFilter.m,34,0.0,113.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageGaussianSelectiveBlurFilter.m,32,4.0,111.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageLevelsFilter.m,33,8.0,111.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\BenchmarkSuite\BenchmarkSuite\BenchmarkTableViewController.m,35,7.0,110.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageColorPackingFilter.m,29,0.0,110.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageToonFilter.m,40,1.0,108.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\BenchmarkSuite\BenchmarkSuite\ImageFilteringBenchmarkController.m,44,15.0,107.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageColorConversion.m,34,18.0,107.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageDirectionalNonMaximumSuppressionFilter.m,35,0.0,106.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\SimpleVideoFilter\SimpleVideoFilter\SimpleVideoFilterViewController.m,32,30.0,105.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageRawDataInput.m,34,2.0,103.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\FilterShowcaseSwift\FilterShowcaseSwift\Base.lproj\Main.storyboard,0,3.0,101.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageCrosshairGenerator.m,35,3.0,101.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImage3x3ConvolutionFilter.m,29,0.0,99.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageThresholdEdgeDetectionFilter.m,30,18.0,97.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageMedianFilter.m,48,34.0,96.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageSolidColorGenerator.m,26,1.0,96.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageSwirlFilter.m,26,1.0,96.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\FilterShowcaseSwift\FilterShowcaseSwift\FilterShowcaseWindowController.xib,0,0.0,95.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\SimpleVideoFileFilter\SimpleVideoFilter\SLSSimpleVideoFileFilterWindowController.xib,0,0.0,95.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageHighlightShadowTintFilter.m,35,6.0,95.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImage3x3TextureSamplingFilter.m,27,1.0,93.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageTiltShiftFilter.m,28,5.0,93.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageCannyEdgeDetectionFilter.m,27,6.0,92.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageUIElement.m,30,4.0,89.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageColorBlendFilter.m,22,3.0,88.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageLaplacianFilter.m,25,2.0,88.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageLuminosityBlendFilter.m,22,3.0,88.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageZoomBlurFilter.m,26,2.0,87.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\FilterShowcase\FilterShowcase.xcodeproj\xcshareddata\xcschemes\FilterShowcase.xcscheme,0,0.0,86.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\MultiViewFilterExample\MultiViewFilterExample.xcodeproj\xcshareddata\xcschemes\MultiViewFilterExample.xcscheme,0,0.0,86.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\SimplePhotoFilter\SimplePhotoFilter.xcodeproj\xcshareddata\xcschemes\SimplePhotoFilter.xcscheme,0,0.0,86.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\BenchmarkSuite\BenchmarkSuite.xcodeproj\xcshareddata\xcschemes\BenchmarkSuite.xcscheme,0,0.0,86.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\ColorObjectTracking\ColorObjectTracking.xcodeproj\xcshareddata\xcschemes\ColorObjectTracking.xcscheme,0,0.0,86.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\CubeExample\CubeExample.xcodeproj\xcshareddata\xcschemes\CubeExample.xcscheme,0,0.0,86.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\FeatureExtractionTest\FeatureExtractionTest.xcodeproj\xcshareddata\xcschemes\FeatureExtractionTest.xcscheme,0,0.0,86.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\FilterShowcase\FilterShowcase.xcodeproj\xcshareddata\xcschemes\FilterShowcase.xcscheme,0,0.0,86.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\MultiViewFilterExample\MultiViewFilterExample.xcodeproj\xcshareddata\xcschemes\MultiViewFilterExample.xcscheme,0,0.0,86.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\RawDataTest\RawDataTest.xcodeproj\xcshareddata\xcschemes\RawDataTest.xcscheme,0,0.0,86.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\SimpleImageFilter\SimpleImageFilter.xcodeproj\xcshareddata\xcschemes\SimpleImageFilter.xcscheme,0,0.0,86.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\SimplePhotoFilter\SimplePhotoFilter.xcodeproj\xcshareddata\xcschemes\SimplePhotoFilter.xcscheme,0,0.0,86.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\SimpleVideoFileFilter\SimpleVideoFileFilter.xcodeproj\xcshareddata\xcschemes\SimpleVideoFileFilter.xcscheme,0,0.0,86.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\SimpleVideoFilter\SimpleVideoFilter.xcodeproj\xcshareddata\xcschemes\SimpleVideoFilter.xcscheme,0,0.0,86.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageChromaKeyBlendFilter.m,28,3.0,86.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageTwoInputCrossTextureSamplingFilter.m,22,0.0,86.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageLocalBinaryPatternFilter.m,24,14.0,85.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageFilter.h,26,24.0,84.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageLookupFilter.m,31,0.0,84.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageNonMaximumSuppressionFilter.m,21,2.0,84.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImagePolarPixellateFilter.m,43,1.0,84.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageBuffer.m,23,7.0,82.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageCGAColorspaceFilter.m,24,7.0,82.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageChromaKeyFilter.m,28,3.0,82.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageThresholdSketchFilter.m,21,0.0,82.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageVignetteFilter.m,22,0.0,82.0
+GPUImage,XML,D:\clones\GPUImage\framework\GPUImage.xcodeproj\xcshareddata\xcschemes\GPUImage.xcscheme,0,0.0,81.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageDirectionalSobelEdgeDetectionFilter.m,22,0.0,81.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageHueFilter.m,26,16.0,81.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\Mac\SimpleVideoFileFilter\SimpleVideoFilter\SLSSimpleVideoFileFilterWindowController.m,30,6.0,80.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageMonochromeFilter.m,28,7.0,80.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageAddBlendFilter.m,22,0.0,78.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageHardLightBlendFilter.m,21,0.0,78.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageWhiteBalanceFilter.m,29,0.0,78.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageXYDerivativeFilter.m,23,5.0,78.0
+GPUImage,Swift,D:\clones\GPUImage\examples\Mac\FilterShowcaseSwift\FilterShowcaseSwift\FilterShowcaseWindowController.swift,16,5.0,76.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageMotionDetector.m,31,5.0,76.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageOverlayBlendFilter.m,18,0.0,76.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImagePrewittEdgeDetectionFilter.m,21,0.0,76.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\SimplePhotoFilter\SimplePhotoFilter\PhotoViewController.m,28,29.0,75.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageSketchFilter.m,22,1.0,75.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageWeakPixelInclusionFilter.m,19,0.0,75.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageAdaptiveThresholdFilter.m,22,4.0,74.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageGlassSphereFilter.m,26,6.0,74.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageVoronoiConsumerFilter.m,19,1.0,74.0
+GPUImage,XML,D:\clones\GPUImage\framework\GPUImage.xcodeproj\xcshareddata\xcschemes\GPUImageFramework.xcscheme,0,0.0,73.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageFalseColorFilter.m,28,0.0,73.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageiOSBlurFilter.m,26,15.0,73.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageDivideBlendFilter.m,24,0.0,72.0
+GPUImage,Swift,D:\clones\GPUImage\examples\iOS\FilterShowcaseSwift\FilterShowcaseSwift\FilterDisplayViewController.swift,16,4.0,71.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\SimpleVideoFileFilter\SimpleVideoFileFilter\SimpleVideoFileFilterViewController.m,21,5.0,71.0
+GPUImage,XML,D:\clones\GPUImage\framework\GPUImage.xcodeproj\xcshareddata\xcschemes\Documentation.xcscheme,0,0.0,71.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageUnsharpMaskFilter.m,23,7.0,71.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageSmoothToonFilter.m,21,3.0,70.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageStretchDistortionFilter.m,29,0.0,70.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\iOS\GPUImagePicture+TextureSubimage.m,21,13.0,69.0
+GPUImage,JSON,D:\clones\GPUImage\examples\iOS\FilterShowcaseSwift\FilterShowcaseSwift\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,68.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageHighlightShadowFilter.m,25,0.0,68.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\SimplePhotoFilter\SimplePhotoFilter\SimplePhotoFilter-Info.plist,0,0.0,67.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageOutput.h,31,30.0,67.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageTwoPassTextureSamplingFilter.m,17,1.0,67.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\CubeExample\Classes\DisplayViewController.m,27,5.0,66.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageRGBFilter.m,23,0.0,66.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageColorMatrixFilter.m,22,0.0,65.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageHazeFilter.m,30,2.0,64.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageHistogramGenerator.m,18,5.0,64.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImagePolkaDotFilter.m,23,0.0,62.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageTextureOutput.m,21,1.0,61.0
+GPUImage,Swift,D:\clones\GPUImage\examples\iOS\FilterShowcaseSwift\FilterShowcaseSwift\FilterOperationTypes.swift,9,0.0,60.0
+GPUImage,XML,D:\clones\GPUImage\framework\GPUImageMac.xcodeproj\xcshareddata\xcschemes\GPUImage.xcscheme,0,0.0,59.0
+GPUImage,JSON,D:\clones\GPUImage\examples\Mac\SimpleVideoFilter\SimpleVideoFilter\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,58.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageFASTCornerDetectionFilter.m,20,11.0,58.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageVideoCamera.h,42,56.0,58.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageHalftoneFilter.m,22,0.0,57.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\MultiViewFilterExample\MultiViewFilterExample\MultiViewViewController.m,17,25.0,56.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageGrayscaleFilter.m,23,62.0,56.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageSolarizeFilter.m,20,0.0,56.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageDissolveBlendFilter.m,18,0.0,54.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageLuminanceRangeFilter.m,20,2.0,54.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageLuminanceThresholdFilter.m,20,0.0,54.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageNormalBlendFilter.m,23,19.0,54.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageSaturationFilter.m,22,2.0,54.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageVibranceFilter.m,17,7.0,54.0
+GPUImage,JSON,D:\clones\GPUImage\examples\iOS\SimpleSwiftVideoFilterExample\SimpleSwiftVideoFilterExample\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,53.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageColorDodgeBlendFilter.m,22,0.0,53.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\iOS\GPUImageContext.h,10,1.0,53.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\Mac\SimplePhotoFilter\SimplePhotoFilter\SLSDocument.m,19,12.0,52.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageAlphaBlendFilter.m,20,0.0,52.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\iOS\GPUImageMovieWriter.h,13,2.0,52.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\BenchmarkSuite\BenchmarkSuite\BenchmarkSuite-Info.plist,0,0.0,51.0
+GPUImage,JSON,D:\clones\GPUImage\examples\iOS\SimpleSwiftVideoFilterExample\SimpleSwiftVideoFilterExample\Images.xcassets\LaunchImage.launchimage\Contents.json,0,0.0,51.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\SimpleVideoFileFilter\SimpleVideoFileFilter\SimpleVideoFileFilter-Info.plist,0,0.0,51.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\SimpleVideoFilter\SimpleVideoFilter\SimpleVideoFilter-Info.plist,0,0.0,51.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\FilterShowcaseSwift\FilterShowcaseSwift\Info.plist,0,0.0,50.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\Mac\GPUImageAVCamera.h,36,46.0,50.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\CubeExample\CubeExample-Info.plist,0,0.0,49.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\MultiViewFilterExample\MultiViewFilterExample\MultiViewFilterExample-Info.plist,0,0.0,49.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\SimplePhotoFilter\SimplePhotoFilter\SimplePhotoFilter-Info.plist,0,0.0,49.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageMaskFilter.m,15,12.0,49.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageBrightnessFilter.m,18,0.0,48.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageContrastFilter.m,18,0.0,48.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageExposureFilter.m,18,0.0,48.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageGammaFilter.m,18,0.0,48.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageOpacityFilter.m,17,0.0,48.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImagePosterizeFilter.m,18,0.0,48.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageSoftEleganceFilter.m,14,0.0,48.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\RawDataTest\RawDataTest\RawDataTest-Info.plist,0,0.0,47.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\SimpleVideoFileFilter\SimpleVideoFileFilter\SimpleVideoFileFilterViewController.xib,0,0.0,47.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageMovieComposition.m,15,8.0,47.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\SimpleImageFilter\SimpleImageFilter\SimpleImageFilter-Info.plist,0,0.0,46.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageShiTomasiFeatureDetectionFilter.m,18,2.0,45.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\RawDataTest\RawDataTest\RawDataTestAppDelegate.m,11,1.0,44.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageNobleCornerDetectionFilter.m,18,12.0,44.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\Mac\GPUImageContext.h,10,1.0,44.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\Mac\GPUImageMovieWriter.h,12,2.0,43.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageClosingFilter.m,13,2.0,42.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageColorBurnBlendFilter.m,10,0.0,42.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageFramebuffer.h,12,5.0,42.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageOpeningFilter.m,13,2.0,42.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageScreenBlendFilter.m,10,0.0,42.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageSoftLightBlendFilter.m,12,0.0,42.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\BenchmarkSuite\BenchmarkSuite\BenchmarkAppDelegate.m,18,22.0,41.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageDarkenBlendFilter.m,12,0.0,40.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageDifferenceBlendFilter.m,10,0.0,40.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageExclusionBlendFilter.m,14,2.0,40.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageLightenBlendFilter.m,12,0.0,40.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageLinearBurnBlendFilter.m,11,0.0,40.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageMultiplyBlendFilter.m,12,0.0,40.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageSourceOverBlendFilter.m,11,0.0,40.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageSubtractBlendFilter.m,12,0.0,40.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\Mac\SimpleVideoFilter\SimpleVideoFilter\SLSSimpleVideoFilterWindowController.m,20,6.0,39.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageLowPassFilter.m,16,6.0,39.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\SimpleVideoFileFilter\SimpleVideoFileFilter\SimpleVideoFileFilterAppDelegate.m,13,21.0,37.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\SimpleVideoFilter\SimpleVideoFilter\SimpleVideoFilterAppDelegate.m,13,20.0,37.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\SimpleSwiftVideoFilterExample\SimpleSwiftVideoFilterExample\Info.plist,0,0.0,36.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageTextureInput.m,11,0.0,35.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\FilterShowcaseSwift\FilterShowcaseSwift\Info.plist,0,0.0,34.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\MultiViewFilterExample\MultiViewFilterExample\MultiViewFilterExample-Info.plist,0,0.0,34.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\ShaderDesigner\ShaderDesigner\Info.plist,0,0.0,34.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\SimpleVideoFilter\SimpleVideoFilter\Info.plist,0,0.0,34.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\SimpleVideoFilter\SimpleVideoFilter\SLSSimpleVideoFilterWindowController.xib,0,0.0,34.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\MultiViewFilterExample\MultiViewFilterExample\MultiViewAppDelegate.m,12,20.0,34.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageAverageLuminanceThresholdFilter.m,13,0.0,34.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageColorInvertFilter.m,12,0.0,34.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GLProgram.h,5,4.0,33.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageRawDataOutput.h,9,2.0,33.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\Mac\MultiViewFilterExample\MultiViewFilterExample\SLSMultiViewWindowController.m,12,1.0,32.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageColourFASTFeatureDetector.m,13,3.0,32.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\BenchmarkSuite\BenchmarkSuite\VideoFilteringDisplayController.h,14,1.0,31.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageMovie.h,13,17.0,31.0
+GPUImage,GLSL,D:\clones\GPUImage\examples\iOS\ColorObjectTracking\ColorObjectTracking\PositionColor.fsh,11,4.0,30.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\SimplePhotoFilter\SimplePhotoFilter\PhotoAppDelegate.m,11,8.0,30.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\SimpleVideoFilter\SimpleVideoFilter\SimpleVideoFilterViewController.xib,0,0.0,30.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageEmbossFilter.m,14,5.0,30.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageHighPassFilter.m,13,3.0,30.0
+GPUImage,XML,D:\clones\GPUImage\framework\Source\Mac\GPUImageMac-Info.plist,0,0.0,30.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\CubeExample\Classes\CubeExampleAppDelegate.m,12,1.0,29.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageAmatorkaFilter.m,10,0.0,28.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageMissEtikateFilter.m,10,0.0,28.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageRGBClosingFilter.m,11,2.0,28.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageRGBOpeningFilter.m,11,2.0,28.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\CubeExample\Classes\ES2Renderer.h,15,2.0,27.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageRawDataInput.h,9,8.0,26.0
+GPUImage,XML,D:\clones\GPUImage\framework\Source\iOS\Framework\Info.plist,0,0.0,26.0
+GPUImage,GLSL,D:\clones\GPUImage\examples\iOS\ColorObjectTracking\ColorObjectTracking\Threshold.fsh,11,3.0,25.0
+GPUImage,Swift,D:\clones\GPUImage\examples\iOS\FilterShowcaseSwift\FilterShowcaseSwift\FilterListViewController.swift,10,2.0,25.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\SimpleSwiftVideoFilterExample\SimpleSwiftVideoFilterExample\Base.lproj\Main.storyboard,0,1.0,25.0
+GPUImage,Ruby,D:\clones\GPUImage\GPUImage.podspec,3,0.0,24.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\FilterShowcaseSwift\FilterShowcaseSwiftTests\Info.plist,0,0.0,24.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\SimpleVideoFilter\SimpleVideoFilterTests\Info.plist,0,0.0,24.0
+GPUImage,XML,D:\clones\GPUImage\examples\iOS\FilterShowcase\FilterShowcase\SampleConfiguration.plist,0,0.0,24.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageHarrisCornerDetectionFilter.h,14,15.0,24.0
+GPUImage,YAML,D:\clones\GPUImage\.travis.yml,3,0.0,23.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\Mac\ShaderDesigner\ShaderDesigner\ShaderDesignerWindowController.h,8,0.0,23.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageFilterPipeline.h,7,0.0,23.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\ColorObjectTracking\ColorObjectTracking\ColorTrackingAppDelegate.m,9,2.0,22.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\ColorObjectTracking\ColorObjectTracking\ColorTrackingViewController.h,8,1.0,22.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageSkinToneFilter.h,11,14.0,22.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\iOS\GPUImagePicture.h,7,9.0,22.0
+GPUImage,Bourne Shell,D:\clones\GPUImage\build.sh,6,4.0,21.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageCannyEdgeDetectionFilter.h,16,25.0,21.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\Mac\SimpleVideoFilter\SimpleVideoFilterTests\SimpleVideoFilterTests.m,9,12.0,19.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\BenchmarkSuite\BenchmarkSuite\VideoFilteringBenchmarkController.m,9,0.0,19.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageLevelsFilter.h,11,15.0,19.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageHoughTransformLineDetector.h,10,21.0,18.0
+GPUImage,Objective-C,D:\clones\GPUImage\framework\Source\GPUImageSepiaFilter.m,6,0.0,18.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\Mac\GPUImagePicture.h,5,2.0,18.0
+GPUImage,Swift,D:\clones\GPUImage\examples\Mac\FilterShowcaseSwift\FilterShowcaseSwiftTests\FilterShowcaseSwiftTests.swift,7,12.0,17.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageGaussianBlurFilter.h,9,10.0,17.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageToneCurveFilter.h,8,5.0,17.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\Mac\GPUImageView.h,9,13.0,17.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\iOS\GPUImageView.h,11,13.0,17.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\CubeExample\Classes\DisplayViewController.h,5,0.0,16.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\FilterShowcase\FilterShowcase\ShowcaseAppDelegate.m,7,1.0,16.0
+GPUImage,GLSL,D:\clones\GPUImage\examples\Mac\MultiViewFilterExample\MultiViewFilterExample\Shader1.fsh,4,0.0,15.0
+GPUImage,GLSL,D:\clones\GPUImage\examples\Mac\PlaygroundExample\PlaygroundExample\GPUImagePlayground.playground\Resources\CustomFilter.fsh,4,0.0,15.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\PlaygroundExample\PlaygroundExample\GPUImagePlayground.playground\timeline.xctimeline,0,0.0,15.0
+GPUImage,GLSL,D:\clones\GPUImage\examples\iOS\MultiViewFilterExample\MultiViewFilterExample\Shader1.fsh,4,0.0,15.0
+GPUImage,Swift,D:\clones\GPUImage\examples\iOS\SimpleSwiftVideoFilterExample\SimpleSwiftVideoFilterExample\ViewController.swift,4,0.0,15.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageFourInputFilter.h,6,0.0,15.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageTextureOutput.h,6,0.0,15.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageThreeInputFilter.h,6,0.0,15.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageTwoInputFilter.h,6,0.0,15.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageiOSBlurFilter.h,8,8.0,15.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageFilterGroup.h,4,1.0,14.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageGaussianSelectiveBlurFilter.h,4,12.0,14.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageHistogramEqualizationFilter.h,5,7.0,14.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageSmoothToonFilter.h,7,7.0,14.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageStillCamera.h,6,4.0,14.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\Mac\SimpleVideoFileFilter\SimpleVideoFilter\AppDelegate.m,6,2.0,13.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\Mac\SimpleVideoFilter\SimpleVideoFilter\AppDelegate.m,6,2.0,13.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\SimpleImageFilter\SimpleImageFilter\SimpleImageAppDelegate.m,6,1.0,13.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\SimpleImageFilter\SimpleImageFilter\SimpleImageViewController.h,5,1.0,13.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\SimplePhotoFilter\SimplePhotoFilter\PhotoViewController.h,4,0.0,13.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageFASTCornerDetectionFilter.h,9,11.0,13.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageHistogramFilter.h,7,2.0,13.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageTwoPassFilter.h,5,1.0,13.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\SimpleVideoFileFilter\SimpleVideoFileFilter\SimpleVideoFileFilterViewController.h,3,0.0,12.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageAverageColor.h,7,1.0,12.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageDirectionalNonMaximumSuppressionFilter.h,5,2.0,12.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageHighlightShadowTintFilter.h,5,8.0,12.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageLuminosity.h,4,1.0,12.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageMosaicFilter.h,5,5.0,12.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageMotionDetector.h,4,2.0,12.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageTiltShiftFilter.h,7,5.0,12.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\Mac\ShaderDesigner\ShaderDesigner\AppDelegate.m,5,0.0,11.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\FeatureExtractionTest\FeatureExtractionTest\FeatureExtractionAppDelegate.h,4,0.0,11.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImage3x3TextureSamplingFilter.h,6,1.0,11.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageClosingFilter.h,6,2.0,11.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageFramebufferCache.h,3,1.0,11.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageJFAVoronoiFilter.h,6,0.0,11.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageOpeningFilter.h,6,2.0,11.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageRGBFilter.h,3,1.0,11.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageTransformFilter.h,5,3.0,11.0
+GPUImage,Swift,D:\clones\GPUImage\examples\Mac\FilterShowcaseSwift\FilterShowcaseSwift\AppDelegate.swift,4,0.0,10.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\Mac\SimplePhotoFilter\SimplePhotoFilter\SLSDocument.h,3,0.0,10.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\Mac\SimpleVideoFilter\SimpleVideoFilter\SLSSimpleVideoFilterWindowController.h,3,0.0,10.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\BenchmarkSuite\BenchmarkSuite\BenchmarkAppDelegate.h,3,0.0,10.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\BenchmarkSuite\BenchmarkSuite\ImageFilteringBenchmarkController.h,3,1.0,10.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\SimpleVideoFilter\SimpleVideoFilter\SimpleVideoFilterViewController.h,3,0.0,10.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageColourFASTFeatureDetector.h,4,7.0,10.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageColourFASTSamplingOperation.h,5,7.0,10.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageFalseColorFilter.h,4,1.0,10.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageHighPassFilter.h,3,1.0,10.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageLineGenerator.h,5,3.0,10.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageLowPassFilter.h,3,1.0,10.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImagePoissonBlendFilter.h,5,3.0,10.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageRGBClosingFilter.h,6,2.0,10.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageRGBOpeningFilter.h,5,2.0,10.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageSobelEdgeDetectionFilter.h,4,2.0,10.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageSolidColorGenerator.h,6,3.0,10.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageTwoInputCrossTextureSamplingFilter.h,4,1.0,10.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageUnsharpMaskFilter.h,4,2.0,10.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageVignetteFilter.h,6,6.0,10.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\Mac\MultiViewFilterExample\MultiViewFilterExample\SLSMultiViewWindowController.h,3,0.0,9.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\CubeExample\Classes\CubeExampleAppDelegate.h,6,0.0,9.0
+GPUImage,GLSL,D:\clones\GPUImage\examples\iOS\CubeExample\Shaders\Shader.vsh,3,0.0,9.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\FilterShowcase\FilterShowcase\ShowcaseAppDelegate.h,5,0.0,9.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\SimpleImageFilter\SimpleImageFilter\SimpleImageAppDelegate.h,3,0.0,9.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageBulgeDistortionFilter.h,3,4.0,9.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageChromaKeyBlendFilter.h,9,14.0,9.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageChromaKeyFilter.h,9,12.0,9.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageColorConversion.h,3,0.0,9.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageColorMatrixFilter.h,4,6.0,9.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageCrosshairGenerator.h,5,3.0,9.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageGaussianBlurPositionFilter.h,5,8.0,9.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageHazeFilter.h,6,14.0,9.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageMonochromeFilter.h,4,0.0,9.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageMovieComposition.h,5,7.0,9.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImagePerlinNoiseFilter.h,4,0.0,9.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImagePinchDistortionFilter.h,3,8.0,9.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImagePixellatePositionFilter.h,5,3.0,9.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageSphereRefractionFilter.h,3,3.0,9.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageSwirlFilter.h,3,5.0,9.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageTwoPassTextureSamplingFilter.h,3,1.0,9.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageUIElement.h,4,2.0,9.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\Mac\FilterShowcase\FilterShowcase\SLSAppDelegate.m,4,1.0,8.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\Mac\MultiViewFilterExample\MultiViewFilterExample\SLSAppDelegate.h,3,0.0,8.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\Mac\MultiViewFilterExample\MultiViewFilterExample\SLSAppDelegate.m,3,0.0,8.0
+GPUImage,GLSL,D:\clones\GPUImage\examples\Mac\MultiViewFilterExample\MultiViewFilterExample\Shader2.fsh,3,0.0,8.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\BenchmarkSuite\BenchmarkSuite\main.m,2,0.0,8.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\ColorObjectTracking\ColorObjectTracking\ColorTrackingAppDelegate.h,4,0.0,8.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\ColorObjectTracking\ColorObjectTracking\main.m,2,0.0,8.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\CubeExample\main.m,3,6.0,8.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\FeatureExtractionTest\FeatureExtractionTest\main.m,2,0.0,8.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\FilterShowcase\FilterShowcase\main.m,2,0.0,8.0
+GPUImage,Swift,D:\clones\GPUImage\examples\iOS\FilterShowcaseSwift\FilterShowcaseSwift\AppDelegate.swift,4,0.0,8.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\MultiViewFilterExample\MultiViewFilterExample\MultiViewAppDelegate.h,3,0.0,8.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\MultiViewFilterExample\MultiViewFilterExample\MultiViewViewController.h,2,0.0,8.0
+GPUImage,GLSL,D:\clones\GPUImage\examples\iOS\MultiViewFilterExample\MultiViewFilterExample\Shader2.fsh,3,0.0,8.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\MultiViewFilterExample\MultiViewFilterExample\main.m,2,0.0,8.0
+GPUImage,GLSL,D:\clones\GPUImage\examples\iOS\RawDataTest\RawDataTest\CalculationShader.fsh,3,0.0,8.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\RawDataTest\RawDataTest\main.m,2,0.0,8.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\SimpleImageFilter\SimpleImageFilter\main.m,2,0.0,8.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\SimplePhotoFilter\SimplePhotoFilter\PhotoAppDelegate.h,4,0.0,8.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\SimplePhotoFilter\SimplePhotoFilter\main.m,2,0.0,8.0
+GPUImage,Swift,D:\clones\GPUImage\examples\iOS\SimpleSwiftVideoFilterExample\SimpleSwiftVideoFilterExample\AppDelegate.swift,3,0.0,8.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\SimpleVideoFileFilter\SimpleVideoFileFilter\SimpleVideoFileFilterAppDelegate.h,3,0.0,8.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\SimpleVideoFileFilter\SimpleVideoFileFilter\main.m,2,0.0,8.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\SimpleVideoFilter\SimpleVideoFilter\SimpleVideoFilterAppDelegate.h,3,0.0,8.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\iOS\SimpleVideoFilter\SimpleVideoFilter\main.m,2,0.0,8.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageBilateralFilter.h,1,1.0,8.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageCropFilter.h,4,2.0,8.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageCrosshatchFilter.h,3,2.0,8.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageDilationFilter.h,5,3.0,8.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageHighlightShadowFilter.h,4,8.0,8.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageParallelCoordinateLineTransformFilter.h,3,5.0,8.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageSharpenFilter.h,3,1.0,8.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageSoftEleganceFilter.h,5,6.0,8.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageTextureInput.h,4,2.0,8.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageThresholdedNonMaximumSuppressionFilter.h,4,2.0,8.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageToonFilter.h,4,7.0,8.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageWhiteBalanceFilter.h,3,6.0,8.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\Mac\FilterShowcase\FilterShowcase\SLSAppDelegate.h,2,0.0,7.0
+GPUImage,XML,D:\clones\GPUImage\examples\Mac\PlaygroundExample\PlaygroundExample\GPUImagePlayground.playground\contents.xcplayground,0,0.0,7.0
+GPUImage,Swift,D:\clones\GPUImage\examples\Mac\PlaygroundExample\PlaygroundExample\GPUImagePlayground.playground\section-1.swift,3,0.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\Mac\ShaderDesigner\ShaderDesigner\AppDelegate.h,3,0.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\Mac\SimpleVideoFileFilter\SimpleVideoFilter\AppDelegate.h,3,0.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\Mac\SimpleVideoFilter\SimpleVideoFilter\AppDelegate.h,3,0.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\BenchmarkSuite\BenchmarkSuite\BenchmarkTableViewController.h,3,1.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\BenchmarkSuite\BenchmarkSuite\VideoFilteringBenchmarkController.h,2,0.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImage3x3ConvolutionFilter.h,4,7.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageAlphaBlendFilter.h,3,1.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageAmatorkaFilter.h,5,5.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageBrightnessFilter.h,3,1.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageBuffer.h,3,0.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageColorPackingFilter.h,3,0.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageContrastFilter.h,3,4.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageDissolveBlendFilter.h,3,1.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageExposureFilter.h,3,1.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageGammaFilter.h,3,1.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageHSBFilter.h,6,14.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageHueFilter.h,4,0.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageKuwaharaFilter.h,3,3.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageLookupFilter.h,6,21.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageLuminanceRangeFilter.h,3,2.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageLuminanceThresholdFilter.h,3,4.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageMissEtikateFilter.h,5,5.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageOpacityFilter.h,3,1.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImagePixellateFilter.h,4,1.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImagePolarPixellateFilter.h,4,2.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImagePolkaDotFilter.h,3,0.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImagePosterizeFilter.h,3,4.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageSaturationFilter.h,3,4.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageSolarizeFilter.h,3,4.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageThresholdEdgeDetectionFilter.h,3,2.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageVibranceFilter.h,4,9.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageVoronoiConsumerFilter.h,3,0.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\iOS\GPUImagePicture+TextureSubimage.h,5,7.0,7.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\CubeExample\Classes\ESRenderer.h,4,0.0,6.0
+GPUImage,GLSL,D:\clones\GPUImage\examples\iOS\CubeExample\Shaders\Shader.fsh,2,1.0,6.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageHistogramGenerator.h,2,0.0,6.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageStretchDistortionFilter.h,3,4.0,6.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\Mac\MultiViewFilterExample\MultiViewFilterExample\main.m,1,0.0,5.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\Mac\SimplePhotoFilter\SimplePhotoFilter\main.m,2,7.0,5.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\RawDataTest\RawDataTest\RawDataTestAppDelegate.h,3,0.0,5.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageColorBurnBlendFilter.h,2,2.0,5.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageColorDodgeBlendFilter.h,2,2.0,5.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageColorInvertFilter.h,2,0.0,5.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageDarkenBlendFilter.h,2,0.0,5.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageDifferenceBlendFilter.h,2,0.0,5.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageExclusionBlendFilter.h,2,0.0,5.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageHardLightBlendFilter.h,2,0.0,5.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageLightenBlendFilter.h,2,1.0,5.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageMotionBlurFilter.h,4,4.0,5.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageMultiplyBlendFilter.h,2,0.0,5.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageScreenBlendFilter.h,2,0.0,5.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageSketchFilter.h,3,3.0,5.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageSoftLightBlendFilter.h,2,0.0,5.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageZoomBlurFilter.h,4,4.0,5.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\Mac\ShaderDesigner\ShaderDesigner\main.m,1,0.0,4.0
+GPUImage,Objective-C,D:\clones\GPUImage\examples\Mac\SimpleVideoFilter\SimpleVideoFilter\main.m,2,7.0,4.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageAdaptiveThresholdFilter.h,3,2.0,4.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageAverageLuminanceThresholdFilter.h,3,1.0,4.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageEmbossFilter.h,3,1.0,4.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageErosionFilter.h,4,3.0,4.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageGrayscaleFilter.h,3,2.0,4.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageLanczosResamplingFilter.h,3,0.0,4.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageRGBDilationFilter.h,4,3.0,4.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageRGBErosionFilter.h,4,3.0,4.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\Mac\SimpleVideoFileFilter\SimpleVideoFilter\SLSSimpleVideoFileFilterWindowController.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\examples\iOS\FilterShowcase\FilterShowcase\ShowcaseFilterListController.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageAddBlendFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageBoxBlurFilter.h,2,2.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageCGAColorspaceFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageColorBlendFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageColorLocalBinaryPatternFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageDirectionalSobelEdgeDetectionFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageDivideBlendFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageGlassSphereFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageHalftoneFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageHueBlendFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageKuwaharaRadius3Filter.h,3,2.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageLaplacianFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageLinearBurnBlendFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageLocalBinaryPatternFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageLuminosityBlendFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageMaskFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageMedianFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageNobleCornerDetectionFilter.h,5,4.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageNonMaximumSuppressionFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageNormalBlendFilter.h,3,2.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageOverlayBlendFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImagePrewittEdgeDetectionFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageSaturationBlendFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageSepiaFilter.h,2,1.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageShiTomasiFeatureDetectionFilter.h,5,5.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageSingleComponentGaussianBlurFilter.h,3,1.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageSourceOverBlendFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageSubtractBlendFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageThresholdSketchFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageWeakPixelInclusionFilter.h,2,0.0,3.0
+GPUImage,C/C++ Header,D:\clones\GPUImage\framework\Source\GPUImageXYDerivativeFilter.h,2,0.0,3.0
+GPUImage,Swift,D:\clones\GPUImage\examples\Mac\FilterShowcaseSwift\FilterShowcaseSwift\main.swift,1,0.0,2.0
+GPUImage,Swift,D:\clones\GPUImage\examples\Mac\PlaygroundExample\PlaygroundExample\main.swift,2,0.0,2.0

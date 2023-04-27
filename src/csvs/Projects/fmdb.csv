@@ -1,0 +1,40 @@
+project,language,filename,blank,comment,code
+fmdb,Objective-C,D:\clones\fmdb\Tests\FMDatabaseTests.m,407,63.0,1272.0
+fmdb,Objective-C,D:\clones\fmdb\src\fmdb\FMDatabase.m,348,58.0,1123.0
+fmdb,Objective-C,D:\clones\fmdb\src\sample\main.m,523,89.0,924.0
+fmdb,Markdown,D:\clones\fmdb\privacy\README.md,40,0.0,385.0
+fmdb,Markdown,D:\clones\fmdb\README.markdown,169,0.0,377.0
+fmdb,Objective-C,D:\clones\fmdb\src\fmdb\FMResultSet.m,119,15.0,337.0
+fmdb,Objective-C,D:\clones\fmdb\Tests\FMDatabasePoolTests.m,94,13.0,279.0
+fmdb,Objective-C,D:\clones\fmdb\Tests\FMDatabaseQueueTests.m,90,13.0,269.0
+fmdb,Objective-C,D:\clones\fmdb\src\fmdb\FMDatabasePool.m,87,11.0,237.0
+fmdb,Objective-C,D:\clones\fmdb\src\fmdb\FMDatabaseQueue.m,69,21.0,224.0
+fmdb,Objective-C,D:\clones\fmdb\src\extra\fts3\FMDatabase+FTS3.m,62,44.0,194.0
+fmdb,Objective-C,D:\clones\fmdb\src\fmdb\FMDatabaseAdditions.m,64,20.0,161.0
+fmdb,C/C++ Header,D:\clones\fmdb\src\fmdb\FMDatabase.h,568,779.0,147.0
+fmdb,Objective-C,D:\clones\fmdb\Tests\FMDatabaseFTS3Tests.m,39,17.0,101.0
+fmdb,Objective-C,D:\clones\fmdb\Tests\FMResultSetTests.m,26,7.0,98.0
+fmdb,Objective-C,D:\clones\fmdb\Tests\FMDatabaseAdditionsTests.m,35,9.0,97.0
+fmdb,Objective-C,D:\clones\fmdb\src\extra\fts3\FMTokenizers.m,30,12.0,93.0
+fmdb,XML,D:\clones\fmdb\Tests\Schemes\Tests.xcscheme,0,0.0,83.0
+fmdb,XML,D:\clones\fmdb\fmdb.xcodeproj\xcshareddata\xcschemes\FMDB MacOS.xcscheme,0,0.0,76.0
+fmdb,XML,D:\clones\fmdb\fmdb.xcodeproj\xcshareddata\xcschemes\FMDB iOS.xcscheme,0,0.0,76.0
+fmdb,C/C++ Header,D:\clones\fmdb\src\fmdb\FMResultSet.h,227,237.0,74.0
+fmdb,XML,D:\clones\fmdb\fmdb.xcodeproj\xcshareddata\xcschemes\FMDB watchOS.xcscheme,0,0.0,67.0
+fmdb,Objective-C,D:\clones\fmdb\src\extra\InMemoryOnDiskIO\FMDatabase+InMemoryOnDiskIO.m,17,27.0,54.0
+fmdb,Objective-C,D:\clones\fmdb\Tests\FMDatabaseFTS3WithModuleNameTests.m,19,11.0,53.0
+fmdb,Ruby,D:\clones\fmdb\FMDB.podspec,6,5.0,45.0
+fmdb,C/C++ Header,D:\clones\fmdb\src\extra\fts3\FMDatabase+FTS3.h,27,47.0,40.0
+fmdb,Objective-C,D:\clones\fmdb\Tests\FMDBTempDBTests.m,16,9.0,38.0
+fmdb,C/C++ Header,D:\clones\fmdb\src\extra\fts3\fts3_tokenizer.h,16,107.0,37.0
+fmdb,C/C++ Header,D:\clones\fmdb\src\fmdb\FMDatabasePool.h,113,131.0,36.0
+fmdb,C/C++ Header,D:\clones\fmdb\src\fmdb\FMDatabaseQueue.h,104,160.0,31.0
+fmdb,XML,D:\clones\fmdb\src\fmdb\Info.plist,0,0.0,26.0
+fmdb,C/C++ Header,D:\clones\fmdb\src\fmdb\FMDatabaseAdditions.h,102,117.0,24.0
+fmdb,XML,D:\clones\fmdb\Tests\Tests-Info.plist,0,0.0,22.0
+fmdb,Swift,D:\clones\fmdb\Package.swift,2,7.0,16.0
+fmdb,C/C++ Header,D:\clones\fmdb\src\extra\fts3\FMTokenizers.h,15,29.0,13.0
+fmdb,C/C++ Header,D:\clones\fmdb\Tests\FMDBTempDBTests.h,7,7.0,10.0
+fmdb,C/C++ Header,D:\clones\fmdb\src\fmdb\FMDB.h,2,0.0,8.0
+fmdb,YAML,D:\clones\fmdb\.travis.yml,0,0.0,5.0
+fmdb,C/C++ Header,D:\clones\fmdb\src\extra\InMemoryOnDiskIO\FMDatabase+InMemoryOnDiskIO.h,4,17.0,5.0

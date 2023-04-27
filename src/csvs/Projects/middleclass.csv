@@ -1,0 +1,16 @@
+project,language,filename,blank,comment,code
+middleclass,Lua,D:\clones\middleclass\spec\metamethods_spec.lua,57,5.0,263.0
+middleclass,Lua,D:\clones\middleclass\spec\default_methods_spec.lua,60,0.0,176.0
+middleclass,Lua,D:\clones\middleclass\middleclass.lua,38,0.0,155.0
+middleclass,Lua,D:\clones\middleclass\spec\classes_spec.lua,40,0.0,98.0
+middleclass,Lua,D:\clones\middleclass\spec\metamethods_lua_5_3.lua,20,0.0,86.0
+middleclass,Lua,D:\clones\middleclass\spec\metamethods_lua_5_2.lua,12,0.0,73.0
+middleclass,Markdown,D:\clones\middleclass\README.md,29,0.0,51.0
+middleclass,Markdown,D:\clones\middleclass\UPDATING.md,22,0.0,47.0
+middleclass,Lua,D:\clones\middleclass\spec\instances_spec.lua,18,0.0,47.0
+middleclass,Markdown,D:\clones\middleclass\CHANGELOG.md,18,0.0,37.0
+middleclass,Lua,D:\clones\middleclass\spec\mixins_spec.lua,16,0.0,37.0
+middleclass,Lua,D:\clones\middleclass\performance\run.lua,13,0.0,30.0
+middleclass,YAML,D:\clones\middleclass\.travis.yml,7,0.0,29.0
+middleclass,Lua,D:\clones\middleclass\spec\class_spec.lua,5,0.0,23.0
+middleclass,Lua,D:\clones\middleclass\performance\time.lua,6,0.0,7.0

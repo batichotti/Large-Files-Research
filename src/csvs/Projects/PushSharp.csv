@@ -1,0 +1,88 @@
+project,language,filename,blank,comment,code
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Apple\ApnsConnection.cs,120,64.0,294.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Tests\Servers\TestApnsServer.cs,91,23.0,229.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Google\Xmpp\GcmXmppConnection.cs,81,23.0,219.0
+PushSharp,Markdown,D:\clones\PushSharp\README.md,81,0.0,206.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Core\ServiceBroker.cs,51,9.0,163.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Google\GcmServiceConnection.cs,44,12.0,160.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Windows\WnsConnection.cs,39,27.0,139.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Tests\ApnsTests.cs,35,3.0,131.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Apple\ApnsConfiguration.cs,55,24.0,129.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Core\Log.cs,34,0.0,123.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Amazon\AdmConnection.cs,32,3.0,119.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Blackberry\BlackberryNotification.cs,40,13.0,115.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Apple\ApnsNotification.cs,37,18.0,113.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Google\GcmNotification.cs,26,44.0,103.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Apple\ApnsHttp2Connection.cs,31,7.0,97.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Apple\ApnsHttp2Configuration.cs,42,20.0,94.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Tests\WnsRealTests.cs,15,0.0,86.0
+PushSharp,MSBuild script,D:\clones\PushSharp\PushSharp.Tests\PushSharp.Tests.csproj,0,0.0,84.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Apple\ApnsFeedbackService.cs,29,15.0,83.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Core\PushHttpClient.cs,21,0.0,79.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Google\GcmResponse.cs,26,0.0,78.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Tests\BrokerTests.cs,20,0.0,72.0
+PushSharp,Visual Studio Solution,D:\clones\PushSharp\PushSharp.sln,1,1.0,69.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Blackberry\BlackberryConnection.cs,18,0.0,68.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Windows\WnsTokenAccessManager.cs,13,0.0,65.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Tests\Settings.cs,14,0.0,63.0
+PushSharp,MSBuild script,D:\clones\PushSharp\PushSharp.Google\PushSharp.Google.csproj,0,0.0,61.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Google\Xmpp\GcmXmppNotification.cs,21,37.0,61.0
+PushSharp,MSBuild script,D:\clones\PushSharp\PushSharp.Windows\PushSharp.Windows.csproj,0,0.0,60.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Google\GcmMessageResult.cs,4,0.0,59.0
+PushSharp,MSBuild script,D:\clones\PushSharp\PushSharp.Apple\PushSharp.Apple.csproj,0,0.0,58.0
+PushSharp,MSBuild script,D:\clones\PushSharp\PushSharp.Amazon\PushSharp.Amazon.csproj,0,0.0,56.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Apple\Exceptions.cs,8,0.0,55.0
+PushSharp,MSBuild script,D:\clones\PushSharp\PushSharp.Blackberry\PushSharp.Blackberry.csproj,0,0.0,55.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Tests\TestServiceConnection.cs,13,0.0,54.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Apple\ApnsHttp2Notification.cs,16,21.0,52.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Google\Xmpp\GcmXmppResponse.cs,18,24.0,51.0
+PushSharp,MSBuild script,D:\clones\PushSharp\PushSharp.Firefox\PushSharp.Firefox.csproj,0,0.0,50.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Tests\ApnsRealTest.cs,8,2.0,50.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Windows\WnsNotification.cs,16,0.0,50.0
+PushSharp,MSBuild script,D:\clones\PushSharp\PushSharp.Core\PushSharp.Core.csproj,0,0.0,49.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Google\Xmpp\GcmXmppConfiguration.cs,14,0.0,46.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Amazon\AdmNotification.cs,15,0.0,44.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Blackberry\Enums.cs,5,93.0,43.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Core\Exceptions.cs,8,0.0,43.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Apple\ApnsServiceConnection.cs,11,1.0,41.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Firefox\FirefoxConnection.cs,9,0.0,41.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Tests\ApnsHttp2RealTests.cs,6,0.0,41.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Tests\GcmRealTests.cs,8,0.0,41.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Google\Xmpp\GcmXmppService.cs,10,0.0,40.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Tests\AdmRealTests.cs,6,0.0,40.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Tests\GcmXmppTests.cs,7,0.0,38.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Windows\WnsNotificationStatus.cs,9,0.0,38.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Apple\ApnsHttp2ServiceConnection.cs,7,0.0,36.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Blackberry\BlackberryHttpClient.cs,15,0.0,35.0
+PushSharp,XML,D:\clones\PushSharp\PushSharp.nuspec,1,2.0,34.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Blackberry\BlackberryConfiguration.cs,9,11.0,32.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Google\GcmConfiguration.cs,12,0.0,31.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Google\Exceptions.cs,7,0.0,30.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Tests\GcmTests.cs,7,0.0,29.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Amazon\AdmConfiguration.cs,7,0.0,28.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Amazon\Exceptions.cs,4,0.0,25.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Firefox\FirefoxNotification.cs,6,17.0,21.0
+PushSharp,JSON,D:\clones\PushSharp\PushSharp.Tests\settings.sample.json,2,0.0,20.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Windows\Exceptions.cs,4,0.0,19.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Blackberry\Exceptions.cs,4,0.0,17.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Core\ServiceBrokerConfiguration.cs,3,8.0,16.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Windows\WnsConfiguration.cs,3,0.0,16.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Core\IServiceBroker.cs,5,0.0,15.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Firefox\Exceptions.cs,2,0.0,14.0
+PushSharp,Markdown,D:\clones\PushSharp\.github\CONTRIBUTING.md,7,0.0,11.0
+PushSharp,Markdown,D:\clones\PushSharp\LICENSE.md,4,0.0,11.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Amazon\Properties\AssemblyInfo.cs,7,9.0,11.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Apple\Properties\AssemblyInfo.cs,7,9.0,11.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Blackberry\Properties\AssemblyInfo.cs,7,9.0,11.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Core\IServiceConnection.cs,3,0.0,11.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Core\Properties\AssemblyInfo.cs,7,9.0,11.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Firefox\Properties\AssemblyInfo.cs,7,9.0,11.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Google\Properties\AssemblyInfo.cs,7,9.0,11.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Windows\Properties\AssemblyInfo.cs,7,9.0,11.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Core\NotificationBlockingCollection.cs,2,0.0,10.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Firefox\FirefoxConfiguration.cs,2,0.0,10.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Core\INotification.cs,1,0.0,9.0
+PushSharp,C#,D:\clones\PushSharp\PushSharp.Core\IServiceConnectionFactory.cs,2,0.0,8.0
+PushSharp,XML,D:\clones\PushSharp\PushSharp.Tests\packages.config,0,0.0,5.0
+PushSharp,Markdown,D:\clones\PushSharp\.github\ISSUE_TEMPLATE.md,3,0.0,4.0
+PushSharp,XML,D:\clones\PushSharp\PushSharp.Windows\packages.config,0,0.0,4.0

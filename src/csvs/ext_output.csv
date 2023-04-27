@@ -1,0 +1,192 @@
+index,count
+JavaScript,100030
+C#,70731
+Java,60298
+Ruby,57480
+PHP,53195
+TypeScript,50892
+C/C++ Header,47026
+Go,44272
+C++,30815
+Scala,30459
+XML,29723
+Rust,28057
+Markdown,27418
+Python,26870
+Kotlin,22934
+JSON,22853
+Swift,21830
+C,19550
+SVG,19111
+Haskell,17820
+YAML,14889
+HTML,13791
+SCSS,7036
+Bourne Shell,6977
+Lua,5553
+NET,4823
+reStructuredText,4467
+CSS,3553
+Elixir,2940
+Objective-C,2872
+CMake,2751
+SQL,2586
+CoffeeScript,2446
+make,2384
+Svelte,2278
+Starlark,2183
+Gradle,2126
+Vuejs Component,2058
+AsciiDoc,2056
+INI,2055
+PO File,2040
+Assembly,1945
+vim script,1822
+Haml,1812
+Clojure,1770
+TOML,1383
+LESS,1313
+ERB,1238
+Handlebars,1137
+MSBuild script,1121
+Properties,1097
+Protocol Buffers,1086
+Bourne Again Shell,1032
+Pug,967
+Perl,954
+XAML,947
+HCL,942
+PowerShell,939
+PureScript,925
+Razor,893
+diff,864
+ActionScript,779
+DOS Batch,714
+Dockerfile,713
+SKILL,694
+Objective-C++,646
+Idris,644
+Windows Module Definition,620
+CUDA,588
+JSX,498
+GraphQL,490
+Tcl/Tk,425
+m4,411
+Maven,382
+ClojureScript,379
+Twig,378
+CSV,376
+C# Designer,317
+GLSL,312
+Sass,297
+Cucumber,269
+XSD,264
+Visual Studio Solution,251
+Cython,229
+R,225
+Groovy,215
+IDL,208
+GDScript,205
+Blade,198
+Pascal,198
+ClojureC,188
+NAnt script,170
+Jupyter Notebook,167
+OpenCL,165
+Gencat NLS,159
+Windows Resource File,144
+ReScript,130
+Qt Linguist,118
+Stylus,113
+TeX,107
+ProGuard,105
+Web Services Description,104
+EEx,95
+SWIG,90
+yacc,84
+Qt,80
+Nix,77
+WiX source,72
+XSLT,68
+RAML,61
+Erlang,58
+Mustache,55
+CSON,55
+WebAssembly,51
+Mathematica,42
+Scheme,41
+MATLAB,40
+Logos,39
+Slim,35
+Thrift,34
+Arduino Sketch,31
+EJS,30
+Lisp,29
+TNSDL,28
+HLSL,27
+PlantUML,27
+Meson,26
+Jam,25
+FXML,24
+D,24
+Dart,23
+awk,23
+Ruby HTML,22
+Velocity Template Language,21
+Ant,21
+Smalltalk,19
+WiX string localization,19
+DTD,18
+LLVM IR,18
+sed,17
+zsh,16
+ANTLR Grammar,15
+Puppet,15
+Visual Basic,15
+F#,13
+AspectJ,13
+Freemarker Template,12
+Fish Shell,12
+Literate Idris,11
+Visual Basic Script,10
+liquid,10
+ReasonML,10
+Verilog-SystemVerilog,9
+Fortran 77,9
+lex,9
+Elm,8
+JSP,8
+XHTML,8
+dhall,5
+Prolog,5
+Fortran 90,5
+Forth,5
+Pig Latin,4
+C Shell,4
+ASP,4
+ps1,3
+JSON5,3
+Cake Build Script,3
+Qt Project,3
+builder,3
+C# Generated,3
+SAS,2
+Glade,2
+Visualforce Page,2
+Expect,2
+Jinja Template,2
+Solidity,2
+DAL,1
+Modula3,1
+WiX include,1
+Windows Message File,1
+QML,1
+Haxe,1
+Racket,1
+Gleam,1
+Metal,1
+Mojo,1
+OCaml,1
+Chapel,1
+COBOL,1
+Julia,1

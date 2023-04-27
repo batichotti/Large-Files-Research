@@ -1,0 +1,10 @@
+project,language,filename,blank,comment,code
+lantern,lex,D:\clones\lantern\archive\src\github.com\getlantern\lantern-mobile\external\badvpn\predicate\BPredicate.l,8,32.0,43.0
+php-src,lex,D:\clones\php-src\Zend\zend_ini_scanner.l,107,113.0,439.0
+prometheus,lex,D:\clones\prometheus\model\textparse\promlex.l,15,0.0,85.0
+php-src,lex,D:\clones\php-src\Zend\zend_language_scanner.l,536,160.0,2454.0
+php-src,lex,D:\clones\php-src\sapi\phpdbg\phpdbg_lexer.l,40,99.0,75.0
+prometheus,lex,D:\clones\prometheus\model\textparse\openmetricslex.l,14,0.0,66.0
+lantern,lex,D:\clones\lantern\archive\src\github.com\getlantern\lantern-mobile\external\badvpn\lime\lime_scan_tokens.l,22,15.0,84.0
+CorsixTH,lex,D:\clones\CorsixTH\SpriteEncoder\scanner.l,27,18.0,59.0
+jq,lex,D:\clones\jq\src\lexer.l,25,7.0,153.0

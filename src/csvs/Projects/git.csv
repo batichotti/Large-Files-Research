@@ -1,0 +1,2298 @@
+project,language,filename,blank,comment,code
+git,PO File,D:\clones\git\po\bg.po,5195,5692.0,16308.0
+git,PO File,D:\clones\git\po\de.po,5195,5509.0,16268.0
+git,PO File,D:\clones\git\po\fr.po,5300,5828.0,16134.0
+git,PO File,D:\clones\git\po\ca.po,5195,5547.0,15884.0
+git,PO File,D:\clones\git\po\es.po,5335,5902.0,15850.0
+git,PO File,D:\clones\git\po\vi.po,5195,5510.0,15758.0
+git,PO File,D:\clones\git\po\it.po,5197,5748.0,15725.0
+git,PO File,D:\clones\git\po\pl.po,5470,6320.0,15714.0
+git,PO File,D:\clones\git\po\sv.po,5899,7532.0,15588.0
+git,PO File,D:\clones\git\po\tr.po,5195,5591.0,15574.0
+git,PO File,D:\clones\git\po\pt_PT.po,5230,5702.0,15215.0
+git,PO File,D:\clones\git\po\id.po,5195,5508.0,15089.0
+git,PO File,D:\clones\git\po\zh_CN.po,5195,5711.0,15042.0
+git,PO File,D:\clones\git\po\zh_TW.po,5459,6278.0,15028.0
+git,PO File,D:\clones\git\po\ru.po,5037,5272.0,13630.0
+git,PO File,D:\clones\git\po\el.po,4363,4656.0,12449.0
+git,Bourne Shell,D:\clones\git\gitk-git\gitk,977,498.0,11232.0
+git,PO File,D:\clones\git\po\ko.po,3608,3854.0,10538.0
+git,Perl,D:\clones\git\gitweb\gitweb.perl,1035,1107.0,6362.0
+git,C,D:\clones\git\diff.c,796,664.0,5632.0
+git,C,D:\clones\git\sequencer.c,751,560.0,4595.0
+git,Bourne Shell,D:\clones\git\t\t6423-merge-rename-directories.sh,887,1018.0,3769.0
+git,C,D:\clones\git\apply.c,562,781.0,3728.0
+git,Perl,D:\clones\git\git-cvsserver.perl,748,777.0,3603.0
+git,C,D:\clones\git\compat\regex\regexec.c,382,502.0,3484.0
+git,Bourne Shell,D:\clones\git\git-gui\git-gui.sh,502,264.0,3444.0
+git,C/C++ Header,D:\clones\git\compat\nedmalloc\malloc.c.h,676,1820.0,3265.0
+git,C,D:\clones\git\revision.c,519,601.0,3121.0
+git,C,D:\clones\git\builtin\pack-objects.c,505,600.0,3087.0
+git,C,D:\clones\git\compat\regex\regcomp.c,354,475.0,3062.0
+git,Python,D:\clones\git\git-p4.py,680,571.0,3040.0
+git,C,D:\clones\git\builtin\fast-import.c,456,199.0,2983.0
+git,C,D:\clones\git\config.c,475,347.0,2853.0
+git,Bourne Shell,D:\clones\git\t\t9300-fast-import.sh,528,177.0,2831.0
+git,Bourne Again Shell,D:\clones\git\contrib\completion\git-completion.bash,293,479.0,2815.0
+git,C,D:\clones\git\merge-ort.c,514,1427.0,2803.0
+git,C,D:\clones\git\merge-recursive.c,410,759.0,2793.0
+git,C,D:\clones\git\builtin\submodule--helper.c,541,241.0,2669.0
+git,C,D:\clones\git\read-cache.c,476,631.0,2652.0
+git,C,D:\clones\git\dir.c,470,775.0,2640.0
+git,make,D:\clones\git\Makefile,370,691.0,2428.0
+git,Bourne Shell,D:\clones\git\t\t9902-completion.sh,282,70.0,2280.0
+git,C,D:\clones\git\compat\mingw.c,336,346.0,2254.0
+git,C,D:\clones\git\ref-filter.c,295,260.0,2198.0
+git,C,D:\clones\git\refs\files-backend.c,404,708.0,2185.0
+git,Perl,D:\clones\git\perl\Git\SVN.pm,242,187.0,2144.0
+git,C,D:\clones\git\wt-status.c,281,202.0,2134.0
+git,C,D:\clones\git\builtin\receive-pack.c,347,119.0,2132.0
+git,Bourne Shell,D:\clones\git\t\t9001-send-email.sh,239,19.0,2109.0
+git,C,D:\clones\git\remote.c,359,279.0,2091.0
+git,Bourne Shell,D:\clones\git\t\t4015-diff-whitespace.sh,220,32.0,2083.0
+git,Bourne Shell,D:\clones\git\t\t1300-config.sh,357,71.0,2081.0
+git,C,D:\clones\git\commit-graph.c,514,82.0,2049.0
+git,Bourne Shell,D:\clones\git\t\t4014-format-patch.sh,290,24.0,1989.0
+git,C,D:\clones\git\object-file.c,337,293.0,1984.0
+git,C,D:\clones\git\blame.c,301,653.0,1976.0
+git,C,D:\clones\git\builtin\log.c,282,167.0,1945.0
+git,C,D:\clones\git\unpack-trees.c,364,517.0,1926.0
+git,C,D:\clones\git\builtin\gc.c,400,211.0,1914.0
+git,C,D:\clones\git\http.c,348,199.0,1911.0
+git,Perl,D:\clones\git\git-svn.perl,208,152.0,1889.0
+git,Bourne Shell,D:\clones\git\t\t4202-log.sh,209,39.0,1877.0
+git,C,D:\clones\git\refs.c,378,217.0,1875.0
+git,C,D:\clones\git\pretty.c,257,181.0,1799.0
+git,Bourne Shell,D:\clones\git\t\t7004-tag.sh,293,62.0,1775.0
+git,Perl,D:\clones\git\git-send-email.perl,242,174.0,1767.0
+git,C,D:\clones\git\builtin\am.c,425,351.0,1765.0
+git,C,D:\clones\git\packfile.c,292,258.0,1718.0
+git,Perl,D:\clones\git\git-add--interactive.perl,142,75.0,1703.0
+git,C,D:\clones\git\builtin\fetch.c,284,232.0,1702.0
+git,C,D:\clones\git\submodule.c,375,294.0,1698.0
+git,PO File,D:\clones\git\git-gui\po\de.po,579,604.0,1691.0
+git,C,D:\clones\git\fetch-pack.c,250,178.0,1690.0
+git,PO File,D:\clones\git\git-gui\po\bg.po,565,591.0,1651.0
+git,C,D:\clones\git\http-push.c,281,78.0,1613.0
+git,C,D:\clones\git\sha1dc\sha1.c,255,59.0,1597.0
+git,Bourne Shell,D:\clones\git\t\t3404-rebase-interactive.sh,148,12.0,1597.0
+git,C,D:\clones\git\grep.c,225,210.0,1590.0
+git,PO File,D:\clones\git\git-gui\po\pt_pt.po,552,579.0,1585.0
+git,PO File,D:\clones\git\git-gui\po\sv.po,557,601.0,1578.0
+git,PO File,D:\clones\git\git-gui\po\vi.po,544,571.0,1575.0
+git,C,D:\clones\git\builtin\index-pack.c,207,180.0,1565.0
+git,PO File,D:\clones\git\git-gui\po\ja.po,547,575.0,1563.0
+git,Bourne Shell,D:\clones\git\t\t5516-fetch-push.sh,250,51.0,1531.0
+git,PO File,D:\clones\git\git-gui\po\fr.po,523,554.0,1527.0
+git,PO File,D:\clones\git\git-gui\po\it.po,520,548.0,1523.0
+git,C,D:\clones\git\object-name.c,240,188.0,1520.0
+git,C,D:\clones\git\convert.c,277,242.0,1517.0
+git,C,D:\clones\git\builtin\rebase.c,243,68.0,1514.0
+git,PO File,D:\clones\git\git-gui\po\pt_br.po,520,546.0,1502.0
+git,Bourne Shell,D:\clones\git\t\t7810-grep.sh,232,19.0,1501.0
+git,PO File,D:\clones\git\git-gui\po\hu.po,525,581.0,1496.0
+git,C,D:\clones\git\builtin\checkout.c,226,225.0,1481.0
+git,C,D:\clones\git\builtin\commit.c,228,166.0,1474.0
+git,C,D:\clones\git\run-command.c,280,207.0,1470.0
+git,PO File,D:\clones\git\git-gui\po\ru.po,579,605.0,1467.0
+git,Bourne Shell,D:\clones\git\t\t1400-update-ref.sh,180,6.0,1458.0
+git,C,D:\clones\git\midx.c,371,155.0,1455.0
+git,C,D:\clones\git\pack-bitmap.c,378,203.0,1444.0
+git,C,D:\clones\git\builtin\stash.c,272,115.0,1432.0
+git,PO File,D:\clones\git\git-gui\po\nb.po,513,539.0,1422.0
+git,C,D:\clones\git\builtin\remote.c,240,79.0,1419.0
+git,C,D:\clones\git\add-patch.c,199,147.0,1416.0
+git,C,D:\clones\git\upload-pack.c,236,129.0,1416.0
+git,C,D:\clones\git\compat\regex\regex_internal.c,161,179.0,1403.0
+git,C,D:\clones\git\builtin\merge.c,213,145.0,1402.0
+git,Bourne Shell,D:\clones\git\t\test-lib.sh,189,248.0,1364.0
+git,C,D:\clones\git\commit.c,228,150.0,1358.0
+git,Bourne Shell,D:\clones\git\t\t7513-interpret-trailers.sh,183,24.0,1356.0
+git,Bourne Shell,D:\clones\git\t\t7508-status.sh,268,59.0,1352.0
+git,Bourne Shell,D:\clones\git\contrib\subtree\t\t7900-subtree.sh,91,68.0,1319.0
+git,Bourne Shell,D:\clones\git\t\t3200-branch.sh,179,30.0,1305.0
+git,C,D:\clones\git\transport.c,195,61.0,1287.0
+git,C,D:\clones\git\imap-send.c,224,93.0,1282.0
+git,C,D:\clones\git\remote-curl.c,185,122.0,1260.0
+git,C,D:\clones\git\combine-diff.c,178,216.0,1258.0
+git,Bourne Shell,D:\clones\git\t\t3903-stash.sh,143,6.0,1258.0
+git,C,D:\clones\git\transport-helper.c,213,160.0,1256.0
+git,Bourne Shell,D:\clones\git\t\t5505-remote.sh,130,7.0,1243.0
+git,Bourne Shell,D:\clones\git\t\t7400-submodule-basic.sh,177,22.0,1220.0
+git,Bourne Shell,D:\clones\git\t\test-lib-functions.sh,166,496.0,1213.0
+git,Bourne Shell,D:\clones\git\t\t6300-for-each-ref.sh,182,16.0,1211.0
+git,PO File,D:\clones\git\git-gui\po\el.po,393,411.0,1201.0
+git,Bourne Shell,D:\clones\git\t\t6416-recursive-corner-cases.sh,266,434.0,1185.0
+git,C,D:\clones\git\reftable\stack.c,197,38.0,1179.0
+git,C,D:\clones\git\daemon.c,201,103.0,1172.0
+git,Bourne Shell,D:\clones\git\t\t3301-notes.sh,205,8.0,1172.0
+git,Perl,D:\clones\git\perl\Git.pm,420,184.0,1169.0
+git,m4,D:\clones\git\configure.ac,118,10.0,1156.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\blame.tcl,182,38.0,1154.0
+git,PO File,D:\clones\git\git-gui\po\zh_cn.po,390,428.0,1149.0
+git,C,D:\clones\git\connect.c,203,136.0,1121.0
+git,C,D:\clones\git\reftable\record.c,185,14.0,1115.0
+git,Bourne Shell,D:\clones\git\t\t4150-am.sh,150,16.0,1096.0
+git,C,D:\clones\git\path.c,172,302.0,1084.0
+git,C,D:\clones\git\setup.c,166,271.0,1083.0
+git,Bourne Shell,D:\clones\git\t\t1092-sparse-checkout-compatibility.sh,268,177.0,1082.0
+git,Bourne Shell,D:\clones\git\t\t6422-merge-rename-corner-cases.sh,233,170.0,1064.0
+git,C,D:\clones\git\date.c,160,161.0,1052.0
+git,C,D:\clones\git\fsck.c,152,122.0,1051.0
+git,C,D:\clones\git\diffcore-rename.c,196,485.0,1036.0
+git,Perl,D:\clones\git\contrib\mw-to-git\git-remote-mediawiki.perl,162,194.0,1034.0
+git,C,D:\clones\git\line-log.c,179,115.0,1032.0
+git,C,D:\clones\git\builtin\clone.c,183,104.0,1031.0
+git,Bourne Shell,D:\clones\git\t\t5510-fetch.sh,183,44.0,1026.0
+git,C,D:\clones\git\builtin\fast-export.c,157,109.0,1014.0
+git,C/C++ Header,D:\clones\git\cache.h,216,685.0,1012.0
+git,C,D:\clones\git\builtin\bisect--helper.c,206,79.0,1006.0
+git,C,D:\clones\git\trailer.c,154,85.0,1006.0
+git,C,D:\clones\git\builtin\update-index.c,133,129.0,1005.0
+git,C,D:\clones\git\notes.c,153,201.0,999.0
+git,C,D:\clones\git\mailinfo.c,156,141.0,996.0
+git,Bourne Shell,D:\clones\git\t\t7406-submodule-update.sh,75,5.0,984.0
+git,C,D:\clones\git\refs\packed-backend.c,247,468.0,980.0
+git,C/C++ Header,D:\clones\git\git-compat-util.h,172,319.0,975.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\choose_repository.tcl,141,33.0,975.0
+git,C,D:\clones\git\strbuf.c,149,83.0,969.0
+git,C,D:\clones\git\builtin\blame.c,145,96.0,963.0
+git,Bourne Shell,D:\clones\git\t\t0000-basic.sh,133,41.0,960.0
+git,C,D:\clones\git\t\t4256\1\mailinfo.c,152,139.0,954.0
+git,Perl,D:\clones\git\git-cvsimport.perl,117,114.0,952.0
+git,C,D:\clones\git\add-interactive.c,187,54.0,947.0
+git,C,D:\clones\git\builtin\rev-parse.c,82,61.0,935.0
+git,Bourne Shell,D:\clones\git\t\t0021-conversion.sh,168,36.0,931.0
+git,C,D:\clones\git\builtin\grep.c,165,109.0,929.0
+git,C,D:\clones\git\parse-options.c,121,78.0,895.0
+git,Bourne Shell,D:\clones\git\t\t4047-diff-dirstat.sh,81,15.0,895.0
+git,Bourne Shell,D:\clones\git\t\t4060-diff-submodule-option-diff-format.sh,69,12.0,895.0
+git,Bourne Shell,D:\clones\git\t\t7600-merge.sh,149,34.0,894.0
+git,C,D:\clones\git\log-tree.c,132,101.0,886.0
+git,Bourne Shell,D:\clones\git\t\t4205-log-pretty-formats.sh,124,17.0,880.0
+git,Bourne Shell,D:\clones\git\t\t7512-status-help.sh,129,5.0,880.0
+git,C,D:\clones\git\builtin\worktree.c,131,50.0,877.0
+git,C,D:\clones\git\rerere.c,163,207.0,877.0
+git,Bourne Shell,D:\clones\git\t\t3701-add-interactive.sh,105,40.0,873.0
+git,Bourne Shell,D:\clones\git\t\t5702-protocol-v2.sh,280,84.0,858.0
+git,C,D:\clones\git\builtin\notes.c,151,34.0,856.0
+git,C,D:\clones\git\compat\nedmalloc\nedmalloc.c,39,60.0,854.0
+git,Bourne Shell,D:\clones\git\contrib\subtree\git-subtree.sh,80,97.0,849.0
+git,Bourne Shell,D:\clones\git\t\t5500-fetch-pack.sh,138,65.0,848.0
+git,C,D:\clones\git\builtin\pull.c,143,166.0,847.0
+git,C,D:\clones\git\tree-walk.c,150,287.0,845.0
+git,C,D:\clones\git\builtin\clean.c,144,114.0,838.0
+git,C,D:\clones\git\attr.c,173,180.0,828.0
+git,Bourne Shell,D:\clones\git\t\t6402-merge-rename.sh,147,1.0,825.0
+git,C,D:\clones\git\bisect.c,176,186.0,822.0
+git,C,D:\clones\git\builtin\config.c,102,52.0,814.0
+git,Bourne Shell,D:\clones\git\t\t6030-bisect-porcelain.sh,89,81.0,813.0
+git,Bourne Shell,D:\clones\git\t\lib-submodule-update.sh,51,234.0,812.0
+git,Bourne Shell,D:\clones\git\t\t3600-rm.sh,96,6.0,805.0
+git,C,D:\clones\git\gpg-interface.c,152,103.0,802.0
+git,Bourne Shell,D:\clones\git\t\t1006-cat-file.sh,137,28.0,802.0
+git,CMake,D:\clones\git\contrib\buildsystems\CMakeLists.txt,186,73.0,796.0
+git,C,D:\clones\git\graph.c,171,574.0,791.0
+git,Bourne Shell,D:\clones\git\t\t1450-fsck.sh,109,36.0,786.0
+git,Bourne Shell,D:\clones\git\t\t7063-status-untracked-cache.sh,74,18.0,786.0
+git,Bourne Shell,D:\clones\git\t\t5319-multi-pack-index.sh,120,21.0,783.0
+git,Bourne Shell,D:\clones\git\t\t7610-mergetool.sh,67,13.0,783.0
+git,C,D:\clones\git\reftable\stack_test.c,175,25.0,779.0
+git,C,D:\clones\git\builtin\show-branch.c,104,74.0,776.0
+git,Bourne Shell,D:\clones\git\t\t4203-mailmap.sh,187,3.0,776.0
+git,PO File,D:\clones\git\gitk-git\po\bg.po,317,326.0,764.0
+git,PO File,D:\clones\git\gitk-git\po\hu.po,319,340.0,760.0
+git,PO File,D:\clones\git\gitk-git\po\es.po,315,332.0,758.0
+git,Bourne Shell,D:\clones\git\t\t0008-ignores.sh,117,71.0,758.0
+git,PO File,D:\clones\git\gitk-git\po\it.po,310,322.0,755.0
+git,PO File,D:\clones\git\gitk-git\po\pt_br.po,312,326.0,752.0
+git,PO File,D:\clones\git\gitk-git\po\sv.po,321,341.0,751.0
+git,Bourne Shell,D:\clones\git\t\t7502-commit-porcelain.sh,168,25.0,750.0
+git,C,D:\clones\git\cache-tree.c,112,113.0,749.0
+git,PO File,D:\clones\git\gitk-git\po\de.po,312,326.0,749.0
+git,PO File,D:\clones\git\gitk-git\po\fr.po,317,335.0,748.0
+git,C,D:\clones\git\builtin\fsck.c,122,105.0,747.0
+git,C,D:\clones\git\git.c,98,90.0,747.0
+git,PO File,D:\clones\git\gitk-git\po\pt_pt.po,311,318.0,747.0
+git,PO File,D:\clones\git\gitk-git\po\ca.po,307,316.0,746.0
+git,PO File,D:\clones\git\gitk-git\po\ja.po,311,322.0,746.0
+git,PO File,D:\clones\git\gitk-git\po\vi.po,310,323.0,746.0
+git,C,D:\clones\git\builtin\branch.c,120,44.0,744.0
+git,Perl,D:\clones\git\git-archimport.perl,153,251.0,730.0
+git,Bourne Shell,D:\clones\git\t\t5526-fetch-submodules.sh,88,29.0,728.0
+git,C,D:\clones\git\builtin\repack.c,146,88.0,727.0
+git,PO File,D:\clones\git\gitk-git\po\ru.po,317,328.0,726.0
+git,PO File,D:\clones\git\gitk-git\po\zh_cn.po,318,324.0,725.0
+git,Bourne Shell,D:\clones\git\t\t5520-pull.sh,86,6.0,722.0
+git,C,D:\clones\git\commit-reach.c,146,79.0,719.0
+git,Bourne Shell,D:\clones\git\t\t7800-difftool.sh,111,48.0,708.0
+git,Bourne Shell,D:\clones\git\t\t3206-range-diff.sh,55,17.0,703.0
+git,Bourne Shell,D:\clones\git\t\t5318-commit-graph.sh,106,50.0,703.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\diff.tcl,99,113.0,693.0
+git,C,D:\clones\git\submodule-config.c,122,66.0,689.0
+git,Bourne Shell,D:\clones\git\t\t9903-bash-prompt.sh,73,3.0,686.0
+git,C,D:\clones\git\reftable\reader.c,121,11.0,679.0
+git,Bourne Shell,D:\clones\git\t\t1510-repo-setup.sh,107,28.0,671.0
+git,C,D:\clones\git\builtin\reflog.c,110,66.0,669.0
+git,Bourne Shell,D:\clones\git\t\t1091-sparse-checkout-builtin.sh,93,14.0,666.0
+git,Bourne Shell,D:\clones\git\t\t7300-clean.sh,117,10.0,664.0
+git,Bourne Shell,D:\clones\git\t\t0300-credentials.sh,50,9.0,662.0
+git,Bourne Shell,D:\clones\git\t\t9809-git-p4-client-view.sh,65,112.0,662.0
+git,C,D:\clones\git\http-backend.c,130,7.0,661.0
+git,C,D:\clones\git\worktree.c,112,57.0,654.0
+git,C,D:\clones\git\shallow.c,86,93.0,636.0
+git,Bourne Shell,D:\clones\git\t\t7900-maintenance.sh,123,36.0,635.0
+git,Bourne Shell,D:\clones\git\t\t7006-pager.sh,108,26.0,634.0
+git,Bourne Shell,D:\clones\git\t\t9350-fast-export.sh,128,26.0,631.0
+git,C,D:\clones\git\contrib\scalar\scalar.c,142,77.0,627.0
+git,Bourne Shell,D:\clones\git\t\t6430-merge-recursive.sh,125,25.0,626.0
+git,C,D:\clones\git\builtin\ls-files.c,100,78.0,618.0
+git,Bourne Shell,D:\clones\git\git-submodule.sh,44,93.0,618.0
+git,Bourne Shell,D:\clones\git\t\t3510-cherry-pick-sequence.sh,67,8.0,617.0
+git,C,D:\clones\git\xdiff\xdiffi.c,157,315.0,616.0
+git,Bourne Shell,D:\clones\git\git-instaweb.sh,81,90.0,615.0
+git,C,D:\clones\git\help.c,130,29.0,615.0
+git,C,D:\clones\git\send-pack.c,71,60.0,614.0
+git,C,D:\clones\git\reftable\readwrite_test.c,123,17.0,612.0
+git,C,D:\clones\git\builtin\cat-file.c,105,68.0,610.0
+git,C/C++ Header,D:\clones\git\compat\regex\regex_internal.h,93,105.0,610.0
+git,Bourne Shell,D:\clones\git\t\t5601-clone.sh,146,27.0,602.0
+git,C,D:\clones\git\notes-merge.c,75,80.0,599.0
+git,C,D:\clones\git\builtin\rev-list.c,102,73.0,598.0
+git,C,D:\clones\git\fmt-merge-msg.c,84,26.0,598.0
+git,Bourne Shell,D:\clones\git\t\t9500-gitweb-standalone-no-errors.sh,159,53.0,598.0
+git,C,D:\clones\git\trace2.c,156,89.0,598.0
+git,C,D:\clones\git\builtin\difftool.c,93,86.0,594.0
+git,C,D:\clones\git\compat\simple-ipc\ipc-unix-socket.c,192,243.0,594.0
+git,C,D:\clones\git\wrapper.c,97,72.0,594.0
+git,C,D:\clones\git\kwset.c,74,110.0,591.0
+git,Bourne Shell,D:\clones\git\t\t5300-pack-object.sh,107,20.0,590.0
+git,Bourne Shell,D:\clones\git\t\t9801-git-p4-branch.sh,68,92.0,590.0
+git,Bourne Shell,D:\clones\git\t\t7201-co.sh,87,6.0,585.0
+git,C,D:\clones\git\compat\simple-ipc\ipc-win32.c,166,150.0,584.0
+git,C,D:\clones\git\archive.c,92,22.0,577.0
+git,C,D:\clones\git\builtin\describe.c,78,26.0,577.0
+git,C,D:\clones\git\builtin\sparse-checkout.c,181,132.0,577.0
+git,Bourne Shell,D:\clones\git\t\t7501-commit-basic-functionality.sh,122,18.0,576.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\index.tcl,102,78.0,573.0
+git,Bourne Shell,D:\clones\git\t\t9301-fast-import-notes.sh,133,21.0,573.0
+git,Bourne Shell,D:\clones\git\t\t3309-notes-merge-auto-resolve.sh,179,35.0,572.0
+git,C,D:\clones\git\utf8.c,85,159.0,571.0
+git,C,D:\clones\git\xdiff\xmerge.c,57,113.0,567.0
+git,C,D:\clones\git\reftable\writer.c,113,21.0,566.0
+git,C,D:\clones\git\builtin\push.c,77,17.0,563.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\choose_rev.tcl,72,4.0,558.0
+git,C,D:\clones\git\list-objects-filter.c,116,156.0,558.0
+git,C,D:\clones\git\builtin\add.c,109,29.0,557.0
+git,Bourne Shell,D:\clones\git\t\t2400-worktree-add.sh,77,6.0,557.0
+git,C,D:\clones\git\archive-zip.c,84,9.0,555.0
+git,C,D:\clones\git\pathspec.c,126,81.0,554.0
+git,diff,D:\clones\git\t\t4100\t-apply-5.patch,7,51.0,554.0
+git,C,D:\clones\git\builtin\pack-redundant.c,92,27.0,553.0
+git,Bourne Shell,D:\clones\git\t\t6200-fmt-merge-msg.sh,129,24.0,551.0
+git,Perl,D:\clones\git\perl\Git\SVN\Ra.pm,78,80.0,550.0
+git,Bourne Shell,D:\clones\git\git-filter-branch.sh,72,43.0,549.0
+git,Perl,D:\clones\git\contrib\buildsystems\Generators\Vcproj.pm,31,0.0,548.0
+git,C,D:\clones\git\pack-bitmap-write.c,139,44.0,548.0
+git,C,D:\clones\git\builtin\tag.c,88,9.0,547.0
+git,Bourne Shell,D:\clones\git\t\t5324-split-commit-graph.sh,47,51.0,543.0
+git,CSS,D:\clones\git\gitweb\static\gitweb.css,126,20.0,540.0
+git,C,D:\clones\git\ident.c,71,47.0,535.0
+git,Bourne Shell,D:\clones\git\t\t9807-git-p4-submit.sh,41,23.0,535.0
+git,C,D:\clones\git\builtin\help.c,90,36.0,533.0
+git,Bourne Shell,D:\clones\git\t\t4200-rerere.sh,119,27.0,531.0
+git,C,D:\clones\git\pkt-line.c,105,36.0,530.0
+git,Bourne Shell,D:\clones\git\t\t0001-init.sh,82,4.0,519.0
+git,C,D:\clones\git\builtin\name-rev.c,90,49.0,514.0
+git,Bourne Shell,D:\clones\git\t\t1404-update-ref-errors.sh,78,43.0,514.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\checkout_op.tcl,86,49.0,511.0
+git,Bourne Shell,D:\clones\git\t\t0027-auto-crlf.sh,55,60.0,511.0
+git,Bourne Shell,D:\clones\git\t\t5616-partial-clone.sh,119,115.0,508.0
+git,Bourne Shell,D:\clones\git\t\t9400-git-cvsserver-server.sh,90,48.0,508.0
+git,C,D:\clones\git\branch.c,81,101.0,507.0
+git,C,D:\clones\git\builtin\init-db.c,88,104.0,504.0
+git,Bourne Shell,D:\clones\git\t\t0410-partial-clone.sh,126,45.0,503.0
+git,C,D:\clones\git\trace2\tr2_tgt_event.c,101,42.0,503.0
+git,Bourne Shell,D:\clones\git\t\t6006-rev-list-format.sh,90,17.0,502.0
+git,Bourne Shell,D:\clones\git\t\t7102-reset.sh,68,13.0,502.0
+git,Bourne Shell,D:\clones\git\t\t6112-rev-list-filters-objects.sh,146,58.0,500.0
+git,C,D:\clones\git\builtin\unpack-objects.c,64,38.0,499.0
+git,diff,D:\clones\git\t\t4100\t-apply-3.patch,14,54.0,499.0
+git,Bourne Shell,D:\clones\git\t\t4013-diff-various.sh,62,24.0,498.0
+git,Bourne Shell,D:\clones\git\t\t0060-path-utils.sh,41,19.0,494.0
+git,C,D:\clones\git\diff-lib.c,86,113.0,493.0
+git,C,D:\clones\git\range-diff.c,80,32.0,493.0
+git,C,D:\clones\git\builtin\replace.c,99,32.0,492.0
+git,Bourne Shell,D:\clones\git\t\t5531-deep-submodule-push.sh,55,45.0,490.0
+git,C,D:\clones\git\name-hash.c,112,140.0,489.0
+git,Bourne Shell,D:\clones\git\t\t9402-git-cvsserver-refs.sh,53,12.0,489.0
+git,Bourne Shell,D:\clones\git\git-mergetool.sh,56,31.0,487.0
+git,Bourne Shell,D:\clones\git\t\annotate-tests.sh,115,4.0,487.0
+git,C,D:\clones\git\http-walker.c,88,45.0,486.0
+git,Bourne Shell,D:\clones\git\t\t4041-diff-submodule-option.sh,58,9.0,484.0
+git,C,D:\clones\git\compat\winansi.c,86,121.0,481.0
+git,Bourne Shell,D:\clones\git\t\t1700-split-index.sh,52,18.0,477.0
+git,Bourne Shell,D:\clones\git\t\t4038-diff-combined.sh,44,15.0,477.0
+git,C,D:\clones\git\object.c,79,47.0,476.0
+git,C,D:\clones\git\t\helper\test-json-writer.c,76,15.0,474.0
+git,C/C++ Header,D:\clones\git\unicode-width.h,0,0.0,473.0
+git,Bourne Shell,D:\clones\git\t\t6426-merge-skip-unneeded-updates.sh,177,132.0,470.0
+git,Bourne Shell,D:\clones\git\t\t7003-filter-branch.sh,62,11.0,470.0
+git,Perl,D:\clones\git\perl\Git\SVN\Editor.pm,65,72.0,468.0
+git,Bourne Shell,D:\clones\git\t\t4124-apply-ws-rule.sh,80,14.0,465.0
+git,Bourne Shell,D:\clones\git\t\t7500-commit-template-squash-signoff.sh,85,16.0,460.0
+git,C,D:\clones\git\trace2\tr2_tgt_perf.c,108,15.0,459.0
+git,Bourne Shell,D:\clones\git\t\t3310-notes-merge-manual-resolve.sh,104,55.0,458.0
+git,C,D:\clones\git\bundle.c,72,61.0,457.0
+git,Bourne Shell,D:\clones\git\t\t3430-rebase-merges.sh,58,5.0,457.0
+git,C,D:\clones\git\compat\poll\poll.c,89,63.0,456.0
+git,C,D:\clones\git\parallel-checkout.c,110,108.0,453.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\commit.tcl,67,29.0,452.0
+git,Bourne Shell,D:\clones\git\t\t7001-mv.sh,62,7.0,450.0
+git,Bourne Shell,D:\clones\git\t\t3507-cherry-pick-conflict.sh,109,28.0,449.0
+git,Bourne Shell,D:\clones\git\t\t7814-grep-recurse-submodules.sh,82,16.0,449.0
+git,Bourne Shell,D:\clones\git\t\t5551-http-fetch-smart.sh,81,43.0,446.0
+git,Bourne Shell,D:\clones\git\t\t6050-replace.sh,53,17.0,440.0
+git,Bourne Shell,D:\clones\git\t\t7064-wtstatus-pv2.sh,121,111.0,440.0
+git,C,D:\clones\git\quote.c,68,78.0,436.0
+git,Bourne Shell,D:\clones\git\t\t1000-read-tree-m-3way.sh,69,10.0,434.0
+git,C,D:\clones\git\t\helper\test-simple-ipc.c,126,129.0,431.0
+git,Bourne Shell,D:\clones\git\t\t6302-for-each-ref-filter.sh,41,5.0,431.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\encoding.tcl,25,12.0,429.0
+git,C,D:\clones\git\entry.c,69,74.0,427.0
+git,C,D:\clones\git\builtin\diff.c,63,114.0,424.0
+git,Perl,D:\clones\git\perl\Git\SVN\Fetcher.pm,86,112.0,424.0
+git,Perl,D:\clones\git\perl\FromCPAN\Error.pm,281,338.0,421.0
+git,C,D:\clones\git\streaming.c,73,48.0,419.0
+git,Bourne Shell,D:\clones\git\t\t6120-describe.sh,93,30.0,419.0
+git,C,D:\clones\git\builtin\update-ref.c,80,81.0,418.0
+git,Bourne Shell,D:\clones\git\t\t3415-rebase-autosquash.sh,38,0.0,418.0
+git,C,D:\clones\git\urlmatch.c,49,146.0,418.0
+git,make,D:\clones\git\Documentation\Makefile,90,26.0,414.0
+git,Bourne Shell,D:\clones\git\t\t7301-clean-interactive.sh,70,1.0,414.0
+git,C,D:\clones\git\builtin\reset.c,72,83.0,412.0
+git,Bourne Shell,D:\clones\git\t\t5541-http-push-smart.sh,67,49.0,412.0
+git,C,D:\clones\git\t\helper\test-path-utils.c,54,32.0,411.0
+git,Bourne Shell,D:\clones\git\t\t7601-merge-pull-config.sh,82,33.0,410.0
+git,C/C++ Header,D:\clones\git\diff.h,113,179.0,407.0
+git,Bourne Shell,D:\clones\git\t\t3700-add.sh,62,4.0,407.0
+git,C,D:\clones\git\reftable\merged_test.c,55,8.0,405.0
+git,Bourne Shell,D:\clones\git\t\t5550-http-fetch-dumb.sh,71,19.0,402.0
+git,Bourne Shell,D:\clones\git\t\t5703-upload-pack-ref-in-want.sh,86,52.0,399.0
+git,C,D:\clones\git\pack-write.c,70,53.0,398.0
+git,C,D:\clones\git\refs\debug.c,49,1.0,396.0
+git,Bourne Shell,D:\clones\git\git-mergetool--lib.sh,65,35.0,395.0
+git,C,D:\clones\git\builtin\shortlog.c,65,17.0,394.0
+git,C,D:\clones\git\credential.c,76,44.0,393.0
+git,Bourne Shell,D:\clones\git\t\t1501-work-tree.sh,50,3.0,393.0
+git,C,D:\clones\git\archive-tar.c,59,34.0,391.0
+git,Bourne Shell,D:\clones\git\t\t6600-test-reach.sh,33,23.0,390.0
+git,Bourne Shell,D:\clones\git\t\t7407-submodule-foreach.sh,41,3.0,390.0
+git,Bourne Shell,D:\clones\git\t\t7528-signed-commit-ssh.sh,70,4.0,388.0
+git,Bourne Shell,D:\clones\git\t\t5000-tar-tree.sh,79,19.0,384.0
+git,Bourne Shell,D:\clones\git\t\t6003-rev-list-topo-order.sh,46,18.0,383.0
+git,Bourne Shell,D:\clones\git\t\t0040-parse-options.sh,74,3.0,382.0
+git,Bourne Shell,D:\clones\git\t\t6020-bundle-misc.sh,61,37.0,380.0
+git,Perl,D:\clones\git\contrib\buildsystems\Generators\Vcxproj.pm,24,0.0,378.0
+git,Bourne Shell,D:\clones\git\t\t3905-stash-include-untracked.sh,50,4.0,377.0
+git,C,D:\clones\git\diff-delta.c,53,67.0,376.0
+git,Bourne Shell,D:\clones\git\t\t3400-rebase.sh,56,8.0,376.0
+git,C,D:\clones\git\tree-diff.c,94,252.0,375.0
+git,diff,D:\clones\git\t\t4100\t-apply-7.patch,35,86.0,373.0
+git,C,D:\clones\git\color.c,56,55.0,372.0
+git,Bourne Shell,D:\clones\git\t\t3800-mktag.sh,147,69.0,370.0
+git,Bourne Shell,D:\clones\git\t\t6429-merge-sequence-rename-caching.sh,128,269.0,370.0
+git,Bourne Shell,D:\clones\git\t\t1001-read-tree-m-2way.sh,45,5.0,369.0
+git,Bourne Shell,D:\clones\git\t\t7519-status-fsmonitor.sh,41,33.0,369.0
+git,Bourne Shell,D:\clones\git\contrib\hooks\post-receive-email,71,320.0,368.0
+git,Bourne Shell,D:\clones\git\t\t5533-push-cas.sh,29,2.0,368.0
+git,Bourne Shell,D:\clones\git\contrib\completion\git-prompt.sh,37,183.0,366.0
+git,Bourne Shell,D:\clones\git\t\t3070-wildmatch.sh,31,43.0,365.0
+git,Bourne Shell,D:\clones\git\t\t3203-branch-output.sh,40,0.0,365.0
+git,C,D:\clones\git\delta-islands.c,108,35.0,364.0
+git,Bourne Shell,D:\clones\git\t\t9815-git-p4-submit-fail.sh,27,34.0,364.0
+git,C,D:\clones\git\trace.c,89,48.0,364.0
+git,JavaScript,D:\clones\git\gitweb\static\js\blame_incremental.js,86,243.0,363.0
+git,C,D:\clones\git\reftable\record_test.c,48,10.0,359.0
+git,Bourne Shell,D:\clones\git\t\t7506-status-submodule.sh,50,4.0,358.0
+git,Bourne Shell,D:\clones\git\t\t8014-blame-ignore-fuzzy.sh,49,30.0,358.0
+git,C,D:\clones\git\reftable\block.c,65,24.0,356.0
+git,Bourne Shell,D:\clones\git\contrib\vscode\init.sh,15,5.0,355.0
+git,C,D:\clones\git\list-objects.c,50,46.0,354.0
+git,C,D:\clones\git\ewah\ewah_bitmap.c,99,25.0,353.0
+git,Perl,D:\clones\git\git-cvsexportcommit.perl,62,53.0,352.0
+git,C,D:\clones\git\t\helper\test-mergesort.c,53,6.0,352.0
+git,Perl,D:\clones\git\perl\Git\SVN\Log.pm,33,16.0,351.0
+git,Bourne Shell,D:\clones\git\t\t4215-log-skewed-merges.sh,23,0.0,350.0
+git,C/C++ Header,D:\clones\git\compat\mingw.h,86,183.0,346.0
+git,Bourne Shell,D:\clones\git\t\t0030-stripspace.sh,102,5.0,345.0
+git,Bourne Shell,D:\clones\git\t\t4034-diff-words.sh,64,2.0,345.0
+git,Perl,D:\clones\git\contrib\hooks\update-paranoid,58,21.0,342.0
+git,C,D:\clones\git\sha1dc\ubc_check.c,7,24.0,341.0
+git,Bourne Shell,D:\clones\git\t\t6437-submodule-merge.sh,64,75.0,340.0
+git,Bourne Shell,D:\clones\git\t\t9401-git-cvsserver-crlf.sh,28,4.0,340.0
+git,YAML,D:\clones\git\.github\workflows\main.yml,5,1.0,338.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\spellcheck.tcl,54,25.0,336.0
+git,C,D:\clones\git\t\helper\test-run-command.c,74,18.0,336.0
+git,Bourne Shell,D:\clones\git\t\t4216-log-bloom.sh,58,13.0,335.0
+git,Bourne Shell,D:\clones\git\t\t9119-git-svn-info.sh,48,9.0,334.0
+git,C,D:\clones\git\environment.c,54,35.0,333.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\tools_dlg.tcl,79,2.0,333.0
+git,Bourne Shell,D:\clones\git\t\t5317-pack-objects-filter-objects.sh,81,20.0,333.0
+git,C,D:\clones\git\ll-merge.c,47,48.0,332.0
+git,Bourne Shell,D:\clones\git\t\t1430-bad-ref-name.sh,52,0.0,332.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\themed.tcl,31,48.0,331.0
+git,Bourne Shell,D:\clones\git\t\t4002-diff-basic.sh,76,9.0,330.0
+git,Bourne Shell,D:\clones\git\t\t7510-signed-commit.sh,56,6.0,328.0
+git,C,D:\clones\git\userdiff.c,30,98.0,328.0
+git,C,D:\clones\git\refs\ref-cache.c,73,104.0,327.0
+git,Bourne Shell,D:\clones\git\t\t0003-attributes.sh,46,0.0,327.0
+git,Bourne Shell,D:\clones\git\t\t4052-stat-output.sh,42,4.0,327.0
+git,C,D:\clones\git\xdiff\xprepare.c,92,59.0,327.0
+git,Bourne Shell,D:\clones\git\t\t1410-reflog.sh,80,19.0,326.0
+git,Bourne Shell,D:\clones\git\t\t3311-notes-merge-fanout.sh,98,24.0,324.0
+git,Bourne Shell,D:\clones\git\t\t5534-push-signed.sh,53,25.0,324.0
+git,Bourne Shell,D:\clones\git\t\t6403-merge-file.sh,67,0.0,323.0
+git,Bourne Shell,D:\clones\git\t\t4214-log-graph-octopus.sh,24,4.0,322.0
+git,C,D:\clones\git\pack-revindex.c,75,101.0,319.0
+git,Bourne Shell,D:\clones\git\t\t5310-pack-bitmaps.sh,57,52.0,319.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\option.tcl,29,2.0,318.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\mergetool.tcl,66,17.0,317.0
+git,Bourne Shell,D:\clones\git\t\t7403-submodule-sync.sh,25,11.0,317.0
+git,C,D:\clones\git\refs\iterator.c,67,52.0,316.0
+git,C,D:\clones\git\column.c,61,29.0,315.0
+git,C,D:\clones\git\compat\terminal.c,82,36.0,315.0
+git,Bourne Shell,D:\clones\git\t\t1002-read-tree-m-u-2way.sh,32,4.0,314.0
+git,Bourne Shell,D:\clones\git\t\t1305-config-include.sh,42,4.0,314.0
+git,Bourne Shell,D:\clones\git\t\t7700-repack.sh,55,15.0,314.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\remote_branch_delete.tcl,44,2.0,313.0
+git,C,D:\clones\git\split-index.c,40,126.0,313.0
+git,C,D:\clones\git\json-writer.c,63,37.0,312.0
+git,Markdown,D:\clones\git\po\README.md,145,0.0,311.0
+git,C,D:\clones\git\list-objects-filter-options.c,55,52.0,310.0
+git,Bourne Shell,D:\clones\git\t\t0019-json-writer.sh,19,3.0,309.0
+git,C,D:\clones\git\ws.c,29,45.0,309.0
+git,C,D:\clones\git\xdiff\xutils.c,71,54.0,309.0
+git,Perl,D:\clones\git\t\perf\aggregate.perl,43,6.0,308.0
+git,Perl,D:\clones\git\contrib\credential\netrc\git-credential-netrc.perl,101,32.0,307.0
+git,Bourne Shell,D:\clones\git\contrib\mw-to-git\t\test-gitmw-lib.sh,51,74.0,307.0
+git,Bourne Shell,D:\clones\git\t\t5323-pack-redundant.sh,29,163.0,306.0
+git,C,D:\clones\git\builtin\rm.c,51,77.0,305.0
+git,C,D:\clones\git\fsmonitor.c,73,69.0,304.0
+git,Bourne Shell,D:\clones\git\t\t1502-rev-parse-parseopt.sh,35,0.0,304.0
+git,Bourne Shell,D:\clones\git\t\t3420-rebase-autostash.sh,29,3.0,304.0
+git,Bourne Shell,D:\clones\git\t\t5303-pack-corruption-resilience.sh,44,55.0,304.0
+git,Bourne Shell,D:\clones\git\t\t5604-clone-reference.sh,48,9.0,304.0
+git,Bourne Shell,D:\clones\git\t\t4061-diff-indent.sh,59,9.0,303.0
+git,Bourne Shell,D:\clones\git\t\t4300-merge-tree.sh,32,3.0,302.0
+git,Bourne Shell,D:\clones\git\t\t9810-git-p4-rcs.sh,28,47.0,302.0
+git,C,D:\clones\git\contrib\credential\gnome-keyring\git-credential-gnome-keyring.c,91,78.0,301.0
+git,C,D:\clones\git\reflog-walk.c,46,0.0,301.0
+git,C,D:\clones\git\reftable\merged.c,46,15.0,300.0
+git,Bourne Shell,D:\clones\git\t\t5304-prune.sh,36,4.0,297.0
+git,Bourne Shell,D:\clones\git\t\t5504-fetch-receive-strict.sh,49,9.0,297.0
+git,C,D:\clones\git\walker.c,46,6.0,297.0
+git,Bourne Shell,D:\clones\git\t\t3421-rebase-topology-linear.sh,27,36.0,296.0
+git,make,D:\clones\git\git-gui\Makefile,42,13.0,294.0
+git,Bourne Shell,D:\clones\git\t\t0020-crlf.sh,103,4.0,294.0
+git,Bourne Shell,D:\clones\git\t\t4201-shortlog.sh,63,6.0,293.0
+git,C,D:\clones\git\builtin\send-pack.c,47,5.0,292.0
+git,Perl,D:\clones\git\contrib\mw-to-git\git-mw.perl,59,17.0,292.0
+git,C,D:\clones\git\builtin\mailsplit.c,53,23.0,291.0
+git,Bourne Shell,D:\clones\git\t\lib-bitmap.sh,78,83.0,290.0
+git,Bourne Shell,D:\clones\git\t\t9100-git-svn-basic.sh,40,4.0,290.0
+git,Bourne Shell,D:\clones\git\t\t9800-git-p4-basic.sh,26,15.0,290.0
+git,Bourne Shell,D:\clones\git\t\t2024-checkout-dwim.sh,53,5.0,289.0
+git,Bourne Shell,D:\clones\git\t\t3418-rebase-continue.sh,46,2.0,289.0
+git,Bourne Shell,D:\clones\git\t\t5701-git-serve.sh,45,11.0,289.0
+git,Bourne Shell,D:\clones\git\t\t3308-notes-merge.sh,85,21.0,288.0
+git,Bourne Shell,D:\clones\git\t\t6434-merge-recursive-rename-options.sh,45,0.0,288.0
+git,C,D:\clones\git\builtin\merge-tree.c,57,45.0,286.0
+git,C/C++ Header,D:\clones\git\compat\obstack.h,92,133.0,286.0
+git,C,D:\clones\git\builtin\mv.c,36,25.0,285.0
+git,Bourne Shell,D:\clones\git\contrib\mw-to-git\t\t9362-mw-to-git-utf8.sh,53,10.0,284.0
+git,C,D:\clones\git\trace2\tr2_tgt_normal.c,62,12.0,284.0
+git,Bourne Shell,D:\clones\git\t\t5801-remote-helpers.sh,38,3.0,283.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\browser.tcl,38,2.0,282.0
+git,C,D:\clones\git\progress.c,53,41.0,282.0
+git,C,D:\clones\git\server-info.c,51,36.0,281.0
+git,C,D:\clones\git\sh-i18n--envsubst.c,56,90.0,281.0
+git,C,D:\clones\git\string-list.c,39,7.0,281.0
+git,C,D:\clones\git\xdiff-interface.c,38,11.0,281.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\remote.tcl,47,6.0,280.0
+git,C/C++ Header,D:\clones\git\revision.h,70,118.0,279.0
+git,Bourne Shell,D:\clones\git\t\t9200-git-cvsexportcommit.sh,38,25.0,279.0
+git,C,D:\clones\git\builtin\commit-graph.c,50,5.0,277.0
+git,Bourne Shell,D:\clones\git\t\t5512-ls-remote.sh,46,29.0,277.0
+git,C,D:\clones\git\t\helper\test-ref-store.c,62,5.0,276.0
+git,Bourne Shell,D:\clones\git\t\lib-credential.sh,20,12.0,275.0
+git,C,D:\clones\git\builtin\checkout-index.c,38,21.0,274.0
+git,Perl,D:\clones\git\contrib\buildsystems\engine.pl,31,89.0,274.0
+git,Bourne Shell,D:\clones\git\t\t2203-add-intent.sh,43,0.0,271.0
+git,C,D:\clones\git\trace2\tr2_dst.c,66,57.0,271.0
+git,C,D:\clones\git\hashmap.c,48,33.0,270.0
+git,Bourne Shell,D:\clones\git\t\t0212-trace2-event.sh,22,34.0,270.0
+git,Bourne Shell,D:\clones\git\t\t7061-wtstatus-ignore.sh,49,0.0,267.0
+git,Bourne Shell,D:\clones\git\t\t3511-cherry-pick-x.sh,54,1.0,266.0
+git,Bourne Shell,D:\clones\git\t\t0500-progress-display.sh,40,6.0,265.0
+git,Bourne Shell,D:\clones\git\t\t1512-rev-parse-disambiguation.sh,64,69.0,265.0
+git,C/C++ Header,D:\clones\git\refs.h,97,562.0,263.0
+git,Bourne Shell,D:\clones\git\t\t4027-diff-submodule.sh,31,0.0,263.0
+git,Bourne Shell,D:\clones\git\t\t5400-send-pack.sh,25,15.0,263.0
+git,Bourne Shell,D:\clones\git\t\t9806-git-p4-options.sh,27,17.0,262.0
+git,C,D:\clones\git\xdiff\xhistogram.c,59,60.0,262.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\search.tcl,30,9.0,261.0
+git,Bourne Shell,D:\clones\git\git-sh-setup.sh,41,72.0,261.0
+git,C,D:\clones\git\sparse-index.c,76,78.0,261.0
+git,C,D:\clones\git\mailmap.c,49,48.0,260.0
+git,C,D:\clones\git\match-trees.c,42,66.0,257.0
+git,Bourne Shell,D:\clones\git\t\t5150-request-pull.sh,49,3.0,257.0
+git,Bourne Shell,D:\clones\git\t\t3007-ls-files-recurse-submodules.sh,40,3.0,256.0
+git,C/C++ Header,D:\clones\git\dir.h,81,245.0,255.0
+git,C,D:\clones\git\usage.c,59,37.0,255.0
+git,Bourne Shell,D:\clones\git\t\t4001-diff-rename.sh,29,6.0,254.0
+git,Bourne Shell,D:\clones\git\t\t7503-pre-commit-and-pre-merge-commit-hooks.sh,30,1.0,253.0
+git,C,D:\clones\git\contrib\credential\libsecret\git-credential-libsecret.c,61,56.0,252.0
+git,Bourne Shell,D:\clones\git\t\t9151\make-svnmerge-dump,46,7.0,252.0
+git,Bourne Shell,D:\clones\git\t\t7450-bad-git-dotfiles.sh,44,19.0,251.0
+git,Bourne Shell,D:\clones\git\t\t8003-blame-corner-cases.sh,68,0.0,251.0
+git,C,D:\clones\git\contrib\credential\wincred\git-credential-wincred.c,55,23.0,250.0
+git,Bourne Shell,D:\clones\git\t\t1011-read-tree-sparse-checkout.sh,32,1.0,250.0
+git,Bourne Shell,D:\clones\git\t\t6040-tracking-info.sh,37,8.0,250.0
+git,C/C++ Header,D:\clones\git\object-store.h,66,213.0,249.0
+git,Bourne Shell,D:\clones\git\t\t5543-atomic-push.sh,19,18.0,249.0
+git,Bourne Shell,D:\clones\git\t\t6018-rev-list-glob.sh,139,1.0,248.0
+git,C,D:\clones\git\bloom.c,61,19.0,247.0
+git,Bourne Shell,D:\clones\git\t\t2020-checkout-detach.sh,72,16.0,247.0
+git,Bourne Shell,D:\clones\git\t\t5545-push-options.sh,35,8.0,247.0
+git,Bourne Shell,D:\clones\git\t\t7401-submodule-summary.sh,57,11.0,247.0
+git,Bourne Shell,D:\clones\git\t\t7505-prepare-commit-msg-hook.sh,63,6.0,247.0
+git,Bourne Shell,D:\clones\git\t\t9802-git-p4-filetype.sh,46,44.0,246.0
+git,C/C++ Header,D:\clones\git\compat\regex\regex.h,121,220.0,245.0
+git,Bourne Shell,D:\clones\git\t\t1308-config-set.sh,36,4.0,245.0
+git,Bourne Shell,D:\clones\git\t\t3001-ls-files-others-exclude.sh,52,10.0,245.0
+git,Bourne Shell,D:\clones\git\t\t3207-branch-submodule.sh,26,22.0,244.0
+git,CSS,D:\clones\git\Documentation\docbook-xsl.css,43,10.0,243.0
+git,C,D:\clones\git\exec-cmd.c,57,67.0,243.0
+git,C,D:\clones\git\compat\obstack.c,56,115.0,242.0
+git,Bourne Shell,D:\clones\git\t\t0090-cache-tree.sh,33,5.0,242.0
+git,Bourne Shell,D:\clones\git\t\t1506-rev-parse-diagnosis.sh,42,2.0,242.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0014-bad-protocol--porcelain.sh,29,33.0,242.0
+git,C,D:\clones\git\builtin\credential-cache--daemon.c,49,30.0,240.0
+git,Bourne Shell,D:\clones\git\contrib\diff-highlight\t\t9400-diff-highlight.sh,50,51.0,240.0
+git,Bourne Shell,D:\clones\git\t\t2402-worktree-list.sh,28,1.0,240.0
+git,Bourne Shell,D:\clones\git\t\t4211-line-log.sh,57,21.0,240.0
+git,C,D:\clones\git\tmp-objdir.c,62,46.0,240.0
+git,Bourne Shell,D:\clones\git\t\lib-httpd.sh,39,33.0,239.0
+git,Bourne Shell,D:\clones\git\t\t4069-remerge-diff.sh,37,15.0,239.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0013-bad-protocol.sh,30,33.0,239.0
+git,C,D:\clones\git\parse-options-cb.c,49,25.0,237.0
+git,C,D:\clones\git\diff-no-index.c,47,28.0,235.0
+git,PO File,D:\clones\git\git-gui\po\glossary\de.po,96,99.0,235.0
+git,Bourne Shell,D:\clones\git\t\t5302-pack-index.sh,41,11.0,235.0
+git,Bourne Shell,D:\clones\git\t\t5407-post-rewrite-hook.sh,25,7.0,235.0
+git,C,D:\clones\git\builtin\fetch-pack.c,21,17.0,234.0
+git,C,D:\clones\git\line-range.c,37,25.0,233.0
+git,C,D:\clones\git\serve.c,47,50.0,233.0
+git,Bourne Shell,D:\clones\git\t\t1507-rev-parse-upstream.sh,38,1.0,233.0
+git,Bourne Shell,D:\clones\git\t\t5517-push-mirror.sh,46,2.0,233.0
+git,C,D:\clones\git\xdiff\xpatience.c,39,110.0,233.0
+git,zsh,D:\clones\git\contrib\completion\git-completion.zsh,41,21.0,232.0
+git,Bourne Shell,D:\clones\git\t\t6007-rev-list-cherry-pick-file.sh,42,10.0,232.0
+git,Bourne Shell,D:\clones\git\t\t5521-pull-options.sh,25,0.0,230.0
+git,Bourne Shell,D:\clones\git\t\t5537-fetch-shallow.sh,32,13.0,230.0
+git,Bourne Shell,D:\clones\git\t\t7411-submodule-config.sh,26,3.0,229.0
+git,C,D:\clones\git\bulk-checkin.c,38,31.0,228.0
+git,C,D:\clones\git\repository.c,58,28.0,228.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\merge.tcl,55,4.0,226.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0033-report-with-options--porcelain.sh,15,21.0,226.0
+git,Bourne Shell,D:\clones\git\t\t6135-pathspec-with-attrs.sh,25,5.0,226.0
+git,C/C++ Header,D:\clones\git\khash.h,38,76.0,225.0
+git,Bourne Shell,D:\clones\git\t\t5100-mailinfo.sh,43,3.0,225.0
+git,Bourne Shell,D:\clones\git\t\t5326-multi-pack-bitmaps.sh,67,19.0,224.0
+git,Bourne Shell,D:\clones\git\t\t9824-git-p4-git-lfs.sh,44,22.0,224.0
+git,Bourne Shell,D:\clones\git\contrib\mw-to-git\t\t9360-mw-to-git-clone.sh,25,9.0,223.0
+git,C/C++ Header,D:\clones\git\config.h,80,325.0,222.0
+git,C,D:\clones\git\tempfile.c,46,53.0,222.0
+git,C/C++ Header,D:\clones\git\hash.h,59,60.0,221.0
+git,sed,D:\clones\git\t\chainlint.sed,22,156.0,221.0
+git,Bourne Shell,D:\clones\git\t\t4020-diff-external.sh,56,0.0,221.0
+git,C,D:\clones\git\advice.c,36,5.0,220.0
+git,C/C++ Header,D:\clones\git\parse-options.h,29,108.0,220.0
+git,Bourne Shell,D:\clones\git\t\t1500-rev-parse.sh,43,2.0,220.0
+git,C,D:\clones\git\diffcore-pickaxe.c,36,35.0,219.0
+git,C/C++ Header,D:\clones\git\remote.h,77,116.0,219.0
+git,Bourne Shell,D:\clones\git\t\t3210-pack-refs.sh,35,5.0,219.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0032-report-with-options.sh,13,21.0,219.0
+git,Bourne Shell,D:\clones\git\t\t5582-fetch-negative-refspec.sh,38,28.0,219.0
+git,Bourne Shell,D:\clones\git\t\t6132-pathspec-exclude.sh,24,4.0,219.0
+git,C,D:\clones\git\wildmatch.c,12,47.0,219.0
+git,Bourne Shell,D:\clones\git\t\perf\run,32,4.0,218.0
+git,Bourne Shell,D:\clones\git\t\t5548-push-porcelain.sh,26,34.0,218.0
+git,Bourne Shell,D:\clones\git\t\t4019-diff-wserror.sh,81,0.0,217.0
+git,C,D:\clones\git\promisor-remote.c,51,0.0,216.0
+git,C/C++ Header,D:\clones\git\refs\refs-internal.h,83,423.0,216.0
+git,C,D:\clones\git\refspec.c,40,35.0,215.0
+git,C,D:\clones\git\symlinks.c,34,98.0,215.0
+git,Bourne Shell,D:\clones\git\t\t2018-checkout-branch.sh,56,15.0,215.0
+git,Bourne Shell,D:\clones\git\t\t7060-wtstatus.sh,35,4.0,215.0
+git,Bourne Shell,D:\clones\git\t\t9168-git-svn-partially-globbed-names.sh,14,0.0,215.0
+git,C,D:\clones\git\xdiff\xemit.c,51,64.0,215.0
+git,Bourne Shell,D:\clones\git\t\t0011-hashmap.sh,46,0.0,214.0
+git,C,D:\clones\git\builtin\read-tree.c,34,20.0,212.0
+git,C/C++ Header,D:\clones\git\commit.h,67,104.0,212.0
+git,Bourne Shell,D:\clones\git\t\t6012-rev-list-simplify.sh,46,28.0,212.0
+git,C,D:\clones\git\builtin\multi-pack-index.c,48,4.0,211.0
+git,Bourne Shell,D:\clones\git\t\t0028-working-tree-encoding.sh,62,29.0,211.0
+git,Bourne Shell,D:\clones\git\t\t2403-worktree-move.sh,35,0.0,211.0
+git,Bourne Shell,D:\clones\git\t\t6427-diff3-conflict-markers.sh,51,42.0,211.0
+git,Bourne Shell,D:\clones\git\t\t7504-commit-msg-hook.sh,85,13.0,211.0
+git,C,D:\clones\git\builtin\revert.c,33,13.0,210.0
+git,Perl,D:\clones\git\contrib\diff-highlight\DiffHighlight.pm,32,43.0,210.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\status_bar.tcl,71,31.0,210.0
+git,C,D:\clones\git\t\helper\test-lazy-init-name-hash.c,34,17.0,210.0
+git,Bourne Shell,D:\clones\git\t\t3412-rebase-root.sh,35,2.0,210.0
+git,Bourne Shell,D:\clones\git\t\t3900-i18n-commit.sh,28,3.0,209.0
+git,Bourne Shell,D:\clones\git\t\perf\perf-lib.sh,32,32.0,208.0
+git,Bourne Shell,D:\clones\git\t\t3901-i18n-patch.sh,74,37.0,208.0
+git,Bourne Shell,D:\clones\git\t\t9104-git-svn-follow-parent.sh,16,5.0,208.0
+git,Bourne Shell,D:\clones\git\t\t6016-rev-list-graph-simplify-history.sh,24,15.0,207.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\transport.tcl,25,2.0,205.0
+git,Perl,D:\clones\git\perl\Git\SVN\Migration.pm,18,42.0,205.0
+git,Bourne Shell,D:\clones\git\t\t9811-git-p4-label-import.sh,42,18.0,205.0
+git,Bourne Shell,D:\clones\git\t\t4108-apply-threeway.sh,59,33.0,204.0
+git,C,D:\clones\git\zlib.c,35,34.0,204.0
+git,Bourne Shell,D:\clones\git\t\t2004-checkout-cache-temp.sh,24,3.0,203.0
+git,Bourne Shell,D:\clones\git\t\t7110-reset-merge.sh,24,68.0,203.0
+git,Bourne Shell,D:\clones\git\t\t4045-diff-relative.sh,16,0.0,202.0
+git,Bourne Shell,D:\clones\git\t\t5700-protocol-v1.sh,75,40.0,202.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\console.tcl,23,2.0,200.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0036-report-multi-rewrite-for-one-ref.sh,12,9.0,200.0
+git,Bourne Shell,D:\clones\git\t\t6002-rev-list-bisect.sh,45,66.0,200.0
+git,Bourne Shell,D:\clones\git\t\t6010-merge-base.sh,47,61.0,200.0
+git,Bourne Shell,D:\clones\git\t\t9812-git-p4-wildcards.sh,13,1.0,200.0
+git,C,D:\clones\git\tag.c,31,7.0,200.0
+git,Bourne Shell,D:\clones\git\t\t6500-gc.sh,38,32.0,199.0
+git,Bourne Shell,D:\clones\git\t\t7416-submodule-dash-url.sh,19,1.0,199.0
+git,Bourne Shell,D:\clones\git\t\t7521-ignored-mode.sh,34,0.0,199.0
+git,Bourne Shell,D:\clones\git\t\t3101-ls-tree-dirname.sh,23,10.0,198.0
+git,Bourne Shell,D:\clones\git\t\t6418-merge-text-auto.sh,35,0.0,198.0
+git,Perl,D:\clones\git\contrib\fast-import\import-directories.perl,70,149.0,197.0
+git,C/C++ Header,D:\clones\git\grep.h,27,21.0,197.0
+git,C/C++ Header,D:\clones\git\strbuf.h,98,448.0,197.0
+git,Bourne Shell,D:\clones\git\t\t3201-branch-contains.sh,62,8.0,197.0
+git,Bourne Shell,D:\clones\git\t\t4151-am-abort.sh,28,2.0,197.0
+git,Bourne Shell,D:\clones\git\t\t9814-git-p4-rename.sh,26,22.0,197.0
+git,Perl,D:\clones\git\perl\FromCPAN\Mail\Address.pm,65,19.0,196.0
+git,Bourne Shell,D:\clones\git\t\t2501-cwd-empty.sh,67,14.0,196.0
+git,Bourne Shell,D:\clones\git\t\t4204-patch-id.sh,29,7.0,196.0
+git,Bourne Shell,D:\clones\git\t\t1007-hash-object.sh,55,2.0,195.0
+git,Bourne Shell,D:\clones\git\t\t1402-check-ref-format.sh,23,0.0,195.0
+git,Bourne Shell,D:\clones\git\t\t1509-root-work-tree.sh,63,1.0,194.0
+git,Bourne Shell,D:\clones\git\t\t3705-add-sparse-checkout.sh,36,5.0,193.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\branch_create.tcl,30,2.0,192.0
+git,C,D:\clones\git\sideband.c,36,49.0,192.0
+git,Bourne Shell,D:\clones\git\t\t2500-untracked-overwriting.sh,44,8.0,192.0
+git,Bourne Shell,D:\clones\git\t\t4048-diff-combined-binary.sh,29,0.0,192.0
+git,Bourne Shell,D:\clones\git\t\t0302-credential-store.sh,21,1.0,190.0
+git,Bourne Shell,D:\clones\git\t\t0061-run-command.sh,36,12.0,189.0
+git,C,D:\clones\git\builtin\show-ref.c,28,10.0,188.0
+git,Bourne Shell,D:\clones\git\t\t3402-rebase-merge.sh,42,15.0,188.0
+git,Bourne Shell,D:\clones\git\t\t9101-git-svn-props.sh,37,10.0,188.0
+git,C,D:\clones\git\builtin\diff-tree.c,25,11.0,187.0
+git,Bourne Shell,D:\clones\git\t\t3910-mac-os-precompose.sh,14,22.0,187.0
+git,Bourne Shell,D:\clones\git\t\t6421-merge-partial-clone.sh,40,213.0,187.0
+git,C,D:\clones\git\builtin\bundle.c,27,10.0,186.0
+git,Bourne Shell,D:\clones\git\t\t5612-clone-refspec.sh,29,23.0,186.0
+git,Bourne Shell,D:\clones\git\t\perf\p7519-fsmonitor.sh,44,59.0,185.0
+git,Bourne Shell,D:\clones\git\t\t3300-funny-names.sh,29,4.0,185.0
+git,C,D:\clones\git\diffcore-delta.c,20,29.0,184.0
+git,Bourne Shell,D:\clones\git\t\t6406-merge-attr.sh,38,11.0,184.0
+git,C,D:\clones\git\pager.c,44,31.0,183.0
+git,C,D:\clones\git\abspath.c,41,59.0,182.0
+git,Bourne Shell,D:\clones\git\t\t3437-rebase-fixup-options.sh,22,7.0,182.0
+git,Bourne Shell,D:\clones\git\t\t4053-diff-no-index.sh,25,0.0,182.0
+git,Bourne Shell,D:\clones\git\t\t6436-merge-overwrite.sh,25,0.0,182.0
+git,C,D:\clones\git\t\helper\test-hashmap.c,48,37.0,181.0
+git,Bourne Shell,D:\clones\git\t\t4209-log-pickaxe.sh,43,2.0,181.0
+git,Bourne Shell,D:\clones\git\contrib\mw-to-git\t\t9363-mw-to-git-export-import.sh,22,16.0,180.0
+git,Bourne Shell,D:\clones\git\t\t5570-git-daemon.sh,28,2.0,180.0
+git,Perl,D:\clones\git\contrib\fast-import\import-tars.perl,27,21.0,179.0
+git,C,D:\clones\git\rebase-interactive.c,36,13.0,179.0
+git,C,D:\clones\git\reftable\refname.c,22,8.0,179.0
+git,Bourne Shell,D:\clones\git\t\t3000-ls-files-others.sh,49,5.0,179.0
+git,Bourne Shell,D:\clones\git\t\t5515-fetch-merge-logic.sh,35,15.0,179.0
+git,Bourne Shell,D:\clones\git\t\t7012-skip-worktree-writing.sh,33,16.0,179.0
+git,Bourne Shell,D:\clones\git\t\t7030-verify-tag.sh,27,0.0,179.0
+git,Bourne Shell,D:\clones\git\t\t8013-blame-ignore-revs.sh,55,57.0,179.0
+git,Bourne Shell,D:\clones\git\t\t9002-column.sh,19,0.0,179.0
+git,Bourne Shell,D:\clones\git\t\t9164-git-svn-dcommit-concurrent.sh,15,22.0,179.0
+git,Perl,D:\clones\git\contrib\contacts\git-contacts,20,5.0,178.0
+git,Bourne Shell,D:\clones\git\t\t2030-unresolve-info.sh,20,0.0,177.0
+git,Bourne Shell,D:\clones\git\t\t5514-fetch-multiple.sh,23,0.0,177.0
+git,Bourne Shell,D:\clones\git\t\t6432-merge-recursive-space-options.sh,33,0.0,177.0
+git,C,D:\clones\git\t\helper\test-fast-rebase.c,32,17.0,176.0
+git,Bourne Shell,D:\clones\git\t\t3508-cherry-pick-many-commits.sh,23,0.0,176.0
+git,C,D:\clones\git\sub-process.c,34,7.0,175.0
+git,Bourne Shell,D:\clones\git\t\lib-proto-disable.sh,31,14.0,175.0
+git,Bourne Shell,D:\clones\git\t\t1301-shared-repo.sh,28,12.0,175.0
+git,Bourne Shell,D:\clones\git\t\t2406-worktree-repair.sh,24,0.0,175.0
+git,Bourne Shell,D:\clones\git\t\t3011-common-prefixes-and-directory-traversal.sh,27,7.0,175.0
+git,Bourne Shell,D:\clones\git\t\t5003-archive-zip.sh,43,2.0,174.0
+git,C,D:\clones\git\resolve-undo.c,22,4.0,173.0
+git,C,D:\clones\git\t\helper\test-parse-options.c,21,0.0,173.0
+git,Bourne Shell,D:\clones\git\t\t7002-mv-sparse-checkout.sh,27,9.0,173.0
+git,Bourne Shell,D:\clones\git\t\t7031-verify-tag-signed-ssh.sh,30,0.0,173.0
+git,C,D:\clones\git\block-sha1\sha1.c,31,49.0,171.0
+git,Bourne Shell,D:\clones\git\t\t6101-rev-parse-parents.sh,48,9.0,171.0
+git,C,D:\clones\git\csum-file.c,31,30.0,170.0
+git,C,D:\clones\git\ewah\bitmap.c,43,18.0,170.0
+git,Bourne Shell,D:\clones\git\t\t1004-read-tree-m-u-wf.sh,66,6.0,170.0
+git,C,D:\clones\git\linear-assignment.c,21,17.0,169.0
+git,Bourne Shell,D:\clones\git\t\t3304-notes-mixed.sh,40,0.0,169.0
+git,Bourne Shell,D:\clones\git\t\t3436-rebase-more-options.sh,29,11.0,169.0
+git,Bourne Shell,D:\clones\git\t\t5553-set-upstream.sh,30,4.0,169.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\class.tcl,22,4.0,168.0
+git,C,D:\clones\git\negotiator\skipping.c,35,47.0,168.0
+git,C,D:\clones\git\t\helper\test-proc-receive.c,33,1.0,168.0
+git,Perl,D:\clones\git\t\t0021\rot13-filter.pl,25,54.0,168.0
+git,Bourne Shell,D:\clones\git\t\t1020-subdirectory.sh,18,9.0,168.0
+git,Bourne Shell,D:\clones\git\t\t1050-large.sh,32,9.0,168.0
+git,C,D:\clones\git\reachable.c,36,25.0,167.0
+git,C,D:\clones\git\builtin\check-ignore.c,21,10.0,166.0
+git,C,D:\clones\git\builtin\prune.c,27,7.0,166.0
+git,Bourne Shell,D:\clones\git\t\t3403-rebase-skip.sh,30,6.0,166.0
+git,Bourne Shell,D:\clones\git\t\t9821-git-p4-path-variations.sh,17,13.0,166.0
+git,C,D:\clones\git\sha256\block\sha256.c,25,6.0,165.0
+git,Bourne Shell,D:\clones\git\t\t9502-gitweb-standalone-parse-output.sh,31,14.0,165.0
+git,C,D:\clones\git\shell.c,22,13.0,164.0
+git,Bourne Shell,D:\clones\git\t\t4056-diff-order.sh,33,3.0,164.0
+git,Bourne Shell,D:\clones\git\t\t7611-merge-abort.sh,27,13.0,164.0
+git,Bourne Shell,D:\clones\git\contrib\git-resurrect.sh,18,0.0,163.0
+git,Bourne Shell,D:\clones\git\t\t5540-http-push-webdav.sh,34,5.0,163.0
+git,Bourne Shell,D:\clones\git\t\t7408-submodule-reference.sh,23,25.0,163.0
+git,C,D:\clones\git\diffcore-break.c,34,117.0,162.0
+git,C/C++ Header,D:\clones\git\sequencer.h,32,42.0,161.0
+git,Bourne Shell,D:\clones\git\t\t5004-archive-corner-cases.sh,34,32.0,161.0
+git,Bourne Shell,D:\clones\git\t\t9823-git-p4-mock-lfs.sh,27,0.0,161.0
+git,Bourne Shell,D:\clones\git\t\lib-git-p4.sh,28,36.0,160.0
+git,Bourne Shell,D:\clones\git\t\t0110-urlmatch-normalization.sh,15,5.0,160.0
+git,Bourne Shell,D:\clones\git\t\t9832-unshelve.sh,18,10.0,160.0
+git,Python,D:\clones\git\contrib\hg-to-git\hg-to-git.py,43,52.0,159.0
+git,Bourne Shell,D:\clones\git\git-web--browse.sh,13,24.0,159.0
+git,Bourne Shell,D:\clones\git\t\t3303-notes-subtrees.sh,40,0.0,159.0
+git,C,D:\clones\git\compat\precompose_utf8.c,28,11.0,158.0
+git,Go,D:\clones\git\contrib\persistent-https\proxy.go,17,15.0,158.0
+git,Bourne Shell,D:\clones\git\t\t3401-rebase-and-am-rename.sh,55,0.0,158.0
+git,Bourne Shell,D:\clones\git\t\t4051-diff-function-context.sh,53,1.0,158.0
+git,Bourne Shell,D:\clones\git\t\t9501-gitweb-standalone-http-status.sh,43,19.0,158.0
+git,C,D:\clones\git\builtin\check-attr.c,28,4.0,157.0
+git,Perl,D:\clones\git\contrib\hooks\setgitperms.perl,17,40.0,157.0
+git,C,D:\clones\git\notes-utils.c,19,10.0,157.0
+git,C,D:\clones\git\pack-check.c,26,11.0,157.0
+git,C,D:\clones\git\pack-objects.c,45,19.0,157.0
+git,Bourne Shell,D:\clones\git\t\t1416-ref-transaction-hooks.sh,26,6.0,157.0
+git,Bourne Shell,D:\clones\git\t\t9109-git-svn-multi-glob.sh,9,1.0,157.0
+git,C/C++ Header,D:\clones\git\wt-status.h,19,9.0,157.0
+git,C,D:\clones\git\builtin\remote-ext.c,21,26.0,155.0
+git,Perl,D:\clones\git\contrib\buildsystems\Generators\QMake.pm,33,1.0,155.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\remote_add.tcl,30,5.0,155.0
+git,PO File,D:\clones\git\git-gui\po\glossary\pt_pt.po,67,71.0,155.0
+git,C,D:\clones\git\reftable\iter.c,31,8.0,155.0
+git,Bourne Shell,D:\clones\git\t\t5528-push-default.sh,32,35.0,155.0
+git,C,D:\clones\git\builtin\credential-store.c,26,19.0,154.0
+git,C,D:\clones\git\builtin\ls-tree.c,15,21.0,154.0
+git,Bourne Shell,D:\clones\git\t\t1306-xdg-files.sh,36,5.0,154.0
+git,Bourne Shell,D:\clones\git\t\t2080-parallel-checkout-basics.sh,29,46.0,154.0
+git,Bourne Shell,D:\clones\git\t\t1403-show-ref.sh,46,0.0,153.0
+git,C/C++ Header,D:\clones\git\trace2.h,74,307.0,153.0
+git,C,D:\clones\git\builtin\credential-cache.c,31,0.0,152.0
+git,C/C++ Header,D:\clones\git\pack-objects.h,35,105.0,152.0
+git,C,D:\clones\git\reset.c,22,0.0,152.0
+git,Bourne Shell,D:\clones\git\t\t4011-diff-symlink.sh,17,8.0,152.0
+git,C,D:\clones\git\ls-refs.c,34,23.0,151.0
+git,Bourne Shell,D:\clones\git\t\t1411-reflog-show.sh,23,3.0,151.0
+git,Bourne Shell,D:\clones\git\ci\lib.sh,29,34.0,150.0
+git,Bourne Shell,D:\clones\git\t\t6415-merge-dir-to-symlink.sh,27,0.0,150.0
+git,C,D:\clones\git\builtin\merge-base.c,39,0.0,149.0
+git,C/C++ Header,D:\clones\git\compat\bswap.h,34,10.0,149.0
+git,C,D:\clones\git\dir-iterator.c,40,46.0,149.0
+git,C/C++ Header,D:\clones\git\fsck.h,18,50.0,149.0
+git,C/C++ Header,D:\clones\git\hashmap.h,53,396.0,149.0
+git,Bourne Shell,D:\clones\git\t\t4035-diff-quiet.sh,15,1.0,149.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0037-report-multi-rewrite-for-one-ref--porcelain.sh,8,9.0,149.0
+git,Bourne Shell,D:\clones\git\Documentation\doc-diff,17,21.0,148.0
+git,C,D:\clones\git\contrib\credential\osxkeychain\git-credential-osxkeychain.c,29,7.0,148.0
+git,C,D:\clones\git\diff-merges.c,27,4.0,148.0
+git,C,D:\clones\git\reftable\generic.c,22,6.0,148.0
+git,Bourne Shell,D:\clones\git\t\t7509-commit-authorship.sh,24,3.0,148.0
+git,PO File,D:\clones\git\git-gui\po\glossary\bg.po,67,73.0,147.0
+git,Bourne Shell,D:\clones\git\t\t4068-diff-symmetric-merge-base.sh,28,21.0,147.0
+git,Bourne Shell,D:\clones\git\t\t5562-http-backend-content-length.sh,23,3.0,147.0
+git,C,D:\clones\git\builtin\count-objects.c,20,6.0,146.0
+git,Go,D:\clones\git\contrib\persistent-https\client.go,18,25.0,146.0
+git,Perl,D:\clones\git\perl\Git\Packet.pm,16,11.0,146.0
+git,Bourne Shell,D:\clones\git\t\t3202-show-branch.sh,17,1.0,146.0
+git,Bourne Shell,D:\clones\git\t\t3501-revert-cherry-pick.sh,31,0.0,146.0
+git,Bourne Shell,D:\clones\git\t\t6433-merge-toplevel.sh,22,9.0,146.0
+git,Bourne Shell,D:\clones\git\t\t7817-grep-sparse-checkout.sh,23,5.0,146.0
+git,C/C++ Header,D:\clones\git\builtin.h,7,97.0,145.0
+git,C/C++ Header,D:\clones\git\strmap.h,45,78.0,145.0
+git,Bourne Shell,D:\clones\git\t\lib-diff-alternative.sh,20,5.0,145.0
+git,Bourne Shell,D:\clones\git\t\t2082-parallel-checkout-attributes.sh,32,17.0,145.0
+git,Bourne Shell,D:\clones\git\t\t2200-add-update.sh,42,3.0,145.0
+git,Bourne Shell,D:\clones\git\t\t7007-show.sh,25,0.0,145.0
+git,C,D:\clones\git\builtin\mktree.c,23,26.0,144.0
+git,C/C++ Header,D:\clones\git\convert.h,29,63.0,144.0
+git,C,D:\clones\git\t\helper\test-config.c,17,33.0,144.0
+git,Bourne Shell,D:\clones\git\t\lib-rebase.sh,17,48.0,144.0
+git,Bourne Shell,D:\clones\git\t\t4030-diff-textconv.sh,27,2.0,144.0
+git,Bourne Shell,D:\clones\git\t\t5552-skipping-fetch-negotiator.sh,29,36.0,144.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\tools.tcl,24,1.0,143.0
+git,ASP.NET,D:\clones\git\t\t4013\diff.format-patch_--attach_--stdout_initial..master,27,0.0,143.0
+git,ASP.NET,D:\clones\git\t\t4013\diff.format-patch_--inline_--stdout_--numbered-files_initial..master,27,0.0,143.0
+git,ASP.NET,D:\clones\git\t\t4013\diff.format-patch_--inline_--stdout_--subject-prefix=TESTCASE_initial..master,27,0.0,143.0
+git,ASP.NET,D:\clones\git\t\t4013\diff.format-patch_--inline_--stdout_initial..master,27,0.0,143.0
+git,Bourne Shell,D:\clones\git\t\t6424-merge-unrelated-index-changes.sh,53,21.0,143.0
+git,C,D:\clones\git\builtin\patch-id.c,34,9.0,142.0
+git,make,D:\clones\git\gitweb\Makefile,33,22.0,142.0
+git,C,D:\clones\git\strmap.c,24,13.0,142.0
+git,C,D:\clones\git\t\helper\test-reach.c,28,0.0,142.0
+git,C,D:\clones\git\chunk-format.c,35,7.0,141.0
+git,Bourne Shell,D:\clones\git\t\t4111-apply-subdir.sh,15,0.0,141.0
+git,Bourne Shell,D:\clones\git\t\t5509-fetch-push-namespaces.sh,17,11.0,141.0
+git,Bourne Shell,D:\clones\git\t\t5607-clone-bundle.sh,23,8.0,141.0
+git,Perl,D:\clones\git\contrib\mw-to-git\t\test-gitmw.pl,30,53.0,140.0
+git,C/C++ Header,D:\clones\git\diffcore.h,32,63.0,140.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\choose_font.tcl,29,2.0,140.0
+git,Bourne Shell,D:\clones\git\t\t0210-trace2-normal.sh,25,45.0,140.0
+git,Bourne Shell,D:\clones\git\t\t1503-rev-parse-verify.sh,21,3.0,140.0
+git,Bourne Shell,D:\clones\git\t\t4024-diff-optimize-common.sh,18,0.0,140.0
+git,Bourne Shell,D:\clones\git\t\t4058-diff-duplicates.sh,24,25.0,140.0
+git,Bourne Shell,D:\clones\git\t\t4107-apply-ignore-whitespace.sh,35,20.0,140.0
+git,Bourne Shell,D:\clones\git\t\t7113-post-index-change-hook.sh,8,0.0,140.0
+git,Bourne Shell,D:\clones\git\t\t7603-merge-reduce-heads.sh,18,6.0,140.0
+git,Bourne Shell,D:\clones\git\t\t7703-repack-geometric.sh,46,19.0,140.0
+git,C,D:\clones\git\compat\inet_pton.c,16,60.0,139.0
+git,JavaScript,D:\clones\git\gitweb\static\js\adjust-timezone.js,50,141.0,139.0
+git,Bourne Shell,D:\clones\git\t\t5539-fetch-http-shallow.sh,13,5.0,139.0
+git,Bourne Shell,D:\clones\git\t\t9146-git-svn-empty-dirs.sh,18,2.0,139.0
+git,C,D:\clones\git\hex.c,19,8.0,138.0
+git,Bourne Shell,D:\clones\git\t\t4119-apply-config.sh,39,4.0,138.0
+git,Perl,D:\clones\git\contrib\buildsystems\parse.pl,19,72.0,137.0
+git,Bourne Shell,D:\clones\git\git-quiltimport.sh,12,6.0,137.0
+git,C,D:\clones\git\preload-index.c,22,9.0,137.0
+git,Bourne Shell,D:\clones\git\t\t1401-symbolic-ref.sh,24,5.0,137.0
+git,Bourne Shell,D:\clones\git\t\t6111-rev-list-treesame.sh,31,29.0,137.0
+git,C,D:\clones\git\builtin\ls-remote.c,21,4.0,136.0
+git,C,D:\clones\git\http-fetch.c,28,0.0,136.0
+git,C,D:\clones\git\lockfile.c,32,48.0,136.0
+git,Bourne Shell,D:\clones\git\t\t4103-apply-binary.sh,38,10.0,136.0
+git,C,D:\clones\git\tree.c,21,0.0,136.0
+git,C,D:\clones\git\hook.c,32,6.0,135.0
+git,C/C++ Header,D:\clones\git\http.h,38,64.0,135.0
+git,C,D:\clones\git\negotiator\default.c,29,12.0,135.0
+git,Bourne Shell,D:\clones\git\t\t0006-date.sh,21,3.0,135.0
+git,Bourne Shell,D:\clones\git\t\t0050-filesystem.sh,22,0.0,135.0
+git,Bourne Shell,D:\clones\git\t\t3100-ls-tree-restrict.sh,22,10.0,135.0
+git,Bourne Shell,D:\clones\git\t\t6409-merge-subtree.sh,20,0.0,135.0
+git,Bourne Shell,D:\clones\git\t\t7107-reset-pathspec-file.sh,42,1.0,135.0
+git,C,D:\clones\git\builtin\hash-object.c,20,11.0,134.0
+git,Bourne Shell,D:\clones\git\t\lib-read-tree-m-3way.sh,16,8.0,134.0
+git,Bourne Shell,D:\clones\git\t\t7811-grep-open.sh,23,2.0,134.0
+git,Perl,D:\clones\git\t\t0212\parse_events.perl,42,79.0,133.0
+git,Bourne Shell,D:\clones\git\t\t6000-rev-list-misc.sh,25,14.0,133.0
+git,Bourne Shell,D:\clones\git\t\t6130-pathspec-noglob.sh,23,4.0,133.0
+git,Bourne Shell,D:\clones\git\t\t2072-restore-pathspec-file.sh,45,0.0,132.0
+git,Bourne Shell,D:\clones\git\t\t4067-diff-partial-clone.sh,36,14.0,132.0
+git,Bourne Shell,D:\clones\git\t\t5503-tagfollow.sh,23,8.0,132.0
+git,Bourne Shell,D:\clones\git\t\t5572-pull-submodule.sh,46,40.0,132.0
+git,Bourne Shell,D:\clones\git\t\t5801\git-remote-testgit,16,9.0,132.0
+git,Bourne Shell,D:\clones\git\t\t6501-freshen-objects.sh,23,28.0,132.0
+git,C/C++ Header,D:\clones\git\transport.h,61,129.0,132.0
+git,Bourne Shell,D:\clones\git\git-gui\po\po2msg.sh,14,7.0,131.0
+git,Bourne Shell,D:\clones\git\t\t7507-commit-verbose.sh,26,0.0,131.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\shortcut.tcl,10,3.0,130.0
+git,C,D:\clones\git\t\helper\test-drop-caches.c,32,0.0,130.0
+git,Bourne Shell,D:\clones\git\t\t4010-diff-pathspec.sh,21,3.0,130.0
+git,Bourne Shell,D:\clones\git\t\t5573-pull-verify-signatures.sh,22,0.0,130.0
+git,Bourne Shell,D:\clones\git\t\t9147-git-svn-include-paths.sh,16,3.0,130.0
+git,Bourne Shell,D:\clones\git\t\t2201-add-update-typechange.sh,11,9.0,129.0
+git,Bourne Shell,D:\clones\git\t\t5606-clone-options.sh,52,0.0,129.0
+git,Bourne Shell,D:\clones\git\t\t8006-blame-textconv.sh,25,3.0,129.0
+git,C,D:\clones\git\builtin\bugreport.c,29,9.0,128.0
+git,Perl,D:\clones\git\contrib\stats\packinfo.pl,13,71.0,128.0
+git,Perl,D:\clones\git\perl\Git\SVN\Utils.pm,75,29.0,128.0
+git,Bourne Shell,D:\clones\git\t\lib-git-svn.sh,14,3.0,128.0
+git,Bourne Shell,D:\clones\git\t\t3424-rebase-empty.sh,41,1.0,128.0
+git,Bourne Shell,D:\clones\git\t\t4008-diff-break-rewrite.sh,23,8.0,128.0
+git,Bourne Shell,D:\clones\git\t\t9134-git-svn-ignore-paths.sh,15,4.0,128.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\branch_delete.tcl,18,2.0,127.0
+git,Bourne Shell,D:\clones\git\t\t3305-notes-fanout.sh,13,0.0,127.0
+git,Markdown,D:\clones\git\git-gui\README.md,48,0.0,126.0
+git,Bourne Shell,D:\clones\git\t\t3432-rebase-fast-forward.sh,12,3.0,126.0
+git,C,D:\clones\git\t\helper\test-tool.c,10,0.0,125.0
+git,Bourne Shell,D:\clones\git\t\t0012-help.sh,25,8.0,125.0
+git,Bourne Shell,D:\clones\git\t\t3416-rebase-onto-threedots.sh,28,12.0,125.0
+git,Bourne Shell,D:\clones\git\t\t5313-pack-bounds-checks.sh,27,42.0,125.0
+git,Bourne Shell,D:\clones\git\t\t7701-repack-unpack-unreachable.sh,16,15.0,125.0
+git,Bourne Shell,D:\clones\git\t\t9107-git-svn-migrate.sh,9,2.0,125.0
+git,Bourne Shell,D:\clones\git\t\t9600-cvsimport.sh,42,0.0,125.0
+git,Bourne Shell,D:\clones\git\git-request-pull.sh,30,18.0,124.0
+git,Bourne Shell,D:\clones\git\t\t5401-update-hooks.sh,20,7.0,124.0
+git,Bourne Shell,D:\clones\git\t\t7517-per-repo-email.sh,21,7.0,124.0
+git,Bourne Shell,D:\clones\git\t\t2012-checkout-last.sh,27,0.0,123.0
+git,Bourne Shell,D:\clones\git\t\t5322-pack-objects-sparse.sh,15,3.0,123.0
+git,Bourne Shell,D:\clones\git\t\t9816-git-p4-locked.sh,13,5.0,123.0
+git,Bourne Shell,D:\clones\git\t\t9818-git-p4-block.sh,20,6.0,123.0
+git,Bourne Shell,D:\clones\git\t\t0066-dir-iterator.sh,27,0.0,122.0
+git,Bourne Shell,D:\clones\git\t\t1504-ceiling-dirs.sh,61,0.0,122.0
+git,Bourne Shell,D:\clones\git\t\t3413-rebase-hook.sh,21,2.0,122.0
+git,Bourne Shell,D:\clones\git\t\t5555-http-smart-common.sh,31,9.0,122.0
+git,Bourne Shell,D:\clones\git\t\t6439-merge-co-error-msgs.sh,19,0.0,122.0
+git,Bourne Shell,D:\clones\git\t\t2026-checkout-pathspec-file.sh,43,0.0,121.0
+git,Bourne Shell,D:\clones\git\t\t7010-setup.sh,40,0.0,121.0
+git,Bourne Shell,D:\clones\git\t\t7526-commit-pathspec-file.sh,44,0.0,121.0
+git,Bourne Shell,D:\clones\git\t\t8002-blame.sh,21,1.0,121.0
+git,Bourne Shell,D:\clones\git\contrib\mw-to-git\t\push-pull-tests.sh,24,0.0,120.0
+git,C,D:\clones\git\reftable\blocksource.c,24,6.0,120.0
+git,C,D:\clones\git\t\helper\test-pkt-line.c,17,0.0,120.0
+git,Bourne Shell,D:\clones\git\t\t5605-clone-local.sh,24,0.0,120.0
+git,Bourne Shell,D:\clones\git\t\t6400-merge-df.sh,30,13.0,120.0
+git,Bourne Shell,D:\clones\git\t\t6404-recursive-merge.sh,25,7.0,120.0
+git,Bourne Shell,D:\clones\git\t\t7011-skip-worktree-reading.sh,24,3.0,120.0
+git,Bourne Shell,D:\clones\git\t\t7815-grep-binary.sh,26,3.0,120.0
+git,Bourne Shell,D:\clones\git\t\t9116-git-svn-log.sh,26,3.0,120.0
+git,C,D:\clones\git\versioncmp.c,24,49.0,120.0
+git,C,D:\clones\git\base85.c,12,1.0,119.0
+git,C,D:\clones\git\builtin\commit-tree.c,26,5.0,119.0
+git,C/C++ Header,D:\clones\git\list.h,30,58.0,119.0
+git,C/C++ Header,D:\clones\git\submodule.h,17,43.0,119.0
+git,C,D:\clones\git\t\helper\test-trace2.c,39,125.0,119.0
+git,Bourne Shell,D:\clones\git\t\t2070-restore.sh,19,2.0,119.0
+git,Bourne Shell,D:\clones\git\t\t3602-rm-sparse-checkout.sh,20,0.0,119.0
+git,Bourne Shell,D:\clones\git\t\t4026-color.sh,37,4.0,118.0
+git,Bourne Shell,D:\clones\git\t\t4122-apply-symlink-inside.sh,37,2.0,118.0
+git,Bourne Shell,D:\clones\git\t\t4139-apply-escape.sh,18,7.0,118.0
+git,Bourne Shell,D:\clones\git\t\t6113-rev-list-bitmap-filters.sh,22,4.0,118.0
+git,Bourne Shell,D:\clones\git\templates\hooks--pre-rebase.sample,31,20.0,118.0
+git,C/C++ Header,D:\clones\git\apply.h,24,46.0,117.0
+git,C/C++ Header,D:\clones\git\run-command.h,50,382.0,117.0
+git,Bourne Shell,D:\clones\git\t\t3302-notes-index-expensive.sh,18,3.0,117.0
+git,Bourne Shell,D:\clones\git\t\t3406-rebase-message.sh,24,0.0,117.0
+git,Bourne Shell,D:\clones\git\t\t3704-add-pathspec-file.sh,42,1.0,117.0
+git,Bourne Shell,D:\clones\git\t\t5502-quickfetch.sh,28,0.0,117.0
+git,Perl,D:\clones\git\perl\Git\SVN\Prompt.pm,24,44.0,116.0
+git,Bourne Shell,D:\clones\git\t\t0002-gitfile.sh,19,0.0,116.0
+git,Bourne Shell,D:\clones\git\t\t2017-checkout-orphan.sh,19,3.0,116.0
+git,ASP.NET,D:\clones\git\t\t4013\diff.format-patch_--stdout_--no-numbered_initial..master,11,0.0,116.0
+git,ASP.NET,D:\clones\git\t\t4013\diff.format-patch_--stdout_--numbered_initial..master,11,0.0,116.0
+git,ASP.NET,D:\clones\git\t\t4013\diff.format-patch_--stdout_initial..master,11,0.0,116.0
+git,Bourne Shell,D:\clones\git\t\t5001-archive-attr.sh,29,0.0,116.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0001-standard-git-push--porcelain.sh,8,14.0,116.0
+git,Bourne Shell,D:\clones\git\t\t5538-push-shallow.sh,10,0.0,116.0
+git,C,D:\clones\git\trace2\tr2_tls.c,44,21.0,116.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\branch_rename.tcl,17,2.0,115.0
+git,Bourne Shell,D:\clones\git\gitk-git\po\po2msg.sh,11,7.0,115.0
+git,C,D:\clones\git\mem-pool.c,33,30.0,115.0
+git,Bourne Shell,D:\clones\git\t\t4017-diff-retval.sh,25,0.0,115.0
+git,Bourne Shell,D:\clones\git\t\t4208-log-magic-pathspec.sh,27,2.0,115.0
+git,Bourne Shell,D:\clones\git\t\t5611-clone-config.sh,21,0.0,115.0
+git,Bourne Shell,D:\clones\git\t\t9813-git-p4-preserve-users.sh,18,8.0,115.0
+git,Bourne Shell,D:\clones\git\git-merge-one-file.sh,16,37.0,114.0
+git,Bourne Shell,D:\clones\git\t\t1405-main-ref-store.sh,24,1.0,114.0
+git,Bourne Shell,D:\clones\git\t\t2060-switch.sh,17,7.0,114.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0027-push-options--porcelain.sh,11,13.0,114.0
+git,Bourne Shell,D:\clones\git\t\t7612-merge-verify-signatures.sh,24,0.0,114.0
+git,Bourne Shell,D:\clones\git\t\t1511-rev-parse-caret.sh,21,0.0,113.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0050-proc-receive-refs-with-modifiers.sh,8,8.0,113.0
+git,Bourne Shell,D:\clones\git\t\t6009-rev-list-parent.sh,39,0.0,113.0
+git,Bourne Shell,D:\clones\git\t\t1060-object-corruption.sh,20,8.0,112.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0000-standard-git-push.sh,8,14.0,112.0
+git,Bourne Shell,D:\clones\git\t\t9160-git-svn-preserve-empty-dirs.sh,22,18.0,112.0
+git,C/C++ Header,D:\clones\git\trace2\tr2_tgt.h,21,9.0,112.0
+git,C,D:\clones\git\builtin\interpret-trailers.c,23,6.0,111.0
+git,C,D:\clones\git\diffcore-order.c,16,4.0,111.0
+git,C,D:\clones\git\t\helper\test-date.c,17,4.0,111.0
+git,Bourne Shell,D:\clones\git\t\t4112-apply-renames.sh,24,11.0,111.0
+git,Bourne Shell,D:\clones\git\t\t4210-log-i18n.sh,21,2.0,111.0
+git,Bourne Shell,D:\clones\git\t\t6019-rev-list-ancestry-path.sh,19,29.0,111.0
+git,Bourne Shell,D:\clones\git\t\t7412-submodule-absorbgitdirs.sh,16,6.0,111.0
+git,Bourne Shell,D:\clones\git\t\t9351-fast-export-anonymize.sh,20,8.0,111.0
+git,Perl,D:\clones\git\t\t9700\test.pl,20,17.0,111.0
+git,C/C++ Header,D:\clones\git\pathspec.h,12,52.0,110.0
+git,Bourne Shell,D:\clones\git\t\lib-gpg.sh,19,49.0,110.0
+git,Bourne Shell,D:\clones\git\t\t3435-rebase-gpg-sign.sh,18,3.0,110.0
+git,Bourne Shell,D:\clones\git\t\t7111-reset-table.sh,8,3.0,110.0
+git,Bourne Shell,D:\clones\git\t\t9141-git-svn-multiple-branches.sh,9,3.0,110.0
+git,C,D:\clones\git\unix-socket.c,21,5.0,110.0
+git,Bourne Shell,D:\clones\git\t\t0301-credential-cache.sh,14,4.0,109.0
+git,Bourne Shell,D:\clones\git\t\t4012-diff-binary.sh,18,7.0,109.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0026-push-options.sh,11,13.0,109.0
+git,Bourne Shell,D:\clones\git\t\t5614-clone-submodules-shallow.sh,13,0.0,109.0
+git,Bourne Shell,D:\clones\git\t\t9130-git-svn-authors-file.sh,19,3.0,109.0
+git,C,D:\clones\git\trace2\tr2_cfg.c,27,11.0,109.0
+git,C,D:\clones\git\gettext.c,23,24.0,108.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\sshkey.tcl,21,2.0,108.0
+git,Bourne Shell,D:\clones\git\t\t3702-add-edit.sh,18,3.0,108.0
+git,C,D:\clones\git\compat\inet_ntop.c,10,68.0,107.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\error.tcl,10,2.0,107.0
+git,Bourne Shell,D:\clones\git\t\perf\p2000-sparse-operations.sh,14,2.0,107.0
+git,Bourne Shell,D:\clones\git\t\t2081-parallel-checkout-collisions.sh,28,28.0,107.0
+git,Bourne Shell,D:\clones\git\t\t3010-ls-files-killed-modified.sh,16,3.0,107.0
+git,Bourne Shell,D:\clones\git\t\t6001-rev-list-graft.sh,19,0.0,107.0
+git,Bourne Shell,D:\clones\git\t\t9108-git-svn-glob.sh,8,1.0,107.0
+git,Markdown,D:\clones\git\CODE_OF_CONDUCT.md,39,0.0,106.0
+git,C,D:\clones\git\alloc.c,21,16.0,106.0
+git,C,D:\clones\git\builtin\checkout--worker.c,27,12.0,106.0
+git,Bourne Shell,D:\clones\git\t\t1303-wacky-config.sh,20,10.0,106.0
+git,Bourne Shell,D:\clones\git\t\t2401-worktree-prune.sh,16,0.0,106.0
+git,Bourne Shell,D:\clones\git\t\t5571-pre-push-hook.sh,24,1.0,106.0
+git,PO File,D:\clones\git\git-gui\po\glossary\it.po,37,42.0,105.0
+git,Bourne Shell,D:\clones\git\t\t0095-bloom.sh,12,0.0,105.0
+git,Bourne Shell,D:\clones\git\t\t1800-hook.sh,27,2.0,105.0
+git,Bourne Shell,D:\clones\git\t\t3920-crlf-messages.sh,20,1.0,105.0
+git,Bourne Shell,D:\clones\git\t\t4042-diff-textconv-caching.sh,11,5.0,105.0
+git,Bourne Shell,D:\clones\git\t\t5312-prune-corruption.sh,20,14.0,105.0
+git,Bourne Shell,D:\clones\git\t\t5519-push-alternates.sh,14,27.0,105.0
+git,Bourne Shell,D:\clones\git\t\t7005-editor.sh,25,1.0,105.0
+git,Bourne Shell,D:\clones\git\t\t7812-grep-icase-non-ascii.sh,23,4.0,105.0
+git,C,D:\clones\git\connected.c,16,35.0,104.0
+git,Perl,D:\clones\git\contrib\long-running-filter\example.pl,19,10.0,103.0
+git,Bourne Shell,D:\clones\git\t\t2003-checkout-cache-mkdir.sh,14,3.0,103.0
+git,Bourne Shell,D:\clones\git\t\t3902-quoted.sh,46,4.0,103.0
+git,Bourne Shell,D:\clones\git\t\t4059-diff-submodule-not-initialized.sh,16,8.0,103.0
+git,Bourne Shell,D:\clones\git\t\t6102-rev-list-unexpected-objects.sh,25,0.0,103.0
+git,Bourne Shell,D:\clones\git\t\t7816-grep-binary-pattern.sh,15,10.0,103.0
+git,Bourne Shell,D:\clones\git\t\t9117-git-svn-init-clone.sh,16,3.0,103.0
+git,Perl,D:\clones\git\contrib\credential\netrc\test.pl,35,2.0,102.0
+git,C,D:\clones\git\patch-ids.c,21,12.0,102.0
+git,Bourne Shell,D:\clones\git\t\t3904-stash-patch.sh,12,1.0,102.0
+git,Bourne Shell,D:\clones\git\t\t4114-apply-typechange.sh,24,3.0,102.0
+git,Bourne Shell,D:\clones\git\t\t5613-info-alternate.sh,15,22.0,102.0
+git,Bourne Shell,D:\clones\git\t\t7418-submodule-sparse-gitmodules.sh,16,7.0,102.0
+git,Bourne Shell,D:\clones\git\t\t8007-cat-file-textconv.sh,25,1.0,102.0
+git,C,D:\clones\git\builtin\merge-file.c,18,1.0,101.0
+git,C,D:\clones\git\builtin\rerere.c,15,2.0,101.0
+git,C,D:\clones\git\builtin\show-index.c,7,0.0,101.0
+git,Bourne Shell,D:\clones\git\t\perf\p5303-many-packs.sh,19,24.0,101.0
+git,Bourne Shell,D:\clones\git\t\t1508-at-combinations.sh,16,1.0,101.0
+git,Bourne Shell,D:\clones\git\t\t8008-blame-formats.sh,8,0.0,101.0
+git,C,D:\clones\git\builtin\upload-archive.c,20,14.0,100.0
+git,C,D:\clones\git\cbtree.c,23,12.0,100.0
+git,Bourne Shell,D:\clones\git\t\lib-pack.sh,12,28.0,100.0
+git,Bourne Shell,D:\clones\git\t\t3306-notes-prune.sh,38,0.0,100.0
+git,Bourne Shell,D:\clones\git\t\t5305-include-tag.sh,19,2.0,100.0
+git,Bourne Shell,D:\clones\git\t\t9826-git-p4-keep-empty-commits.sh,30,0.0,100.0
+git,Perl,D:\clones\git\templates\hooks--fsmonitor-watchman.sample,31,42.0,100.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\database.tcl,14,2.0,99.0
+git,JavaScript,D:\clones\git\gitweb\static\js\lib\common-lib.js,25,100.0,99.0
+git,Bourne Shell,D:\clones\git\t\lib-t6000.sh,19,18.0,99.0
+git,Bourne Shell,D:\clones\git\t\t1015-read-index-unmerged.sh,22,2.0,99.0
+git,Bourne Shell,D:\clones\git\t\t4032-diff-inter-hunk-context.sh,17,2.0,99.0
+git,Bourne Shell,D:\clones\git\t\t5320-delta-islands.sh,19,25.0,99.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0041-process-all-refs--porcelain.sh,6,7.0,99.0
+git,Bourne Shell,D:\clones\git\t\t556x_common,11,0.0,99.0
+git,Bourne Shell,D:\clones\git\generate-cmdlist.sh,11,1.0,98.0
+git,Bourne Shell,D:\clones\git\t\t1409-avoid-packing-refs.sh,16,4.0,98.0
+git,Bourne Shell,D:\clones\git\t\t1415-worktree-refs.sh,14,3.0,98.0
+git,Bourne Shell,D:\clones\git\t\t3204-branch-name-interpretation.sh,31,7.0,98.0
+git,Bourne Shell,D:\clones\git\t\t3506-cherry-pick-ff.sh,16,9.0,98.0
+git,Bourne Shell,D:\clones\git\t\t5403-post-checkout-hook.sh,15,3.0,98.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0040-process-all-refs.sh,6,7.0,98.0
+git,Bourne Shell,D:\clones\git\t\t5523-push-upstream.sh,29,2.0,98.0
+git,C/C++ Header,D:\clones\git\trace.h,33,159.0,98.0
+git,C,D:\clones\git\compat\win32\trace2_win32_process_info.c,27,67.0,97.0
+git,C/C++ Header,D:\clones\git\ref-filter.h,18,31.0,97.0
+git,C,D:\clones\git\reftable\basics.c,19,12.0,97.0
+git,C,D:\clones\git\t\helper\test-regex.c,16,1.0,97.0
+git,Bourne Shell,D:\clones\git\t\t4003-diff-rename-1.sh,17,16.0,97.0
+git,Bourne Shell,D:\clones\git\t\t4057-diff-combined-paths.sh,10,2.0,97.0
+git,Bourne Shell,D:\clones\git\t\t4138-apply-ws-expansion.sh,12,12.0,97.0
+git,Bourne Shell,D:\clones\git\t\t6131-pathspec-icase.sh,12,0.0,97.0
+git,Bourne Shell,D:\clones\git\t\t8011-blame-split-file.sh,13,7.0,97.0
+git,C,D:\clones\git\editor.c,21,11.0,96.0
+git,Bourne Shell,D:\clones\git\t\t0211-trace2-perf.sh,20,60.0,96.0
+git,Bourne Shell,D:\clones\git\t\t2016-checkout-patch.sh,21,14.0,96.0
+git,C/C++ Header,D:\clones\git\unpack-trees.h,22,11.0,96.0
+git,C/C++ Header,D:\clones\git\commit-graph.h,28,50.0,95.0
+git,C,D:\clones\git\t\helper\test-string-list.c,20,14.0,95.0
+git,Bourne Shell,D:\clones\git\t\t1005-read-tree-reset.sh,11,1.0,95.0
+git,Bourne Shell,D:\clones\git\t\t1414-reflog-walk.sh,22,22.0,95.0
+git,Bourne Shell,D:\clones\git\t\t1600-index.sh,11,0.0,95.0
+git,Bourne Shell,D:\clones\git\t\t4064-diff-oidfind.sh,28,0.0,95.0
+git,Bourne Shell,D:\clones\git\t\t7602-merge-octopus-many.sh,12,0.0,95.0
+git,Bourne Shell,D:\clones\git\t\t9115-git-svn-dcommit-funky-renames.sh,17,11.0,95.0
+git,Bourne Shell,D:\clones\git\t\valgrind\analyze.sh,15,17.0,95.0
+git,YAML,D:\clones\git\.github\workflows\l10n.yml,5,6.0,94.0
+git,Perl,D:\clones\git\compat\vcbuild\scripts\clink.pl,0,39.0,94.0
+git,C,D:\clones\git\url.c,15,10.0,94.0
+git,C/C++ Header,D:\clones\git\xdiff\xdiff.h,30,28.0,94.0
+git,C,D:\clones\git\builtin\merge-index.c,14,9.0,93.0
+git,Bourne Shell,D:\clones\git\t\t3417-rebase-whitespace-fix.sh,26,5.0,93.0
+git,Bourne Shell,D:\clones\git\t\t3502-cherry-pick-merge.sh,40,2.0,93.0
+git,Bourne Shell,D:\clones\git\t\t5561-http-backend.sh,21,24.0,93.0
+git,Bourne Shell,D:\clones\git\t\t7402-submodule-rebase.sh,21,4.0,93.0
+git,Bourne Shell,D:\clones\git\t\t9106-git-svn-commit-diff-clobber.sh,11,2.0,93.0
+git,C/C++ Header,D:\clones\git\repository.h,39,90.0,92.0
+git,C,D:\clones\git\t\helper\test-chmtime.c,17,39.0,92.0
+git,Bourne Shell,D:\clones\git\t\t1302-repo-version.sh,19,6.0,92.0
+git,Bourne Shell,D:\clones\git\t\t3425-rebase-topology-merges.sh,10,7.0,92.0
+git,Bourne Shell,D:\clones\git\t\t3504-cherry-pick-rerere.sh,14,0.0,92.0
+git,Bourne Shell,D:\clones\git\t\t4128-apply-root.sh,22,0.0,92.0
+git,Bourne Shell,D:\clones\git\t\t5530-upload-pack-error.sh,30,0.0,92.0
+git,Bourne Shell,D:\clones\git\t\t7525-status-rename.sh,22,0.0,92.0
+git,Bourne Shell,D:\clones\git\t\t9302-fast-import-unpack-limit.sh,13,2.0,92.0
+git,C,D:\clones\git\builtin\mailinfo.c,18,5.0,91.0
+git,C/C++ Header,D:\clones\git\compat\nedmalloc\nedmalloc.h,32,57.0,91.0
+git,C,D:\clones\git\reftable\block_test.c,23,6.0,91.0
+git,Bourne Shell,D:\clones\git\t\t0064-oid-array.sh,12,1.0,91.0
+git,Bourne Shell,D:\clones\git\t\t1012-read-tree-df.sh,13,0.0,91.0
+git,Bourne Shell,D:\clones\git\t\t1051-large-conversion.sh,17,4.0,91.0
+git,Bourne Shell,D:\clones\git\t\t3407-rebase-abort.sh,17,8.0,91.0
+git,Bourne Shell,D:\clones\git\t\t9831-git-p4-triggers.sh,8,0.0,91.0
+git,Perl,D:\clones\git\Documentation\lint-man-section-order.perl,10,5.0,90.0
+git,C/C++ Header,D:\clones\git\blame.h,29,75.0,90.0
+git,C,D:\clones\git\builtin\env--helper.c,10,0.0,90.0
+git,C/C++ Header,D:\clones\git\commit-slab-impl.h,6,11.0,90.0
+git,C,D:\clones\git\strvec.c,18,0.0,90.0
+git,C,D:\clones\git\t\helper\test-read-midx.c,23,0.0,90.0
+git,Bourne Shell,D:\clones\git\t\t0041-usage.sh,20,0.0,90.0
+git,Bourne Shell,D:\clones\git\t\t1701-racy-split-index.sh,49,75.0,90.0
+git,Bourne Shell,D:\clones\git\t\t6412-merge-large-rename.sh,16,0.0,90.0
+git,Bourne Shell,D:\clones\git\t\t9138-git-svn-authors-prog.sh,14,3.0,90.0
+git,C,D:\clones\git\builtin\for-each-ref.c,12,0.0,89.0
+git,C,D:\clones\git\builtin\range-diff.c,14,1.0,89.0
+git,PO File,D:\clones\git\git-gui\po\glossary\el.po,40,42.0,89.0
+git,C,D:\clones\git\merge.c,15,0.0,89.0
+git,make,D:\clones\git\t\Makefile,26,6.0,89.0
+git,Bourne Shell,D:\clones\git\t\lib-gitweb.sh,16,18.0,89.0
+git,Bourne Shell,D:\clones\git\t\t2071-restore-patch.sh,19,10.0,89.0
+git,Bourne Shell,D:\clones\git\t\t5802-connect-helper.sh,12,0.0,89.0
+git,Bourne Shell,D:\clones\git\t\t6428-merge-conflicts-sparse.sh,36,33.0,89.0
+git,C,D:\clones\git\alias.c,19,1.0,88.0
+git,PO File,D:\clones\git\git-gui\po\glossary\pt_br.po,38,43.0,88.0
+git,C/C++ Header,D:\clones\git\pretty.h,21,57.0,88.0
+git,Bourne Shell,D:\clones\git\t\t1309-early-config.sh,15,0.0,88.0
+git,Bourne Shell,D:\clones\git\t\t4021-format-patch-numbered.sh,49,4.0,88.0
+git,Bourne Shell,D:\clones\git\t\t5542-push-http-shallow.sh,8,0.0,88.0
+git,Bourne Shell,D:\clones\git\t\t6411-merge-filemode.sh,14,1.0,88.0
+git,Bourne Shell,D:\clones\git\t\t9124-git-svn-dcommit-auto-props.sh,13,4.0,88.0
+git,Bourne Shell,D:\clones\git\t\t9131-git-svn-empty-symlink.sh,21,1.0,88.0
+git,Bourne Shell,D:\clones\git\t\t9133-git-svn-nested-git-repo.sh,10,3.0,88.0
+git,Bourne Shell,D:\clones\git\t\t9817-git-p4-exclude.sh,13,7.0,88.0
+git,C,D:\clones\git\builtin\mktag.c,15,7.0,87.0
+git,C,D:\clones\git\reftable\dump.c,14,6.0,87.0
+git,Bourne Shell,D:\clones\git\t\t5325-reverse-index.sh,29,4.0,87.0
+git,Bourne Shell,D:\clones\git\t\t6060-merge-index.sh,10,0.0,87.0
+git,Bourne Shell,D:\clones\git\t\t6414-merge-rename-nocruft.sh,12,2.0,87.0
+git,Bourne Shell,D:\clones\git\t\t9805-git-p4-skip-submit-edit.sh,10,4.0,87.0
+git,C/C++ Header,D:\clones\git\ewah\ewok.h,26,82.0,86.0
+git,PO File,D:\clones\git\git-gui\po\glossary\fr.po,38,42.0,86.0
+git,Bourne Shell,D:\clones\git\t\t0016-oidmap.sh,24,2.0,86.0
+git,Bourne Shell,D:\clones\git\t\t4213-log-tabexpand.sh,13,6.0,86.0
+git,Bourne Shell,D:\clones\git\t\t5409-colorize-remote-messages.sh,15,0.0,86.0
+git,Bourne Shell,D:\clones\git\t\t5506-remote-groups.sh,15,0.0,86.0
+git,Bourne Shell,D:\clones\git\t\t6004-rev-list-path-optim.sh,13,0.0,86.0
+git,Bourne Shell,D:\clones\git\t\t7604-merge-custom-message.sh,21,9.0,86.0
+git,Bourne Shell,D:\clones\git\t\t9803-git-p4-shell-metachars.sh,18,4.0,86.0
+git,Bourne Shell,D:\clones\git\contrib\rerere-train.sh,11,6.0,85.0
+git,C/C++ Header,D:\clones\git\pack-bitmap.h,16,5.0,85.0
+git,Perl,D:\clones\git\t\t0202\test.pl,20,17.0,85.0
+git,Bourne Shell,D:\clones\git\t\t1513-rev-parse-prefix.sh,15,0.0,85.0
+git,Bourne Shell,D:\clones\git\t\t3431-rebase-fork-point.sh,21,9.0,85.0
+git,Bourne Shell,D:\clones\git\t\t4104-apply-boundary.sh,17,11.0,85.0
+git,Bourne Shell,D:\clones\git\t\t4129-apply-samemode.sh,17,2.0,85.0
+git,Bourne Shell,D:\clones\git\t\t4135-apply-weird-filenames.sh,16,0.0,85.0
+git,Bourne Shell,D:\clones\git\t\t5603-clone-dirname.sh,14,11.0,85.0
+git,Bourne Shell,D:\clones\git\t\t5900-repo-selection.sh,15,0.0,85.0
+git,Perl,D:\clones\git\t\test-terminal.perl,9,11.0,85.0
+git,Bourne Shell,D:\clones\git\t\lib-git-daemon.sh,13,23.0,84.0
+git,Bourne Shell,D:\clones\git\t\t3509-cherry-pick-merge-df.sh,20,0.0,84.0
+git,Bourne Shell,D:\clones\git\t\t4127-apply-same-fn.sh,13,1.0,84.0
+git,Bourne Shell,D:\clones\git\t\t5600-clone-fail-cleanup.sh,20,5.0,84.0
+git,C,D:\clones\git\thread-utils.c,15,26.0,84.0
+git,C,D:\clones\git\ewah\ewah_io.c,23,28.0,83.0
+git,Assembly,D:\clones\git\ppc\sha1ppc.S,26,115.0,83.0
+git,diff,D:\clones\git\t\t4100\t-apply-1.patch,23,88.0,83.0
+git,diff,D:\clones\git\t\t4100\t-apply-6.patch,4,14.0,83.0
+git,Bourne Shell,D:\clones\git\t\t5411\once-0010-report-status-v1.sh,3,5.0,83.0
+git,Bourne Shell,D:\clones\git\t\t6417-merge-ours-theirs.sh,22,3.0,83.0
+git,Bourne Shell,D:\clones\git\t\t7419-submodule-set-branch.sh,10,3.0,83.0
+git,Bourne Shell,D:\clones\git\t\t9161-git-svn-mergeinfo-push.sh,16,4.0,83.0
+git,C,D:\clones\git\builtin\archive.c,17,11.0,82.0
+git,C,D:\clones\git\compat\linux\procinfo.c,25,69.0,82.0
+git,Bourne Shell,D:\clones\git\git-merge-octopus.sh,14,16.0,82.0
+git,C/C++ Header,D:\clones\git\path.h,29,88.0,82.0
+git,C,D:\clones\git\protocol-caps.c,23,8.0,82.0
+git,Bourne Shell,D:\clones\git\t\t2022-checkout-paths.sh,14,0.0,82.0
+git,Bourne Shell,D:\clones\git\t\t5411-proc-receive-hook.sh,20,18.0,82.0
+git,Bourne Shell,D:\clones\git\t\t9132-git-svn-broken-symlink.sh,20,0.0,82.0
+git,C,D:\clones\git\merge-blobs.c,10,13.0,81.0
+git,C,D:\clones\git\t\helper\test-bloom.c,16,0.0,81.0
+git,Bourne Shell,D:\clones\git\t\t0200-gettext-basic.sh,19,9.0,81.0
+git,Bourne Shell,D:\clones\git\t\t2204-add-ignored.sh,12,0.0,81.0
+git,Bourne Shell,D:\clones\git\t\t3505-cherry-pick-empty.sh,21,0.0,81.0
+git,Bourne Shell,D:\clones\git\t\t4046-diff-unmerged.sh,8,0.0,81.0
+git,Bourne Shell,D:\clones\git\t\t4253-am-keep-cr-dos.sh,16,4.0,81.0
+git,Bourne Shell,D:\clones\git\t\t9829-git-p4-jobs.sh,14,0.0,81.0
+git,Bourne Shell,D:\clones\git\templates\hooks--update.sample,8,39.0,81.0
+git,C,D:\clones\git\builtin\var.c,16,5.0,80.0
+git,Bourne Shell,D:\clones\git\git-difftool--helper.sh,10,21.0,80.0
+git,C,D:\clones\git\notes-cache.c,18,0.0,80.0
+git,Bourne Shell,D:\clones\git\t\t0017-env-helper.sh,17,3.0,80.0
+git,Bourne Shell,D:\clones\git\t\t0056-git-C.sh,14,0.0,80.0
+git,Bourne Shell,D:\clones\git\t\t2000-conflict-when-checking-files-out.sh,20,36.0,80.0
+git,Bourne Shell,D:\clones\git\t\t4063-diff-blobs.sh,16,2.0,80.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0039-report-mixed-refs--porcelain.sh,4,5.0,80.0
+git,Bourne Shell,D:\clones\git\t\t8005-blame-i18n.sh,15,1.0,80.0
+git,C,D:\clones\git\trace2\tr2_sysenv.c,21,31.0,80.0
+git,Bourne Shell,D:\clones\git\ci\install-dependencies.sh,7,6.0,79.0
+git,C/C++ Header,D:\clones\git\pkt-line.h,29,136.0,79.0
+git,C,D:\clones\git\reftable\pq.c,21,6.0,79.0
+git,C,D:\clones\git\reftable\refname_test.c,16,7.0,79.0
+git,C/C++ Header,D:\clones\git\t\helper\test-tool.h,4,0.0,79.0
+git,Bourne Shell,D:\clones\git\t\t0026-eol-config.sh,25,0.0,79.0
+git,Bourne Shell,D:\clones\git\t\t1406-submodule-ref-store.sh,20,0.0,79.0
+git,Bourne Shell,D:\clones\git\t\t2101-update-index-reupdate.sh,10,3.0,79.0
+git,Bourne Shell,D:\clones\git\t\t4255-am-submodule.sh,16,2.0,79.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0038-report-mixed-refs.sh,3,5.0,79.0
+git,Bourne Shell,D:\clones\git\contrib\scalar\t\t9099-scalar.sh,17,1.0,78.0
+git,PO File,D:\clones\git\git-gui\po\glossary\zh_cn.po,34,58.0,78.0
+git,C,D:\clones\git\reftable\basics_test.c,14,6.0,78.0
+git,Bourne Shell,D:\clones\git\t\t2107-update-index-basic.sh,15,2.0,78.0
+git,Bourne Shell,D:\clones\git\t\t4022-diff-rewrite.sh,23,0.0,78.0
+git,C,D:\clones\git\chdir-notify.c,16,0.0,77.0
+git,C/C++ Header,D:\clones\git\ewah\ewok_rlw.h,19,18.0,77.0
+git,Bourne Shell,D:\clones\git\git-bisect.sh,6,1.0,77.0
+git,C,D:\clones\git\oid-array.c,15,1.0,77.0
+git,Bourne Shell,D:\clones\git\t\perf\p7820-grep-engines.sh,10,1.0,77.0
+git,Bourne Shell,D:\clones\git\t\t0067-parse_pathspec_file.sh,30,2.0,77.0
+git,Bourne Shell,D:\clones\git\t\t2006-checkout-index-basic.sh,17,9.0,77.0
+git,Bourne Shell,D:\clones\git\t\t4016-diff-quote.sh,9,3.0,77.0
+git,Bourne Shell,D:\clones\git\t\t4132-apply-removal.sh,14,7.0,77.0
+git,Bourne Shell,D:\clones\git\t\t5408-send-pack-stdin.sh,14,1.0,77.0
+git,Bourne Shell,D:\clones\git\t\t5580-unc-paths.sh,13,3.0,77.0
+git,Bourne Shell,D:\clones\git\t\t7409-submodule-detached-work-tree.sh,7,3.0,77.0
+git,C,D:\clones\git\builtin\merge-recursive.c,16,0.0,76.0
+git,C/C++ Header,D:\clones\git\compat\apple-common-crypto.h,17,3.0,76.0
+git,C/C++ Header,D:\clones\git\compat\vcbuild\include\unistd.h,22,5.0,76.0
+git,C/C++ Header,D:\clones\git\lockfile.h,28,227.0,76.0
+git,C,D:\clones\git\prio-queue.c,17,3.0,76.0
+git,Bourne Shell,D:\clones\git\t\t0052-simple-ipc.sh,14,33.0,76.0
+git,Bourne Shell,D:\clones\git\t\t0063-string-list.sh,13,3.0,76.0
+git,Bourne Shell,D:\clones\git\t\t2405-worktree-submodule.sh,17,0.0,76.0
+git,Bourne Shell,D:\clones\git\t\t5705-session-id-in-capabilities.sh,11,0.0,76.0
+git,Bourne Shell,D:\clones\git\t\t7413-submodule-is-active.sh,27,4.0,76.0
+git,Perl,D:\clones\git\t\t7519\fsmonitor-watchman,24,27.0,76.0
+git,Bourne Shell,D:\clones\git\t\t7606-merge-custom.sh,16,1.0,76.0
+git,Bourne Shell,D:\clones\git\t\t9129-git-svn-i18n-commitencoding.sh,11,4.0,76.0
+git,Bourne Shell,D:\clones\git\t\t9148-git-svn-propset.sh,13,9.0,76.0
+git,C/C++ Header,D:\clones\git\packfile.h,37,86.0,75.0
+git,C,D:\clones\git\t\helper\test-repository.c,21,4.0,75.0
+git,Bourne Shell,D:\clones\git\t\helper\test-sha1.sh,5,3.0,75.0
+git,Bourne Shell,D:\clones\git\t\t3060-ls-files-with-tree.sh,16,13.0,75.0
+git,Bourne Shell,D:\clones\git\t\t3514-cherry-pick-revert-gpg.sh,8,3.0,75.0
+git,Bourne Shell,D:\clones\git\t\t4000-diff-format.sh,15,4.0,75.0
+git,Bourne Shell,D:\clones\git\t\t4055-diff-context.sh,14,3.0,75.0
+git,C,D:\clones\git\unix-stream-server.c,22,28.0,75.0
+git,make,D:\clones\git\contrib\subtree\Makefile,27,2.0,74.0
+git,C/C++ Header,D:\clones\git\object.h,37,105.0,74.0
+git,Bourne Shell,D:\clones\git\t\t1090-sparse-checkout-scope.sh,13,0.0,74.0
+git,Bourne Shell,D:\clones\git\t\t2103-update-index-ignore-missing.sh,14,2.0,74.0
+git,Bourne Shell,D:\clones\git\t\t4018-diff-funcname.sh,16,13.0,74.0
+git,Bourne Shell,D:\clones\git\t\t5536-fetch-conflicts.sh,12,0.0,74.0
+git,Bourne Shell,D:\clones\git\t\t9118-git-svn-funky-branch-names.sh,9,7.0,74.0
+git,Bourne Shell,D:\clones\git\t\t9804-git-p4-label.sh,27,10.0,74.0
+git,C/C++ Header,D:\clones\git\tree-walk.h,38,109.0,74.0
+git,C,D:\clones\git\builtin\symbolic-ref.c,7,0.0,73.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\branch_checkout.tcl,18,2.0,73.0
+git,C/C++ Header,D:\clones\git\help.h,11,6.0,73.0
+git,Bourne Shell,D:\clones\git\t\t4120-apply-popt.sh,13,3.0,73.0
+git,Bourne Shell,D:\clones\git\t\t4153-am-resume-override-opts.sh,21,8.0,73.0
+git,Bourne Shell,D:\clones\git\t\t5615-alternate-env.sh,13,6.0,73.0
+git,C/C++ Header,D:\clones\git\trailer.h,21,55.0,73.0
+git,C,D:\clones\git\builtin\verify-pack.c,14,4.0,72.0
+git,Bourne Shell,D:\clones\git\contrib\workdir\git-new-workdir,19,14.0,72.0
+git,C,D:\clones\git\oidtree.c,21,16.0,72.0
+git,Bourne Shell,D:\clones\git\t\interop\interop-lib.sh,17,3.0,72.0
+git,Bourne Shell,D:\clones\git\t\t3429-rebase-edit-todo.sh,17,1.0,72.0
+git,Bourne Shell,D:\clones\git\t\t3434-rebase-i18n.sh,12,3.0,72.0
+git,Bourne Shell,D:\clones\git\t\t5511-refspec.sh,21,4.0,72.0
+git,Perl,D:\clones\git\Documentation\cmd-list.perl,8,0.0,71.0
+git,Bourne Shell,D:\clones\git\contrib\coverage-diff.sh,21,16.0,71.0
+git,Bourne Shell,D:\clones\git\t\lib-subtest.sh,13,11.0,71.0
+git,Bourne Shell,D:\clones\git\t\t5314-pack-cycle-detection.sh,22,19.0,71.0
+git,Bourne Shell,D:\clones\git\t\t7105-reset-patch.sh,16,5.0,71.0
+git,Bourne Shell,D:\clones\git\t\t0004-unwritable.sh,14,0.0,70.0
+git,Bourne Shell,D:\clones\git\t\t1407-worktree-ref-store.sh,15,7.0,70.0
+git,Bourne Shell,D:\clones\git\t\t3405-rebase-malformed.sh,23,0.0,70.0
+git,Bourne Shell,D:\clones\git\t\t3909-stash-pathspec-file.sh,24,6.0,70.0
+git,Bourne Shell,D:\clones\git\t\t4117-apply-reject.sh,34,3.0,70.0
+git,Bourne Shell,D:\clones\git\t\t5610-clone-detached.sh,9,0.0,70.0
+git,Bourne Shell,D:\clones\git\t\t6408-merge-up-to-date.sh,22,0.0,70.0
+git,C/C++ Header,D:\clones\git\color.h,14,60.0,69.0
+git,C,D:\clones\git\compat\win32\dirent.c,13,10.0,69.0
+git,Perl,D:\clones\git\contrib\mw-to-git\Git\Mediawiki.pm,20,12.0,69.0
+git,JavaScript,D:\clones\git\gitweb\static\js\lib\datetime.js,24,83.0,69.0
+git,C/C++ Header,D:\clones\git\notes.h,30,239.0,69.0
+git,C,D:\clones\git\protocol.c,19,7.0,69.0
+git,Bourne Shell,D:\clones\git\t\perf\repos\many-files.sh,13,28.0,69.0
+git,Bourne Shell,D:\clones\git\t\t4254-am-corrupt.sh,9,4.0,69.0
+git,Bourne Shell,D:\clones\git\t\t9128-git-svn-cmd-branch.sh,7,3.0,69.0
+git,Bourne Shell,D:\clones\git\t\t9808-git-p4-chdir.sh,9,8.0,69.0
+git,C,D:\clones\git\builtin\check-ref-format.c,13,10.0,68.0
+git,Bourne Shell,D:\clones\git\ci\print-test-failures.sh,10,10.0,68.0
+git,C,D:\clones\git\hash-lookup.c,11,50.0,68.0
+git,C/C++ Header,D:\clones\git\reftable\record.h,31,41.0,68.0
+git,Bourne Shell,D:\clones\git\t\t3040-subprojects-basic.sh,14,2.0,68.0
+git,Bourne Shell,D:\clones\git\t\t6017-rev-list-stdin.sh,10,3.0,68.0
+git,C,D:\clones\git\decorate.c,11,5.0,67.0
+git,C/C++ Header,D:\clones\git\midx.h,16,4.0,67.0
+git,C,D:\clones\git\patch-delta.c,9,18.0,67.0
+git,Bourne Shell,D:\clones\git\t\t2404-worktree-config.sh,15,0.0,67.0
+git,Bourne Shell,D:\clones\git\t\t4054-diff-bogus-tree.sh,17,0.0,67.0
+git,Bourne Shell,D:\clones\git\t\t4066-diff-emit-delay.sh,11,4.0,67.0
+git,Bourne Shell,D:\clones\git\t\t4212-log-corrupt.sh,18,3.0,67.0
+git,Bourne Shell,D:\clones\git\t\t4252-am-options.sh,11,0.0,67.0
+git,Bourne Shell,D:\clones\git\t\t5002-archive-attr-pattern.sh,18,0.0,67.0
+git,C,D:\clones\git\write-or-die.c,9,13.0,67.0
+git,C,D:\clones\git\builtin\verify-commit.c,15,9.0,66.0
+git,C,D:\clones\git\checkout.c,4,0.0,66.0
+git,C,D:\clones\git\ewah\ewah_rlw.c,22,18.0,66.0
+git,C/C++ Header,D:\clones\git\pack.h,20,37.0,66.0
+git,C,D:\clones\git\prompt.c,18,1.0,66.0
+git,C,D:\clones\git\t\helper\test-xml-encode.c,6,8.0,66.0
+git,Bourne Shell,D:\clones\git\t\t4152-am-subjects.sh,11,0.0,66.0
+git,Bourne Shell,D:\clones\git\t\t5309-pack-delta-cycles.sh,9,2.0,66.0
+git,Bourne Shell,D:\clones\git\t\t9822-git-p4-path-encoding.sh,11,0.0,66.0
+git,C/C++ Header,D:\clones\git\tempfile.h,27,180.0,66.0
+git,C/C++ Header,D:\clones\git\compat\win32\pthread.h,20,15.0,65.0
+git,C,D:\clones\git\compat\win32\syslog.c,15,0.0,65.0
+git,Go,D:\clones\git\contrib\persistent-https\socket.go,10,22.0,65.0
+git,C,D:\clones\git\oidset.c,10,5.0,65.0
+git,C,D:\clones\git\repo-settings.c,14,25.0,65.0
+git,Bourne Shell,D:\clones\git\t\perf\p7821-grep-engines-fixed.sh,9,0.0,65.0
+git,Bourne Shell,D:\clones\git\t\t4023-diff-rename-typechange.sh,21,2.0,65.0
+git,C,D:\clones\git\builtin\hook.c,14,6.0,64.0
+git,C,D:\clones\git\mergesort.c,5,15.0,64.0
+git,Bourne Shell,D:\clones\git\t\t2023-checkout-m.sh,11,1.0,64.0
+git,Bourne Shell,D:\clones\git\t\t4031-diff-rewrite-binary.sh,13,3.0,64.0
+git,Bourne Shell,D:\clones\git\t\t4065-diff-anchored.sh,23,7.0,64.0
+git,Bourne Shell,D:\clones\git\t\t4116-apply-reverse.sh,26,3.0,64.0
+git,Bourne Shell,D:\clones\git\t\t5560-http-backend-noserver.sh,13,0.0,64.0
+git,Bourne Shell,D:\clones\git\t\t9604-cvsimport-timestamps.sh,7,0.0,64.0
+git,C,D:\clones\git\trace2\tr2_sid.c,17,31.0,64.0
+git,Bourne Shell,D:\clones\git\git-gui\git-gui--askpass,17,4.0,63.0
+git,C,D:\clones\git\t\helper\test-oidmap.c,27,22.0,63.0
+git,Bourne Shell,D:\clones\git\t\t0204-gettext-reencode-sanity.sh,12,13.0,63.0
+git,Bourne Shell,D:\clones\git\t\t1307-config-blob.sh,17,0.0,63.0
+git,Bourne Shell,D:\clones\git\t\t1514-rev-parse-push.sh,13,0.0,63.0
+git,Bourne Shell,D:\clones\git\t\t4009-diff-rename-4.sh,20,17.0,63.0
+git,Bourne Shell,D:\clones\git\t\t4040-whitespace-status.sh,14,0.0,63.0
+git,Bourne Shell,D:\clones\git\t\t6100-rev-list-in-order.sh,10,4.0,63.0
+git,Bourne Shell,D:\clones\git\contrib\git-jump\git-jump,13,3.0,62.0
+git,Markdown,D:\clones\git\contrib\scalar\README.md,20,0.0,62.0
+git,make,D:\clones\git\gitk-git\Makefile,15,3.0,62.0
+git,Perl,D:\clones\git\perl\Git\SVN\GlobSpec.pm,3,0.0,62.0
+git,C/C++ Header,D:\clones\git\simple-ipc.h,32,140.0,62.0
+git,Bourne Shell,D:\clones\git\t\perf\p5550-fetch-tags.sh,12,4.0,62.0
+git,Bourne Shell,D:\clones\git\t\t0091-bugreport.sh,12,3.0,62.0
+git,Bourne Shell,D:\clones\git\t\t2013-checkout-submodule.sh,13,0.0,62.0
+git,Bourne Shell,D:\clones\git\t\t3428-rebase-signoff.sh,16,6.0,62.0
+git,Bourne Shell,D:\clones\git\t\t3907-stash-show-config.sh,17,4.0,62.0
+git,Bourne Shell,D:\clones\git\t\t4049-diff-stat-count.sh,7,1.0,62.0
+git,Bourne Shell,D:\clones\git\t\t5609-clone-branch.sh,12,0.0,62.0
+git,Bourne Shell,D:\clones\git\t\t9120-git-svn-clone-with-percent-escapes.sh,11,4.0,62.0
+git,Perl,D:\clones\git\contrib\stats\mailmap.pl,9,0.0,61.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\line.tcl,17,3.0,61.0
+git,Perl,D:\clones\git\perl\Git\LoadCPAN.pm,22,21.0,61.0
+git,C,D:\clones\git\t\helper\test-delta.c,9,9.0,61.0
+git,C,D:\clones\git\t\helper\test-dump-untracked-cache.c,6,1.0,61.0
+git,Bourne Shell,D:\clones\git\t\t1413-reflog-detach.sh,11,0.0,61.0
+git,Bourne Shell,D:\clones\git\t\t2008-checkout-subdir.sh,20,2.0,61.0
+git,Bourne Shell,D:\clones\git\t\t3320-notes-merge-worktrees.sh,14,3.0,61.0
+git,Bourne Shell,D:\clones\git\t\t3419-rebase-patch-id.sh,13,0.0,61.0
+git,Bourne Shell,D:\clones\git\t\t3906-stash-submodule.sh,8,0.0,61.0
+git,Bourne Shell,D:\clones\git\t\t5501-fetch-push-alternates.sh,8,0.0,61.0
+git,C,D:\clones\git\builtin\fmt-merge-msg.c,9,0.0,60.0
+git,C,D:\clones\git\copy.c,7,0.0,60.0
+git,Bourne Shell,D:\clones\git\git-gui\GIT-VERSION-GEN,7,13.0,60.0
+git,C,D:\clones\git\t\helper\test-submodule-config.c,13,0.0,60.0
+git,Bourne Shell,D:\clones\git\t\t0100-previous.sh,11,0.0,60.0
+git,Bourne Shell,D:\clones\git\t\t3012-ls-files-dedup.sh,6,0.0,60.0
+git,Bourne Shell,D:\clones\git\t\t3500-cherry.sh,18,6.0,60.0
+git,Bourne Shell,D:\clones\git\t\t9114-git-svn-dcommit-merge.sh,12,23.0,60.0
+git,YAML,D:\clones\git\.clang-format,33,92.0,59.0
+git,Markdown,D:\clones\git\README.md,15,0.0,59.0
+git,C,D:\clones\git\builtin\verify-tag.c,11,7.0,59.0
+git,DOS Batch,D:\clones\git\compat\vcbuild\find_vs_env.bat,30,79.0,59.0
+git,make,D:\clones\git\contrib\subtree\t\Makefile,21,6.0,59.0
+git,C,D:\clones\git\reftable\pq_test.c,13,7.0,59.0
+git,Bourne Shell,D:\clones\git\t\lib-cvs.sh,11,8.0,59.0
+git,Bourne Shell,D:\clones\git\t\t0009-prio-queue.sh,7,0.0,59.0
+git,Bourne Shell,D:\clones\git\t\t1010-mktree.sh,11,0.0,59.0
+git,Bourne Shell,D:\clones\git\t\t3211-peel-ref.sh,12,6.0,59.0
+git,Bourne Shell,D:\clones\git\t\t3601-rm-pathspec-file.sh,21,0.0,59.0
+git,Bourne Shell,D:\clones\git\t\t4126-apply-empty.sh,11,0.0,59.0
+git,C,D:\clones\git\builtin\diff-index.c,9,8.0,58.0
+git,C,D:\clones\git\builtin\upload-pack.c,11,5.0,58.0
+git,C/C++ Header,D:\clones\git\commit-reach.h,15,34.0,58.0
+git,C/C++ Header,D:\clones\git\list-objects-filter-options.h,22,55.0,58.0
+git,C,D:\clones\git\ppc\sha1.c,6,8.0,58.0
+git,Bourne Shell,D:\clones\git\t\aggregate-results.sh,5,0.0,58.0
+git,C,D:\clones\git\t\helper\test-dump-cache-tree.c,8,3.0,58.0
+git,C,D:\clones\git\t\helper\test-windows-named-pipe.c,10,4.0,58.0
+git,Bourne Shell,D:\clones\git\t\t5316-pack-delta-depth.sh,9,48.0,58.0
+git,Bourne Shell,D:\clones\git\t\t5617-clone-submodules-remote.sh,10,0.0,58.0
+git,C/C++ Header,D:\clones\git\worktree.h,26,102.0,58.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\about.tcl,11,2.0,57.0
+git,C/C++ Header,D:\clones\git\reftable\reftable-record.h,23,34.0,57.0
+git,C,D:\clones\git\replace-object.c,14,12.0,57.0
+git,C/C++ Header,D:\clones\git\submodule-config.h,14,67.0,57.0
+git,Bourne Shell,D:\clones\git\t\perf\p4209-pickaxe.sh,8,5.0,57.0
+git,Bourne Shell,D:\clones\git\t\t0007-git-var.sh,11,3.0,57.0
+git,Bourne Shell,D:\clones\git\t\t3002-ls-files-dashpath.sh,11,3.0,57.0
+git,Bourne Shell,D:\clones\git\t\t9303-fast-import-compression.sh,6,0.0,57.0
+git,C/C++ Header,D:\clones\git\utf8.h,14,38.0,57.0
+git,C/C++ Header,D:\clones\git\csum-file.h,13,8.0,56.0
+git,C,D:\clones\git\ctype.c,3,7.0,56.0
+git,Bourne Shell,D:\clones\git\git-sh-i18n.sh,8,15.0,56.0
+git,C/C++ Header,D:\clones\git\merge-recursive.h,16,53.0,56.0
+git,Bourne Shell,D:\clones\git\t\t1014-read-tree-confusing.sh,9,0.0,56.0
+git,Bourne Shell,D:\clones\git\t\t4130-apply-criss-cross-rename.sh,12,4.0,56.0
+git,Bourne Shell,D:\clones\git\t\t5544-pack-objects-hook.sh,11,5.0,56.0
+git,Bourne Shell,D:\clones\git\t\t8010-cat-file-filters.sh,13,0.0,56.0
+git,Bourne Shell,D:\clones\git\t\t9122-git-svn-author.sh,20,8.0,56.0
+git,Bourne Shell,D:\clones\git\t\t9834-git-p4-file-dir-bug.sh,14,0.0,56.0
+git,Perl,D:\clones\git\Documentation\lint-gitlink.perl,9,5.0,55.0
+git,C,D:\clones\git\builtin\diff-files.c,10,19.0,55.0
+git,C/C++ Header,D:\clones\git\cache-tree.h,14,2.0,55.0
+git,C,D:\clones\git\compat\regex\regex.c,12,21.0,55.0
+git,C,D:\clones\git\compat\zlib-uncompress2.c,15,26.0,55.0
+git,Bourne Shell,D:\clones\git\t\t3005-ls-files-relative.sh,8,0.0,55.0
+git,Bourne Shell,D:\clones\git\t\t3503-cherry-pick-root.sh,26,0.0,55.0
+git,Bourne Shell,D:\clones\git\t\t5308-pack-detect-duplicates.sh,12,14.0,55.0
+git,Bourne Shell,D:\clones\git\t\t5547-push-quarantine.sh,11,6.0,55.0
+git,Bourne Shell,D:\clones\git\t\t6407-merge-binary.sh,16,0.0,55.0
+git,Bourne Shell,D:\clones\git\t\t7103-reset-bare.sh,16,0.0,55.0
+git,Bourne Shell,D:\clones\git\t\t9137-git-svn-dcommit-clobber-series.sh,6,2.0,55.0
+git,Bourne Shell,D:\clones\git\t\t9140-git-svn-reset.sh,8,3.0,55.0
+git,C/C++ Header,D:\clones\git\advice.h,8,14.0,54.0
+git,C,D:\clones\git\builtin\check-mailmap.c,13,0.0,54.0
+git,C,D:\clones\git\builtin\remote-fd.c,13,15.0,54.0
+git,C,D:\clones\git\builtin\stripspace.c,11,0.0,54.0
+git,C,D:\clones\git\compat\basename.c,11,6.0,54.0
+git,Python,D:\clones\git\contrib\fast-import\import-zips.py,16,8.0,54.0
+git,C/C++ Header,D:\clones\git\reftable\block.h,32,41.0,54.0
+git,Bourne Shell,D:\clones\git\t\perf\lib-bitmap.sh,14,1.0,54.0
+git,Bourne Shell,D:\clones\git\t\perf\repos\inflate-repo.sh,15,16.0,54.0
+git,Bourne Shell,D:\clones\git\t\t2015-checkout-unborn.sh,9,0.0,54.0
+git,Bourne Shell,D:\clones\git\t\t3426-rebase-submodule.sh,8,0.0,54.0
+git,Bourne Shell,D:\clones\git\t\t3427-rebase-subtree.sh,13,26.0,54.0
+git,Bourne Shell,D:\clones\git\t\t4004-diff-rename-symlink.sh,9,8.0,54.0
+git,Bourne Shell,D:\clones\git\t\t4007-rename-3.sh,19,19.0,54.0
+git,Bourne Shell,D:\clones\git\t\t4136-apply-check.sh,10,0.0,54.0
+git,Bourne Shell,D:\clones\git\t\t5306-pack-nobase.sh,11,15.0,54.0
+git,Bourne Shell,D:\clones\git\t\t5404-tracking-branches.sh,11,0.0,54.0
+git,Bourne Shell,D:\clones\git\t\t5411\common-functions.sh,5,14.0,54.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0021-report-ng--porcelain.sh,5,6.0,54.0
+git,Bourne Shell,D:\clones\git\t\t5549-fetch-push-http.sh,15,3.0,54.0
+git,Bourne Shell,D:\clones\git\t\t7421-submodule-summary-add.sh,12,3.0,54.0
+git,Bourne Shell,D:\clones\git\t\t7608-merge-messages.sh,9,0.0,54.0
+git,Bourne Shell,D:\clones\git\t\t9162-git-svn-dcommit-interactive.sh,8,2.0,54.0
+git,make,D:\clones\git\contrib\scalar\t\Makefile,20,5.0,53.0
+git,C/C++ Header,D:\clones\git\fetch-pack.h,11,40.0,53.0
+git,C/C++ Header,D:\clones\git\shallow.h,14,16.0,53.0
+git,Bourne Shell,D:\clones\git\t\t0201-gettext-fallbacks.sh,12,3.0,53.0
+git,Bourne Shell,D:\clones\git\t\t1417-reflog-updateref.sh,12,0.0,53.0
+git,Bourne Shell,D:\clones\git\t\t2010-checkout-ambiguous.sh,14,2.0,53.0
+git,Bourne Shell,D:\clones\git\t\t2021-checkout-overwrite.sh,16,0.0,53.0
+git,Bourne Shell,D:\clones\git\t\t4006-diff-mode.sh,12,3.0,53.0
+git,Bourne Shell,D:\clones\git\t\t4133-apply-filenames.sh,8,3.0,53.0
+git,Bourne Shell,D:\clones\git\t\t5527-fetch-odd-refs.sh,8,4.0,53.0
+git,Bourne Shell,D:\clones\git\t\t7106-reset-unborn-branch.sh,14,0.0,53.0
+git,Bourne Shell,D:\clones\git\t\t8004-blame-with-conflicts.sh,15,8.0,53.0
+git,Bourne Shell,D:\clones\git\t\t9827-git-p4-change-filetype.sh,9,0.0,53.0
+git,C,D:\clones\git\builtin\column.c,6,1.0,52.0
+git,Go,D:\clones\git\contrib\persistent-https\main.go,8,22.0,52.0
+git,C,D:\clones\git\sigchain.c,9,0.0,52.0
+git,C,D:\clones\git\t\helper\test-progress.c,7,15.0,52.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0020-report-ng.sh,5,6.0,52.0
+git,Bourne Shell,D:\clones\git\t\t9163-git-svn-reset-clears-caches.sh,8,21.0,52.0
+git,C,D:\clones\git\compat\snprintf.c,9,9.0,51.0
+git,Perl,D:\clones\git\perl\Git\I18N.pm,35,39.0,51.0
+git,PO File,D:\clones\git\po\is.po,17,35.0,51.0
+git,C,D:\clones\git\t\helper\test-dir-iterator.c,10,4.0,51.0
+git,C,D:\clones\git\t\helper\test-hash.c,7,0.0,51.0
+git,Bourne Shell,D:\clones\git\t\interop\i5700-protocol-transition.sh,17,0.0,51.0
+git,diff,D:\clones\git\t\t4100\t-apply-2.patch,5,16.0,51.0
+git,Bourne Shell,D:\clones\git\t\t9165-git-svn-fetch-merge-branch-of-branch.sh,6,3.0,51.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\chord.tcl,14,94.0,50.0
+git,JavaScript,D:\clones\git\gitweb\static\js\lib\cookies.js,10,54.0,50.0
+git,C,D:\clones\git\reftable\tree.c,7,6.0,50.0
+git,C/C++ Header,D:\clones\git\string-list.h,30,188.0,50.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0012-no-hook-error--porcelain.sh,4,8.0,50.0
+git,Bourne Shell,D:\clones\git\t\t6114-keep-packs.sh,14,5.0,50.0
+git,Bourne Shell,D:\clones\git\t\t6405-merge-symlinks.sh,12,3.0,50.0
+git,Bourne Shell,D:\clones\git\t\t7101-reset-empty-subdirs.sh,13,3.0,50.0
+git,Bourne Shell,D:\clones\git\t\t9127-git-svn-partial-rebuild.sh,6,3.0,50.0
+git,Bourne Shell,D:\clones\git\t\t9901-git-web--browse.sh,10,3.0,50.0
+git,make,D:\clones\git\contrib\contacts\Makefile,20,2.0,49.0
+git,C/C++ Header,D:\clones\git\parallel-checkout.h,17,45.0,49.0
+git,C,D:\clones\git\reftable\publicbasics.c,10,6.0,49.0
+git,C/C++ Header,D:\clones\git\reftable\reftable-writer.h,30,72.0,49.0
+git,C,D:\clones\git\t\helper\test-revision-walking.c,11,9.0,49.0
+git,Bourne Shell,D:\clones\git\t\t0015-hash.sh,5,1.0,49.0
+git,Bourne Shell,D:\clones\git\t\t2011-checkout-invalid-head.sh,14,2.0,49.0
+git,Bourne Shell,D:\clones\git\t\t2019-checkout-ambiguous-ref.sh,12,0.0,49.0
+git,Bourne Shell,D:\clones\git\t\t2025-checkout-no-overlay.sh,10,0.0,49.0
+git,Bourne Shell,D:\clones\git\t\t2104-update-index-skip-worktree.sh,15,3.0,49.0
+git,Bourne Shell,D:\clones\git\t\t2202-add-addremove.sh,6,0.0,49.0
+git,Bourne Shell,D:\clones\git\t\t4123-apply-shrink.sh,11,0.0,49.0
+git,Bourne Shell,D:\clones\git\t\t4207-log-decoration-colors.sh,11,5.0,49.0
+git,Bourne Shell,D:\clones\git\t\t5301-sliding-window.sh,8,3.0,49.0
+git,Bourne Shell,D:\clones\git\t\t6419-merge-ignorecase.sh,7,0.0,49.0
+git,Bourne Shell,D:\clones\git\t\t9157-git-svn-fetch-merge.sh,6,3.0,49.0
+git,C/C++ Header,D:\clones\git\archive.h,12,2.0,48.0
+git,C/C++ Header,D:\clones\git\bloom.h,17,47.0,48.0
+git,C,D:\clones\git\builtin\write-tree.c,4,5.0,48.0
+git,C,D:\clones\git\compat\qsort_s.c,10,5.0,48.0
+git,Perl,D:\clones\git\contrib\fast-import\git-import.perl,12,4.0,48.0
+git,C,D:\clones\git\merge-ort-wrappers.c,13,1.0,48.0
+git,Bourne Shell,D:\clones\git\t\perf\bisect_regression,14,11.0,48.0
+git,Bourne Shell,D:\clones\git\t\t1100-commit-tree-options.sh,13,3.0,48.0
+git,Bourne Shell,D:\clones\git\t\t2108-update-index-refresh-racy.sh,11,5.0,48.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0011-no-hook-error.sh,4,8.0,48.0
+git,Bourne Shell,D:\clones\git\t\t6301-for-each-ref-errors.sh,8,0.0,48.0
+git,Bourne Shell,D:\clones\git\t\t6431-merge-criscross.sh,16,31.0,48.0
+git,Bourne Shell,D:\clones\git\t\t9110-git-svn-use-svm-props.sh,10,3.0,48.0
+git,Bourne Shell,D:\clones\git\Documentation\howto-index.sh,9,0.0,47.0
+git,Bourne Shell,D:\clones\git\ci\run-docker-build.sh,6,13.0,47.0
+git,C/C++ Header,D:\clones\git\gpg-interface.h,13,28.0,47.0
+git,C/C++ Header,D:\clones\git\mailinfo.h,9,0.0,47.0
+git,C/C++ Header,D:\clones\git\refs\ref-cache.h,25,148.0,47.0
+git,C,D:\clones\git\t\helper\test-example-decorate.c,10,18.0,47.0
+git,C,D:\clones\git\t\helper\test-hash-speed.c,9,5.0,47.0
+git,Bourne Shell,D:\clones\git\t\t1509\prepare-chroot.sh,9,2.0,47.0
+git,Bourne Shell,D:\clones\git\t\t2100-update-cache-badpath.sh,12,3.0,47.0
+git,Bourne Shell,D:\clones\git\t\t3703-add-magic-pathspec.sh,12,0.0,47.0
+git,Bourne Shell,D:\clones\git\t\t4005-diff-rename-2.sh,14,18.0,47.0
+git,Bourne Shell,D:\clones\git\t\t4037-diff-r-t-dirs.sh,7,0.0,47.0
+git,Bourne Shell,D:\clones\git\t\t4125-apply-ws-fuzz.sh,29,24.0,47.0
+git,Bourne Shell,D:\clones\git\t\t7614-merge-signoff.sh,13,12.0,47.0
+git,Bourne Shell,D:\clones\git\t\t9828-git-p4-map-user.sh,10,0.0,47.0
+git,make,D:\clones\git\templates\Makefile,11,8.0,47.0
+git,C/C++ Header,D:\clones\git\attr.h,21,145.0,46.0
+git,C/C++ Header,D:\clones\git\json-writer.h,14,50.0,46.0
+git,C,D:\clones\git\oidmap.c,14,1.0,46.0
+git,C/C++ Header,D:\clones\git\reftable\reftable-stack.h,28,54.0,46.0
+git,C,D:\clones\git\t\helper\test-prio-queue.c,6,0.0,46.0
+git,Bourne Shell,D:\clones\git\t\perf\p3400-rebase.sh,9,1.0,46.0
+git,Perl,D:\clones\git\t\t0019\parse_json.perl,9,0.0,46.0
+git,Bourne Shell,D:\clones\git\t\t3422-rebase-incompatible-options.sh,15,7.0,46.0
+git,Bourne Shell,D:\clones\git\t\t5525-fetch-tagopt.sh,8,0.0,46.0
+git,Bourne Shell,D:\clones\git\t\t6401-merge-criss-cross.sh,16,5.0,46.0
+git,C Shell,D:\clones\git\contrib\completion\git-completion.tcsh,18,64.0,45.0
+git,C/C++ Header,D:\clones\git\gettext.h,10,8.0,45.0
+git,C/C++ Header,D:\clones\git\oidset.h,18,53.0,45.0
+git,C,D:\clones\git\t\helper\test-oidtree.c,7,0.0,45.0
+git,Bourne Shell,D:\clones\git\t\perf\p0004-lazy-init-name-hash.sh,11,0.0,45.0
+git,Bourne Shell,D:\clones\git\t\t0069-oidtree.sh,5,0.0,45.0
+git,Perl,D:\clones\git\t\t0211\scrub_perf.perl,13,23.0,45.0
+git,Bourne Shell,D:\clones\git\t\t1021-rerere-in-workdir.sh,9,4.0,45.0
+git,Bourne Shell,D:\clones\git\t\t3004-ls-files-basic.sh,10,0.0,45.0
+git,Bourne Shell,D:\clones\git\t\t3050-subprojects-fetch.sh,7,0.0,45.0
+git,Bourne Shell,D:\clones\git\t\t5402-post-merge-hook.sh,10,4.0,45.0
+git,Bourne Shell,D:\clones\git\t\t5524-pull-msg.sh,7,0.0,45.0
+git,Bourne Shell,D:\clones\git\t\t6011-rev-list-with-bad-commit.sh,11,3.0,45.0
+git,Bourne Shell,D:\clones\git\t\t6435-merge-sparse.sh,11,2.0,45.0
+git,C/C++ Header,D:\clones\git\delta.h,10,50.0,44.0
+git,C,D:\clones\git\reftable\tree_test.c,11,6.0,44.0
+git,Bourne Shell,D:\clones\git\t\perf\p0000-perf-lib-sanity.sh,13,0.0,44.0
+git,Bourne Shell,D:\clones\git\t\perf\p4220-log-grep-engines.sh,8,1.0,44.0
+git,Bourne Shell,D:\clones\git\t\perf\p5551-fetch-rescan.sh,10,1.0,44.0
+git,Bourne Shell,D:\clones\git\t\t1304-default-acl.sh,12,9.0,44.0
+git,Bourne Shell,D:\clones\git\t\t3408-rebase-multi-line.sh,14,0.0,44.0
+git,Bourne Shell,D:\clones\git\t\t5522-pull-symlink.sh,8,32.0,44.0
+git,Bourne Shell,D:\clones\git\t\t5704-protocol-violations.sh,6,2.0,44.0
+git,Bourne Shell,D:\clones\git\t\t7420-submodule-set-url.sh,7,4.0,44.0
+git,Bourne Shell,D:\clones\git\t\t7605-merge-resolve.sh,8,0.0,44.0
+git,Bourne Shell,D:\clones\git\t\t9003-help-autocorrect.sh,16,3.0,44.0
+git,Bourne Shell,D:\clones\git\t\t9166-git-svn-fetch-merge-branch-of-branch2.sh,6,3.0,44.0
+git,Bourne Shell,D:\clones\git\t\t9700-perl-git.sh,11,5.0,44.0
+git,Ruby,D:\clones\git\Documentation\asciidoctor-extensions.rb,5,0.0,43.0
+git,C,D:\clones\git\compat\stat.c,4,1.0,43.0
+git,C,D:\clones\git\compat\win32\pthread.c,7,8.0,43.0
+git,Bourne Shell,D:\clones\git\contrib\mw-to-git\t\install-wiki.sh,6,6.0,43.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\date.tcl,8,2.0,43.0
+git,C,D:\clones\git\stable-qsort.c,9,4.0,43.0
+git,Perl,D:\clones\git\t\check-non-portable-shell.pl,7,5.0,43.0
+git,C,D:\clones\git\t\helper\test-read-graph.c,8,0.0,43.0
+git,Bourne Shell,D:\clones\git\t\perf\p0006-read-tree-checkout.sh,10,14.0,43.0
+git,Bourne Shell,D:\clones\git\t\perf\p4002-diff-color-moved.sh,12,2.0,43.0
+git,Bourne Shell,D:\clones\git\t\t2050-git-dir-relative.sh,13,0.0,43.0
+git,Bourne Shell,D:\clones\git\t\t3009-ls-files-others-nonsubmodule.sh,7,0.0,43.0
+git,Bourne Shell,D:\clones\git\t\t6005-rev-list-count.sh,9,0.0,43.0
+git,Bourne Shell,D:\clones\git\t\t7511-status-index.sh,8,0.0,43.0
+git,C,D:\clones\git\builtin\for-each-repo.c,13,4.0,42.0
+git,Bourne Shell,D:\clones\git\git-merge-resolve.sh,4,8.0,42.0
+git,C/C++ Header,D:\clones\git\refspec.h,12,23.0,42.0
+git,C/C++ Header,D:\clones\git\sha1dc\sha1.h,20,48.0,42.0
+git,Bourne Shell,D:\clones\git\t\lib-gettext.sh,9,12.0,42.0
+git,Bourne Shell,D:\clones\git\t\t4044-diff-index-unique-abbrev.sh,13,0.0,42.0
+git,Bourne Shell,D:\clones\git\t\t4102-apply-rename.sh,13,4.0,42.0
+git,Bourne Shell,D:\clones\git\t\t4140-apply-ita.sh,14,0.0,42.0
+git,Bourne Shell,D:\clones\git\t\t5532-fetch-proxy.sh,8,1.0,42.0
+git,Bourne Shell,D:\clones\git\t\t7008-filter-branch-null-sha1.sh,9,4.0,42.0
+git,Bourne Shell,D:\clones\git\t\t9819-git-p4-case-folding.sh,10,4.0,42.0
+git,YAML,D:\clones\git\.github\workflows\check-whitespace.yml,5,4.0,41.0
+git,Bourne Shell,D:\clones\git\t\perf\p5302-pack-index.sh,9,3.0,41.0
+git,Bourne Shell,D:\clones\git\t\t0070-fundamental.sh,13,1.0,41.0
+git,Bourne Shell,D:\clones\git\t\t4206-log-follow-harder-copies.sh,12,3.0,41.0
+git,Bourne Shell,D:\clones\git\t\t5618-alternate-refs.sh,8,11.0,41.0
+git,Bourne Shell,D:\clones\git\t\t8012-blame-colors.sh,10,0.0,41.0
+git,Bourne Shell,D:\clones\git\t\t9151-svn-mergeinfo.sh,10,3.0,41.0
+git,C/C++ Header,D:\clones\git\urlmatch.h,11,23.0,41.0
+git,Perl,D:\clones\git\Documentation\cat-texi.perl,6,0.0,40.0
+git,Markdown,D:\clones\git\SECURITY.md,11,0.0,40.0
+git,C,D:\clones\git\builtin\get-tar-commit-id.c,8,4.0,40.0
+git,Bourne Shell,D:\clones\git\ci\run-build-and-tests.sh,6,8.0,40.0
+git,C/C++ Header,D:\clones\git\reftable\iter.h,14,15.0,40.0
+git,Bourne Shell,D:\clones\git\t\perf\p0071-sort.sh,12,0.0,40.0
+git,Bourne Shell,D:\clones\git\t\t0005-signals.sh,10,5.0,40.0
+git,Bourne Shell,D:\clones\git\t\t1505-rev-parse-last.sh,19,6.0,40.0
+git,Bourne Shell,D:\clones\git\t\t3512-cherry-pick-submodule.sh,14,0.0,40.0
+git,Bourne Shell,D:\clones\git\t\t4135\make-patches,5,0.0,40.0
+git,Bourne Shell,D:\clones\git\t\t5529-push-errors.sh,8,0.0,40.0
+git,Bourne Shell,D:\clones\git\t\t5546-receive-limits.sh,12,3.0,40.0
+git,Bourne Shell,D:\clones\git\t\t6133-pathspec-rev-dwim.sh,8,0.0,40.0
+git,Bourne Shell,D:\clones\git\t\t9111-git-svn-use-svnsync-props.sh,8,3.0,40.0
+git,Bourne Shell,D:\clones\git\t\t9154-git-svn-fancy-glob.sh,8,3.0,40.0
+git,Bourne Shell,D:\clones\git\t\t9158-git-svn-mergeinfo.sh,9,3.0,40.0
+git,Bourne Shell,D:\clones\git\t\t9167-git-svn-cmd-branch-subproject.sh,6,3.0,40.0
+git,Bourne Shell,D:\clones\git\t\t9602-cvsimport-branches-tags.sh,39,2.0,40.0
+git,Bourne Shell,D:\clones\git\t\t9833-errors.sh,7,1.0,40.0
+git,Perl,D:\clones\git\Documentation\build-docdep.perl,4,3.0,39.0
+git,C,D:\clones\git\t\helper\test-userdiff.c,7,0.0,39.0
+git,Bourne Shell,D:\clones\git\t\t0303-credential-external.sh,16,5.0,39.0
+git,Bourne Shell,D:\clones\git\t\t4118-apply-empty-context.sh,11,3.0,39.0
+git,Bourne Shell,D:\clones\git\t\t5608-clone-2gb.sh,12,1.0,39.0
+git,Bourne Shell,D:\clones\git\t\t7417-submodule-path-url.sh,9,0.0,39.0
+git,Bourne Shell,D:\clones\git\t\t9304-fast-import-marks.sh,8,4.0,39.0
+git,C/C++ Header,D:\clones\git\branch.h,15,105.0,38.0
+git,C/C++ Header,D:\clones\git\git-curl-compat.h,15,76.0,38.0
+git,C,D:\clones\git\levenshtein.c,7,41.0,38.0
+git,Perl,D:\clones\git\perl\Git\SVN\Memoize\YAML.pm,27,28.0,38.0
+git,Bourne Shell,D:\clones\git\t\t1350-config-hooks-path.sh,6,0.0,38.0
+git,Bourne Shell,D:\clones\git\t\t4257-am-interactive.sh,10,4.0,38.0
+git,Bourne Shell,D:\clones\git\t\t6413-merge-crlf.sh,9,0.0,38.0
+git,Bourne Shell,D:\clones\git\t\t7515-status-symlinks.sh,6,0.0,38.0
+git,Bourne Shell,D:\clones\git\t\t9156-git-svn-fetch-deleted-tag-2.sh,9,0.0,38.0
+git,Bourne Shell,D:\clones\git\t\t9159-git-svn-no-parent-mergeinfo.sh,3,0.0,38.0
+git,C,D:\clones\git\trace2\tr2_tbuf.c,9,0.0,38.0
+git,Bourne Shell,D:\clones\git\Documentation\install-webdoc.sh,2,0.0,37.0
+git,Bourne Shell,D:\clones\git\ci\util\extract-trash-dirs.sh,8,5.0,37.0
+git,C/C++ Header,D:\clones\git\compat\poll\poll.h,13,17.0,37.0
+git,Bourne Shell,D:\clones\git\contrib\thunderbird-patch-inline\appp.sh,12,6.0,37.0
+git,C/C++ Header,D:\clones\git\reftable\reader.h,14,13.0,37.0
+git,Bourne Shell,D:\clones\git\t\t2027-checkout-track.sh,8,5.0,37.0
+git,Bourne Shell,D:\clones\git\t\t3205-branch-color.sh,6,2.0,37.0
+git,Bourne Shell,D:\clones\git\t\t3433-rebase-across-mode-change.sh,11,0.0,37.0
+git,Bourne Shell,D:\clones\git\t\t5410-receive-pack-alternates.sh,8,0.0,37.0
+git,Bourne Shell,D:\clones\git\t\t9139-git-svn-non-utf8-commitencoding.sh,7,3.0,37.0
+git,C/C++ Header,D:\clones\git\bisect.h,12,24.0,36.0
+git,C/C++ Header,D:\clones\git\column.h,9,1.0,36.0
+git,DOS Batch,D:\clones\git\compat\vcbuild\vcpkg_install.bat,15,29.0,36.0
+git,C/C++ Header,D:\clones\git\entry.h,7,17.0,36.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\logo.tcl,2,5.0,36.0
+git,C/C++ Header,D:\clones\git\notes-utils.h,8,11.0,36.0
+git,C/C++ Header,D:\clones\git\oidmap.h,16,41.0,36.0
+git,C/C++ Header,D:\clones\git\sub-process.h,18,44.0,36.0
+git,C,D:\clones\git\t\helper\test-oid-array.c,7,0.0,36.0
+git,C,D:\clones\git\t\helper\test-urlmatch-normalization.c,7,8.0,36.0
+git,Bourne Shell,D:\clones\git\t\perf\p4221-log-grep-engines-fixed.sh,8,0.0,36.0
+git,Bourne Shell,D:\clones\git\t\t2007-checkout-symlink.sh,18,2.0,36.0
+git,Bourne Shell,D:\clones\git\t\t2009-checkout-statinfo.sh,20,0.0,36.0
+git,Bourne Shell,D:\clones\git\t\t2300-cd-to-toplevel.sh,11,0.0,36.0
+git,Bourne Shell,D:\clones\git\t\t4029-diff-trailing-space.sh,5,3.0,36.0
+git,Bourne Shell,D:\clones\git\t\t4113-apply-ending.sh,12,5.0,36.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0023-report-unexpect-ref--porcelain.sh,3,5.0,36.0
+git,Bourne Shell,D:\clones\git\t\t5535-fetch-push-symref.sh,6,0.0,36.0
+git,Bourne Shell,D:\clones\git\t\t6013-rev-list-reverse-parents.sh,9,0.0,36.0
+git,Bourne Shell,D:\clones\git\t\t9150\make-svk-dump,15,6.0,36.0
+git,Bourne Shell,D:\clones\git\t\t9825-git-p4-handle-utf16-without-bom.sh,9,1.0,36.0
+git,C/C++ Header,D:\clones\git\thread-utils.h,16,5.0,36.0
+git,C,D:\clones\git\compat\mmap.c,10,0.0,35.0
+git,C/C++ Header,D:\clones\git\compat\win32.h,5,1.0,35.0
+git,C,D:\clones\git\compat\win32mmap.c,11,0.0,35.0
+git,Perl,D:\clones\git\contrib\buildsystems\Generators.pm,7,0.0,35.0
+git,C,D:\clones\git\diffcore-rotate.c,6,5.0,35.0
+git,C/C++ Header,D:\clones\git\reftable\test_framework.h,10,8.0,35.0
+git,C,D:\clones\git\t\helper\test-ctype.c,7,1.0,35.0
+git,C,D:\clones\git\t\helper\test-dump-split-index.c,4,0.0,35.0
+git,Bourne Shell,D:\clones\git\t\perf\p0001-rev-list.sh,13,0.0,35.0
+git,Bourne Shell,D:\clones\git\t\t1408-packed-refs.sh,10,0.0,35.0
+git,Bourne Shell,D:\clones\git\t\t4105-apply-fuzz.sh,18,0.0,35.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0022-report-unexpect-ref.sh,3,5.0,35.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0035-report-ft--porcelain.sh,3,5.0,35.0
+git,Bourne Shell,D:\clones\git\t\t6115-rev-list-du.sh,9,7.0,35.0
+git,Bourne Shell,D:\clones\git\t\t7518-ident-corner-cases.sh,7,7.0,35.0
+git,Bourne Shell,D:\clones\git\t\t9143-git-svn-gc.sh,14,2.0,35.0
+git,Bourne Shell,D:\clones\git\t\valgrind\valgrind.sh,5,0.0,35.0
+git,C/C++ Header,D:\clones\git\xdiff\xtypes.h,11,21.0,35.0
+git,m4,D:\clones\git\aclocal.m4,2,4.0,34.0
+git,make,D:\clones\git\contrib\scalar\Makefile,11,0.0,34.0
+git,Bourne Shell,D:\clones\git\detect-compiler,7,9.0,34.0
+git,C/C++ Header,D:\clones\git\fsmonitor.h,13,46.0,34.0
+git,C/C++ Header,D:\clones\git\line-log.h,11,17.0,34.0
+git,C/C++ Header,D:\clones\git\oid-array.h,13,90.0,34.0
+git,C,D:\clones\git\prune-packed.c,8,1.0,34.0
+git,C/C++ Header,D:\clones\git\split-index.h,5,0.0,34.0
+git,Bourne Shell,D:\clones\git\t\lib-bundle.sh,2,6.0,34.0
+git,Bourne Shell,D:\clones\git\t\lib-read-tree.sh,3,4.0,34.0
+git,Bourne Shell,D:\clones\git\t\perf\p0100-globbing.sh,9,0.0,34.0
+git,Bourne Shell,D:\clones\git\t\t0025-crlf-renormalize.sh,6,0.0,34.0
+git,Bourne Shell,D:\clones\git\t\t0101-at-syntax.sh,11,0.0,34.0
+git,Bourne Shell,D:\clones\git\t\t1515-rev-parse-outside-repo.sh,7,6.0,34.0
+git,Bourne Shell,D:\clones\git\t\t3003-ls-files-exclude.sh,8,0.0,34.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0034-report-ft.sh,3,5.0,34.0
+git,Bourne Shell,D:\clones\git\t\t6008-rev-list-submodule.sh,8,3.0,34.0
+git,Bourne Shell,D:\clones\git\t\t9155-git-svn-fetch-deleted-tag.sh,11,0.0,34.0
+git,C/C++ Header,D:\clones\git\xdiff\xdiffi.h,9,21.0,34.0
+git,Bourne Shell,D:\clones\git\Documentation\install-doc-quick.sh,6,1.0,33.0
+git,Bourne Shell,D:\clones\git\GIT-VERSION-GEN,5,2.0,33.0
+git,C/C++ Header,D:\clones\git\add-interactive.h,8,0.0,33.0
+git,C/C++ Header,D:\clones\git\banned.h,6,6.0,33.0
+git,Bourne Shell,D:\clones\git\check-builtins.sh,1,0.0,33.0
+git,make,D:\clones\git\contrib\mw-to-git\Makefile,12,13.0,33.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\branch.tcl,5,2.0,33.0
+git,C,D:\clones\git\reftable\error.c,4,6.0,33.0
+git,C,D:\clones\git\t\helper\test-read-cache.c,6,0.0,33.0
+git,Bourne Shell,D:\clones\git\t\perf\bisect_run_script,14,6.0,33.0
+git,Bourne Shell,D:\clones\git\t\t4039-diff-assume-unchanged.sh,8,1.0,33.0
+git,Bourne Shell,D:\clones\git\t\t4043-diff-rename-binary.sh,9,3.0,33.0
+git,Bourne Shell,D:\clones\git\t\t4131-apply-fake-ancestor.sh,6,3.0,33.0
+git,Bourne Shell,D:\clones\git\t\t5200-update-server-info.sh,9,0.0,33.0
+git,Bourne Shell,D:\clones\git\t\t7104-reset-hard.sh,14,0.0,33.0
+git,Bourne Shell,D:\clones\git\t\t7520-ignored-hook-warning.sh,8,0.0,33.0
+git,Bourne Shell,D:\clones\git\t\t9103-git-svn-tracked-directory-removed.sh,5,3.0,33.0
+git,Bourne Shell,D:\clones\git\t\t9105-git-svn-commit-diff.sh,6,5.0,33.0
+git,Bourne Shell,D:\clones\git\t\t9830-git-p4-symlink-dir.sh,6,0.0,33.0
+git,C/C++ Header,D:\clones\git\userdiff.h,8,9.0,33.0
+git,Bourne Shell,D:\clones\git\ci\test-documentation.sh,8,5.0,32.0
+git,C/C++ Header,D:\clones\git\compat\compiler.h,9,0.0,32.0
+git,C/C++ Header,D:\clones\git\compat\win32\lazyload.h,7,22.0,32.0
+git,C/C++ Header,D:\clones\git\list-objects-filter.h,8,57.0,32.0
+git,C/C++ Header,D:\clones\git\log-tree.h,6,0.0,32.0
+git,C/C++ Header,D:\clones\git\notes-merge.h,10,45.0,32.0
+git,C/C++ Header,D:\clones\git\send-pack.h,7,2.0,32.0
+git,Bourne Shell,D:\clones\git\t\lib-parallel-checkout.sh,9,4.0,32.0
+git,Bourne Shell,D:\clones\git\t\perf\p5311-pack-bitmaps-fetch.sh,8,4.0,32.0
+git,Bourne Shell,D:\clones\git\t\perf\p5600-partial-clone.sh,10,0.0,32.0
+git,Bourne Shell,D:\clones\git\t\t0023-crlf-am.sh,12,0.0,32.0
+git,Bourne Shell,D:\clones\git\t\t3006-ls-files-long.sh,9,0.0,32.0
+git,Bourne Shell,D:\clones\git\t\t3423-rebase-reword.sh,16,0.0,32.0
+git,Bourne Shell,D:\clones\git\t\t4100-apply-stat.sh,7,3.0,32.0
+git,Bourne Shell,D:\clones\git\t\t5307-pack-missing-commit.sh,8,0.0,32.0
+git,Bourne Shell,D:\clones\git\t\t5315-pack-objects-compression.sh,5,1.0,32.0
+git,Bourne Shell,D:\clones\git\t\t5815-submodule-protos.sh,9,2.0,32.0
+git,Bourne Shell,D:\clones\git\t\t6041-bisect-submodule.sh,5,0.0,32.0
+git,Bourne Shell,D:\clones\git\t\t9152-svn-empty-dirs-after-gc.sh,6,2.0,32.0
+git,C/C++ Header,D:\clones\git\tree.h,13,1.0,32.0
+git,C,D:\clones\git\builtin\unpack-file.c,7,0.0,31.0
+git,C/C++ Header,D:\clones\git\chunk-format.h,9,28.0,31.0
+git,Bourne Shell,D:\clones\git\ci\run-docker.sh,8,8.0,31.0
+git,C/C++ Header,D:\clones\git\compat\precompose_utf8.h,10,6.0,31.0
+git,C/C++ Header,D:\clones\git\credential.h,17,149.0,31.0
+git,C/C++ Header,D:\clones\git\merge-ort.h,11,45.0,31.0
+git,C,D:\clones\git\negotiator\noop.c,6,7.0,31.0
+git,Bourne Shell,D:\clones\git\t\interop\i5500-git-daemon.sh,9,0.0,31.0
+git,Bourne Shell,D:\clones\git\t\perf\p1451-fsck-skip-list.sh,9,0.0,31.0
+git,Bourne Shell,D:\clones\git\t\t4134-apply-submodule.sh,6,3.0,31.0
+git,Bourne Shell,D:\clones\git\t\t6136-pathspec-in-bare.sh,8,0.0,31.0
+git,Bourne Shell,D:\clones\git\t\t9112-git-svn-md5less-file.sh,12,4.0,31.0
+git,Bourne Shell,D:\clones\git\t\t9125-git-svn-multi-glob-branch-names.sh,5,1.0,31.0
+git,C,D:\clones\git\version.c,8,0.0,31.0
+git,C/C++ Header,D:\clones\git\commit-slab-decl.h,6,8.0,30.0
+git,C,D:\clones\git\common-main.c,13,21.0,30.0
+git,C,D:\clones\git\compat\win32\path-utils.c,8,14.0,30.0
+git,JavaScript,D:\clones\git\git-gui\lib\win32_shortcut.js,2,2.0,30.0
+git,XML,D:\clones\git\git-gui\macosx\Info.plist,0,0.0,30.0
+git,Perl,D:\clones\git\perl\Git\IndexInfo.pm,5,0.0,30.0
+git,C/C++ Header,D:\clones\git\quote.h,14,59.0,30.0
+git,C,D:\clones\git\t\helper\test-partial-clone.c,6,7.0,30.0
+git,Bourne Shell,D:\clones\git\t\lib-patch-mode.sh,8,12.0,30.0
+git,Bourne Shell,D:\clones\git\t\t0014-alias.sh,8,9.0,30.0
+git,Bourne Shell,D:\clones\git\t\t3102-ls-tree-wildcards.sh,7,0.0,30.0
+git,Bourne Shell,D:\clones\git\t\t3307-notes-man.sh,8,0.0,30.0
+git,Bourne Shell,D:\clones\git\t\t4036-format-patch-signer-mime.sh,20,0.0,30.0
+git,Bourne Shell,D:\clones\git\t\t4121-apply-diffs.sh,6,0.0,30.0
+git,Bourne Shell,D:\clones\git\t\t5405-send-pack-rewind.sh,15,0.0,30.0
+git,Bourne Shell,D:\clones\git\t\t5812-proto-disable-http.sh,7,0.0,30.0
+git,Bourne Shell,D:\clones\git\t\t5813-proto-disable-ssh.sh,9,4.0,30.0
+git,Bourne Shell,D:\clones\git\t\t7414-submodule-mistakes.sh,7,0.0,30.0
+git,Bourne Shell,D:\clones\git\t\t9601-cvsimport-vendor-branch.sh,28,30.0,30.0
+git,C/C++ Header,D:\clones\git\bundle.h,6,10.0,29.0
+git,C/C++ Header,D:\clones\git\cbtree.h,10,17.0,29.0
+git,C,D:\clones\git\compat\setenv.c,6,5.0,29.0
+git,C/C++ Header,D:\clones\git\compat\win32\path-utils.h,3,5.0,29.0
+git,C/C++ Header,D:\clones\git\promisor-remote.h,9,13.0,29.0
+git,C,D:\clones\git\t\helper\test-serve-v2.c,5,1.0,29.0
+git,Bourne Shell,D:\clones\git\t\perf\p4211-line-log.sh,11,2.0,29.0
+git,Bourne Shell,D:\clones\git\t\perf\p5326-multi-pack-bitmaps.sh,13,10.0,29.0
+git,Bourne Shell,D:\clones\git\t\t0068-for-each-repo.sh,5,2.0,29.0
+git,Bourne Shell,D:\clones\git\t\t1008-read-tree-overlay.sh,7,0.0,29.0
+git,Bourne Shell,D:\clones\git\t\t1310-config-default.sh,8,0.0,29.0
+git,Bourne Shell,D:\clones\git\t\t1420-lost-found.sh,5,3.0,29.0
+git,Bourne Shell,D:\clones\git\t\t2105-update-index-gitfile.sh,7,3.0,29.0
+git,Bourne Shell,D:\clones\git\t\t4258-am-quoted-cr.sh,8,0.0,29.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0031-report-ok--porcelain.sh,2,3.0,29.0
+git,C,D:\clones\git\builtin\credential.c,6,0.0,28.0
+git,Bourne Shell,D:\clones\git\contrib\fast-import\git-import.sh,6,4.0,28.0
+git,Bourne Shell,D:\clones\git\contrib\remotes2config.sh,3,2.0,28.0
+git,Bourne Shell,D:\clones\git\git-gui\po\glossary\txt-to-pot.sh,6,14.0,28.0
+git,C/C++ Header,D:\clones\git\shortlog.h,9,0.0,28.0
+git,Bourne Shell,D:\clones\git\t\lib-httpd\error.sh,3,0.0,28.0
+git,Bourne Shell,D:\clones\git\t\perf\p0005-status.sh,7,14.0,28.0
+git,Bourne Shell,D:\clones\git\t\t3513-revert-submodule.sh,5,6.0,28.0
+git,Bourne Shell,D:\clones\git\t\t4025-hunk-header.sh,11,0.0,28.0
+git,Bourne Shell,D:\clones\git\t\t4115-apply-symlink.sh,17,3.0,28.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0025-report-unknown-ref--porcelain.sh,2,3.0,28.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0030-report-ok.sh,2,3.0,28.0
+git,Perl,D:\clones\git\t\t5562\invoke-with-content-length.pl,5,3.0,28.0
+git,Bourne Shell,D:\clones\git\t\t7514-commit-patch.sh,6,0.0,28.0
+git,Bourne Shell,D:\clones\git\templates\hooks--push-to-checkout.sample,9,41.0,28.0
+git,C,D:\clones\git\varint.c,2,0.0,28.0
+git,C/C++ Header,D:\clones\git\ll-merge.h,15,67.0,27.0
+git,C/C++ Header,D:\clones\git\rerere.h,8,11.0,27.0
+git,C/C++ Header,D:\clones\git\sha256\gcrypt.h,9,0.0,27.0
+git,Bourne Shell,D:\clones\git\t\perf\p7300-clean.sh,8,0.0,27.0
+git,Bourne Shell,D:\clones\git\t\t0018-advice.sh,6,0.0,27.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0024-report-unknown-ref.sh,2,3.0,27.0
+git,Bourne Shell,D:\clones\git\t\t6014-rev-list-all.sh,15,0.0,27.0
+git,C/C++ Header,D:\clones\git\tar.h,3,0.0,27.0
+git,Bourne Shell,D:\clones\git\wrap-for-bin.sh,4,5.0,27.0
+git,C/C++ Header,D:\clones\git\xdiff-interface.h,8,37.0,27.0
+git,C,D:\clones\git\builtin\apply.c,8,0.0,26.0
+git,C,D:\clones\git\builtin\prune-packed.c,5,0.0,26.0
+git,C/C++ Header,D:\clones\git\connect.h,6,0.0,26.0
+git,Bourne Shell,D:\clones\git\contrib\update-unicode\update_unicode.sh,1,6.0,26.0
+git,C/C++ Header,D:\clones\git\hook.h,11,36.0,26.0
+git,Perl,D:\clones\git\perl\header_templates\runtime_prefix.template.pl,6,10.0,26.0
+git,C/C++ Header,D:\clones\git\reftable\reftable-merged.h,16,30.0,26.0
+git,C,D:\clones\git\t\helper\test-parse-pathspec-file.c,7,0.0,26.0
+git,Bourne Shell,D:\clones\git\t\perf\p1400-update-ref.sh,7,0.0,26.0
+git,Bourne Shell,D:\clones\git\t\perf\p3404-rebase-interactive.sh,8,2.0,26.0
+git,Bourne Shell,D:\clones\git\t\t1412-reflog-loop.sh,5,0.0,26.0
+git,diff,D:\clones\git\t\t4109\patch1.patch,0,2.0,26.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0003-pre-receive-declined--porcelain.sh,3,3.0,26.0
+git,Bourne Shell,D:\clones\git\t\t5507-remote-environment.sh,7,1.0,26.0
+git,Bourne Shell,D:\clones\git\t\t7516-commit-races.sh,4,0.0,26.0
+git,Bourne Shell,D:\clones\git\t\t9102-git-svn-deep-rmdir.sh,6,0.0,26.0
+git,Bourne Shell,D:\clones\git\t\t9169-git-svn-dcommit-crlf.sh,4,0.0,26.0
+git,Bourne Shell,D:\clones\git\t\t9820-git-p4-editor-handling.sh,6,2.0,26.0
+git,C/C++ Header,D:\clones\git\trace2\tr2_tls.h,17,60.0,26.0
+git,C/C++ Header,D:\clones\git\xdiff\xmacros.h,7,21.0,26.0
+git,Bourne Shell,D:\clones\git\Documentation\technical\api-index.sh,3,0.0,25.0
+git,Tcl/Tk,D:\clones\git\git-gui\macosx\AppMain.tcl,4,0.0,25.0
+git,C/C++ Header,D:\clones\git\patch-ids.h,9,13.0,25.0
+git,C/C++ Header,D:\clones\git\reftable\reftable-reader.h,20,56.0,25.0
+git,C/C++ Header,D:\clones\git\reftable\stack.h,10,6.0,25.0
+git,C,D:\clones\git\sha1dc_git.c,3,10.0,25.0
+git,C,D:\clones\git\t\helper\test-bitmap.c,7,0.0,25.0
+git,C,D:\clones\git\t\helper\test-fake-ssh.c,3,2.0,25.0
+git,Bourne Shell,D:\clones\git\t\lib-diff.sh,6,10.0,25.0
+git,Bourne Shell,D:\clones\git\t\perf\p5310-pack-bitmaps.sh,12,17.0,25.0
+git,Bourne Shell,D:\clones\git\t\t0029-core-unsetenvvars.sh,6,0.0,25.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0002-pre-receive-declined.sh,3,3.0,25.0
+git,Bourne Shell,D:\clones\git\t\t5513-fetch-track.sh,5,0.0,25.0
+git,Bourne Shell,D:\clones\git\t\t6134-pathspec-in-submodule.sh,7,0.0,25.0
+git,Bourne Shell,D:\clones\git\t\t9144-git-svn-old-rev_map.sh,4,2.0,25.0
+git,Bourne Shell,D:\clones\git\templates\hooks--pre-push.sample,6,22.0,25.0
+git,C/C++ Header,D:\clones\git\reftable\writer.h,12,14.0,24.0
+git,Perl,D:\clones\git\t\Git-SVN\Utils\join_paths.t,7,1.0,24.0
+git,C,D:\clones\git\t\helper\test-crontab.c,5,6.0,24.0
+git,C,D:\clones\git\t\helper\test-genzeros.c,8,2.0,24.0
+git,Bourne Shell,D:\clones\git\t\perf\p5304-prune.sh,9,2.0,24.0
+git,Bourne Shell,D:\clones\git\t\t0062-revision-walking.sh,6,3.0,24.0
+git,Bourne Shell,D:\clones\git\t\t2002-checkout-cache-u.sh,7,3.0,24.0
+git,Bourne Shell,D:\clones\git\t\t4028-format-patch-mime-headers.sh,6,0.0,24.0
+git,Bourne Shell,D:\clones\git\t\t4106-apply-stdin.sh,7,0.0,24.0
+git,Bourne Shell,D:\clones\git\t\t4109-apply-multifrag.sh,9,4.0,24.0
+git,Bourne Shell,D:\clones\git\t\t5581-http-curl-verbose.sh,5,0.0,24.0
+git,C/C++ Header,D:\clones\git\compat\msvc.h,8,2.0,23.0
+git,C,D:\clones\git\compat\unsetenv.c,4,2.0,23.0
+git,Bourne Shell,D:\clones\git\contrib\credential\netrc\t-git-credential-netrc.sh,7,2.0,23.0
+git,Bourne Shell,D:\clones\git\contrib\hooks\pre-auto-gc-battery,2,17.0,23.0
+git,C/C++ Header,D:\clones\git\strvec.h,14,54.0,23.0
+git,C,D:\clones\git\t\helper\test-csprng.c,6,0.0,23.0
+git,C,D:\clones\git\t\helper\test-wildmatch.c,1,0.0,23.0
+git,Bourne Shell,D:\clones\git\t\lib-log-graph.sh,4,1.0,23.0
+git,Bourne Shell,D:\clones\git\t\perf\p0007-write-cache.sh,6,0.0,23.0
+git,Bourne Shell,D:\clones\git\t\t0010-racy-git.sh,9,2.0,23.0
+git,Perl,D:\clones\git\t\t0210\scrub_normal.perl,8,23.0,23.0
+git,Bourne Shell,D:\clones\git\t\t2014-checkout-switch.sh,7,0.0,23.0
+git,Bourne Shell,D:\clones\git\t\t2106-update-index-assume-unchanged.sh,5,0.0,23.0
+git,Bourne Shell,D:\clones\git\t\t5518-fetch-exit-status.sh,14,3.0,23.0
+git,Bourne Shell,D:\clones\git\t\t5810-proto-disable-local.sh,7,7.0,23.0
+git,Bourne Shell,D:\clones\git\t\t8009-blame-vs-topicbranches.sh,4,9.0,23.0
+git,Bourne Shell,D:\clones\git\t\t9603-cvsimport-patchsets.sh,6,10.0,23.0
+git,Bourne Shell,D:\clones\git\templates\hooks--pre-commit.sample,9,17.0,23.0
+git,C,D:\clones\git\trace2\tr2_cmd_name.c,7,0.0,23.0
+git,C/C++ Header,D:\clones\git\walker.h,10,5.0,23.0
+git,C,D:\clones\git\builtin\pack-refs.c,2,0.0,22.0
+git,C,D:\clones\git\builtin\update-server-info.c,4,0.0,22.0
+git,Bourne Shell,D:\clones\git\ci\run-static-analysis.sh,7,3.0,22.0
+git,C,D:\clones\git\compat\simple-ipc\ipc-shared.c,6,4.0,22.0
+git,DOS Batch,D:\clones\git\compat\vcbuild\vcpkg_copy_dlls.bat,7,10.0,22.0
+git,C,D:\clones\git\fetch-negotiator.c,3,0.0,22.0
+git,Windows Resource File,D:\clones\git\git.rc,2,0.0,22.0
+git,C/C++ Header,D:\clones\git\list-objects.h,6,0.0,22.0
+git,C/C++ Header,D:\clones\git\mem-pool.h,12,29.0,22.0
+git,C/C++ Header,D:\clones\git\reftable\reftable-blocksource.h,10,17.0,22.0
+git,C/C++ Header,D:\clones\git\replace-object.h,6,15.0,22.0
+git,C/C++ Header,D:\clones\git\reset.h,6,32.0,22.0
+git,C/C++ Header,D:\clones\git\sha1dc\ubc_check.h,10,20.0,22.0
+git,C,D:\clones\git\t\helper\test-genrandom.c,7,5.0,22.0
+git,C,D:\clones\git\t\helper\test-match-trees.c,5,0.0,22.0
+git,C,D:\clones\git\t\helper\test-sigchain.c,2,0.0,22.0
+git,Bourne Shell,D:\clones\git\t\perf\p0003-delta-base-cache.sh,8,1.0,22.0
+git,Bourne Shell,D:\clones\git\t\t0022-crlf-rename.sh,12,0.0,22.0
+git,Bourne Shell,D:\clones\git\t\t0024-crlf-archive.sh,17,0.0,22.0
+git,Bourne Shell,D:\clones\git\t\t2102-update-index-symlinks.sh,7,3.0,22.0
+git,Bourne Shell,D:\clones\git\t\t3008-ls-files-lazy-init-name-hash.sh,6,0.0,22.0
+git,Bourne Shell,D:\clones\git\t\t4101-apply-nonl.sh,7,4.0,22.0
+git,Bourne Shell,D:\clones\git\t\t5321-pack-large-objects.sh,6,4.0,22.0
+git,Bourne Shell,D:\clones\git\t\t5602-clone-remote-exec.sh,6,0.0,22.0
+git,Bourne Shell,D:\clones\git\t\t9142-git-svn-shallow-clone.sh,4,3.0,22.0
+git,YAML,D:\clones\git\.cirrus.yml,1,0.0,21.0
+git,Bourne Shell,D:\clones\git\ci\mount-fileshare.sh,4,0.0,21.0
+git,C,D:\clones\git\compat\fopen.c,6,10.0,21.0
+git,C/C++ Header,D:\clones\git\iterator.h,20,40.0,21.0
+git,C/C++ Header,D:\clones\git\reflog-walk.h,6,0.0,21.0
+git,C/C++ Header,D:\clones\git\reftable\merged.h,9,8.0,21.0
+git,Perl,D:\clones\git\t\Git-SVN\Utils\fatal.t,8,5.0,21.0
+git,C,D:\clones\git\t\helper\test-getcwd.c,5,0.0,21.0
+git,C,D:\clones\git\t\helper\test-submodule-nested-repo-config.c,8,1.0,21.0
+git,Bourne Shell,D:\clones\git\t\t1009-read-tree-new-index.sh,8,0.0,21.0
+git,Bourne Shell,D:\clones\git\t\t9113-git-svn-dcommit-new-file.sh,7,7.0,21.0
+git,Bourne Shell,D:\clones\git\t\t9123-git-svn-rebuild-with-rewriteroot.sh,8,3.0,21.0
+git,Bourne Shell,D:\clones\git\t\t9145-git-svn-master-branch.sh,4,3.0,21.0
+git,C/C++ Header,D:\clones\git\trace2\tr2_sysenv.h,10,8.0,21.0
+git,Perl,D:\clones\git\Documentation\lint-man-end-blurb.perl,4,0.0,20.0
+git,C,D:\clones\git\compat\hstrerror.c,1,0.0,20.0
+git,C,D:\clones\git\compat\strcasestr.c,2,0.0,20.0
+git,XML,D:\clones\git\compat\win32\git.manifest,0,5.0,20.0
+git,make,D:\clones\git\contrib\credential\netrc\Makefile,9,1.0,20.0
+git,make,D:\clones\git\contrib\persistent-https\Makefile,7,13.0,20.0
+git,Tcl/Tk,D:\clones\git\git-gui\lib\win32.tcl,4,2.0,20.0
+git,Bourne Shell,D:\clones\git\git-gui\windows\git-gui.sh,3,2.0,20.0
+git,C/C++ Header,D:\clones\git\prio-queue.h,10,30.0,20.0
+git,C/C++ Header,D:\clones\git\reftable\pq.h,7,6.0,20.0
+git,Perl,D:\clones\git\t\Git-SVN\Utils\add_path_to_url.t,6,1.0,20.0
+git,Bourne Shell,D:\clones\git\t\lib-encoding.sh,4,1.0,20.0
+git,Bourne Shell,D:\clones\git\t\perf\p4000-diff-algorithms.sh,9,0.0,20.0
+git,Bourne Shell,D:\clones\git\t\t0055-beyond-symlinks.sh,6,0.0,20.0
+git,Bourne Shell,D:\clones\git\t\t1022-read-tree-partial-clone.sh,8,2.0,20.0
+git,Bourne Shell,D:\clones\git\t\t3020-ls-files-error-unmatch.sh,7,3.0,20.0
+git,Bourne Shell,D:\clones\git\t\t3908-stash-in-worktree.sh,5,3.0,20.0
+git,Bourne Shell,D:\clones\git\t\t4062-diff-pickaxe.sh,6,4.0,20.0
+git,Bourne Shell,D:\clones\git\t\t5311-pack-bitmaps-shallow.sh,5,14.0,20.0
+git,Bourne Shell,D:\clones\git\t\t6425-merge-rename-delete.sh,7,0.0,20.0
+git,C/C++ Header,D:\clones\git\tag.h,4,0.0,20.0
+git,C,D:\clones\git\compat\memmem.c,5,8.0,19.0
+git,C,D:\clones\git\compat\mkdir.c,4,1.0,19.0
+git,Bourne Shell,D:\clones\git\contrib\stats\git-common-hash,2,5.0,19.0
+git,C/C++ Header,D:\clones\git\graph.h,18,223.0,19.0
+git,C/C++ Header,D:\clones\git\refs\packed-backend.h,8,19.0,19.0
+git,C/C++ Header,D:\clones\git\reftable\reftable-generic.h,13,15.0,19.0
+git,C,D:\clones\git\t\helper\test-reftable.c,2,1.0,19.0
+git,Bourne Shell,D:\clones\git\t\interop\i0000-basic.sh,6,2.0,19.0
+git,Bourne Shell,D:\clones\git\t\perf\lib-pack.sh,2,4.0,19.0
+git,Bourne Shell,D:\clones\git\t\t1003-read-tree-prefix.sh,6,3.0,19.0
+git,Bourne Shell,D:\clones\git\t\t2005-checkout-index-symlinks.sh,7,3.0,19.0
+git,Bourne Shell,D:\clones\git\t\t3103-ls-tree-misc.sh,7,0.0,19.0
+git,C,D:\clones\git\t\t4051\includes.c,0,1.0,19.0
+git,C/C++ Header,D:\clones\git\xdiff\xutils.h,7,21.0,19.0
+git,XSLT,D:\clones\git\Documentation\manpage-normal.xsl,4,4.0,18.0
+git,XSLT,D:\clones\git\Documentation\texi.xsl,4,4.0,18.0
+git,Bourne Shell,D:\clones\git\ci\install-docker-dependencies.sh,1,3.0,18.0
+git,C/C++ Header,D:\clones\git\connected.h,12,35.0,18.0
+git,make,D:\clones\git\contrib\credential\gnome-keyring\Makefile,7,0.0,18.0
+git,make,D:\clones\git\contrib\credential\libsecret\Makefile,7,0.0,18.0
+git,Bourne Shell,D:\clones\git\generate-configlist.sh,3,0.0,18.0
+git,C/C++ Header,D:\clones\git\progress.h,6,0.0,18.0
+git,C,D:\clones\git\rebase.c,3,15.0,18.0
+git,C/C++ Header,D:\clones\git\reftable\basics.h,14,28.0,18.0
+git,C/C++ Header,D:\clones\git\reftable\generic.h,7,7.0,18.0
+git,C/C++ Header,D:\clones\git\sha1dc_git.h,4,1.0,18.0
+git,C/C++ Header,D:\clones\git\sha256\block\sha256.h,6,0.0,18.0
+git,C,D:\clones\git\t\helper\test-dump-fsmonitor.c,4,0.0,18.0
+git,C,D:\clones\git\t\helper\test-subprocess.c,2,0.0,18.0
+git,C,D:\clones\git\t\helper\test-write-cache.c,2,0.0,18.0
+git,Bourne Shell,D:\clones\git\t\perf\p7000-filter-branch.sh,6,0.0,18.0
+git,Bourne Shell,D:\clones\git\t\perf\p7810-grep.sh,5,0.0,18.0
+git,Bourne Shell,D:\clones\git\t\t0051-windows-named-pipe.sh,4,0.0,18.0
+git,Bourne Shell,D:\clones\git\t\t0065-strcmp-offset.sh,4,0.0,18.0
+git,Bourne Shell,D:\clones\git\t\t0203-gettext-setlocale-sanity.sh,5,3.0,18.0
+git,Bourne Shell,D:\clones\git\t\t5406-remote-rejects.sh,6,0.0,18.0
+git,Bourne Shell,D:\clones\git\t\t6110-rev-list-sparse.sh,5,0.0,18.0
+git,C/C++ Header,D:\clones\git\transport-internal.h,6,40.0,18.0
+git,C/C++ Header,D:\clones\git\alloc.h,4,0.0,17.0
+git,C,D:\clones\git\blob.c,3,0.0,17.0
+git,C,D:\clones\git\compat\open.c,4,4.0,17.0
+git,C,D:\clones\git\compat\sha1-chunked.c,2,0.0,17.0
+git,Bourne Shell,D:\clones\git\contrib\mw-to-git\t\t9365-continuing-queries.sh,6,0.0,17.0
+git,C/C++ Header,D:\clones\git\oidtree.h,5,0.0,17.0
+git,C/C++ Header,D:\clones\git\pack-revindex.h,14,96.0,17.0
+git,C/C++ Header,D:\clones\git\ppc\sha1.h,3,5.0,17.0
+git,Perl,D:\clones\git\t\Git-SVN\Utils\canonicalize_url.t,7,2.0,17.0
+git,Perl,D:\clones\git\t\Git-SVN\Utils\collapse_dotdot.t,6,0.0,17.0
+git,C,D:\clones\git\t\helper\test-scrap-cache-tree.c,2,0.0,17.0
+git,Bourne Shell,D:\clones\git\t\lib-diff-data.sh,5,0.0,17.0
+git,Bourne Shell,D:\clones\git\t\lib-httpd\apply-one-time-perl.sh,3,7.0,17.0
+git,Bourne Shell,D:\clones\git\t\perf\p5601-clone-reference.sh,6,4.0,17.0
+git,Bourne Shell,D:\clones\git\t\t0202-gettext-perl.sh,7,4.0,17.0
+git,Bourne Shell,D:\clones\git\t\t3409-rebase-environ.sh,6,0.0,17.0
+git,Bourne Shell,D:\clones\git\t\t4137-apply-submodule.sh,7,0.0,17.0
+git,Bourne Shell,D:\clones\git\t\t7702-repack-cyclic-alternate.sh,4,3.0,17.0
+git,Bourne Shell,D:\clones\git\templates\hooks--pre-receive.sample,1,6.0,17.0
+git,Markdown,D:\clones\git\.github\CONTRIBUTING.md,6,0.0,16.0
+git,C,D:\clones\git\builtin\merge-ours.c,3,14.0,16.0
+git,C,D:\clones\git\compat\access.c,6,9.0,16.0
+git,make,D:\clones\git\contrib\diff-highlight\Makefile,7,0.0,16.0
+git,C/C++ Header,D:\clones\git\kwset.h,14,35.0,16.0
+git,C/C++ Header,D:\clones\git\notes-cache.h,6,0.0,16.0
+git,C/C++ Header,D:\clones\git\range-diff.h,6,8.0,16.0
+git,C/C++ Header,D:\clones\git\reftable\reftable-error.h,14,36.0,16.0
+git,Perl,D:\clones\git\t\perf\min_time.perl,4,1.0,16.0
+git,Bourne Shell,D:\clones\git\t\t0013-sha1dc.sh,5,0.0,16.0
+git,Bourne Shell,D:\clones\git\t\t1601-index-bogus.sh,6,0.0,16.0
+git,C,D:\clones\git\t\t4051\hello.c,1,7.0,16.0
+git,Bourne Shell,D:\clones\git\t\t5811-proto-disable-git.sh,4,0.0,16.0
+git,Bourne Shell,D:\clones\git\t\t9150-svk-mergetickets.sh,6,3.0,16.0
+git,Bourne Shell,D:\clones\git\t\t9153-git-svn-rewrite-uuid.sh,6,3.0,16.0
+git,C/C++ Header,D:\clones\git\trace2\tr2_dst.h,7,15.0,16.0
+git,C/C++ Header,D:\clones\git\compat\vcbuild\include\sys\utime.h,3,16.0,15.0
+git,C/C++ Header,D:\clones\git\compat\win32\dirent.h,5,0.0,15.0
+git,C/C++ Header,D:\clones\git\compat\win32\syslog.h,5,0.0,15.0
+git,make,D:\clones\git\contrib\credential\wincred\Makefile,7,0.0,15.0
+git,make,D:\clones\git\contrib\diff-highlight\t\Makefile,6,1.0,15.0
+git,Bourne Shell,D:\clones\git\contrib\git-shell-commands\help,3,0.0,15.0
+git,make,D:\clones\git\contrib\mw-to-git\t\Makefile,7,9.0,15.0
+git,C/C++ Header,D:\clones\git\decorate.h,9,37.0,15.0
+git,C/C++ Header,D:\clones\git\delta-islands.h,3,0.0,15.0
+git,C/C++ Header,D:\clones\git\dir-iterator.h,11,101.0,15.0
+git,C/C++ Header,D:\clones\git\fetch-negotiator.h,9,35.0,15.0
+git,C/C++ Header,D:\clones\git\fmt-merge-msg.h,6,0.0,15.0
+git,C/C++ Header,D:\clones\git\rebase-interactive.h,4,0.0,15.0
+git,C/C++ Header,D:\clones\git\reftable\refname.h,8,6.0,15.0
+git,C/C++ Header,D:\clones\git\resolve-undo.h,4,0.0,15.0
+git,C/C++ Header,D:\clones\git\sideband.h,4,14.0,15.0
+git,C,D:\clones\git\t\helper\test-strcmp-offset.c,4,4.0,15.0
+git,Bourne Shell,D:\clones\git\t\perf\p4001-diff-no-index.sh,7,0.0,15.0
+git,Bourne Shell,D:\clones\git\t\t4033-diff-patience.sh,6,0.0,15.0
+git,Bourne Shell,D:\clones\git\t\t4110-apply-scan.sh,5,4.0,15.0
+git,diff,D:\clones\git\t\t4110\patch1.patch,0,2.0,15.0
+git,Bourne Shell,D:\clones\git\t\t5554-noop-fetch-negotiator.sh,7,0.0,15.0
+git,Bourne Shell,D:\clones\git\t\t7813-grep-icase-iso.sh,5,0.0,15.0
+git,Bourne Shell,D:\clones\git\t\t9135-git-svn-moved-branch-empty-file.sh,5,0.0,15.0
+git,C/C++ Header,D:\clones\git\unix-stream-server.h,6,12.0,15.0
+git,Perl,D:\clones\git\Documentation\fix-texi.perl,1,0.0,14.0
+git,Perl,D:\clones\git\compat\vcbuild\scripts\lib.pl,0,12.0,14.0
+git,C,D:\clones\git\fuzz-commit-graph.c,5,0.0,14.0
+git,Bourne Shell,D:\clones\git\generate-hooklist.sh,4,2.0,14.0
+git,C/C++ Header,D:\clones\git\reftable\reftable-iterator.h,9,16.0,14.0
+git,Bourne Shell,D:\clones\git\t\lib-terminal.sh,4,18.0,14.0
+git,Bourne Shell,D:\clones\git\t\t4256-am-format-flowed.sh,5,0.0,14.0
+git,Bourne Shell,D:\clones\git\t\t6438-submodule-directory-file-conflicts.sh,7,1.0,14.0
+git,Bourne Shell,D:\clones\git\t\t8001-annotate.sh,5,0.0,14.0
+git,C/C++ Header,D:\clones\git\tmp-objdir.h,13,56.0,14.0
+git,C,D:\clones\git\builtin\annotate.c,4,5.0,13.0
+git,C/C++ Header,D:\clones\git\chdir-notify.h,5,55.0,13.0
+git,C,D:\clones\git\compat\pread.c,5,0.0,13.0
+git,C/C++ Header,D:\clones\git\exec-cmd.h,3,0.0,13.0
+git,C/C++ Header,D:\clones\git\merge-ort-wrappers.h,4,8.0,13.0
+git,C/C++ Header,D:\clones\git\reftable\reftable-tests.h,4,6.0,13.0
+git,C/C++ Header,D:\clones\git\reftable\tree.h,7,14.0,13.0
+git,C,D:\clones\git\t\helper\test-advise.c,4,5.0,13.0
+git,C,D:\clones\git\t\helper\test-index-version.c,2,0.0,13.0
+git,diff,D:\clones\git\t\t4109\patch3.patch,5,13.0,13.0
+git,Bourne Shell,D:\clones\git\t\t5327-multi-pack-bitmaps-rev.sh,6,4.0,13.0
+git,Bourne Shell,D:\clones\git\t\t5814-proto-disable-ext.sh,5,0.0,13.0
+git,Bourne Shell,D:\clones\git\t\t7062-wtstatus-ignorecase.sh,4,3.0,13.0
+git,Bourne Shell,D:\clones\git\t\t9126-git-svn-follow-deleted-readded-directory.sh,6,3.0,13.0
+git,C/C++ Header,D:\clones\git\url.h,6,5.0,13.0
+git,C/C++ Header,D:\clones\git\block-sha1\sha1.h,3,7.0,12.0
+git,make,D:\clones\git\contrib\credential\osxkeychain\Makefile,5,0.0,12.0
+git,Markdown,D:\clones\git\contrib\vscode\README.md,2,0.0,12.0
+git,C/C++ Header,D:\clones\git\diff-merges.h,11,5.0,12.0
+git,C/C++ Header,D:\clones\git\protocol.h,5,17.0,12.0
+git,C,D:\clones\git\reftable\test_framework.c,5,6.0,12.0
+git,Bourne Shell,D:\clones\git\t\lib-bash.sh,2,5.0,12.0
+git,Bourne Shell,D:\clones\git\t\lib-pager.sh,2,1.0,12.0
+git,make,D:\clones\git\t\perf\Makefile,6,0.0,12.0
+git,diff,D:\clones\git\t\t4109\patch2.patch,5,13.0,12.0
+git,diff,D:\clones\git\t\t4109\patch4.patch,6,12.0,12.0
+git,Bourne Shell,D:\clones\git\t\t7519\fsmonitor-env,3,9.0,12.0
+git,XSLT,D:\clones\git\Documentation\manpage-quote-apos.xsl,2,3.0,11.0
+git,C,D:\clones\git\compat\strlcpy.c,2,0.0,11.0
+git,Bourne Shell,D:\clones\git\contrib\mw-to-git\t\t9364-pull-by-rev.sh,6,0.0,11.0
+git,JavaScript,D:\clones\git\gitweb\static\js\javascript-detection.js,6,26.0,11.0
+git,C/C++ Header,D:\clones\git\line-range.h,7,23.0,11.0
+git,C/C++ Header,D:\clones\git\rebase.h,3,0.0,11.0
+git,C/C++ Header,D:\clones\git\sparse-index.h,4,10.0,11.0
+git,C/C++ Header,D:\clones\git\streaming.h,4,4.0,11.0
+git,Perl,D:\clones\git\t\Git-SVN\00compile.t,3,0.0,11.0
+git,C,D:\clones\git\t\helper\test-pcre2-config.c,1,0.0,11.0
+git,make,D:\clones\git\t\interop\Makefile,5,0.0,11.0
+git,Bourne Shell,D:\clones\git\t\perf\p4205-log-pretty-formats.sh,5,0.0,11.0
+git,Bourne Shell,D:\clones\git\t\perf\p9300-fast-import-export.sh,5,7.0,11.0
+git,C,D:\clones\git\t\t4051\appended1.c,4,0.0,11.0
+git,Bourne Shell,D:\clones\git\t\t7112-reset-submodule.sh,9,0.0,11.0
+git,Bourne Shell,D:\clones\git\t\t7519\fsmonitor-all,3,9.0,11.0
+git,Bourne Shell,D:\clones\git\t\t7519\fsmonitor-none,2,9.0,11.0
+git,Bourne Shell,D:\clones\git\t\t9121-git-svn-fetch-renamed-dir.sh,7,2.0,11.0
+git,C/C++ Header,D:\clones\git\unix-socket.h,4,0.0,11.0
+git,C/C++ Header,D:\clones\git\upload-pack.h,4,0.0,11.0
+git,C/C++ Header,D:\clones\git\xdiff\xinclude.h,4,21.0,11.0
+git,C/C++ Header,D:\clones\git\blob.h,7,8.0,10.0
+git,Bourne Shell,D:\clones\git\ci\run-test-slice.sh,4,3.0,10.0
+git,Bourne Shell,D:\clones\git\contrib\remote-helpers\git-remote-bzr,1,0.0,10.0
+git,Bourne Shell,D:\clones\git\contrib\remote-helpers\git-remote-hg,1,0.0,10.0
+git,C,D:\clones\git\fuzz-pack-headers.c,4,0.0,10.0
+git,C/C++ Header,D:\clones\git\hash-lookup.h,3,19.0,10.0
+git,C/C++ Header,D:\clones\git\reftable\constants.h,5,6.0,10.0
+git,Bourne Shell,D:\clones\git\t\lib-httpd\broken-smart-http.sh,0,0.0,10.0
+git,Bourne Shell,D:\clones\git\t\lib-merge.sh,2,1.0,10.0
+git,C,D:\clones\git\t\t0200\test.c,6,7.0,10.0
+git,Bourne Shell,D:\clones\git\t\t1013-read-tree-submodule.sh,8,0.0,10.0
+git,C/C++ Header,D:\clones\git\wildmatch.h,3,0.0,10.0
+git,XSLT,D:\clones\git\Documentation\manpage-bold-literal.xsl,2,5.0,9.0
+git,C/C++ Header,D:\clones\git\bulk-checkin.h,4,3.0,9.0
+git,C,D:\clones\git\compat\strdup.c,2,0.0,9.0
+git,C,D:\clones\git\compat\strtoimax.c,1,0.0,9.0
+git,C,D:\clones\git\compat\strtoumax.c,1,0.0,9.0
+git,Perl,D:\clones\git\contrib\buildsystems\generate,1,19.0,9.0
+git,C,D:\clones\git\fuzz-pack-idx.c,4,0.0,9.0
+git,Perl,D:\clones\git\perl\Git\LoadCPAN\Error.pm,1,0.0,9.0
+git,Perl,D:\clones\git\perl\Git\LoadCPAN\Mail\Address.pm,1,0.0,9.0
+git,C/C++ Header,D:\clones\git\reachable.h,3,0.0,9.0
+git,C,D:\clones\git\t\helper\test-mktemp.c,3,3.0,9.0
+git,Bourne Shell,D:\clones\git\t\perf\p0002-read-cache.sh,5,0.0,9.0
+git,Perl,D:\clones\git\t\t7519\fsmonitor-all-v2,3,9.0,9.0
+git,C/C++ Header,D:\clones\git\trace2\tr2_cfg.h,6,12.0,9.0
+git,C/C++ Header,D:\clones\git\trace2\tr2_tbuf.h,4,11.0,9.0
+git,XSLT,D:\clones\git\Documentation\docbook.xsl,0,0.0,8.0
+git,C/C++ Header,D:\clones\git\alias.h,3,1.0,8.0
+git,C/C++ Header,D:\clones\git\commit-slab.h,4,54.0,8.0
+git,Bourne Shell,D:\clones\git\contrib\git-shell-commands\list,2,0.0,8.0
+git,Bourne Shell,D:\clones\git\contrib\mw-to-git\t\t9361-mw-to-git-push-pull.sh,6,10.0,8.0
+git,C/C++ Header,D:\clones\git\mailmap.h,4,0.0,8.0
+git,C/C++ Header,D:\clones\git\merge-blobs.h,3,0.0,8.0
+git,C/C++ Header,D:\clones\git\reftable\blocksource.h,7,7.0,8.0
+git,C/C++ Header,D:\clones\git\reftable\system.h,6,7.0,8.0
+git,C/C++ Header,D:\clones\git\sigchain.h,6,43.0,8.0
+git,C,D:\clones\git\t\helper\test-online-cpus.c,1,0.0,8.0
+git,Bourne Shell,D:\clones\git\t\perf\p1450-fsck.sh,5,0.0,8.0
+git,Bourne Shell,D:\clones\git\t\t0032-reftable-unittest.sh,4,3.0,8.0
+git,Bourne Shell,D:\clones\git\t\t0071-sort.sh,4,0.0,8.0
+git,Bourne Shell,D:\clones\git\t\t4050-diff-histogram.sh,5,0.0,8.0
+git,Bourne Shell,D:\clones\git\t\t9136-git-svn-recreated-branch-empty-file.sh,4,0.0,8.0
+git,C/C++ Header,D:\clones\git\xdiff\xemit.h,7,21.0,8.0
+git,C/C++ Header,D:\clones\git\checkout.h,3,5.0,7.0
+git,C,D:\clones\git\compat\mkdtemp.c,1,0.0,7.0
+git,C/C++ Header,D:\clones\git\compat\terminal.h,4,1.0,7.0
+git,Bourne Shell,D:\clones\git\contrib\mw-to-git\bin-wrapper\git,5,2.0,7.0
+git,C/C++ Header,D:\clones\git\ls-refs.h,2,0.0,7.0
+git,C/C++ Header,D:\clones\git\mergesort.h,2,8.0,7.0
+git,C/C++ Header,D:\clones\git\prompt.h,4,0.0,7.0
+git,Perl,D:\clones\git\t\t4034\perl\post,8,7.0,7.0
+git,Perl,D:\clones\git\t\t4034\perl\pre,8,7.0,7.0
+git,diff,D:\clones\git\t\t4100\t-apply-4.patch,0,0.0,7.0
+git,Bourne Shell,D:\clones\git\t\t5411\test-0010-proc-receive-settings.sh,0,0.0,7.0
+git,Bourne Shell,D:\clones\git\t\t9004-example.sh,3,0.0,7.0
+git,C/C++ Header,D:\clones\git\version.h,3,0.0,7.0
+git,Markdown,D:\clones\git\.github\PULL_REQUEST_TEMPLATE.md,1,0.0,6.0
+git,Bourne Shell,D:\clones\git\ci\config\allow-ref.sample,1,20.0,6.0
+git,C,D:\clones\git\compat\fileno.c,1,0.0,6.0
+git,Lisp,D:\clones\git\contrib\emacs\git-blame.el,0,0.0,6.0
+git,Lisp,D:\clones\git\contrib\emacs\git.el,0,0.0,6.0
+git,make,D:\clones\git\git-gui\po\glossary\Makefile,3,0.0,6.0
+git,C/C++ Header,D:\clones\git\levenshtein.h,2,0.0,6.0
+git,C/C++ Header,D:\clones\git\linear-assignment.h,3,13.0,6.0
+git,C/C++ Header,D:\clones\git\protocol-caps.h,2,0.0,6.0
+git,C/C++ Header,D:\clones\git\prune-packed.h,3,0.0,6.0
+git,C/C++ Header,D:\clones\git\reftable\reftable-malloc.h,5,7.0,6.0
+git,Perl,D:\clones\git\t\Git-SVN\Utils\can_compress.t,4,1.0,6.0
+git,C,D:\clones\git\t\helper\test-sha1.c,1,0.0,6.0
+git,C,D:\clones\git\t\helper\test-sha256.c,1,0.0,6.0
+git,Bourne Shell,D:\clones\git\t\lib-httpd\error-no-report.sh,0,0.0,6.0
+git,Bourne Shell,D:\clones\git\t\lib-midx.sh,1,1.0,6.0
+git,diff,D:\clones\git\t\t4100\t-apply-8.patch,1,4.0,6.0
+git,diff,D:\clones\git\t\t4100\t-apply-9.patch,1,4.0,6.0
+git,diff,D:\clones\git\t\t4110\patch2.patch,0,5.0,6.0
+git,diff,D:\clones\git\t\t4110\patch3.patch,0,8.0,6.0
+git,diff,D:\clones\git\t\t4110\patch4.patch,0,5.0,6.0
+git,diff,D:\clones\git\t\t4110\patch5.patch,0,5.0,6.0
+git,Bourne Shell,D:\clones\git\t\t7500\add-whitespaced-content,2,0.0,6.0
+git,Bourne Shell,D:\clones\git\templates\hooks--commit-msg.sample,3,15.0,6.0
+git,C/C++ Header,D:\clones\git\trace2\tr2_cmd_name.h,4,14.0,6.0
+git,C/C++ Header,D:\clones\git\trace2\tr2_sid.h,4,8.0,6.0
+git,C/C++ Header,D:\clones\git\xdiff\xprepare.h,7,21.0,6.0
+git,Bourne Shell,D:\clones\git\ci\make-test-artifacts.sh,4,3.0,5.0
+git,C,D:\clones\git\compat\msvc.c,1,0.0,5.0
+git,C,D:\clones\git\compat\stub\procinfo.c,2,4.0,5.0
+git,C/C++ Header,D:\clones\git\environment.h,3,4.0,5.0
+git,C/C++ Header,D:\clones\git\negotiator\default.h,3,0.0,5.0
+git,C/C++ Header,D:\clones\git\negotiator\noop.h,3,0.0,5.0
+git,C/C++ Header,D:\clones\git\negotiator\skipping.h,3,0.0,5.0
+git,C/C++ Header,D:\clones\git\serve.h,2,0.0,5.0
+git,C,D:\clones\git\t\t4051\dummy.c,2,0.0,5.0
+git,diff,D:\clones\git\t\t4135\git-plain.diff,0,2.0,5.0
+git,diff,D:\clones\git\t\t4135\git-with backslash.diff,0,2.0,5.0
+git,diff,D:\clones\git\t\t4135\git-with quote.diff,0,2.0,5.0
+git,diff,D:\clones\git\t\t4135\git-with spaces.diff,0,2.0,5.0
+git,diff,D:\clones\git\t\t4135\git-with tab.diff,0,2.0,5.0
+git,Bourne Shell,D:\clones\git\templates\hooks--applypatch-msg.sample,1,9.0,5.0
+git,Bourne Shell,D:\clones\git\templates\hooks--pre-applypatch.sample,1,8.0,5.0
+git,Bourne Shell,D:\clones\git\templates\hooks--pre-merge-commit.sample,1,7.0,5.0
+git,Bourne Shell,D:\clones\git\templates\hooks--prepare-commit-msg.sample,5,32.0,5.0
+git,C/C++ Header,D:\clones\git\varint.h,2,0.0,5.0
+git,Bourne Again Shell,D:\clones\git\ci\check-directional-formatting.bash,3,20.0,4.0
+git,Perl,D:\clones\git\contrib\diff-highlight\diff-highlight.perl,2,2.0,4.0
+git,Perl,D:\clones\git\t\t0200\test.perl,4,6.0,4.0
+git,Bourne Shell,D:\clones\git\t\t0200\test.sh,4,6.0,4.0
+git,Bourne Shell,D:\clones\git\t\t7500\add-comments,0,0.0,4.0
+git,Bourne Shell,D:\clones\git\t\t7500\add-content-and-comment,1,0.0,4.0
+git,Bourne Shell,D:\clones\git\t\t7500\edit-content,0,0.0,4.0
+git,XSLT,D:\clones\git\Documentation\manpage.xsl,0,0.0,3.0
+git,Bourne Shell,D:\clones\git\t\lib-httpd\error-smart-http.sh,0,0.0,3.0
+git,Bourne Shell,D:\clones\git\t\lib-httpd\incomplete-body-upload-pack-v2-http.sh,0,0.0,3.0
+git,Bourne Shell,D:\clones\git\t\lib-httpd\incomplete-length-upload-pack-v2-http.sh,0,0.0,3.0
+git,C,D:\clones\git\t\t4051\appended2.c,2,30.0,3.0
+git,diff,D:\clones\git\t\t4135\add-plain.diff,0,2.0,3.0
+git,diff,D:\clones\git\t\t4135\add-with backslash.diff,0,2.0,3.0
+git,diff,D:\clones\git\t\t4135\add-with quote.diff,0,2.0,3.0
+git,diff,D:\clones\git\t\t4135\add-with spaces.diff,0,2.0,3.0
+git,diff,D:\clones\git\t\t4135\add-with tab.diff,0,2.0,3.0
+git,diff,D:\clones\git\t\t4135\damaged-tz.diff,0,2.0,3.0
+git,diff,D:\clones\git\t\t4135\damaged.diff,0,2.0,3.0
+git,diff,D:\clones\git\t\t4135\diff-plain.diff,0,2.0,3.0
+git,diff,D:\clones\git\t\t4135\diff-with backslash.diff,0,2.0,3.0
+git,diff,D:\clones\git\t\t4135\diff-with quote.diff,0,2.0,3.0
+git,diff,D:\clones\git\t\t4135\diff-with spaces.diff,0,2.0,3.0
+git,diff,D:\clones\git\t\t4135\diff-with tab.diff,0,2.0,3.0
+git,diff,D:\clones\git\t\t4135\funny-tz.diff,0,2.0,3.0
+git,Bourne Shell,D:\clones\git\t\t7500\add-content,0,0.0,3.0
+git,Bourne Shell,D:\clones\git\t\t7500\add-signed-off,0,0.0,3.0
+git,Bourne Shell,D:\clones\git\unimplemented.sh,1,0.0,3.0
+git,Bourne Shell,D:\clones\git\contrib\credential\netrc\test.command-option-gpg,0,0.0,2.0
+git,Bourne Shell,D:\clones\git\contrib\credential\netrc\test.git-config-gpg,0,0.0,2.0
+git,Bourne Shell,D:\clones\git\templates\hooks--post-update.sample,1,5.0,2.0
+git,C/C++ Header,D:\clones\git\compat\sha1-chunked.h,1,0.0,1.0
+git,C/C++ Header,D:\clones\git\compat\vcbuild\include\utime.h,0,0.0,1.0
+git,C/C++ Header,D:\clones\git\compat\win32\alloca.h,0,0.0,1.0
+git,Perl,D:\clones\git\perl\header_templates\fixed_prefix.template.pl,0,0.0,1.0
+git,C/C++ Header,D:\clones\git\compat\vcbuild\include\sys\time.h,0,1.0,0.0

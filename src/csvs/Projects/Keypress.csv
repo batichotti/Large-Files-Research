@@ -1,0 +1,17 @@
+project,language,filename,blank,comment,code
+Keypress,JavaScript,D:\clones\Keypress\keypress.js,77,33.0,1045.0
+Keypress,CoffeeScript,D:\clones\Keypress\test\tests.coffee,105,0.0,823.0
+Keypress,CoffeeScript,D:\clones\Keypress\keypress.coffee,124,148.0,667.0
+Keypress,Markdown,D:\clones\Keypress\README.md,37,0.0,67.0
+Keypress,Bourne Shell,D:\clones\Keypress\meteor\publish.sh,19,13.0,44.0
+Keypress,HTML,D:\clones\Keypress\test\run_tests.html,12,2.0,34.0
+Keypress,JavaScript,D:\clones\Keypress\keypress-2.1.5.min.js,0,5.0,28.0
+Keypress,JSON,D:\clones\Keypress\bower.json,0,0.0,27.0
+Keypress,JavaScript,D:\clones\Keypress\meteor\package.js,6,1.0,24.0
+Keypress,Markdown,D:\clones\Keypress\meteor\README.md,17,0.0,19.0
+Keypress,JSON,D:\clones\Keypress\package.json,0,0.0,19.0
+Keypress,Bourne Shell,D:\clones\Keypress\meteor\runtests.sh,12,7.0,18.0
+Keypress,JavaScript,D:\clones\Keypress\meteor\test.js,1,0.0,8.0
+Keypress,Bourne Shell,D:\clones\Keypress\coffee-compiler.sh,0,0.0,7.0
+Keypress,Bourne Shell,D:\clones\Keypress\test\run_tests.sh,0,0.0,6.0
+Keypress,JavaScript,D:\clones\Keypress\meteor\export.js,0,1.0,2.0

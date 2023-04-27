@@ -1,0 +1,316 @@
+project,language,filename,blank,comment,code
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Demo\DemoApp.storyboard,0,17.0,4584.0
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Presentations\Presentations.storyboard,0,7.0,1105.0
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\UserInterfaces\UserInterface.storyboard,0,7.0,886.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Animatable\Animatable.swift,89,45.0,743.0
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Transitions\Transitions.storyboard,0,8.0,581.0
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\UserInterfaces\Gradients\UserInterfaceGradients.storyboard,0,4.0,558.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Enums\GradientType.swift,4,5.0,526.0
+IBAnimatable,Markdown,D:\clones\IBAnimatable\CHANGELOG.md,165,0.0,379.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Extensions\UIBezierPathExtension.swift,100,94.0,365.0
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Playground.storyboard,0,9.0,336.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Enums\TransitionAnimationType.swift,25,32.0,334.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Enums\Udra.swift,78,20.0,315.0
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Refresh Control\RefreshControl.storyboard,0,3.0,311.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Enums\TimingFunctionType.swift,46,23.0,307.0
+IBAnimatable,Markdown,D:\clones\IBAnimatable\Documentation\IBAnimatable 3.0 Migration Guide.md,80,0.0,294.0
+IBAnimatable,Markdown,D:\clones\IBAnimatable\Documentation\Transitions.md,145,0.0,259.0
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Transitions\TransitionsInInterfaceBuilder.storyboard,0,5.0,250.0
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Interactions\Interactions.storyboard,0,6.0,244.0
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Animations\Animations.storyboard,0,2.0,243.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Common\ActivityIndicatorShape.swift,39,8.0,236.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Presentations\PresentingViewController.swift,53,17.0,228.0
+IBAnimatable,Markdown,D:\clones\IBAnimatable\Documentation\APIs.md,51,0.0,225.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Animations\AnimationsTimingFunctionViewController.swift,34,5.0,221.0
+IBAnimatable,Markdown,D:\clones\IBAnimatable\Documentation\Roadmap.md,41,0.0,205.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Views\AnimatableView.swift,31,17.0,200.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Views\AnimatableImageView.swift,30,17.0,199.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Views\AnimatableScrollView.swift,30,17.0,198.0
+IBAnimatable,Markdown,D:\clones\IBAnimatable\README.md,85,0.0,194.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Views\AnimatableTextField.swift,39,14.0,187.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\TransitionAnimator\FoldAnimator.swift,40,12.0,182.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Controllers\AnimatablePresentationController.swift,51,15.0,181.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Transitions\TransitionTableViewController.swift,71,11.0,180.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Enums\AnimationType.swift,20,7.0,180.0
+IBAnimatable,Markdown,D:\clones\IBAnimatable\Documentation\Presentations.md,104,0.0,179.0
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\ActivityIndicators\ActivityIndicators.storyboard,0,2.0,178.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Views\AnimatableStackView.swift,28,17.0,172.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Views\AnimatableCheckBox.swift,30,15.0,169.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Views\AnimatableCollectionViewCell.swift,28,15.0,162.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Views\AnimatableTableView.swift,22,13.0,161.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Enums\MaskType.swift,17,32.0,160.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\UserInterfaces\Mask\MaskViewController.swift,16,10.0,155.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\TransitionAnimator\FlipAnimator.swift,41,12.0,154.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Views\AnimatableTextView.swift,29,13.0,154.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Controllers\AnimatableModalViewController.swift,26,9.0,153.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Others\ConicalGradientLayer.swift,41,12.0,153.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Others\IB.swift,39,17.0,152.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\TransitionAnimator\NatGeoAnimator.swift,38,10.0,150.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Animations\AnimationsViewController.swift,22,6.0,146.0
+IBAnimatable,Markdown,D:\clones\IBAnimatable\Documentation\ActivityIndicators.md,95,0.0,145.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Views\AnimatableButton.swift,26,13.0,141.0
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Main.storyboard,0,3.0,140.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationOrbit.swift,32,10.0,139.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Views\AnimatableTableViewCell.swift,22,13.0,138.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Enums\Utils.swift,22,13.0,135.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Views\AnimatableSlider.swift,25,11.0,126.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\TransitionAnimator\PortalAnimator.swift,30,9.0,125.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Views\AnimatableLabel.swift,20,11.0,113.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\GradientDesignable.swift,36,9.0,111.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\AppIcon.appiconset\Contents.json,0,0.0,110.0
+IBAnimatable,Markdown,D:\clones\IBAnimatable\Documentation\README.zh.md,52,0.0,108.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\TransitionAnimator\CardsAnimator.swift,32,9.0,107.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\BorderDesignable.swift,21,21.0,105.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Enums\GradientStartPoint.swift,8,4.0,103.0
+IBAnimatable,Markdown,D:\clones\IBAnimatable\Documentation\IBAnimatable 4.0 Migration Guide.md,31,0.0,99.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Enums\PresentationModalSize.swift,10,4.0,99.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Common\ActivityIndicatorFactory.swift,5,4.0,97.0
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatable\IBAnimatable.xcodeproj\xcshareddata\xcschemes\IBAnimatable.xcscheme,0,0.0,96.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\TestProtocols\FillDesignableTests.swift,22,10.0,92.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationPacman.swift,22,8.0,92.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\ShadowDesignable.swift,26,30.0,90.0
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp.xcodeproj\xcshareddata\xcschemes\IBAnimatableApp.xcscheme,0,0.0,87.0
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\UserInterfaces\Mask\UserInterfaceMask.storyboard,0,1.0,86.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Transitions\TransitionPresentedViewController.swift,28,13.0,85.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\Common\Navigator.swift,17,18.0,85.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationBallPulseRise.swift,21,8.0,83.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Controllers\AnimatableTabBarController.swift,15,16.0,81.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Animations\Views\TimingFunctionView.swift,18,7.0,80.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\UserInterfaces\Gradients\GradientViewController.swift,15,4.0,80.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Common\_SwiftSupport.swift,18,8.0,80.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\TransitionAnimator\ExplodeAnimator.swift,20,6.0,79.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Utils\ParamType.swift,15,9.0,78.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\Common\ContainerTransition.swift,27,9.0,78.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Controllers\AnimatableTableViewController.swift,18,12.0,78.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\PresentationDesignable.swift,29,25.0,76.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationCircleDashStrokeSpin.swift,22,10.0,75.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\InteractiveAnimator\ScreenEdgePanInteractiveAnimator.swift,7,5.0,75.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\UserInterfaces\BorderViewController.swift,18,8.0,74.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\Common\TransitionPresenter.swift,14,16.0,74.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\BlurDesignable.swift,26,24.0,73.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\TestProtocols\CornerDesignableTests.swift,22,11.0,72.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Enums\ColorType.swift,4,4.0,72.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationCirclePendulum.swift,17,9.0,71.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\PresentationAnimator\DropDownAnimator.swift,20,9.0,71.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationBallClipRotatePulse.swift,19,8.0,70.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\TransitionAnimator\SystemTransitionAnimator.swift,20,8.0,70.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Others\AnimationChainable.swift,13,5.0,70.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\InteractiveAnimator\InteractiveAnimator.swift,13,12.0,69.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Enums\PresentationModalPosition.swift,12,8.0,69.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Scripts\GradientsTypeScript.swift,12,6.0,68.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationBallClipRotateMultiple.swift,17,11.0,65.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationCubeTransition.swift,16,7.0,65.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\PresentationAnimator\ZoomAnimator.swift,17,8.0,65.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\PresentationAnimator\CoverAnimator.swift,20,10.0,64.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\TransitionAnimator\SlideAnimator.swift,10,7.0,62.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationBallTrianglePath.swift,16,7.0,61.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\Common\AnimatorFactory.swift,3,7.0,61.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\TransitionAnimator\TurnAnimator.swift,16,9.0,61.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\SideImageDesignable.swift,19,32.0,61.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Refresh Control\RefreshControlTableViewViewController.swift,21,12.0,60.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationRupee.swift,15,11.0,60.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\TestProtocols\SliderImagesDesignableTests.swift,15,8.0,59.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationBallSpinFadeLoader.swift,18,8.0,59.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\TransitionAnimator\FadeAnimator.swift,11,6.0,58.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Controllers\AnimatableViewController.swift,16,11.0,58.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationLineSpinFadeLoader.swift,14,7.0,57.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\Common\PresentationPresenter.swift,13,8.0,55.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Enums\PresentationAnimationType.swift,8,7.0,55.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\FillDesignable.swift,16,9.0,55.0
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Info.plist,0,0.0,53.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationBallRotate.swift,16,8.0,53.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\InteractiveAnimator\PanInteractiveAnimator.swift,7,6.0,53.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\InteractiveAnimator\PinchInteractiveAnimator.swift,10,6.0,53.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\TestProtocols\PaddingDesignableTests.swift,22,10.0,52.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Controllers\AnimatableNavigationController.swift,7,8.0,52.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Enums\InteractiveGestureType.swift,7,11.0,52.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\CornerDesignable.swift,20,15.0,52.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Interactions\ContainerTransitionViewController.swift,21,8.0,51.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Scripts\FlatColorsTypeScript.swift,11,6.0,51.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationBallGridPulse.swift,14,8.0,51.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationNewtonCradle.swift,15,9.0,51.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationCircleStrokeSpin.swift,15,10.0,49.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Enums\CornerSide.swift,14,7.0,49.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\UserInterfaces\Gradients\GradientCustomStartPointViewController.swift,9,7.0,48.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationBallBeat.swift,14,8.0,48.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\PlaceholderDesignable.swift,12,7.0,48.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationBallScaleRippleMultiple.swift,14,7.0,47.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Enums\ActivityIndicatorType.swift,3,5.0,47.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationBallRotateChase.swift,11,7.0,46.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationBallScaleMultiple.swift,14,7.0,46.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Enums\BorderSide.swift,13,4.0,46.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\ViewTests\AnimatableTextFieldTests.swift,24,10.0,45.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Views\DesignableNavigationBar.swift,10,8.0,44.0
+IBAnimatable,YAML,D:\clones\IBAnimatable\.swiftlint.yml,0,1.0,43.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\UserInterfaces\BlurEffectViewController.swift,9,5.0,43.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationAudioEqualizer.swift,14,8.0,43.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationSquareSpin.swift,13,7.0,42.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationTriforce.swift,11,10.0,42.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\InternalTests\AnimatableTypeTests.swift,13,12.0,41.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationBallPulseSync.swift,14,8.0,41.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationBallScaleRipple.swift,13,7.0,41.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationBallZigZagDeflect.swift,14,9.0,41.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationTripleGear.swift,15,10.0,41.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationTriangleSkewSpin.swift,13,7.0,40.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\InternalTests\ColorTypeTests.swift,8,14.0,39.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\ViewTests\AnimatableImageViewTests.swift,22,10.0,39.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\ViewTests\AnimatableLabelTests.swift,22,10.0,39.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\ViewTests\AnimatableScrollViewTests.swift,22,10.0,39.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\ViewTests\AnimatableViewTests.swift,22,10.0,39.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationBallGridBeat.swift,12,8.0,39.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationBallZigZag.swift,13,9.0,39.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Enums\IBEnum.swift,6,13.0,39.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\TransitionAnimatable\AnimatedTransitioning.swift,6,16.0,39.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationBallScale.swift,12,7.0,38.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Enums\BorderType.swift,7,7.0,38.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable.playground\Sources\common.swift,9,4.0,37.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\ViewTests\AnimatableSliderTests.swift,19,9.0,37.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\ActivityIndicators\ActivityIndicatorCollectionViewController.swift,8,11.0,37.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Refresh Control\RefreshControlTableViewController.swift,15,11.0,37.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationBallClipRotate.swift,15,8.0,37.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationBallPulse.swift,10,7.0,37.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\RefreshControlerDesignable.swift,14,13.0,37.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\ViewTests\AnimatableStackViewTests.swift,22,13.0,36.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\ActivityIndicators\ActivityIndicatorViewController.swift,15,7.0,36.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationLineScalePulseOut.swift,14,8.0,36.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationLineScalePulseOutRapid.swift,11,7.0,36.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\MaskDesignable.swift,14,33.0,36.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\ViewTests\AnimatableButtonTests.swift,18,9.0,34.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\ViewTests\AnimatableCheckBoxTests.swift,18,9.0,34.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\ViewTests\AnimatableCollectionViewCellTests.swift,18,9.0,34.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\ViewTests\AnimatableTableViewCellTests.swift,18,9.0,34.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\ViewTests\AnimatableTextViewTests.swift,18,9.0,34.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Views\AnimatableBarButtonItem.swift,7,14.0,34.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationLineScale.swift,13,7.0,33.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationLineScaleParty.swift,11,8.0,33.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\ActivityIndicator\ActivityIndicatorAnimatable.swift,11,11.0,33.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Views\AnimatableTabBarItem.swift,7,7.0,33.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\UserInterfaces\Gradients\PredefinedGradientCollectionViewController.swift,7,11.0,32.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\BackgroundImageDesignable.swift,13,13.0,32.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\TintDesignable.swift,9,19.0,32.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Enums\BlurEffectStyle.swift,3,6.0,31.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Others\RadialGradientLayer.swift,7,7.0,31.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Transitions\TransitionPushedViewController.swift,12,6.0,29.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\UserInterfaces\CornerViewController.swift,8,7.0,29.0
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Base.lproj\LaunchScreen.storyboard,0,1.0,29.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\PaddingDesignable.swift,12,13.0,29.0
+IBAnimatable,YAML,D:\clones\IBAnimatable\.travis.yml,5,3.0,28.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationSemiCircleSpin.swift,10,7.0,27.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Enums\PresentationKeyboardTranslation.swift,4,4.0,27.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\ViewTests\AnimatableTableViewTests.swift,13,8.0,26.0
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatable\Supporting Files\Info.plist,0,0.0,26.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\AppDelegate.swift,11,13.0,26.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\SliderImagesDesignable.swift,14,23.0,26.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationGear.swift,11,10.0,25.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\ActivityIndicators\Animations\ActivityIndicatorAnimationHeartBeat.swift,11,10.0,25.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\UserInterfaces\Gradients\UserInterfaceGradientsTableViewController.swift,4,7.0,24.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Utils\UIViewControllerExtension.swift,7,7.0,24.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\CheckBoxDesignable.swift,7,4.0,24.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\InternalTests\BorderTypeTests.swift,6,7.0,23.0
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\Supporting\Info.plist,0,0.0,22.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\avatar\avatar1.imageset\Contents.json,0,0.0,22.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\avatar\avatar2.imageset\Contents.json,0,0.0,22.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\avatar\avatar3.imageset\Contents.json,0,0.0,22.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\avatar\jakelin-small.imageset\Contents.json,0,0.0,22.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\logo.imageset\Contents.json,0,0.0,22.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\TransitionAnimatable\ViewControllerAnimatedTransitioning.swift,6,7.0,22.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\avatar\jakelin.imageset\Contents.json,0,0.0,21.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\background\auto-bg.imageset\Contents.json,0,0.0,21.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\background\calendar-bg.imageset\Contents.json,0,0.0,21.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\background\food-bg.imageset\Contents.json,0,0.0,21.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\background\home-bg.imageset\Contents.json,0,0.0,21.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\background\login-bg.imageset\Contents.json,0,0.0,21.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\background\overview-bg.imageset\Contents.json,0,0.0,21.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\background\profile-bg.imageset\Contents.json,0,0.0,21.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\background\timeline-bg.imageset\Contents.json,0,0.0,21.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\background\walkthrough-bg.imageset\Contents.json,0,0.0,21.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\background\work-bg.imageset\Contents.json,0,0.0,21.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\slider-colors.imageset\Contents.json,0,0.0,21.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\Common\TransitionPresenterManager.swift,7,13.0,21.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Extensions\UIColorExtension.swift,4,4.0,20.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable.playground\Pages\Animation Properties.xcplaygroundpage\Contents.swift,12,11.0,19.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Utils\Functions.swift,2,6.0,19.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Package.swift,1,1.0,19.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\TableViewCellDesignable.swift,4,4.0,19.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable.playground\Pages\Chaining Animations.xcplaygroundpage\Contents.swift,7,7.0,18.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\TestProtocols\RotationDesignableTests.swift,10,8.0,18.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Transitions\TransitionViewController.swift,7,7.0,18.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\Common\PresentationPresenterManager.swift,7,7.0,18.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\MockProtocols\StringFillDesignable.swift,7,9.0,17.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Controllers\PresentationBackgroundView.swift,6,7.0,17.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\RotationDesignable.swift,6,9.0,17.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Views\AnimatableActivityIndicatorView.swift,3,8.0,17.0
+IBAnimatable,YAML,D:\clones\IBAnimatable\.github\workflows\build.yml,0,0.0,16.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable\IBAnimatableTests\MockProtocols\StringCornerDesignable.swift,7,9.0,16.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Extensions\CALayerExtension.swift,3,4.0,16.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\NavigationBarDesginable.swift,3,10.0,16.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Animators\Common\InteractiveAnimatorFactory.swift,1,7.0,15.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\BarButtonItemDesignable.swift,4,4.0,15.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\RootWindowDesignable.swift,7,7.0,15.0
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatable.xcworkspace\contents.xcworkspacedata,0,0.0,13.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Extensions\UIViewControllerExtension.swift,5,5.0,13.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Segues\PresentOverCurrentContextSegue.swift,2,7.0,13.0
+IBAnimatable,Ruby,D:\clones\IBAnimatable\IBAnimatable.podspec,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\add-photo.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\add.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\attention.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\back.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\birthday.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\calendar.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\checked.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\done.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\email.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\filter.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\gender.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\groups.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\home.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\left.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\lists.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\logout.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\menu.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\more.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\overview.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\password.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\playground.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\profile.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\right.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\settings.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\timeline.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\unchecked.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\username.imageset\Contents.json,0,0.0,12.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Enums\TransitionType.swift,4,4.0,12.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\ViewControllerDesignable.swift,4,4.0,12.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Interactions\InteractionTableViewController.swift,6,6.0,11.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\Presentations\PresentedViewController.swift,6,4.0,11.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatable.playground\Pages\Predefined Animations.xcplaygroundpage\Contents.swift,16,58.0,9.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Enums\GradientMode.swift,3,7.0,9.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\TransitionAnimatable\AnimatedPresenting.swift,4,4.0,9.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Segues\PresentFadeWithDismissInteractionSegue.swift,2,4.0,9.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Segues\PresentPortalWithDismissInteractionSegue.swift,2,4.0,9.0
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatable.playground\contents.xcplayground,0,0.0,8.0
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatable.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist,0,0.0,8.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Segues\PresentExplodeSegue.swift,2,4.0,8.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Segues\PresentFlipWithDismissInteractionSegue.swift,2,4.0,8.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Segues\PresentFoldWithDismissInteractionSegue.swift,2,4.0,8.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Segues\PresentPortalSegue.swift,2,4.0,8.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Segues\PresentSlideWithDismissInteractionSegue.swift,2,4.0,8.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Segues\PresentTurnWithDismissInteractionSegue.swift,2,4.0,8.0
+IBAnimatable,XML,D:\clones\IBAnimatable\IBAnimatable.playground\playground.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Segues\PresentCardsSegue.swift,2,4.0,7.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Segues\PresentFadeSegue.swift,2,4.0,7.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Segues\PresentFlipSegue.swift,2,4.0,7.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Segues\PresentFoldSegue.swift,3,4.0,7.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Segues\PresentNatGeoSegue.swift,2,4.0,7.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Segues\PresentSlideSegue.swift,2,4.0,7.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Segues\PresentTurnSegue.swift,2,4.0,7.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\UserInterfaces\UserInterfaceTableViewController.swift,5,7.0,6.0
+IBAnimatable,JSON,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Supporting Files\Assets.xcassets\icon\Contents.json,0,0.0,6.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\TransitionAnimatable\TransitionAnimatable.swift,4,14.0,6.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Segues\DismissSegue.swift,2,4.0,6.0
+IBAnimatable,Markdown,D:\clones\IBAnimatable\IBAnimatableApp\IBAnimatableApp\Playground\README.md,2,0.0,4.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Common\Typealias.swift,2,4.0,4.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\ActivityIndicator\ActivityIndicatorAnimating.swift,4,11.0,4.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Protocols\Designable\StatusBarDesignable.swift,2,4.0,4.0
+IBAnimatable,C/C++ Header,D:\clones\IBAnimatable\IBAnimatable\Supporting Files\IBAnimatable.h,6,10.0,3.0
+IBAnimatable,Swift,D:\clones\IBAnimatable\Sources\Common\Constants.swift,2,6.0,3.0
+IBAnimatable,Bourne Shell,D:\clones\IBAnimatable\buddybuild_postclone.sh,0,0.0,2.0

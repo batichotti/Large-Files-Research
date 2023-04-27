@@ -1,0 +1,310 @@
+project,language,filename,blank,comment,code
+SDWebImage,Markdown,D:\clones\SDWebImage\CHANGELOG.md,403,0.0,1204.0
+SDWebImage,HTML,D:\clones\SDWebImage\Docs\API-Diff\5.0\apidiff.html,210,0.0,1165.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDImageCache.m,121,47.0,776.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Tests\Tests\SDImageCacheTests.m,117,63.0,750.0
+SDWebImage,XML,D:\clones\SDWebImage\Examples\SDWebImage OSX Demo\Base.lproj\Main.storyboard,0,3.0,726.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Tests\Tests\SDAnimatedImageTest.m,140,42.0,663.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\UIImage+Transform.m,62,53.0,596.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageManager.m,74,70.0,573.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDImageCoderHelper.m,68,78.0,550.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDImageIOAnimatedCoder.m,75,41.0,547.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageDownloader.m,88,49.0,500.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Tests\Tests\SDWebImageDownloaderTests.m,116,210.0,497.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageDownloaderOperation.m,75,57.0,486.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDImageCachesManager.m,32,41.0,483.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Private\SDmetamacros.h,99,133.0,435.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Tests\Tests\SDWebCacheCategoriesTests.m,76,45.0,420.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDAnimatedImageView.m,74,47.0,415.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Tests\Tests\SDImageCoderTests.m,52,41.0,381.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\UIView+WebCache.m,37,34.0,371.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Tests\Tests\SDImageTransformerTests.m,65,35.0,351.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDAnimatedImage.m,54,12.0,326.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Tests\Tests\SDWebImageManagerTests.m,68,33.0,324.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDAnimatedImagePlayer.m,54,42.0,310.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDWebImagePrefetcher.m,37,13.0,255.0
+SDWebImage,Markdown,D:\clones\SDWebImage\README.md,101,0.0,251.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Tests\Tests\SDWebImageTestCache.m,35,8.0,251.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDDiskCache.m,51,42.0,233.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDImageIOCoder.m,35,24.0,233.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDImageTransformer.m,88,12.0,231.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDGraphicsImageRenderer.m,19,9.0,228.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageIndicator.m,39,10.0,225.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Private\SDDisplayLink.m,19,10.0,198.0
+SDWebImage,Markdown,D:\clones\SDWebImage\Docs\SDWebImage-5.0-Migration-guide.md,99,0.0,185.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\UIButton+WebCache.m,48,7.0,179.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDImageLoader.m,18,23.0,169.0
+SDWebImage,Markdown,D:\clones\SDWebImage\Docs\SDWebImage-4.0-Migration-guide.md,32,0.0,166.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageTransition.m,25,7.0,162.0
+SDWebImage,YAML,D:\clones\SDWebImage\.github\workflows\CI.yml,33,0.0,159.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\UIImage+Metadata.m,21,12.0,156.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Tests\Tests\SDWebImagePrefetcherTests.m,32,15.0,144.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Tests\Tests\SDUtilsTests.m,23,11.0,136.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Private\SDImageAssetManager.m,17,15.0,132.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\NSData+ImageContentType.m,8,15.0,130.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\NSButton+WebCache.m,36,7.0,129.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDMemoryCache.m,20,15.0,123.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageDefine.m,11,14.0,121.0
+SDWebImage,XML,D:\clones\SDWebImage\Examples\SDWebImage Demo.xcodeproj\xcshareddata\xcschemes\SDWebImage Watch Demo.xcscheme,0,0.0,120.0
+SDWebImage,Markdown,D:\clones\SDWebImage\Docs\HowToUse.md,35,0.0,116.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Examples\SDWebImage Demo\MasterViewController.m,25,10.0,105.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDImageCodersManager.m,18,8.0,104.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDImageGraphics.m,10,15.0,102.0
+SDWebImage,JSON,D:\clones\SDWebImage\Examples\SDWebImage Demo\Assets.xcassets\AppIcon.appiconset\Contents.json,0,0.0,98.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\NSImage+Compatibility.m,13,10.0,97.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDImageLoadersManager.m,18,8.0,97.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDAnimatedImageRep.m,11,26.0,96.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Private\SDFileAttributeHelper.m,15,16.0,96.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Private\SDInternalMacros.h,19,7.0,96.0
+SDWebImage,XML,D:\clones\SDWebImage\Tests\SDWebImage Tests.xcodeproj\xcshareddata\xcschemes\Tests Mac.xcscheme,0,0.0,96.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\UIButton+WebCache.h,33,261.0,93.0
+SDWebImage,XML,D:\clones\SDWebImage\Examples\SDWebImage Demo.xcodeproj\xcshareddata\xcschemes\SDWebImage OSX Demo.xcscheme,0,0.0,91.0
+SDWebImage,XML,D:\clones\SDWebImage\Examples\SDWebImage Demo.xcodeproj\xcshareddata\xcschemes\SDWebImage TV Demo.xcscheme,0,0.0,91.0
+SDWebImage,XML,D:\clones\SDWebImage\Examples\SDWebImage Demo.xcodeproj\xcshareddata\xcschemes\SDWebImage iOS Demo.xcscheme,0,0.0,91.0
+SDWebImage,Markdown,D:\clones\SDWebImage\Docs\ManualInstallation.md,66,0.0,88.0
+SDWebImage,CSS,D:\clones\SDWebImage\Docs\API-Diff\5.0\apidiff.css,18,0.0,85.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDImageCache.h,58,281.0,83.0
+SDWebImage,JSON,D:\clones\SDWebImage\Examples\SDWebImage Watch Demo\Assets.xcassets\AppIcon.appiconset\Contents.json,0,0.0,81.0
+SDWebImage,XML,D:\clones\SDWebImage\SDWebImage.xcodeproj\xcshareddata\xcschemes\SDWebImageMapKit.xcscheme,0,0.0,80.0
+SDWebImage,XML,D:\clones\SDWebImage\Tests\SDWebImage Tests.xcodeproj\xcshareddata\xcschemes\Tests TV.xcscheme,0,0.0,78.0
+SDWebImage,XML,D:\clones\SDWebImage\Tests\SDWebImage Tests.xcodeproj\xcshareddata\xcschemes\Tests iOS.xcscheme,0,0.0,78.0
+SDWebImage,XML,D:\clones\SDWebImage\SDWebImage.xcodeproj\xcshareddata\xcschemes\SDWebImage.xcscheme,0,0.0,76.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\NSButton+WebCache.h,31,236.0,73.0
+SDWebImage,XML,D:\clones\SDWebImage\SDWebImage.xcodeproj\xcshareddata\xcschemes\SDWebImage static.xcscheme,0,0.0,71.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageCompat.h,12,12.0,71.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDImageHEICCoder.m,18,13.0,70.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\WebImage\SDWebImage.h,7,13.0,69.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDImageAWebPCoder.m,18,12.0,68.0
+SDWebImage,XML,D:\clones\SDWebImage\SDWebImage.xcodeproj\xcshareddata\xcschemes\SDWebImage XCFramework.xcscheme,0,0.0,67.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Private\SDAsyncBlockOperation.m,18,7.0,67.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDImageCacheDefine.m,6,13.0,66.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDImageTransformer.h,57,118.0,66.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageDownloader.h,46,203.0,65.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\UIView+WebCacheOperation.m,11,10.0,63.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Private\SDImageCachesManagerOperation.m,14,7.0,62.0
+SDWebImage,JSON,D:\clones\SDWebImage\Examples\SDWebImage OSX Demo\Assets.xcassets\AppIcon.appiconset\Contents.json,0,0.0,58.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDAnimatedImageView+WebCache.m,15,7.0,57.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageDefine.h,56,211.0,57.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Examples\SDWebImage OSX Demo\ViewController.m,17,13.0,56.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\UIImageView+HighlightedWebCache.m,14,7.0,55.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Tests\Tests\SDWebImageTestDownloadOperation.m,17,9.0,55.0
+SDWebImage,XML,D:\clones\SDWebImage\Examples\SDWebImage TV Demo\Base.lproj\Main.storyboard,0,1.0,53.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDImageCoder.h,47,166.0,53.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Private\SDWeakProxy.m,19,7.0,53.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Tests\Tests\SDWebImageTestLoader.m,13,8.0,53.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageTransition.h,20,60.0,51.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDImageCacheConfig.m,8,7.0,50.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageDownloaderResponseModifier.m,16,7.0,50.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImageMapKit\MapKit\MKAnnotationView+WebCache.m,14,7.0,50.0
+SDWebImage,XML,D:\clones\SDWebImage\Examples\SDWebImage Demo\SDWebImage Demo-Info.plist,0,0.0,49.0
+SDWebImage,XML,D:\clones\SDWebImage\Examples\SDWebImage Watch Demo\Base.lproj\Interface.storyboard,0,3.0,49.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageDownloaderRequestModifier.m,15,7.0,49.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageManager.h,40,198.0,49.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Tests\Tests\SDCategoriesTests.m,12,17.0,49.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\UIImageView+WebCache.m,12,7.0,48.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageDownloaderOperation.h,26,99.0,47.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Examples\SDWebImage Demo\AppDelegate.m,14,19.0,45.0
+SDWebImage,Markdown,D:\clones\SDWebImage\.github\CONTRIBUTING.md,19,0.0,43.0
+SDWebImage,XML,D:\clones\SDWebImage\Examples\SDWebImage Watch Demo Extension\Info.plist,0,0.0,43.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Examples\SDWebImage Watch Demo Extension\InterfaceController.m,19,16.0,42.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDImageCacheDefine.h,19,82.0,42.0
+SDWebImage,XML,D:\clones\SDWebImage\Examples\SDWebImage OSX Demo\Info.plist,0,0.0,39.0
+SDWebImage,Ruby,D:\clones\SDWebImage\SDWebImage.podspec,8,0.0,39.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDImageAPNGCoder.m,12,7.0,39.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDImageGIFCoder.m,12,7.0,39.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageIndicator.h,25,51.0,39.0
+SDWebImage,Swift,D:\clones\SDWebImage\Package.swift,2,7.0,38.0
+SDWebImage,XML,D:\clones\SDWebImage\Examples\SDWebImage TV Demo\Info.plist,0,0.0,37.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageOptionsProcessor.m,15,7.0,37.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\UIImage+Transform.h,29,80.0,37.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Tests\Tests\SDWebImageTestCoder.m,11,8.0,37.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDAnimatedImageView+WebCache.h,15,117.0,36.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageDownloaderConfig.m,9,7.0,36.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageDownloaderDecryptor.m,12,7.0,36.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImageMapKit\MapKit\MKAnnotationView+WebCache.h,17,117.0,36.0
+SDWebImage,XML,D:\clones\SDWebImage\Examples\SDWebImage Watch Demo\Info.plist,0,0.0,35.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDImageLoader.h,25,86.0,35.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\UIImageView+WebCache.h,21,139.0,34.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\UIImage+MemoryCacheCost.m,6,8.0,33.0
+SDWebImage,XML,D:\clones\SDWebImage\Examples\SDWebImage Demo\en.lproj\DetailViewController.xib,0,0.0,32.0
+SDWebImage,JSON,D:\clones\SDWebImage\Examples\SDWebImage TV Demo\Assets.xcassets\App Icon & Top Shelf Image.brandassets\Contents.json,0,0.0,32.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDAnimatedImage.h,21,61.0,32.0
+SDWebImage,XML,D:\clones\SDWebImage\Examples\SDWebImage Demo\LaunchScreen.storyboard,0,1.0,30.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDAnimatedImagePlayer.h,23,59.0,30.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\UIImage+MultiFormat.m,10,7.0,30.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDWebImagePrefetcher.h,26,88.0,29.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Examples\SDWebImage Demo\DetailViewController.m,9,7.0,28.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Examples\SDWebImage TV Demo\AppDelegate.m,14,18.0,28.0
+SDWebImage,XML,D:\clones\SDWebImage\SDWebImage.xcworkspace\contents.xcworkspacedata,0,0.0,28.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Private\UIColor+SDHexString.m,7,7.0,28.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\UIImage+ForceDecode.m,8,7.0,27.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDImageCacheConfig.h,20,98.0,26.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\UIImageView+HighlightedWebCache.h,13,90.0,26.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\UIView+WebCache.h,16,67.0,26.0
+SDWebImage,XML,D:\clones\SDWebImage\WebImage\Info.plist,0,0.0,26.0
+SDWebImage,XML,D:\clones\SDWebImage\Examples\SDWebImage Demo\en.lproj\MasterViewController.xib,0,0.0,25.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Private\NSBezierPath+SDRoundedCorners.m,11,7.0,24.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Tests\Tests\SDMockFileManager.m,7,7.0,24.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageCacheKeyFilter.m,9,7.0,23.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageCacheSerializer.m,9,7.0,23.0
+SDWebImage,JSON,D:\clones\SDWebImage\Examples\SDWebImage Demo\Assets.xcassets\placeholder.imageset\Contents.json,0,0.0,22.0
+SDWebImage,JSON,D:\clones\SDWebImage\Examples\SDWebImage TV Demo\Assets.xcassets\LaunchImage.launchimage\Contents.json,0,0.0,22.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDDiskCache.h,32,91.0,22.0
+SDWebImage,XML,D:\clones\SDWebImage\Tests\Tests Mac\Info.plist,0,0.0,22.0
+SDWebImage,XML,D:\clones\SDWebImage\Tests\Tests TV\Info.plist,0,0.0,22.0
+SDWebImage,XML,D:\clones\SDWebImage\Tests\Tests\Tests-Info.plist,0,0.0,22.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDAnimatedImageView.h,12,77.0,21.0
+SDWebImage,YAML,D:\clones\SDWebImage\.github\stale.yml,1,7.0,20.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Examples\SDWebImage TV Demo\ViewController.m,10,9.0,20.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDGraphicsImageRenderer.h,15,38.0,20.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageDownloaderConfig.h,17,76.0,20.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Private\SDImageIOAnimatedCoderInternal.h,6,10.0,20.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Examples\SDWebImage OSX Demo\AppDelegate.m,8,12.0,19.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Examples\SDWebImage Watch Demo Extension\ExtensionDelegate.m,7,14.0,19.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDImageCachesManager.h,16,46.0,19.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDImageCoderHelper.h,25,83.0,19.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageOptionsProcessor.h,16,37.0,19.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Private\SDDeviceHelper.m,6,7.0,19.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\Tests\Tests\SDTestCase.h,8,8.0,19.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\Tests\Tests\SDWebImageTestCache.h,12,10.0,19.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\NSData+ImageContentType.h,7,36.0,18.0
+SDWebImage,Markdown,D:\clones\SDWebImage\.github\ISSUE_TEMPLATE.md,6,0.0,17.0
+SDWebImage,JSON,D:\clones\SDWebImage\Examples\SDWebImage TV Demo\Assets.xcassets\App Icon & Top Shelf Image.brandassets\App Icon - Small.imagestack\Contents.json,0,0.0,17.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Examples\SDWebImage Watch Demo Extension\NotificationController.m,14,11.0,17.0
+SDWebImage,JSON,D:\clones\SDWebImage\Examples\SDWebImage TV Demo\Assets.xcassets\App Icon & Top Shelf Image.brandassets\Top Shelf Image.imageset\Contents.json,0,0.0,16.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageDownloaderRequestModifier.h,15,38.0,16.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageDownloaderResponseModifier.h,15,38.0,16.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageError.h,4,12.0,16.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Tests\Tests\SDTestCase.m,6,8.0,16.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Private\SDAssociatedObject.m,2,10.0,15.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDMemoryCache.h,18,46.0,14.0
+SDWebImage,YAML,D:\clones\SDWebImage\codecov.yml,0,0.0,14.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDImageFrame.m,8,7.0,13.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDImageIOAnimatedCoder.h,4,42.0,13.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageDownloaderDecryptor.h,12,24.0,13.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\UIImage+MultiFormat.h,16,51.0,13.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Private\SDDisplayLink.h,7,9.0,13.0
+SDWebImage,Markdown,D:\clones\SDWebImage\.github\PULL_REQUEST_TEMPLATE.md,6,0.0,12.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDImageCoder.m,4,7.0,12.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\NSImage+Compatibility.h,13,43.0,11.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageCacheKeyFilter.h,8,14.0,10.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageCacheSerializer.h,8,18.0,10.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\UIImage+ExtendedCacheData.m,5,8.0,10.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\UIImage+GIF.m,4,8.0,10.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\UIImage+Metadata.h,9,49.0,10.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Private\SDImageAssetManager.h,5,9.0,9.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Tests\Tests\SDWebImageTestTransformer.m,5,8.0,9.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Examples\SDWebImage Demo\main.m,3,7.0,8.0
+SDWebImage,XML,D:\clones\SDWebImage\SDWebImage.xcworkspace\xcshareddata\WorkspaceSettings.xcsettings,0,0.0,8.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDImageCodersManager.h,11,39.0,8.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\UIView+WebCacheOperation.h,7,33.0,8.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Private\SDAsyncBlockOperation.h,5,8.0,8.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Private\SDFileAttributeHelper.h,4,7.0,8.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Private\SDImageCachesManagerOperation.h,5,8.0,8.0
+SDWebImage,XML,D:\clones\SDWebImage\.swiftpm\xcode\package.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+SDWebImage,XML,D:\clones\SDWebImage\Examples\SDWebImage Demo.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Examples\SDWebImage TV Demo\main.m,2,7.0,7.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDImageFrame.h,6,23.0,7.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDImageGraphics.h,3,18.0,7.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDImageLoadersManager.h,9,24.0,7.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageCompat.m,3,7.0,7.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\UIImage+ForceDecode.h,10,29.0,7.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Private\NSBezierPath+SDRoundedCorners.h,7,10.0,7.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Private\SDWeakProxy.h,5,8.0,7.0
+SDWebImage,JSON,D:\clones\SDWebImage\Examples\SDWebImage TV Demo\Assets.xcassets\Contents.json,0,0.0,6.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDImageAWebPCoder.h,4,13.0,6.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDImageHEICCoder.h,4,15.0,6.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageOperation.h,6,9.0,6.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Private\SDDeviceHelper.h,4,8.0,6.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Private\SDWebImageTransitionInternal.h,5,8.0,6.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\Tests\Tests\SDWebImageTestDownloadOperation.h,4,11.0,6.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\Examples\SDWebImage Demo\AppDelegate.h,5,7.0,5.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDAnimatedImageRep.h,5,13.0,5.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDImageAPNGCoder.h,4,10.0,5.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDImageGIFCoder.h,4,13.0,5.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\SDImageIOCoder.h,6,19.0,5.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageError.m,3,8.0,5.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\UIImage+ExtendedCacheData.h,4,15.0,5.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\Tests\Tests\SDMockFileManager.h,5,8.0,5.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\Tests\Tests\SDWebImageTestLoader.h,4,9.0,5.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\Examples\SDWebImage Demo\DetailViewController.h,4,7.0,4.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\Examples\SDWebImage OSX Demo\main.m,2,7.0,4.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\Examples\SDWebImage TV Demo\AppDelegate.h,6,7.0,4.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\Examples\SDWebImage Watch Demo Extension\InterfaceController.h,3,7.0,4.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\Examples\SDWebImage Watch Demo Extension\NotificationController.h,3,7.0,4.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\UIImage+GIF.h,5,17.0,4.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Core\UIImage+MemoryCacheCost.h,5,18.0,4.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Private\SDInternalMacros.m,2,7.0,4.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Private\UIColor+SDHexString.h,4,10.0,4.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\Tests\Tests\SDWebImageTestCoder.h,3,8.0,4.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\Tests\Tests\SDWebImageTestTransformer.h,4,8.0,4.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\WebImage\SDWebImageMapKit.h,5,12.0,4.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\Examples\SDWebImage Demo\MasterViewController.h,3,7.0,3.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\Examples\SDWebImage OSX Demo\AppDelegate.h,5,7.0,3.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\Examples\SDWebImage OSX Demo\ViewController.h,5,7.0,3.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\Examples\SDWebImage TV Demo\ViewController.h,4,7.0,3.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\Examples\SDWebImage Watch Demo Extension\ExtensionDelegate.h,3,7.0,3.0
+SDWebImage,Objective-C,D:\clones\SDWebImage\SDWebImage\Core\SDWebImageOperation.m,3,8.0,3.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\Private\SDAssociatedObject.h,2,10.0,2.0
+SDWebImage,YAML,D:\clones\SDWebImage\.github\FUNDING.yml,1,1.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\NSButton+WebCache.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\NSData+ImageContentType.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\NSImage+Compatibility.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDAnimatedImage.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDAnimatedImagePlayer.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDAnimatedImageRep.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDAnimatedImageView+WebCache.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDAnimatedImageView.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDDiskCache.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDGraphicsImageRenderer.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDImageAPNGCoder.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDImageAWebPCoder.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDImageCache.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDImageCacheConfig.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDImageCacheDefine.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDImageCachesManager.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDImageCoder.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDImageCoderHelper.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDImageCodersManager.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDImageFrame.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDImageGIFCoder.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDImageGraphics.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDImageHEICCoder.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDImageIOAnimatedCoder.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDImageIOCoder.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDImageLoader.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDImageLoadersManager.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDImageTransformer.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDMemoryCache.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDWebImage.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDWebImageCacheKeyFilter.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDWebImageCacheSerializer.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDWebImageCompat.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDWebImageDefine.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDWebImageDownloader.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDWebImageDownloaderConfig.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDWebImageDownloaderDecryptor.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDWebImageDownloaderOperation.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDWebImageDownloaderRequestModifier.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDWebImageDownloaderResponseModifier.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDWebImageError.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDWebImageIndicator.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDWebImageManager.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDWebImageOperation.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDWebImageOptionsProcessor.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDWebImagePrefetcher.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\SDWebImageTransition.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\UIButton+WebCache.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\UIImage+ExtendedCacheData.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\UIImage+ForceDecode.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\UIImage+GIF.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\UIImage+MemoryCacheCost.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\UIImage+Metadata.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\UIImage+MultiFormat.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\UIImage+Transform.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\UIImageView+HighlightedWebCache.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\UIImageView+WebCache.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\UIView+WebCache.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImage\include\SDWebImage\UIView+WebCacheOperation.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImageMapKit\include\SDWebImageMapKit\MKAnnotationView+WebCache.h,0,0.0,1.0
+SDWebImage,C/C++ Header,D:\clones\SDWebImage\SDWebImageMapKit\include\SDWebImageMapKit\SDWebImageMapKit.h,0,0.0,1.0

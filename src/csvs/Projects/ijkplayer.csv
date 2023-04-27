@@ -1,0 +1,562 @@
+project,language,filename,blank,comment,code
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ff_ffplay.c,589,197.0,4264.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\cJSON.c,385,199.0,2170.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\android\pipeline\ffpipenode_android_mediacodec_vdec.c,220,112.0,1754.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\ijklas.c,274,53.0,1751.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKFFMoviePlayerController.m,280,58.0,1471.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\ijkiocache.c,154,25.0,1011.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\widget\media\IjkVideoView.java,146,149.0,977.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijkplayer\ios\pipeline\IJKVideoToolBoxAsync.m,196,42.0,974.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\android\ijkplayer_jni.c,208,35.0,971.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\IjkMediaPlayer.java,196,210.0,881.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijkplayer\ios\pipeline\IJKVideoToolBoxSync.m,172,38.0,863.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKAVMoviePlayerController.m,173,111.0,799.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ff_ffplay_def.h,124,66.0,705.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkplayer.c,133,54.0,611.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\ijkasync.c,127,47.0,595.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\android\media\MediaCodec.c,109,19.0,509.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\android\os\Bundle.c,117,19.0,476.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijksdl\ios\IJKSDLGLView.m,117,51.0,470.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-exo\src\main\java\tv\danmaku\ijk\media\exo\demo\player\DemoPlayer.java,77,79.0,444.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\ijkiomanager.c,74,20.0,413.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_aout_android_opensles.c,86,48.0,410.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\android\media\AudioTrack.c,84,19.0,404.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\ijkiourlhook.c,91,23.0,371.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\ijkurlhook.c,87,22.0,361.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_vout_android_nativewindow.c,69,28.0,353.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\AndroidMediaPlayer.java,76,23.0,338.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\IjkMediaMeta.java,56,7.0,338.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\gles2\renderer.c,76,30.0,323.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_codec_android_mediacodec_java.c,72,30.0,307.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\tv\danmaku\ijk\media\player\IjkMediaPlayer.c,67,19.0,303.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-exo\src\main\java\tv\danmaku\ijk\media\exo\IjkExoMediaPlayer.java,61,38.0,301.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_egl.c,72,21.0,296.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\ffmpeg\ijksdl_vout_overlay_ffmpeg.c,52,66.0,295.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\android\android_audiotrack.c,55,28.0,285.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\widget\media\TextureRenderView.java,57,31.0,282.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\MediaPlayerProxy.java,50,16.0,273.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\android\media\MediaFormat.c,69,19.0,273.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\android\contrib\tools\do-compile-ffmpeg.sh,76,45.0,268.0
+ijkplayer,Markdown,D:\clones\ijkplayer\NEWS.md,47,0.0,266.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_aout_android_audiotrack.c,58,27.0,255.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkmeta.c,57,22.0,247.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ff_ffmsg_queue.h,44,25.0,244.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\ijklivehook.c,53,25.0,241.0
+ijkplayer,Markdown,D:\clones\ijkplayer\README.md,43,0.0,237.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKMoviePlayerViewController.m,57,37.0,232.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijkplayer\ios\pipeline\h264_sps_parser.h,55,49.0,229.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_codec_android_mediacodec.c,46,24.0,224.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\IjkMediaCodecInfo.java,32,42.0,219.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\android\pipeline\ffpipeline_android.c,55,23.0,218.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\widget\media\SurfaceRenderView.java,46,30.0,212.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\misc\IjkMediaFormat.java,26,23.0,210.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-exo\src\main\java\tv\danmaku\ijk\media\exo\demo\player\DashRendererBuilder.java,34,24.0,208.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\activities\VideoActivity.java,33,20.0,199.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\j4a_base.c,44,31.0,197.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\android\android_nativewindow.c,50,38.0,191.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ijkmedia\ijksdl\gles2\renderer_yuv420sp_vtb.m,44,22.0,184.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijksdl\ios\IJKSDLAudioQueueController.m,41,36.0,183.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\widget\media\MeasureHelper.java,24,42.0,182.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKMPMoviePlayerController.m,43,26.0,182.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavutil\ijkfifo.c,31,33.0,178.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijksdl\ios\IJKSDLAudioUnitController.m,36,28.0,176.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\gles2\renderer_rgb.c,51,20.0,172.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKDemoMainViewController.m,58,20.0,171.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavutil\ijkdict.c,21,20.0,169.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\ios\tools\do-compile-ffmpeg.sh,38,49.0,169.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_timer.c,33,26.0,168.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ff_ffplay_options.h,16,34.0,167.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\ijkmediadatasource.c,45,21.0,167.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavutil\ijkthreadpool.c,44,40.0,166.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\fragments\SampleMediaListFragment.java,21,16.0,162.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-exo\src\main\java\tv\danmaku\ijk\media\exo\demo\EventLogger.java,34,21.0,158.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_codec_android_mediadef.h,22,41.0,157.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\fragments\FileListFragment.java,38,17.0,156.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-exo\src\main\java\tv\danmaku\ijk\media\exo\demo\player\SmoothStreamingRendererBuilder.java,25,23.0,156.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-exo\src\main\java\tv\danmaku\ijk\media\exo\demo\player\HlsRendererBuilder.java,25,21.0,153.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_android_jni.c,41,25.0,151.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKQRCodeScanViewController.m,50,19.0,150.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_codec_android_mediaformat_java.c,33,23.0,148.0
+ijkplayer,XML,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKMoviePlayerViewController.xib,0,0.0,145.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\widget\media\InfoHudViewHolder.java,22,0.0,139.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\cJSON.h,45,81.0,137.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_codec_android_mediadef.c,8,29.0,136.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\fragments\TracksFragment.java,29,16.0,135.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\ijkioandroidio.c,38,20.0,135.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijksdl\ios\ijksdl_vout_overlay_videotoolbox.m,26,24.0,135.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKMediaPlayback.h,49,46.0,132.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\java\nio\ByteBuffer.c,29,19.0,131.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\tv\danmaku\ijk\media\player\misc\IAndroidIO.c,32,19.0,131.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_codec_android_mediacodec_internal.c,32,23.0,131.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_vout_overlay_android_mediacodec.c,36,24.0,131.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\ios\compile-ffmpeg.sh,16,21.0,129.0
+ijkplayer,JSON,D:\clones\ijkplayer\ios\IJKMediaDemo\XCAssets\AppIcons.xcassets\AppIcon.appiconset\Contents.json,0,0.0,127.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ff_cmdutils.c,22,102.0,126.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\content\PathCursor.java,23,16.0,125.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\IMediaPlayer.java,57,34.0,124.0
+ijkplayer,Bourne Again Shell,D:\clones\ijkplayer\android\ijkplayer\gradlew,20,21.0,123.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_mutex.c,28,23.0,123.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKDeviceModel.m,39,28.0,121.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKFFOptions.m,26,22.0,121.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavutil\ijktree.c,10,39.0,120.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijksdl\ios\ijksdl_vout_ios_gles2.m,24,23.0,120.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\ios\tools\do-compile-openssl.sh,34,32.0,118.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\android\contrib\tools\do-compile-openssl.sh,47,35.0,117.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\config\module-lite.sh,22,125.0,114.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\fragments\RecentMediaListFragment.java,26,16.0,106.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\android\pipeline\h264_nal.h,14,31.0,106.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKKVOController.m,21,24.0,106.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\android\media\MediaCodec.h,7,19.0,105.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\pragma\DebugLog.java,23,16.0,104.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_codec_android_mediacodec_dummy.c,27,21.0,103.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\content\RecentMediaStorage.java,21,16.0,100.0
+ijkplayer,C++,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavutil\ijkstl.cpp,28,19.0,100.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\android\compile-ijk.sh,10,16.0,98.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKFFMoviePlayerController.h,31,26.0,98.0
+ijkplayer,diff,D:\clones\ijkplayer\android\patches\0003-x86_64-enable-debugging-with-LLDB.patch,7,35.0,97.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\config\module-lite-hevc.sh,20,124.0,97.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijksdl\ios\ijksdl_aout_ios_audiounit.m,28,23.0,97.0
+ijkplayer,Gradle,D:\clones\ijkplayer\android\ijkplayer\tools\gradle-mvn-push.gradle,19,15.0,95.0
+ijkplayer,diff,D:\clones\ijkplayer\android\patches\0003-arm64-enable-debugging-with-LLDB.patch,7,37.0,95.0
+ijkplayer,diff,D:\clones\ijkplayer\android\patches\0003-armv5-enable-debugging-with-LLDB.patch,7,36.0,95.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijkplayer\ios\pipeline\ffpipenode_ios_videotoolbox_vdec.m,17,22.0,95.0
+ijkplayer,Python,D:\clones\ijkplayer\tools\copyrighter\CRFile.py,10,19.0,94.0
+ijkplayer,diff,D:\clones\ijkplayer\android\patches\0003-x86-enable-debugging-with-LLDB.patch,7,37.0,93.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_codec_android_mediacodec.h,26,24.0,93.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_aout.c,19,23.0,93.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKDemoLocalFolderViewController.m,35,54.0,93.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\widget\media\TableLayoutBinder.java,23,16.0,92.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\xml\settings.xml,0,0.0,90.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\ijksegment.c,23,21.0,90.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\values\strings_pref.xml,18,6.0,88.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\android\media\AudioTrack.h,7,19.0,87.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\ijkio.c,28,20.0,87.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\AbstractMediaPlayer.java,21,16.0,84.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\widget\preference\IjkListPreference.java,23,17.0,83.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKMediaControl.m,20,20.0,83.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\gles2\renderer_yuv420sp.c,22,20.0,82.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\android\os\Bundle.h,7,19.0,81.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\android\ijkplayer_android.c,25,22.0,80.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_android_jni.h,14,23.0,80.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_container.h,20,23.0,80.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKDemoSampleViewController.m,24,16.0,80.0
+ijkplayer,XML,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer.xcodeproj\xcshareddata\xcschemes\IJKMediaFrameworkWithSSL.xcscheme,0,0.0,80.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijksdl\ios\IJKSDLHudViewController.m,26,7.0,80.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\android\contrib\compile-libsoxr.sh,6,18.0,79.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\android\contrib\compile-openssl.sh,6,18.0,79.0
+ijkplayer,diff,D:\clones\ijkplayer\android\patches\0003-armv7a-enable-debugging-with-LLDB.patch,9,40.0,79.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\android\contrib\compile-ffmpeg.sh,7,20.0,78.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\application\Settings.java,20,16.0,78.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\java\util\ArrayList.c,19,19.0,78.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\gles2\renderer_yuv420p.c,23,20.0,78.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\tv\danmaku\ijk\media\player\misc\IMediaDataSource.c,19,19.0,77.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\android\build-on-travis.sh,19,16.0,76.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\AndroidManifest.xml,9,1.0,76.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\android\os\Build.c,21,19.0,76.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_vout.c,21,23.0,75.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\misc\AndroidTrackInfo.java,19,16.0,74.0
+ijkplayer,diff,D:\clones\ijkplayer\android\patches\0004-x86-link-prebuilt-staic-libraries-of-ffmepg.patch,10,34.0,74.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ff_ffplay.h,20,28.0,74.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkplayer.h,36,111.0,74.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\gles2\renderer_yuv444p10le.c,23,20.0,74.0
+ijkplayer,diff,D:\clones\ijkplayer\android\patches\0004-armv7a-link-prebuilt-staic-libraries-of-ffmepg.patch,10,34.0,73.0
+ijkplayer,diff,D:\clones\ijkplayer\android\patches\0004-x86_64-link-prebuilt-staic-libraries-of-ffmepg.patch,10,34.0,73.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_extra_log.c,6,23.0,73.0
+ijkplayer,Python,D:\clones\ijkplayer\tools\copyrighter\CRContext.py,11,24.0,73.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\application\AppActivity.java,13,19.0,72.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKMediaPlayback.m,21,22.0,72.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\android\android_audiotrack.h,17,24.0,71.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_thread.c,11,24.0,71.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\misc\IjkTrackInfo.java,13,16.0,70.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\ios\compile-openssl.sh,12,22.0,70.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\android\contrib\tools\do-compile-libsoxr.sh,27,22.0,69.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ff_ffmsg.h,17,23.0,69.0
+ijkplayer,JSON,D:\clones\ijkplayer\ios\IJKMediaPodDemo\IJKMediaPodDemo\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,68.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\android\pipeline\hevc_nal.h,20,22.0,66.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\ijkioffio.c,23,20.0,66.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\android\contrib\tools\do-detect-env.sh,12,22.0,65.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\activities\FileExplorerActivity.java,18,16.0,65.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\android\media\PlaybackParams.c,17,19.0,65.0
+ijkplayer,DOS Batch,D:\clones\ijkplayer\android\ijkplayer\gradlew.bat,24,2.0,64.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\values\strings.xml,9,0.0,64.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\TextureMediaPlayer.java,14,22.0,64.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\ijklongurl.c,17,21.0,64.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\gles2\internal.h,20,20.0,64.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKDemoHistory.m,22,15.0,64.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_audio.h,14,23.0,63.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKAudioKit.m,10,25.0,63.0
+ijkplayer,Python,D:\clones\ijkplayer\tools\copyrighter\CRCopyright.py,8,26.0,61.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\init-ios.sh,16,20.0,60.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\tv\danmaku\ijk\media\player\IjkMediaPlayer.h,7,19.0,59.0
+ijkplayer,Gradle,D:\clones\ijkplayer\android\ijkplayer\tools\gradle-bintray-upload.gradle,10,15.0,58.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\android\patch-debugging-with-lldb.sh,4,17.0,58.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\allformats.c,10,24.0,58.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-exo\src\main\java\tv\danmaku\ijk\media\exo\demo\player\ExtractorRendererBuilder.java,10,21.0,57.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijkplayer\ios\ijkplayer_ios.m,14,22.0,57.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\android\ijkplayer_android_def.h,15,85.0,56.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_vout_internal.h,15,23.0,56.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\widget\media\AndroidMediaController.java,13,19.0,55.0
+ijkplayer,make,D:\clones\ijkplayer\ijkmedia\ijkplayer\Android.mk,13,21.0,54.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\android\ffmpeg_api_jni.c,13,22.0,54.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\widget\media\MediaPlayerCompat.java,7,16.0,53.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\j4a_base.h,19,31.0,53.0
+ijkplayer,make,D:\clones\ijkplayer\ijkmedia\ijksdl\Android.mk,10,18.0,53.0
+ijkplayer,XML,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKMediaDemo-Info.plist,0,0.0,52.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKAVPlayerLayerView.m,18,65.0,52.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavutil\ijkutils.h,14,33.0,51.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkmeta.h,13,29.0,51.0
+ijkplayer,C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijkplayer\ios\pipeline\ffpipeline_ios.c,9,21.0,51.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\version.sh,24,9.0,51.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ff_ffpipenode.c,14,23.0,50.0
+ijkplayer,XML,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKDemoInputURLViewController.xib,0,0.0,50.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\layout\activity_player.xml,6,2.0,49.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\android\media\MediaFormat.h,7,19.0,49.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ff_ffpipeline.c,13,22.0,49.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_vout.h,14,23.0,49.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\gles2\shader.c,15,20.0,48.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_log.h,16,23.0,48.0
+ijkplayer,JSON,D:\clones\ijkplayer\ios\IJKMediaDemo\XCAssets\LaunchImages.xcassets\LaunchImage.launchimage\Contents.json,0,0.0,47.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijksdl\ios\IJKSDLHudViewCell.m,13,7.0,47.0
+ijkplayer,XML,D:\clones\ijkplayer\ios\IJKMediaPodDemo\IJKMediaPodDemo\Info.plist,0,0.0,47.0
+ijkplayer,XML,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\LaunchScreen.xib,0,0.0,45.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\Barcode.m,6,18.0,44.0
+ijkplayer,JSON,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,43.0
+ijkplayer,Gradle,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\build.gradle,11,22.0,42.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_timer.h,19,24.0,42.0
+ijkplayer,JSON,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\Images.xcassets\LaunchImage.launchimage\Contents.json,0,0.0,42.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-exo\src\main\java\tv\danmaku\ijk\media\exo\demo\SmoothStreamingTestMediaDrmCallback.java,6,18.0,41.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKMediaModule.m,10,22.0,41.0
+ijkplayer,XML,D:\clones\ijkplayer\ios\IJKMediaPodDemo\IJKMediaPodDemo\Base.lproj\LaunchScreen.xib,0,0.0,41.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\widget\media\IRenderView.java,20,27.0,40.0
+ijkplayer,make,D:\clones\ijkplayer\ijkmedia\ijkj4a\Makefile,8,2.0,40.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\ijkioapplication.h,10,20.0,40.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\ijkioprotocol.c,5,20.0,40.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavutil\ijkthreadpool.h,12,40.0,40.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4au\class\android\media\AudioTrack.util.c,8,19.0,39.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_aout.h,12,27.0,39.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_egl.h,12,20.0,39.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKFFMoviePlayerDef.h,15,22.0,39.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKFFMoviePlayerDef.m,10,22.0,39.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\activities\RecentMediaActivity.java,11,16.0,38.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\activities\SampleMediaActivity.java,11,16.0,38.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\misc\AndroidMediaFormat.java,9,16.0,38.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\android\pipeline\mpeg4_esds.h,5,21.0,38.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\dummy\ijksdl_vout_dummy.c,13,24.0,38.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\init-android-libsoxr.sh,7,16.0,38.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\services\MediaPlayerService.java,10,16.0,37.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\config\module-default.sh,13,122.0,37.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\ijkmedia\ijkplayer\version.sh,13,14.0,37.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\ffmpeg\abi_all\image_convert.c,3,22.0,37.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_gles2.h,13,26.0,37.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_misc.h,11,23.0,37.0
+ijkplayer,XML,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKDemoMainViewController.xib,0,0.0,37.0
+ijkplayer,XML,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKDemoSampleViewController.xib,0,0.0,37.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\ijklas.h,9,4.0,36.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_fourcc.h,12,32.0,36.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKFFOptions.h,14,25.0,36.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\gles2\common.c,8,20.0,35.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKFFMonitor.h,10,20.0,35.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_aout_internal.h,10,23.0,34.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKFFMonitor.m,10,20.0,34.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-arm64\src\main\.project,0,0.0,33.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-armv5\src\main\.project,0,0.0,33.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-armv7a\src\main\.project,0,0.0,33.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\.project,0,0.0,33.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\widget\media\FileMediaDataSource.java,10,16.0,33.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\.project,0,0.0,33.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-x86\src\main\.project,0,0.0,33.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavutil\ijkfifo.h,20,125.0,33.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_codec_android_mediaformat_internal.h,11,23.0,33.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKNotificationManager.m,7,22.0,33.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\pipeline\ffpipeline_ffplay.c,10,23.0,32.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_codec_android_mediaformat.c,6,24.0,32.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\init-android-exo.sh,8,17.0,32.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKDemoInputURLViewController.m,12,16.0,31.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\activities\SettingsActivity.java,8,16.0,30.0
+ijkplayer,Gradle,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-exo\build.gradle,6,4.0,30.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\ijkioapplication.c,11,20.0,30.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaFramework\IJKMediaFramework.h,7,26.0,30.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijkplayer\ios\pipeline\IJKVideoToolBox.m,5,22.0,30.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\content\PathCursorLoader.java,9,16.0,29.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_codec_android_mediacodec_internal.h,10,23.0,29.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\gles2\fsh\yuv444p10le.fsh.c,7,20.0,29.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaFrameworkWithSSL\IJKMediaFrameworkWithSSL.h,6,11.0,29.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\ijkiomanager.h,7,20.0,28.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavutil\opt.h,7,22.0,28.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKAppDelegate.m,13,23.0,28.0
+ijkplayer,Markdown,D:\clones\ijkplayer\doc\preflight_checklist.md,5,0.0,27.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\tv\danmaku\ijk\media\player\misc\IAndroidIO.h,7,19.0,27.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\pipeline\ffpipenode_ffplay_vdec.c,9,23.0,27.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\menu\menu_player.xml,0,0.0,26.0
+ijkplayer,Java,D:\clones\ijkplayer\ijkmedia\ijkj4a\java\android\media\AudioTrack.java,8,0.0,26.0
+ijkplayer,Java,D:\clones\ijkplayer\ijkmedia\ijkj4a\java\android\media\MediaCodec.java,10,0.0,26.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ff_ffpipeline.h,8,22.0,26.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\ijkiourl.h,8,21.0,26.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\init-android.sh,7,17.0,26.0
+ijkplayer,XML,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaFrameworkWithSSL.plist,0,0.0,26.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijksdl\ios\IJKSDLAudioKit.m,5,24.0,26.0
+ijkplayer,Gradle,D:\clones\ijkplayer\android\ijkplayer\build.gradle,7,3.0,25.0
+ijkplayer,make,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-armv7a\src\main\jni\Android.mk,4,18.0,25.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\java\nio\ByteBuffer.h,7,19.0,25.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavutil\ijkdict.h,17,91.0,25.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_codec_android_mediaformat.h,11,23.0,25.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_mutex.h,9,23.0,25.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijksdl\ios\ijksdl_ios.h,8,22.0,25.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\layout\fragment_file_list.xml,3,0.0,24.0
+ijkplayer,make,D:\clones\ijkplayer\ijkmedia\ijkj4a\Android.mk,7,17.0,24.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4au\class\java\nio\ByteBuffer.util.c,7,19.0,24.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_inc_internal_android.h,9,25.0,24.0
+ijkplayer,XML,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaFrameworkTests\Info.plist,0,0.0,24.0
+ijkplayer,XML,D:\clones\ijkplayer\ios\IJKMediaPodDemo\IJKMediaPodDemo\Base.lproj\Main.storyboard,0,1.0,24.0
+ijkplayer,XML,D:\clones\ijkplayer\ios\IJKMediaPodDemo\IJKMediaPodDemoTests\Info.plist,0,0.0,24.0
+ijkplayer,Gradle,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-x86\build.gradle,4,3.0,23.0
+ijkplayer,Gradle,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-x86_64\build.gradle,4,3.0,23.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\java\nio\Buffer.c,7,19.0,23.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ff_ffinc.h,6,23.0,23.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavutil\ijkutils.c,5,0.0,23.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkplayer_internal.h,7,22.0,23.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\gles2\fsh\yuv420p.fsh.c,5,20.0,23.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKMediaUtils.m,5,23.0,23.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKSDLGLViewProtocol.h,5,22.0,23.0
+ijkplayer,Gradle,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\build.gradle,4,3.0,22.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\android\pipeline\ffpipeline_android.h,11,22.0,22.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_vout_android_surface.c,5,24.0,22.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_thread.h,6,23.0,22.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\init-android-openssl.sh,5,17.0,22.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\init-ios-openssl.sh,6,16.0,22.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKMoviePlayerViewController.h,9,16.0,22.0
+ijkplayer,JSON,D:\clones\ijkplayer\ios\IJKMediaDemo\XCAssets\MoviePlayerImages.xcassets\MoviePlayer\btn_player_back_highlighted.imageset\Contents.json,0,0.0,22.0
+ijkplayer,JSON,D:\clones\ijkplayer\ios\IJKMediaDemo\XCAssets\MoviePlayerImages.xcassets\MoviePlayer\btn_player_pause.imageset\Contents.json,0,0.0,22.0
+ijkplayer,JSON,D:\clones\ijkplayer\ios\IJKMediaDemo\XCAssets\MoviePlayerImages.xcassets\MoviePlayer\btn_player_play.imageset\Contents.json,0,0.0,22.0
+ijkplayer,JSON,D:\clones\ijkplayer\ios\IJKMediaDemo\XCAssets\MoviePlayerImages.xcassets\MoviePlayer\player_bottom_control_bg.imageset\Contents.json,0,0.0,22.0
+ijkplayer,JSON,D:\clones\ijkplayer\ios\IJKMediaDemo\XCAssets\MoviePlayerImages.xcassets\MoviePlayer\player_top_control_bg.imageset\Contents.json,0,0.0,22.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKDeviceModel.h,6,22.0,22.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\layout\table_media_info_row2.xml,3,0.0,21.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\gles2\fsh\yuv420sp.fsh.c,5,20.0,21.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_audio.c,3,24.0,21.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_endian.h,4,23.0,21.0
+ijkplayer,XML,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKQRCodeScanViewController.xib,0,0.0,21.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijksdl\ios\ijksdl_thread_ios.m,4,22.0,21.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\tools\avconfig.h,3,22.0,21.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\tools\config.h,3,22.0,21.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\eventbus\FileExplorerEvents.java,9,17.0,20.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKMediaControl.h,11,16.0,20.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\layout\fragment_file_list_item.xml,2,0.0,19.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\tv\danmaku\ijk\media\player\misc\IMediaDataSource.h,7,19.0,19.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_vout_android_nativewindow.h,8,26.0,19.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\gles2\color.c,3,21.0,19.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaFrameworkTests\IJKMediaFrameworkTests.m,9,12.0,19.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPodDemo\IJKMediaPodDemoTests\IJKMediaPodDemoTests.m,9,12.0,19.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\layout\table_media_info_row1.xml,3,0.0,18.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\menu\menu_app.xml,0,0.0,18.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ff_ffpipenode.h,7,22.0,18.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPodDemo\IJKMediaPodDemo\AppDelegate.m,12,15.0,18.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\android\contrib\sync-mirrors.sh,6,15.0,17.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\IjkTimedText.java,7,15.0,17.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\java\util\ArrayList.h,7,19.0,17.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\config.h,7,22.0,17.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\gles2\vsh\mvp.vsh.c,4,20.0,17.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\tools\ffversion.h,3,22.0,17.0
+ijkplayer,Python,D:\clones\ijkplayer\tools\copyrighter\__main__.py,6,17.0,17.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\.classpath,0,0.0,16.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\layout\fragment_track_list.xml,2,0.0,16.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\android\ijkplayer_android.h,6,23.0,16.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\NSString+IJKMedia.m,7,22.0,16.0
+ijkplayer,Properties,D:\clones\ijkplayer\android\ijkplayer\gradle.properties,6,15.0,15.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\values\colors.xml,4,0.0,15.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\values\styles.xml,4,0.0,15.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavutil\ijkstl.h,3,20.0,15.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavutil\ijktree.h,11,104.0,15.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl.h,4,23.0,15.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_stdinc.h,5,23.0,15.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\init-android-prof.sh,4,16.0,15.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\tools\pull-repo-ref.sh,2,0.0,15.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\fragments\SettingsFragment.java,5,16.0,14.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\gles2\fsh\rgb.fsh.c,4,20.0,14.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\init-android-j4a.sh,4,16.0,14.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\init-android-libyuv.sh,5,16.0,14.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\init-android-soundtouch.sh,5,16.0,14.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijksdl\ios\IJKSDLAudioQueueController.h,7,24.0,14.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPodDemo\IJKMediaPodDemo\ViewController.m,9,9.0,14.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\android\contrib\setup-as-commiter.sh,4,15.0,13.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\java\tv\danmaku\ijk\media\example\widget\media\IMediaController.java,10,19.0,13.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\layout\table_media_info_section.xml,2,0.0,13.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\layout\widget_toolbar.xml,2,0.0,13.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\misc\ITrackInfo.java,6,16.0,13.0
+ijkplayer,Gradle,D:\clones\ijkplayer\android\ijkplayer\tools\gradle-on-demand.gradle,1,16.0,13.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\android\media\PlaybackParams.h,7,19.0,13.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4au\class\java\nio\ByteBuffer.util.h,5,19.0,13.0
+ijkplayer,Java,D:\clones\ijkplayer\ijkmedia\ijkj4a\java\android\os\Bundle.java,5,0.0,13.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijkplayer\ios\pipeline\IJKVideoToolBox.h,8,22.0,13.0
+ijkplayer,YAML,D:\clones\ijkplayer\.travis.yml,1,0.0,12.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\layout\activity_app.xml,2,0.0,12.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\j4a_allclasses.include.h,0,0.0,12.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\j4a_allclasses.loader.h,0,0.0,12.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ff_cmdutils.h,6,34.0,12.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\tools\pull-repo-base.sh,3,0.0,12.0
+ijkplayer,make,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-arm64\src\main\jni\Application.mk,3,18.0,11.0
+ijkplayer,make,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-armv5\src\main\jni\Application.mk,3,18.0,11.0
+ijkplayer,make,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-armv7a\src\main\jni\Application.mk,3,18.0,11.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\layout\table_media_info.xml,2,0.0,11.0
+ijkplayer,make,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-x86\src\main\jni\Application.mk,3,18.0,11.0
+ijkplayer,make,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-x86_64\src\main\jni\Application.mk,3,18.0,11.0
+ijkplayer,diff,D:\clones\ijkplayer\android\patches\0001-gitignore-ignore-.externalNativeBuild.patch,3,8.0,11.0
+ijkplayer,diff,D:\clones\ijkplayer\android\patches\0002-gradle-upgrade-build-tool-to-2.2.0-beta2.patch,4,10.0,11.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4au\class\android\media\AudioTrack.util.h,5,19.0,11.0
+ijkplayer,Java,D:\clones\ijkplayer\ijkmedia\ijkj4a\java\android\media\MediaFormat.java,4,0.0,11.0
+ijkplayer,Java,D:\clones\ijkplayer\ijkmedia\ijkj4a\java\tv\danmaku\ijk\media\player\IjkMediaPlayer.java,3,0.0,11.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkprof\android-ndk-profiler-dummy\jni\prof.h,5,23.0,11.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKDemoHistory.h,9,15.0,11.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKKVOController.h,6,22.0,11.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijksdl\ios\IJKSDLAudioUnitController.h,7,24.0,11.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\.classpath,0,0.0,10.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\annotations\CalledByNative.java,3,23.0,10.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-x86\src\main\.classpath,0,0.0,10.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\android\pipeline\ffpipenode_android_mediacodec_vdec.h,5,22.0,10.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_vout_overlay_android_mediacodec.h,6,23.0,10.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ffmpeg\ijksdl_inc_ffmpeg.h,4,23.0,10.0
+ijkplayer,C,D:\clones\ijkplayer\ijkprof\android-ndk-profiler-dummy\jni\prof.c,3,23.0,10.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\MediaInfo.java,5,16.0,9.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\annotations\AccessedByNative.java,3,20.0,9.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\misc\IAndroidIO.java,3,16.0,9.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\compile-android-j4a.sh,3,16.0,9.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\android\os\Build.h,5,19.0,9.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\j4a_allclasses.c,5,20.0,9.0
+ijkplayer,Java,D:\clones\ijkplayer\ijkmedia\ijkj4a\java\java\nio\ByteBuffer.java,2,0.0,9.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ff_ffplay_debug.h,9,33.0,9.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKNotificationManager.h,6,22.0,9.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijksdl\ios\IJKSDLGLView.h,6,24.0,9.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijksdl\ios\ijksdl_vout_overlay_videotoolbox.h,4,22.0,9.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-arm64\src\androidTest\java\tv\danmaku\ijk\media\player_arm64\ApplicationTest.java,2,3.0,8.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-armv5\src\androidTest\java\tv\danmaku\ijk\media\player_armv5\ApplicationTest.java,2,3.0,8.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-armv7a\src\androidTest\java\tv\danmaku\ijk\media\player_armv7a\ApplicationTest.java,2,3.0,8.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\androidTest\java\tv\danmaku\ijk\media\example\ApplicationTest.java,2,3.0,8.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-exo\src\androidTest\java\tv\danmaku\ijk\media\exo\ApplicationTest.java,2,3.0,8.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\androidTest\java\tv\danmaku\ijk\media\player\ApplicationTest.java,2,3.0,8.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\misc\IMediaDataSource.java,5,16.0,8.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\misc\IMediaFormat.java,5,18.0,8.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-x86\src\androidTest\java\tv\danmaku\ijk\media\ijkplayer\ApplicationTest.java,2,3.0,8.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-x86_64\src\androidTest\java\com\example\ijkplayer_x86_64\ApplicationTest.java,2,3.0,8.0
+ijkplayer,Java,D:\clones\ijkplayer\ijkmedia\ijkj4a\java\tv\danmaku\ijk\media\player\misc\IAndroidIO.java,1,0.0,8.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_android.h,5,23.0,8.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_vout_android_surface.h,4,23.0,8.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ffmpeg\ijksdl_image_convert.h,4,23.0,8.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_extra_log.h,4,23.0,8.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_inc_internal.h,5,22.0,8.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\Barcode.h,3,7.0,8.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\main.m,3,7.0,8.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijkplayer\ios\pipeline\IJKVideoToolBoxAsync.h,7,22.0,8.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijkplayer\ios\pipeline\IJKVideoToolBoxSync.h,7,22.0,8.0
+ijkplayer,Properties,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\project.properties,1,12.0,7.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\values\attrs.xml,1,0.0,7.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\values\themes.xml,1,0.0,7.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\ISurfaceTextureHolder.java,5,16.0,7.0
+ijkplayer,Gradle,D:\clones\ijkplayer\android\ijkplayer\settings.gradle,3,0.0,7.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\extra\init-extra.sh,2,15.0,7.0
+ijkplayer,Java,D:\clones\ijkplayer\ijkmedia\ijkj4a\java\tv\danmaku\ijk\media\player\misc\IMediaDataSource.java,1,0.0,7.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ff_fferror.h,3,23.0,7.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_codec_android_mediacodec_java.h,5,23.0,7.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_codec_android_mediaformat_java.h,5,23.0,7.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ffmpeg\ijksdl_vout_overlay_ffmpeg.h,4,24.0,7.0
+ijkplayer,XML,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+ijkplayer,XML,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKAVPlayerLayerView.h,13,62.0,7.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKAudioKit.h,4,24.0,7.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKMediaUtils.h,4,22.0,7.0
+ijkplayer,XML,D:\clones\ijkplayer\ios\IJKMediaPodDemo\IJKMediaPodDemo.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+ijkplayer,Objective-C,D:\clones\ijkplayer\ios\IJKMediaPodDemo\IJKMediaPodDemo\main.m,2,7.0,7.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\values\dimens.xml,1,1.0,6.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-exo\src\main\AndroidManifest.xml,3,0.0,6.0
+ijkplayer,Java,D:\clones\ijkplayer\ijkmedia\ijkj4a\java\android\media\PlaybackParams.java,1,0.0,6.0
+ijkplayer,Java,D:\clones\ijkplayer\ijkmedia\ijkj4a\java\android\os\Build.java,1,0.0,6.0
+ijkplayer,Java,D:\clones\ijkplayer\ijkmedia\ijkj4a\java\java\util\ArrayList.java,1,0.0,6.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\pipeline\ffpipenode_ffplay_vdec.h,5,22.0,6.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\android\android_nativewindow.h,4,23.0,6.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_aout_android_audiotrack.h,4,23.0,6.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_aout_android_opensles.h,4,23.0,6.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\dummy\ijksdl_vout_dummy.h,4,23.0,6.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_class.h,3,23.0,6.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_error.c,2,23.0,6.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKAVMoviePlayerController.h,11,62.0,6.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKMPMoviePlayerController.h,4,22.0,6.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKMediaModule.h,5,22.0,6.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\IJKMediaPlayer.h,4,22.0,6.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijkplayer\ios\pipeline\ffpipeline_ios.h,5,21.0,6.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijkplayer\ios\pipeline\ffpipenode_ios_videotoolbox_vdec.h,5,21.0,6.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijksdl\ios\IJKSDLHudViewController.h,5,7.0,6.0
+ijkplayer,Properties,D:\clones\ijkplayer\android\ijkplayer\gradle\wrapper\gradle-wrapper.properties,0,1.0,5.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-arm64\src\main\AndroidManifest.xml,2,0.0,5.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-armv5\src\main\AndroidManifest.xml,2,0.0,5.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-armv7a\src\main\AndroidManifest.xml,2,0.0,5.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\AndroidManifest.xml,2,0.0,5.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\ISurfaceTextureHost.java,3,16.0,5.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\IjkLibLoader.java,2,16.0,5.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-x86\src\main\AndroidManifest.xml,2,0.0,5.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-x86_64\src\main\AndroidManifest.xml,2,0.0,5.0
+ijkplayer,make,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-x86_64\src\main\jni\ffmpeg\Android.mk,1,0.0,5.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\class\java\nio\Buffer.h,5,19.0,5.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkj4a\j4a\j4a_allclasses.h,3,19.0,5.0
+ijkplayer,Java,D:\clones\ijkplayer\ijkmedia\ijkj4a\java\android\media\MediaCrypto.java,1,0.0,5.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\android\ijksdl_codec_android_mediacodec_dummy.h,4,20.0,5.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\dummy\ijksdl_dummy.h,6,24.0,5.0
+ijkplayer,C,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_stdinc.c,3,23.0,5.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_video.h,3,23.0,5.0
+ijkplayer,make,D:\clones\ijkplayer\ijkprof\android-ndk-profiler-dummy\jni\Android.mk,4,18.0,5.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKAppDelegate.h,4,16.0,5.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\NSString+IJKMedia.h,5,22.0,5.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijkplayer\ios\ijkplayer_ios.h,3,23.0,5.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijksdl\ios\IJKSDLHudViewCell.h,5,7.0,5.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijksdl\ios\ijksdl_vout_ios_gles2.h,3,22.0,5.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\tools\setup-as-commiter.sh,2,0.0,5.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\tools\sync-mirrors.sh,2,0.0,5.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\values\ids.xml,0,0.0,4.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\exceptions\IjkMediaException.java,2,16.0,4.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\ffmpeg\FFmpegApi.java,1,0.0,4.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\java\tv\danmaku\ijk\media\player\pragma\Pragma.java,1,19.0,4.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\src\main\res\values\strings.xml,2,0.0,4.0
+ijkplayer,INI,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-x86\src\main\.settings\org.eclipse.jdt.core.prefs,0,0.0,4.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-x86\src\main\res\values\strings.xml,2,0.0,4.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\android\ffmpeg_api_jni.h,4,22.0,4.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\ijkavformat.h,3,23.0,4.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\pipeline\ffpipeline_ffplay.h,4,24.0,4.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijksdl\ijksdl_error.h,3,23.0,4.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\init-config.sh,1,16.0,4.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKCommon.h,2,16.0,4.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKDemoLocalFolderViewController.h,4,15.0,4.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijksdl\ios\IJKSDLAudioKit.h,2,24.0,4.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPodDemo\IJKMediaPodDemo\AppDelegate.h,6,7.0,4.0
+ijkplayer,Properties,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-arm64\gradle.properties,0,0.0,3.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-arm64\src\main\java\tv\danmaku\ijk\media\player_arm64\Pragma.java,3,16.0,3.0
+ijkplayer,Properties,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-armv5\gradle.properties,0,0.0,3.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-armv5\src\main\java\tv\danmaku\ijk\media\player_armv5\Pragma.java,3,16.0,3.0
+ijkplayer,Properties,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-armv7a\gradle.properties,0,0.0,3.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-armv7a\src\main\java\tv\danmaku\ijk\media\player_armv7a\Pragma.java,3,16.0,3.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\values-w820dp\dimens.xml,0,3.0,3.0
+ijkplayer,Properties,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-exo\gradle.properties,0,0.0,3.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-exo\src\main\res\values\strings.xml,0,0.0,3.0
+ijkplayer,Properties,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-java\gradle.properties,0,0.0,3.0
+ijkplayer,Properties,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-x86\gradle.properties,0,0.0,3.0
+ijkplayer,Java,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-x86\src\main\java\tv\danmaku\ijk\media\player_x86\Pragma.java,3,16.0,3.0
+ijkplayer,Properties,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-x86_64\gradle.properties,0,0.0,3.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-x86_64\src\main\res\values\strings.xml,0,0.0,3.0
+ijkplayer,Java,D:\clones\ijkplayer\ijkmedia\ijkj4a\java\java\nio\Buffer.java,1,0.0,3.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKDemoInputURLViewController.h,3,15.0,3.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKDemoMainViewController.h,3,15.0,3.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKDemoSampleViewController.h,3,16.0,3.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaDemo\IJKMediaDemo\IJKQRCodeScanViewController.h,3,15.0,3.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPodDemo\IJKMediaPodDemo\ViewController.h,5,7.0,3.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\android\ijk-addr2line.sh,1,0.0,2.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\android\ijk-ndk-stack.sh,1,0.0,2.0
+ijkplayer,XML,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-example\src\main\res\values-v14\styles.xml,0,0.0,2.0
+ijkplayer,Properties,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-x86\src\main\project.properties,1,12.0,2.0
+ijkplayer,make,D:\clones\ijkplayer\ijkmedia\Android.mk,1,18.0,2.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ijkmedia\ijkplayer\ijkavformat\ijkioprotocol.h,1,20.0,2.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijksdl\ios\ijksdl_aout_ios_audiounit.h,2,22.0,2.0
+ijkplayer,make,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-x86_64\src\main\jni\Android.mk,0,0.0,1.0
+ijkplayer,diff,D:\clones\ijkplayer\android\patches\0004-armv5-link-prebuilt-staic-libraries-of-ffmepg.patch,0,0.0,1.0
+ijkplayer,Bourne Shell,D:\clones\ijkplayer\config\module.sh,0,0.0,1.0
+ijkplayer,C/C++ Header,D:\clones\ijkplayer\ios\IJKMediaPlayer\IJKMediaPlayer\ijkmedia\ijksdl\ios\ijksdl_thread_ios.h,1,22.0,1.0
+ijkplayer,Python,D:\clones\ijkplayer\tools\copyrighter\__init__.py,0,16.0,1.0
+ijkplayer,ProGuard,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-arm64\proguard-rules.pro,2,15.0,0.0
+ijkplayer,ProGuard,D:\clones\ijkplayer\android\ijkplayer\ijkplayer-x86_64\proguard-rules.pro,2,15.0,0.0
+ijkplayer,make,D:\clones\ijkplayer\ijkprof\android-ndk-profiler-dummy\jni\Android-include.mk,1,19.0,0.0

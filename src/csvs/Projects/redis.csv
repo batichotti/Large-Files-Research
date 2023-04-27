@@ -1,0 +1,1279 @@
+project,language,filename,blank,comment,code
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\configure,2205,926.0,10981.0
+redis,C,D:\clones\redis\src\redis-cli.c,631,757.0,7590.0
+redis,C,D:\clones\redis\src\module.c,960,4855.0,5987.0
+redis,HTML,D:\clones\redis\deps\lua\doc\manual.html,2892,5.0,5907.0
+redis,C,D:\clones\redis\src\server.c,753,1299.0,4913.0
+redis,C,D:\clones\redis\src\cluster.c,710,1831.0,4296.0
+redis,C,D:\clones\redis\src\commands.c,1573,1592.0,3927.0
+redis,C,D:\clones\redis\src\sentinel.c,613,1076.0,3649.0
+redis,C,D:\clones\redis\src\t_zset.c,551,747.0,3044.0
+redis,C,D:\clones\redis\deps\jemalloc\src\jemalloc.c,476,522.0,2933.0
+redis,C,D:\clones\redis\src\networking.c,445,1025.0,2829.0
+redis,C,D:\clones\redis\deps\jemalloc\src\ctl.c,380,310.0,2745.0
+redis,C,D:\clones\redis\src\rdb.c,340,577.0,2594.0
+redis,C/C++ Header,D:\clones\redis\src\server.h,254,664.0,2550.0
+redis,C,D:\clones\redis\src\quicklist.c,359,407.0,2473.0
+redis,C,D:\clones\redis\src\replication.c,424,1137.0,2468.0
+redis,C,D:\clones\redis\deps\jemalloc\src\prof.c,460,266.0,2434.0
+redis,C,D:\clones\redis\src\t_stream.c,363,1003.0,2378.0
+redis,C,D:\clones\redis\src\config.c,374,380.0,2230.0
+redis,m4,D:\clones\redis\deps\jemalloc\configure.ac,170,149.0,2087.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\type\zset.tcl,341,112.0,1949.0
+redis,C,D:\clones\redis\src\acl.c,266,713.0,1939.0
+redis,C/C++ Header,D:\clones\redis\src\help.h,4,1.0,1844.0
+redis,C,D:\clones\redis\deps\jemalloc\src\extent.c,293,305.0,1805.0
+redis,C,D:\clones\redis\src\ziplist.c,291,586.0,1789.0
+redis,C,D:\clones\redis\src\debug.c,153,198.0,1767.0
+redis,C,D:\clones\redis\deps\jemalloc\src\arena.c,301,236.0,1761.0
+redis,C,D:\clones\redis\src\aof.c,311,517.0,1751.0
+redis,C,D:\clones\redis\src\redis-benchmark.c,129,140.0,1750.0
+redis,C,D:\clones\redis\src\listpack.c,262,433.0,1722.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\build-aux\config.sub,36,100.0,1689.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\type\list.tcl,247,74.0,1630.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\SFMT.c,15,35.0,1549.0
+redis,C,D:\clones\redis\src\db.c,269,669.0,1420.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\build-aux\config.guess,42,185.0,1235.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\scripting.tcl,179,70.0,1225.0
+redis,C,D:\clones\redis\src\object.c,173,271.0,1210.0
+redis,C/C++ Header,D:\clones\redis\src\redismodule.h,107,186.0,1189.0
+redis,C,D:\clones\redis\src\eval.c,153,307.0,1184.0
+redis,C,D:\clones\redis\deps\jemalloc\src\stats.c,211,67.0,1179.0
+redis,C,D:\clones\redis\deps\hiredis\test.c,198,150.0,1077.0
+redis,C,D:\clones\redis\deps\lua\src\lparser.c,182,85.0,1072.0
+redis,C,D:\clones\redis\src\rax.c,157,712.0,1058.0
+redis,C,D:\clones\redis\src\sds.c,151,396.0,1035.0
+redis,C,D:\clones\redis\src\script_lua.c,173,287.0,980.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\functions.tcl,149,12.0,974.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\replication.tcl,174,179.0,968.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\stats_print.c,38,4.0,957.0
+redis,C,D:\clones\redis\src\defrag.c,104,203.0,940.0
+redis,C,D:\clones\redis\deps\lua\src\lua_cjson.c,234,254.0,939.0
+redis,C,D:\clones\redis\src\bitops.c,118,273.0,872.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\aof-multi-part.tcl,250,50.0,870.0
+redis,C,D:\clones\redis\deps\hdr_histogram\hdr_histogram.c,218,81.0,862.0
+redis,C,D:\clones\redis\src\hyperloglog.c,130,617.0,855.0
+redis,C,D:\clones\redis\deps\lua\src\lapi.c,196,38.0,853.0
+redis,C,D:\clones\redis\deps\hiredis\sds.c,114,323.0,852.0
+redis,Tcl/Tk,D:\clones\redis\tests\support\util.tcl,97,91.0,843.0
+redis,C,D:\clones\redis\deps\hiredis\hiredis.c,181,155.0,838.0
+redis,C,D:\clones\redis\src\t_hash.c,148,181.0,829.0
+redis,C,D:\clones\redis\src\t_set.c,139,270.0,828.0
+redis,C/C++ Header,D:\clones\redis\src\crc16_slottable.h,5,6.0,824.0
+redis,C,D:\clones\redis\deps\linenoise\linenoise.c,122,294.0,811.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\rb.h,19,177.0,810.0
+redis,C,D:\clones\redis\src\t_list.c,153,251.0,804.0
+redis,C,D:\clones\redis\src\tls.c,177,139.0,798.0
+redis,C,D:\clones\redis\src\dict.c,154,381.0,789.0
+redis,C,D:\clones\redis\src\functions.c,112,157.0,781.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\type\set.tcl,136,58.0,777.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\multi.tcl,97,44.0,774.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\acl.tcl,122,42.0,764.0
+redis,C,D:\clones\redis\deps\jemalloc\src\background_thread.c,100,86.0,753.0
+redis,C,D:\clones\redis\src\util.c,123,196.0,747.0
+redis,C,D:\clones\redis\deps\lua\src\lstrlib.c,107,26.0,738.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\mallctl.c,129,22.0,737.0
+redis,Tcl/Tk,D:\clones\redis\tests\test_helper.tcl,59,87.0,728.0
+redis,C,D:\clones\redis\deps\lua\src\lua_cmsgpack.c,110,141.0,727.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\type\stream.tcl,80,30.0,703.0
+redis,C,D:\clones\redis\deps\lua\src\lcode.c,121,19.0,691.0
+redis,C,D:\clones\redis\deps\lua\src\lvm.c,56,22.0,689.0
+redis,C,D:\clones\redis\tests\modules\basics.c,195,81.0,685.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\corrupt-dump.tcl,83,20.0,684.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\type\stream-cgroups.tcl,111,75.0,661.0
+redis,C,D:\clones\redis\src\t_string.c,112,171.0,660.0
+redis,C,D:\clones\redis\src\geo.c,108,230.0,659.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\type\hash.tcl,93,48.0,656.0
+redis,C,D:\clones\redis\deps\jemalloc\src\tcache.c,97,87.0,614.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\expire.tcl,86,55.0,607.0
+redis,C,D:\clones\redis\deps\hiredis\async.c,138,158.0,591.0
+redis,YAML,D:\clones\redis\.github\workflows\daily.yml,19,1.0,590.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\geo.tcl,97,38.0,583.0
+redis,C,D:\clones\redis\deps\lua\src\lgc.c,86,43.0,581.0
+redis,C,D:\clones\redis\deps\jemalloc\src\malloc_io.c,51,51.0,573.0
+redis,Tcl/Tk,D:\clones\redis\tests\instances.tcl,59,70.0,573.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\tracking.tcl,64,60.0,566.0
+redis,C,D:\clones\redis\deps\hiredis\read.c,97,88.0,554.0
+redis,Tcl/Tk,D:\clones\redis\tests\support\server.tcl,99,90.0,549.0
+redis,C,D:\clones\redis\src\latency.c,97,125.0,538.0
+redis,C,D:\clones\redis\tests\modules\datatype2.c,116,89.0,534.0
+redis,C,D:\clones\redis\deps\lua\src\ldebug.c,83,23.0,532.0
+redis,C,D:\clones\redis\src\zmalloc.c,83,139.0,529.0
+redis,C,D:\clones\redis\deps\lua\src\lbaselib.c,102,28.0,523.0
+redis,Markdown,D:\clones\redis\deps\hiredis\README.md,142,0.0,516.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\aof.tcl,86,46.0,503.0
+redis,C,D:\clones\redis\deps\jemalloc\src\pages.c,81,67.0,501.0
+redis,C,D:\clones\redis\src\anet.c,83,98.0,501.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\propagate.tcl,84,26.0,500.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\type\string.tcl,92,18.0,491.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\bitops.tcl,56,39.0,488.0
+redis,C,D:\clones\redis\deps\lua\src\lauxlib.c,131,36.0,485.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\decay.c,76,45.0,484.0
+redis,C,D:\clones\redis\src\pubsub.c,76,174.0,473.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\memefficiency.tcl,47,59.0,472.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\hook.c,71,38.0,471.0
+redis,HTML,D:\clones\redis\deps\lua\doc\contents.html,25,3.0,469.0
+redis,C,D:\clones\redis\deps\hiredis\net.c,80,68.0,464.0
+redis,C,D:\clones\redis\deps\lua\src\loadlib.c,135,70.0,461.0
+redis,C,D:\clones\redis\deps\jemalloc\test\src\SFMT.c,60,218.0,441.0
+redis,m4,D:\clones\redis\deps\jemalloc\m4\ax_cxx_compile_stdcxx.m4,116,6.0,440.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\keyspace.tcl,52,0.0,440.0
+redis,C,D:\clones\redis\src\blocked.c,84,303.0,439.0
+redis,C,D:\clones\redis\src\redis-check-aof.c,61,83.0,436.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\maxmemory.tcl,72,75.0,426.0
+redis,C,D:\clones\redis\deps\lua\src\ldo.c,67,27.0,425.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\extent_inlines.h,83,2.0,416.0
+redis,C,D:\clones\redis\deps\lua\src\liolib.c,106,36.0,414.0
+redis,C,D:\clones\redis\deps\lua\src\ltable.c,87,91.0,410.0
+redis,C,D:\clones\redis\src\intset.c,66,74.0,407.0
+redis,C,D:\clones\redis\src\sort.c,52,141.0,407.0
+redis,C,D:\clones\redis\deps\jemalloc\src\base.c,49,60.0,405.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\emitter.c,50,15.0,404.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\rtree.h,53,80.0,395.0
+redis,C,D:\clones\redis\deps\jemalloc\src\tsd.c,55,93.0,386.0
+redis,C,D:\clones\redis\src\expire.c,87,278.0,386.0
+redis,C,D:\clones\redis\deps\lua\src\llex.c,61,17.0,385.0
+redis,C,D:\clones\redis\src\script.c,80,100.0,385.0
+redis,C,D:\clones\redis\tests\modules\blockonkeys.c,86,36.0,382.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\bitmap.c,32,18.0,381.0
+redis,C,D:\clones\redis\src\tracking.c,53,204.0,379.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\client-eviction.tcl,71,63.0,378.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\emitter.h,51,58.0,377.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\redis-cli.tcl,90,17.0,373.0
+redis,C,D:\clones\redis\deps\jemalloc\src\ckh.c,77,121.0,372.0
+redis,C,D:\clones\redis\src\modules\helloworld.c,93,156.0,372.0
+redis,Markdown,D:\clones\redis\README.md,138,0.0,365.0
+redis,C,D:\clones\redis\src\evict.c,83,326.0,360.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\acl-v2.tcl,72,28.0,356.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\introspection.tcl,77,65.0,355.0
+redis,C,D:\clones\redis\deps\hiredis\ssl.c,81,93.0,352.0
+redis,XML,D:\clones\redis\deps\jemalloc\msvc\projects\vc2015\jemalloc\jemalloc.vcxproj,0,0.0,350.0
+redis,XML,D:\clones\redis\deps\jemalloc\msvc\projects\vc2017\jemalloc\jemalloc.vcxproj,0,0.0,350.0
+redis,make,D:\clones\redis\src\Makefile,70,61.0,347.0
+redis,C,D:\clones\redis\src\function_lua.c,69,97.0,345.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\math.c,35,11.0,344.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\dump.tcl,44,2.0,336.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\arena_inlines_b.h,60,36.0,331.0
+redis,C,D:\clones\redis\deps\lua\src\ldblib.c,61,6.0,331.0
+redis,C,D:\clones\redis\src\ae.c,63,119.0,330.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\ph.h,14,48.0,329.0
+redis,Python,D:\clones\redis\utils\generate-command-code.py,69,28.0,329.0
+redis,XML,D:\clones\redis\deps\jemalloc\msvc\projects\vc2015\test_threads\test_threads.vcxproj,0,0.0,327.0
+redis,XML,D:\clones\redis\deps\jemalloc\msvc\projects\vc2017\test_threads\test_threads.vcxproj,0,0.0,326.0
+redis,C,D:\clones\redis\deps\lua\src\lua.c,61,8.0,323.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\stats.c,54,1.0,319.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\other.tcl,49,18.0,319.0
+redis,C,D:\clones\redis\src\zipmap.c,65,159.0,318.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\pubsub.tcl,51,26.0,316.0
+redis,C,D:\clones\redis\tests\modules\misc.c,43,2.0,311.0
+redis,Tcl/Tk,D:\clones\redis\tests\support\redis.tcl,34,42.0,311.0
+redis,C,D:\clones\redis\src\redis-check-rdb.c,40,82.0,310.0
+redis,C,D:\clones\redis\deps\jemalloc\src\zone.c,65,96.0,308.0
+redis,C,D:\clones\redis\deps\lua\src\lua_struct.c,57,64.0,308.0
+redis,C,D:\clones\redis\src\call_reply.c,52,169.0,306.0
+redis,C,D:\clones\redis\src\multi.c,57,110.0,302.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\test\include\test\test.h,33,5.0,300.0
+redis,C,D:\clones\redis\tests\modules\testrdb.c,44,9.0,300.0
+redis,C,D:\clones\redis\deps\jemalloc\src\large.c,52,49.0,294.0
+redis,C,D:\clones\redis\src\rio.c,58,135.0,292.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\sort.tcl,37,2.0,291.0
+redis,C,D:\clones\redis\deps\jemalloc\test\integration\xallocx.c,72,27.0,285.0
+redis,Markdown,D:\clones\redis\deps\jemalloc\INSTALL.md,137,0.0,284.0
+redis,C/C++ Header,D:\clones\redis\src\cluster.h,42,74.0,284.0
+redis,Tcl/Tk,D:\clones\redis\tests\support\cluster.tcl,31,54.0,282.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\bitmap.h,35,54.0,280.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\psync2.tcl,40,58.0,280.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\arena_reset.c,61,12.0,276.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\rb.c,62,18.0,275.0
+redis,C,D:\clones\redis\src\memtest.c,37,66.0,274.0
+redis,C,D:\clones\redis\src\siphash.c,50,49.0,274.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\rdb.tcl,48,47.0,274.0
+redis,Markdown,D:\clones\redis\deps\hiredis\CHANGELOG.md,73,0.0,272.0
+redis,C,D:\clones\redis\tests\modules\propagate.c,83,48.0,272.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\ph.c,41,10.0,267.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\scan.tcl,43,23.0,264.0
+redis,C,D:\clones\redis\deps\jemalloc\src\rtree.c,31,27.0,262.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\test\include\test\extent_hooks.h,25,7.0,257.0
+redis,C,D:\clones\redis\deps\jemalloc\test\integration\smallocx.c,39,18.0,255.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\luaconf.h,156,355.0,252.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\tsd.h,40,126.0,249.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\info.tcl,26,3.0,249.0
+redis,make,D:\clones\redis\deps\hiredis\Makefile,55,11.0,247.0
+redis,C,D:\clones\redis\tests\modules\hooks.c,49,42.0,247.0
+redis,C,D:\clones\redis\src\modules\hellotype.c,49,68.0,245.0
+redis,C,D:\clones\redis\src\connection.c,72,133.0,244.0
+redis,C,D:\clones\redis\src\cli_common.c,44,89.0,240.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\witness.h,60,50.0,237.0
+redis,C,D:\clones\redis\src\adlist.c,39,107.0,237.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\hash.h,66,20.0,233.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\extent_util.c,24,12.0,233.0
+redis,C,D:\clones\redis\deps\jemalloc\src\sc.c,25,56.0,232.0
+redis,C,D:\clones\redis\deps\lua\src\ltablib.c,39,18.0,230.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\malloc_io.c,33,0.0,225.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\test\include\test\math.h,24,58.0,224.0
+redis,C,D:\clones\redis\deps\jemalloc\test\integration\mallocx.c,34,18.0,222.0
+redis,C/C++ Header,D:\clones\redis\src\sds.h,20,45.0,222.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\mutex.h,29,39.0,220.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\sds.h,19,40.0,219.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\lobject.h,104,58.0,219.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\prof_reset.c,55,13.0,218.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\sz.h,42,59.0,217.0
+redis,C,D:\clones\redis\tests\modules\blockedclient.c,71,38.0,216.0
+redis,C,D:\clones\redis\tests\modules\datatype.c,60,11.0,214.0
+redis,C,D:\clones\redis\deps\hiredis\dict.c,48,91.0,213.0
+redis,C,D:\clones\redis\deps\jemalloc\test\integration\extent.c,26,9.0,213.0
+redis,C,D:\clones\redis\deps\jemalloc\test\integration\rallocx.c,37,8.0,213.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\type\list-3.tcl,15,4.0,213.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\qr.c,30,2.0,211.0
+redis,C,D:\clones\redis\tests\modules\eventloop.c,40,26.0,211.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\witness.c,70,0.0,210.0
+redis,JSON,D:\clones\redis\src\commands\geosearchstore.json,0,0.0,210.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\cluster.tcl,26,37.0,210.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\blockonkeys.tcl,24,5.0,210.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\smoothstep.h,3,20.0,209.0
+redis,C,D:\clones\redis\deps\lua\src\print.c,14,5.0,208.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\nstime.c,41,1.0,207.0
+redis,C,D:\clones\redis\tests\modules\keyspace_events.c,50,39.0,207.0
+redis,C,D:\clones\redis\deps\lua\src\lmathlib.c,47,10.0,206.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\bitfield.tcl,24,2.0,206.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\bit_util.h,27,7.0,205.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\failover.tcl,60,30.0,204.0
+redis,C/C++ Header,D:\clones\redis\src\config.h,34,57.0,203.0
+redis,JSON,D:\clones\redis\src\commands\georadius.json,0,0.0,200.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\prng.c,38,0.0,199.0
+redis,C,D:\clones\redis\tests\modules\stream.c,22,37.0,199.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_inlines_c.h,30,45.0,198.0
+redis,JSON,D:\clones\redis\src\commands\geosearch.json,0,0.0,198.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\atomic.c,17,15.0,197.0
+redis,C,D:\clones\redis\tests\modules\blockonbackground.c,48,50.0,197.0
+redis,Tcl/Tk,D:\clones\redis\tests\support\test.tcl,29,11.0,197.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\protocol.tcl,35,13.0,197.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\testrdb.tcl,33,30.0,196.0
+redis,C,D:\clones\redis\deps\lua\src\lundump.c,21,11.0,195.0
+redis,C,D:\clones\redis\src\setproctitle.c,66,70.0,195.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\base.c,28,13.0,193.0
+redis,C,D:\clones\redis\src\lzf_c.c,43,67.0,192.0
+redis,C,D:\clones\redis\deps\hiredis\sockcompat.c,22,35.0,191.0
+redis,C,D:\clones\redis\deps\jemalloc\src\extent_dss.c,35,45.0,191.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\psync2-pingoff.tcl,27,32.0,191.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\aofrw.tcl,19,14.0,191.0
+redis,JSON,D:\clones\redis\src\commands\georadiusbymember.json,0,0.0,189.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\rtree.c,39,1.0,188.0
+redis,C,D:\clones\redis\tests\modules\list.c,17,31.0,188.0
+redis,YAML,D:\clones\redis\deps\jemalloc\.travis.yml,6,3.0,186.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\tcache_inlines.h,31,10.0,186.0
+redis,C,D:\clones\redis\deps\jemalloc\src\mutex.c,24,13.0,186.0
+redis,C,D:\clones\redis\deps\lua\src\loslib.c,43,14.0,186.0
+redis,C,D:\clones\redis\src\crcspeed.c,43,54.0,185.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\arena_stats.h,34,53.0,184.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\tsd.c,38,45.0,184.0
+redis,C,D:\clones\redis\src\geohash.c,55,60.0,184.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\hyperloglog.tcl,22,10.0,182.0
+redis,C,D:\clones\redis\deps\jemalloc\test\src\test.c,35,19.0,180.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\lua.h,106,102.0,180.0
+redis,C,D:\clones\redis\deps\lua\src\luac.c,17,5.0,178.0
+redis,C,D:\clones\redis\tests\modules\defragtest.c,48,11.0,178.0
+redis,Ruby,D:\clones\redis\utils\lru\test-lru.rb,29,16.0,178.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\datatype2.tcl,55,0.0,177.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\ckh.c,32,3.0,176.0
+redis,Markdown,D:\clones\redis\deps\linenoise\README.markdown,71,0.0,176.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\prof_inlines_b.h,43,32.0,175.0
+redis,C,D:\clones\redis\deps\lua\src\lobject.c,27,12.0,175.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\hiredis.h,50,115.0,171.0
+redis,C,D:\clones\redis\src\bio.c,32,106.0,169.0
+redis,HTML,D:\clones\redis\deps\lua\doc\lua.html,2,2.0,168.0
+redis,C,D:\clones\redis\deps\lua\src\lstate.c,31,15.0,168.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\corrupt-dump-fuzzer.tcl,23,27.0,168.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\pause.tcl,35,10.0,167.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\replication-4.tcl,23,8.0,166.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\atomic_gcc_sync.h,10,21.0,164.0
+redis,C,D:\clones\redis\src\ae_evport.c,56,101.0,164.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\obuf-limits.tcl,27,24.0,164.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\shutdown.tcl,36,39.0,163.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\cluster.tcl,41,21.0,163.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\blockedclient.tcl,40,14.0,163.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\ql.c,35,7.0,162.0
+redis,JSON,D:\clones\redis\src\commands\migrate.json,1,0.0,162.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\replication-buffer.tcl,25,42.0,162.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\slowlog.tcl,28,12.0,162.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\size_classes.c,28,0.0,160.0
+redis,C,D:\clones\redis\tests\modules\test_lazyfree.c,30,7.0,159.0
+redis,C,D:\clones\redis\src\geohash_helper.c,26,79.0,158.0
+redis,C,D:\clones\redis\tests\modules\keyspecs.c,18,9.0,158.0
+redis,C,D:\clones\redis\src\sha1.c,31,40.0,157.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\pubsubshard.tcl,38,19.0,156.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\27-endpoints.tcl,40,36.0,155.0
+redis,C,D:\clones\redis\src\resp_parser.c,18,56.0,154.0
+redis,C/C++ Header,D:\clones\redis\deps\hdr_histogram\hdr_histogram.h,56,299.0,153.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\build-aux\install-sh,51,46.0,153.0
+redis,C,D:\clones\redis\deps\lua\src\strbuf.c,52,46.0,153.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\msvc_compat\C99\stdint.h,40,55.0,152.0
+redis,C,D:\clones\redis\src\lazyfree.c,21,54.0,152.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\log.c,32,11.0,150.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\cluster.tcl,40,15.0,150.0
+redis,C,D:\clones\redis\tests\modules\aclcheck.c,35,10.0,149.0
+redis,JSON,D:\clones\redis\src\commands\xadd.json,0,0.0,148.0
+redis,Ruby,D:\clones\redis\utils\generate-module-api-doc.rb,15,33.0,148.0
+redis,C,D:\clones\redis\deps\jemalloc\src\hook.c,19,30.0,146.0
+redis,JSON,D:\clones\redis\src\commands\georadius_ro.json,0,0.0,146.0
+redis,C,D:\clones\redis\tests\modules\cmdintrospection.c,7,4.0,146.0
+redis,Bourne Shell,D:\clones\redis\utils\install_server.sh,36,110.0,145.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\10-manual-failover.tcl,39,9.0,144.0
+redis,C,D:\clones\redis\tests\modules\reply.c,46,3.0,144.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\04-resharding.tcl,21,33.0,142.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\type\incr.tcl,24,4.0,142.0
+redis,C,D:\clones\redis\deps\jemalloc\test\stress\microbench.c,23,1.0,141.0
+redis,HTML,D:\clones\redis\deps\lua\doc\luac.html,2,2.0,141.0
+redis,Tcl/Tk,D:\clones\redis\tests\support\aofmanifest.tcl,28,0.0,141.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\atomic_msvc.h,13,5.0,140.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\tsd_generic.h,19,4.0,140.0
+redis,C,D:\clones\redis\deps\lua\src\lua_bit.c,16,34.0,139.0
+redis,C,D:\clones\redis\tests\modules\commandfilter.c,36,6.0,139.0
+redis,C,D:\clones\redis\deps\lua\src\ldump.c,19,8.0,137.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\retained.c,28,20.0,136.0
+redis,C,D:\clones\redis\deps\lua\src\lfunc.c,29,9.0,136.0
+redis,JSON,D:\clones\redis\src\commands\sort.json,0,0.0,136.0
+redis,C/C++ Header,D:\clones\redis\src\dict.h,28,48.0,136.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\introspection-2.tcl,27,7.0,136.0
+redis,make,D:\clones\redis\deps\lua\src\Makefile,36,12.0,135.0
+redis,JSON,D:\clones\redis\src\commands\georadiusbymember_ro.json,0,0.0,135.0
+redis,C,D:\clones\redis\src\lzf_d.c,19,37.0,135.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\05-slave-selection.tcl,31,13.0,135.0
+redis,C,D:\clones\redis\tests\modules\getkeys.c,32,11.0,135.0
+redis,C,D:\clones\redis\deps\jemalloc\src\nstime.c,36,1.0,133.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_inlines_a.h,25,17.0,132.0
+redis,JSON,D:\clones\redis\src\commands\set.json,0,0.0,132.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\hooks.tcl,24,7.0,131.0
+redis,CMake,D:\clones\redis\deps\hiredis\CMakeLists.txt,34,1.0,130.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\latency-monitor.tcl,15,4.0,128.0
+redis,JSON,D:\clones\redis\src\commands\bitfield.json,0,0.0,127.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\adapters\glib.h,26,4.0,126.0
+redis,C,D:\clones\redis\deps\jemalloc\test\integration\aligned_alloc.c,18,13.0,126.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\stream.tcl,12,21.0,126.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\pack.c,23,19.0,124.0
+redis,JSON,D:\clones\redis\src\commands\zadd.json,0,0.0,124.0
+redis,C/C++ Header,D:\clones\redis\src\connection.h,34,100.0,124.0
+redis,C,D:\clones\redis\src\sha256.c,18,21.0,124.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\psync2-master-restart.tcl,28,23.0,124.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\redis-benchmark.tcl,21,17.0,124.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\adapters\libev.h,23,33.0,123.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\binshard.c,24,7.0,123.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\hash.c,17,33.0,123.0
+redis,C,D:\clones\redis\src\pqsort.c,22,40.0,123.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\junk.c,19,0.0,122.0
+redis,C,D:\clones\redis\src\ae_kqueue.c,27,41.0,122.0
+redis,C/C++ Header,D:\clones\redis\src\quicklist.h,21,68.0,122.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\safety_check.c,25,10.0,121.0
+redis,C,D:\clones\redis\src\slowlog.c,16,68.0,121.0
+redis,C,D:\clones\redis\utils\hashtable\rehashing.c,22,0.0,121.0
+redis,YAML,D:\clones\redis\deps\hiredis\.travis.yml,10,2.0,119.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\atomic_gcc_atomic.h,9,1.0,119.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\tsd_win.h,16,4.0,119.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\prof_log.c,22,7.0,119.0
+redis,JSON,D:\clones\redis\src\commands\client-kill.json,0,0.0,117.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\adapters\libevent.h,26,33.0,116.0
+redis,JSON,D:\clones\redis\src\commands\sort_ro.json,0,0.0,115.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\25-pubsubshard-slot-migration.tcl,47,9.0,115.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\extent_quantize.c,19,8.0,114.0
+redis,JSON,D:\clones\redis\src\commands\zrangestore.json,0,0.0,114.0
+redis,C,D:\clones\redis\src\modules\helloblock.c,29,76.0,114.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\tls.tcl,37,7.0,114.0
+redis,C/C++ Header,D:\clones\redis\deps\hdr_histogram\hdr_atomic.h,28,5.0,113.0
+redis,Ruby,D:\clones\redis\src\redis-trib.rb,13,3.0,113.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\misc.tcl,21,5.0,113.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\networking.tcl,30,22.0,113.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\lopcodes.h,77,79.0,112.0
+redis,C,D:\clones\redis\src\lolwut6.c,14,75.0,112.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\replication-3.tcl,10,8.0,112.0
+redis,XML,D:\clones\redis\deps\jemalloc\msvc\projects\vc2017\jemalloc\jemalloc.vcxproj.filters,0,0.0,110.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\lstate.h,37,22.0,110.0
+redis,C,D:\clones\redis\src\monotonic.c,34,26.0,110.0
+redis,C,D:\clones\redis\deps\jemalloc\test\integration\posix_memalign.c,14,5.0,109.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\fork.c,14,18.0,109.0
+redis,C,D:\clones\redis\src\childinfo.c,22,50.0,109.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\replication-psync.tcl,15,19.0,109.0
+redis,C,D:\clones\redis\deps\jemalloc\test\integration\allocated.c,15,1.0,108.0
+redis,Ruby,D:\clones\redis\utils\generate-command-help.rb,16,7.0,108.0
+redis,Tcl/Tk,D:\clones\redis\utils\speed-regression.tcl,14,8.0,108.0
+redis,XML,D:\clones\redis\deps\jemalloc\msvc\projects\vc2015\jemalloc\jemalloc.vcxproj.filters,0,0.0,107.0
+redis,C,D:\clones\redis\src\modules\helloacl.c,35,49.0,107.0
+redis,C,D:\clones\redis\src\setcpuaffinity.c,20,28.0,107.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\prng.h,40,39.0,106.0
+redis,JSON,D:\clones\redis\src\commands\blmove.json,0,0.0,106.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\blockonbackground.tcl,17,3.0,106.0
+redis,Bourne Again Shell,D:\clones\redis\utils\create-cluster\create-cluster,15,4.0,106.0
+redis,C,D:\clones\redis\utils\lru\lfu-simulation.c,22,30.0,106.0
+redis,JSON,D:\clones\redis\src\commands\zrange.json,0,0.0,105.0
+redis,Tcl/Tk,D:\clones\redis\tests\sentinel\tests\00-base.tcl,19,8.0,105.0
+redis,C,D:\clones\redis\deps\lua\src\fpconv.c,33,68.0,104.0
+redis,C++,D:\clones\redis\deps\jemalloc\src\jemalloc_cpp.cpp,27,11.0,103.0
+redis,JSON,D:\clones\redis\src\commands\xtrim.json,0,0.0,103.0
+redis,JSON,D:\clones\redis\src\commands\zinterstore.json,0,0.0,103.0
+redis,JSON,D:\clones\redis\src\commands\zunionstore.json,0,0.0,103.0
+redis,C,D:\clones\redis\src\timeout.c,18,69.0,103.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\ctl.h,21,11.0,102.0
+redis,C/C++ Header,D:\clones\redis\src\rio.h,24,52.0,102.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\background_thread.c,17,1.0,101.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\bit_util.c,10,0.0,101.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\22-replica-in-sync.tcl,26,19.0,101.0
+redis,C,D:\clones\redis\tests\modules\infotest.c,18,0.0,101.0
+redis,JSON,D:\clones\redis\src\commands\lmove.json,0,0.0,100.0
+redis,C,D:\clones\redis\src\sparkline.c,19,57.0,100.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\test\include\test\SFMT-alti.h,10,77.0,99.0
+redis,C,D:\clones\redis\src\mt19937-64.c,31,57.0,99.0
+redis,C/C++ Header,D:\clones\redis\src\rdb.h,16,62.0,99.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\lauxlib.h,57,20.0,97.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\prof_thread_name.c,21,3.0,96.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\arena_externs.h,9,0.0,95.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\extent_structs.h,31,130.0,95.0
+redis,JSON,D:\clones\redis\src\commands\restore.json,0,0.0,95.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\prof_active.c,18,5.0,94.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\strbuf.h,23,37.0,94.0
+redis,JSON,D:\clones\redis\src\commands\geoadd.json,0,0.0,94.0
+redis,JSON,D:\clones\redis\src\commands\xclaim.json,0,0.0,94.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\03-failover-loop.tcl,16,7.0,94.0
+redis,Markdown,D:\clones\redis\deps\jemalloc\TUNING.md,36,0.0,93.0
+redis,JSON,D:\clones\redis\src\commands\bitpos.json,0,0.0,93.0
+redis,C,D:\clones\redis\tests\modules\scan.c,23,5.0,93.0
+redis,JSON,D:\clones\redis\src\commands\xreadgroup.json,0,0.0,92.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\infotest.tcl,19,12.0,92.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\adapters\qt.h,20,24.0,91.0
+redis,C,D:\clones\redis\src\lolwut.c,19,78.0,91.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\huge.c,15,4.0,89.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\keyspecs.tcl,13,12.0,89.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_decls.h,3,3.0,88.0
+redis,C,D:\clones\redis\deps\lua\src\lstring.c,15,8.0,88.0
+redis,C,D:\clones\redis\src\ae_epoll.c,19,33.0,87.0
+redis,JSON,D:\clones\redis\src\commands\xpending.json,0,0.0,87.0
+redis,C,D:\clones\redis\src\lolwut5.c,12,78.0,87.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\oom-score-adj.tcl,28,12.0,86.0
+redis,C,D:\clones\redis\deps\hiredis\examples\example-ssl.c,17,8.0,85.0
+redis,C,D:\clones\redis\deps\jemalloc\src\witness.c,14,1.0,85.0
+redis,C,D:\clones\redis\deps\lua\src\lopcodes.c,11,6.0,85.0
+redis,JSON,D:\clones\redis\src\commands\brpoplpush.json,0,0.0,85.0
+redis,JSON,D:\clones\redis\src\commands\zinter.json,0,0.0,85.0
+redis,JSON,D:\clones\redis\src\commands\zrangebyscore.json,0,0.0,85.0
+redis,JSON,D:\clones\redis\src\commands\zunion.json,0,0.0,85.0
+redis,C/C++ Header,D:\clones\redis\src\stream.h,13,39.0,85.0
+redis,C/C++ Header,D:\clones\redis\src\zmalloc.h,16,42.0,85.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\replication-2.tcl,7,1.0,85.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_macros.h,14,16.0,84.0
+redis,C,D:\clones\redis\deps\jemalloc\src\bitmap.c,20,17.0,84.0
+redis,JSON,D:\clones\redis\src\commands\zrevrangebyscore.json,0,0.0,84.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\14-consistency-check.tcl,21,19.0,84.0
+redis,Tcl/Tk,D:\clones\redis\tests\sentinel\tests\07-down-conditions.tcl,11,4.0,84.0
+redis,C,D:\clones\redis\deps\hiredis\examples\example-push.c,28,49.0,83.0
+redis,C/C++ Header,D:\clones\redis\src\geohash.h,14,38.0,83.0
+redis,Python,D:\clones\redis\utils\generate-commands-json.py,26,26.0,83.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\adapters\libuv.h,35,0.0,82.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\adapters\macosx.h,26,7.0,82.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\atomic_c11.h,7,8.0,82.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\sc.h,19,232.0,82.0
+redis,C++,D:\clones\redis\deps\jemalloc\msvc\test_threads\test_threads.cpp,3,3.0,82.0
+redis,JSON,D:\clones\redis\src\commands\bitcount.json,0,0.0,82.0
+redis,JSON,D:\clones\redis\src\commands\client-list.json,0,0.0,82.0
+redis,JSON,D:\clones\redis\src\commands\expire.json,0,0.0,82.0
+redis,JSON,D:\clones\redis\src\commands\expireat.json,0,0.0,82.0
+redis,JSON,D:\clones\redis\src\commands\pexpire.json,0,0.0,82.0
+redis,JSON,D:\clones\redis\src\commands\pexpireat.json,0,0.0,82.0
+redis,C,D:\clones\redis\tests\modules\timer.c,20,0.0,82.0
+redis,Tcl/Tk,D:\clones\redis\utils\graphs\commits-over-time\genhtml.tcl,7,7.0,82.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\adapters\ae.h,17,32.0,81.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\seq.c,14,0.0,81.0
+redis,JSON,D:\clones\redis\src\commands\xautoclaim.json,0,0.0,81.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\23-multiple-slot-operations.tcl,23,11.0,81.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\prof_externs.h,11,14.0,80.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\prof_structs.h,37,83.0,80.0
+redis,Python,D:\clones\redis\deps\jemalloc\scripts\gen_run_tests.py,19,27.0,80.0
+redis,C,D:\clones\redis\deps\jemalloc\src\bin.c,13,2.0,80.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\violations.tcl,7,15.0,80.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\test\include\test\SFMT-sse2.h,8,70.0,79.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\test\include\test\mq.h,2,26.0,79.0
+redis,Lua,D:\clones\redis\deps\lua\test\life.lua,14,18.0,79.0
+redis,JSON,D:\clones\redis\src\commands\copy.json,0,0.0,79.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\lazyfree.tcl,7,4.0,79.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\keyspace_events.tcl,11,0.0,79.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\reply.tcl,16,6.0,79.0
+redis,YAML,D:\clones\redis\.github\workflows\external.yml,4,0.0,78.0
+redis,C/C++ Header,D:\clones\redis\src\ae.h,15,43.0,78.0
+redis,JSON,D:\clones\redis\src\commands\geodist.json,0,0.0,78.0
+redis,JSON,D:\clones\redis\src\commands\getex.json,0,0.0,78.0
+redis,C/C++ Header,D:\clones\redis\src\lzfP.h,22,90.0,78.0
+redis,Tcl/Tk,D:\clones\redis\tests\sentinel\tests\12-master-reboot.tcl,18,7.0,78.0
+redis,make,D:\clones\redis\deps\lua\Makefile,22,29.0,77.0
+redis,JSON,D:\clones\redis\src\commands\blmpop.json,0,0.0,77.0
+redis,JSON,D:\clones\redis\src\commands\bzmpop.json,0,0.0,77.0
+redis,C,D:\clones\redis\src\notify.c,12,54.0,77.0
+redis,C,D:\clones\redis\tests\modules\subcommands.c,17,5.0,76.0
+redis,JSON,D:\clones\redis\src\commands\client-tracking.json,0,0.0,75.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\15-cluster-slots.tcl,14,2.0,75.0
+redis,Markdown,D:\clones\redis\deps\README.md,22,0.0,74.0
+redis,C/C++ Header,D:\clones\redis\src\atomicvar.h,13,71.0,74.0
+redis,JSON,D:\clones\redis\src\commands\renamenx.json,0,0.0,74.0
+redis,C,D:\clones\redis\src\syncio.c,15,56.0,74.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\24-links.tcl,18,22.0,74.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\commandfilter.tcl,20,4.0,74.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\async.h,23,51.0,73.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\read.h,19,37.0,73.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\malloc_io.h,8,21.0,73.0
+redis,JSON,D:\clones\redis\src\commands\rename.json,1,0.0,73.0
+redis,JSON,D:\clones\redis\src\commands\rpoplpush.json,0,0.0,73.0
+redis,JSON,D:\clones\redis\src\commands\zdiffstore.json,0,0.0,73.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\07-replica-migration.tcl,19,11.0,73.0
+redis,C,D:\clones\redis\tests\modules\fork.c,16,4.0,73.0
+redis,make,D:\clones\redis\deps\Makefile,25,8.0,72.0
+redis,C,D:\clones\redis\deps\hiredis\examples\example-libevent-ssl.c,16,2.0,72.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\smoothstep.c,11,19.0,72.0
+redis,JSON,D:\clones\redis\src\commands\bitop.json,0,0.0,72.0
+redis,JSON,D:\clones\redis\src\commands\lcs.json,0,0.0,72.0
+redis,JSON,D:\clones\redis\src\commands\lmpop.json,0,0.0,72.0
+redis,JSON,D:\clones\redis\src\commands\smove.json,0,0.0,72.0
+redis,JSON,D:\clones\redis\src\commands\xread.json,0,0.0,72.0
+redis,JSON,D:\clones\redis\src\commands\zmpop.json,0,0.0,72.0
+redis,JSON,D:\clones\redis\src\commands\zrangebylex.json,0,0.0,72.0
+redis,JSON,D:\clones\redis\src\commands\zrevrangebylex.json,0,0.0,72.0
+redis,C,D:\clones\redis\tests\modules\auth.c,25,3.0,72.0
+redis,C,D:\clones\redis\tests\modules\hash.c,8,10.0,72.0
+redis,Tcl/Tk,D:\clones\redis\tests\sentinel\tests\02-slaves-reconf.tcl,11,8.0,72.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\auth.tcl,14,3.0,72.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\dict.h,17,38.0,71.0
+redis,C,D:\clones\redis\deps\jemalloc\test\integration\thread_tcache_enabled.c,15,1.0,71.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\mq.c,18,0.0,71.0
+redis,Tcl/Tk,D:\clones\redis\tests\sentinel\tests\includes\init-tests.tcl,8,1.0,71.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\extent_externs.h,11,2.0,70.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\mutex_prof.h,15,23.0,70.0
+redis,CSS,D:\clones\redis\deps\lua\doc\lua.css,13,0.0,70.0
+redis,JSON,D:\clones\redis\src\commands\xgroup-create.json,0,0.0,70.0
+redis,C,D:\clones\redis\src\crc64.c,18,73.0,70.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\mutex_pool.h,17,8.0,69.0
+redis,Python,D:\clones\redis\deps\jemalloc\scripts\gen_travis.py,26,54.0,69.0
+redis,C,D:\clones\redis\deps\jemalloc\test\integration\thread_arena.c,17,0.0,69.0
+redis,JSON,D:\clones\redis\src\commands\pfmerge.json,0,0.0,69.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\20-half-migrated-slot.tcl,18,11.0,69.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\dismiss-mem.tcl,14,18.0,69.0
+redis,Ruby,D:\clones\redis\utils\hyperloglog\hll-gnuplot-graph.rb,4,15.0,69.0
+redis,C,D:\clones\redis\deps\hiredis\examples\example.c,14,9.0,68.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\quantum.h,4,5.0,68.0
+redis,JSON,D:\clones\redis\src\commands\linsert.json,0,0.0,68.0
+redis,JSON,D:\clones\redis\src\commands\sdiffstore.json,0,0.0,68.0
+redis,JSON,D:\clones\redis\src\commands\sinterstore.json,0,0.0,68.0
+redis,JSON,D:\clones\redis\src\commands\sunionstore.json,0,0.0,68.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\00-base.tcl,11,3.0,68.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\26-pubsubshard.tcl,25,1.0,68.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\smoothstep.sh,13,21.0,67.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\background_thread_enable.c,11,7.0,67.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\psync2-reg.tcl,8,7.0,67.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\ql.h,20,2.0,66.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\prof_accum.c,15,0.0,66.0
+redis,JSON,D:\clones\redis\src\commands\eval.json,0,0.0,66.0
+redis,JSON,D:\clones\redis\src\commands\hset.json,0,0.0,66.0
+redis,YAML,D:\clones\redis\.github\workflows\ci.yml,9,2.0,65.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\arena_structs_b.h,23,144.0,65.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_inlines_b.h,14,8.0,65.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_types.h,18,31.0,65.0
+redis,JSON,D:\clones\redis\src\commands\evalsha.json,0,0.0,65.0
+redis,JSON,D:\clones\redis\src\commands\hmset.json,0,0.0,65.0
+redis,JSON,D:\clones\redis\src\commands\lpos.json,0,0.0,65.0
+redis,JSON,D:\clones\redis\src\commands\shutdown.json,0,0.0,65.0
+redis,Bourne Shell,D:\clones\redis\deps\hiredis\test.sh,12,2.0,64.0
+redis,JSON,D:\clones\redis\src\commands\fcall.json,0,0.0,64.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\includes\init-tests.tcl,6,5.0,64.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\datatype.tcl,16,8.0,64.0
+redis,Markdown,D:\clones\redis\TLS.md,24,0.0,63.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\adapters\ivykis.h,17,4.0,63.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\pages.h,9,16.0,63.0
+redis,JSON,D:\clones\redis\src\commands\hello.json,0,0.0,63.0
+redis,JSON,D:\clones\redis\src\commands\hrandfield.json,0,0.0,63.0
+redis,JSON,D:\clones\redis\src\commands\xgroup-setid.json,0,0.0,63.0
+redis,JSON,D:\clones\redis\src\commands\xrange.json,0,0.0,63.0
+redis,JSON,D:\clones\redis\src\commands\xrevrange.json,0,0.0,63.0
+redis,JSON,D:\clones\redis\src\commands\zrandmember.json,0,0.0,63.0
+redis,C,D:\clones\redis\src\endianconv.c,18,48.0,63.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\ticker.c,11,0.0,62.0
+redis,JSON,D:\clones\redis\src\commands\eval_ro.json,0,0.0,62.0
+redis,JSON,D:\clones\redis\src\commands\fcall_ro.json,0,0.0,62.0
+redis,JSON,D:\clones\redis\src\commands\hscan.json,0,0.0,62.0
+redis,JSON,D:\clones\redis\src\commands\sscan.json,0,0.0,62.0
+redis,JSON,D:\clones\redis\src\commands\zrevrange.json,0,0.0,62.0
+redis,JSON,D:\clones\redis\src\commands\zscan.json,0,0.0,62.0
+redis,C,D:\clones\redis\src\modules\hellodict.c,16,54.0,62.0
+redis,C/C++ Header,D:\clones\redis\src\rax.h,12,142.0,62.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\08-update-msg.tcl,18,10.0,62.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\aclcheck.tcl,17,12.0,62.0
+redis,Visual Studio Solution,D:\clones\redis\deps\jemalloc\msvc\jemalloc_vc2015.sln,1,1.0,61.0
+redis,Visual Studio Solution,D:\clones\redis\deps\jemalloc\msvc\jemalloc_vc2017.sln,1,1.0,61.0
+redis,C,D:\clones\redis\deps\jemalloc\test\stress\hookbench.c,11,1.0,61.0
+redis,JSON,D:\clones\redis\src\commands\evalsha_ro.json,0,0.0,61.0
+redis,make,D:\clones\redis\tests\modules\Makefile,12,2.0,61.0
+redis,C,D:\clones\redis\deps\hiredis\examples\example-glib.c,13,0.0,60.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\hook.h,22,81.0,60.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\log.h,15,40.0,60.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\lgc.h,28,22.0,60.0
+redis,C,D:\clones\redis\src\ae_select.c,17,32.0,60.0
+redis,JSON,D:\clones\redis\src\commands\spop.json,0,0.0,60.0
+redis,C,D:\clones\redis\src\modules\hellocluster.c,15,44.0,60.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\17-diskless-load-swapdb.tcl,15,11.0,60.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\getkeys.tcl,18,2.0,60.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\timer.tcl,23,16.0,60.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\cache_bin.h,17,55.0,59.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\prof_inlines_a.h,8,18.0,59.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\prof_gdump.c,15,0.0,59.0
+redis,C,D:\clones\redis\deps\lua\src\lzio.c,16,7.0,59.0
+redis,JSON,D:\clones\redis\src\commands\bitfield_ro.json,0,0.0,59.0
+redis,JSON,D:\clones\redis\src\commands\mset.json,0,0.0,59.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\list.tcl,8,3.0,59.0
+redis,JSON,D:\clones\redis\src\commands\bzpopmax.json,0,0.0,58.0
+redis,JSON,D:\clones\redis\src\commands\bzpopmin.json,0,0.0,58.0
+redis,JSON,D:\clones\redis\src\commands\srandmember.json,0,0.0,58.0
+redis,JSON,D:\clones\redis\src\commands\xinfo-stream.json,0,0.0,58.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\16-transactions-on-replica.tcl,12,1.0,58.0
+redis,C,D:\clones\redis\deps\jemalloc\src\log.c,9,12.0,57.0
+redis,C,D:\clones\redis\deps\jemalloc\test\integration\slab_sizes.c,11,12.0,57.0
+redis,C,D:\clones\redis\deps\linenoise\example.c,9,13.0,57.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\lparser.h,16,9.0,57.0
+redis,JSON,D:\clones\redis\src\commands\blpop.json,0,0.0,57.0
+redis,JSON,D:\clones\redis\src\commands\brpop.json,0,0.0,57.0
+redis,JSON,D:\clones\redis\src\commands\lpop.json,0,0.0,57.0
+redis,JSON,D:\clones\redis\src\commands\rpop.json,0,0.0,57.0
+redis,JSON,D:\clones\redis\src\commands\lpush.json,0,0.0,56.0
+redis,JSON,D:\clones\redis\src\commands\lpushx.json,0,0.0,56.0
+redis,JSON,D:\clones\redis\src\commands\rpush.json,0,0.0,56.0
+redis,JSON,D:\clones\redis\src\commands\rpushx.json,0,0.0,56.0
+redis,JSON,D:\clones\redis\src\commands\sadd.json,0,0.0,56.0
+redis,JSON,D:\clones\redis\src\commands\substr.json,0,0.0,56.0
+redis,C,D:\clones\redis\deps\hiredis\examples\example-libevent.c,10,2.0,55.0
+redis,C,D:\clones\redis\deps\jemalloc\test\integration\MALLOCX_ARENA.c,11,0.0,55.0
+redis,C,D:\clones\redis\deps\jemalloc\test\src\mtx.c,6,0.0,55.0
+redis,JSON,D:\clones\redis\src\commands\getset.json,0,0.0,55.0
+redis,JSON,D:\clones\redis\src\commands\hdel.json,0,0.0,55.0
+redis,JSON,D:\clones\redis\src\commands\msetnx.json,0,0.0,55.0
+redis,JSON,D:\clones\redis\src\commands\sintercard.json,0,0.0,55.0
+redis,JSON,D:\clones\redis\src\commands\srem.json,0,0.0,55.0
+redis,JSON,D:\clones\redis\src\commands\zdiff.json,0,0.0,55.0
+redis,JSON,D:\clones\redis\src\commands\zintercard.json,0,0.0,55.0
+redis,JSON,D:\clones\redis\src\commands\zrem.json,0,0.0,55.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\12-replica-migration-2.tcl,10,9.0,55.0
+redis,Tcl/Tk,D:\clones\redis\tests\sentinel\tests\10-replica-priority.tcl,10,11.0,55.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\sockcompat.h,6,32.0,54.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\bin.h,19,50.0,54.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\qr.h,12,6.0,54.0
+redis,Lua,D:\clones\redis\deps\lua\test\sort.lua,6,6.0,54.0
+redis,JSON,D:\clones\redis\src\commands\client-pause.json,0,0.0,54.0
+redis,JSON,D:\clones\redis\src\commands\exists.json,0,0.0,54.0
+redis,JSON,D:\clones\redis\src\commands\hincrby.json,0,0.0,54.0
+redis,JSON,D:\clones\redis\src\commands\hincrbyfloat.json,0,0.0,54.0
+redis,JSON,D:\clones\redis\src\commands\zincrby.json,0,0.0,54.0
+redis,C/C++ Header,D:\clones\redis\src\functions.h,18,61.0,54.0
+redis,C,D:\clones\redis\tests\modules\getchannels.c,9,6.0,54.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\background_thread_inlines.h,9,0.0,53.0
+redis,C,D:\clones\redis\deps\jemalloc\src\sz.c,7,4.0,53.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\llimits.h,51,24.0,53.0
+redis,JSON,D:\clones\redis\src\commands\hsetnx.json,0,0.0,53.0
+redis,JSON,D:\clones\redis\src\commands\pttl.json,0,0.0,53.0
+redis,JSON,D:\clones\redis\src\commands\setbit.json,0,0.0,53.0
+redis,JSON,D:\clones\redis\src\commands\ttl.json,0,0.0,53.0
+redis,JSON,D:\clones\redis\src\commands\xack.json,0,0.0,53.0
+redis,JSON,D:\clones\redis\src\commands\xgroup-createconsumer.json,0,0.0,53.0
+redis,C/C++ Header,D:\clones\redis\src\listpack.h,8,37.0,53.0
+redis,C/C++ Header,D:\clones\redis\src\adlist.h,11,33.0,52.0
+redis,JSON,D:\clones\redis\src\commands\flushall.json,0,0.0,52.0
+redis,JSON,D:\clones\redis\src\commands\flushdb.json,0,0.0,52.0
+redis,JSON,D:\clones\redis\src\commands\lset.json,0,0.0,52.0
+redis,JSON,D:\clones\redis\src\commands\psetex.json,0,0.0,52.0
+redis,JSON,D:\clones\redis\src\commands\setex.json,0,0.0,52.0
+redis,JSON,D:\clones\redis\src\commands\setrange.json,0,0.0,52.0
+redis,JSON,D:\clones\redis\src\commands\xgroup-delconsumer.json,0,0.0,52.0
+redis,JSON,D:\clones\redis\src\commands\zcount.json,0,0.0,52.0
+redis,JSON,D:\clones\redis\src\commands\zlexcount.json,0,0.0,52.0
+redis,C,D:\clones\redis\src\localtime.c,14,57.0,52.0
+redis,Tcl/Tk,D:\clones\redis\tests\sentinel\tests\08-hostname-conf.tcl,9,6.0,52.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\info-command.tcl,8,2.0,52.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\wait.tcl,6,0.0,52.0
+redis,C,D:\clones\redis\deps\lua\src\ltm.c,15,9.0,51.0
+redis,JSON,D:\clones\redis\src\commands\cluster-setslot.json,0,0.0,51.0
+redis,JSON,D:\clones\redis\src\commands\failover.json,0,0.0,51.0
+redis,JSON,D:\clones\redis\src\commands\function-restore.json,0,0.0,51.0
+redis,JSON,D:\clones\redis\src\commands\getrange.json,0,0.0,51.0
+redis,JSON,D:\clones\redis\src\commands\lrange.json,0,0.0,51.0
+redis,JSON,D:\clones\redis\src\commands\lrem.json,0,0.0,51.0
+redis,JSON,D:\clones\redis\src\commands\ltrim.json,0,0.0,51.0
+redis,JSON,D:\clones\redis\src\commands\pfadd.json,0,0.0,51.0
+redis,JSON,D:\clones\redis\src\commands\scan.json,0,0.0,51.0
+redis,JSON,D:\clones\redis\src\commands\xinfo-consumers.json,0,0.0,51.0
+redis,JSON,D:\clones\redis\src\commands\zremrangebylex.json,0,0.0,51.0
+redis,JSON,D:\clones\redis\src\commands\zremrangebyrank.json,0,0.0,51.0
+redis,JSON,D:\clones\redis\src\commands\zremrangebyscore.json,0,0.0,51.0
+redis,C,D:\clones\redis\src\modules\hellohook.c,8,34.0,51.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\ticker.h,11,30.0,50.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\zero.c,9,0.0,50.0
+redis,JSON,D:\clones\redis\src\commands\decrby.json,0,0.0,50.0
+redis,JSON,D:\clones\redis\src\commands\incrby.json,0,0.0,50.0
+redis,JSON,D:\clones\redis\src\commands\incrbyfloat.json,0,0.0,50.0
+redis,JSON,D:\clones\redis\src\commands\zpopmax.json,0,0.0,50.0
+redis,JSON,D:\clones\redis\src\commands\zpopmin.json,0,0.0,50.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\02-failover.tcl,14,1.0,50.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\shutdown.tcl,8,10.0,50.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\sdscompat.h,6,39.0,49.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\tsd_malloc_thread_cleanup.h,9,3.0,49.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\test\include\test\SFMT.h,14,83.0,49.0
+redis,C,D:\clones\redis\deps\jemalloc\test\integration\sdallocx.c,6,0.0,49.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\lcode.h,15,12.0,49.0
+redis,JSON,D:\clones\redis\src\commands\append.json,0,0.0,49.0
+redis,JSON,D:\clones\redis\src\commands\function-load.json,0,0.0,49.0
+redis,JSON,D:\clones\redis\src\commands\hmget.json,0,0.0,49.0
+redis,JSON,D:\clones\redis\src\commands\move.json,0,0.0,49.0
+redis,JSON,D:\clones\redis\src\commands\setnx.json,0,0.0,49.0
+redis,JSON,D:\clones\redis\src\commands\smismember.json,0,0.0,49.0
+redis,JSON,D:\clones\redis\src\commands\unlink.json,0,0.0,49.0
+redis,JSON,D:\clones\redis\src\commands\xdel.json,0,0.0,49.0
+redis,JSON,D:\clones\redis\src\commands\xsetid.json,0,0.0,49.0
+redis,JSON,D:\clones\redis\src\commands\zmscore.json,0,0.0,49.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\06-slave-stop-cond.tcl,14,14.0,49.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\12.1-replica-migration-3.tcl,10,6.0,49.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\tsd_tls.h,9,3.0,48.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\mtx.c,9,0.0,48.0
+redis,JSON,D:\clones\redis\src\commands\del.json,0,0.0,48.0
+redis,JSON,D:\clones\redis\src\commands\geohash.json,0,0.0,48.0
+redis,JSON,D:\clones\redis\src\commands\geopos.json,0,0.0,48.0
+redis,JSON,D:\clones\redis\src\commands\getbit.json,0,0.0,48.0
+redis,JSON,D:\clones\redis\src\commands\hget.json,0,0.0,48.0
+redis,JSON,D:\clones\redis\src\commands\mget.json,0,0.0,48.0
+redis,JSON,D:\clones\redis\src\commands\touch.json,0,0.0,48.0
+redis,JSON,D:\clones\redis\src\commands\xgroup-destroy.json,0,0.0,48.0
+redis,JSON,D:\clones\redis\src\commands\zrank.json,0,0.0,48.0
+redis,JSON,D:\clones\redis\src\commands\zrevrank.json,0,0.0,48.0
+redis,JSON,D:\clones\redis\src\commands\zscore.json,0,0.0,48.0
+redis,Markdown,D:\clones\redis\tests\README.md,15,0.0,48.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\logging.tcl,7,3.0,48.0
+redis,Tcl/Tk,D:\clones\redis\tests\sentinel\tests\helpers\check_leaked_fds.tcl,12,19.0,48.0
+redis,C,D:\clones\redis\deps\hiredis\examples\example-ae.c,12,3.0,47.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\llex.h,20,14.0,47.0
+redis,Bourne Shell,D:\clones\redis\runtest-moduleapi,3,0.0,47.0
+redis,JSON,D:\clones\redis\src\commands\hexists.json,0,0.0,47.0
+redis,JSON,D:\clones\redis\src\commands\hstrlen.json,0,0.0,47.0
+redis,JSON,D:\clones\redis\src\commands\lindex.json,0,0.0,47.0
+redis,JSON,D:\clones\redis\src\commands\script-flush.json,0,0.0,47.0
+redis,JSON,D:\clones\redis\src\commands\sdiff.json,0,0.0,47.0
+redis,JSON,D:\clones\redis\src\commands\sinter.json,0,0.0,47.0
+redis,JSON,D:\clones\redis\src\commands\sismember.json,0,0.0,47.0
+redis,JSON,D:\clones\redis\src\commands\sunion.json,0,0.0,47.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\querybuf.tcl,7,12.0,47.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\alloc.h,18,32.0,46.0
+redis,C,D:\clones\redis\deps\hiredis\examples\example-ivykis.c,12,2.0,46.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\assert.h,5,5.0,46.0
+redis,JSON,D:\clones\redis\src\commands\decr.json,0,0.0,46.0
+redis,JSON,D:\clones\redis\src\commands\dump.json,0,0.0,46.0
+redis,JSON,D:\clones\redis\src\commands\hgetall.json,0,0.0,46.0
+redis,JSON,D:\clones\redis\src\commands\hkeys.json,0,0.0,46.0
+redis,JSON,D:\clones\redis\src\commands\hvals.json,0,0.0,46.0
+redis,JSON,D:\clones\redis\src\commands\incr.json,0,0.0,46.0
+redis,JSON,D:\clones\redis\src\commands\memory-usage.json,0,0.0,46.0
+redis,JSON,D:\clones\redis\src\commands\object-encoding.json,0,0.0,46.0
+redis,JSON,D:\clones\redis\src\commands\object-freq.json,0,0.0,46.0
+redis,JSON,D:\clones\redis\src\commands\object-idletime.json,0,0.0,46.0
+redis,JSON,D:\clones\redis\src\commands\pfcount.json,0,0.0,46.0
+redis,JSON,D:\clones\redis\src\commands\smembers.json,0,0.0,46.0
+redis,JSON,D:\clones\redis\src\commands\spublish.json,0,0.0,46.0
+redis,C/C++ Header,D:\clones\redis\src\script.h,10,54.0,46.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\11-manual-takeover.tcl,12,1.0,46.0
+redis,C,D:\clones\redis\deps\hiredis\examples\example-libuv.c,9,2.0,45.0
+redis,C,D:\clones\redis\deps\hiredis\examples\example-macosx.c,15,6.0,45.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\arena_inlines_a.h,11,1.0,45.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\seq.h,4,6.0,45.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\msvc_compat\strings.h,9,4.0,45.0
+redis,C,D:\clones\redis\deps\jemalloc\test\src\timer.c,8,3.0,45.0
+redis,JSON,D:\clones\redis\src\commands\getdel.json,0,0.0,45.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\13-no-failover-option.tcl,14,2.0,45.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\scan.tcl,10,1.0,45.0
+redis,C,D:\clones\redis\utils\tracking_collisions.c,7,24.0,45.0
+redis,C,D:\clones\redis\deps\hiredis\alloc.c,14,32.0,44.0
+redis,C,D:\clones\redis\deps\hiredis\examples\example-libev.c,8,2.0,44.0
+redis,JSON,D:\clones\redis\src\commands\config-set.json,0,0.0,44.0
+redis,JSON,D:\clones\redis\src\commands\expiretime.json,0,0.0,44.0
+redis,JSON,D:\clones\redis\src\commands\get.json,0,0.0,44.0
+redis,JSON,D:\clones\redis\src\commands\persist.json,0,0.0,44.0
+redis,JSON,D:\clones\redis\src\commands\pexpiretime.json,0,0.0,44.0
+redis,JSON,D:\clones\redis\src\commands\watch.json,0,0.0,44.0
+redis,JSON,D:\clones\redis\src\commands\xinfo-groups.json,0,0.0,44.0
+redis,C,D:\clones\redis\src\rand.c,7,42.0,44.0
+redis,Tcl/Tk,D:\clones\redis\tests\helpers\fake_redis_node.tcl,4,10.0,44.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\auth.tcl,17,13.0,44.0
+redis,JSON,D:\clones\redis\src\commands\client-unblock.json,0,0.0,43.0
+redis,JSON,D:\clones\redis\src\commands\command-list.json,0,0.0,43.0
+redis,JSON,D:\clones\redis\src\commands\hlen.json,0,0.0,43.0
+redis,JSON,D:\clones\redis\src\commands\llen.json,0,0.0,43.0
+redis,JSON,D:\clones\redis\src\commands\object-refcount.json,0,0.0,43.0
+redis,JSON,D:\clones\redis\src\commands\scard.json,0,0.0,43.0
+redis,JSON,D:\clones\redis\src\commands\strlen.json,0,0.0,43.0
+redis,JSON,D:\clones\redis\src\commands\sunsubscribe.json,0,0.0,43.0
+redis,JSON,D:\clones\redis\src\commands\type.json,0,0.0,43.0
+redis,JSON,D:\clones\redis\src\commands\xlen.json,0,0.0,43.0
+redis,JSON,D:\clones\redis\src\commands\zcard.json,0,0.0,43.0
+redis,make,D:\clones\redis\src\modules\Makefile,23,3.0,43.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\21-many-slot-migration.tcl,15,6.0,43.0
+redis,Tcl/Tk,D:\clones\redis\tests\sentinel\tests\05-manual.tcl,6,1.0,43.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\win32.h,14,0.0,42.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\util.h,12,13.0,42.0
+redis,C,D:\clones\redis\deps\lua\src\lmem.c,19,25.0,42.0
+redis,JSON,D:\clones\redis\src\commands\client-reply.json,0,0.0,42.0
+redis,JSON,D:\clones\redis\src\commands\restore-asking.json,0,0.0,42.0
+redis,JSON,D:\clones\redis\src\commands\ssubscribe.json,0,0.0,42.0
+redis,C,D:\clones\redis\src\crc16.c,4,42.0,42.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\block-repl.tcl,6,3.0,42.0
+redis,Tcl/Tk,D:\clones\redis\tests\sentinel\tests\13-info-command.tcl,5,0.0,42.0
+redis,Bourne Shell,D:\clones\redis\utils\gen-test-certs.sh,9,7.0,42.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\atomic.h,15,30.0,41.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\test\include\test\SFMT-params11213.h,4,36.0,41.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\test\include\test\SFMT-params1279.h,4,36.0,41.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\test\include\test\SFMT-params132049.h,4,36.0,41.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\test\include\test\SFMT-params19937.h,4,36.0,41.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\test\include\test\SFMT-params216091.h,4,36.0,41.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\test\include\test\SFMT-params2281.h,4,36.0,41.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\test\include\test\SFMT-params4253.h,4,36.0,41.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\test\include\test\SFMT-params44497.h,4,36.0,41.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\test\include\test\SFMT-params607.h,4,36.0,41.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\test\include\test\SFMT-params86243.h,4,36.0,41.0
+redis,C,D:\clones\redis\deps\jemalloc\test\integration\overflow.c,10,8.0,41.0
+redis,JSON,D:\clones\redis\src\commands\function-flush.json,0,0.0,41.0
+redis,JSON,D:\clones\redis\src\commands\pfdebug.json,0,0.0,41.0
+redis,Tcl/Tk,D:\clones\redis\tests\sentinel\tests\03-runtime-reconf.tcl,18,6.0,41.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\ckh.h,20,41.0,40.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\test\include\test\SFMT-params.h,11,81.0,40.0
+redis,JSON,D:\clones\redis\src\commands\acl-setuser.json,0,0.0,40.0
+redis,JSON,D:\clones\redis\src\commands\auth.json,0,0.0,40.0
+redis,JSON,D:\clones\redis\src\commands\script-debug.json,0,0.0,40.0
+redis,C/C++ Header,D:\clones\redis\src\latency.h,12,42.0,40.0
+redis,C/C++ Header,D:\clones\redis\src\util.h,7,32.0,40.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\type\list-2.tcl,5,2.0,40.0
+redis,YAML,D:\clones\redis\deps\jemalloc\.appveyor.yml,3,0.0,39.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_externs.h,9,9.0,39.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\prof_tctx.c,7,0.0,39.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\subcommands.tcl,11,3.0,39.0
+redis,Ruby,D:\clones\redis\utils\redis-sha1.rb,3,10.0,39.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\async_private.h,7,30.0,38.0
+redis,CMake,D:\clones\redis\deps\hiredis\examples\CMakeLists.txt,9,2.0,38.0
+redis,JSON,D:\clones\redis\src\commands\client-no-evict.json,0,0.0,38.0
+redis,JSON,D:\clones\redis\src\commands\cluster-failover.json,0,0.0,38.0
+redis,JSON,D:\clones\redis\src\commands\cluster-reset.json,0,0.0,38.0
+redis,Tcl/Tk,D:\clones\redis\tests\helpers\bg_block_op.tcl,8,9.0,38.0
+redis,C/C++ Header,D:\clones\redis\src\anet.h,9,31.0,37.0
+redis,JSON,D:\clones\redis\src\commands\client-caching.json,0,0.0,37.0
+redis,JSON,D:\clones\redis\src\commands\info.json,0,0.0,37.0
+redis,Tcl/Tk,D:\clones\redis\tests\sentinel\tests\09-acl-support.tcl,11,1.0,37.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\fork.tcl,7,1.0,37.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\lzio.h,25,6.0,36.0
+redis,JSON,D:\clones\redis\src\commands\acl-log.json,0,0.0,36.0
+redis,JSON,D:\clones\redis\src\commands\cluster-addslotsrange.json,0,0.0,36.0
+redis,JSON,D:\clones\redis\src\commands\cluster-delslotsrange.json,0,0.0,36.0
+redis,JSON,D:\clones\redis\src\commands\config-get.json,0,0.0,36.0
+redis,C/C++ Header,D:\clones\redis\src\endianconv.h,7,35.0,36.0
+redis,C/C++ Header,D:\clones\redis\src\ziplist.h,6,32.0,36.0
+redis,Bourne Shell,D:\clones\redis\utils\redis_init_script,4,10.0,36.0
+redis,JSON,D:\clones\redis\src\commands\acl-dryrun.json,0,0.0,35.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\18-info.tcl,7,3.0,35.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\19-cluster-nodes-slots.tcl,11,4.0,35.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\basics.tcl,6,0.0,35.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\background_thread_structs.h,7,13.0,34.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\jemalloc_internal_includes.h,10,50.0,34.0
+redis,JSON,D:\clones\redis\src\commands\acl-getuser.json,0,0.0,34.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\defrag.tcl,9,3.0,34.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\quit.tcl,6,0.0,34.0
+redis,Tcl/Tk,D:\clones\redis\utils\cluster_fail_time.tcl,10,6.0,34.0
+redis,C,D:\clones\redis\utils\corrupt_rdb.c,6,5.0,34.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\spin.h,7,0.0,33.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\tcache_externs.h,7,13.0,33.0
+redis,C,D:\clones\redis\deps\jemalloc\src\extent_mmap.c,6,3.0,33.0
+redis,HTML,D:\clones\redis\deps\lua\doc\readme.html,7,0.0,33.0
+redis,make,D:\clones\redis\deps\lua\etc\Makefile,9,2.0,33.0
+redis,JSON,D:\clones\redis\src\commands\slowlog-get.json,0,0.0,33.0
+redis,C,D:\clones\redis\src\modules\hellotimer.c,8,35.0,33.0
+redis,Markdown,D:\clones\redis\SECURITY.md,11,0.0,32.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\ldo.h,18,7.0,32.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\ltm.h,13,9.0,32.0
+redis,Lua,D:\clones\redis\deps\lua\test\fib.lua,4,4.0,32.0
+redis,JSON,D:\clones\redis\src\commands\command-info.json,0,0.0,32.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\include\jemalloc\jemalloc_mangle.sh,7,7.0,31.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\prof_idump.c,11,0.0,31.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\test_hooks.c,7,0.0,31.0
+redis,C/C++ Header,D:\clones\redis\deps\linenoise\linenoise.h,7,37.0,31.0
+redis,C,D:\clones\redis\deps\lua\etc\all.c,4,3.0,31.0
+redis,C,D:\clones\redis\deps\lua\etc\noparser.c,6,13.0,31.0
+redis,JSON,D:\clones\redis\src\commands\function-list.json,0,0.0,31.0
+redis,JSON,D:\clones\redis\src\commands\slaveof.json,0,0.0,31.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\includes\utils.tcl,3,2.0,31.0
+redis,Tcl/Tk,D:\clones\redis\tests\sentinel\tests\01-conf-update.tcl,6,2.0,31.0
+redis,Tcl/Tk,D:\clones\redis\tests\sentinel\tests\06-ckquorum.tcl,8,3.0,31.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\replybufsize.tcl,11,5.0,31.0
+redis,C++,D:\clones\redis\deps\hiredis\examples\example-qt.cpp,16,0.0,30.0
+redis,C,D:\clones\redis\deps\jemalloc\test\src\thd.c,4,0.0,30.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\sc.c,3,0.0,30.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\slab.c,3,0.0,30.0
+redis,C,D:\clones\redis\deps\lua\etc\min.c,4,5.0,30.0
+redis,Lua,D:\clones\redis\deps\lua\test\trace-globals.lua,5,3.0,30.0
+redis,C/C++ Header,D:\clones\redis\src\cli_common.h,12,9.0,30.0
+redis,JSON,D:\clones\redis\src\commands\bgsave.json,0,0.0,30.0
+redis,JSON,D:\clones\redis\src\commands\psubscribe.json,0,0.0,30.0
+redis,JSON,D:\clones\redis\src\commands\subscribe.json,0,0.0,30.0
+redis,JSON,D:\clones\redis\src\commands\wait.json,0,0.0,30.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\09-pubsub.tcl,7,3.0,30.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\convert-zipmap-hash-on-load.tcl,8,1.0,30.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\getchannels.tcl,9,1.0,30.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\lmem.h,15,5.0,29.0
+redis,JSON,D:\clones\redis\src\commands\cluster-meet.json,0,0.0,29.0
+redis,JSON,D:\clones\redis\src\commands\module-load.json,0,0.0,29.0
+redis,JSON,D:\clones\redis\src\commands\monitor.json,0,0.0,29.0
+redis,Tcl/Tk,D:\clones\redis\tests\support\benchmark.tcl,4,0.0,29.0
+redis,Ruby,D:\clones\redis\utils\srandmember\showdist.rb,3,1.0,29.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\background_thread_externs.h,4,0.0,28.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\tcache_structs.h,10,32.0,28.0
+redis,JSON,D:\clones\redis\src\commands\function-delete.json,0,0.0,28.0
+redis,JSON,D:\clones\redis\src\commands\ping.json,0,0.0,28.0
+redis,JSON,D:\clones\redis\src\commands\publish.json,0,0.0,28.0
+redis,JSON,D:\clones\redis\src\commands\script-exists.json,0,0.0,28.0
+redis,JSON,D:\clones\redis\src\commands\script-load.json,0,0.0,28.0
+redis,JSON,D:\clones\redis\src\commands\swapdb.json,0,0.0,28.0
+redis,C/C++ Header,D:\clones\redis\src\geohash_helper.h,7,30.0,28.0
+redis,C/C++ Header,D:\clones\redis\src\resp_parser.h,22,44.0,28.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\hiredis_ssl.h,19,81.0,27.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\arena_types.h,12,12.0,27.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\nstime.h,6,1.0,27.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\test\include\test\btalloc.h,2,1.0,27.0
+redis,Lua,D:\clones\redis\deps\lua\etc\strict.lua,7,7.0,27.0
+redis,JSON,D:\clones\redis\src\commands\cluster-getkeysinslot.json,0,0.0,27.0
+redis,JSON,D:\clones\redis\src\commands\cluster-slots.json,0,0.0,27.0
+redis,JSON,D:\clones\redis\src\commands\keys.json,0,0.0,27.0
+redis,Tcl/Tk,D:\clones\redis\tests\sentinel\run.tcl,5,3.0,27.0
+redis,Tcl/Tk,D:\clones\redis\tests\support\cli.tcl,5,4.0,27.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\cmdintrospection.tcl,4,11.0,27.0
+redis,YAML,D:\clones\redis\.github\workflows\codeql-analysis.yml,7,1.0,26.0
+redis,C/C++ Header,D:\clones\redis\deps\hdr_histogram\hdr_alloc.h,10,11.0,26.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\private_symbols.sh,7,18.0,26.0
+redis,XML,D:\clones\redis\deps\jemalloc\msvc\projects\vc2017\test_threads\test_threads.vcxproj.filters,0,0.0,26.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\div.c,3,0.0,26.0
+redis,DOS Batch,D:\clones\redis\deps\lua\etc\luavs.bat,2,0.0,26.0
+redis,Lua,D:\clones\redis\deps\lua\test\trace-calls.lua,3,3.0,26.0
+redis,JSON,D:\clones\redis\src\commands\cluster-addslots.json,0,0.0,26.0
+redis,JSON,D:\clones\redis\src\commands\cluster-delslots.json,0,0.0,26.0
+redis,JSON,D:\clones\redis\src\commands\cluster-slaves.json,0,0.0,26.0
+redis,JSON,D:\clones\redis\src\commands\command-docs.json,0,0.0,26.0
+redis,JSON,D:\clones\redis\src\commands\replicaof.json,0,0.0,26.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\01-faildet.tcl,9,3.0,26.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\base_structs.h,13,21.0,25.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\large_externs.h,7,0.0,25.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\prof_types.h,10,21.0,25.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\lualib.h,21,7.0,25.0
+redis,JSON,D:\clones\redis\src\commands\acl-deluser.json,0,0.0,25.0
+redis,JSON,D:\clones\redis\src\commands\client-setname.json,0,0.0,25.0
+redis,JSON,D:\clones\redis\src\commands\cluster-forget.json,0,0.0,25.0
+redis,JSON,D:\clones\redis\src\commands\cluster-replicate.json,0,0.0,25.0
+redis,JSON,D:\clones\redis\src\commands\cluster-set-config-epoch.json,0,0.0,25.0
+redis,JSON,D:\clones\redis\src\commands\latency-histogram.json,0,0.0,25.0
+redis,JSON,D:\clones\redis\src\commands\latency-reset.json,0,0.0,25.0
+redis,JSON,D:\clones\redis\src\commands\psync.json,0,0.0,25.0
+redis,JSON,D:\clones\redis\src\commands\punsubscribe.json,0,0.0,25.0
+redis,JSON,D:\clones\redis\src\commands\unsubscribe.json,0,0.0,25.0
+redis,C/C++ Header,D:\clones\redis\src\crcspeed.h,7,28.0,25.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\test_lazyfree.tcl,6,1.0,25.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\pendingquerybuf.tcl,3,0.0,25.0
+redis,Ruby,D:\clones\redis\utils\redis-copy.rb,3,7.0,25.0
+redis,Bourne Shell,D:\clones\redis\utils\releasetools\03_test_release.sh,3,0.0,25.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\pages.c,5,0.0,24.0
+redis,C,D:\clones\redis\deps\lua\src\linit.c,9,5.0,24.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\ltable.h,11,5.0,24.0
+redis,C/C++ Header,D:\clones\redis\src\call_reply.h,5,28.0,24.0
+redis,JSON,D:\clones\redis\src\commands\acl-cat.json,0,0.0,24.0
+redis,JSON,D:\clones\redis\src\commands\acl-genpass.json,0,0.0,24.0
+redis,JSON,D:\clones\redis\src\commands\cluster-count-failure-reports.json,0,0.0,24.0
+redis,JSON,D:\clones\redis\src\commands\cluster-replicas.json,0,0.0,24.0
+redis,JSON,D:\clones\redis\src\commands\pubsub-numsub.json,0,0.0,24.0
+redis,JSON,D:\clones\redis\src\commands\pubsub-shardnumsub.json,0,0.0,24.0
+redis,JSON,D:\clones\redis\src\commands\select.json,0,0.0,24.0
+redis,C/C++ Header,D:\clones\redis\src\fmacros.h,9,33.0,24.0
+redis,C,D:\clones\redis\src\release.c,8,34.0,24.0
+redis,C/C++ Header,D:\clones\redis\src\script_lua.h,7,45.0,24.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\run.tcl,4,3.0,24.0
+redis,Tcl/Tk,D:\clones\redis\utils\releasetools\changelog.tcl,8,3.0,24.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\stats.h,5,3.0,23.0
+redis,JSON,D:\clones\redis\src\commands\cluster-countkeysinslot.json,0,0.0,23.0
+redis,JSON,D:\clones\redis\src\commands\cluster-keyslot.json,0,0.0,23.0
+redis,JSON,D:\clones\redis\src\commands\latency-graph.json,0,0.0,23.0
+redis,JSON,D:\clones\redis\src\commands\latency-history.json,0,0.0,23.0
+redis,JSON,D:\clones\redis\src\commands\module-unload.json,0,0.0,23.0
+redis,JSON,D:\clones\redis\src\commands\pubsub-channels.json,0,0.0,23.0
+redis,JSON,D:\clones\redis\src\commands\pubsub-shardchannels.json,0,0.0,23.0
+redis,C/C++ Header,D:\clones\redis\src\connhelpers.h,10,55.0,23.0
+redis,C,D:\clones\redis\tests\modules\zset.c,2,5.0,23.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\examples\example-qt.h,10,0.0,22.0
+redis,Lua,D:\clones\redis\deps\lua\test\factorial.lua,6,4.0,22.0
+redis,Lua,D:\clones\redis\deps\lua\test\sieve.lua,3,4.0,22.0
+redis,JSON,D:\clones\redis\src\commands\client-info.json,0,0.0,22.0
+redis,JSON,D:\clones\redis\src\commands\echo.json,0,0.0,22.0
+redis,JSON,D:\clones\redis\src\commands\function-kill.json,0,0.0,22.0
+redis,JSON,D:\clones\redis\src\commands\function-stats.json,0,0.0,22.0
+redis,JSON,D:\clones\redis\src\commands\lastsave.json,0,0.0,22.0
+redis,JSON,D:\clones\redis\src\commands\script-kill.json,0,0.0,22.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\eventloop.tcl,6,0.0,22.0
+redis,Bourne Shell,D:\clones\redis\utils\releasetools\02_upload_tarball.sh,1,0.0,22.0
+redis,YAML,D:\clones\redis\.github\workflows\spell-check.yml,6,5.0,21.0
+redis,C,D:\clones\redis\deps\hdr_histogram\hdr_alloc.c,6,7.0,21.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\div.h,6,14.0,21.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\safety_check.h,4,1.0,21.0
+redis,CSS,D:\clones\redis\deps\lua\doc\manual.css,3,0.0,21.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\lvm.h,10,5.0,21.0
+redis,JSON,D:\clones\redis\src\commands\command.json,0,0.0,21.0
+redis,JSON,D:\clones\redis\src\commands\dbsize.json,0,0.0,21.0
+redis,JSON,D:\clones\redis\src\commands\lolwut.json,0,0.0,21.0
+redis,JSON,D:\clones\redis\src\commands\quit.json,0,0.0,21.0
+redis,JSON,D:\clones\redis\src\commands\reset.json,0,0.0,21.0
+redis,JSON,D:\clones\redis\src\commands\role.json,0,0.0,21.0
+redis,JSON,D:\clones\redis\src\commands\slowlog-len.json,0,0.0,21.0
+redis,C/C++ Header,D:\clones\redis\src\intset.h,5,29.0,21.0
+redis,C/C++ Header,D:\clones\redis\src\sparkline.h,6,29.0,21.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\aof-race.tcl,7,7.0,21.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\convert-ziplist-hash-on-load.tcl,6,1.0,21.0
+redis,Tcl/Tk,D:\clones\redis\tests\integration\convert-ziplist-zset-on-load.tcl,6,1.0,21.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\limits.tcl,0,0.0,21.0
+redis,Ruby,D:\clones\redis\utils\hyperloglog\hll-err.rb,2,4.0,21.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\extent_dss.h,6,0.0,20.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\tcache_types.h,13,26.0,20.0
+redis,C++,D:\clones\redis\deps\jemalloc\test\integration\cpp\basic.cpp,3,2.0,20.0
+redis,C,D:\clones\redis\deps\jemalloc\test\src\mq.c,3,4.0,20.0
+redis,JSON,D:\clones\redis\src\commands\client-unpause.json,0,0.0,20.0
+redis,JSON,D:\clones\redis\src\commands\debug.json,0,0.0,20.0
+redis,JSON,D:\clones\redis\src\commands\discard.json,0,0.0,20.0
+redis,JSON,D:\clones\redis\src\commands\multi.json,0,0.0,20.0
+redis,JSON,D:\clones\redis\src\commands\randomkey.json,0,0.0,20.0
+redis,JSON,D:\clones\redis\src\commands\replconf.json,0,0.0,20.0
+redis,JSON,D:\clones\redis\src\commands\slowlog-reset.json,0,0.0,20.0
+redis,JSON,D:\clones\redis\src\commands\unwatch.json,0,0.0,20.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\hash.tcl,3,4.0,20.0
+redis,Ruby,D:\clones\redis\utils\srandmember\showfreq.rb,2,1.0,20.0
+redis,make,D:\clones\redis\deps\hdr_histogram\Makefile,10,0.0,19.0
+redis,YAML,D:\clones\redis\deps\jemalloc\.cirrus.yml,1,1.0,19.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\base_externs.h,3,0.0,19.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\rtree_tsd.h,8,23.0,19.0
+redis,C,D:\clones\redis\deps\jemalloc\src\safety_check.c,5,0.0,19.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\lfunc.h,10,5.0,19.0
+redis,JSON,D:\clones\redis\src\commands\client-getname.json,0,0.0,19.0
+redis,JSON,D:\clones\redis\src\commands\client-getredir.json,0,0.0,19.0
+redis,JSON,D:\clones\redis\src\commands\client-id.json,0,0.0,19.0
+redis,JSON,D:\clones\redis\src\commands\client-trackinginfo.json,0,0.0,19.0
+redis,JSON,D:\clones\redis\src\commands\cluster-bumpepoch.json,0,0.0,19.0
+redis,JSON,D:\clones\redis\src\commands\cluster-flushslots.json,0,0.0,19.0
+redis,JSON,D:\clones\redis\src\commands\cluster-saveconfig.json,0,0.0,19.0
+redis,JSON,D:\clones\redis\src\commands\exec.json,0,0.0,19.0
+redis,JSON,D:\clones\redis\src\commands\pfselftest.json,0,0.0,19.0
+redis,C/C++ Header,D:\clones\redis\src\solarisfixes.h,6,29.0,19.0
+redis,C/C++ Header,D:\clones\redis\src\testhelp.h,5,37.0,19.0
+redis,Tcl/Tk,D:\clones\redis\tests\sentinel\tests\11-port-0.tcl,8,6.0,19.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\bin_stats.h,12,24.0,18.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\ldebug.h,10,5.0,18.0
+redis,Lua,D:\clones\redis\deps\lua\test\bisect.lua,5,4.0,18.0
+redis,C/C++ Header,D:\clones\redis\src\asciilogo.h,1,28.0,18.0
+redis,JSON,D:\clones\redis\src\commands\acl-list.json,0,0.0,18.0
+redis,JSON,D:\clones\redis\src\commands\acl-load.json,0,0.0,18.0
+redis,JSON,D:\clones\redis\src\commands\acl-save.json,0,0.0,18.0
+redis,JSON,D:\clones\redis\src\commands\acl-users.json,0,0.0,18.0
+redis,JSON,D:\clones\redis\src\commands\client-help.json,0,0.0,18.0
+redis,JSON,D:\clones\redis\src\commands\command-count.json,0,0.0,18.0
+redis,JSON,D:\clones\redis\src\commands\command-getkeys.json,0,0.0,18.0
+redis,JSON,D:\clones\redis\src\commands\command-getkeysandflags.json,0,0.0,18.0
+redis,JSON,D:\clones\redis\src\commands\command-help.json,0,0.0,18.0
+redis,JSON,D:\clones\redis\src\commands\function-help.json,0,0.0,18.0
+redis,JSON,D:\clones\redis\src\commands\object-help.json,0,0.0,18.0
+redis,JSON,D:\clones\redis\src\commands\readonly.json,0,0.0,18.0
+redis,JSON,D:\clones\redis\src\commands\readwrite.json,0,0.0,18.0
+redis,JSON,D:\clones\redis\src\commands\script-help.json,0,0.0,18.0
+redis,JSON,D:\clones\redis\src\commands\time.json,0,0.0,18.0
+redis,JSON,D:\clones\redis\src\commands\xgroup-help.json,0,0.0,18.0
+redis,JSON,D:\clones\redis\src\commands\xinfo-help.json,0,0.0,18.0
+redis,C/C++ Header,D:\clones\redis\src\monotonic.h,10,24.0,18.0
+redis,Tcl/Tk,D:\clones\redis\tests\sentinel\tests\includes\start-init-tests.tcl,0,0.0,18.0
+redis,YAML,D:\clones\redis\deps\hiredis\appveyor.yml,4,3.0,17.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\net.h,6,33.0,17.0
+redis,C,D:\clones\redis\deps\jemalloc\src\div.c,6,32.0,17.0
+redis,JSON,D:\clones\redis\src\commands\acl-whoami.json,0,0.0,17.0
+redis,JSON,D:\clones\redis\src\commands\cluster-info.json,0,0.0,17.0
+redis,JSON,D:\clones\redis\src\commands\cluster-links.json,0,0.0,17.0
+redis,JSON,D:\clones\redis\src\commands\cluster-myid.json,0,0.0,17.0
+redis,JSON,D:\clones\redis\src\commands\cluster-nodes.json,0,0.0,17.0
+redis,JSON,D:\clones\redis\src\commands\config-resetstat.json,0,0.0,17.0
+redis,JSON,D:\clones\redis\src\commands\config-rewrite.json,0,0.0,17.0
+redis,JSON,D:\clones\redis\src\commands\function-dump.json,0,0.0,17.0
+redis,JSON,D:\clones\redis\src\commands\latency-doctor.json,0,0.0,17.0
+redis,JSON,D:\clones\redis\src\commands\latency-latest.json,0,0.0,17.0
+redis,JSON,D:\clones\redis\src\commands\sentinel-help.json,0,0.0,17.0
+redis,C/C++ Header,D:\clones\redis\src\sha256.h,7,11.0,17.0
+redis,C/C++ Header,D:\clones\redis\src\zipmap.h,4,33.0,17.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\include\jemalloc\jemalloc_rename.sh,4,2.0,16.0
+redis,JSON,D:\clones\redis\src\commands\acl-help.json,0,0.0,16.0
+redis,JSON,D:\clones\redis\src\commands\asking.json,0,0.0,16.0
+redis,JSON,D:\clones\redis\src\commands\pubsub-numpat.json,0,0.0,16.0
+redis,JSON,D:\clones\redis\src\commands\save.json,0,0.0,16.0
+redis,JSON,D:\clones\redis\src\commands\sentinel-config.json,0,0.0,16.0
+redis,JSON,D:\clones\redis\src\commands\sentinel-debug.json,0,0.0,16.0
+redis,JSON,D:\clones\redis\src\commands\sentinel-flushconfig.json,0,0.0,16.0
+redis,JSON,D:\clones\redis\src\commands\sentinel-get-master-addr-by-name.json,0,0.0,16.0
+redis,JSON,D:\clones\redis\src\commands\sentinel-info-cache.json,0,0.0,16.0
+redis,JSON,D:\clones\redis\src\commands\sentinel-is-master-down-by-addr.json,0,0.0,16.0
+redis,JSON,D:\clones\redis\src\commands\sentinel-master.json,0,0.0,16.0
+redis,JSON,D:\clones\redis\src\commands\sentinel-masters.json,0,0.0,16.0
+redis,JSON,D:\clones\redis\src\commands\sentinel-monitor.json,0,0.0,16.0
+redis,JSON,D:\clones\redis\src\commands\sentinel-myid.json,0,0.0,16.0
+redis,JSON,D:\clones\redis\src\commands\sentinel-remove.json,0,0.0,16.0
+redis,JSON,D:\clones\redis\src\commands\sentinel-replicas.json,0,0.0,16.0
+redis,JSON,D:\clones\redis\src\commands\sentinel-reset.json,0,0.0,16.0
+redis,JSON,D:\clones\redis\src\commands\sentinel-sentinels.json,0,0.0,16.0
+redis,JSON,D:\clones\redis\src\commands\sentinel-set.json,0,0.0,16.0
+redis,C/C++ Header,D:\clones\redis\src\geo.h,4,2.0,16.0
+redis,C/C++ Header,D:\clones\redis\src\slowlog.h,5,30.0,16.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\zset.tcl,3,1.0,16.0
+redis,Markdown,D:\clones\redis\.github\ISSUE_TEMPLATE\bug_report.md,9,0.0,15.0
+redis,Markdown,D:\clones\redis\.github\ISSUE_TEMPLATE\feature_request.md,9,0.0,15.0
+redis,Markdown,D:\clones\redis\.github\ISSUE_TEMPLATE\question.md,6,0.0,15.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\autogen.sh,2,0.0,15.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\include\jemalloc\jemalloc.sh,5,7.0,15.0
+redis,C,D:\clones\redis\deps\jemalloc\src\mutex_pool.c,3,0.0,15.0
+redis,make,D:\clones\redis\deps\linenoise\Makefile,6,0.0,15.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\lstring.h,11,5.0,15.0
+redis,C/C++ Header,D:\clones\redis\src\bio.h,5,30.0,15.0
+redis,JSON,D:\clones\redis\src\commands\bgrewriteaof.json,0,0.0,15.0
+redis,JSON,D:\clones\redis\src\commands\cluster-help.json,0,0.0,15.0
+redis,JSON,D:\clones\redis\src\commands\config-help.json,0,0.0,15.0
+redis,JSON,D:\clones\redis\src\commands\latency-help.json,0,0.0,15.0
+redis,JSON,D:\clones\redis\src\commands\memory-help.json,0,0.0,15.0
+redis,JSON,D:\clones\redis\src\commands\module-help.json,0,0.0,15.0
+redis,JSON,D:\clones\redis\src\commands\module-list.json,0,0.0,15.0
+redis,JSON,D:\clones\redis\src\commands\pubsub-help.json,0,0.0,15.0
+redis,JSON,D:\clones\redis\src\commands\sentinel-ckquorum.json,0,0.0,15.0
+redis,JSON,D:\clones\redis\src\commands\sentinel-failover.json,0,0.0,15.0
+redis,JSON,D:\clones\redis\src\commands\sentinel-pending-scripts.json,0,0.0,15.0
+redis,JSON,D:\clones\redis\src\commands\sentinel-simulate-failure.json,0,0.0,15.0
+redis,JSON,D:\clones\redis\src\commands\slowlog-help.json,0,0.0,15.0
+redis,JSON,D:\clones\redis\src\commands\sync.json,0,0.0,15.0
+redis,C/C++ Header,D:\clones\redis\src\sha1.h,3,6.0,15.0
+redis,Tcl/Tk,D:\clones\redis\tests\helpers\gen_write_load.tcl,3,0.0,15.0
+redis,Tcl/Tk,D:\clones\redis\utils\build-static-symbols.tcl,2,5.0,15.0
+redis,Markdown,D:\clones\redis\.github\ISSUE_TEMPLATE\crash_report.md,6,0.0,14.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\base_types.h,6,13.0,14.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\test_hooks.h,4,1.0,14.0
+redis,C,D:\clones\redis\deps\jemalloc\test\integration\malloc.c,2,0.0,14.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\spin.c,4,0.0,14.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\lundump.h,10,12.0,14.0
+redis,JSON,D:\clones\redis\src\commands\memory-doctor.json,0,0.0,14.0
+redis,JSON,D:\clones\redis\src\commands\memory-malloc-stats.json,0,0.0,14.0
+redis,JSON,D:\clones\redis\src\commands\memory-stats.json,0,0.0,14.0
+redis,JSON,D:\clones\redis\src\commands\sentinel.json,0,0.0,14.0
+redis,C/C++ Header,D:\clones\redis\src\lolwut.h,6,35.0,14.0
+redis,Bourne Shell,D:\clones\redis\src\mkreleasehdr.sh,0,0.0,14.0
+redis,C,D:\clones\redis\src\redisassert.c,4,35.0,14.0
+redis,C/C++ Header,D:\clones\redis\src\sdsalloc.h,4,36.0,14.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\moduleapi\infra.tcl,8,0.0,14.0
+redis,Bourne Shell,D:\clones\redis\utils\whatisdoing.sh,2,8.0,14.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\extent_types.h,6,4.0,13.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\test\include\test\mtx.h,2,6.0,13.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\a0.c,3,0.0,13.0
+redis,Lua,D:\clones\redis\deps\lua\test\cf.lua,2,1.0,13.0
+redis,Bourne Shell,D:\clones\redis\utils\releasetools\01_create_tarball.sh,1,0.0,13.0
+redis,Bourne Shell,D:\clones\redis\runtest,2,0.0,12.0
+redis,Bourne Shell,D:\clones\redis\runtest-cluster,2,0.0,12.0
+redis,Bourne Shell,D:\clones\redis\runtest-sentinel,2,0.0,12.0
+redis,JSON,D:\clones\redis\src\commands\acl.json,0,0.0,12.0
+redis,JSON,D:\clones\redis\src\commands\client.json,0,0.0,12.0
+redis,C/C++ Header,D:\clones\redis\src\debugmacro.h,3,31.0,12.0
+redis,C/C++ Header,D:\clones\redis\src\mt19937-64.h,21,54.0,12.0
+redis,Markdown,D:\clones\redis\utils\graphs\commits-over-time\README.md,4,0.0,12.0
+redis,Bourne Shell,D:\clones\redis\utils\releasetools\04_release_hash.sh,1,0.0,12.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\base_inlines.h,2,0.0,11.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\bin_types.h,5,1.0,11.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\msvc_compat\C99\stdbool.h,5,4.0,11.0
+redis,Lua,D:\clones\redis\deps\lua\test\xd.lua,1,2.0,11.0
+redis,JSON,D:\clones\redis\src\commands\memory-purge.json,0,0.0,11.0
+redis,Tcl/Tk,D:\clones\redis\tests\support\tmpfile.tcl,2,2.0,11.0
+redis,Markdown,D:\clones\redis\utils\srandmember\README.md,3,0.0,11.0
+redis,YAML,D:\clones\redis\.github\dependabot.yml,1,4.0,10.0
+redis,XSLT,D:\clones\redis\deps\jemalloc\doc\stylesheet.xsl,0,0.0,10.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\fpconv.h,4,8.0,10.0
+redis,Lua,D:\clones\redis\deps\lua\test\fibfor.lua,2,1.0,10.0
+redis,C/C++ Header,D:\clones\redis\src\lzf.h,7,83.0,10.0
+redis,Tcl/Tk,D:\clones\redis\tests\cluster\tests\helpers\onlydots.tcl,2,4.0,10.0
+redis,Tcl/Tk,D:\clones\redis\tests\helpers\bg_complex_data.tcl,3,0.0,10.0
+redis,C++,D:\clones\redis\deps\jemalloc\msvc\test_threads\test_threads_main.cpp,2,0.0,9.0
+redis,Lua,D:\clones\redis\deps\lua\test\globals.lua,1,3.0,9.0
+redis,Lua,D:\clones\redis\deps\lua\test\table.lua,1,2.0,9.0
+redis,JSON,D:\clones\redis\src\commands\cluster.json,0,0.0,9.0
+redis,JSON,D:\clones\redis\src\commands\config.json,0,0.0,9.0
+redis,JSON,D:\clones\redis\src\commands\function.json,0,0.0,9.0
+redis,JSON,D:\clones\redis\src\commands\latency.json,0,0.0,9.0
+redis,JSON,D:\clones\redis\src\commands\memory.json,0,0.0,9.0
+redis,JSON,D:\clones\redis\src\commands\module.json,0,0.0,9.0
+redis,JSON,D:\clones\redis\src\commands\object.json,0,0.0,9.0
+redis,JSON,D:\clones\redis\src\commands\pubsub.json,0,0.0,9.0
+redis,JSON,D:\clones\redis\src\commands\script.json,0,0.0,9.0
+redis,JSON,D:\clones\redis\src\commands\slowlog.json,0,0.0,9.0
+redis,JSON,D:\clones\redis\src\commands\xgroup.json,0,0.0,9.0
+redis,JSON,D:\clones\redis\src\commands\xinfo.json,0,0.0,9.0
+redis,C/C++ Header,D:\clones\redis\src\crc64.h,4,0.0,9.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\fmacros.h,3,1.0,8.0
+redis,CMake,D:\clones\redis\deps\hiredis\hiredis-config.cmake.in,5,0.0,8.0
+redis,CMake,D:\clones\redis\deps\hiredis\hiredis_ssl-config.cmake.in,5,0.0,8.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\test\include\test\timer.h,2,1.0,8.0
+redis,Lua,D:\clones\redis\deps\lua\test\readonly.lua,2,2.0,8.0
+redis,C/C++ Header,D:\clones\redis\src\listpack_malloc.h,2,36.0,8.0
+redis,C/C++ Header,D:\clones\redis\src\redisassert.h,5,36.0,8.0
+redis,Markdown,D:\clones\redis\.github\ISSUE_TEMPLATE\other_stuff.md,1,0.0,7.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\arena_structs_a.h,3,1.0,7.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\extent_mmap.h,3,0.0,7.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\tsd_types.h,3,0.0,7.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\test\include\test\thd.h,1,1.0,7.0
+redis,C/C++ Header,D:\clones\redis\src\rax_malloc.h,2,35.0,7.0
+redis,make,D:\clones\redis\Makefile,4,1.0,6.0
+redis,Markdown,D:\clones\redis\deps\hdr_histogram\README.md,4,0.0,6.0
+redis,C/C++ Header,D:\clones\redis\src\pqsort.h,3,31.0,6.0
+redis,C/C++ Header,D:\clones\redis\src\rand.h,4,28.0,6.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\printver.tcl,0,0.0,6.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\public_namespace.sh,1,0.0,5.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\public_unnamespace.sh,1,0.0,5.0
+redis,C,D:\clones\redis\deps\jemalloc\src\test_hooks.c,2,5.0,5.0
+redis,C,D:\clones\redis\deps\jemalloc\test\src\btalloc.c,1,0.0,5.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\test\unit\prof_idump.sh,3,0.0,5.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\etc\lua.hpp,1,3.0,5.0
+redis,C/C++ Header,D:\clones\redis\deps\lua\src\lapi.h,6,5.0,5.0
+redis,C/C++ Header,D:\clones\redis\deps\hiredis\sdsalloc.h,3,37.0,4.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\include\jemalloc\internal\private_namespace.sh,1,0.0,4.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\include\msvc_compat\windows_extra.h,2,0.0,4.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\test\integration\smallocx.sh,1,0.0,4.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\test\integration\xallocx.sh,1,0.0,4.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\test\unit\junk.sh,1,0.0,4.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\test\unit\junk_alloc.sh,1,0.0,4.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\test\unit\junk_free.sh,1,0.0,4.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\test\unit\prof_accum.sh,1,0.0,4.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\test\unit\prof_active.sh,1,0.0,4.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\test\unit\prof_gdump.sh,2,0.0,4.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\test\unit\prof_reset.sh,1,0.0,4.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\test\unit\prof_thread_name.sh,1,0.0,4.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\test\unit\safety_check.sh,1,0.0,4.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\test\unit\zero.sh,1,0.0,4.0
+redis,Lua,D:\clones\redis\deps\lua\test\luac.lua,1,2.0,4.0
+redis,Lua,D:\clones\redis\deps\lua\test\printf.lua,2,1.0,4.0
+redis,C,D:\clones\redis\deps\jemalloc\src\hash.c,0,0.0,3.0
+redis,C,D:\clones\redis\deps\jemalloc\src\prng.c,0,0.0,3.0
+redis,C,D:\clones\redis\deps\jemalloc\src\ticker.c,0,0.0,3.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\arena_reset_prof.c,1,0.0,3.0
+redis,Lua,D:\clones\redis\deps\lua\test\echo.lua,1,1.0,3.0
+redis,Lua,D:\clones\redis\deps\lua\test\env.lua,2,2.0,3.0
+redis,Tcl/Tk,D:\clones\redis\tests\unit\type\list-common.tcl,0,2.0,3.0
+redis,C/C++ Header,D:\clones\redis\deps\jemalloc\msvc\test_threads\test_threads.h,1,0.0,2.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\test\integration\slab_sizes.sh,1,1.0,2.0
+redis,C,D:\clones\redis\deps\jemalloc\test\src\btalloc_0.c,1,0.0,2.0
+redis,C,D:\clones\redis\deps\jemalloc\test\src\btalloc_1.c,1,0.0,2.0
+redis,C,D:\clones\redis\deps\jemalloc\test\src\math.c,0,0.0,2.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\test\unit\arena_reset_prof.sh,1,0.0,2.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\test\unit\binshard.sh,1,0.0,2.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\test\unit\decay.sh,1,0.0,2.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\test\unit\pack.sh,1,1.0,2.0
+redis,C/C++ Header,D:\clones\redis\src\version.h,0,0.0,2.0
+redis,Bourne Shell,D:\clones\redis\deps\jemalloc\run_tests.sh,0,0.0,1.0
+redis,C,D:\clones\redis\deps\jemalloc\test\unit\junk_free.c,0,0.0,1.0
+redis,Lua,D:\clones\redis\deps\lua\test\hello.lua,1,1.0,1.0
+redis,Tcl/Tk,D:\clones\redis\tests\sentinel\tests\04-slave-selection.tcl,0,5.0,0.0

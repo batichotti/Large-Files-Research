@@ -1,0 +1,10 @@
+project,language,filename,blank,comment,code
+cockroach,Fortran 77,D:\clones\cockroach\pkg\cmd\prereqs\testdata\src\example.com\a\a.f,0,0.0,2.0
+CRYENGINE,Fortran 77,D:\clones\CRYENGINE\Tools\CMake\Win32\share\cmake-3.14\Modules\CheckIPOSupported\foo.f,0,0.0,2.0
+CRYENGINE,Fortran 77,D:\clones\CRYENGINE\Tools\CMake\Win32\share\cmake-3.14\Modules\FortranCInterface\call_sub.f,0,0.0,4.0
+CRYENGINE,Fortran 77,D:\clones\CRYENGINE\Tools\CMake\Win32\share\cmake-3.14\Modules\FortranCInterface\my_sub.f,0,0.0,2.0
+CRYENGINE,Fortran 77,D:\clones\CRYENGINE\Tools\CMake\Win32\share\cmake-3.14\Modules\FortranCInterface\mysub.f,0,0.0,2.0
+CRYENGINE,Fortran 77,D:\clones\CRYENGINE\Tools\CMake\Win32\share\cmake-3.14\Modules\CMakeFortranCompilerABI.F,3,2.0,35.0
+CRYENGINE,Fortran 77,D:\clones\CRYENGINE\Tools\CMake\Win32\share\cmake-3.14\Modules\CheckIPOSupported\main.f,0,0.0,3.0
+CRYENGINE,Fortran 77,D:\clones\CRYENGINE\Tools\CMake\Win32\share\cmake-3.14\Modules\FortranCInterface\Verify\VerifyFortran.f,0,0.0,3.0
+CRYENGINE,Fortran 77,D:\clones\CRYENGINE\Tools\CMake\Win32\share\cmake-3.14\Modules\FortranCInterface\main.F,0,0.0,6.0

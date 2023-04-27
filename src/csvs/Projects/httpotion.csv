@@ -1,0 +1,11 @@
+project,language,filename,blank,comment,code
+httpotion,Elixir,D:\clones\httpotion\lib\httpotion.ex,76,18.0,383.0
+httpotion,Elixir,D:\clones\httpotion\test\httpotion_test.ex,49,2.0,192.0
+httpotion,Markdown,D:\clones\httpotion\README.md,66,0.0,184.0
+httpotion,Elixir,D:\clones\httpotion\test\direct_test.ex,32,0.0,115.0
+httpotion,Markdown,D:\clones\httpotion\CODE_OF_CONDUCT.md,18,0.0,56.0
+httpotion,Elixir,D:\clones\httpotion\mix.exs,6,2.0,40.0
+httpotion,YAML,D:\clones\httpotion\.travis.yml,2,0.0,31.0
+httpotion,Elixir,D:\clones\httpotion\test\test_helper.exs,2,1.0,9.0
+httpotion,Elixir,D:\clones\httpotion\test\test_helper.ex,1,0.0,8.0
+httpotion,Elixir,D:\clones\httpotion\config\config.exs,1,1.0,5.0

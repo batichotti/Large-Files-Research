@@ -1,0 +1,835 @@
+project,language,filename,blank,comment,code
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\PrimitiveArrayPropertyTests.m,627,63.0,10082.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\QueryTests.swift,566,73.0,9273.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\PrimitiveSetPropertyTests.m,541,46.0,7891.0
+realm-cocoa,Markdown,D:\clones\realm-cocoa\CHANGELOG.md,1824,0.0,5959.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\PrimitiveDictionaryPropertyTests.m,252,47.0,5896.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\QueryTests.m,792,257.0,3519.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\ObjectServerTests\SwiftObjectServerTests.swift,421,115.0,2540.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\CombineTests.swift,314,56.0,2404.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\ObjectServerTests\RLMObjectServerTests.mm,425,112.0,2326.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\Tests\RealmTests.mm,555,119.0,2278.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\Tests\KVOTests.mm,385,106.0,2251.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\RealmCollectionTypeTests.swift,318,60.0,1651.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\ProjectionTests.swift,156,34.0,1599.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\ObjectTests.swift,267,99.0,1551.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\Tests\ObjectCreationTests.mm,330,39.0,1550.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMQueryUtil.mm,206,104.0,1517.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\Tests\MigrationTests.mm,311,75.0,1498.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\NotificationTests.m,246,54.0,1429.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\DictionaryPropertyTests.m,305,80.0,1310.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\ObjectTests.m,293,62.0,1245.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\ArrayPropertyTests.m,297,66.0,1232.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\CodableTests.swift,104,17.0,1230.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\ObjectCreationTests.swift,159,74.0,1226.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\PrimitiveArrayPropertyTests.tpl.m,267,63.0,1177.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\SetPropertyTests.m,279,53.0,1126.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\MigrationTests.swift,137,42.0,1109.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Combine.swift,207,993.0,1101.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\PrimitiveSetPropertyTests.tpl.m,241,46.0,1092.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\ModernObjectCreationTests.swift,110,21.0,1053.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\ObjectAccessorTests.swift,181,27.0,1017.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\ObjectServerTests\SwiftMongoClientTests.swift,162,38.0,1005.0
+realm-cocoa,Bourne Shell,D:\clones\realm-cocoa\build.sh,188,96.0,996.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMRealm.mm,147,72.0,992.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMAccessor.mm,137,62.0,989.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\SwiftUI.swift,131,618.0,968.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\ResultsTests.m,227,64.0,966.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\Tests\SchemaTests.mm,210,80.0,952.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\AnyRealmValueTests.swift,138,39.0,924.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\MapTests.swift,139,41.0,917.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\PrimitiveDictionaryPropertyTests.tpl.m,192,47.0,911.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\ObjectServerTests\SwiftFlexibleSyncServerTests.swift,136,29.0,887.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\CustomObjectCreationTests.swift,79,22.0,877.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\RealmTests.swift,163,31.0,849.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\ObjectServerTests\RealmServer.swift,116,97.0,837.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\Tests\AsyncTests.mm,159,77.0,818.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\PrimitiveRLMValuePropertyTests.m,27,17.0,773.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\PerformanceTests.m,140,18.0,739.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\ObjectSchemaInitializationTests.swift,88,22.0,730.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\ObjectServerTests\RLMFlexibleSyncServerTests.mm,164,19.0,729.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\PerformanceTests.swift,106,23.0,728.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\MongoClient.swift,103,505.0,717.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\SwiftTestObjects.swift,122,25.0,707.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\ThreadSafeReferenceTests.swift,69,24.0,706.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\ListTests.swift,163,26.0,695.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\osx\objc\CarthageExample\CarthageExample\Base.lproj\Main.storyboard,0,3.0,678.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\osx\objc\CocoaPodsExample\CocoaPodsExample\Base.lproj\Main.storyboard,0,3.0,678.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\osx\objc\DynamicExample\DynamicExample\Base.lproj\Main.storyboard,0,3.0,678.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\osx\objc\XCFrameworkExample\XCFrameworkExample\Base.lproj\Main.storyboard,0,3.0,678.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\osx\swift\CarthageExample\CarthageExample\Base.lproj\Main.storyboard,0,3.0,678.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\osx\swift\CocoaPodsExample\CocoaPodsExample\Base.lproj\Main.storyboard,0,3.0,678.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\osx\swift\DynamicExample\DynamicExample\Base.lproj\Main.storyboard,0,3.0,678.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\osx\swift\XCFrameworkExample\XCFrameworkExample\Base.lproj\Main.storyboard,0,3.0,678.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\TestValueFactory.swift,81,43.0,654.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\ObjectServerTests\RLMSyncTestCase.mm,97,29.0,648.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMObjectBase.mm,102,55.0,634.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMProperty.mm,70,70.0,632.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\SwiftUITests.swift,77,27.0,603.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\ModernObjectAccessorTests.swift,84,55.0,602.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Query.swift,123,333.0,567.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\KeyPathTests.swift,62,21.0,566.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMManagedDictionary.mm,86,29.0,552.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\TestUtils\include\RLMTestObjects.h,174,18.0,548.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMUtil.mm,50,40.0,522.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMArray.mm,101,37.0,513.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMManagedSet.mm,79,38.0,499.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMManagedArray.mm,77,42.0,495.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMResults.mm,83,25.0,490.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\ObjectServerTests\SwiftUIServerTests.swift,80,25.0,485.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMObservation.mm,70,52.0,477.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\PrimitiveListTests.swift,85,28.0,462.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\MutableSetTests.swift,85,21.0,461.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMDictionary.mm,90,35.0,456.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\KVOTests.swift,75,25.0,453.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\ObjectInterfaceTests.m,99,25.0,445.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\ModernTestObjects.swift,73,21.0,444.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMSet.mm,91,43.0,441.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\ObjectServerTests\RLMCollectionSyncTests.mm,63,18.0,429.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\RLMValueTests.m,80,23.0,421.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMCollection.mm,66,38.0,412.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMSyncSubscription.mm,83,23.0,409.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm.xcodeproj\xcshareddata\xcbaselines\E856D1DE195614A400FB2FCF.xcbaseline\3AE81604-3FF9-49E2-A414-9B18BEEAE28F.plist,0,0.0,408.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm.xcodeproj\xcshareddata\xcbaselines\E856D1DE195614A400FB2FCF.xcbaseline\AAC6BA1A-785D-4850-B3EC-68BC9F1D3EEF.plist,0,0.0,408.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm.xcodeproj\xcshareddata\xcbaselines\E856D1DE195614A400FB2FCF.xcbaseline\2EB6396F-9FD1-4243-AA83-2D9F9D4DD919.plist,0,0.0,404.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\Tests\SwiftUISyncTestHostUITests\SwiftUISyncTestHostUITests.swift,96,61.0,393.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\TestUtils\RLMTestObjects.m,126,17.0,385.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Sync.swift,128,428.0,380.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMMongoCollection.mm,49,17.0,357.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\DynamicTests.m,82,35.0,355.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\RealmCollection.swift,228,907.0,352.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\Tests\Swift\SwiftArrayTests.swift,114,59.0,343.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMUser.mm,71,19.0,342.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\Tests\Swift\SwiftRLMDictionaryTests.swift,96,55.0,342.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\InterprocessTests.m,52,28.0,338.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMSyncConfiguration.mm,42,21.0,336.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\Tests\SwiftUISyncTestHost\ContentView.swift,23,17.0,334.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\Tests\Swift\SwiftObjectInterfaceTests.swift,73,28.0,333.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\ObjectServerTests\SwiftCollectionSyncTests.swift,58,35.0,330.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\Tests\SwiftUITestHost\SwiftUITestHostApp.swift,34,20.0,330.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\BSON.swift,71,80.0,330.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\App.swift,63,215.0,323.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\ModernKVOTests.swift,48,19.0,323.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm.xcodeproj\xcshareddata\xcbaselines\5D660FD71BE98C7C0021E04F.xcbaseline\B87A7896-8B70-4814-B20D-7CD723D62868.plist,0,0.0,322.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\CustomPersistableTestObjects.swift,32,18.0,321.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\PrimitiveMutableSetTests.swift,43,21.0,321.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMApp.mm,73,22.0,320.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm.xcodeproj\xcshareddata\xcbaselines\5D660FD71BE98C7C0021E04F.xcbaseline\6890B8D9-CE81-403E-8EF6-B95A367D65B5.plist,0,0.0,317.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Package.swift,12,14.0,316.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\PrimitiveMapTests.swift,45,21.0,316.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMObjectSchema.mm,53,30.0,305.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMBSON.mm,93,19.0,290.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Realm.swift,225,613.0,285.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMSchema.mm,57,46.0,279.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMRealmConfiguration.mm,50,17.0,273.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMSyncSession.mm,41,22.0,265.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Impl\BasicTypes.swift,67,19.0,259.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\ProjectedCollectTests.swift,46,23.0,256.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Object.swift,111,372.0,253.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Map.swift,150,415.0,252.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\ObjectServerTests\RLMServerTestObjects.m,72,17.0,249.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\AsyncOpenSwiftUI\ContentView.swift,26,26.0,249.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Projection.swift,58,306.0,248.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Impl\ComplexTypes.swift,37,19.0,243.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\ListSwiftUI\Views\ContentView.swift,34,19.0,240.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\ObjectSchemaTests.swift,10,18.0,236.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\ThreadSafeReferenceTests.m,26,21.0,226.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\ObjectServerTests\SwiftSyncTestCase.swift,37,18.0,218.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\Tests\Swift\SwiftSetPropertyTests.swift,52,19.0,218.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\PersistedProperty.swift,32,211.0,216.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\Tests\SwiftUITestHostUITests\SwiftUITestHostUITests.swift,59,49.0,214.0
+realm-cocoa,YAML,D:\clones\realm-cocoa\.jenkins.yml,90,3.0,213.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\Tests\LinkingObjectsTests.mm,60,27.0,211.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMUtil.hpp,44,38.0,210.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMSyncManager.mm,43,17.0,207.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\ModernObjectTests.swift,28,25.0,206.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\TestUtils\TestUtils.mm,22,22.0,194.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Impl\PropertyAccessors.swift,44,26.0,194.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\Decimal128Tests.swift,34,21.0,194.0
+realm-cocoa,Python,D:\clones\realm-cocoa\plugin\rlm_lldb.py,53,27.0,194.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMObjectStore.mm,34,29.0,193.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\LinkTests.m,56,18.0,191.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\SyncSubscription.swift,79,187.0,188.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\Tests\Swift\SwiftRealmTests.swift,45,30.0,186.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\Tests\Swift\SwiftSetTests.swift,72,37.0,184.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\RACTableView\TableViewController.m,36,37.0,183.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\Tests\Swift\SwiftSchemaTests.swift,41,28.0,182.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\TestCase.swift,34,28.0,182.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\CompactionTests.m,42,48.0,181.0
+realm-cocoa,Bourne Shell,D:\clones\realm-cocoa\examples\installation\build.sh,28,11.0,179.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\ios\objc\Migration\Examples\Example_v4.h,18,39.0,178.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\ios\objc\Migration\Examples\Example_v5.h,18,42.0,178.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\Tests\EncryptionTests.mm,42,26.0,177.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\RealmConfiguration.swift,47,135.0,175.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMNetworkTransport.mm,35,21.0,173.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\List.swift,66,135.0,173.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMObject.mm,59,24.0,171.0
+realm-cocoa,Ruby,D:\clones\realm-cocoa\Realm\ObjectServerTests\setup_baas.rb,33,6.0,167.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\TestUtils\RLMTestCase.m,36,33.0,166.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\Tests\RealmConfigurationTests.mm,47,23.0,164.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\TestUtils\RLMMultiProcessTestCase.m,33,30.0,163.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\Tests\Swift\SwiftArrayPropertyTests.swift,49,40.0,162.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Impl\ObjcBridgeable.swift,13,33.0,161.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\SwiftBSONTests.swift,21,23.0,159.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\Tests\Swift\SwiftTestObjects.swift,33,17.0,155.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\ObjectServerTests\SwiftServerObjects.swift,25,17.0,152.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Impl\SchemaDiscovery.swift,17,40.0,149.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\ObjectiveCSupport+BSON.swift,5,24.0,149.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMDecimal128.mm,36,36.0,148.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\ios\swift\AsyncOpenSwiftUI\Assets.xcassets\AppIcon.appiconset\Contents.json,0,0.0,148.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\plugin\RealmPlugin\RLMPRealmPlugin.m,35,26.0,147.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMAnalytics.mm,37,72.0,145.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\watchos\swift\CarthageExample\CarthageExample.xcodeproj\xcshareddata\xcschemes\CarthageExample.xcscheme,0,0.0,142.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\watchos\swift\CocoaPodsExample\CocoaPodsExample.xcodeproj\xcshareddata\xcschemes\CocoaPodsExample.xcscheme,0,0.0,142.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\watchos\swift\DynamicExample\DynamicExample.xcodeproj\xcshareddata\xcschemes\DynamicExample.xcscheme,0,0.0,142.0
+realm-cocoa,Ruby,D:\clones\realm-cocoa\scripts\reset-simulators.rb,28,19.0,142.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\ios\objc\Migration\Examples\Example_v3.h,17,46.0,141.0
+realm-cocoa,Bourne Shell,D:\clones\realm-cocoa\scripts\swift-version.sh,29,10.0,140.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\Migration\Examples\Example_v4.swift,16,42.0,138.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\Migration\Examples\Example_v5.swift,17,47.0,138.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\PropertyTests.m,22,19.0,136.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm.xcodeproj\xcshareddata\xcschemes\Realm iOS static.xcscheme,0,0.0,135.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMClassInfo.mm,28,22.0,135.0
+realm-cocoa,Markdown,D:\clones\realm-cocoa\README.md,40,0.0,134.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\Tests\Swift\SwiftLinkTests.swift,49,55.0,134.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm.xcodeproj\xcshareddata\xcschemes\Realm.xcscheme,0,0.0,133.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMSwiftValueStorage.mm,29,20.0,133.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\TestUtils\include\RLMAssertions.h,22,25.0,131.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\PrimitiveRLMValuePropertyTests.tpl.m,27,17.0,130.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\tvos\objc\DownloadCache\Base.lproj\Main.storyboard,0,2.0,130.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\tvos\swift\DownloadCache\Base.lproj\Main.storyboard,0,2.0,130.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\watchos\swift\XCFrameworkExample\XCFrameworkExample.xcodeproj\xcshareddata\xcschemes\XCFrameworkExample.xcscheme,0,0.0,129.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\Draw\Views\DrawView.m,33,21.0,127.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMMigration.mm,27,27.0,126.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm.xcodeproj\xcshareddata\xcschemes\Object Server Tests.xcscheme,0,0.0,125.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\Decimal128Tests.m,23,17.0,124.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\objc\RealmExamples.xcodeproj\xcshareddata\xcschemes\TodayExtension.xcscheme,0,0.0,124.0
+realm-cocoa,Python,D:\clones\realm-cocoa\Realm\Tests\set_tests.py,18,16.0,122.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMSwiftCollectionBase.mm,32,20.0,121.0
+realm-cocoa,Python,D:\clones\realm-cocoa\Realm\Tests\dictionary_tests.py,13,31.0,121.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\GroupedTableView\TableViewController.m,30,24.0,121.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm.xcodeproj\xcshareddata\xcschemes\SwiftUISyncTestHost.xcscheme,0,0.0,119.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\ObjectServerTests\RLMBSONTests.mm,22,18.0,119.0
+realm-cocoa,Ruby,D:\clones\realm-cocoa\Realm.podspec,11,5.0,118.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\ObjectiveCSupport.swift,35,54.0,117.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\ios\objc\CarthageExample\CarthageExample.xcodeproj\xcshareddata\xcschemes\CarthageExample.xcscheme,0,0.0,116.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\ios\objc\CocoaPodsDynamicExample\CocoaPodsDynamicExample.xcodeproj\xcshareddata\xcschemes\CocoaPodsDynamicExample.xcscheme,0,0.0,116.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\ios\objc\CocoaPodsExample\CocoaPodsExample.xcodeproj\xcshareddata\xcschemes\CocoaPodsExample.xcscheme,0,0.0,116.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\ios\objc\DynamicExample\DynamicExample.xcodeproj\xcshareddata\xcschemes\DynamicExample.xcscheme,0,0.0,116.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\ios\objc\StaticExample\StaticExample.xcodeproj\xcshareddata\xcschemes\StaticExample.xcscheme,0,0.0,116.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\ios\objc\XCFrameworkExample\XCFrameworkExample.xcodeproj\xcshareddata\xcschemes\XCFrameworkExample.xcscheme,0,0.0,116.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\ios\swift\CarthageExample\CarthageExample.xcodeproj\xcshareddata\xcschemes\CarthageExample.xcscheme,0,0.0,116.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\ios\swift\CocoaPodsExample\CocoaPodsExample.xcodeproj\xcshareddata\xcschemes\CocoaPodsExample.xcscheme,0,0.0,116.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\ios\swift\DynamicExample\DynamicExample.xcodeproj\xcshareddata\xcschemes\DynamicExample.xcscheme,0,0.0,116.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\osx\objc\CarthageExample\CarthageExample.xcodeproj\xcshareddata\xcschemes\CarthageExample.xcscheme,0,0.0,116.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\osx\objc\CocoaPodsExample\CocoaPodsExample.xcodeproj\xcshareddata\xcschemes\CocoaPodsExample.xcscheme,0,0.0,116.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\osx\objc\DynamicExample\DynamicExample.xcodeproj\xcshareddata\xcschemes\DynamicExample.xcscheme,0,0.0,116.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\osx\swift\CarthageExample\CarthageExample.xcodeproj\xcshareddata\xcschemes\CarthageExample.xcscheme,0,0.0,116.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\osx\swift\DynamicExample\DynamicExample.xcodeproj\xcshareddata\xcschemes\DynamicExample.xcscheme,0,0.0,116.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\objc\RealmExamples.xcodeproj\xcshareddata\xcschemes\RACTableView.xcscheme,0,0.0,116.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm.xcodeproj\xcshareddata\xcschemes\RealmSwift.xcscheme,0,0.0,113.0
+realm-cocoa,Python,D:\clones\realm-cocoa\Realm\Tests\array_tests.py,14,21.0,113.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Decimal128.swift,31,148.0,113.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Impl\RealmCollectionImpl.swift,15,33.0,113.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\TableView\TableViewController.m,29,25.0,113.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\ios\swift\XCFrameworkExample\XCFrameworkExample.xcodeproj\xcshareddata\xcschemes\XCFrameworkExample.xcscheme,0,0.0,112.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\osx\objc\XCFrameworkExample\XCFrameworkExample.xcodeproj\xcshareddata\xcschemes\XCFrameworkExample.xcscheme,0,0.0,112.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\osx\swift\XCFrameworkExample\XCFrameworkExample.xcodeproj\xcshareddata\xcschemes\XCFrameworkExample.xcscheme,0,0.0,112.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\CustomPersistable.swift,22,128.0,111.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\Migration\Examples\Example_v3.swift,16,49.0,111.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\ObjectServerTests\RLMServerTestObjects.h,15,17.0,110.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\Draw\Views\SwatchesView.m,31,18.0,110.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMRealmUtil.mm,19,29.0,109.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm.xcodeproj\xcshareddata\xcschemes\SwiftUITestHost.xcscheme,0,0.0,107.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm.xcodeproj\xcshareddata\xcschemes\TestHost.xcscheme,0,0.0,107.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\osx\objc\RealmExamples.xcodeproj\xcshareddata\xcschemes\JSONImport.xcscheme,0,0.0,107.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\ObjectSchemaTests.m,20,17.0,106.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\swift\RealmExamples.xcodeproj\xcshareddata\xcschemes\Backlink.xcscheme,0,0.0,106.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\swift\RealmExamples.xcodeproj\xcshareddata\xcschemes\Encryption.xcscheme,0,0.0,106.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\swift\RealmExamples.xcodeproj\xcshareddata\xcschemes\GroupedTableView.xcscheme,0,0.0,106.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\swift\RealmExamples.xcodeproj\xcshareddata\xcschemes\Simple.xcscheme,0,0.0,106.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\swift\RealmExamples.xcodeproj\xcshareddata\xcschemes\TableView.xcscheme,0,0.0,106.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\Tests\Swift\SwiftPropertyTypeTest.swift,22,19.0,104.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMAccessor.hpp,28,29.0,103.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\Tests\Swift\SwiftDynamicTests.swift,23,33.0,103.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMObservation.hpp,32,65.0,102.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\osx\swift\CocoaPodsExample\CocoaPodsExample.xcodeproj\xcshareddata\xcschemes\CocoaPodsExample.xcscheme,0,0.0,102.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\objc\RealmExamples.xcodeproj\xcshareddata\xcschemes\Backlink.xcscheme,0,0.0,102.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\objc\RealmExamples.xcodeproj\xcshareddata\xcschemes\Draw.xcscheme,0,0.0,102.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\objc\RealmExamples.xcodeproj\xcshareddata\xcschemes\Extension.xcscheme,0,0.0,102.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\objc\RealmExamples.xcodeproj\xcshareddata\xcschemes\GroupedTableView.xcscheme,0,0.0,102.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\swift\RealmExamples.xcodeproj\xcshareddata\xcschemes\Migration.xcscheme,0,0.0,102.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\tvos\objc\RealmExamples.xcodeproj\xcshareddata\xcschemes\DownloadCache.xcscheme,0,0.0,102.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\tvos\objc\RealmExamples.xcodeproj\xcshareddata\xcschemes\PreloadedData.xcscheme,0,0.0,102.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\tvos\swift\RealmExamples.xcodeproj\xcshareddata\xcschemes\DownloadCache.xcscheme,0,0.0,102.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\tvos\swift\RealmExamples.xcodeproj\xcshareddata\xcschemes\PreloadedData.xcscheme,0,0.0,102.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\objc\RealmExamples.xcodeproj\xcshareddata\xcschemes\Encryption.xcscheme,0,0.0,101.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\objc\RealmExamples.xcodeproj\xcshareddata\xcschemes\Migration.xcscheme,0,0.0,101.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\objc\RealmExamples.xcodeproj\xcshareddata\xcschemes\REST.xcscheme,0,0.0,101.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\objc\RealmExamples.xcodeproj\xcshareddata\xcschemes\Simple.xcscheme,0,0.0,101.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\objc\RealmExamples.xcodeproj\xcshareddata\xcschemes\TableView.xcscheme,0,0.0,101.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\ios\objc\Migration\Examples\Example_v2.h,16,28.0,100.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\ios\objc\Draw\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,98.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\ios\swift\ListSwiftUI\Assets.xcassets\AppIcon.appiconset\Contents.json,0,0.0,98.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\ios\swift\TableView\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,98.0
+realm-cocoa,YAML,D:\clones\realm-cocoa\.github\ISSUE_TEMPLATE\bug.yml,0,5.0,97.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\MutableSet.swift,50,100.0,97.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMSyncUtil.mm,18,17.0,96.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\ObjectiveCSupport+AnyRealmValue.swift,6,25.0,96.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\ObjectiveCSupportTests.swift,22,17.0,95.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\Encryption\LabelViewController.m,23,31.0,94.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\Projections\ContentView.swift,14,18.0,94.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\watchos\swift\CarthageExample\CarthageExample.xcodeproj\xcshareddata\xcschemes\iOS.xcscheme,0,0.0,92.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\watchos\swift\CocoaPodsExample\CocoaPodsExample.xcodeproj\xcshareddata\xcschemes\iOS.xcscheme,0,0.0,92.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\watchos\swift\DynamicExample\DynamicExample.xcodeproj\xcshareddata\xcschemes\iOS.xcscheme,0,0.0,92.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMMongoCollection.h,34,193.0,91.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\Swift\RLMSupport.swift,22,61.0,91.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\Tests\UtilTests.mm,25,17.0,91.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\AnyRealmValue.swift,16,52.0,91.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Util.swift,16,30.0,91.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\GroupedTableView\TableViewController.swift,27,25.0,90.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\watchos\swift\XCFrameworkExample\XCFrameworkExample.xcodeproj\xcshareddata\xcschemes\iOS.xcscheme,0,0.0,88.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMPredicateUtil.mm,21,19.0,87.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Impl\KeyPathStrings.swift,16,38.0,87.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMCollection_Private.hpp,21,22.0,86.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\swift\RealmExamples.xcodeproj\xcshareddata\xcschemes\AppClip.xcscheme,0,0.0,86.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMRealm.h,231,642.0,85.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\TableView\TableViewController.swift,23,28.0,85.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\tvos\objc\DownloadCache\RepositoriesViewController.m,24,17.0,85.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMProperty_Private.h,21,34.0,84.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\tvos\swift\DownloadCache\RepositoriesViewController.swift,20,17.0,84.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\ObjectServerTests\RLMSyncTestCase.h,44,33.0,83.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMObjectId.mm,20,31.0,82.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\tvos\objc\PreloadedData\Base.lproj\Main.storyboard,0,2.0,82.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\tvos\swift\PreloadedData\Base.lproj\Main.storyboard,0,2.0,82.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Results.swift,27,72.0,81.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\Migration\AppDelegate.m,10,18.0,81.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\ThreadSafeReference.swift,38,108.0,80.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMCollection.h,149,354.0,79.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\Migration\Examples\Example_v2.swift,13,31.0,79.0
+realm-cocoa,XML,D:\clones\realm-cocoa\plugin\Templates\file_templates\Realm Model Object.xctemplate\TemplateInfo.plist,0,0.0,79.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm.xcodeproj\xcshareddata\xcschemes\TestHost static.xcscheme,0,0.0,78.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\RealmKeyedCollection.swift,113,359.0,78.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\Encryption\ViewController.swift,18,31.0,78.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMArray.h,166,380.0,77.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMEmbeddedObject.mm,28,18.0,77.0
+realm-cocoa,Markdown,D:\clones\realm-cocoa\examples\README.md,71,0.0,77.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMObject.h,216,524.0,75.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMDictionary.h,145,342.0,74.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSyncSubscription.h,86,176.0,74.0
+realm-cocoa,Python,D:\clones\realm-cocoa\Realm\Tests\mixed_tests.py,11,15.0,73.0
+realm-cocoa,Bourne Shell,D:\clones\realm-cocoa\scripts\download-core.sh,14,7.0,73.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMUser.h,65,170.0,72.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMClassInfo.hpp,29,49.0,70.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSet.h,125,311.0,70.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMValue.mm,37,17.0,70.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\SwiftLinkTests.swift,27,18.0,69.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\ObjectServerTests\TimeoutProxyServer.swift,13,17.0,68.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\ObjectIdTests.m,27,17.0,68.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm.xcodeproj\xcshareddata\xcschemes\Download BaaS.xcscheme,0,0.0,67.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm.xcodeproj\xcshareddata\xcschemes\SwiftLint.xcscheme,0,0.0,67.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\ObjectServerTests\RLMObjectServerPartitionTests.mm,21,19.0,65.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMConstants.h,47,104.0,65.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMResults.h,132,342.0,65.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\ObjectServerTests\SwiftObjectServerPartitionTests.swift,12,17.0,64.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\ios\swift\SwiftPackageManagerExample\SwiftPackageManagerExample\Info.plist,0,0.0,64.0
+realm-cocoa,YAML,D:\clones\realm-cocoa\.swiftlint.yml,0,5.0,63.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMAPIKeyAuth.mm,15,17.0,63.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\ObjectIdTests.swift,24,17.0,63.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\Draw\AppDelegate.m,19,23.0,63.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\plugin\RealmPlugin\RLMPSimulatorManager.m,27,27.0,63.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Optional.swift,12,31.0,62.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMBSON.h,29,82.0,61.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\Extension\AppDelegate.m,14,18.0,61.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\swift\ListSwiftUI\Info.plist,0,0.0,60.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Migration.swift,41,97.0,59.0
+realm-cocoa,Ruby,D:\clones\realm-cocoa\scripts\package_examples.rb,14,10.0,59.0
+realm-cocoa,Ruby,D:\clones\realm-cocoa\scripts\pr-ci-matrix.rb,15,7.0,59.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\installation\osx\swift\DynamicExample\DynamicExample\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,58.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\installation\osx\swift\XCFrameworkExample\XCFrameworkExample\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,58.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\ios\objc\RACTableView\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,58.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\AppleAuthentication\ContentView.swift,16,18.0,58.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\ObjectServerTests\RLMWatchTestUtility.m,10,17.0,57.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMFindOneAndModifyOptions.mm,14,17.0,57.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMFindOptions.mm,13,17.0,57.0
+realm-cocoa,XML,D:\clones\realm-cocoa\plugin\RealmPlugin\RealmPlugin-Info.plist,0,0.0,57.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMApp.h,54,99.0,56.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\EmbeddedObject.swift,51,157.0,56.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMCredentials.mm,16,17.0,55.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\GettingStarted.playground\Contents.swift,26,14.0,55.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\ios\objc\Migration\Examples\Example_v1.h,14,24.0,54.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\TodayExtension\TodayViewController.m,12,18.0,54.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\installation\catalyst\swift\CocoaPodsExample\CocoaPodsExample\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,53.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\ios\objc\TableView\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,53.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\swift\AppClip\Info.plist,0,0.0,52.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSyncSession.h,53,171.0,51.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\ios\objc\Migration\Examples\Example_v0.h,13,21.0,51.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\ios\swift\TableView\Images.xcassets\LaunchImage.launchimage\Contents.json,0,0.0,51.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\swift\AppClipParent\Info.plist,0,0.0,50.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\ObjectServerTests\WatchTestUtility.swift,10,17.0,49.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\TestUtils\RLMChildProcessEnvironment.m,12,17.0,49.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\objc\Draw\Draw-Info.plist,0,0.0,49.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\Simple\AppDelegate.m,20,27.0,49.0
+realm-cocoa,Ruby,D:\clones\realm-cocoa\scripts\github_release.rb,14,0.0,49.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMEmailPasswordAuth.mm,13,17.0,48.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\Migration\AppDelegate.swift,11,18.0,48.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\watchos\swift\XCFrameworkExample\XCFrameworkExample\Info.plist,0,0.0,47.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\objc\TableView\TableView-Info.plist,0,0.0,47.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\ObjectServerTests\RLMUser+ObjectServerTests.mm,10,17.0,46.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\PropertyTests.swift,9,17.0,46.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\Simple\AppDelegate.swift,16,25.0,46.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm.xcodeproj\xcshareddata\xcbaselines\E856D1DE195614A400FB2FCF.xcbaseline\Info.plist,0,0.0,45.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMObject_Private.h,23,31.0,45.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMRealmConfiguration+Sync.mm,11,17.0,45.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm\Tests\TestHost\Info.plist,0,0.0,45.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Impl\Persistable.swift,10,38.0,45.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\ObjectId.swift,16,76.0,45.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\Tests\PredicateUtilTests.mm,10,18.0,44.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\Tests\Swift\SwiftUnicodeTests.swift,18,26.0,44.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\swift\Common\LaunchScreen.xib,0,0.0,44.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSyncUtil.h,51,126.0,43.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\Realm.h,3,17.0,43.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\RealmPropertyTests.swift,4,18.0,43.0
+realm-cocoa,Markdown,D:\clones\realm-cocoa\CONTRIBUTING.md,22,0.0,42.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSwiftProperty.h,12,17.0,42.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMThreadSafeReference.mm,10,17.0,42.0
+realm-cocoa,Markdown,D:\clones\realm-cocoa\contrib\UpgradingXcode.md,18,0.0,42.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\REST\AppDelegate.m,19,35.0,42.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\EnumeratorTests.m,15,23.0,41.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Impl\CollectionAccess.swift,7,22.0,41.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\ios\objc\CocoaPodsDynamicExample\CocoaPodsDynamicExample\Base.lproj\LaunchScreen.xib,0,0.0,41.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\ios\objc\StaticExample\StaticExample\Base.lproj\LaunchScreen.xib,0,0.0,41.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\ios\swift\CarthageExample\CarthageExample\Base.lproj\LaunchScreen.xib,0,0.0,41.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\ios\swift\CocoaPodsExample\CocoaPodsExample\Base.lproj\LaunchScreen.xib,0,0.0,41.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\ios\swift\DynamicExample\DynamicExample\Base.lproj\LaunchScreen.xib,0,0.0,41.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\ios\swift\XCFrameworkExample\XCFrameworkExample\Base.lproj\LaunchScreen.xib,0,0.0,41.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\watchos\objc\XCFrameworkExample\XCFrameworkExample WatchKit Extension\InterfaceController.m,9,17.0,41.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\tvos\objc\PreloadedData\PlacesViewController.m,17,17.0,41.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMNetworkTransport.h,29,61.0,40.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\LinkingObjects.swift,17,43.0,40.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\CompactionTests.swift,10,25.0,40.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\ios\swift\XCFrameworkExample\XCFrameworkExample\Info.plist,0,0.0,40.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\watchos\swift\CarthageExample\CarthageExample WatchKit Extension\Info.plist,0,0.0,40.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\watchos\swift\CocoaPodsExample\CocoaPodsExample WatchKit Extension\Info.plist,0,0.0,40.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\watchos\swift\DynamicExample\DynamicExample WatchKit Extension\Info.plist,0,0.0,40.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\watchos\swift\XCFrameworkExample\XCFrameworkExample WatchKit Extension\Info.plist,0,0.0,40.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\Backlink\AppDelegate.m,11,20.0,40.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\objc\Simple\Simple-Info.plist,0,0.0,40.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMMongoClient.mm,11,17.0,39.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMObjectStore.h,25,38.0,39.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Error.swift,23,62.0,39.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\SortDescriptor.swift,22,47.0,39.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\Migration\Examples\Example_v1.swift,12,27.0,39.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSyncManager.h,37,147.0,38.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\SortDescriptorTests.swift,13,19.0,38.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\installation\ios\swift\DynamicExample\DynamicExample\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,38.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\installation\ios\swift\XCFrameworkExample\XCFrameworkExample\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,38.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\osx\objc\JSONImport\main.m,8,21.0,38.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\tvos\swift\PreloadedData\PlacesViewController.swift,13,17.0,38.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMEmbeddedObject.h,90,242.0,37.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm\Tests\SwiftUISyncTestHost\Info.plist,0,0.0,37.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMArray_Private.hpp,14,23.0,36.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\Migration\Examples\Example_v0.swift,11,24.0,36.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMProperty.h,31,81.0,35.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMUserAPIKey.mm,12,21.0,35.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\watchos\swift\CarthageExample\CarthageExample WatchKit App\Info.plist,0,0.0,35.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\watchos\swift\CocoaPodsExample\CocoaPodsExample WatchKit App\Info.plist,0,0.0,35.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\watchos\swift\DynamicExample\DynamicExample WatchKit App\Info.plist,0,0.0,35.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\watchos\swift\XCFrameworkExample\XCFrameworkExample WatchKit App\Info.plist,0,0.0,35.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\objc\TodayExtension\MainInterface.storyboard,0,1.0,35.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMDictionary_Private.hpp,13,20.0,34.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm\Tests\SwiftUITestHost\Info.plist,0,0.0,34.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\osx\swift\CocoaPodsExample\CocoaPodsExample\Info.plist,0,0.0,34.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\osx\swift\XCFrameworkExample\XCFrameworkExample\Info.plist,0,0.0,34.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\swift\TableView\Info.plist,0,0.0,34.0
+realm-cocoa,YAML,D:\clones\realm-cocoa\.github\ISSUE_TEMPLATE\feature.yml,0,0.0,33.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm.xcodeproj\xcshareddata\xcbaselines\5D660FD71BE98C7C0021E04F.xcbaseline\Info.plist,0,0.0,33.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSet_Private.hpp,13,20.0,33.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMUpdateChecker.mm,9,18.0,33.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\ObjectiveCSupport+Sync.swift,4,23.0,33.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\SchemaTests.swift,8,17.0,33.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\objc\TodayExtension\Info.plist,0,0.0,33.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMPushClient.mm,10,17.0,32.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\TestUtils\include\RLMTestCase.h,14,17.0,32.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\ObjectSchema.swift,18,36.0,32.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\RealmProperty.swift,12,40.0,32.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\watchos\swift\XCFrameworkExample\XCFrameworkExample WatchKit Extension\InterfaceController.swift,7,17.0,32.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\Backlink\AppDelegate.swift,8,19.0,32.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\tvos\swift\PreloadedData\Info.plist,0,0.0,32.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMCredentials.h,29,65.0,31.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMObject_Private.hpp,10,21.0,31.0
+realm-cocoa,Markdown,D:\clones\realm-cocoa\contrib\ReleaseProcess.md,8,0.0,31.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\ObjectServerTests\RLMTestUtils.m,6,17.0,30.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm\Realm-Info.plist,0,0.0,30.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\SwiftUnicodeTests.swift,10,17.0,30.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\SwiftPMExample\Tests\SwiftPMExampleTests\SwiftPMExampleTests.swift,9,1.0,30.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\AppClipParent\ContentView.swift,7,20.0,30.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMResults_Private.hpp,12,25.0,29.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSyncConfiguration.h,25,80.0,28.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSyncSubscription_Private.h,22,17.0,28.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMValue.h,18,52.0,28.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Tests\RealmConfigurationTests.swift,5,17.0,28.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\Draw\Views\CanvasView.m,7,17.0,28.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMEmailPasswordAuth.h,23,68.0,27.0
+realm-cocoa,Ruby,D:\clones\realm-cocoa\RealmSwift.podspec,4,1.0,27.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\watchos\objc\XCFrameworkExample\XCFrameworkExample WatchKit App\Base.lproj\Interface.storyboard,0,1.0,27.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\watchos\swift\CarthageExample\CarthageExample WatchKit App\Base.lproj\Interface.storyboard,0,1.0,27.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\watchos\swift\CocoaPodsExample\CocoaPodsExample WatchKit App\Base.lproj\Interface.storyboard,0,1.0,27.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\watchos\swift\DynamicExample\DynamicExample WatchKit App\Base.lproj\Interface.storyboard,0,1.0,27.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\watchos\swift\XCFrameworkExample\XCFrameworkExample WatchKit App\Base.lproj\Interface.storyboard,0,1.0,27.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMDecimal128.h,26,57.0,26.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMRealm_Private.hpp,9,18.0,26.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\Tests\SwiftUITestHost\Objects.swift,5,17.0,26.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\TransactionTests.m,11,18.0,26.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\UnicodeTests.m,13,21.0,26.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\swift\PlaygroundFrameworkWrapper\Info.plist,0,0.0,26.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\tvos\swift\PreloadedData\Assets.xcassets\App Icon & Top Shelf Image.brandassets\Contents.json,0,0.0,26.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMRealm_Private.h,16,24.0,25.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSyncUtil_Private.hpp,13,18.0,25.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMUser_Private.hpp,12,23.0,25.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Nonsync.swift,4,17.0,25.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSyncConfiguration_Private.h,14,18.0,24.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSyncManager_Private.hpp,13,19.0,24.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSyncUtil_Private.h,10,19.0,24.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\Tests\TestHost\main.m,12,8.0,24.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Aliases.swift,25,110.0,24.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\ios\objc\XCFrameworkExample\XCFrameworkExample\Base.lproj\Main.storyboard,0,1.0,24.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\ios\swift\XCFrameworkExample\XCFrameworkExample\Base.lproj\Main.storyboard,0,1.0,24.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\osx\swift\XCFrameworkExample\XCFrameworkExampleTests\Info.plist,0,0.0,24.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\Draw\Models\UIColor+Realm.m,2,17.0,24.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\swift\AppleAuthentication\Base.lproj\LaunchScreen.storyboard,0,1.0,24.0
+realm-cocoa,YAML,D:\clones\realm-cocoa\.travis.yml,2,14.0,23.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMObjectSchema_Private.h,16,33.0,23.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSyncSession_Private.hpp,14,19.0,23.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Schema.swift,15,33.0,23.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\ios\swift\SwiftPackageManagerExample\SwiftPackageManagerExample\Base.lproj\Main.storyboard,0,1.0,23.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMProviderClient.mm,5,17.0,22.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMRealmConfiguration.h,35,120.0,22.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm\Tests\Swift\RealmObjcSwiftTests-Info.plist,0,0.0,22.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm\Tests\SwiftUITestHostUITests\Info.plist,0,0.0,22.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\RealmSwift\Property.swift,18,37.0,22.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\ios\objc\Draw\Images.xcassets\Pencils\Charcoal.imageset\Contents.json,0,0.0,22.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\ios\objc\Draw\Images.xcassets\Pencils\Dove.imageset\Contents.json,0,0.0,22.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\ios\objc\Draw\Images.xcassets\Pencils\Elephant.imageset\Contents.json,0,0.0,22.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\ios\objc\Draw\Images.xcassets\Pencils\Flamingo.imageset\Contents.json,0,0.0,22.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\ios\objc\Draw\Images.xcassets\Pencils\GrapeJelly.imageset\Contents.json,0,0.0,22.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\ios\objc\Draw\Images.xcassets\Pencils\Indigo.imageset\Contents.json,0,0.0,22.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\ios\objc\Draw\Images.xcassets\Pencils\Melon.imageset\Contents.json,0,0.0,22.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\ios\objc\Draw\Images.xcassets\Pencils\Mulberry.imageset\Contents.json,0,0.0,22.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\ios\objc\Draw\Images.xcassets\Pencils\Peach.imageset\Contents.json,0,0.0,22.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\ios\objc\Draw\Images.xcassets\Pencils\SexySalmon.imageset\Contents.json,0,0.0,22.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\ios\objc\Draw\Images.xcassets\Pencils\Ultramarine.imageset\Contents.json,0,0.0,22.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\NSError+RLMSync.m,6,17.0,20.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMAPIKeyAuth.h,21,50.0,20.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMDictionary_Private.h,7,19.0,20.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMMongoCollection_Private.hpp,9,17.0,20.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSwiftCollectionBase.h,9,17.0,20.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSwiftBridgingHeader.h,13,17.0,19.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\swift\AppClip\AppClip.entitlements,0,0.0,19.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\AppClip\AppClipApp.swift,4,18.0,19.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\AppClipParent\AppClipParentApp.swift,4,17.0,19.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMApp_Private.hpp,16,17.0,18.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMArray_Private.h,7,19.0,18.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMMigration.h,31,78.0,18.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMObjectBase.h,29,89.0,18.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMObjectId.h,13,47.0,18.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\Draw\Models\DrawPath.m,5,17.0,18.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSet_Private.h,7,19.0,17.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSwiftValueStorage.h,8,29.0,17.0
+realm-cocoa,HTML,D:\clones\realm-cocoa\docs\custom_head.html,0,0.0,17.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\osx\objc\JSONImport\persons.json,0,0.0,17.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\tvos\swift\PreloadedData\Assets.xcassets\App Icon & Top Shelf Image.brandassets\App Icon - Small.imagestack\Contents.json,0,0.0,17.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMApp_Private.h,10,25.0,16.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMFindOptions.h,11,28.0,16.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMNetworkTransport_Private.hpp,8,17.0,16.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMRealm+Sync.mm,7,17.0,16.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMRealmConfiguration_Private.h,10,19.0,16.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSyncConfiguration_Private.hpp,12,19.0,16.0
+realm-cocoa,Markdown,D:\clones\realm-cocoa\examples\ios\swift\Migration\README.md,6,0.0,16.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMPrefix.h,3,17.0,15.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMThreadSafeReference.h,24,67.0,15.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\TestUtils\include\RLMChildProcessEnvironment.h,8,22.0,15.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\SwiftPMExample\Package.swift,2,1.0,15.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\swift\AppClipParent\AppClipParent.entitlements,0,0.0,15.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\tvos\swift\PreloadedData\Assets.xcassets\LaunchImage.launchimage\Contents.json,0,0.0,15.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\ObjectServerTests\RLMWatchTestUtility.h,8,25.0,14.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMCollection_Private.h,7,17.0,14.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMFindOneAndModifyOptions.h,10,35.0,14.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMMigration_Private.h,9,17.0,14.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMObjectSchema.h,19,44.0,14.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMQueryUtil.hpp,7,18.0,14.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMRealm_Dynamic.h,34,70.0,14.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMThreadSafeReference_Private.hpp,11,20.0,14.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMUpdateResult.mm,4,17.0,14.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\TestUtils\include\RLMMultiProcessTestCase.h,8,20.0,14.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\TestUtils\include\TestUtils.h,7,20.0,14.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\AppleAuthentication\SceneDelegate.swift,4,17.0,14.0
+realm-cocoa,Bourne Shell,D:\clones\realm-cocoa\scripts\generate-rlmplatform.sh,5,0.0,14.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMPushClient.h,10,22.0,13.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSchema_Private.h,15,30.0,13.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSyncSubscription_Private.hpp,10,17.0,13.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\objc\RealmExamples.xcworkspace\contents.xcworkspacedata,0,0.0,13.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\swift\AsyncOpenSwiftUI\AsyncOpenSwiftUI--iOS--Info.plist,0,0.0,13.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\ListSwiftUI\Views\App.swift,3,17.0,13.0
+realm-cocoa,Bourne Shell,D:\clones\realm-cocoa\scripts\setup-cocoapods.sh,4,0.0,13.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMAccessor.h,11,30.0,12.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMBSON_Private.hpp,3,17.0,12.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMRealmUtil.hpp,6,21.0,12.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSchema.h,21,44.0,12.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMUser_Private.h,11,24.0,12.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\catalyst\swift\CocoaPodsExample\CocoaPodsExample\AppDelegate.swift,4,17.0,12.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\ios\swift\CarthageExample\CarthageExample\AppDelegate.swift,4,17.0,12.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\ios\swift\CocoaPodsExample\CocoaPodsExample\AppDelegate.swift,4,17.0,12.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\ios\swift\DynamicExample\DynamicExample\AppDelegate.swift,4,17.0,12.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\ios\swift\SwiftPackageManagerExample\SwiftPackageManagerExample\AppDelegate.swift,3,17.0,12.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\osx\swift\CarthageExample\CarthageExample\AppDelegate.swift,4,19.0,12.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\osx\swift\DynamicExample\DynamicExample\AppDelegate.swift,9,19.0,12.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\TableView\AppDelegate.m,5,17.0,12.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\tvos\swift\PreloadedData\Assets.xcassets\App Icon & Top Shelf Image.brandassets\Top Shelf Image.imageset\Contents.json,0,0.0,12.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMMongoDatabase_Private.hpp,8,17.0,11.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMObjectSchema_Private.hpp,6,19.0,11.0
+realm-cocoa,Objective-C++,D:\clones\realm-cocoa\Realm\RLMUUID.mm,6,17.0,11.0
+realm-cocoa,Markdown,D:\clones\realm-cocoa\docs\README.md,6,0.0,11.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\catalyst\objc\CocoaPodsExample\CocoaPodsExample\ViewController.m,7,19.0,11.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\ios\objc\XCFrameworkExample\XCFrameworkExample\ViewController.m,7,19.0,11.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\ios\swift\SwiftPackageManagerExample\SwiftPackageManagerExampleTests\SwiftPackageManagerExampleTests.swift,2,17.0,11.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\Encryption\AppDelegate.m,6,17.0,11.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\AppClipParent\DemoObject.swift,3,20.0,11.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\Encryption\AppDelegate.swift,4,17.0,11.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\ios\swift\Projections\Assets.xcassets\AccentColor.colorset\Contents.json,0,0.0,11.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\swift\Projections\Info.plist,0,0.0,11.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\TableView\AppDelegate.swift,4,17.0,11.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\tvos\swift\PreloadedData\Place.swift,2,17.0,11.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\RLMConstants.m,9,17.0,10.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMProperty_Private.hpp,8,17.0,10.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSchema_Private.hpp,4,17.0,10.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMUUID_Private.hpp,7,17.0,10.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMUserAPIKey.h,9,23.0,10.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\Tests\SwiftUISyncTestHost\SwiftUISyncTestHostApp.swift,2,17.0,10.0
+realm-cocoa,Markdown,D:\clones\realm-cocoa\SUPPORT.md,9,0.0,10.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\SwiftPMExample\Sources\SwiftPMExample\main.swift,3,0.0,10.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\catalyst\objc\CocoaPodsDynamicExample\CocoaPodsDynamicExampleTests\CocoaPodsDynamicExampleTests.m,5,17.0,10.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\catalyst\objc\CocoaPodsExample\CocoaPodsExampleTests\CocoaPodsExampleTests.m,5,17.0,10.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\installation\catalyst\swift\CocoaPodsExample\CocoaPodsExample\CocoaPodsExample.entitlements,0,0.0,10.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\ios\objc\CarthageExample\CarthageExampleTests\CarthageExampleTests.m,5,17.0,10.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\ios\objc\CocoaPodsDynamicExample\CocoaPodsDynamicExampleTests\CocoaPodsDynamicExampleTests.m,5,17.0,10.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\ios\objc\CocoaPodsExample\CocoaPodsExampleTests\CocoaPodsExampleTests.m,5,17.0,10.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\ios\objc\DynamicExample\DynamicExampleTests\DynamicExampleTests.m,5,17.0,10.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\ios\objc\StaticExample\StaticExampleTests\StaticExampleTests.m,5,17.0,10.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\ios\objc\XCFrameworkExample\XCFrameworkExampleTests\XCFrameworkExampleTests.m,5,17.0,10.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\ios\swift\XCFrameworkExample\XCFrameworkExample\AppDelegate.swift,4,17.0,10.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\osx\objc\CarthageExample\CarthageExampleTests\CarthageExampleTests.m,5,17.0,10.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\osx\objc\CocoaPodsExample\CocoaPodsExampleTests\CocoaPodsExampleTests.m,5,17.0,10.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\osx\objc\DynamicExample\DynamicExampleTests\DynamicExampleTests.m,5,17.0,10.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\osx\objc\XCFrameworkExample\XCFrameworkExampleTests\XCFrameworkExampleTests.m,5,17.0,10.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\osx\swift\DynamicExample\DynamicExample\ViewController.swift,7,19.0,10.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\objc\Draw\Draw.entitlements,0,0.0,10.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\objc\TodayExtension\TodayExtension.entitlements,0,0.0,10.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\AppleAuthentication\AppDelegate.swift,3,17.0,10.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\swift\AppleAuthentication\AppleAuthentication.entitlements,0,0.0,10.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\tvos\objc\PreloadedData\Place.h,4,17.0,10.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\tvos\swift\DownloadCache\Repository.swift,3,17.0,10.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\tvos\swift\RealmExamples.xcworkspace\contents.xcworkspacedata,0,0.0,10.0
+realm-cocoa,Markdown,D:\clones\realm-cocoa\plugin\README.md,3,0.0,10.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMObjectBase_Private.h,7,18.0,9.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMPushClient_Private.hpp,5,17.0,9.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMResults_Private.h,7,17.0,9.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\Realm\RLMSwiftSupport.m,5,17.0,9.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMUpdateResult.h,9,21.0,9.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\Tests\Swift\RLMTestCaseUtils.swift,2,17.0,9.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\catalyst\swift\CocoaPodsExample\CocoaPodsExample\ViewController.swift,6,19.0,9.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\catalyst\swift\CocoaPodsExample\CocoaPodsExampleTests\CocoaPodsExampleTests.swift,2,18.0,9.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\ios\swift\CarthageExample\CarthageExampleTests\CarthageExampleTests.swift,2,18.0,9.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\ios\swift\CocoaPodsExample\CocoaPodsExampleTests\CocoaPodsExampleTests.swift,2,18.0,9.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\ios\swift\DynamicExample\DynamicExample\ViewController.swift,6,19.0,9.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\ios\swift\DynamicExample\DynamicExampleTests\DynamicExampleTests.swift,2,18.0,9.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\ios\swift\XCFrameworkExample\XCFrameworkExampleTests\XCFrameworkExampleTests.swift,2,18.0,9.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\osx\objc\XCFrameworkExample\XCFrameworkExample\ViewController.m,7,19.0,9.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\osx\swift\CarthageExample\CarthageExampleTests\CarthageExampleTests.swift,2,18.0,9.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\osx\swift\DynamicExample\DynamicExampleTests\DynamicExampleTests.swift,2,18.0,9.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\osx\swift\XCFrameworkExample\XCFrameworkExampleTests\XCFrameworkExampleTests.swift,2,18.0,9.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\watchos\objc\XCFrameworkExample\XCFrameworkExample\main.m,3,17.0,9.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\ios\objc\Draw\Models\DrawPath.h,5,17.0,9.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\AsyncOpenSwiftUI\AsyncOpenSwiftUIApp.swift,2,17.0,9.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\Projections\ProjectionsApp.swift,2,17.0,9.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\osx\objc\JSONImport\Person.m,8,27.0,9.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\tvos\objc\DownloadCache\Repository.m,5,17.0,9.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\tvos\swift\DownloadCache\RepositoryCell.swift,3,17.0,9.0
+realm-cocoa,Bourne Shell,D:\clones\realm-cocoa\scripts\generate-rlmversion.sh,4,0.0,9.0
+realm-cocoa,YAML,D:\clones\realm-cocoa\.github\ISSUE_TEMPLATE\config.yml,0,0.0,8.0
+realm-cocoa,YAML,D:\clones\realm-cocoa\.github\no-response.yml,1,4.0,8.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm.xcodeproj\Realm.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist,0,0.0,8.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\NSError+RLMSync.h,8,30.0,8.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\ObjectServerTests\RLMUser+ObjectServerTests.h,7,17.0,8.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMDecimal128_Private.hpp,3,17.0,8.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMMongoClient.h,8,30.0,8.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMMongoClient_Private.hpp,9,17.0,8.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMMongoDatabase.h,8,33.0,8.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMObjectBase_Dynamic.h,21,53.0,8.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMObjectId_Private.hpp,4,17.0,8.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMProviderClient.h,8,23.0,8.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMRealm+Sync.h,8,22.0,8.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMRealmConfiguration+Sync.h,10,25.0,8.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMSwiftSupport.h,6,17.0,8.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm\Tests\SwiftUISyncTestHostUITests\SwiftUISyncTestHostUITests.entitlements,0,0.0,8.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\catalyst\objc\CocoaPodsExample\CocoaPodsExample\AppDelegate.m,5,17.0,8.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\ios\objc\XCFrameworkExample\XCFrameworkExample\AppDelegate.m,5,17.0,8.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\osx\swift\CocoaPodsExample\CocoaPodsExampleTests\CocoaPodsExampleTests.swift,2,18.0,8.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\osx\swift\XCFrameworkExample\XCFrameworkExample\AppDelegate.swift,3,17.0,8.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\ios\objc\Draw\Models\DrawPoint.h,6,17.0,8.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\Draw\main.m,3,17.0,8.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\Migration\main.m,2,17.0,8.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\TableView\main.m,3,17.0,8.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\swift\AsyncOpenSwiftUI\AsyncOpenSwiftUI--macOS--Info.plist,0,0.0,8.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\swift\RealmExamples.xcworkspace\xcshareddata\WorkspaceSettings.xcsettings,0,0.0,8.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\tvos\objc\PreloadedData\AppDelegate.m,6,17.0,8.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\tvos\swift\PreloadedData\AppDelegate.swift,3,17.0,8.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\tvos\swift\RealmExamples.xcworkspace\xcshareddata\WorkspaceSettings.xcsettings,0,0.0,8.0
+realm-cocoa,Bourne Shell,D:\clones\realm-cocoa\plugin\Templates\install_templates.sh,2,0.0,8.0
+realm-cocoa,YAML,D:\clones\realm-cocoa\.github\workflows\issue-needs-attention.yml,1,1.0,7.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Carthage\Realm.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\ObjectServerTests\RLMTestUtils.h,2,17.0,7.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMFindOptions_Private.hpp,5,17.0,7.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMProviderClient_Private.hpp,5,18.0,7.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMRealmConfiguration_Private.hpp,4,17.0,7.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMUpdateResult_Private.hpp,3,17.0,7.0
+realm-cocoa,XML,D:\clones\realm-cocoa\Realm\Tests\SwiftUITestHost\LaunchScreen.storyboard,0,0.0,7.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\installation\catalyst\objc\CocoaPodsExample\CocoaPodsExample\AppDelegate.h,5,17.0,7.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\catalyst\objc\CocoaPodsExample\CocoaPodsExample\main.m,2,17.0,7.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\installation\ios\objc\XCFrameworkExample\XCFrameworkExample\AppDelegate.h,5,17.0,7.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\osx\swift\CocoaPodsExample\CocoaPodsExample\AppDelegate.swift,3,17.0,7.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\ios\objc\Draw\Views\CanvasView.h,6,17.0,7.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\REST\main.m,2,17.0,7.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\osx\objc\JSONImport\Person.h,3,20.0,7.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\tvos\objc\DownloadCache\RepositoryCell.m,4,17.0,7.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\tvos\objc\PreloadedData\main.m,2,17.0,7.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMUserAPIKey_Private.hpp,3,17.0,6.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\installation\osx\objc\CocoaPodsExample\CocoaPodsExample\AppDelegate.h,4,17.0,6.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\installation\osx\objc\XCFrameworkExample\XCFrameworkExample\AppDelegate.h,3,17.0,6.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\Draw\Models\DrawPoint.m,4,17.0,6.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\ios\objc\Draw\Views\SwatchesView.h,4,17.0,6.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\ios\objc\REST\Venue.h,2,17.0,6.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\ios\swift\Projections\Preview Content\Preview Assets.xcassets\Contents.json,0,0.0,6.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\tvos\objc\DownloadCache\Repository.h,4,17.0,6.0
+realm-cocoa,JSON,D:\clones\realm-cocoa\examples\tvos\swift\PreloadedData\Assets.xcassets\Contents.json,0,0.0,6.0
+realm-cocoa,Bourne Shell,D:\clones\realm-cocoa\scripts\reset-simulators.sh,3,0.0,6.0
+realm-cocoa,Lisp,D:\clones\realm-cocoa\.dir-locals.el,0,1.0,5.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\ObjectServerTests\Object-Server-Tests-Bridging-Header.h,1,17.0,5.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMCredentials_Private.hpp,5,17.0,5.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMFindOneAndModifyOptions_Private.hpp,3,17.0,5.0
+realm-cocoa,Bourne Shell,D:\clones\realm-cocoa\ci_scripts\ci_post_clone.sh,2,2.0,5.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\osx\objc\XCFrameworkExample\XCFrameworkExample\AppDelegate.m,3,17.0,5.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\ios\objc\Draw\Models\UIColor+Realm.h,2,17.0,5.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\ios\objc\Extension\Tick.h,5,17.0,5.0
+realm-cocoa,Markdown,D:\clones\realm-cocoa\examples\ios\swift\AppleAuthentication\README.md,3,0.0,5.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\tvos\objc\DownloadCache\RepositoryCell.h,4,17.0,5.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\plugin\Templates\file_templates\Realm Model Object.xctemplate\Objective-C\___FILEBASENAME___.h,3,9.0,5.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMPredicateUtil.hpp,2,16.0,4.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\osx\objc\XCFrameworkExample\XCFrameworkExample\main.m,2,17.0,4.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\installation\watchos\objc\XCFrameworkExample\XCFrameworkExample WatchKit Extension\InterfaceController.h,1,17.0,4.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\ios\objc\Draw\AppDelegate.h,4,17.0,4.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\ios\objc\Extension\AppDelegate.h,6,17.0,4.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\ios\objc\Migration\AppDelegate.h,4,17.0,4.0
+realm-cocoa,XML,D:\clones\realm-cocoa\examples\ios\swift\GettingStarted.playground\contents.xcplayground,0,0.0,4.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\tvos\objc\PreloadedData\AppDelegate.h,4,17.0,4.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\plugin\RealmPlugin\RLMPSimulatorManager.h,8,25.0,4.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\plugin\Templates\file_templates\Realm Model Object.xctemplate\Swift\___FILEBASENAME___.swift,4,11.0,4.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\Tests\Swift\Swift-Tests-Bridging-Header.h,1,17.0,3.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\RealmSwift\Tests\RealmSwiftTests-BridgingHeader.h,1,17.0,3.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\installation\catalyst\objc\CocoaPodsExample\CocoaPodsExample\ViewController.h,5,17.0,3.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\installation\ios\objc\XCFrameworkExample\XCFrameworkExample\ViewController.h,5,17.0,3.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\ios\swift\XCFrameworkExample\XCFrameworkExample\ViewController.swift,2,17.0,3.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\installation\osx\objc\XCFrameworkExample\XCFrameworkExample\ViewController.h,5,17.0,3.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\osx\swift\XCFrameworkExample\XCFrameworkExample\ViewController.swift,2,17.0,3.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\installation\watchos\swift\XCFrameworkExample\XCFrameworkExample\main.m,1,17.0,3.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\ios\objc\Draw\Views\DrawView.h,2,17.0,3.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\ios\objc\Encryption\LabelViewController.h,3,17.0,3.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\Extension\Tick.m,3,17.0,3.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\ios\objc\REST\Venue.m,3,17.0,3.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\ios\objc\TableView\TableViewController.h,3,17.0,3.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\ios\objc\TodayExtension\TodayViewController.h,3,17.0,3.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\AppClipParent\Constants.swift,1,17.0,3.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\tvos\objc\DownloadCache\RepositoriesViewController.h,3,17.0,3.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\examples\tvos\objc\PreloadedData\Place.m,3,17.0,3.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\examples\tvos\objc\PreloadedData\PlacesViewController.h,3,17.0,3.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\plugin\RealmPlugin\RLMPRealmPlugin.h,3,17.0,3.0
+realm-cocoa,Objective-C,D:\clones\realm-cocoa\plugin\Templates\file_templates\Realm Model Object.xctemplate\Objective-C\___FILEBASENAME___.m,7,17.0,3.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\Tests\SwiftUISyncTestHostUITests\SwiftUISyncTestHostUITests-Bridging-Header.h,1,17.0,2.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\installation\osx\swift\CocoaPodsExample\CocoaPodsExample\ViewController.swift,2,17.0,2.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\ObjectServerTests\include\RLMSyncTestCase.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\ObjectServerTests\include\RLMUser+ObjectServerTests.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMAnalytics.hpp,2,52.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\RLMUpdateChecker.hpp,1,18.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\Realm\TestUtils\RealmTestSupport.h,0,1.0,1.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\Realm\Tests\Swift\RLMSupport.swift,0,0.0,1.0
+realm-cocoa,XML,D:\clones\realm-cocoa\RealmSwift\RealmSwift-Info.plist,0,0.0,1.0
+realm-cocoa,XML,D:\clones\realm-cocoa\RealmSwift\Tests\RealmSwiftTests-Info.plist,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\NSError+RLMSync.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMAPIKeyAuth.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMAccessor.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMApp.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMApp_Private.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMArray.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMArray_Private.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMBSON.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMCollection.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMCollection_Private.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMConstants.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMCredentials.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMDecimal128.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMDictionary.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMDictionary_Private.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMEmailPasswordAuth.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMEmbeddedObject.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMFindOneAndModifyOptions.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMFindOptions.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMMigration.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMMongoClient.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMMongoCollection.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMMongoDatabase.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMNetworkTransport.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMObject.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMObjectBase.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMObjectBase_Dynamic.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMObjectBase_Private.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMObjectId.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMObjectSchema.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMObjectSchema_Private.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMObjectStore.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMObject_Private.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMProperty.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMProperty_Private.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMProviderClient.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMPushClient.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMRealm+Sync.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMRealm.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMRealmConfiguration+Sync.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMRealmConfiguration.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMRealmConfiguration_Private.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMRealm_Dynamic.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMRealm_Private.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMResults.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMResults_Private.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMSchema.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMSchema_Private.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMSet.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMSet_Private.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMSwiftCollectionBase.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMSwiftProperty.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMSwiftValueStorage.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMSyncConfiguration.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMSyncConfiguration_Private.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMSyncManager.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMSyncSession.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMSyncSubscription.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMSyncSubscription_Private.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMSyncUtil.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMSyncUtil_Private.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMThreadSafeReference.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMUpdateResult.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMUser.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMUserAPIKey.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMUser_Private.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\RLMValue.h,0,0.0,1.0
+realm-cocoa,C/C++ Header,D:\clones\realm-cocoa\include\Realm\Realm.h,0,0.0,1.0
+realm-cocoa,Swift,D:\clones\realm-cocoa\examples\ios\swift\PlaygroundFrameworkWrapper\PlaygroundFrameworkWrapper.swift,0,3.0,0.0

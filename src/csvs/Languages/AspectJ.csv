@@ -1,0 +1,14 @@
+project,language,filename,blank,comment,code
+spring-framework,AspectJ,D:\clones\spring-framework\spring-aspects\src\main\java\org\springframework\beans\factory\aspectj\GenericInterfaceDrivenDependencyInjectionAspect.aj,7,42.0,10.0
+spring-framework,AspectJ,D:\clones\spring-framework\spring-aspects\src\main\java\org\springframework\cache\aspectj\AbstractCacheAspect.aj,13,38.0,42.0
+spring-framework,AspectJ,D:\clones\spring-framework\spring-aspects\src\test\java\org\springframework\aop\aspectj\autoproxy\CodeStyleAspect.aj,8,18.0,14.0
+spring-framework,AspectJ,D:\clones\spring-framework\spring-aspects\src\main\java\org\springframework\transaction\aspectj\AnnotationTransactionAspect.aj,8,50.0,14.0
+spring-framework,AspectJ,D:\clones\spring-framework\spring-aspects\src\main\java\org\springframework\cache\aspectj\JCacheCacheAspect.aj,16,46.0,50.0
+spring-framework,AspectJ,D:\clones\spring-framework\spring-aspects\src\main\java\org\springframework\transaction\aspectj\JtaAnnotationTransactionAspect.aj,10,49.0,16.0
+spring-framework,AspectJ,D:\clones\spring-framework\spring-aspects\src\main\java\org\springframework\transaction\aspectj\AbstractTransactionAspect.aj,12,54.0,45.0
+spring-framework,AspectJ,D:\clones\spring-framework\spring-aspects\src\main\java\org\springframework\scheduling\aspectj\AbstractAsyncExecutionAspect.aj,13,47.0,35.0
+spring-framework,AspectJ,D:\clones\spring-framework\spring-aspects\src\main\java\org\springframework\beans\factory\aspectj\AbstractInterfaceDrivenDependencyInjectionAspect.aj,13,92.0,16.0
+spring-framework,AspectJ,D:\clones\spring-framework\spring-aspects\src\main\java\org\springframework\beans\factory\aspectj\AnnotationBeanConfigurerAspect.aj,19,38.0,37.0
+spring-framework,AspectJ,D:\clones\spring-framework\spring-aspects\src\main\java\org\springframework\scheduling\aspectj\AnnotationAsyncExecutionAspect.aj,13,50.0,24.0
+spring-framework,AspectJ,D:\clones\spring-framework\spring-aspects\src\main\java\org\springframework\beans\factory\aspectj\AbstractDependencyInjectionAspect.aj,18,55.0,33.0
+spring-framework,AspectJ,D:\clones\spring-framework\spring-aspects\src\main\java\org\springframework\cache\aspectj\AnnotationCacheAspect.aj,13,66.0,37.0

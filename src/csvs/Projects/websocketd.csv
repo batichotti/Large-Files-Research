@@ -1,0 +1,96 @@
+project,language,filename,blank,comment,code
+websocketd,Go,D:\clones\websocketd\libwebsocketd\console.go,36,13.0,301.0
+websocketd,Lua,D:\clones\websocketd\examples\lua\json.lua,61,30.0,289.0
+websocketd,Go,D:\clones\websocketd\libwebsocketd\http.go,33,36.0,259.0
+websocketd,Go,D:\clones\websocketd\config.go,34,14.0,221.0
+websocketd,Go,D:\clones\websocketd\libwebsocketd\process_endpoint.go,21,9.0,137.0
+websocketd,Go,D:\clones\websocketd\help.go,40,5.0,121.0
+websocketd,Go,D:\clones\websocketd\libwebsocketd\handler.go,32,11.0,119.0
+websocketd,Go,D:\clones\websocketd\libwebsocketd\http_test.go,16,3.0,117.0
+websocketd,make,D:\clones\websocketd\release\Makefile,44,10.0,109.0
+websocketd,Markdown,D:\clones\websocketd\README.md,36,0.0,96.0
+websocketd,Go,D:\clones\websocketd\main.go,16,8.0,93.0
+websocketd,Go,D:\clones\websocketd\libwebsocketd\logscope.go,19,4.0,88.0
+websocketd,Go,D:\clones\websocketd\libwebsocketd\env.go,23,23.0,82.0
+websocketd,Go,D:\clones\websocketd\libwebsocketd\handler_test.go,13,8.0,81.0
+websocketd,Go,D:\clones\websocketd\libwebsocketd\websocket_endpoint.go,14,7.0,71.0
+websocketd,Go,D:\clones\websocketd\libwebsocketd\endpoint_test.go,11,0.0,62.0
+websocketd,XML,D:\clones\websocketd\examples\f#\Count\Count.fsproj,0,7.0,55.0
+websocketd,XML,D:\clones\websocketd\examples\f#\Echo\Echo.fsproj,0,7.0,55.0
+websocketd,MSBuild script,D:\clones\websocketd\examples\c#\Count\Count.csproj,0,7.0,51.0
+websocketd,MSBuild script,D:\clones\websocketd\examples\c#\Echo\Echo.csproj,0,7.0,51.0
+websocketd,C/C++ Header,D:\clones\websocketd\examples\hack\dump-env.hh,8,5.0,46.0
+websocketd,Perl,D:\clones\websocketd\examples\perl\dump-env.pl,6,8.0,37.0
+websocketd,Visual Basic Script,D:\clones\websocketd\examples\windows-vbscript\dump-env.vbs,5,6.0,37.0
+websocketd,JavaScript,D:\clones\websocketd\examples\windows-jscript\dump-env.js,5,6.0,36.0
+websocketd,Rust,D:\clones\websocketd\examples\rust\dump-env.rs,3,2.0,35.0
+websocketd,PHP,D:\clones\websocketd\examples\php\dump-env.php,4,7.0,34.0
+websocketd,Python,D:\clones\websocketd\examples\python\dump-env.py,4,7.0,33.0
+websocketd,Bourne Shell,D:\clones\websocketd\examples\cgi-bin\dump-env.sh,5,7.0,32.0
+websocketd,Ruby,D:\clones\websocketd\examples\ruby\dump-env.rb,5,8.0,32.0
+websocketd,Go,D:\clones\websocketd\libwebsocketd\launcher.go,9,4.0,32.0
+websocketd,Bourne Shell,D:\clones\websocketd\examples\bash\dump-env.sh,4,7.0,29.0
+websocketd,HTML,D:\clones\websocketd\examples\html\count.html,3,0.0,29.0
+websocketd,Go,D:\clones\websocketd\libwebsocketd\config.go,6,7.0,27.0
+websocketd,Go,D:\clones\websocketd\libwebsocketd\endpoint.go,4,4.0,25.0
+websocketd,Go,D:\clones\websocketd\libwebsocketd\license.go,5,4.0,25.0
+websocketd,Visual Studio Solution,D:\clones\websocketd\examples\c#\Examples.sln,1,1.0,24.0
+websocketd,Visual Studio Solution,D:\clones\websocketd\examples\f#\Examples.sln,1,1.0,24.0
+websocketd,Markdown,D:\clones\websocketd\examples\lua\README.md,21,0.0,24.0
+websocketd,make,D:\clones\websocketd\Makefile,10,13.0,21.0
+websocketd,Markdown,D:\clones\websocketd\examples\hack\README.md,4,0.0,19.0
+websocketd,C#,D:\clones\websocketd\examples\c#\Count\Program.cs,1,0.0,17.0
+websocketd,XML,D:\clones\websocketd\examples\f#\Echo\App.config,1,0.0,16.0
+websocketd,C/C++ Header,D:\clones\websocketd\examples\hack\count.hh,6,2.0,16.0
+websocketd,C/C++ Header,D:\clones\websocketd\examples\hack\greeter.hh,4,2.0,16.0
+websocketd,C#,D:\clones\websocketd\examples\c#\Echo\Program.cs,1,0.0,15.0
+websocketd,Java,D:\clones\websocketd\examples\java\Echo\Echo.java,0,0.0,14.0
+websocketd,JavaScript,D:\clones\websocketd\examples\nodejs\count.js,2,0.0,14.0
+websocketd,C#,D:\clones\websocketd\examples\c#\Count\Properties\AssemblyInfo.cs,4,17.0,13.0
+websocketd,C#,D:\clones\websocketd\examples\c#\Echo\Properties\AssemblyInfo.cs,4,17.0,13.0
+websocketd,Markdown,D:\clones\websocketd\examples\haskell\README.md,7,0.0,12.0
+websocketd,Java,D:\clones\websocketd\examples\java\Count\Count.java,0,0.0,12.0
+websocketd,Rust,D:\clones\websocketd\examples\rust\greeter.rs,1,1.0,12.0
+websocketd,Haskell,D:\clones\websocketd\examples\haskell\greeter.hs,2,1.0,11.0
+websocketd,Markdown,D:\clones\websocketd\examples\swift\README.md,6,0.0,11.0
+websocketd,Go,D:\clones\websocketd\version.go,4,7.0,10.0
+websocketd,Bourne Shell,D:\clones\websocketd\examples\bash\send-receive.sh,3,0.0,9.0
+websocketd,Haskell,D:\clones\websocketd\examples\haskell\count.hs,2,1.0,9.0
+websocketd,Perl,D:\clones\websocketd\examples\perl\count.pl,5,6.0,9.0
+websocketd,Rust,D:\clones\websocketd\examples\rust\count.rs,1,1.0,9.0
+websocketd,Swift,D:\clones\websocketd\examples\swift\greeter.swift,2,0.0,9.0
+websocketd,F#,D:\clones\websocketd\examples\f#\Echo\Program.fs,3,0.0,8.0
+websocketd,Perl,D:\clones\websocketd\examples\perl\greeter.pl,4,6.0,8.0
+websocketd,Lua,D:\clones\websocketd\examples\lua\json_ws.lua,0,0.0,7.0
+websocketd,Markdown,D:\clones\websocketd\examples\nodejs\README.md,6,0.0,7.0
+websocketd,JavaScript,D:\clones\websocketd\examples\nodejs\greeter.js,1,2.0,7.0
+websocketd,PHP,D:\clones\websocketd\examples\php\count.php,4,5.0,7.0
+websocketd,PHP,D:\clones\websocketd\examples\php\greeter.php,3,5.0,7.0
+websocketd,Python,D:\clones\websocketd\examples\python\count.py,3,5.0,7.0
+websocketd,JavaScript,D:\clones\websocketd\examples\qjs\request-reply.js,1,0.0,7.0
+websocketd,Swift,D:\clones\websocketd\examples\swift\count.swift,4,1.0,7.0
+websocketd,Bourne Shell,D:\clones\websocketd\examples\bash\chat.sh,3,10.0,6.0
+websocketd,Bourne Shell,D:\clones\websocketd\examples\bash\count.sh,2,5.0,6.0
+websocketd,XML,D:\clones\websocketd\examples\c#\Echo\App.config,0,0.0,6.0
+websocketd,F#,D:\clones\websocketd\examples\f#\Count\Program.fs,2,0.0,6.0
+websocketd,Lua,D:\clones\websocketd\examples\lua\greeter.lua,1,0.0,6.0
+websocketd,Python,D:\clones\websocketd\examples\python\greeter.py,3,5.0,6.0
+websocketd,Ruby,D:\clones\websocketd\examples\ruby\count.rb,3,6.0,6.0
+websocketd,Ruby,D:\clones\websocketd\examples\ruby\greeter.rb,3,6.0,6.0
+websocketd,Bourne Shell,D:\clones\websocketd\examples\bash\greeter.sh,2,5.0,5.0
+websocketd,Markdown,D:\clones\websocketd\examples\f#\README.md,1,0.0,5.0
+websocketd,Markdown,D:\clones\websocketd\examples\java\README.md,1,0.0,4.0
+websocketd,JavaScript,D:\clones\websocketd\examples\windows-jscript\count.js,1,5.0,4.0
+websocketd,JavaScript,D:\clones\websocketd\examples\windows-jscript\greeter.js,2,5.0,4.0
+websocketd,Visual Basic Script,D:\clones\websocketd\examples\windows-vbscript\count.vbs,2,5.0,4.0
+websocketd,Visual Basic Script,D:\clones\websocketd\examples\windows-vbscript\greeter.vbs,2,5.0,4.0
+websocketd,Bourne Shell,D:\clones\websocketd\examples\java\Count\count.sh,0,0.0,3.0
+websocketd,Bourne Shell,D:\clones\websocketd\examples\java\Echo\echo.sh,0,0.0,3.0
+websocketd,DOS Batch,D:\clones\websocketd\examples\windows-jscript\count.cmd,0,0.0,2.0
+websocketd,DOS Batch,D:\clones\websocketd\examples\windows-jscript\dump-env.cmd,0,0.0,2.0
+websocketd,DOS Batch,D:\clones\websocketd\examples\windows-jscript\greeter.cmd,0,0.0,2.0
+websocketd,DOS Batch,D:\clones\websocketd\examples\windows-vbscript\count.cmd,0,0.0,2.0
+websocketd,DOS Batch,D:\clones\websocketd\examples\windows-vbscript\dump-env.cmd,0,0.0,2.0
+websocketd,DOS Batch,D:\clones\websocketd\examples\windows-vbscript\greeter.cmd,0,0.0,2.0
+websocketd,DOS Batch,D:\clones\websocketd\examples\f#\run_count.cmd,0,0.0,1.0
+websocketd,DOS Batch,D:\clones\websocketd\examples\f#\run_echo.cmd,0,0.0,1.0

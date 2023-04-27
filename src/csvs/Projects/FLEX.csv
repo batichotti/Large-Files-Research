@@ -1,0 +1,457 @@
+project,language,filename,blank,comment,code
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\FLEXResources.m,150,29.0,8682.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Network\PonyDebugger\FLEXNetworkObserver.m,290,135.0,1572.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ExplorerInterface\FLEXExplorerViewController.m,188,112.0,746.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Runtime\FLEXRuntimeUtility.m,120,95.0,666.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\RuntimeBrowser\DataSources\FLEXRuntimeExporter.m,156,55.0,664.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Runtime\Objc\FLEXTypeEncodingParser.m,140,156.0,604.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Categories\FLEXRuntime+UIKitHelpers.m,122,34.0,478.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Network\FLEXNetworkMITMViewController.m,111,58.0,471.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\FileBrowser\FLEXFileBrowserController.m,86,25.0,449.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Core\Controllers\FLEXTableViewController.m,119,51.0,446.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Network\FLEXHTTPTransactionDetailController.m,92,16.0,427.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\FLEXUtility.m,77,30.0,420.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Network\FLEXNetworkRecorder.m,94,14.0,418.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXShortcutsSection.m,94,32.0,356.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Runtime\Objc\Reflection\FLEXMethod.m,62,17.0,351.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXShortcutsFactory+Defaults.m,95,37.0,329.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\RuntimeBrowser\DataSources\FLEXRuntimeClient.m,64,40.0,312.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Categories\NSObject+FLEX_Reflection.m,100,14.0,312.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Network\OSCache\OSCache.m,59,41.0,309.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\RuntimeBrowser\FLEXKeyPathSearchController.m,67,47.0,303.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Runtime\Objc\Reflection\FLEXPropertyAttributes.m,58,18.0,300.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ObjectExplorers\FLEXObjectExplorerViewController.m,63,38.0,292.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ObjectExplorers\FLEXObjectExplorer.m,58,38.0,282.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\DatabaseBrowser\FLEXTableContentViewController.m,67,13.0,272.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Keyboard\FLEXKeyboardShortcutManager.m,59,11.0,256.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\DatabaseBrowser\FLEXMultiColumnTableView.m,71,18.0,250.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\DatabaseBrowser\FLEXSQLiteDatabaseManager.m,58,26.0,245.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ExplorerInterface\FLEXWindowManagerController.m,54,7.0,241.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ExplorerInterface\Tabs\FLEXTabsViewController.m,58,39.0,238.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputColorView.m,66,8.0,237.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\Keychain\FLEXKeychainQuery.m,51,16.0,237.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ViewHierarchy\SnapshotExplorer\FHSSnapshotView.m,59,21.0,224.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Network\FLEXNetworkTransaction.m,63,12.0,220.0
+FLEX,C,D:\clones\FLEX\Classes\Utility\Runtime\flex_fishhook.c,42,28.0,220.0
+FLEX,Objective-C++,D:\clones\FLEX\Classes\Network\FLEXFirebaseTransaction.mm,58,26.0,219.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Runtime\Objc\Reflection\FLEXProperty.m,59,21.0,215.0
+FLEX,Objective-C,D:\clones\FLEX\FLEXTests\FLEXTypeEncodingParserTests.m,37,17.0,214.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Manager\FLEXManager+Extensibility.m,48,12.0,212.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\SystemLog\FLEXSystemLogViewController.m,62,22.0,203.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ObjectExplorers\FLEXObjectExplorerFactory.m,17,29.0,197.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Network\FLEXNetworkSettingsController.m,48,10.0,195.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ViewHierarchy\SnapshotExplorer\Scene\SceneKit+Snapshot.m,52,32.0,194.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ViewHierarchy\SnapshotExplorer\FHSViewController.m,54,24.0,192.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\FLEXObjectListViewController.m,49,11.0,190.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\Keychain\FLEXKeychainViewController.m,49,17.0,188.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXShortcut.m,55,13.0,186.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ViewHierarchy\TreeExplorer\FLEXHierarchyTableViewController.m,52,16.0,185.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Toolbar\FLEXExplorerToolbar.m,54,20.0,182.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\FLEXAlert.m,39,13.0,181.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ObjectExplorers\Sections\FLEXMetadataSection.m,40,13.0,180.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ObjectExplorers\Sections\FLEXCollectionContentSection.m,46,22.0,178.0
+FLEX,Markdown,D:\clones\FLEX\README.md,90,0.0,177.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\FLEXLiveObjectsController.m,43,18.0,175.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputStructView.m,39,9.0,172.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\Globals\FLEXGlobalsViewController.m,23,10.0,167.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ExplorerInterface\Bookmarks\FLEXBookmarksViewController.m,45,26.0,164.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputObjectView.m,39,32.0,161.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\RuntimeBrowser\FLEXRuntimeKeyPathTokenizer.m,33,25.0,160.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ViewHierarchy\SnapshotExplorer\FHSRangeSlider.m,40,8.0,153.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\RuntimeBrowser\FLEXKeyboardToolbar.m,44,29.0,152.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\SystemLog\FLEXOSLogController.m,40,22.0,152.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Core\Controllers\FLEXFilteringTableViewController.m,48,12.0,149.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\RuntimeBrowser\DataSources\FLEXRuntimeController.m,35,12.0,145.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\SystemLog\ActivityStreamAPI.h,39,25.0,145.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Runtime\Objc\Reflection\FLEXProtocol.m,46,22.0,144.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Core\Controllers\FLEXNavigationController.m,33,21.0,142.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Categories\NSUserDefaults+FLEX.m,38,8.0,142.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Core\Views\Carousel\FLEXScopeCarousel.m,42,22.0,140.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\FLEXHeapEnumerator.m,30,29.0,138.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Network\Firestore.h,48,6.0,136.0
+FLEX,Objective-C,D:\clones\FLEX\Example\FLEXample\MiscNetworkRequests.m,37,28.0,135.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ViewHierarchy\SnapshotExplorer\FHSView.m,32,32.0,130.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Editing\FLEXFieldEditorView.m,37,7.0,127.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Runtime\Objc\Reflection\FLEXClassBuilder.m,39,8.0,121.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Runtime\Objc\Reflection\FLEXIvar.m,26,11.0,121.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\DatabaseBrowser\FLEXTableListViewController.m,36,9.0,120.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\RuntimeBrowser\FLEXObjcRuntimeViewController.m,34,24.0,120.0
+FLEX,Objective-C,D:\clones\FLEX\FLEXTests\FLEXTests.m,31,21.0,118.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\RuntimeBrowser\FLEXKBToolbarButton.m,29,15.0,116.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputTextView.m,31,9.0,115.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Toolbar\FLEXExplorerToolbarItem.m,32,9.0,114.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ViewHierarchy\TreeExplorer\FLEXHierarchyTableViewCell.m,33,24.0,112.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Categories\Private\NSString+FLEX.m,33,17.0,110.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ViewHierarchy\FLEXImagePreviewViewController.m,30,7.0,110.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Editing\FLEXFieldEditorViewController.m,26,15.0,108.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Editing\FLEXVariableEditorViewController.m,24,12.0,105.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ViewHierarchy\FLEXHierarchyViewController.m,29,20.0,105.0
+FLEX,Objective-C,D:\clones\FLEX\Example\FLEXample\App\CommitListViewController.m,22,14.0,105.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Manager\FLEXManager.m,30,11.0,104.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Categories\NSArray+FLEX.m,30,9.0,104.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Runtime\Objc\Reflection\FLEXBlockDescription.m,26,28.0,103.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\SystemLog\FLEXASLLogController.m,33,13.0,101.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Network\FLEXNetworkTransaction.h,44,33.0,101.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Core\FLEXTableViewSection.m,31,7.0,99.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\FLEXColor.m,27,10.0,99.0
+FLEX,JSON,D:\clones\FLEX\Example\FLEXample\Supporting Files\Assets.xcassets\AppIcon.appiconset\Contents.json,0,0.0,98.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\FLEXWebViewController.m,31,16.0,96.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Runtime\Objc\Reflection\FLEXMirror.m,30,10.0,96.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\Keychain\FLEXKeychain.m,22,8.0,91.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXBundleShortcuts.m,10,13.0,91.0
+FLEX,Objective-C++,D:\clones\FLEX\Classes\Utility\Runtime\Objc\FLEXObjcInternal.mm,32,74.0,90.0
+FLEX,Python,D:\clones\FLEX\Graphics\image_to_code.py,22,29.0,90.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputStringView.m,22,18.0,89.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ExplorerInterface\Tabs\FLEXTabList.m,28,16.0,89.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\SystemLog\FLEXSystemLogCell.m,25,7.0,87.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Categories\Private\NSDictionary+ObjcRuntime.m,10,10.0,87.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Runtime\Objc\FLEXRuntimeSafety.m,13,8.0,86.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\FileBrowser\FLEXFileBrowserSearchOperation.m,24,9.0,85.0
+FLEX,XML,D:\clones\FLEX\FLEX.xcodeproj\xcshareddata\xcschemes\FLEX.xcscheme,0,0.0,85.0
+FLEX,Swift,D:\clones\FLEX\Package.swift,6,9.0,85.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Network\FLEXNetworkTransactionCell.m,25,7.0,84.0
+FLEX,Swift,D:\clones\FLEX\Example\FLEXample\App\Commit.swift,24,15.0,84.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\FLEXObjectRef.m,21,8.0,83.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Network\FLEXMITMDataSource.m,20,6.0,81.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ObjectExplorers\Sections\FLEXDefaultsContentSection.m,22,14.0,81.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputView.m,27,7.0,80.0
+FLEX,XML,D:\clones\FLEX\Example\FLEXample-Cocoapods.xcodeproj\xcshareddata\xcschemes\FLEXample.xcscheme,0,0.0,78.0
+FLEX,XML,D:\clones\FLEX\Example\FLEXample-SPM.xcodeproj\xcshareddata\xcschemes\FLEXample.xcscheme,0,0.0,78.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputFontView.m,26,7.0,76.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Editing\FLEXMethodCallingViewController.m,20,14.0,76.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ObjectExplorers\Sections\FLEXMutableListSection.m,27,7.0,76.0
+FLEX,Objective-C,D:\clones\FLEX\FLEXTests\FLEXTestsMethodsList.m,18,7.0,76.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\RuntimeBrowser\FLEXRuntimeBrowserToolbar.m,14,7.0,71.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputFontsPickerView.m,19,7.0,70.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\DatabaseBrowser\FLEXRealmDatabaseManager.m,21,11.0,70.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\FLEXAddressExplorerCoordinator.m,17,8.0,70.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ViewHierarchy\SnapshotExplorer\Scene\FHSSnapshotNodes.m,10,12.0,68.0
+FLEX,XML,D:\clones\FLEX\FLEX.xcodeproj\xcshareddata\xcschemes\FLEXTests.xcscheme,0,0.0,68.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Runtime\FLEXRuntimeUtility.h,18,23.0,67.0
+FLEX,XML,D:\clones\FLEX\Example\FLEXample\Supporting Files\Info.plist,0,0.0,67.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Runtime\Objc\Reflection\FLEXProtocolBuilder.m,19,8.0,66.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\RuntimeBrowser\FLEXSearchToken.m,16,7.0,65.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Categories\NSObject+FLEX_Reflection.h,37,132.0,65.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Core\Views\Carousel\FLEXCarouselCell.m,22,7.0,64.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Runtime\Objc\FLEXRuntimeConstants.h,6,9.0,64.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\SystemLog\FLEXSystemLogMessage.m,16,9.0,63.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Network\FLEXNetworkRecorder.h,32,27.0,63.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXUIAppShortcuts.m,9,7.0,61.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Core\FLEXSingleRowSection.m,20,7.0,60.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Core\Views\FLEXTableView.m,16,7.0,60.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\Globals\FLEXGlobalsEntry.h,20,27.0,58.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXViewShortcuts.m,15,17.0,58.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\Globals\FLEXGlobalsEntry.m,22,7.0,57.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\Globals\FLEXGlobalsSection.m,20,9.0,57.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Runtime\Objc\Reflection\FLEXProperty.h,16,65.0,57.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXClassShortcuts.m,7,10.0,56.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Categories\Private\NSString+ObjcRuntime.m,8,11.0,56.0
+FLEX,Ruby,D:\clones\FLEX\FLEX.podspec,3,0.0,56.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Editing\FLEXDefaultEditorViewController.m,16,9.0,55.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ExplorerInterface\FLEXViewControllersViewController.m,17,7.0,55.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\DatabaseBrowser\FLEXTableColumnHeader.m,16,7.0,55.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\FLEXCookiesViewController.m,15,7.0,54.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Runtime\Objc\Reflection\FLEXPropertyAttributes.h,18,38.0,54.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputSwitchView.m,20,8.0,53.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\FLEXMacros.h,23,19.0,53.0
+FLEX,Swift,D:\clones\FLEX\Example\FLEXample\AppDelegate.swift,15,14.0,53.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\DatabaseBrowser\FLEXDBQueryRowCell.m,15,9.0,51.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\RuntimeBrowser\FLEXRuntimeKeyPath.m,16,8.0,51.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Categories\Private\UIView+FLEX_Layout.m,10,7.0,49.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Categories\UIBarButtonItem+FLEX.m,16,7.0,49.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Manager\FLEXManager+Networking.m,12,8.0,48.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Editing\FLEXArgumentInputViewFactory.m,9,14.0,47.0
+FLEX,YAML,D:\clones\FLEX\.clang-format,1,0.0,46.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputNumberView.m,10,7.0,45.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ExplorerInterface\FLEXWindow.m,11,16.0,45.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXImageShortcuts.m,11,12.0,45.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ViewHierarchy\SnapshotExplorer\FHSViewSnapshot.m,11,7.0,44.0
+FLEX,Objective-C,D:\clones\FLEX\Example\FLEXample\App\Person.m,12,7.0,44.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Core\Views\Cells\FLEXMultilineTableViewCell.m,16,8.0,43.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXViewControllerShortcuts.m,8,7.0,43.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Core\Controllers\FLEXTableViewController.h,21,90.0,42.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXBlockShortcuts.m,10,7.0,42.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\FLEXUtility.h,7,13.0,42.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Categories\FLEXRuntime+UIKitHelpers.h,18,31.0,41.0
+FLEX,Bourne Shell,D:\clones\FLEX\generate-spm-headers.sh,8,16.0,41.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\Keychain\FLEXKeychainQuery.h,25,48.0,39.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\FLEXResources.h,13,7.0,39.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Core\FLEXTableViewSection.h,24,84.0,38.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputDateView.m,12,8.0,38.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Core\Views\Cells\FLEXTableViewCell.m,12,9.0,36.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\FLEXAlert.h,14,35.0,36.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Runtime\Objc\Reflection\FLEXMirror.h,19,28.0,36.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\DatabaseBrowser\FLEXSQLResult.m,11,7.0,35.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\Keychain\FLEXKeychain.h,28,81.0,35.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ObjectExplorers\Sections\FLEXCollectionContentSection.h,18,40.0,35.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ObjectExplorers\FLEXObjectExplorer.h,20,19.0,34.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXShortcutsSection.h,20,80.0,34.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Runtime\Objc\FLEXObjcInternal.h,14,25.0,34.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Runtime\Objc\FLEXRuntimeSafety.h,14,9.0,33.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXNSDataShortcuts.m,10,7.0,31.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Runtime\Objc\Reflection\FLEXClassBuilder.h,15,34.0,31.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Runtime\Objc\Reflection\FLEXProtocol.h,16,27.0,30.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Runtime\Objc\Reflection\FLEXMethod.h,16,51.0,29.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ViewHierarchy\SnapshotExplorer\Scene\SceneKit+Snapshot.h,14,19.0,29.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\DatabaseBrowser\FLEXRealmDefines.h,11,7.0,28.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Runtime\Objc\Reflection\FLEXMethodBase.m,13,8.0,28.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Runtime\flex_fishhook.h,9,40.0,28.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Categories\CALayer+FLEX.m,9,10.0,27.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Categories\NSUserDefaults+FLEX.h,11,13.0,27.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Categories\UIMenu+FLEX.m,5,7.0,27.0
+FLEX,XML,D:\clones\FLEX\Classes\Info.plist,0,0.0,26.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXShortcut.h,16,29.0,26.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Categories\UIFont+FLEX.m,8,9.0,26.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\FLEXColor.h,12,9.0,26.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Runtime\Objc\Reflection\FLEXBlockDescription.h,10,22.0,26.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ExplorerInterface\FLEXExplorerViewController.h,13,23.0,25.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\DatabaseBrowser\FLEXMultiColumnTableView.h,15,7.0,25.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Categories\FLEXRuntime+Compare.m,14,8.0,25.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Keyboard\FLEXKeyboardHelpViewController.m,10,7.0,25.0
+FLEX,XML,D:\clones\FLEX\Example\FLEXample\Supporting Files\Base.lproj\LaunchScreen.storyboard,0,1.0,24.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Network\FLEXNetworkCurlLogger.m,9,6.0,23.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Core\Controllers\FLEXFilteringTableViewController.h,19,48.0,22.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputView.h,18,24.0,22.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\DatabaseBrowser\FLEXTableColumnHeader.h,9,7.0,22.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ViewHierarchy\SnapshotExplorer\FHSSnapshotView.h,16,8.0,22.0
+FLEX,XML,D:\clones\FLEX\FLEXTests\Info.plist,0,0.0,22.0
+FLEX,Markdown,D:\clones\FLEX\.github\ISSUE_TEMPLATE\bug_report.md,6,0.0,21.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Editing\FLEXVariableEditorViewController.h,12,23.0,20.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\GlobalStateExplorers\DatabaseBrowser\FLEXTableLeftCell.m,6,7.0,20.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ObjectExplorers\FLEXObjectExplorerViewController.h,12,25.0,20.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Categories\UIBarButtonItem+FLEX.h,12,8.0,20.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Categories\UIGestureRecognizer+Blocks.m,9,7.0,20.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Core\Views\Cells\FLEXCodeFontCell.m,7,8.0,19.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Core\Views\FLEXTableView.h,10,19.0,19.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\RuntimeBrowser\DataSources\FLEXRuntimeClient.h,11,24.0,19.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Runtime\Objc\Reflection\FLEXIvar.h,11,21.0,19.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Manager\FLEXManager+Extensibility.h,13,47.0,18.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Manager\FLEXManager.h,14,15.0,18.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXNSStringShortcuts.m,5,6.0,18.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Categories\UIPasteboard+FLEX.m,5,8.0,18.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ExplorerInterface\Tabs\FLEXTabList.h,9,19.0,17.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\RuntimeBrowser\FLEXKeyPathSearchController.h,12,9.0,17.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ObjectExplorers\Sections\FLEXMetadataSection.h,7,13.0,17.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXLayerShortcuts.m,4,7.0,17.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Toolbar\FLEXExplorerToolbar.h,17,24.0,17.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Categories\FLEXRuntime+Compare.h,5,7.0,17.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Runtime\Objc\Reflection\FLEXMethodBase.h,8,18.0,17.0
+FLEX,Swift,D:\clones\FLEX\Example\FLEXample\SceneDelegate.swift,6,7.0,17.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\FLEXObjectRef.h,9,16.0,16.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\RuntimeBrowser\FLEXRuntimeKeyPath.h,8,19.0,16.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\RuntimeBrowser\FLEXSearchToken.h,7,12.0,16.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Network\FLEXMITMDataSource.h,10,10.0,16.0
+FLEX,Markdown,D:\clones\FLEX\Classes\Network\OSCache\LICENSE.md,4,0.0,16.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ObjectExplorers\Sections\FLEXColorPreviewSection.m,6,8.0,16.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ViewHierarchy\SnapshotExplorer\FHSView.h,9,10.0,16.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ViewHierarchy\SnapshotExplorer\FHSViewSnapshot.h,12,9.0,16.0
+FLEX,Bourne Shell,D:\clones\FLEX\Graphics\images_to_hex.sh,4,16.0,16.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\FLEX-Runtime.h,3,7.0,15.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Network\OSCache\OSCache.h,11,31.0,15.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Categories\NSArray+FLEX.h,11,14.0,15.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Categories\Private\Cocoa+FLEXShortcuts.m,3,7.0,15.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ViewHierarchy\SnapshotExplorer\Scene\FHSSnapshotNodes.h,10,12.0,15.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputNotSupportedView.m,4,7.0,14.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\DatabaseBrowser\FLEXSQLResult.h,10,24.0,14.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\SystemLog\FLEXSystemLogMessage.h,8,8.0,14.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Categories\NSTimer+FLEX.m,5,6.0,14.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Runtime\Objc\FLEXRuntimeConstants.m,3,7.0,14.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\FLEX.h,4,8.0,13.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\DatabaseBrowser\FLEXTableContentViewController.h,7,16.0,13.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXShortcutsFactory+Defaults.h,13,7.0,13.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Categories\Private\NSString+FLEX.h,7,13.0,13.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Runtime\Objc\Reflection\FLEXProtocolBuilder.h,6,22.0,13.0
+FLEX,YAML,D:\clones\FLEX\.travis.yml,0,0.0,12.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\ExplorerInterface\Bookmarks\FLEXBookmarkManager.m,6,7.0,12.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\DatabaseBrowser\FLEXDatabaseManager.h,8,15.0,12.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\RuntimeBrowser\DataSources\FLEXRuntimeExporter.h,8,9.0,12.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ObjectExplorers\FLEXObjectExplorerFactory.h,8,10.0,12.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ObjectExplorers\Sections\FLEXMutableListSection.h,10,36.0,12.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Categories\UITextField+Range.m,5,6.0,12.0
+FLEX,Objective-C,D:\clones\FLEX\FLEXTests\Supporting Files\FLEXNewRootClass.m,6,7.0,12.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Editing\FLEXFieldEditorViewController.h,8,10.0,11.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\FLEX-Categories.h,2,7.0,11.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\FLEX-Core.h,4,7.0,11.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\FLEX-ObjectExploring.h,4,7.0,11.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\DatabaseBrowser\FLEXDBQueryRowCell.h,9,8.0,11.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\Globals\FLEXGlobalsViewController.h,4,13.0,11.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\RuntimeBrowser\DataSources\FLEXRuntimeController.h,9,16.0,11.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Categories\Private\UIView+FLEX_Layout.h,5,7.0,11.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Keyboard\FLEXKeyboardShortcutManager.h,6,12.0,11.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Runtime\Objc\FLEXTypeEncodingParser.h,11,24.0,11.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ViewHierarchy\FLEXHierarchyViewController.h,6,9.0,11.0
+FLEX,C/C++ Header,D:\clones\FLEX\Example\FLEXample\App\Person.h,8,7.0,11.0
+FLEX,C/C++ Header,D:\clones\FLEX\Example\Realm\Dog.h,6,7.0,11.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ExplorerInterface\FLEXWindow.h,8,11.0,10.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\RuntimeBrowser\FLEXKBToolbarButton.h,9,12.0,10.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Manager\FLEXManager+Networking.h,9,21.0,10.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Core\FLEXSingleRowSection.h,5,14.0,9.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Core\Views\Cells\FLEXMultilineTableViewCell.h,6,9.0,9.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\FileBrowser\FLEXFileBrowserSearchOperation.h,9,7.0,9.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\SystemLog\FLEXSystemLogCell.h,7,7.0,9.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Manager\Private\FLEXManager+Private.h,6,8.0,9.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Toolbar\FLEXExplorerToolbarItem.h,9,26.0,9.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Utility\Categories\Private\NSMapTable+FLEX_Subscripting.m,5,7.0,9.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\FLEXHeapEnumerator.h,6,10.0,9.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ViewHierarchy\SnapshotExplorer\FHSRangeSlider.h,6,7.0,9.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ViewHierarchy\SnapshotExplorer\FHSViewController.h,7,13.0,9.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\DatabaseBrowser\FLEXSQLiteDatabaseManager.h,5,19.0,8.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\SystemLog\FLEXOSLogController.h,7,12.0,8.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ViewHierarchy\TreeExplorer\FLEXHierarchyTableViewController.h,5,7.0,8.0
+FLEX,Markdown,D:\clones\FLEX\.github\ISSUE_TEMPLATE\feature_request.md,3,0.0,7.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Core\Views\Carousel\FLEXScopeCarousel.h,5,8.0,7.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Editing\FLEXArgumentInputViewFactory.h,6,11.0,7.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Editing\FLEXDefaultEditorViewController.h,7,7.0,7.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Editing\FLEXFieldEditorView.h,6,7.0,7.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\FileBrowser\FLEXFileBrowserController.h,4,7.0,7.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\Globals\FLEXGlobalsSection.h,6,7.0,7.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Network\FLEXNetworkTransactionCell.h,6,7.0,7.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ObjectExplorers\Sections\FLEXDefaultsContentSection.h,5,15.0,7.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Categories\Private\NSMapTable+FLEX_Subscripting.h,6,7.0,7.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Categories\UIMenu+FLEX.h,5,7.0,7.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ViewHierarchy\TreeExplorer\FLEXHierarchyTableViewCell.h,5,7.0,7.0
+FLEX,C/C++ Header,D:\clones\FLEX\Example\FLEXample\MiscNetworkRequests.h,7,7.0,7.0
+FLEX,XML,D:\clones\FLEX\FLEX.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+FLEX,C/C++ Header,D:\clones\FLEX\FLEXTests\Supporting Files\FLEXNewRootClass.h,4,8.0,7.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Core\Controllers\FLEXNavigationController.h,6,7.0,6.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Core\Views\Cells\FLEXKeyValueTableViewCell.m,4,7.0,6.0
+FLEX,Objective-C,D:\clones\FLEX\Classes\Core\Views\Cells\FLEXSubtitleTableViewCell.m,4,7.0,6.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Core\Views\Cells\FLEXTableViewCell.h,5,12.0,6.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ExplorerInterface\Bookmarks\FLEXBookmarkManager.h,6,7.0,6.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ExplorerInterface\FLEXViewControllersViewController.h,6,7.0,6.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\FLEXObjectListViewController.h,4,9.0,6.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\FLEXWebViewController.h,5,7.0,6.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\RuntimeBrowser\FLEXKeyboardToolbar.h,5,7.0,6.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\RuntimeBrowser\FLEXRuntimeBrowserToolbar.h,5,7.0,6.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\RuntimeBrowser\FLEXRuntimeKeyPathTokenizer.h,5,7.0,6.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\SystemLog\FLEXLogController.h,5,8.0,6.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Categories\Private\NSDictionary+ObjcRuntime.h,5,10.0,6.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Categories\UIFont+FLEX.h,4,7.0,6.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Categories\UIGestureRecognizer+Blocks.h,8,7.0,6.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ViewHierarchy\FLEXImagePreviewViewController.h,4,7.0,6.0
+FLEX,JSON,D:\clones\FLEX\Example\FLEXample\Supporting Files\Preview Content\Preview Assets.xcassets\Contents.json,0,0.0,6.0
+FLEX,C/C++ Header,D:\clones\FLEX\Example\Realm\Owner.h,6,7.0,6.0
+FLEX,Bourne Shell,D:\clones\FLEX\Graphics\iterate_hex_to_pasteboard.sh,2,7.0,6.0
+FLEX,JSON,D:\clones\FLEX\.vscode\settings.json,0,0.0,5.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Core\Views\Cells\FLEXCodeFontCell.h,5,7.0,5.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputTextView.h,5,8.0,5.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Editing\FLEXMethodCallingViewController.h,4,7.0,5.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ExplorerInterface\Bookmarks\FLEXBookmarksViewController.h,5,7.0,5.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ExplorerInterface\FLEXWindowManagerController.h,5,7.0,5.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\DatabaseBrowser\FLEXTableLeftCell.h,5,7.0,5.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\DatabaseBrowser\FLEXTableListViewController.h,4,7.0,5.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\SystemLog\FLEXASLLogController.h,5,8.0,5.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Network\FLEXHTTPTransactionDetailController.h,5,7.0,5.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Network\PonyDebugger\FLEXNetworkObserver.h,5,18.0,5.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ObjectExplorers\Sections\FLEXColorPreviewSection.h,4,7.0,5.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXBlockShortcuts.h,5,9.0,5.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXBundleShortcuts.h,5,8.0,5.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Categories\NSTimer+FLEX.h,6,8.0,5.0
+FLEX,C/C++ Header,D:\clones\FLEX\Example\FLEXample\App\CommitListViewController.h,5,7.0,5.0
+FLEX,Objective-C,D:\clones\FLEX\Example\Realm\Dog.m,4,7.0,5.0
+FLEX,Objective-C,D:\clones\FLEX\Example\Realm\Owner.m,4,7.0,5.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Core\Views\Carousel\FLEXCarouselCell.h,4,7.0,4.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\DatabaseBrowser\FLEXRealmDatabaseManager.h,3,7.0,4.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\FLEXCookiesViewController.h,3,7.0,4.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\FLEXLiveObjectsController.h,3,7.0,4.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\Keychain\FLEXKeychainViewController.h,3,7.0,4.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\RuntimeBrowser\FLEXObjcRuntimeViewController.h,3,7.0,4.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\SystemLog\FLEXSystemLogViewController.h,3,7.0,4.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Network\FLEXNetworkCurlLogger.h,4,11.0,4.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Network\FLEXNetworkMITMViewController.h,3,8.0,4.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ObjectExplorers\Sections\FLEXObjectInfoSection.h,4,11.0,4.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXClassShortcuts.h,4,9.0,4.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXImageShortcuts.h,4,8.0,4.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXLayerShortcuts.h,4,7.0,4.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXViewControllerShortcuts.h,4,7.0,4.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Categories\CALayer+FLEX.h,4,7.0,4.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Categories\Private\Cocoa+FLEXShortcuts.h,2,7.0,4.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Categories\Private\NSString+ObjcRuntime.h,4,15.0,4.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Categories\UIPasteboard+FLEX.h,4,8.0,4.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Categories\UITextField+Range.h,4,6.0,4.0
+FLEX,C/C++ Header,D:\clones\FLEX\Example\FLEXample\Supporting Files\FLEXample-Bridging-Header.h,1,3.0,4.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Core\Views\Cells\FLEXKeyValueTableViewCell.h,3,7.0,3.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Core\Views\Cells\FLEXSubtitleTableViewCell.h,3,8.0,3.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputColorView.h,3,7.0,3.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputDateView.h,3,7.0,3.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputFontView.h,3,7.0,3.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputFontsPickerView.h,2,7.0,3.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputNotSupportedView.h,3,7.0,3.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputNumberView.h,3,7.0,3.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputObjectView.h,3,7.0,3.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputStringView.h,3,7.0,3.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputStructView.h,3,7.0,3.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Editing\ArgumentInputViews\FLEXArgumentInputSwitchView.h,3,7.0,3.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ExplorerInterface\Tabs\FLEXTabsViewController.h,3,7.0,3.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\GlobalStateExplorers\FLEXAddressExplorerCoordinator.h,3,7.0,3.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Network\FLEXNetworkSettingsController.h,3,6.0,3.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXNSDataShortcuts.h,3,7.0,3.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXNSStringShortcuts.h,3,7.0,3.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXUIAppShortcuts.h,3,7.0,3.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\ObjectExplorers\Sections\Shortcuts\FLEXViewShortcuts.h,3,8.0,3.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Utility\Keyboard\FLEXKeyboardHelpViewController.h,3,7.0,3.0
+FLEX,Markdown,D:\clones\FLEX\CONTRIBUTING.md,1,0.0,2.0
+FLEX,YAML,D:\clones\FLEX\.github\FUNDING.yml,1,1.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\CALayer+FLEX.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEX-Categories.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEX-Core.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEX-ObjectExploring.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEX-Runtime.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEX.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXAlert.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXBlockDescription.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXClassBuilder.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXCodeFontCell.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXCollectionContentSection.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXColorPreviewSection.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXDefaultsContentSection.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXExplorerToolbar.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXExplorerToolbarItem.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXFilteringTableViewController.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXGlobalsEntry.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXIvar.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXKeyValueTableViewCell.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXMacros.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXManager+Extensibility.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXManager+Networking.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXManager.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXMetadataSection.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXMethod.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXMethodBase.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXMirror.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXMultilineTableViewCell.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXMutableListSection.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXNavigationController.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXObjcInternal.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXObjectExplorer.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXObjectExplorerFactory.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXObjectExplorerViewController.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXObjectInfoSection.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXProperty.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXPropertyAttributes.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXProtocol.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXProtocolBuilder.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXResources.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXRuntime+Compare.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXRuntime+UIKitHelpers.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXRuntimeConstants.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXRuntimeSafety.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXShortcut.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXShortcutsSection.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXSingleRowSection.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXSubtitleTableViewCell.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXTableView.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXTableViewCell.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXTableViewController.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXTableViewSection.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\FLEXTypeEncodingParser.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\NSArray+FLEX.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\NSObject+FLEX_Reflection.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\NSTimer+FLEX.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\NSUserDefaults+FLEX.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\UIBarButtonItem+FLEX.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\UIFont+FLEX.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\UIGestureRecognizer+Blocks.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\UIMenu+FLEX.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\UIPasteboard+FLEX.h,0,0.0,1.0
+FLEX,C/C++ Header,D:\clones\FLEX\Classes\Headers\UITextField+Range.h,0,0.0,1.0

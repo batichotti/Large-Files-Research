@@ -1,0 +1,78 @@
+project,language,filename,blank,comment,code
+edeliver,Perl,D:\clones\edeliver\libexec\aws,426,247.0,2821.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\libexec\erlang,97,110.0,1248.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\libexec\erlang-init,30,3.0,508.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\libexec\core,76,78.0,330.0
+edeliver,Markdown,D:\clones\edeliver\README.md,171,0.0,326.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\libexec\common,44,26.0,286.0
+edeliver,Elixir,D:\clones\edeliver\lib\mix\tasks\release_version.ex,49,87.0,250.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\strategies\erlang-upgrade,27,46.0,247.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\strategies\erlang-node-execute,34,17.0,235.0
+edeliver,Elixir,D:\clones\edeliver\test\release_version_test.exs,43,2.0,234.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\insert_instruction.ex,26,71.0,175.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\strategies\erlang-update,26,38.0,175.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\strategies\erlang-build-upgrade,22,20.0,174.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\shift_instruction.ex,20,61.0,162.0
+edeliver,Markdown,D:\clones\edeliver\CHANGELOG.md,67,0.0,144.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver.ex,26,53.0,139.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\runnable_instruction.ex,51,115.0,126.0
+edeliver,Markdown,D:\clones\edeliver\docs\auto-versioning.md,37,0.0,118.0
+edeliver,Markdown,D:\clones\edeliver\docs\relup-patching.md,32,0.0,106.0
+edeliver,Elixir,D:\clones\edeliver\lib\distillery\plugins\modify_relup.ex,11,11.0,106.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\instructions\check_ranch_connections.ex,24,62.0,100.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\libexec\output,22,28.0,88.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\strategies\erlang-increase-versions,5,2.0,84.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\instructions\check_ranch_acceptors.ex,17,46.0,82.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\strategies\erlang-unpack-pack,8,0.0,82.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\strategies\publish-edeliver,9,5.0,78.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\instructions\finish_running_requests.ex,18,52.0,75.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\instructions\suspend_channels.ex,17,56.0,72.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\libexec\app_config,16,30.0,70.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\instructions\resume_channels.ex,17,42.0,66.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\strategies\erlang-build-release,10,0.0,61.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\libexec\generated,15,5.0,60.0
+edeliver,Elixir,D:\clones\edeliver\mix.exs,5,0.0,59.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\strategies\erlang-build-appup,10,11.0,56.0
+edeliver,Elixir,D:\clones\edeliver\lib\mix\tasks\edeliver.ex,20,53.0,50.0
+edeliver,Elixir,D:\clones\edeliver\lib\distillery\plugins\link_config.ex,9,16.0,49.0
+edeliver,Elixir,D:\clones\edeliver\test\test_helper.exs,8,0.0,48.0
+edeliver,Markdown,D:\clones\edeliver\strategies\README.md,23,0.0,47.0
+edeliver,Markdown,D:\clones\edeliver\docs\configuration.md,16,0.0,44.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\bin\edeliver,12,9.0,41.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\instructions\rerun_failed_requests.ex,12,36.0,39.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\startup_progress.ex,11,20.0,39.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\strategies\erlang-deploy-release,8,0.0,39.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\strategies\erlang-deploy-upgrade,6,0.0,39.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\strategies\erlang-release-store-copy,11,0.0,38.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\instructions\start_section.ex,8,17.0,35.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\strategies\erlang-edit-relup,8,0.0,35.0
+edeliver,Elixir,D:\clones\edeliver\test\common_functions_test.exs,6,0.0,35.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\instructions\resume_ranch_acceptors.ex,10,24.0,33.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\phoenix_modification.ex,16,35.0,31.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\instructions\suspend_ranch_acceptors.ex,15,46.0,30.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\strategies\s3,10,14.0,30.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\instructions\sleep.ex,12,23.0,26.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\instructions.ex,4,6.0,25.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\instructions\check_processes_running_old_code.ex,9,29.0,25.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\modification.ex,23,50.0,25.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\instructions\soft_purge.ex,6,7.0,24.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\strategies\gh-pages,7,11.0,21.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\instruction.ex,17,47.0,20.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\instructions\info.ex,9,24.0,19.0
+edeliver,Markdown,D:\clones\edeliver\ISSUE_TEMPLATE.md,8,0.0,18.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\libexec\deprecations,6,4.0,18.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\libexec\defaults,11,0.0,15.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\strategies\generated,4,8.0,13.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\strategies\erlang,2,0.0,12.0
+edeliver,Erlang,D:\clones\edeliver\src\edeliver.app.src,0,0.0,9.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\default_modification.ex,5,17.0,7.0
+edeliver,Dockerfile,D:\clones\edeliver\docker\release-base.dockerfile,2,0.0,6.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\instructions\code_change_on_app_processes.ex,3,8.0,6.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\instructions\reload_modules.ex,3,8.0,6.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\instructions\resume_app_processes.ex,3,9.0,6.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\instructions\suspend_app_processes.ex,3,12.0,6.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\strategies\erlang-show-releases,2,0.0,5.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\strategies\erlang-show-relup,2,0.0,5.0
+edeliver,Bourne Again Shell,D:\clones\edeliver\.deliver\config,1,0.0,3.0
+edeliver,YAML,D:\clones\edeliver\.travis.yml,0,0.0,3.0
+edeliver,Elixir,D:\clones\edeliver\lib\edeliver\relup\release_config.ex,2,4.0,3.0

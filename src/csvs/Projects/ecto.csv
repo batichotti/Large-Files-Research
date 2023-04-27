@@ -1,0 +1,147 @@
+project,language,filename,blank,comment,code
+ecto,Elixir,D:\clones\ecto\test\ecto\changeset_test.exs,430,49.0,1718.0
+ecto,Elixir,D:\clones\ecto\integration_test\cases\repo.exs,428,49.0,1561.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\query\planner.ex,335,118.0,1420.0
+ecto,Elixir,D:\clones\ecto\test\ecto\repo_test.exs,333,16.0,1364.0
+ecto,Elixir,D:\clones\ecto\test\ecto\query\planner_test.exs,288,17.0,1192.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\changeset.ex,636,1431.0,1134.0
+ecto,Elixir,D:\clones\ecto\test\ecto\changeset\has_assoc_test.exs,252,16.0,960.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\association.ex,262,221.0,956.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\query\builder.ex,213,155.0,849.0
+ecto,Elixir,D:\clones\ecto\test\ecto\changeset\embedded_test.exs,210,11.0,830.0
+ecto,Elixir,D:\clones\ecto\test\ecto\type_test.exs,187,0.0,805.0
+ecto,Elixir,D:\clones\ecto\test\ecto\schema_test.exs,184,10.0,795.0
+ecto,Elixir,D:\clones\ecto\test\ecto\query_test.exs,174,3.0,793.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\repo\schema.ex,187,41.0,784.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\type.ex,270,378.0,730.0
+ecto,Elixir,D:\clones\ecto\integration_test\cases\assoc.exs,144,37.0,684.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\schema.ex,523,1192.0,631.0
+ecto,Markdown,D:\clones\ecto\guides\introduction\Getting Started.md,233,0.0,533.0
+ecto,Elixir,D:\clones\ecto\integration_test\cases\preload.exs,160,34.0,520.0
+ecto,Elixir,D:\clones\ecto\test\ecto\repo\many_to_many_test.exs,96,14.0,516.0
+ecto,Elixir,D:\clones\ecto\test\ecto\multi_test.exs,112,0.0,492.0
+ecto,Elixir,D:\clones\ecto\test\ecto\repo\has_assoc_test.exs,73,12.0,481.0
+ecto,Markdown,D:\clones\ecto\CHANGELOG.md,233,0.0,467.0
+ecto,Elixir,D:\clones\ecto\test\ecto\changeset\embedded_no_pk_test.exs,110,5.0,465.0
+ecto,Elixir,D:\clones\ecto\integration_test\cases\joins.exs,125,14.0,453.0
+ecto,Elixir,D:\clones\ecto\test\ecto\changeset\belongs_to_test.exs,118,11.0,439.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\repo\queryable.ex,117,4.0,437.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\changeset\relation.ex,95,40.0,430.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\repo\preloader.ex,97,31.0,420.0
+ecto,Elixir,D:\clones\ecto\test\ecto\repo\belongs_to_test.exs,61,16.0,400.0
+ecto,Elixir,D:\clones\ecto\test\ecto\query\subquery_test.exs,100,1.0,395.0
+ecto,Elixir,D:\clones\ecto\integration_test\cases\type.exs,95,26.0,391.0
+ecto,Elixir,D:\clones\ecto\integration_test\cases\interval.exs,47,0.0,372.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\query.ex,570,1220.0,360.0
+ecto,Elixir,D:\clones\ecto\test\ecto\enum_test.exs,89,0.0,358.0
+ecto,Elixir,D:\clones\ecto\test\ecto\query\inspect_test.exs,98,1.0,357.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\repo.ex,463,1040.0,347.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\query\inspect.ex,83,10.0,330.0
+ecto,Elixir,D:\clones\ecto\test\ecto\repo\embedded_test.exs,59,7.0,319.0
+ecto,Markdown,D:\clones\ecto\guides\howtos\Polymorphic associations with many to many.md,90,0.0,313.0
+ecto,Elixir,D:\clones\ecto\test\ecto\changeset\many_to_many_test.exs,76,2.0,305.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\query\builder\select.ex,69,42.0,285.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\multi.ex,164,340.0,284.0
+ecto,Elixir,D:\clones\ecto\test\ecto\query\builder_test.exs,81,0.0,251.0
+ecto,Markdown,D:\clones\ecto\guides\howtos\Replicas and dynamic repositories.md,70,0.0,230.0
+ecto,Markdown,D:\clones\ecto\guides\howtos\Composable transactions with Multi.md,66,0.0,225.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\query\builder\join.ex,58,47.0,213.0
+ecto,Elixir,D:\clones\ecto\test\ecto\repo\autogenerate_test.exs,59,5.0,213.0
+ecto,Elixir,D:\clones\ecto\test\ecto\query\builder\select_test.exs,48,2.0,211.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\embedded.ex,57,19.0,210.0
+ecto,Markdown,D:\clones\ecto\guides\howtos\Multi tenancy with query prefixes.md,73,0.0,207.0
+ecto,Elixir,D:\clones\ecto\integration_test\support\schemas.exs,71,76.0,198.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\exceptions.ex,70,40.0,197.0
+ecto,Markdown,D:\clones\ecto\guides\howtos\Constraints and Upserts.md,59,0.0,174.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\uuid.ex,24,28.0,171.0
+ecto,Elixir,D:\clones\ecto\test\ecto\parameterized_type_test.exs,45,0.0,166.0
+ecto,Markdown,D:\clones\ecto\guides\howtos\Multi tenancy with foreign keys.md,72,0.0,164.0
+ecto,Markdown,D:\clones\ecto\guides\howtos\Dynamic queries.md,59,0.0,162.0
+ecto,Markdown,D:\clones\ecto\guides\introduction\Embedded Schemas.md,53,0.0,157.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\repo\supervisor.ex,43,16.0,155.0
+ecto,Markdown,D:\clones\ecto\README.md,53,0.0,152.0
+ecto,Markdown,D:\clones\ecto\LICENSE.md,26,0.0,150.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\query\builder\windows.ex,37,18.0,146.0
+ecto,Elixir,D:\clones\ecto\test\ecto\query\builder\join_test.exs,26,0.0,139.0
+ecto,Elixir,D:\clones\ecto\test\ecto\query\builder\windows_test.exs,45,0.0,138.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\query\builder\filter.ex,34,25.0,137.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\query\builder\update.ex,36,29.0,135.0
+ecto,Elixir,D:\clones\ecto\test\ecto\repo\supervisor_test.exs,28,0.0,134.0
+ecto,Elixir,D:\clones\ecto\lib\ecto.ex,167,407.0,125.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\query\builder\order_by.ex,38,47.0,124.0
+ecto,Elixir,D:\clones\ecto\test\support\test_repo.exs,35,6.0,124.0
+ecto,Elixir,D:\clones\ecto\mix.exs,13,10.0,120.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\query\builder\from.ex,40,32.0,113.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\enum.ex,48,40.0,110.0
+ecto,Markdown,D:\clones\ecto\guides\howtos\Self-referencing many to many.md,31,0.0,105.0
+ecto,Elixir,D:\clones\ecto\test\ecto\query\builder\filter_test.exs,25,0.0,103.0
+ecto,Elixir,D:\clones\ecto\lib\mix\ecto.ex,26,37.0,94.0
+ecto,Elixir,D:\clones\ecto\test\mix\tasks\ecto.create_drop_test.exs,23,4.0,94.0
+ecto,Markdown,D:\clones\ecto\guides\introduction\Testing with Ecto.md,35,0.0,93.0
+ecto,Elixir,D:\clones\ecto\test\ecto\query\builder\dynamic_test.exs,11,1.0,89.0
+ecto,Markdown,D:\clones\ecto\guides\howtos\Aggregates and subqueries.md,34,0.0,88.0
+ecto,Markdown,D:\clones\ecto\guides\howtos\Data mapping and validation.md,36,0.0,88.0
+ecto,Markdown,D:\clones\ecto\guides\howtos\Schemaless queries.md,31,0.0,88.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\query\builder\preload.ex,32,39.0,88.0
+ecto,Elixir,D:\clones\ecto\test\ecto\query\builder\order_by_test.exs,20,0.0,86.0
+ecto,Elixir,D:\clones\ecto\test\ecto\query\builder\update_test.exs,20,0.0,85.0
+ecto,Elixir,D:\clones\ecto\test\ecto_test.exs,25,4.0,83.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\repo\assoc.ex,23,15.0,82.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\query\builder\group_by.ex,20,26.0,71.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\schema\loader.ex,19,16.0,71.0
+ecto,Elixir,D:\clones\ecto\lib\mix\tasks\ecto.gen.repo.ex,27,12.0,71.0
+ecto,Elixir,D:\clones\ecto\test\ecto\embedded_test.exs,22,0.0,67.0
+ecto,Elixir,D:\clones\ecto\test\ecto\query\builder\distinct_test.exs,15,0.0,67.0
+ecto,Elixir,D:\clones\ecto\test\mix\tasks\ecto.gen.repo_test.exs,16,5.0,65.0
+ecto,Markdown,D:\clones\ecto\guides\howtos\Test factories.md,22,0.0,60.0
+ecto,YAML,D:\clones\ecto\.github\workflows\ci.yml,1,0.0,59.0
+ecto,Elixir,D:\clones\ecto\lib\mix\tasks\ecto.drop.ex,16,22.0,58.0
+ecto,Elixir,D:\clones\ecto\test\ecto\query\builder\cte_test.exs,17,0.0,57.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\query\builder\cte.ex,17,14.0,56.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\adapter\queryable.ex,26,46.0,54.0
+ecto,Elixir,D:\clones\ecto\test\ecto\uuid_test.exs,11,0.0,53.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\query\builder\dynamic.ex,14,12.0,50.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\query\api.ex,191,428.0,49.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\query\builder\distinct.ex,13,21.0,47.0
+ecto,Elixir,D:\clones\ecto\test\ecto\query\builder\group_by_test.exs,10,0.0,47.0
+ecto,Elixir,D:\clones\ecto\test\mix\ecto_test.exs,11,2.0,46.0
+ecto,Elixir,D:\clones\ecto\integration_test\support\types.exs,8,0.0,45.0
+ecto,Elixir,D:\clones\ecto\integration_test\cases\windows.exs,10,3.0,40.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\adapter\schema.ex,15,37.0,40.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\repo\registry.ex,10,1.0,40.0
+ecto,Elixir,D:\clones\ecto\lib\mix\tasks\ecto.create.ex,13,17.0,39.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\query\builder\limit_offset.ex,9,9.0,38.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\queryable.ex,7,6.0,38.0
+ecto,Elixir,D:\clones\ecto\test\ecto\query\builder\preload_test.exs,9,0.0,38.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\parameterized_type.ex,50,109.0,36.0
+ecto,Elixir,D:\clones\ecto\examples\friends\mix.exs,4,5.0,32.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\query\builder\lock.ex,13,14.0,32.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\json.ex,9,2.0,31.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\repo\transaction.ex,6,0.0,28.0
+ecto,Elixir,D:\clones\ecto\.formatter.exs,2,2.0,27.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\query\window_api.ex,61,145.0,26.0
+ecto,Elixir,D:\clones\ecto\test\ecto\query\builder\lock_test.exs,7,0.0,25.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\adapter.ex,34,81.0,24.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\schema\metadata.ex,19,23.0,24.0
+ecto,Elixir,D:\clones\ecto\test\ecto\json_test.exs,5,0.0,24.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\query\builder\combination.ex,6,9.0,21.0
+ecto,Elixir,D:\clones\ecto\lib\mix\tasks\ecto.ex,7,4.0,19.0
+ecto,Elixir,D:\clones\ecto\test\mix\tasks\ecto_test.exs,2,0.0,15.0
+ecto,Markdown,D:\clones\ecto\ISSUE_TEMPLATE.md,7,0.0,14.0
+ecto,Elixir,D:\clones\ecto\examples\friends\lib\friends\person.ex,2,0.0,13.0
+ecto,Elixir,D:\clones\ecto\examples\friends\lib\friends\application.ex,3,7.0,11.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\application.ex,2,0.0,11.0
+ecto,Elixir,D:\clones\ecto\examples\friends\priv\repo\migrations\20160626215043_create_people.exs,1,0.0,10.0
+ecto,Elixir,D:\clones\ecto\test\ecto\query\builder\limit_offset_test.exs,3,0.0,10.0
+ecto,Elixir,D:\clones\ecto\test\test_helper.exs,2,1.0,9.0
+ecto,Elixir,D:\clones\ecto\test\support\eval_helpers.exs,0,4.0,8.0
+ecto,Elixir,D:\clones\ecto\examples\friends\test\friends_test.exs,1,0.0,7.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\adapter\transaction.ex,7,17.0,7.0
+ecto,Elixir,D:\clones\ecto\examples\friends\config\config.exs,5,26.0,5.0
+ecto,Elixir,D:\clones\ecto\examples\friends\lib\friends.ex,4,9.0,5.0
+ecto,Elixir,D:\clones\ecto\lib\ecto\adapter\storage.ex,17,31.0,5.0
+ecto,Elixir,D:\clones\ecto\test\ecto\query\builder\from_test.exs,0,0.0,5.0
+ecto,Elixir,D:\clones\ecto\examples\friends\.formatter.exs,0,0.0,4.0
+ecto,Elixir,D:\clones\ecto\examples\friends\lib\friends\repo.ex,0,0.0,3.0
+ecto,Markdown,D:\clones\ecto\examples\friends\README.md,1,0.0,2.0
+ecto,Elixir,D:\clones\ecto\examples\friends\test\test_helper.exs,0,0.0,1.0

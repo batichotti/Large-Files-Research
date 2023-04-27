@@ -1,0 +1,20 @@
+project,language,filename,blank,comment,code
+node,WiX string localization,D:\clones\node\tools\msvs\msi\i18n\it-it.wxl,11,3.0,24.0
+pandoc,WiX string localization,D:\clones\pandoc\windows\Pandoc-en-us.wxl,5,1.0,8.0
+cpython,WiX string localization,D:\clones\cpython\Tools\msi\core\core_en-US.wxl,0,0.0,5.0
+cpython,WiX string localization,D:\clones\cpython\Tools\msi\dev\dev_en-US.wxl,0,0.0,5.0
+node,WiX string localization,D:\clones\node\tools\msvs\msi\i18n\de-de.wxl,11,3.0,24.0
+ILSpy,WiX string localization,D:\clones\ILSpy\ILSpy.Installer\winui.wxl,3,0.0,7.0
+cpython,WiX string localization,D:\clones\cpython\Tools\msi\bundle\bundle.wxl,0,0.0,7.0
+cpython,WiX string localization,D:\clones\cpython\Tools\msi\lib\lib_en-US.wxl,0,0.0,5.0
+cpython,WiX string localization,D:\clones\cpython\Tools\msi\appendpath\appendpath_en-US.wxl,0,0.0,6.0
+cpython,WiX string localization,D:\clones\cpython\Tools\msi\bundle\Default.wxl,20,0.0,110.0
+cpython,WiX string localization,D:\clones\cpython\Tools\msi\launcher\launcher_en-US.wxl,0,0.0,17.0
+cpython,WiX string localization,D:\clones\cpython\Tools\msi\ucrt\ucrt_en-US.wxl,0,0.0,5.0
+cpython,WiX string localization,D:\clones\cpython\Tools\msi\test\test_en-US.wxl,0,0.0,7.0
+node,WiX string localization,D:\clones\node\tools\msvs\msi\i18n\en-us.wxl,12,3.0,31.0
+cpython,WiX string localization,D:\clones\cpython\Tools\msi\pip\pip_en-US.wxl,0,0.0,6.0
+cpython,WiX string localization,D:\clones\cpython\Tools\msi\path\path_en-US.wxl,0,0.0,6.0
+node,WiX string localization,D:\clones\node\tools\msvs\msi\i18n\zh-cn.wxl,11,3.0,24.0
+cpython,WiX string localization,D:\clones\cpython\Tools\msi\tools\tools_en-US.wxl,0,0.0,5.0
+sqlitebrowser,WiX string localization,D:\clones\sqlitebrowser\installer\windows\strings.wxl,1,1.0,12.0

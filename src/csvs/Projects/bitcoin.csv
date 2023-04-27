@@ -1,0 +1,2092 @@
+project,language,filename,blank,comment,code
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\ecmult_static_pre_g.h,0,4.0,16607.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\ecmult_gen_static_prec_table.h,0,2.0,9746.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_en.ts,2,0.0,5881.0
+bitcoin,C,D:\clones\bitcoin\src\secp256k1\src\tests.c,494,596.0,5610.0
+bitcoin,XML,D:\clones\bitcoin\src\qt\locale\bitcoin_en.xlf,2,0.0,4917.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_uk.ts,4,0.0,4616.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_ja.ts,4,0.0,4554.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_hu.ts,2,0.0,4516.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_fr.ts,3,0.0,4485.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_it.ts,4,0.0,4447.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_sl.ts,2,0.0,4414.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_de.ts,4,0.0,4388.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_nl.ts,4,0.0,4376.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_zh_CN.ts,4,0.0,4352.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_sk.ts,4,0.0,4325.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_cs.ts,2,0.0,4307.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_ca.ts,2,0.0,4250.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_ru.ts,4,0.0,4249.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_pt.ts,2,0.0,4218.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_id.ts,6,0.0,4185.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_ko.ts,2,0.0,4149.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_fi.ts,0,0.0,4141.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_ar.ts,2,0.0,4116.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_nb.ts,0,0.0,4111.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_el.ts,2,0.0,4060.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_pt_BR.ts,4,0.0,3925.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_fa.ts,4,0.0,3889.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_sv.ts,0,0.0,3712.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_da.ts,0,0.0,3700.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_pl.ts,0,0.0,3697.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_he.ts,0,0.0,3689.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_tr.ts,0,0.0,3668.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_ga.ts,0,0.0,3607.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_zh_TW.ts,0,0.0,3531.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_sr.ts,0,0.0,3433.0
+bitcoin,C++,D:\clones\bitcoin\src\validation.cpp,598,1170.0,3366.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_hr.ts,0,0.0,3295.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_ro.ts,0,0.0,3279.0
+bitcoin,C++,D:\clones\bitcoin\src\net_processing.cpp,540,1295.0,3273.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_ta.ts,0,0.0,3136.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_fil.ts,0,0.0,3077.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_lt.ts,0,0.0,3028.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_es_CO.ts,0,0.0,2935.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_es_CL.ts,0,0.0,2772.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\wallet.cpp,450,391.0,2661.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_es.ts,4,0.0,2607.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_bg.ts,0,0.0,2528.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_vi.ts,0,0.0,2512.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_es_MX.ts,4,0.0,2474.0
+bitcoin,JSON,D:\clones\bitcoin\src\test\data\script_tests.json,151,0.0,2473.0
+bitcoin,C++,D:\clones\bitcoin\src\net.cpp,397,382.0,2358.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_eo.ts,0,0.0,2182.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_km.ts,0,0.0,2164.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\bench\nanobench.h,495,730.0,2140.0
+bitcoin,C++,D:\clones\bitcoin\src\test\util_tests.cpp,339,212.0,2124.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_ka.ts,0,0.0,2063.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\scriptpubkeyman.cpp,285,174.0,1935.0
+bitcoin,C++,D:\clones\bitcoin\src\rpc\blockchain.cpp,244,294.0,1884.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_et.ts,0,0.0,1868.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\db_test.cc,289,152.0,1861.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_es_DO.ts,0,0.0,1794.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_gl.ts,0,0.0,1738.0
+bitcoin,Qt,D:\clones\bitcoin\src\qt\forms\debugwindow.ui,0,0.0,1714.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_szl.ts,0,0.0,1709.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_bs.ts,0,0.0,1707.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_uz@Cyrl.ts,0,0.0,1706.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\depends\config.sub,47,129.0,1688.0
+bitcoin,m4,D:\clones\bitcoin\configure.ac,234,101.0,1680.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_eu.ts,0,0.0,1589.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\rpc\backup.cpp,233,104.0,1570.0
+bitcoin,C++,D:\clones\bitcoin\src\test\script_tests.cpp,208,77.0,1538.0
+bitcoin,C++,D:\clones\bitcoin\src\script\interpreter.cpp,240,396.0,1502.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_es_VE.ts,0,0.0,1493.0
+bitcoin,C++,D:\clones\bitcoin\src\rpc\rawtransaction.cpp,145,85.0,1477.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_th.ts,0,0.0,1462.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\rpc\spend.cpp,163,75.0,1457.0
+bitcoin,C++,D:\clones\bitcoin\src\init.cpp,222,213.0,1400.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_segwit.py,329,388.0,1364.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\depends\config.guess,62,277.0,1363.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_ml.ts,0,0.0,1360.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_la.ts,0,0.0,1344.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\messages.py,420,80.0,1319.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\bitcoingui.cpp,192,88.0,1293.0
+bitcoin,Qt,D:\clones\bitcoin\src\qt\forms\sendcoinsentry.ui,0,0.0,1286.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\db_impl.cc,160,143.0,1252.0
+bitcoin,Qt,D:\clones\bitcoin\src\qt\forms\sendcoinsdialog.ui,1,0.0,1249.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_lv.ts,0,0.0,1248.0
+bitcoin,C++,D:\clones\bitcoin\src\script\descriptor.cpp,113,241.0,1244.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_taproot.py,179,384.0,1216.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\version_set.cc,162,193.0,1207.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_si.ts,0,0.0,1200.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.21.0.md,139,0.0,1197.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_be.ts,0,0.0,1147.0
+bitcoin,C++,D:\clones\bitcoin\src\util\system.cpp,159,136.0,1112.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_pam.ts,0,0.0,1108.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.18.0.md,126,0.0,1098.0
+bitcoin,C++,D:\clones\bitcoin\src\rpc\mining.cpp,141,58.0,1095.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-22.0.md,73,0.0,1090.0
+bitcoin,Qt,D:\clones\bitcoin\src\qt\forms\optionsdialog.ui,0,0.0,1082.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\rpcconsole.cpp,161,135.0,1074.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\developer-notes.md,357,0.0,1071.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_gl_ES.ts,0,0.0,1043.0
+bitcoin,C++,D:\clones\bitcoin\src\bitcoin-cli.cpp,110,107.0,1040.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_mn.ts,0,0.0,1026.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_cy.ts,0,0.0,1016.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.17.0.md,100,0.0,1005.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.19.0.1.md,101,0.0,988.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\walletdb.cpp,131,80.0,988.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\field_10x26_impl.h,114,188.0,956.0
+bitcoin,C++,D:\clones\bitcoin\src\rpc\util.cpp,91,63.0,950.0
+bitcoin,C++,D:\clones\bitcoin\src\txmempool.cpp,126,145.0,944.0
+bitcoin,C++,D:\clones\bitcoin\src\crypto\sha256_sse4.cpp,65,498.0,943.0
+bitcoin,C++,D:\clones\bitcoin\src\netaddress.cpp,158,157.0,932.0
+bitcoin,C++,D:\clones\bitcoin\src\addrman.cpp,188,142.0,916.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_kk.ts,0,0.0,906.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_block.py,172,367.0,903.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\sendcoinsdialog.cpp,134,90.0,900.0
+bitcoin,C++,D:\clones\bitcoin\src\rpc\net.cpp,78,16.0,895.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.20.0.md,100,0.0,887.0
+bitcoin,make,D:\clones\bitcoin\src\Makefile.am,85,37.0,885.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_sr@latin.ts,0,0.0,868.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_is.ts,0,0.0,847.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_fundrawtransaction.py,215,133.0,843.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_sq.ts,0,0.0,815.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_ku_IQ.ts,5,0.0,813.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\guiutil.cpp,122,55.0,809.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\rpc\transactions.cpp,106,49.0,809.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\benchmarks\db_bench.cc,105,74.0,802.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.15.0.md,83,0.0,795.0
+bitcoin,C++,D:\clones\bitcoin\src\test\crypto_tests.cpp,89,68.0,793.0
+bitcoin,C++,D:\clones\bitcoin\src\rest.cpp,126,44.0,790.0
+bitcoin,C++,D:\clones\bitcoin\src\util\syscall_sandbox.cpp,52,97.0,781.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.14.0.md,99,0.0,774.0
+bitcoin,C++,D:\clones\bitcoin\src\test\transaction_tests.cpp,114,83.0,769.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\modules\schnorrsig\tests_impl.h,58,76.0,768.0
+bitcoin,m4,D:\clones\bitcoin\build-aux\m4\ax_cxx_compile_stdcxx.m4,236,10.0,759.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.12.0.md,144,0.0,750.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.13.0.md,123,0.0,745.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\serialize.h,140,218.0,741.0
+bitcoin,m4,D:\clones\bitcoin\src\univalue\build-aux\m4\ax_cxx_compile_stdcxx.m4,219,7.0,736.0
+bitcoin,C++,D:\clones\bitcoin\src\policy\fees.cpp,127,161.0,729.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_importmulti.py,81,71.0,727.0
+bitcoin,Assembly,D:\clones\bitcoin\src\secp256k1\src\asm\field_10x26_arm.s,84,105.0,724.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\tinyformat.h,108,336.0,722.0
+bitcoin,C++,D:\clones\bitcoin\src\crypto\sha256_arm_shani.cpp,89,94.0,716.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\net.h,183,416.0,716.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\psbt.h,114,167.0,712.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\chainparamsseeds.h,1,6.0,702.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\table\table_test.cc,109,32.0,696.0
+bitcoin,C++,D:\clones\bitcoin\src\netbase.cpp,64,81.0,696.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_am.ts,0,0.0,696.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\spend.cpp,145,213.0,696.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\scalar_4x64_impl.h,58,116.0,694.0
+bitcoin,C++,D:\clones\bitcoin\src\node\blockstorage.cpp,125,83.0,687.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_ur.ts,0,0.0,687.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\bdb.cpp,115,51.0,686.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\script.py,115,98.0,686.0
+bitcoin,C++,D:\clones\bitcoin\src\crypto\sha256.cpp,62,25.0,684.0
+bitcoin,C++,D:\clones\bitcoin\src\node\interfaces.cpp,19,28.0,682.0
+bitcoin,C++,D:\clones\bitcoin\src\test\net_tests.cpp,134,102.0,681.0
+bitcoin,C++,D:\clones\bitcoin\src\bitcoin-tx.cpp,146,65.0,680.0
+bitcoin,C++,D:\clones\bitcoin\src\rpc\misc.cpp,75,79.0,679.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\rpc\addresses.cpp,99,34.0,673.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\bitcoin-util-test.json,0,0.0,668.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_zh_HK.ts,0,0.0,667.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.10.0.md,98,0.0,664.0
+bitcoin,C++,D:\clones\bitcoin\src\test\addrman_tests.cpp,193,137.0,664.0
+bitcoin,C++,D:\clones\bitcoin\src\test\coins_tests.cpp,93,126.0,662.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\env_posix.cc,132,113.0,661.0
+bitcoin,Markdown,D:\clones\bitcoin\src\secp256k1\doc\safegcd_implementation.md,118,0.0,653.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.16.0.md,68,0.0,652.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\transactiontablemodel.cpp,65,47.0,650.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\env_windows.cc,124,76.0,649.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\scalar_8x32_impl.h,57,30.0,648.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\rpc\wallet.cpp,72,22.0,648.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_runner.py,92,93.0,640.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\test_framework.py,129,157.0,634.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\test\wallet_tests.cpp,109,119.0,631.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\ecmult_impl.h,97,145.0,620.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_te.ts,0,0.0,616.0
+bitcoin,C++,D:\clones\bitcoin\src\rpc\mempool.cpp,55,22.0,612.0
+bitcoin,C,D:\clones\bitcoin\src\secp256k1\src\secp256k1.c,109,43.0,611.0
+bitcoin,JSON,D:\clones\bitcoin\src\test\data\key_io_valid.json,0,0.0,610.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\rpc\coins.cpp,97,31.0,607.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_compactblocks.py,147,151.0,606.0
+bitcoin,Markdown,D:\clones\bitcoin\contrib\guix\INSTALL.md,198,0.0,603.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_mk.ts,0,0.0,596.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\interfaces.cpp,18,8.0,593.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\test\coinselector_tests.cpp,115,111.0,593.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\test_node.py,120,130.0,572.0
+bitcoin,C++,D:\clones\bitcoin\src\script\sign.cpp,75,64.0,571.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_ms.ts,0,0.0,563.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\benchmarks\db_bench_sqlite3.cc,85,68.0,561.0
+bitcoin,Scheme,D:\clones\bitcoin\contrib\guix\manifest.scm,25,34.0,553.0
+bitcoin,C++,D:\clones\bitcoin\src\test\mempool_tests.cpp,97,143.0,549.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\util.cpp,33,31.0,543.0
+bitcoin,C++,D:\clones\bitcoin\src\torcontrol.cpp,53,111.0,543.0
+bitcoin,C++,D:\clones\bitcoin\src\httpserver.cpp,62,65.0,533.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\transactionview.cpp,78,40.0,533.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_importdescriptors.py,79,57.0,529.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\minisketch\src\fielddefines.h,15,17.0,528.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\coincontroldialog.cpp,107,78.0,524.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_segwit.py,94,63.0,517.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\streams.h,95,118.0,511.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\p2p.py,137,149.0,509.0
+bitcoin,C++,D:\clones\bitcoin\src\random.cpp,80,135.0,504.0
+bitcoin,JSON,D:\clones\bitcoin\src\test\data\sighash.json,0,0.0,503.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\optionsmodel.cpp,72,49.0,502.0
+bitcoin,C++,D:\clones\bitcoin\src\test\net_peer_eviction_tests.cpp,59,124.0,502.0
+bitcoin,C++,D:\clones\bitcoin\src\test\txrequest_tests.cpp,92,144.0,502.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\group_impl.h,60,119.0,501.0
+bitcoin,Qt,D:\clones\bitcoin\src\qt\forms\overviewpage.ui,0,0.0,500.0
+bitcoin,C++,D:\clones\bitcoin\src\script\standard.cpp,68,81.0,500.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_psbt.py,115,111.0,496.0
+bitcoin,C++,D:\clones\bitcoin\src\util\strencodings.cpp,54,24.0,490.0
+bitcoin,Qt,D:\clones\bitcoin\src\qt\forms\coincontroldialog.ui,0,0.0,489.0
+bitcoin,C++,D:\clones\bitcoin\src\test\netbase_tests.cpp,75,37.0,487.0
+bitcoin,Python,D:\clones\bitcoin\contrib\signet\miner,112,35.0,484.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_bn.ts,0,0.0,483.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\walletmodel.cpp,83,40.0,478.0
+bitcoin,C++,D:\clones\bitcoin\src\test\arith_uint256_tests.cpp,72,13.0,476.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\bitcoin.cpp,89,110.0,474.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\txmempool.h,118,409.0,474.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_basic.py,118,122.0,465.0
+bitcoin,C++,D:\clones\bitcoin\src\chainparams.cpp,71,52.0,464.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\modules\extrakeys\tests_impl.h,67,64.0,464.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\sqlite.cpp,65,39.0,463.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\c.cc,91,10.0,461.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\field_5x52_impl.h,80,42.0,458.0
+bitcoin,C++,D:\clones\bitcoin\src\txrequest.cpp,94,207.0,454.0
+bitcoin,m4,D:\clones\bitcoin\build-aux\m4\ax_pthread.m4,69,0.0,453.0
+bitcoin,C++,D:\clones\bitcoin\src\rpc\server.cpp,60,35.0,453.0
+bitcoin,JSON,D:\clones\bitcoin\src\test\data\bip341_wallet_vectors.json,0,0.0,452.0
+bitcoin,C++,D:\clones\bitcoin\src\minisketch\src\minisketch.cpp,32,5.0,451.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_az.ts,0,0.0,451.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\fault_injection_test.cc,76,27.0,449.0
+bitcoin,C++,D:\clones\bitcoin\src\test\txpackage_tests.cpp,68,57.0,448.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\prevector.h,58,32.0,447.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_bumpfee.py,88,78.0,447.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\wallet.h,172,327.0,446.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_send.py,63,54.0,446.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\log_test.cc,86,31.0,445.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_ne.ts,0,0.0,445.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.11.0.md,73,0.0,432.0
+bitcoin,C,D:\clones\bitcoin\src\crypto\ctaes\ctaes.c,50,78.0,428.0
+bitcoin,C++,D:\clones\bitcoin\src\randomenv.cpp,35,41.0,424.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\benchmarks\db_bench_tree_db.cc,53,46.0,423.0
+bitcoin,C++,D:\clones\bitcoin\src\test\denialofservice_tests.cpp,76,51.0,423.0
+bitcoin,HTML,D:\clones\bitcoin\src\leveldb\doc\benchmark.html,39,0.0,420.0
+bitcoin,JSON,D:\clones\bitcoin\src\test\data\tx_valid.json,100,0.0,420.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_blockchain.py,86,58.0,418.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\key.py,68,80.0,415.0
+bitcoin,Markdown,D:\clones\bitcoin\src\leveldb\doc\index.md,109,0.0,414.0
+bitcoin,Qt,D:\clones\bitcoin\src\qt\forms\signverifymessagedialog.ui,0,0.0,410.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\validation.h,146,459.0,409.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_rbf.py,125,95.0,406.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_taproot.py,29,30.0,406.0
+bitcoin,Python,D:\clones\bitcoin\contrib\macdeploy\macdeployqtplus,134,58.0,403.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\modinv32_impl.h,33,153.0,401.0
+bitcoin,C++,D:\clones\bitcoin\src\test\miner_tests.cpp,60,62.0,399.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\script\script.h,88,94.0,397.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\modinv64_impl.h,32,167.0,394.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\util.py,118,118.0,393.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\addresstablemodel.cpp,44,27.0,385.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_rawtransaction.py,78,77.0,381.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\interface_zmq.py,89,114.0,378.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_ky.ts,0,0.0,377.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\receive.cpp,62,36.0,377.0
+bitcoin,C++,D:\clones\bitcoin\src\index\coinstatsindex.cpp,89,35.0,376.0
+bitcoin,Python,D:\clones\bitcoin\contrib\devtools\copyright_header.py,113,119.0,375.0
+bitcoin,Qt,D:\clones\bitcoin\src\qt\forms\receivecoinsdialog.ui,0,0.0,375.0
+bitcoin,CMake,D:\clones\bitcoin\src\leveldb\CMakeLists.txt,55,37.0,373.0
+bitcoin,C++,D:\clones\bitcoin\src\test\rpc_tests.cpp,78,26.0,372.0
+bitcoin,Qt,D:\clones\bitcoin\src\qt\forms\modaloverlay.ui,1,0.0,366.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\field_5x52_asm_impl.h,7,131.0,364.0
+bitcoin,m4,D:\clones\bitcoin\src\secp256k1\configure.ac,53,0.0,363.0
+bitcoin,C++,D:\clones\bitcoin\src\univalue\lib\univalue_read.cpp,82,15.0,363.0
+bitcoin,C++,D:\clones\bitcoin\src\txdb.cpp,57,42.0,362.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\repair.cc,39,53.0,358.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\mempool_package_limits.py,52,135.0,358.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_sendheaders.py,82,157.0,353.0
+bitcoin,C++,D:\clones\bitcoin\src\index\blockfilterindex.cpp,87,45.0,351.0
+bitcoin,C++,D:\clones\bitcoin\src\test\bloom_tests.cpp,114,56.0,351.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.13.1.md,60,0.0,350.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\test\fuzz\util.h,67,20.0,347.0
+bitcoin,C,D:\clones\bitcoin\src\secp256k1\src\tests_exhaustive.c,57,54.0,346.0
+bitcoin,C++,D:\clones\bitcoin\src\test\checkqueue_tests.cpp,30,57.0,346.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.9.0.md,66,0.0,345.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_zh-Hans.ts,0,0.0,344.0
+bitcoin,Markdown,D:\clones\bitcoin\CONTRIBUTING.md,106,0.0,339.0
+bitcoin,Qt,D:\clones\bitcoin\src\qt\forms\receiverequestdialog.ui,0,0.0,339.0
+bitcoin,Markdown,D:\clones\bitcoin\contrib\guix\README.md,146,0.0,338.0
+bitcoin,C++,D:\clones\bitcoin\src\psbt.cpp,53,31.0,338.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\modules\recovery\tests_impl.h,23,40.0,336.0
+bitcoin,C++,D:\clones\bitcoin\src\test\script_standard_tests.cpp,61,37.0,336.0
+bitcoin,C++,D:\clones\bitcoin\src\key.cpp,35,45.0,335.0
+bitcoin,C++,D:\clones\bitcoin\src\test\getarg_tests.cpp,93,25.0,335.0
+bitcoin,Python,D:\clones\bitcoin\src\minisketch\tests\pyminisketch.py,47,126.0,334.0
+bitcoin,C++,D:\clones\bitcoin\src\pubkey.cpp,39,35.0,334.0
+bitcoin,Qt,D:\clones\bitcoin\src\qt\forms\intro.ui,0,0.0,334.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_gu.ts,0,0.0,330.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_kl.ts,0,0.0,330.0
+bitcoin,C++,D:\clones\bitcoin\src\univalue\test\object.cpp,83,7.0,330.0
+bitcoin,C,D:\clones\bitcoin\src\leveldb\db\c_test.c,44,11.0,329.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\rpc.cpp,14,30.0,327.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\optionsdialog.cpp,69,38.0,326.0
+bitcoin,C++,D:\clones\bitcoin\src\test\streams_tests.cpp,60,61.0,323.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\crc32c.cc,30,28.0,322.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_csv_activation.py,78,90.0,320.0
+bitcoin,C++,D:\clones\bitcoin\src\test\versionbits_tests.cpp,61,77.0,318.0
+bitcoin,m4,D:\clones\bitcoin\build-aux\m4\bitcoin_qt.m4,27,53.0,317.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_sn.ts,0,0.0,315.0
+bitcoin,JSON,D:\clones\bitcoin\src\test\data\tx_invalid.json,84,0.0,313.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\intro.cpp,50,36.0,311.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_ug.ts,0,0.0,311.0
+bitcoin,C++,D:\clones\bitcoin\src\crypto\sha256_x86_shani.cpp,29,17.0,310.0
+bitcoin,C++,D:\clones\bitcoin\src\crc32c\src\crc32c_portable.cc,26,16.0,309.0
+bitcoin,C++,D:\clones\bitcoin\src\node\miner.cpp,68,74.0,309.0
+bitcoin,C++,D:\clones\bitcoin\src\test\util\setup_common.cpp,43,26.0,309.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\scriptpubkeyman.h,128,201.0,309.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\contrib\guix\libexec\build.sh,58,88.0,308.0
+bitcoin,C++,D:\clones\bitcoin\src\support\lockedpool.cpp,42,62.0,307.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\chain.h,83,106.0,305.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\minisketch\src\sketch_impl.h,34,95.0,304.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\helpers\memenv\memenv.cc,77,14.0,303.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\netaddress.h,91,192.0,303.0
+bitcoin,C,D:\clones\bitcoin\src\secp256k1\src\bench_internal.c,63,16.0,303.0
+bitcoin,CMake,D:\clones\bitcoin\src\crc32c\CMakeLists.txt,60,72.0,302.0
+bitcoin,C++,D:\clones\bitcoin\src\i2p.cpp,71,46.0,301.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_multiwallet.py,74,54.0,301.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\tool_wallet.py,53,62.0,300.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\cache.cc,48,53.0,299.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\coinselection.cpp,62,103.0,298.0
+bitcoin,C++,D:\clones\bitcoin\src\crypto\sha256_avx2.cpp,23,8.0,297.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\deserialize.cpp,16,13.0,297.0
+bitcoin,C++,D:\clones\bitcoin\src\util\sock.cpp,59,16.0,297.0
+bitcoin,C++,D:\clones\bitcoin\src\index\base.cpp,45,42.0,296.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\corruption_test.cc,47,19.0,296.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\mempool_accept.py,30,12.0,296.0
+bitcoin,C++,D:\clones\bitcoin\src\test\dbwrapper_tests.cpp,75,45.0,295.0
+bitcoin,C,D:\clones\bitcoin\src\secp256k1\src\bench_ecmult.c,52,27.0,293.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\tx_pool.cpp,40,22.0,292.0
+bitcoin,YAML,D:\clones\bitcoin\src\secp256k1\.cirrus.yml,12,37.0,291.0
+bitcoin,make,D:\clones\bitcoin\Makefile.am,73,4.0,290.0
+bitcoin,C++,D:\clones\bitcoin\src\test\script_p2sh_tests.cpp,52,33.0,290.0
+bitcoin,C++,D:\clones\bitcoin\src\crypto\sha256_sse41.cpp,23,8.0,289.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_my.ts,0,0.0,288.0
+bitcoin,C++,D:\clones\bitcoin\src\bech32.cpp,64,219.0,286.0
+bitcoin,C++,D:\clones\bitcoin\src\test\blockencodings_tests.cpp,66,20.0,286.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\version_set_test.cc,44,3.0,285.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\test\ismine_tests.cpp,84,52.0,285.0
+bitcoin,YAML,D:\clones\bitcoin\.cirrus.yml,23,15.0,284.0
+bitcoin,C++,D:\clones\bitcoin\src\script\script.cpp,30,27.0,284.0
+bitcoin,C++,D:\clones\bitcoin\src\mapport.cpp,43,13.0,283.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\walletcontroller.cpp,57,35.0,282.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\fuzzing.md,69,0.0,280.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_upgradewallet.py,38,43.0,279.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\overviewpage.cpp,53,17.0,277.0
+bitcoin,C++,D:\clones\bitcoin\src\test\merkle_tests.cpp,34,40.0,277.0
+bitcoin,C++,D:\clones\bitcoin\src\crypto\chacha20.cpp,27,7.0,276.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\transactiondesc.cpp,38,48.0,276.0
+bitcoin,m4,D:\clones\bitcoin\build-aux\m4\ax_boost_base.m4,27,1.0,275.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\recovery_test.cc,41,14.0,275.0
+bitcoin,C++,D:\clones\bitcoin\src\test\key_tests.cpp,49,24.0,274.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\txrequest.cpp,41,61.0,272.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\crypto_diff_fuzz_chacha20.cpp,38,20.0,271.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\skiplist_test.cc,51,48.0,270.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\bitcoinamountfield.cpp,54,19.0,269.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_mr_IN.ts,0,0.0,269.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\clientmodel.cpp,51,21.0,266.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_address_types.py,52,82.0,266.0
+bitcoin,C++,D:\clones\bitcoin\src\sync.cpp,40,23.0,263.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\coins_view.cpp,11,14.0,261.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\univalue\lib\univalue_escapes.h,0,1.0,261.0
+bitcoin,C++,D:\clones\bitcoin\src\httprpc.cpp,40,26.0,260.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_proxy.py,44,50.0,260.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\bitcoinstrings.cpp,3,1.0,259.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\addrman.cpp,38,29.0,259.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\string.cpp,17,14.0,259.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_bip68_sequence.py,75,88.0,259.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_pruning.py,81,149.0,259.0
+bitcoin,C++,D:\clones\bitcoin\src\crypto\ripemd160.cpp,23,11.0,258.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\util.h,37,46.0,258.0
+bitcoin,C++,D:\clones\bitcoin\src\test\prevector_tests.cpp,33,4.0,258.0
+bitcoin,Python,D:\clones\bitcoin\test\fuzz\test_runner.py,39,12.0,257.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\addressbookpage.cpp,51,18.0,256.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\test\wallettests.cpp,32,42.0,255.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\key.cpp,49,4.0,255.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\versionbits.cpp,59,50.0,255.0
+bitcoin,C++,D:\clones\bitcoin\src\test\validation_chainstatemanager_tests.cpp,78,60.0,255.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\wallet.py,43,84.0,255.0
+bitcoin,C++,D:\clones\bitcoin\src\crypto\muhash.cpp,57,35.0,254.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\db_iter.cc,35,29.0,254.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\rpc\util.h,48,81.0,254.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\tracing.md,66,0.0,253.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\primitives\transaction.h,68,104.0,253.0
+bitcoin,C++,D:\clones\bitcoin\src\rpc\client.cpp,19,20.0,253.0
+bitcoin,C++,D:\clones\bitcoin\src\test\uint256_tests.cpp,29,6.0,253.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\interface_bitcoin_cli.py,51,22.0,253.0
+bitcoin,C++,D:\clones\bitcoin\src\logging.cpp,46,39.0,252.0
+bitcoin,C++,D:\clones\bitcoin\src\key_io.cpp,35,15.0,251.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\histogram.cc,15,6.0,251.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\receivecoinsdialog.cpp,43,22.0,251.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\signverifymessagedialog.cpp,42,8.0,251.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\hash_impl.h,33,13.0,251.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\prevector.cpp,31,4.0,250.0
+bitcoin,C++,D:\clones\bitcoin\src\test\txvalidationcache_tests.cpp,59,78.0,249.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\include\secp256k1.h,53,524.0,247.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\psbtoperationsdialog.cpp,37,8.0,246.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_fee_estimation.py,48,66.0,245.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\qt.mk,18,19.0,244.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_addr_relay.py,76,47.0,244.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_signrawtransaction.py,55,52.0,242.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\interfaces\wallet.h,96,96.0,241.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\sync.h,53,75.0,240.0
+bitcoin,C++,D:\clones\bitcoin\src\test\validation_block_tests.cpp,59,60.0,240.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\minisketch\src\int_utils.h,34,17.0,239.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_packages.py,38,33.0,239.0
+bitcoin,C++,D:\clones\bitcoin\src\minisketch\src\test.cpp,27,51.0,238.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\askpassphrasedialog.cpp,22,16.0,237.0
+bitcoin,C++,D:\clones\bitcoin\src\rpc\rawtransaction_util.cpp,40,35.0,236.0
+bitcoin,C++,D:\clones\bitcoin\src\zmq\zmqpublishnotifier.cpp,50,13.0,236.0
+bitcoin,Markdown,D:\clones\bitcoin\contrib\tracing\README.md,53,0.0,235.0
+bitcoin,C++,D:\clones\bitcoin\src\coins.cpp,29,45.0,235.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\db\skiplist.h,58,89.0,235.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\interface_rest.py,78,43.0,235.0
+bitcoin,C++,D:\clones\bitcoin\src\test\blockfilter_index_tests.cpp,57,19.0,234.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\dump.cpp,40,23.0,234.0
+bitcoin,Bourne Again Shell,D:\clones\bitcoin\contrib\guix\guix-build,67,163.0,233.0
+bitcoin,Markdown,D:\clones\bitcoin\test\README.md,103,0.0,233.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\env_posix_test.cc,60,58.0,232.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_backwards_compatibility.py,39,56.0,232.0
+bitcoin,Python,D:\clones\bitcoin\contrib\devtools\symbol-check.py,28,36.0,227.0
+bitcoin,C++,D:\clones\bitcoin\src\arith_uint256.cpp,22,10.0,227.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\walletframe.cpp,48,8.0,227.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\integer.cpp,32,5.0,227.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_sendall.py,60,29.0,227.0
+bitcoin,C++,D:\clones\bitcoin\src\test\cuckoocache_tests.cpp,30,115.0,226.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\walletdb.h,45,36.0,226.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_gd.ts,0,0.0,225.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_listtransactions.py,39,25.0,225.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\tt-locktime317000-out.json,0,0.0,225.0
+bitcoin,Python,D:\clones\bitcoin\contrib\linearize\linearize-data.py,44,41.0,224.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\version_edit.cc,26,7.0,224.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\test\fuzz\FuzzedDataProvider.h,62,111.0,224.0
+bitcoin,make,D:\clones\bitcoin\depends\funcs.mk,36,24.0,223.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_tx_download.py,37,25.0,223.0
+bitcoin,C++,D:\clones\bitcoin\src\blockfilter.cpp,47,8.0,222.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\dbwrapper.h,60,57.0,222.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\table\table.cc,29,22.0,222.0
+bitcoin,JSON,D:\clones\bitcoin\test\functional\data\rpc_getblockstats.json,0,0.0,222.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\descriptors.md,44,0.0,221.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\guiutil.h,78,143.0,221.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\mempool_packages.py,50,68.0,221.0
+bitcoin,C++,D:\clones\bitcoin\src\core_write.cpp,28,19.0,220.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\ecdsa_impl.h,22,74.0,219.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\system.h,80,266.0,219.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\mining_basic.py,45,19.0,219.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\tt-delin1-out.json,0,0.0,216.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.15.1.md,62,0.0,215.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\bitcoingui.h,58,76.0,215.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\tt-delout1-out.json,0,0.0,214.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-process.md,101,0.0,213.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_no.ts,0,0.0,213.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_invalid_messages.py,40,25.0,213.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\walletview.cpp,51,21.0,212.0
+bitcoin,JSON,D:\clones\bitcoin\src\test\data\key_io_invalid.json,0,0.0,212.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_listsinceblock.py,66,109.0,212.0
+bitcoin,XML,D:\clones\bitcoin\build_msvc\libbitcoin_qt\libbitcoin_qt.vcxproj,12,0.0,211.0
+bitcoin,C++,D:\clones\bitcoin\src\crc32c\src\crc32c_sse42.cc,29,18.0,211.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\arith_uint256.h,43,34.0,210.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_blockfilters.py,34,19.0,210.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\modules\extrakeys\main_impl.h,49,26.0,209.0
+bitcoin,Python,D:\clones\bitcoin\contrib\testgen\gen_key_io_test_vectors.py,25,35.0,208.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\pubkey.h,53,86.0,208.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_zh.ts,0,0.0,208.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\sendcoinsentry.cpp,44,17.0,207.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_config_args.py,44,24.0,207.0
+bitcoin,Python,D:\clones\bitcoin\test\get_previous_releases.py,26,17.0,207.0
+bitcoin,C++,D:\clones\bitcoin\src\bitcoin-chainstate.cpp,31,25.0,206.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\bitcoinunits.cpp,31,15.0,206.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\table\block.cc,31,31.0,205.0
+bitcoin,C++,D:\clones\bitcoin\src\bitcoind.cpp,31,40.0,204.0
+bitcoin,C++,D:\clones\bitcoin\src\core_read.cpp,37,40.0,204.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_coinstatsindex.py,46,34.0,204.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\build-unix.md,115,0.0,203.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\univalue\include\univalue.h,30,8.0,202.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\table\table_builder.cc,34,30.0,201.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_avoidreuse.py,76,92.0,201.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\log_reader.cc,35,39.0,200.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_hd.py,36,42.0,200.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\recentrequeststablemodel.cpp,37,11.0,199.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\compat\endian.h,37,6.0,198.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\dumpfile.cc,21,14.0,197.0
+bitcoin,C++,D:\clones\bitcoin\src\util\asmap.cpp,18,5.0,197.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\wallettool.cpp,20,9.0,197.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\contrib\install_db4.sh,29,35.0,196.0
+bitcoin,Qt,D:\clones\bitcoin\src\qt\forms\createwalletdialog.ui,0,0.0,196.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_zu.ts,0,0.0,195.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\lint-locale-dependence.sh,9,37.0,195.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\notificator.cpp,35,23.0,194.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\paymentserver.cpp,40,39.0,194.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\modules\schnorrsig\main_impl.h,40,29.0,194.0
+bitcoin,C++,D:\clones\bitcoin\src\test\allocator_tests.cpp,22,22.0,194.0
+bitcoin,C++,D:\clones\bitcoin\src\dbwrapper.cpp,31,40.0,192.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_yo.ts,0,0.0,192.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\helpers\memenv\memenv_test.cc,49,19.0,191.0
+bitcoin,C++,D:\clones\bitcoin\src\test\serialize_tests.cpp,34,20.0,191.0
+bitcoin,C++,D:\clones\bitcoin\src\test\settings_tests.cpp,37,36.0,191.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\rpc\encrypt.cpp,37,22.0,191.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\data\invalid_txs.py,59,34.0,191.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_listreceivedby.py,59,37.0,191.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\feebumper.cpp,44,46.0,190.0
+bitcoin,Qt,D:\clones\bitcoin\src\qt\forms\helpmessagedialog.ui,0,0.0,189.0
+bitcoin,C++,D:\clones\bitcoin\src\univalue\lib\univalue.cpp,50,5.0,189.0
+bitcoin,C++,D:\clones\bitcoin\src\addrdb.cpp,30,17.0,188.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\env_test.cc,42,7.0,188.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\field_5x52_int128_impl.h,22,68.0,188.0
+bitcoin,C++,D:\clones\bitcoin\src\validationinterface.cpp,34,34.0,188.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\transaction.h,43,79.0,188.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\build-osx.md,97,0.0,187.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_filter.py,42,17.0,187.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\protocol.h,38,291.0,185.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\script\interpreter.h,68,98.0,185.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_createmultisig.py,42,20.0,185.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\db\version_set.h,85,124.0,184.0
+bitcoin,C++,D:\clones\bitcoin\src\protocol.cpp,26,17.0,184.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\splashscreen.cpp,41,19.0,184.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\transactionrecord.cpp,25,31.0,184.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\fuzz.cpp,20,20.0,183.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_net.py,43,55.0,183.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\include\leveldb\env.h,63,151.0,182.0
+bitcoin,C,D:\clones\bitcoin\src\secp256k1\src\bench.c,40,12.0,182.0
+bitcoin,Bourne Again Shell,D:\clones\bitcoin\contrib\guix\guix-codesign,58,139.0,181.0
+bitcoin,C++,D:\clones\bitcoin\src\script\signingprovider.cpp,23,18.0,181.0
+bitcoin,make,D:\clones\bitcoin\depends\Makefile,42,71.0,180.0
+bitcoin,C++,D:\clones\bitcoin\src\policy\policy.cpp,34,81.0,180.0
+bitcoin,diff,D:\clones\bitcoin\contrib\guix\patches\glibc-versioned-locpath.patch,13,48.0,179.0
+bitcoin,C++,D:\clones\bitcoin\src\common\bloom.cpp,23,44.0,179.0
+bitcoin,C++,D:\clones\bitcoin\src\versionbits.cpp,39,28.0,179.0
+bitcoin,C++,D:\clones\bitcoin\src\util\settings.cpp,29,46.0,177.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\blocktools.py,34,47.0,175.0
+bitcoin,C++,D:\clones\bitcoin\src\crypto\sha512.cpp,21,12.0,174.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\cache_test.cc,41,11.0,174.0
+bitcoin,C++,D:\clones\bitcoin\src\test\multisig_tests.cpp,37,6.0,174.0
+bitcoin,C++,D:\clones\bitcoin\src\banman.cpp,29,7.0,173.0
+bitcoin,Python,D:\clones\bitcoin\contrib\seeds\makeseeds.py,20,38.0,172.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\db.h,43,30.0,172.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\checkqueue.h,32,54.0,171.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_uz@Latn.ts,0,0.0,171.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\modules\schnorrsig\tests_exhaustive_impl.h,13,31.0,170.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.9.2.1.md,38,0.0,169.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.9.2.md,38,0.0,169.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.11.2.md,49,0.0,168.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_backup.py,51,39.0,168.0
+bitcoin,Qt,D:\clones\bitcoin\src\qt\forms\askpassphrasedialog.ui,0,0.0,167.0
+bitcoin,Python,D:\clones\bitcoin\contrib\devtools\security-check.py,31,66.0,166.0
+bitcoin,Qt,D:\clones\bitcoin\src\qt\forms\addressbookpage.ui,0,0.0,166.0
+bitcoin,C++,D:\clones\bitcoin\src\test\sighash_tests.cpp,27,16.0,166.0
+bitcoin,C++,D:\clones\bitcoin\src\crypto\sha1.cpp,22,12.0,165.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\coding_test.cc,25,7.0,164.0
+bitcoin,C++,D:\clones\bitcoin\src\test\scriptnum_tests.cpp,28,8.0,164.0
+bitcoin,Markdown,D:\clones\bitcoin\src\leveldb\README.md,62,0.0,163.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_balance.py,39,76.0,163.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_descriptor.py,32,18.0,163.0
+bitcoin,Bourne Again Shell,D:\clones\bitcoin\contrib\guix\guix-attest,46,47.0,162.0
+bitcoin,Python,D:\clones\bitcoin\contrib\message-capture\message-capture-parser.py,31,21.0,162.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\cuckoocache.h,31,287.0,162.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_decodescript.py,39,76.0,162.0
+bitcoin,Visual Studio Solution,D:\clones\bitcoin\build_msvc\bitcoin.sln,0,1.0,161.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\tor.md,64,0.0,161.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_sw.ts,0,0.0,161.0
+bitcoin,C++,D:\clones\bitcoin\src\test\sigopcount_tests.cpp,33,36.0,161.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.21.1.md,43,0.0,160.0
+bitcoin,Python,D:\clones\bitcoin\test\lint\lint-format-strings.py,30,101.0,160.0
+bitcoin,Markdown,D:\clones\bitcoin\src\minisketch\README.md,51,0.0,159.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\minisketch\include\minisketch.h,52,156.0,159.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\ecmult_const_impl.h,28,68.0,159.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\include\leveldb\c.h,57,55.0,158.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_dump.py,30,35.0,158.0
+bitcoin,C++,D:\clones\bitcoin\src\compressor.cpp,12,23.0,157.0
+bitcoin,C++,D:\clones\bitcoin\src\test\torcontrol_tests.cpp,19,26.0,157.0
+bitcoin,C++,D:\clones\bitcoin\src\txorphanage.cpp,26,20.0,156.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\mining_prioritisetransaction.py,43,41.0,156.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_unrequested_blocks.py,56,78.0,156.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\script\standard.h,41,133.0,155.0
+bitcoin,C++,D:\clones\bitcoin\src\bitcoin-util.cpp,30,12.0,154.0
+bitcoin,C++,D:\clones\bitcoin\src\rpc\txoutproof.cpp,20,9.0,154.0
+bitcoin,C++,D:\clones\bitcoin\src\test\bip32_tests.cpp,25,7.0,154.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\walletmodel.h,56,34.0,153.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_dbcrash.py,46,90.0,153.0
+bitcoin,C,D:\clones\bitcoin\src\crypto\ctaes\bench.c,18,0.0,152.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\policy\fees.h,43,115.0,152.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\span.h,28,107.0,152.0
+bitcoin,C++,D:\clones\bitcoin\src\blockencodings.cpp,24,43.0,151.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\coins.h,60,149.0,151.0
+bitcoin,Qt Linguist,D:\clones\bitcoin\src\qt\locale\bitcoin_sc.ts,0,0.0,151.0
+bitcoin,C++,D:\clones\bitcoin\src\scheduler.cpp,34,21.0,151.0
+bitcoin,make,D:\clones\bitcoin\src\secp256k1\Makefile.am,24,11.0,151.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\productivity.md,68,0.0,150.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\peertablemodel.cpp,26,15.0,150.0
+bitcoin,C++,D:\clones\bitcoin\src\zmq\zmqnotificationinterface.cpp,33,8.0,150.0
+bitcoin,Markdown,D:\clones\bitcoin\test\functional\README.md,42,0.0,150.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\script_assets_test_minimizer.cpp,28,26.0,149.0
+bitcoin,C++,D:\clones\bitcoin\src\test\pow_tests.cpp,25,11.0,149.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_abandonconflict.py,42,48.0,149.0
+bitcoin,Markdown,D:\clones\bitcoin\depends\packages.md,50,0.0,148.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.12.1.md,50,0.0,148.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\hash.h,35,32.0,148.0
+bitcoin,Qt,D:\clones\bitcoin\src\qt\forms\psbtoperationsdialog.ui,0,0.0,148.0
+bitcoin,JSON,D:\clones\bitcoin\test\functional\data\rpc_psbt.json,0,0.0,148.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_import_rescan.py,38,42.0,148.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\table\merger.cc,25,19.0,147.0
+bitcoin,C++,D:\clones\bitcoin\src\test\skiplist_tests.cpp,28,15.0,147.0
+bitcoin,Markdown,D:\clones\bitcoin\test\functional\test-shell.md,39,0.0,147.0
+bitcoin,C++,D:\clones\bitcoin\src\crypto\siphash.cpp,22,5.0,146.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\script.cpp,19,5.0,146.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\load.cpp,21,15.0,146.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.13.2.md,33,0.0,145.0
+bitcoin,C++,D:\clones\bitcoin\src\minisketch\src\fields\clmul_8bytes.cpp,16,14.0,145.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_keypool.py,26,35.0,145.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\multisig-tutorial.md,97,0.0,144.0
+bitcoin,C++,D:\clones\bitcoin\src\minisketch\src\fields\clmul_5bytes.cpp,16,14.0,144.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\modaloverlay.cpp,29,16.0,144.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\trafficgraphwidget.cpp,25,7.0,144.0
+bitcoin,C++,D:\clones\bitcoin\src\test\bech32_tests.cpp,11,4.0,144.0
+bitcoin,Python,D:\clones\bitcoin\contrib\tracing\p2p_monitor.py,44,66.0,143.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\coding.cc,17,6.0,143.0
+bitcoin,C++,D:\clones\bitcoin\src\node\coinstats.cpp,21,21.0,143.0
+bitcoin,C++,D:\clones\bitcoin\src\test\blockfilter_tests.cpp,40,11.0,143.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\strencodings.h,31,179.0,143.0
+bitcoin,YAML,D:\clones\bitcoin\src\minisketch\.cirrus.yml,10,2.0,142.0
+bitcoin,C++,D:\clones\bitcoin\src\rpc\request.cpp,23,24.0,142.0
+bitcoin,C++,D:\clones\bitcoin\src\util\time.cpp,28,13.0,142.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\crypto_hash.cpp,23,4.0,141.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\bantablemodel.cpp,31,11.0,141.0
+bitcoin,C++,D:\clones\bitcoin\src\test\scheduler_tests.cpp,37,35.0,141.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\bdb.h,47,47.0,141.0
+bitcoin,m4,D:\clones\bitcoin\src\minisketch\configure.ac,22,0.0,140.0
+bitcoin,C++,D:\clones\bitcoin\src\minisketch\src\fields\clmul_6bytes.cpp,16,14.0,140.0
+bitcoin,C++,D:\clones\bitcoin\src\minisketch\src\fields\clmul_7bytes.cpp,16,14.0,140.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\bench.h,16,16.0,140.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fs_tests.cpp,21,18.0,140.0
+bitcoin,C++,D:\clones\bitcoin\src\univalue\test\unitester.cpp,23,9.0,139.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\authproxy.py,21,44.0,139.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\editaddressdialog.cpp,23,5.0,138.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\script_sign.cpp,10,3.0,138.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\test\fuzz\notifications.cpp,9,25.0,138.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_createwallet.py,17,18.0,138.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_labels.py,30,38.0,138.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\logging.h,35,27.0,137.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.7.0.md,33,0.0,136.0
+bitcoin,C++,D:\clones\bitcoin\src\consensus\tx_verify.cpp,31,41.0,136.0
+bitcoin,C++,D:\clones\bitcoin\src\crypto\sha3.cpp,13,12.0,136.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\interfaces\node.h,66,63.0,136.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\table\two_level_iterator.cc,25,10.0,136.0
+bitcoin,C++,D:\clones\bitcoin\src\minisketch\src\fields\clmul_3bytes.cpp,16,14.0,136.0
+bitcoin,C++,D:\clones\bitcoin\src\test\sock_tests.cpp,36,8.0,136.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\test\util\setup_common.h,39,63.0,136.0
+bitcoin,C++,D:\clones\bitcoin\src\base58.cpp,12,20.0,135.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\interfaces\chain.h,66,121.0,135.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\coinselection.h,42,118.0,135.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_cltv.py,35,26.0,135.0
+bitcoin,C++,D:\clones\bitcoin\src\test\interfaces_tests.cpp,22,5.0,134.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\test\util\net.h,26,10.0,134.0
+bitcoin,C++,D:\clones\bitcoin\src\chain.cpp,20,21.0,133.0
+bitcoin,C++,D:\clones\bitcoin\src\init\common.cpp,23,11.0,133.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\db\db_impl.h,48,36.0,133.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\node\miner.h,34,44.0,133.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.10.4.md,40,0.0,132.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\rpcconsole.h,29,26.0,132.0
+bitcoin,Bourne Again Shell,D:\clones\bitcoin\ci\retry\retry,19,13.0,131.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.11.1.md,41,0.0,131.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.17.1.md,37,0.0,131.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\minisketch\src\fields\clmul_common_impl.h,27,12.0,131.0
+bitcoin,C,D:\clones\bitcoin\src\secp256k1\src\valgrind_ctime_test.c,26,16.0,131.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\combine_logs.py,40,30.0,131.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\addrman_impl.h,76,76.0,130.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\modules\recovery\main_impl.h,21,8.0,130.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\zmq.md,49,0.0,129.0
+bitcoin,C++,D:\clones\bitcoin\src\merkleblock.cpp,18,33.0,129.0
+bitcoin,C++,D:\clones\bitcoin\src\test\script_segwit_tests.cpp,28,7.0,129.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\contrib\devtools\test_deterministic_coverage.sh,14,9.0,128.0
+bitcoin,Python,D:\clones\bitcoin\contrib\seeds\generate-seeds.py,20,30.0,128.0
+bitcoin,C++,D:\clones\bitcoin\src\fs.cpp,21,7.0,128.0
+bitcoin,Markdown,D:\clones\bitcoin\src\leveldb\doc\impl.md,44,0.0,128.0
+bitcoin,C++,D:\clones\bitcoin\src\minisketch\src\fields\clmul_4bytes.cpp,16,14.0,128.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_addrman.py,21,4.0,128.0
+bitcoin,Python,D:\clones\bitcoin\contrib\verifybinaries\verify.py,30,26.0,127.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\utilitydialog.cpp,29,14.0,127.0
+bitcoin,C++,D:\clones\bitcoin\src\test\policyestimator_tests.cpp,20,36.0,127.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\psbt.md,20,0.0,126.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\testrand_impl.h,16,16.0,126.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_signer.py,37,53.0,126.0
+bitcoin,Python,D:\clones\bitcoin\test\lint\lint-files.py,31,46.0,126.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.10.3.md,40,0.0,125.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\db\dbformat.h,47,52.0,125.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\address.py,33,17.0,125.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\peer_eviction.cpp,18,13.0,124.0
+bitcoin,C++,D:\clones\bitcoin\src\minisketch\src\fields\clmul_2bytes.cpp,16,14.0,124.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\memusage.h,29,20.0,123.0
+bitcoin,Qt,D:\clones\bitcoin\src\qt\forms\openuridialog.ui,0,0.0,123.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\connman.cpp,5,3.0,123.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\test\scriptnum10.h,32,27.0,123.0
+bitcoin,C++,D:\clones\bitcoin\src\univalue\lib\univalue_get.cpp,16,9.0,123.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\salvage.cpp,19,28.0,123.0
+bitcoin,Python,D:\clones\bitcoin\contrib\verify-commits\verify-commits.py,20,23.0,122.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\bloom_test.cc,27,7.0,122.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\socks5.py,18,20.0,122.0
+bitcoin,Python,D:\clones\bitcoin\test\util\test_runner.py,23,29.0,122.0
+bitcoin,C++,D:\clones\bitcoin\src\policy\rbf.cpp,16,39.0,121.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\process_message.cpp,13,4.0,121.0
+bitcoin,XML,D:\clones\bitcoin\build_msvc\test_bitcoin-qt\test_bitcoin-qt.vcxproj,3,0.0,120.0
+bitcoin,Bourne Again Shell,D:\clones\bitcoin\contrib\guix\guix-verify,31,23.0,120.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_notifications.py,27,41.0,120.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\mempool_persist.py,32,44.0,120.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\write_batch_test.cc,15,3.0,119.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\createwalletdialog.cpp,27,19.0,119.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\rpc\util.cpp,20,13.0,119.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_leak.py,34,25.0,119.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_multisig_descriptor_psbt.py,24,17.0,119.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\JSON-RPC-interface.md,23,0.0,118.0
+bitcoin,C,D:\clones\bitcoin\src\secp256k1\contrib\lax_der_parsing.c,14,16.0,118.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_getblockstats.py,32,16.0,118.0
+bitcoin,C++,D:\clones\bitcoin\src\signet.cpp,24,10.0,117.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\crypto.cpp,7,3.0,117.0
+bitcoin,C++,D:\clones\bitcoin\src\test\key_io_tests.cpp,20,12.0,117.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.20.1.md,42,0.0,116.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\consensus\validation.h,16,50.0,116.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\test\addressbooktests.cpp,30,30.0,116.0
+bitcoin,C++,D:\clones\bitcoin\src\script\script_error.cpp,3,4.0,116.0
+bitcoin,Python,D:\clones\bitcoin\contrib\devtools\test-security-check.py,17,19.0,115.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\fs.h,30,81.0,115.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\logging_test.cc,25,3.0,115.0
+bitcoin,C++,D:\clones\bitcoin\src\minisketch\src\bench.cpp,2,5.0,115.0
+bitcoin,C++,D:\clones\bitcoin\src\test\random_tests.cpp,14,7.0,115.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\init.cpp,20,8.0,115.0
+bitcoin,Python,D:\clones\bitcoin\contrib\signet\getcoins.py,25,19.0,114.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\external-signer.md,57,0.0,114.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\mempool_eviction.cpp,14,7.0,114.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\table\format.cc,15,12.0,114.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_groups.py,21,41.0,114.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\minisketch\src\lintrans.h,25,12.0,113.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\qrimagewidget.cpp,23,6.0,113.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\test\rpcnestedtests.cpp,21,5.0,113.0
+bitcoin,Python,D:\clones\bitcoin\contrib\linearize\linearize-hashes.py,23,12.0,112.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.10.1.md,31,0.0,112.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.16.1.md,33,0.0,112.0
+bitcoin,C++,D:\clones\bitcoin\src\bitcoin-wallet.cpp,17,5.0,112.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\port\port_stdcxx.h,28,13.0,112.0
+bitcoin,C++,D:\clones\bitcoin\src\node\psbt.cpp,24,15.0,112.0
+bitcoin,Qt,D:\clones\bitcoin\src\qt\forms\editaddressdialog.ui,0,0.0,112.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_permissions.py,26,26.0,112.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\write_batch.cc,24,15.0,111.0
+bitcoin,C++,D:\clones\bitcoin\src\node\chainstate.cpp,26,23.0,111.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\walletcontroller.h,39,8.0,111.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\random.h,34,135.0,111.0
+bitcoin,C++,D:\clones\bitcoin\src\test\validation_tests.cpp,23,13.0,111.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_invalid_tx.py,30,28.0,111.0
+bitcoin,C++,D:\clones\bitcoin\src\crypto\aes.cpp,30,12.0,110.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\platformstyle.cpp,19,8.0,110.0
+bitcoin,C++,D:\clones\bitcoin\src\test\sync_tests.cpp,22,12.0,109.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\filename.cc,18,15.0,108.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\filename_test.cc,18,5.0,108.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\uint256.h,24,24.0,108.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.8.0.md,32,0.0,107.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_dersig.py,28,15.0,107.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.14.1.md,37,0.0,106.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.18.1.md,30,0.0,106.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.8.2.md,31,0.0,106.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\scalar_impl.h,19,172.0,106.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\scalar_low_impl.h,25,8.0,106.0
+bitcoin,C++,D:\clones\bitcoin\src\test\validation_flush_tests.cpp,31,31.0,106.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_assumevalid.py,30,42.0,106.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\git-subtree-check.sh,12,15.0,106.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\init.md,41,0.0,105.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\mempool_stress.cpp,9,5.0,105.0
+bitcoin,C++,D:\clones\bitcoin\src\crypto\poly1305.cpp,26,10.0,105.0
+bitcoin,C++,D:\clones\bitcoin\src\outputtype.cpp,10,8.0,105.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\support\lockedpool.h,32,103.0,105.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\system.cpp,10,7.0,105.0
+bitcoin,C++,D:\clones\bitcoin\src\test\hash_tests.cpp,18,27.0,105.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\p2p-bad-ports.md,10,0.0,104.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\dbformat.cc,18,15.0,104.0
+bitcoin,C++,D:\clones\bitcoin\src\node\transaction.cpp,15,38.0,104.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\REST-interface.md,32,0.0,103.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\assumeutxo.md,35,0.0,103.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\sendcoinsdialog.h,24,22.0,103.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\modules\recovery\tests_exhaustive_impl.h,16,30.0,103.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_nulldummy.py,19,17.0,103.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\segwit_addr.py,21,17.0,103.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\bench_bitcoin.cpp,13,4.0,102.0
+bitcoin,C++,D:\clones\bitcoin\src\net_permissions.cpp,15,8.0,102.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\scriptnum_ops.cpp,5,21.0,102.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_listdescriptors.py,17,8.0,102.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_transactiontime_rescan.py,33,27.0,102.0
+bitcoin,Python,D:\clones\bitcoin\build_msvc\msvc-autogen.py,18,3.0,101.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\qvalidatedlineedit.cpp,20,9.0,101.0
+bitcoin,C,D:\clones\bitcoin\src\secp256k1\src\gen_ecmult_static_pre_g.c,21,9.0,101.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\crypter.cpp,29,10.0,101.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.6.0.md,38,0.0,100.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\issues\issue320_test.cc,24,4.0,100.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\coincontrol.h,21,22.0,100.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\test\psbt_wallet_tests.cpp,38,10.0,100.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\test\wallet_crypto_tests.cpp,23,5.0,100.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\netutil.py,13,42.0,100.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_importprunedfunds.py,29,17.0,100.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_txn_clone.py,30,22.0,100.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\blockfilter.h,39,33.0,99.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\table_cache.cc,16,5.0,99.0
+bitcoin,C++,D:\clones\bitcoin\src\script\bitcoinconsensus.cpp,22,8.0,99.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\banman.cpp,8,8.0,99.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_preciousblock.py,8,5.0,99.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\04_install.sh,18,13.0,98.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\blockencodings.h,29,13.0,98.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\chainparams.h,22,48.0,98.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\dbformat_test.cc,25,8.0,98.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\primitives\block.h,25,18.0,98.0
+bitcoin,C,D:\clones\bitcoin\src\secp256k1\contrib\lax_der_privatekey_parsing.c,4,10.0,98.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\db.cpp,24,28.0,98.0
+bitcoin,Markdown,D:\clones\bitcoin\contrib\devtools\README.md,34,0.0,97.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\memtable.cc,18,22.0,97.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\node\blockstorage.h,42,66.0,97.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\test\apptests.cpp,13,14.0,97.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\parse_univalue.cpp,4,3.0,97.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\wallet_util.py,12,12.0,97.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\lint-python.sh,7,7.0,97.0
+bitcoin,XML,D:\clones\bitcoin\build_msvc\common.init.vcxproj,9,1.0,96.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\addrman.cpp,31,11.0,96.0
+bitcoin,C,D:\clones\bitcoin\src\crypto\ctaes\test.c,7,7.0,96.0
+bitcoin,C++,D:\clones\bitcoin\src\primitives\transaction.cpp,17,4.0,96.0
+bitcoin,JSON,D:\clones\bitcoin\test\functional\data\rpc_decodescript.json,0,0.0,96.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_maxuploadtarget.py,37,36.0,96.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_eviction.py,21,20.0,96.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\chacha_poly_aead.cpp,21,10.0,95.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\util\testharness.h,22,24.0,95.0
+bitcoin,C++,D:\clones\bitcoin\src\minisketch\src\fields\generic_2bytes.cpp,15,14.0,95.0
+bitcoin,C++,D:\clones\bitcoin\src\minisketch\src\fields\generic_3bytes.cpp,15,14.0,95.0
+bitcoin,C++,D:\clones\bitcoin\src\minisketch\src\fields\generic_4bytes.cpp,15,14.0,95.0
+bitcoin,C++,D:\clones\bitcoin\src\minisketch\src\fields\generic_5bytes.cpp,15,14.0,95.0
+bitcoin,C++,D:\clones\bitcoin\src\minisketch\src\fields\generic_6bytes.cpp,15,14.0,95.0
+bitcoin,C++,D:\clones\bitcoin\src\minisketch\src\fields\generic_7bytes.cpp,15,14.0,95.0
+bitcoin,C++,D:\clones\bitcoin\src\minisketch\src\fields\generic_8bytes.cpp,15,14.0,95.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\clientmodel.h,25,11.0,95.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\transactionview.h,25,8.0,95.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\strprintf.cpp,11,28.0,95.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\coin_selection.cpp,13,17.0,94.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\compat.h,11,9.0,94.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\field_impl.h,26,20.0,94.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\transaction.cpp,10,3.0,94.0
+bitcoin,C++,D:\clones\bitcoin\src\test\system_tests.cpp,7,14.0,94.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_import_with_label.py,21,10.0,94.0
+bitcoin,C++,D:\clones\bitcoin\src\crc32c\src\crc32c_unittest.cc,32,4.0,93.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\transactionfilterproxy.cpp,20,3.0,93.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\script\signingprovider.h,20,52.0,93.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\modules\ecdh\tests_impl.h,19,20.0,93.0
+bitcoin,C++,D:\clones\bitcoin\src\test\serfloat_tests.cpp,15,22.0,93.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\mempool_accept_wtxid.py,20,15.0,93.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_generate.py,26,6.0,93.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\optionsmodel.h,21,23.0,92.0
+bitcoin,C++,D:\clones\bitcoin\src\test\compress_tests.cpp,32,13.0,92.0
+bitcoin,C++,D:\clones\bitcoin\src\test\validation_chainstate_tests.cpp,30,29.0,92.0
+bitcoin,C++,D:\clones\bitcoin\src\univalue\lib\univalue_write.cpp,17,3.0,92.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\bdb.py,21,38.0,92.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_txn_doublespend.py,28,28.0,92.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\lint-whitespace.sh,9,14.0,92.0
+bitcoin,m4,D:\clones\bitcoin\build-aux\m4\bitcoin_find_bdb48.m4,3,3.0,91.0
+bitcoin,Markdown,D:\clones\bitcoin\ci\retry\README.md,32,0.0,91.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\build-openbsd.md,32,0.0,91.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\table\filter_block_test.cc,21,12.0,91.0
+bitcoin,C++,D:\clones\bitcoin\src\minisketch\src\fields\clmul_1byte.cpp,15,13.0,91.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\coincontroldialog.h,24,4.0,91.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\univalue\lib\univalue_utffilter.h,5,23.0,91.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_inactive_hdchains.py,29,27.0,91.0
+bitcoin,Markdown,D:\clones\bitcoin\depends\README.md,42,0.0,90.0
+bitcoin,C++,D:\clones\bitcoin\src\external_signer.cpp,17,9.0,90.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\util\coding.h,27,47.0,90.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\netaddress.cpp,10,3.0,90.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_disconnect_ban.py,22,11.0,90.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\files.md,39,0.0,89.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.19.1.md,26,0.0,89.0
+bitcoin,Markdown,D:\clones\bitcoin\src\crc32c\README.md,36,0.0,89.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crypto\common.h,17,4.0,89.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\receiverequestdialog.cpp,21,4.0,89.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_asmap.py,26,15.0,89.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_feefilter.py,29,21.0,89.0
+bitcoin,XML,D:\clones\bitcoin\build_msvc\bitcoind\bitcoind.vcxproj,0,0.0,88.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\i2p.md,29,0.0,88.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.16.2.md,28,0.0,88.0
+bitcoin,C++,D:\clones\bitcoin\src\script\sigcache.cpp,14,24.0,88.0
+bitcoin,C++,D:\clones\bitcoin\src\test\pmt_tests.cpp,21,16.0,88.0
+bitcoin,C++,D:\clones\bitcoin\src\util\tokenpipe.cpp,14,7.0,88.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_ping.py,26,12.0,88.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_bind.py,18,24.0,88.0
+bitcoin,Python,D:\clones\bitcoin\contrib\devtools\test-symbol-check.py,38,79.0,87.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\key.h,33,73.0,87.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\test\test_main.cpp,15,15.0,87.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_help.py,28,17.0,87.0
+bitcoin,Python,D:\clones\bitcoin\contrib\devtools\clang-format-diff.py,15,65.0,86.0
+bitcoin,Markdown,D:\clones\bitcoin\contrib\macdeploy\README.md,29,0.0,86.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\build-freebsd.md,29,0.0,86.0
+bitcoin,C++,D:\clones\bitcoin\src\test\flatfile_tests.cpp,29,11.0,86.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\golomb_rice.cpp,9,3.0,86.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_invalid_block.py,27,29.0,86.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\prevector.cpp,10,3.0,85.0
+bitcoin,C++,D:\clones\bitcoin\src\crc32c\src\crc32c_arm64.cc,26,14.0,85.0
+bitcoin,C++,D:\clones\bitcoin\src\ipc\capnp\protocol.cpp,5,3.0,85.0
+bitcoin,C++,D:\clones\bitcoin\src\minisketch\src\fields\generic_1byte.cpp,14,13.0,85.0
+bitcoin,C++,D:\clones\bitcoin\src\test\amount_tests.cpp,16,15.0,85.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\torcontrol.h,26,51.0,85.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.7.1.md,26,0.0,84.0
+bitcoin,C++,D:\clones\bitcoin\src\crc32c\src\crc32c_benchmark.cc,19,3.0,84.0
+bitcoin,C++,D:\clones\bitcoin\src\flatfile.cpp,11,4.0,84.0
+bitcoin,C++,D:\clones\bitcoin\src\test\coinstatsindex_tests.cpp,25,19.0,84.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_users.py,26,8.0,84.0
+bitcoin,Markdown,D:\clones\bitcoin\src\leveldb\doc\table_format.md,24,0.0,83.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\transactionrecord.h,26,36.0,83.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\rpc\server.h,30,67.0,83.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\ecmult_gen_impl.h,10,39.0,83.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_invalid_address_message.py,23,9.0,83.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_scantxoutset.py,19,24.0,83.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\ripemd160.py,19,28.0,83.0
+bitcoin,XML,D:\clones\bitcoin\build_msvc\bitcoin-qt\bitcoin-qt.vcxproj,3,0.0,82.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.15.2.md,36,0.0,82.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\verify_script.cpp,10,8.0,82.0
+bitcoin,Markdown,D:\clones\bitcoin\src\secp256k1\README.md,27,0.0,82.0
+bitcoin,Markdown,D:\clones\bitcoin\src\test\README.md,32,0.0,82.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_fingerprint.py,26,25.0,82.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\lint-includes.sh,12,9.0,82.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.14.3.md,37,0.0,81.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crc32c\src\crc32c_extend_unittests.h,26,5.0,81.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\autocompact_test.cc,19,13.0,80.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\log_writer.cc,19,12.0,80.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\util\posix_logger.h,22,28.0,80.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\transactiontablemodel.h,17,26.0,80.0
+bitcoin,C++,D:\clones\bitcoin\src\shutdown.cpp,11,13.0,80.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\example_test.py,49,89.0,80.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\contrib\guix\libexec\codesign.sh,17,20.0,79.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.9.3.md,22,0.0,79.0
+bitcoin,C++,D:\clones\bitcoin\src\crypto\chacha_poly_aead.cpp,23,24.0,79.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\db\version_edit.h,20,7.0,79.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\modules\schnorrsig\bench_impl.h,18,5.0,79.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\scratch_impl.h,13,7.0,79.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\psbt.cpp,15,3.0,79.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_blocksonly.py,26,14.0,79.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_watchonly.py,24,8.0,79.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\table\filter_block.cc,18,10.0,78.0
+bitcoin,C++,D:\clones\bitcoin\src\noui.cpp,16,5.0,78.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\eckey_impl.h,13,5.0,78.0
+bitcoin,C++,D:\clones\bitcoin\src\test\base58_tests.cpp,16,6.0,78.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\pow.cpp,4,3.0,78.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_compactblocks_blocksonly.py,25,27.0,78.0
+bitcoin,XML,D:\clones\bitcoin\build_msvc\test_bitcoin\test_bitcoin.vcxproj,0,0.0,77.0
+bitcoin,Python,D:\clones\bitcoin\contrib\testgen\base58.py,18,20.0,77.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\port\thread_annotations.h,25,6.0,77.0
+bitcoin,C++,D:\clones\bitcoin\src\rpc\server_util.cpp,15,3.0,77.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\test\spend_tests.cpp,17,24.0,77.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_init.py,21,31.0,77.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\util\windows_logger.h,21,27.0,76.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\logging\timer.h,21,12.0,76.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\netbase.h,28,155.0,76.0
+bitcoin,Markdown,D:\clones\bitcoin\src\qt\README.md,48,0.0,76.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\include\secp256k1_extrakeys.h,17,157.0,76.0
+bitcoin,make,D:\clones\bitcoin\src\univalue\sources.mk,10,9.0,76.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\mempool_updatefromblock.py,21,27.0,76.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_dns_seeds.py,27,26.0,76.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\managing-wallets.md,48,0.0,75.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\bench.cpp,18,5.0,75.0
+bitcoin,C++,D:\clones\bitcoin\src\index\txindex.cpp,19,8.0,75.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\bitcoin.h,22,22.0,75.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\utxo_snapshot.cpp,12,4.0,75.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\mempool_reorg.py,20,17.0,75.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\extended-lint-cppcheck.sh,6,7.0,75.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\README.md,19,0.0,74.0
+bitcoin,C++,D:\clones\bitcoin\src\clientversion.cpp,15,18.0,74.0
+bitcoin,make,D:\clones\bitcoin\src\minisketch\Makefile.am,16,2.0,74.0
+bitcoin,Qt,D:\clones\bitcoin\src\qt\forms\transactiondescdialog.ui,0,0.0,74.0
+bitcoin,C++,D:\clones\bitcoin\src\timedata.cpp,15,31.0,74.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\test\fuzz\coinselection.cpp,15,10.0,74.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\interface_http.py,21,14.0,74.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\env.cc,16,3.0,73.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\test\init_tests.cpp,11,3.0,73.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\interface_rpc.py,22,8.0,73.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\mempool_unbroadcast.py,27,16.0,73.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_misc.py,21,14.0,73.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_whitelist.py,8,19.0,73.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\script_util.py,27,21.0,73.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.14.2.md,30,0.0,72.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\consensus\params.h,15,58.0,72.0
+bitcoin,SVG,D:\clones\bitcoin\src\qt\res\src\connect-3.svg,0,0.0,72.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\locale.cpp,10,5.0,72.0
+bitcoin,C++,D:\clones\bitcoin\src\test\validationinterface_tests.cpp,10,12.0,72.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_add_connections.py,21,17.0,72.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\build-netbsd.md,21,0.0,71.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\cjdns.md,24,0.0,71.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\translation_process.md,30,0.0,71.0
+bitcoin,C++,D:\clones\bitcoin\src\ipc\interfaces.cpp,4,3.0,71.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\table\iterator_wrapper.h,10,11.0,71.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\csvmodelwriter.cpp,15,5.0,71.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\recentrequeststablemodel.h,19,11.0,71.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\muhash.py,20,21.0,71.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.9.4.md,25,0.0,70.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\include\leveldb\status.h,23,29.0,70.0
+bitcoin,Markdown,D:\clones\bitcoin\src\minisketch\doc\math.md,47,0.0,70.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\net.cpp,6,3.0,70.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\policy_estimator.cpp,4,3.0,70.0
+bitcoin,C++,D:\clones\bitcoin\src\test\util\mining.cpp,16,3.0,70.0
+bitcoin,C++,D:\clones\bitcoin\src\util\moneystr.cpp,11,7.0,70.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\string.h,13,23.0,70.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_txoutproof.py,19,23.0,70.0
+bitcoin,C++,D:\clones\bitcoin\src\hash.cpp,17,10.0,69.0
+bitcoin,SVG,D:\clones\bitcoin\src\qt\res\src\connect-1.svg,0,0.0,69.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_txindex_compatibility.py,16,7.0,69.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_node_network_limited.py,24,19.0,69.0
+bitcoin,Python,D:\clones\bitcoin\contrib\devtools\circular-dependencies.py,10,14.0,68.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\build-windows.md,34,0.0,68.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\peertablemodel.h,15,29.0,68.0
+bitcoin,SVG,D:\clones\bitcoin\src\qt\res\src\proxy.svg,1,1.0,68.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\script\sign.h,19,21.0,68.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\p2p_transport_serialization.cpp,11,4.0,68.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\torcontrol.cpp,9,3.0,68.0
+bitcoin,C++,D:\clones\bitcoin\src\test\raii_event_tests.cpp,25,6.0,68.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\crypter.h,18,25.0,68.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\mocks\signer.py,23,11.0,68.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\bips.md,1,0.0,67.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crypto\muhash.h,23,41.0,67.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\policy\policy.h,17,51.0,67.0
+bitcoin,C++,D:\clones\bitcoin\src\rpc\external_signer.cpp,6,6.0,67.0
+bitcoin,C++,D:\clones\bitcoin\src\util\message.cpp,16,9.0,67.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\tokenpipe.h,21,39.0,67.0
+bitcoin,Python,D:\clones\bitcoin\contrib\macdeploy\gen-sdk,18,10.0,66.0
+bitcoin,C++,D:\clones\bitcoin\src\crc32c\src\crc32c_round_up_unittest.cc,15,3.0,66.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\status.cc,8,3.0,66.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\testharness.cc,12,3.0,66.0
+bitcoin,SVG,D:\clones\bitcoin\src\qt\res\src\connect-0.svg,0,0.0,66.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\sqlite.h,35,23.0,66.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\compressor.h,13,40.0,65.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\minisketch\src\false_positives.h,12,33.0,65.0
+bitcoin,SVG,D:\clones\bitcoin\src\qt\res\src\connect-4.svg,0,0.0,65.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\block.cpp,4,3.0,65.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_dos_header_tree.py,14,8.0,65.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_ibd_txrelay.py,12,12.0,65.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_invalidateblock.py,13,10.0,65.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_create_tx.py,13,4.0,65.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_keypool_topup.py,17,11.0,65.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\i2p.h,39,167.0,64.0
+bitcoin,YAML,D:\clones\bitcoin\src\leveldb\.travis.yml,7,11.0,64.0
+bitcoin,Markdown,D:\clones\bitcoin\src\minisketch\doc\moduli.md,1,0.0,64.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\walletview.h,23,36.0,64.0
+bitcoin,C,D:\clones\bitcoin\src\secp256k1\src\gen_ecmult_gen_static_prec_table.c,14,5.0,64.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\crypto_chacha20_poly1305_aead.cpp,5,3.0,64.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\process_messages.cpp,14,3.0,64.0
+bitcoin,C++,D:\clones\bitcoin\src\test\reverselock_tests.cpp,20,9.0,64.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_versionbits_warning.py,18,23.0,64.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_encryption.py,19,14.0,64.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\translation_strings_policy.md,37,0.0,63.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\scheduler.h,23,63.0,63.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\script\script_error.h,16,13.0,63.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\http_request.cpp,8,10.0,63.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\netbase_dns_lookup.cpp,5,3.0,63.0
+bitcoin,C++,D:\clones\bitcoin\src\test\timedata_tests.cpp,26,16.0,63.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\mempool_expiry.py,21,27.0,63.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_addrv2_relay.py,17,7.0,63.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\txcreate1.json,0,0.0,63.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\bloom.cc,17,13.0,62.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\node\ui_interface.h,25,36.0,62.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\test\db_tests.cpp,17,3.0,62.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_getaddr_caching.py,17,10.0,62.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_reorgsrestore.py,17,22.0,62.0
+bitcoin,XML,D:\clones\bitcoin\build_msvc\libleveldb\libleveldb.vcxproj,0,0.0,61.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.8.4.md,22,0.0,61.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\httpserver.h,23,66.0,61.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\table\block_builder.cc,14,33.0,61.0
+bitcoin,C++,D:\clones\bitcoin\src\pow.cpp,16,14.0,61.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\networkstyle.cpp,17,15.0,61.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\rpc\protocol.h,11,20.0,61.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\buffered_file.cpp,3,4.0,61.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\script_ops.cpp,3,3.0,61.0
+bitcoin,C++,D:\clones\bitcoin\src\uint256.cpp,14,9.0,61.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\epochguard.h,15,25.0,61.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\validationinterface.h,17,135.0,61.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\fees.cpp,12,21.0,61.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_settings.py,17,13.0,61.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_addrfetch.py,16,9.0,61.0
+bitcoin,Markdown,D:\clones\bitcoin\build_msvc\README.md,26,0.0,60.0
+bitcoin,C++,D:\clones\bitcoin\src\compat\stdin.cpp,8,4.0,60.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\db\snapshot.h,19,16.0,60.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\table\iterator.cc,13,3.0,60.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\logging.cc,17,7.0,60.0
+bitcoin,C++,D:\clones\bitcoin\src\node\minisketchwrapper.cpp,13,6.0,60.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\bitcoinaddressvalidator.cpp,16,21.0,60.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\receivecoinsdialog.h,15,4.0,60.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\ecmult_gen_prec_impl.h,8,13.0,60.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\bloom_filter.cpp,4,3.0,60.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\script_flags.cpp,14,5.0,60.0
+bitcoin,C++,D:\clones\bitcoin\src\univalue\gen\gen.cpp,13,9.0,60.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\external_signer_scriptpubkeyman.cpp,14,12.0,60.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\mempool_limit.py,17,15.0,60.0
+bitcoin,diff,D:\clones\bitcoin\depends\patches\qt\dont_hardcode_x86_64.patch,13,47.0,59.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.10.2.md,27,0.0,59.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.16.3.md,29,0.0,59.0
+bitcoin,Python,D:\clones\bitcoin\src\crc32c\.ycm_extra_conf.py,34,49.0,59.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\builder.cc,12,8.0,59.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\include\leveldb\slice.h,25,31.0,59.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\net_permissions.h,11,19.0,59.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\addresstablemodel.h,24,22.0,59.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\bitcoinunits.h,17,38.0,59.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\initexecutor.cpp,9,3.0,59.0
+bitcoin,SVG,D:\clones\bitcoin\src\qt\res\src\connect-2.svg,0,0.0,59.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\autofile.cpp,3,3.0,59.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\txdb.h,14,22.0,59.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\walletutil.h,25,25.0,59.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_signer.py,16,11.0,59.0
+bitcoin,Markdown,D:\clones\bitcoin\README.md,24,0.0,58.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.15.0.1.md,29,0.0,58.0
+bitcoin,YAML,D:\clones\bitcoin\src\crc32c\.travis.yml,7,11.0,58.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\walletmodeltransaction.cpp,12,3.0,58.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\script\bitcoinconsensus.h,14,9.0,58.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\chain.cpp,7,3.0,58.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\timedata.h,14,11.0,58.0
+bitcoin,JSON,D:\clones\bitcoin\test\functional\data\rpc_bip67.json,0,0.0,58.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_bind_extra.py,13,24.0,58.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_loadblock.py,15,10.0,58.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.4.0.md,13,0.0,57.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\addition_overflow.cpp,5,3.0,57.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\rpc\signmessage.cpp,10,3.0,57.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_compactblocks_hb.py,17,21.0,57.0
+bitcoin,Bourne Again Shell,D:\clones\bitcoin\contrib\shell\realpath.bash,13,2.0,56.0
+bitcoin,Python,D:\clones\bitcoin\contrib\zmq\zmq_sub.py,13,20.0,56.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\multiprocess.md,16,0.0,56.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\core_memusage.h,12,3.0,56.0
+bitcoin,Objective-C++,D:\clones\bitcoin\src\qt\macos_appnap.mm,12,3.0,56.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\walletframe.h,23,23.0,56.0
+bitcoin,C++,D:\clones\bitcoin\src\test\util\transaction_utils.cpp,10,5.0,56.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\mining_getblocktemplate_longpoll.py,13,12.0,56.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\addrman.h,28,104.0,55.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\issues\issue178_test.cc,18,15.0,55.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\comparator.cc,13,7.0,55.0
+bitcoin,C++,D:\clones\bitcoin\src\node\ui_interface.cpp,10,3.0,55.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\addressbookpage.h,16,14.0,55.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\include\secp256k1_schnorrsig.h,12,104.0,55.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\signature_checker.cpp,11,3.0,55.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\pass1.json,3,0.0,55.0
+bitcoin,C++,D:\clones\bitcoin\src\util\spanparsing.cpp,9,3.0,55.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_anchors.py,20,8.0,55.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_blockfilterindex_prune.py,16,7.0,55.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\mempool_compatibility.py,18,11.0,55.0
+bitcoin,diff,D:\clones\bitcoin\depends\patches\bdb\clang_cxx_11.patch,10,83.0,54.0
+bitcoin,Markdown,D:\clones\bitcoin\src\leveldb\doc\log_format.md,21,0.0,54.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\group.h,39,51.0,54.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\crypto_common.cpp,13,3.0,54.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\minisketch.cpp,8,4.0,54.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\threadsafety.h,6,17.0,54.0
+bitcoin,m4,D:\clones\bitcoin\src\univalue\configure.ac,15,3.0,54.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\hash_type.h,15,3.0,54.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\hasher.h,15,26.0,54.0
+bitcoin,C++,D:\clones\bitcoin\src\zmq\zmqrpc.cpp,9,4.0,54.0
+bitcoin,diff,D:\clones\bitcoin\contrib\guix\patches\glibc-2.24-no-build-time-cxx-header-run.patch,9,38.0,53.0
+bitcoin,Markdown,D:\clones\bitcoin\contrib\signet\README.md,30,0.0,53.0
+bitcoin,C++,D:\clones\bitcoin\src\dummywallet.cpp,10,3.0,53.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\leveldbutil.cc,8,3.0,53.0
+bitcoin,C++,D:\clones\bitcoin\src\policy\packages.cpp,10,16.0,53.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\bantablemodel.h,17,10.0,53.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\optionsdialog.h,18,8.0,53.0
+bitcoin,C++,D:\clones\bitcoin\src\test\blockchain_tests.cpp,15,9.0,53.0
+bitcoin,C++,D:\clones\bitcoin\src\util\bip32.cpp,7,6.0,53.0
+bitcoin,C++,D:\clones\bitcoin\src\util\fees.cpp,10,4.0,53.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_signet.py,16,5.0,53.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_timeouts.py,24,22.0,53.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\siphash.py,4,6.0,53.0
+bitcoin,XML,D:\clones\bitcoin\build_msvc\msbuild\tasks\hexdump.targets,1,0.0,52.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\policy\packages.md,22,0.0,52.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.7.2.md,16,0.0,52.0
+bitcoin,Python,D:\clones\bitcoin\share\qt\extract_strings_qt.py,12,21.0,52.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\include\leveldb\db.h,27,88.0,52.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\table\format.h,26,22.0,52.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\intro.h,17,18.0,52.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\sendcoinsentry.h,20,12.0,52.0
+bitcoin,C++,D:\clones\bitcoin\src\test\util\net.cpp,7,5.0,52.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\settings.h,17,39.0,52.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_bind_port_discover.py,9,17.0,52.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\lint-circular-dependencies.sh,7,6.0,52.0
+bitcoin,Python,D:\clones\bitcoin\contrib\tracing\log_utxocache_flush.py,21,35.0,51.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\common\bloom.h,19,57.0,51.0
+bitcoin,C,D:\clones\bitcoin\src\crc32c\src\crc32c_capi_unittest.c,11,4.0,51.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\index\base.h,28,51.0,51.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\merkleblock.h,28,79.0,51.0
+bitcoin,m4,D:\clones\bitcoin\src\minisketch\build-aux\m4\ax_check_compile_flag.m4,2,0.0,51.0
+bitcoin,m4,D:\clones\bitcoin\src\minisketch\build-aux\m4\ax_check_link_flag.m4,2,0.0,51.0
+bitcoin,m4,D:\clones\bitcoin\src\minisketch\build-aux\m4\ax_check_preproc_flag.m4,2,0.0,51.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\checkqueue.cpp,10,3.0,51.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\float.cpp,5,6.0,51.0
+bitcoin,C++,D:\clones\bitcoin\src\test\txindex_tests.cpp,16,11.0,51.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\versionbits.h,17,39.0,51.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_bind_port_externalip.py,8,16.0,51.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_getblockfrompeer.py,15,4.0,51.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\policy\mempool-replacements.md,19,0.0,50.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\checkqueue.cpp,8,13.0,50.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\arena_test.cc,9,6.0,50.0
+bitcoin,C++,D:\clones\bitcoin\src\net_types.cpp,8,16.0,50.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\node\chainstate.h,8,29.0,50.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\overviewpage.h,17,4.0,50.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\sock.h,31,113.0,50.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_setban.py,16,9.0,50.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\contrib\verify-commits\gpg.sh,1,15.0,49.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\notificator.h,12,16.0,49.0
+bitcoin,SVG,D:\clones\bitcoin\src\qt\res\src\network_disabled.svg,0,0.0,49.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\test\uritests.cpp,14,3.0,49.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_includeconf.py,18,21.0,49.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_utxo_set_hash.py,19,12.0,49.0
+bitcoin,Python,D:\clones\bitcoin\contrib\devtools\gen-manpages.py,9,14.0,48.0
+bitcoin,Bourne Again Shell,D:\clones\bitcoin\contrib\guix\libexec\prelude.bash,19,15.0,48.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\wallet_balance.cpp,12,3.0,48.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crypto\aes.h,12,7.0,48.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\arena.cc,11,7.0,48.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\node\coinstats.h,16,20.0,48.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\modules\ecdh\main_impl.h,17,6.0,48.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\asmap.cpp,6,6.0,48.0
+bitcoin,Python,D:\clones\bitcoin\contrib\tracing\log_raw_p2p_msgs.py,35,101.0,47.0
+bitcoin,YAML,D:\clones\bitcoin\src\.clang-format,0,0.0,47.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crc32c\src\crc32c_arm64_check.h,13,8.0,47.0
+bitcoin,C++,D:\clones\bitcoin\src\test\script_parse_tests.cpp,4,4.0,47.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\receive.h,10,9.0,47.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\coverage.py,28,37.0,47.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\descriptors.py,7,10.0,47.0
+bitcoin,XML,D:\clones\bitcoin\build_msvc\bitcoin-wallet\bitcoin-wallet.vcxproj,0,0.0,46.0
+bitcoin,Markdown,D:\clones\bitcoin\ci\README.md,19,0.0,46.0
+bitcoin,make,D:\clones\bitcoin\depends\hosts\darwin.mk,17,58.0,46.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\duplicate_inputs.cpp,15,4.0,46.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\db\log_reader.h,23,43.0,46.0
+bitcoin,SVG,D:\clones\bitcoin\src\qt\res\src\bitcoin.svg,7,5.0,46.0
+bitcoin,C++,D:\clones\bitcoin\src\util\error.cpp,6,4.0,46.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_implicitsegwit.py,13,6.0,46.0
+bitcoin,Bourne Again Shell,D:\clones\bitcoin\contrib\init\bitcoind.init,9,13.0,45.0
+bitcoin,Markdown,D:\clones\bitcoin\contrib\linearize\README.md,9,0.0,45.0
+bitcoin,Markdown,D:\clones\bitcoin\contrib\verify-commits\README.md,12,0.0,45.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.9.5.md,15,0.0,45.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crc32c\include\crc32c\crc32c.h,29,15.0,45.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\index\blockfilterindex.h,25,32.0,45.0
+bitcoin,C++,D:\clones\bitcoin\src\init\bitcoin-node.cpp,5,6.0,45.0
+bitcoin,C++,D:\clones\bitcoin\src\ipc\process.cpp,4,12.0,45.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\db\memtable.h,20,22.0,45.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\include\leveldb\options.h,33,109.0,45.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\minisketch\src\util.h,9,20.0,45.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\net_processing.h,17,30.0,45.0
+bitcoin,Objective-C++,D:\clones\bitcoin\src\qt\macnotificationhandler.mm,9,8.0,45.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\src\secp256k1\ci\cirrus.sh,14,7.0,45.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\modules\recovery\bench_impl.h,12,5.0,45.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\kitchen_sink.cpp,8,6.0,45.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\script_sigcache.cpp,5,3.0,45.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_logging.py,16,13.0,45.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\test_framework\test_shell.py,16,14.0,45.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\benchmarking.md,17,0.0,44.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes.md,23,0.0,44.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\banman.h,14,40.0,44.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\rpc_blockchain.cpp,13,3.0,44.0
+bitcoin,C++,D:\clones\bitcoin\src\chainparamsbase.cpp,9,8.0,44.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\env_windows_test.cc,12,8.0,44.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\splashscreen.h,16,15.0,44.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\include\secp256k1_recovery.h,10,59.0,44.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\support\allocators\secure.h,8,9.0,44.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\base_encode_decode.cpp,10,3.0,44.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\muhash.cpp,7,7.0,44.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\txorphanage.h,20,28.0,44.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\undo.h,9,18.0,44.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\check.h,12,27.0,44.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\zmq\zmqabstractnotifier.h,13,9.0,44.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\txcreatedata1.json,0,0.0,44.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\txcreatedata2.json,0,0.0,44.0
+bitcoin,diff,D:\clones\bitcoin\depends\patches\qt\fix_bigsur_style.patch,5,42.0,43.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\policy\mempool-limits.md,22,0.0,43.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.8.6.md,23,0.0,43.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\compat\byteswap.h,12,4.0,43.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\util\testutil.h,12,11.0,43.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\paymentserver.h,21,45.0,43.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\script\descriptor.h,23,119.0,43.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\block_header.cpp,3,3.0,43.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\merkleblock.cpp,3,3.0,43.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\multiplication_overflow.cpp,5,3.0,43.0
+bitcoin,C++,D:\clones\bitcoin\src\util\serfloat.cpp,4,17.0,43.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\mempool_package_onemore.py,14,17.0,43.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\mocks\invalid_signer.py,13,9.0,43.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_leak_tx.py,12,5.0,43.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_resendwallettransactions.py,16,20.0,43.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_startup.py,9,6.0,43.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\txcreatedata_seq1.json,0,0.0,43.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\minisketch\src\fields\generic_common_impl.h,18,10.0,42.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\node\context.h,6,20.0,42.0
+bitcoin,Gradle,D:\clones\bitcoin\src\qt\android\build.gradle,10,0.0,42.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\support\events.h,11,3.0,42.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\i2p.cpp,11,4.0,42.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\rbf.cpp,3,3.0,42.0
+bitcoin,C++,D:\clones\bitcoin\src\test\merkleblock_tests.cpp,23,15.0,42.0
+bitcoin,make,D:\clones\bitcoin\src\univalue\Makefile.am,16,0.0,42.0
+bitcoin,C++,D:\clones\bitcoin\src\util\threadnames.cpp,12,12.0,42.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\translation.h,12,14.0,42.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\zmq\zmqpublishnotifier.h,13,9.0,42.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_mempool_entry_fee_fields_deprecation.py,17,8.0,42.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\lint-python-mutable-default-parameters.sh,4,6.0,42.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\bitcoin-conf.md,23,0.0,41.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\dnsseed-policy.md,13,0.0,41.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\reduce-traffic.md,15,0.0,41.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.5.0.md,29,0.0,41.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\base58.cpp,11,3.0,41.0
+bitcoin,C++,D:\clones\bitcoin\src\consensus\tx_check.cpp,7,11.0,41.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\include\leveldb\iterator.h,22,49.0,41.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\crc32c_test.cc,14,4.0,41.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\openuridialog.cpp,10,4.0,41.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\modules\extrakeys\tests_exhaustive_impl.h,14,13.0,41.0
+bitcoin,C++,D:\clones\bitcoin\src\test\util_threadnames_tests.cpp,17,14.0,41.0
+bitcoin,YAML,D:\clones\bitcoin\src\univalue\.cirrus.yml,3,0.0,41.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\overflow.h,6,3.0,41.0
+bitcoin,C++,D:\clones\bitcoin\src\warnings.cpp,13,6.0,41.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_help.py,11,10.0,41.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_message_capture.py,14,21.0,41.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\dependencies.md,9,0.0,40.0
+bitcoin,C++,D:\clones\bitcoin\src\compat\glibcxx_sanity.cpp,8,13.0,40.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\table\filter_block.h,15,14.0,40.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\transactionfilterproxy.h,16,11.0,40.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\field.h,32,55.0,40.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\scalar.h,28,37.0,40.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\cuckoocache.cpp,5,3.0,40.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\message.cpp,4,3.0,40.0
+bitcoin,HTML,D:\clones\bitcoin\test\functional\combined_log_template.html,0,0.0,40.0
+bitcoin,Python,D:\clones\bitcoin\test\lint\check-doc.py,17,9.0,40.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\00_setup_env.sh,6,27.0,39.0
+bitcoin,Markdown,D:\clones\bitcoin\depends\description.md,14,0.0,39.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\logging.cpp,6,3.0,39.0
+bitcoin,C++,D:\clones\bitcoin\src\consensus\merkle.cpp,12,34.0,39.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\flatfile.h,18,33.0,39.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\index\coinstatsindex.h,15,9.0,39.0
+bitcoin,C++,D:\clones\bitcoin\src\init\bitcoin-gui.cpp,5,3.0,39.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\util\arena.h,16,16.0,39.0
+bitcoin,make,D:\clones\bitcoin\src\minisketch\sources.mk,10,9.0,39.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\sendcoinsrecipient.h,14,12.0,39.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\winshutdownmonitor.cpp,11,7.0,39.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\modules\ecdh\bench_impl.h,12,6.0,39.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\blockfilter.cpp,3,3.0,39.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\rolling_bloom_filter.cpp,4,3.0,39.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\test\util.cpp,6,3.0,39.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_getblockfilter.py,14,11.0,39.0
+bitcoin,Markdown,D:\clones\bitcoin\.github\PULL_REQUEST_TEMPLATE.md,5,0.0,38.0
+bitcoin,m4,D:\clones\bitcoin\build-aux\m4\l_atomic.m4,12,5.0,38.0
+bitcoin,XML,D:\clones\bitcoin\build_msvc\libminisketch\libminisketch.vcxproj,0,0.0,38.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\shared-libraries.md,12,0.0,38.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crc32c\src\crc32c_read_le.h,8,7.0,38.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\policy\feerate.h,12,25.0,38.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\bitcoinamountfield.h,25,21.0,38.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\modaloverlay.h,13,6.0,38.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\psbtoperationsdialog.h,12,4.0,38.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\crypto_chacha20.cpp,4,3.0,38.0
+bitcoin,C++,D:\clones\bitcoin\src\test\minisketch_tests.cpp,10,3.0,38.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\test\init_test_fixture.cpp,11,3.0,38.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_getchaintips.py,11,12.0,38.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\commit-script-check.sh,5,9.0,38.0
+bitcoin,m4,D:\clones\bitcoin\build-aux\m4\bitcoin_runtime_lib.m4,5,0.0,37.0
+bitcoin,XML,D:\clones\bitcoin\build_msvc\bitcoin-tx\bitcoin-tx.vcxproj,0,0.0,37.0
+bitcoin,XML,D:\clones\bitcoin\build_msvc\bitcoin-util\bitcoin-util.vcxproj,0,0.0,37.0
+bitcoin,XML,D:\clones\bitcoin\build_msvc\libbitcoinconsensus\libbitcoinconsensus.vcxproj,0,0.0,37.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\05_before_script.sh,7,8.0,37.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\zeromq.mk,6,0.0,37.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.9.1.md,16,0.0,37.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\block_assemble.cpp,9,4.0,37.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\ccoins_caching.cpp,7,10.0,37.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\checkblock.cpp,10,6.0,37.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\deploymentstatus.h,11,7.0,37.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\hash.cc,9,9.0,37.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\editaddressdialog.h,16,6.0,37.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\signverifymessagedialog.h,12,5.0,37.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\assumptions.h,14,29.0,37.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\field_5x52.h,9,9.0,37.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\asmap_direct.cpp,5,7.0,37.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\hex.cpp,4,3.0,37.0
+bitcoin,C++,D:\clones\bitcoin\src\util\readwritefile.cpp,4,6.0,37.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\feebumper.h,12,12.0,37.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_filelock.py,8,4.0,37.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_minchainwork.py,21,31.0,37.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_getdescriptorinfo.py,8,21.0,37.0
+bitcoin,Bourne Again Shell,D:\clones\bitcoin\contrib\guix\guix-clean,15,32.0,36.0
+bitcoin,Bourne Again Shell,D:\clones\bitcoin\depends\gen_id,12,26.0,36.0
+bitcoin,diff,D:\clones\bitcoin\depends\patches\zeromq\netbsd_kevent_void.patch,4,17.0,36.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\share\genbuild.sh,6,7.0,36.0
+bitcoin,C++,D:\clones\bitcoin\src\init\bitcoind.cpp,5,3.0,36.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\include\leveldb\table.h,18,30.0,36.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\issues\issue200_test.cc,13,8.0,36.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\askpassphrasedialog.h,14,5.0,36.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\peertablesortproxy.cpp,6,3.0,36.0
+bitcoin,C++,D:\clones\bitcoin\src\test\base64_tests.cpp,8,4.0,36.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\node_eviction.cpp,3,5.0,36.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\script_descriptor_cache.cpp,3,3.0,36.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_dumptxoutset.py,12,9.0,36.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_timelock.py,11,3.0,36.0
+bitcoin,Python,D:\clones\bitcoin\test\util\rpcauth-test.py,7,5.0,36.0
+bitcoin,m4,D:\clones\bitcoin\build-aux\m4\l_filesystem.m4,9,3.0,35.0
+bitcoin,XML,D:\clones\bitcoin\build_msvc\msbuild\tasks\replaceinfile.targets,0,0.0,35.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\reduce-memory.md,19,0.0,35.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.5.3.md,7,0.0,35.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.6.2.md,15,0.0,35.0
+bitcoin,C++,D:\clones\bitcoin\src\init\bitcoin-qt.cpp,4,3.0,35.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\testutil.cc,8,6.0,35.0
+bitcoin,SVG,D:\clones\bitcoin\src\qt\res\src\transaction0.svg,0,0.0,35.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\trafficgraphwidget.h,12,3.0,35.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\script\keyorigin.h,8,6.0,35.0
+bitcoin,m4,D:\clones\bitcoin\src\secp256k1\build-aux\m4\bitcoin_secp.m4,2,3.0,35.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\ismine.h,8,30.0,35.0
+bitcoin,Markdown,D:\clones\bitcoin\test\lint\README.md,9,0.0,35.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\lint-git-commit-check.sh,6,7.0,35.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\06_script_a.sh,13,8.0,34.0
+bitcoin,diff,D:\clones\bitcoin\contrib\guix\patches\glibc-2.27-riscv64-Use-__has_include__-to-include-asm-syscalls.h.patch,17,21.0,34.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\core_io.h,9,16.0,34.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\indirectmap.h,8,16.0,34.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\hash_test.cc,7,3.0,34.0
+bitcoin,C,D:\clones\bitcoin\src\minisketch\doc\example.c,9,8.0,34.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\node\psbt.h,9,15.0,34.0
+bitcoin,Windows Resource File,D:\clones\bitcoin\src\qt\res\bitcoin-qt-res.rc,4,0.0,34.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\utilitydialog.h,14,5.0,34.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\support\allocators\zeroafterfree.h,7,5.0,34.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\bech32.cpp,5,4.0,34.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\script_interpreter.cpp,4,3.0,34.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_coinbase_category.py,11,14.0,34.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_orphanedreward.py,8,17.0,34.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\txcreatedata_seq0.json,0,0.0,34.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\txcreatesignv1.json,0,0.0,34.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.4.6.md,4,0.0,33.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.5.5.md,4,0.0,33.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\bench\bench.h,19,17.0,33.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\gcs_filter.cpp,7,3.0,33.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\hashpadding.cpp,9,5.0,33.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\db\filename.h,20,31.0,33.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\include\leveldb\cache.h,22,56.0,33.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\include\leveldb\table_builder.h,20,40.0,33.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\port\port_example.h,23,48.0,33.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\policy\rbf.h,12,57.0,33.0
+bitcoin,XML,D:\clones\bitcoin\src\qt\android\AndroidManifest.xml,6,0.0,33.0
+bitcoin,Objective-C++,D:\clones\bitcoin\src\qt\macdockiconhandler.mm,11,9.0,33.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\field_10x26.h,8,9.0,33.0
+bitcoin,C++,D:\clones\bitcoin\src\test\banman_tests.cpp,6,4.0,33.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\net_permissions.cpp,5,3.0,33.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\trace.h,9,3.0,33.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\walletutil.cpp,7,6.0,33.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\lint-format-strings.sh,3,8.0,33.0
+bitcoin,diff,D:\clones\bitcoin\contrib\guix\patches\glibc-2.24-elfm-loadaddr-dynamic-rewrite.patch,11,19.0,32.0
+bitcoin,make,D:\clones\bitcoin\depends\hosts\default.mk,4,3.0,32.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\bdb.mk,5,0.0,32.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\libevent.mk,6,3.0,32.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\libxcb.mk,6,2.0,32.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.5.4.md,7,0.0,32.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\chacha20.cpp,8,4.0,32.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\lockedpool.cpp,7,3.0,32.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\util_time.cpp,7,3.0,32.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\db\version_edit_test.cc,9,3.0,32.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\fee_rate.cpp,5,3.0,32.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\socks5.cpp,6,7.0,32.0
+bitcoin,C++,D:\clones\bitcoin\src\test\txvalidation_tests.cpp,12,8.0,32.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\test\util\chainstate.h,11,12.0,32.0
+bitcoin,C++,D:\clones\bitcoin\src\threadinterrupt.cpp,9,4.0,32.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\vector.h,6,13.0,32.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_maxtipage.py,15,9.0,32.0
+bitcoin,XML,D:\clones\bitcoin\build_msvc\bitcoin-cli\bitcoin-cli.vcxproj,0,0.0,31.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\native_cctools.mk,6,0.0,31.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.8.5.md,13,0.0,31.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\include\leveldb\write_batch.h,19,33.0,31.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\rpc\blockchain.h,13,17.0,31.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\secp256k1_ec_seckey_import_export_der.cpp,4,3.0,31.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\span.cpp,5,3.0,31.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\txrequest.h,22,158.0,31.0
+bitcoin,C++,D:\clones\bitcoin\src\zmq\zmqabstractnotifier.cpp,10,3.0,31.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_presegwit_node_upgrade.py,14,12.0,31.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\mempool_resurrect.py,13,20.0,31.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_getdata.py,12,6.0,31.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_signmessagewithprivkey.py,6,8.0,31.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\contrib\devtools\utxo_snapshot.sh,7,7.0,30.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.5.1.md,13,0.0,30.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\rollingbloom.cpp,6,3.0,30.0
+bitcoin,Windows Resource File,D:\clones\bitcoin\src\bitcoin-cli-res.rc,3,0.0,30.0
+bitcoin,Windows Resource File,D:\clones\bitcoin\src\bitcoin-tx-res.rc,3,0.0,30.0
+bitcoin,Windows Resource File,D:\clones\bitcoin\src\bitcoin-util-res.rc,3,0.0,30.0
+bitcoin,Windows Resource File,D:\clones\bitcoin\src\bitcoin-wallet-res.rc,3,0.0,30.0
+bitcoin,Windows Resource File,D:\clones\bitcoin\src\bitcoind-res.rc,3,0.0,30.0
+bitcoin,C++,D:\clones\bitcoin\src\interfaces\handler.cpp,12,3.0,30.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\util\no_destructor.h,10,6.0,30.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\no_destructor_test.cc,13,4.0,30.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\test\apptests.h,10,10.0,30.0
+bitcoin,C++,D:\clones\bitcoin\src\test\base32_tests.cpp,7,4.0,30.0
+bitcoin,C++,D:\clones\bitcoin\src\test\compilerbug_tests.cpp,7,5.0,30.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\validation_load_mempool.cpp,6,3.0,30.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\message.h,16,30.0,30.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\spend.h,16,53.0,30.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_signmessagewithaddress.py,9,6.0,30.0
+bitcoin,m4,D:\clones\bitcoin\build-aux\m4\l_socket.m4,7,0.0,29.0
+bitcoin,Python,D:\clones\bitcoin\share\rpcauth\rpcauth.py,10,6.0,29.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\addrdb.h,12,28.0,29.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\poly1305.cpp,8,4.0,29.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\rpc_mempool.cpp,8,3.0,29.0
+bitcoin,C++,D:\clones\bitcoin\src\deploymentinfo.cpp,4,3.0,29.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\db\table_cache.h,14,15.0,29.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\util\random.h,10,24.0,29.0
+bitcoin,C++,D:\clones\bitcoin\src\policy\feerate.cpp,10,6.0,29.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\createwalletdialog.h,12,5.0,29.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\initexecutor.h,11,7.0,29.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\transactionoverviewwidget.h,9,3.0,29.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\key_io.cpp,7,3.0,29.0
+bitcoin,C++,D:\clones\bitcoin\src\test\i2p_tests.cpp,11,4.0,29.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\time.h,19,44.0,29.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_invalid_locator.py,8,5.0,29.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\06_script_b.sh,9,6.0,28.0
+bitcoin,Markdown,D:\clones\bitcoin\contrib\README.md,14,0.0,28.0
+bitcoin,Markdown,D:\clones\bitcoin\contrib\verifybinaries\README.md,13,0.0,28.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\chainparamsbase.h,12,23.0,28.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crc32c\src\crc32c_sse42_check.h,17,5.0,28.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\interfaces\ipc.h,12,38.0,28.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\util\histogram.h,13,3.0,28.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\src\minisketch\ci\cirrus.sh,11,2.0,28.0
+bitcoin,C++,D:\clones\bitcoin\src\node\caches.cpp,3,3.0,28.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\outputtype.h,11,15.0,28.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\qrimagewidget.h,11,8.0,28.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\qvalidatedlineedit.h,10,6.0,28.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\walletmodeltransaction.h,15,4.0,28.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\test\fuzz\fuzz.h,12,7.0,28.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\load_external_block_file.cpp,5,3.0,28.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\primitives_transaction.cpp,3,3.0,28.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\tx_out.cpp,4,3.0,28.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\test\util\str.h,6,11.0,28.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\golombrice.h,10,7.0,28.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\zmq\zmqnotificationinterface.h,12,4.0,28.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\mempool_spend_coinbase.py,14,19.0,28.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_deriveaddresses.py,16,10.0,28.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\lint\06_script.sh,5,10.0,27.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\contrib\windeploy\detached-sig-create.sh,5,4.0,27.0
+bitcoin,make,D:\clones\bitcoin\depends\hosts\linux.mk,5,0.0,27.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\qrencode.mk,6,0.0,27.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\sqlite.mk,6,0.0,27.0
+bitcoin,YAML,D:\clones\bitcoin\src\crc32c\.appveyor.yml,6,5.0,27.0
+bitcoin,C++,D:\clones\bitcoin\src\crc32c\src\crc32c.cc,9,3.0,27.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crc32c\src\crc32c_prefetch.h,10,9.0,27.0
+bitcoin,Markdown,D:\clones\bitcoin\src\crypto\ctaes\README.md,14,0.0,27.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\interfaces\init.h,9,18.0,27.0
+bitcoin,Markdown,D:\clones\bitcoin\src\leveldb\CONTRIBUTING.md,9,0.0,27.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\table\block_builder.h,16,12.0,27.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\minisketch\src\sketch.h,9,6.0,27.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\coincontroltreewidget.cpp,4,3.0,27.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\csvmodelwriter.h,10,9.0,27.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\guiconstants.h,16,19.0,27.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\rpc\request.h,8,8.0,27.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\include\secp256k1_preallocated.h,10,91.0,27.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\hash.h,9,5.0,27.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\rpc\util.h,10,9.0,27.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\test\scriptpubkeyman_tests.cpp,7,9.0,27.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_i2p_ports.py,9,7.0,27.0
+bitcoin,make,D:\clones\bitcoin\depends\hosts\freebsd.mk,5,0.0,26.0
+bitcoin,make,D:\clones\bitcoin\depends\hosts\netbsd.mk,5,0.0,26.0
+bitcoin,make,D:\clones\bitcoin\depends\hosts\openbsd.mk,5,0.0,26.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\fontconfig.mk,6,0.0,26.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\libXau.mk,6,2.0,26.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\libxcb_util.mk,6,0.0,26.0
+bitcoin,diff,D:\clones\bitcoin\depends\patches\native_libdmg-hfsplus\remove-libcrypto-dependency.patch,7,12.0,26.0
+bitcoin,diff,D:\clones\bitcoin\depends\patches\qt\duplicate_lcqpafonts.patch,30,48.0,26.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crypto\ctaes\ctaes.h,10,5.0,26.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\init.h,8,39.0,26.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\db\log_writer.h,16,12.0,26.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\table\block.h,14,4.0,26.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\platformstyle.h,14,9.0,26.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\receiverequestdialog.h,11,3.0,26.0
+bitcoin,SVG,D:\clones\bitcoin\src\qt\res\src\qt.svg,0,0.0,26.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\include\secp256k1_ecdh.h,8,29.0,26.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\crypto_aes256cbc.cpp,5,3.0,26.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\decode_tx.cpp,3,3.0,26.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\eval_script.cpp,4,6.0,26.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\protocol.cpp,3,3.0,26.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\secp256k1_ecdsa_signature_parse_der_lax.cpp,4,3.0,26.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\signet.cpp,4,3.0,26.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\fastrange.h,8,17.0,26.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\context.h,8,18.0,26.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_blocksdir.py,7,5.0,26.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_startupnotify.py,11,4.0,26.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_uacomment.py,10,4.0,26.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\p2p_nobloomfilter_messages.py,11,11.0,26.0
+bitcoin,JSON,D:\clones\bitcoin\build_msvc\vcpkg.json,0,0.0,25.0
+bitcoin,make,D:\clones\bitcoin\depends\builders\darwin.mk,2,1.0,25.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\libxcb_util_image.mk,6,0.0,25.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\libxcb_util_keysyms.mk,6,0.0,25.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\libxcb_util_render.mk,6,0.0,25.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\libxcb_util_wm.mk,6,0.0,25.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\libxkbcommon.mk,7,0.0,25.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.17.0.1.md,16,0.0,25.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\bech32.h,13,15.0,25.0
+bitcoin,C++,D:\clones\bitcoin\src\crypto\hmac_sha256.cpp,6,3.0,25.0
+bitcoin,C++,D:\clones\bitcoin\src\crypto\hmac_sha512.cpp,6,3.0,25.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\status_test.cc,11,4.0,25.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\netmessagemaker.h,7,4.0,25.0
+bitcoin,SVG,D:\clones\bitcoin\src\qt\res\src\hd_disabled.svg,0,1.0,25.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\rpc\register.h,5,5.0,25.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\contrib\lax_der_privatekey_parsing.h,9,62.0,25.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\script_bitcoin_consensus.cpp,3,3.0,25.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\script_format.cpp,5,3.0,25.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\tx_in.cpp,5,3.0,25.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\syscall_sandbox.h,8,24.0,25.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_abortnode.py,11,14.0,25.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_dirsymlinks.py,11,5.0,25.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_estimatefee.py,12,15.0,25.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\lint-tests.sh,4,6.0,25.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\txcreatemultisig2.json,0,0.0,25.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\txcreatemultisig3.json,0,0.0,25.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\txcreatemultisig4.json,0,0.0,25.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\txcreatemultisig5.json,0,0.0,25.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\txcreateoutpubkey2.json,0,0.0,25.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\txcreateoutpubkey3.json,0,0.0,25.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\txcreatescript2.json,0,0.0,25.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\txcreatescript3.json,0,0.0,25.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\txcreatescript4.json,0,0.0,25.0
+bitcoin,Markdown,D:\clones\bitcoin\.github\ISSUE_TEMPLATE\bug_report.md,17,0.0,24.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\contrib\qos\tc.sh,10,28.0,24.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\packages.mk,11,0.0,24.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.4.1.md,14,0.0,24.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\bech32.cpp,9,3.0,24.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\clientversion.h,16,11.0,24.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crypto\sha3.h,11,6.0,24.0
+bitcoin,YAML,D:\clones\bitcoin\src\leveldb\.appveyor.yml,6,5.0,24.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\rpc\server_util.h,5,3.0,24.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\descriptor_parse.cpp,3,3.0,24.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\flatfile.cpp,3,3.0,24.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\parse_iso8601.cpp,6,3.0,24.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\parse_numbers.cpp,10,3.0,24.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\random.cpp,4,3.0,24.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_named_arguments.py,7,4.0,24.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\txcreate2.json,0,0.0,24.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\txcreatemultisig1.json,0,0.0,24.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\txcreateoutpubkey1.json,0,0.0,24.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\txcreatescript1.json,0,0.0,24.0
+bitcoin,XML,D:\clones\bitcoin\build_msvc\libsecp256k1\libsecp256k1.vcxproj,0,0.0,23.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\expat.mk,5,0.0,23.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\miniupnpc.mk,4,0.0,23.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\native_clang.mk,2,0.0,23.0
+bitcoin,diff,D:\clones\bitcoin\depends\patches\qt\no-xlib.patch,9,37.0,23.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.4.4.md,7,0.0,23.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\external_signer.h,15,28.0,23.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\index\disktxpos.h,9,3.0,23.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\net_types.h,12,25.0,23.0
+bitcoin,SVG,D:\clones\bitcoin\src\qt\res\src\clock_4.svg,0,0.0,23.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\reverse_iterator.h,8,8.0,23.0
+bitcoin,C++,D:\clones\bitcoin\src\test\util\logging.cpp,5,3.0,23.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\error.h,10,12.0,23.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_syscall_sandbox.py,7,4.0,23.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\build_msvc\libsecp256k1_config.h,5,5.0,22.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\contrib\macdeploy\detached-sig-create.sh,6,3.0,22.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\freetype.mk,5,0.0,22.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crypto\chacha_poly_aead.h,11,113.0,22.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\include\leveldb\export.h,8,3.0,22.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\policy\settings.h,8,5.0,22.0
+bitcoin,C++,D:\clones\bitcoin\src\primitives\block.cpp,4,4.0,22.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\openuridialog.h,11,3.0,22.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\qvaluecombobox.cpp,6,3.0,22.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\crypto_aes256.cpp,5,3.0,22.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\fees.cpp,3,3.0,22.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\timedata.cpp,3,6.0,22.0
+bitcoin,C++,D:\clones\bitcoin\src\test\logging_tests.cpp,8,3.0,22.0
+bitcoin,C++,D:\clones\bitcoin\src\test\main.cpp,6,13.0,22.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\threadinterrupt.h,6,8.0,22.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_reindex.py,7,8.0,22.0
+bitcoin,Python,D:\clones\bitcoin\contrib\filter-lcov.py,4,3.0,21.0
+bitcoin,Markdown,D:\clones\bitcoin\contrib\message-capture\message-capture-docs.md,4,0.0,21.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\xproto.mk,5,0.0,21.0
+bitcoin,make,D:\clones\bitcoin\doc\man\Makefile.am,6,0.0,21.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crypto\hmac_sha256.h,7,4.0,21.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crypto\hmac_sha512.h,7,4.0,21.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crypto\sha256.h,8,12.0,21.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\mapport.h,6,3.0,21.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\node\utxo_snapshot.h,7,10.0,21.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\networkstyle.h,7,5.0,21.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\qvaluecombobox.h,11,5.0,21.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\transactiondesc.h,9,5.0,21.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\selftest.h,6,5.0,21.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\policy_estimator_io.cpp,4,4.0,21.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\spanparsing.cpp,6,3.0,21.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\external_signer_scriptpubkeyman.h,8,6.0,21.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\lint-include-guards.sh,3,6.0,21.0
+bitcoin,make,D:\clones\bitcoin\depends\builders\default.mk,1,0.0,20.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\native_libdmg-hfsplus.mk,4,0.0,20.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.3.13.md,6,0.0,20.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.6.3.md,9,0.0,20.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\consensus\tx_verify.h,14,44.0,20.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\index\txindex.h,12,17.0,20.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\interfaces\handler.h,10,9.0,20.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\db\write_batch_internal.h,15,10.0,20.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\policy\packages.h,10,21.0,20.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\test\optiontests.cpp,4,7.0,20.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\script\sigcache.h,10,8.0,20.0
+bitcoin,C++,D:\clones\bitcoin\src\test\util\blockfilter.cpp,8,3.0,20.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\test\util\logging.h,9,12.0,20.0
+bitcoin,C++,D:\clones\bitcoin\src\test\util\validation.cpp,5,3.0,20.0
+bitcoin,C++,D:\clones\bitcoin\src\test\util\wallet.cpp,7,3.0,20.0
+bitcoin,C++,D:\clones\bitcoin\src\util\thread.cpp,4,3.0,20.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\transaction.cpp,4,3.0,20.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\feature_shutdown.py,6,9.0,20.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\lint-python-utf8-encoding.sh,1,7.0,20.0
+bitcoin,XML,D:\clones\bitcoin\build_msvc\libunivalue\libunivalue.vcxproj,0,0.0,19.0
+bitcoin,Markdown,D:\clones\bitcoin\contrib\builder-keys\README.md,8,0.0,19.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\libnatpmp.mk,3,0.0,19.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\merkle_root.cpp,4,3.0,19.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crypto\sha512.h,6,4.0,19.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crypto\siphash.h,7,21.0,19.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\ipc\protocol.h,10,15.0,19.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\key_io.h,7,4.0,19.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\util\crc32c.h,10,14.0,19.0
+bitcoin,C++,D:\clones\bitcoin\src\node\coin.cpp,3,4.0,19.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\test\util.cpp,3,3.0,19.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\transactiondescdialog.cpp,6,3.0,19.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\transactiondescdialog.h,8,4.0,19.0
+bitcoin,Dockerfile,D:\clones\bitcoin\src\secp256k1\ci\linux-debian.Dockerfile,3,3.0,19.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\ecmult_gen.h,9,8.0,19.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\modinv64.h,10,17.0,19.0
+bitcoin,C++,D:\clones\bitcoin\src\test\policy_fee_tests.cpp,9,6.0,19.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\load.h,12,10.0,19.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\test\wallet_test_fixture.h,7,5.0,19.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_uptime.py,10,6.0,19.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_fallbackfee.py,7,6.0,19.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\lint-shell.sh,6,8.0,19.0
+bitcoin,Markdown,D:\clones\bitcoin\contrib\seeds\README.md,10,0.0,18.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crc32c\src\crc32c_round_up.h,7,9.0,18.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crypto\chacha20.h,7,9.0,18.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crypto\ripemd160.h,6,4.0,18.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crypto\sha1.h,6,4.0,18.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\include\leveldb\comparator.h,14,32.0,18.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\util\mutexlock.h,9,12.0,18.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\node\transaction.h,8,38.0,18.0
+bitcoin,Java,D:\clones\bitcoin\src\qt\android\src\org\bitcoincore\qt\BitcoinQtActivity.java,5,0.0,18.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\bitcoinaddressvalidator.h,9,8.0,18.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\contrib\lax_der_parsing.h,8,71.0,18.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\test\init_test_fixture.h,6,3.0,18.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\lint-assertions.sh,5,11.0,18.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\00_setup_env_native_fuzz_with_msan.sh,3,5.0,17.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\xcb_proto.mk,4,0.0,17.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.5.2.md,5,0.0,17.0
+bitcoin,Markdown,D:\clones\bitcoin\src\crc32c\CONTRIBUTING.md,6,0.0,17.0
+bitcoin,C++,D:\clones\bitcoin\src\crc32c\src\crc32c_read_le_unittest.cc,10,5.0,17.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\ipc\process.h,9,16.0,17.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\db\log_format.h,9,9.0,17.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\include\leveldb\filter_policy.h,12,43.0,17.0
+bitcoin,Markdown,D:\clones\bitcoin\src\node\README.md,4,0.0,17.0
+bitcoin,XML,D:\clones\bitcoin\src\qt\android\res\values\libs.xml,0,0.0,17.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\test\addressbooktests.h,7,3.0,17.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\test\rpcnestedtests.h,7,3.0,17.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\test\wallettests.h,7,3.0,17.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\crypto_hkdf_hmac_sha256_l32.cpp,5,3.0,17.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\test\util\mining.h,8,7.0,17.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\test\wallet_test_fixture.cpp,4,3.0,17.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\test\wallet_transaction_tests.cpp,6,3.0,17.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\wallet_disable.py,6,8.0,17.0
+bitcoin,Markdown,D:\clones\bitcoin\.github\ISSUE_TEMPLATE.md,11,0.0,16.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\00_setup_env_android.sh,5,4.0,16.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\00_setup_env_arm.sh,2,10.0,16.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\00_setup_env_s390x.sh,2,8.0,16.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\contrib\verify-commits\pre-push-hook.sh,2,3.0,16.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\capnp.mk,3,0.0,16.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\native_libtapi.mk,3,0.0,16.0
+bitcoin,diff,D:\clones\bitcoin\depends\patches\qt\fix_limits_header.patch,17,31.0,16.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.8.1.md,6,0.0,16.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\compat\assumptions.h,11,30.0,16.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\deploymentinfo.h,8,5.0,16.0
+bitcoin,C++,D:\clones\bitcoin\src\deploymentstatus.cpp,9,9.0,16.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\util\logging.h,13,16.0,16.0
+bitcoin,Markdown,D:\clones\bitcoin\src\minisketch\doc\protocoltips.md,14,0.0,16.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\node\caches.h,5,3.0,16.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\rpc\rawtransaction_util.h,7,20.0,16.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\modinv32.h,9,17.0,16.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\testrand.h,14,17.0,16.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\signet.h,8,13.0,16.0
+bitcoin,C++,D:\clones\bitcoin\src\test\bswap_tests.cpp,5,3.0,16.0
+bitcoin,JSON,D:\clones\bitcoin\src\test\data\base58_encode_decode.json,0,0.0,16.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\parse_hd_keypath.cpp,4,3.0,16.0
+bitcoin,C++,D:\clones\bitcoin\src\univalue\test\test_json.cpp,3,5.0,16.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\walletinitinterface.h,7,7.0,16.0
+bitcoin,CSV,D:\clones\bitcoin\test\functional\test_framework\bip340_test_vectors.csv,0,0.0,16.0
+bitcoin,Markdown,D:\clones\bitcoin\.github\ISSUE_TEMPLATE\feature_request.md,5,0.0,15.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\00_setup_env_native_msan.sh,3,5.0,15.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\libmultiprocess.mk,3,0.0,15.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\native_capnp.mk,3,0.0,15.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\native_libmultiprocess.mk,3,0.0,15.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.3.20.md,7,0.0,15.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\compat\cpuid.h,5,4.0,15.0
+bitcoin,C++,D:\clones\bitcoin\src\crc32c\src\crc32c_test_main.cc,4,3.0,15.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crypto\hkdf_sha256_32.h,6,4.0,15.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\macdockiconhandler.h,7,5.0,15.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\macos_appnap.h,6,3.0,15.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\peertablesortproxy.h,7,3.0,15.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\test\optiontests.h,7,3.0,15.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\winshutdownmonitor.h,7,5.0,15.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\scratch.h,9,18.0,15.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\test\util\script.h,5,4.0,15.0
+bitcoin,C++,D:\clones\bitcoin\src\test\util\str.cpp,3,3.0,15.0
+bitcoin,C++,D:\clones\bitcoin\src\util\url.cpp,3,3.0,15.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\fees.h,10,23.0,15.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\test\walletdb_tests.cpp,5,11.0,15.0
+bitcoin,Markdown,D:\clones\bitcoin\.github\ISSUE_TEMPLATE\good_first_issue.md,8,0.0,14.0
+bitcoin,XML,D:\clones\bitcoin\build_msvc\common.qt.init.vcxproj,2,0.0,14.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\lint\04_install.sh,4,4.0,14.0
+bitcoin,Python,D:\clones\bitcoin\contrib\devtools\utils.py,2,6.0,14.0
+bitcoin,XML,D:\clones\bitcoin\contrib\init\org.bitcoin.bitcoind.plist,0,0.0,14.0
+bitcoin,diff,D:\clones\bitcoin\depends\patches\systemtap\remove_SDT_ASM_SECTION_AUTOGROUP_SUPPORT_check.patch,5,12.0,14.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.4.3.md,7,0.0,14.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\consensus\consensus.h,7,11.0,14.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\init\common.h,5,9.0,14.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\interfaces\echo.h,6,6.0,14.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\db\builder.h,8,8.0,14.0
+bitcoin,C++,D:\clones\bitcoin\src\node\context.cpp,3,3.0,14.0
+bitcoin,SVG,D:\clones\bitcoin\src\qt\res\src\clock_1.svg,0,1.0,14.0
+bitcoin,SVG,D:\clones\bitcoin\src\qt\res\src\clock_3.svg,0,1.0,14.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\eckey.h,6,5.0,14.0
+bitcoin,C++,D:\clones\bitcoin\src\support\cleanse.cpp,5,16.0,14.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\crypto_poly1305.cpp,5,3.0,14.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\test\util\validation.h,6,5.0,14.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\test\util.h,6,3.0,14.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\lint-all.sh,6,10.0,14.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\lint-logs.sh,1,13.0,14.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\lint-shell-locale.sh,2,9.0,14.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\blanktxv1.json,0,0.0,14.0
+bitcoin,JSON,D:\clones\bitcoin\test\util\data\blanktxv2.json,0,0.0,14.0
+bitcoin,Markdown,D:\clones\bitcoin\SECURITY.md,7,0.0,13.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\00_setup_env_native_fuzz_with_valgrind.sh,2,4.0,13.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\00_setup_env_native_qt5.sh,2,4.0,13.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\wrap-wine.sh,2,5.0,13.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\native_ds_store.mk,2,0.0,13.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\native_mac_alias.mk,2,0.0,13.0
+bitcoin,diff,D:\clones\bitcoin\depends\patches\miniupnpc\dont_leak_info.patch,3,16.0,13.0
+bitcoin,diff,D:\clones\bitcoin\depends\patches\qt\rcc_hardcode_timestamp.patch,4,7.0,13.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\build-android.md,12,0.0,13.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.3.22.md,3,0.0,13.0
+bitcoin,Markdown,D:\clones\bitcoin\share\rpcauth\README.md,5,0.0,13.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crc32c\src\crc32c_arm64.h,10,4.0,13.0
+bitcoin,C++,D:\clones\bitcoin\src\crc32c\src\crc32c_arm64_unittest.cc,8,3.0,13.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crc32c\src\crc32c_sse42.h,10,10.0,13.0
+bitcoin,C++,D:\clones\bitcoin\src\crc32c\src\crc32c_sse42_unittest.cc,8,3.0,13.0
+bitcoin,C++,D:\clones\bitcoin\src\crypto\hkdf_sha256_32.cpp,4,4.0,13.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\coincontroltreewidget.h,6,3.0,13.0
+bitcoin,SVG,D:\clones\bitcoin\src\qt\res\src\clock_0.svg,0,1.0,13.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\ecmult.h,8,29.0,13.0
+bitcoin,JSON,D:\clones\bitcoin\src\test\data\blockfilters.json,0,0.0,13.0
+bitcoin,C++,D:\clones\bitcoin\src\test\sanity_tests.cpp,5,3.0,13.0
+bitcoin,Markdown,D:\clones\bitcoin\src\univalue\README.md,8,0.0,13.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\bytevectorhash.h,5,8.0,13.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\version.h,14,17.0,13.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\dump.h,6,3.0,13.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\autogen.sh,1,3.0,12.0
+bitcoin,m4,D:\clones\bitcoin\build-aux\m4\bitcoin_subdir_to_include.m4,1,5.0,12.0
+bitcoin,XML,D:\clones\bitcoin\build_msvc\common.vcxproj,0,0.0,12.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\00_setup_env_mac.sh,2,4.0,12.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\00_setup_env_native_fuzz.sh,2,4.0,12.0
+bitcoin,Bourne Again Shell,D:\clones\bitcoin\contrib\shell\git-utils.bash,2,0.0,12.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\attributes.h,3,4.0,12.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\examples.cpp,5,4.0,12.0
+bitcoin,C++,D:\clones\bitcoin\src\interfaces\echo.cpp,3,3.0,12.0
+bitcoin,C++,D:\clones\bitcoin\src\interfaces\init.cpp,2,3.0,12.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\db\db_iter.h,8,6.0,12.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\table\two_level_iterator.h,7,12.0,12.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\util\env_posix_test_helper.h,8,8.0,12.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\util\env_windows_test_helper.h,7,6.0,12.0
+bitcoin,Dockerfile,D:\clones\bitcoin\src\minisketch\ci\linux-debian.Dockerfile,3,2.0,12.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\macnotificationhandler.h,7,8.0,12.0
+bitcoin,SVG,D:\clones\bitcoin\src\qt\res\src\clock_2.svg,0,1.0,12.0
+bitcoin,SVG,D:\clones\bitcoin\src\qt\res\src\hd_enabled.svg,0,1.0,12.0
+bitcoin,C++,D:\clones\bitcoin\src\util\bytevectorhash.cpp,3,3.0,12.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\spanparsing.h,10,28.0,12.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\extended-lint-all.sh,4,10.0,12.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\00_setup_env_i686_multiprocess.sh,2,4.0,11.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\00_setup_env_mac_host.sh,2,4.0,11.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\wrap-qemu.sh,2,5.0,11.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\wrap-valgrind.sh,2,5.0,11.0
+bitcoin,Markdown,D:\clones\bitcoin\contrib\init\README.md,1,0.0,11.0
+bitcoin,make,D:\clones\bitcoin\depends\hosts\mingw32.mk,5,0.0,11.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\systemtap.mk,1,0.0,11.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\policy\README.md,4,0.0,11.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.3.20.2.md,6,0.0,11.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.3.21.md,9,0.0,11.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.3.24.md,9,0.0,11.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.8.3.md,7,0.0,11.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\base58.h,8,26.0,11.0
+bitcoin,C++,D:\clones\bitcoin\src\crc32c\src\crc32c_portable_unittest.cc,6,3.0,11.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\ipc\capnp\context.h,4,8.0,11.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\ipc\exception.h,4,5.0,11.0
+bitcoin,YAML,D:\clones\bitcoin\src\leveldb\.clang-format,1,6.0,11.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\include\leveldb\dumpfile.h,7,10.0,11.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\src\minisketch\autogen.sh,1,3.0,11.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\noui.h,8,9.0,11.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\pow.h,7,5.0,11.0
+bitcoin,make,D:\clones\bitcoin\src\qt\Makefile,0,0.0,11.0
+bitcoin,C++,D:\clones\bitcoin\src\qt\main.cpp,6,4.0,11.0
+bitcoin,SVG,D:\clones\bitcoin\src\qt\res\src\mine.svg,0,1.0,11.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\test\uritests.h,5,3.0,11.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\ecdsa.h,5,5.0,11.0
+bitcoin,C++,D:\clones\bitcoin\src\test\fuzz\parse_script.cpp,2,3.0,11.0
+bitcoin,C++,D:\clones\bitcoin\src\util\rbf.cpp,3,3.0,11.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\create_cache.py,7,9.0,11.0
+bitcoin,Python,D:\clones\bitcoin\test\functional\rpc_deprecated.py,4,14.0,11.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\lint-cpp.sh,4,6.0,11.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\lint-python-dead-code.sh,3,8.0,11.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\lint-spelling.sh,3,7.0,11.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\lint-submodule.sh,3,6.0,11.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\00_setup_env_i686_centos.sh,2,4.0,10.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\00_setup_env_native_valgrind.sh,2,4.0,10.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\00_setup_env_win64.sh,2,4.0,10.0
+bitcoin,diff,D:\clones\bitcoin\contrib\guix\patches\nsis-gcc-10-memmove.patch,5,8.0,10.0
+bitcoin,make,D:\clones\bitcoin\depends\hosts\android.mk,1,0.0,10.0
+bitcoin,diff,D:\clones\bitcoin\depends\patches\qt\dont_hardcode_pwd.patch,6,11.0,10.0
+bitcoin,diff,D:\clones\bitcoin\depends\patches\qt\dont_use_avx_android_x86_64.patch,4,18.0,10.0
+bitcoin,diff,D:\clones\bitcoin\depends\patches\qt\fix_montery_include.patch,4,7.0,10.0
+bitcoin,Qt Project,D:\clones\bitcoin\depends\patches\qt\qt.pro,5,1.0,10.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.3.12.md,3,0.0,10.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.3.14.md,1,0.0,10.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.3.18.md,1,0.0,10.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\bench\data.h,6,3.0,10.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\compat\stdin.h,5,3.0,10.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\httprpc.h,5,19.0,10.0
+bitcoin,Markdown,D:\clones\bitcoin\src\interfaces\README.md,9,0.0,10.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\ipc\capnp\protocol.h,4,3.0,10.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\node\coin.h,6,11.0,10.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\node\minisketchwrapper.h,5,5.0,10.0
+bitcoin,SVG,D:\clones\bitcoin\src\qt\res\src\tx_inout.svg,0,1.0,10.0
+bitcoin,Markdown,D:\clones\bitcoin\src\secp256k1\SECURITY.md,5,0.0,10.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\shutdown.h,9,16.0,10.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\test\util\transaction_utils.h,8,11.0,10.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\test\util\wallet.h,9,7.0,10.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\fees.h,4,4.0,10.0
+bitcoin,C++,D:\clones\bitcoin\src\util\hasher.cpp,6,3.0,10.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\salvage.h,5,4.0,10.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\wallettool.h,7,3.0,10.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\lint-qt.sh,4,6.0,10.0
+bitcoin,Markdown,D:\clones\bitcoin\.github\ISSUE_TEMPLATE\gui_issue.md,2,0.0,9.0
+bitcoin,make,D:\clones\bitcoin\depends\packages\boost.mk,1,0.0,9.0
+bitcoin,diff,D:\clones\bitcoin\depends\patches\qt\fix_android_jni_static.patch,2,7.0,9.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\README_doxygen.md,6,0.0,9.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes-24118.md,1,0.0,9.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.3.17.md,3,0.0,9.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\consensus\merkle.h,7,11.0,9.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crc32c\src\crc32c_internal.h,8,6.0,9.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\crypto\poly1305.h,5,3.0,9.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\port\port.h,4,6.0,9.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\table\merger.h,6,11.0,9.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\src\qt\res\animation\makespinner.sh,1,4.0,9.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\src\univalue\autogen.sh,0,0.0,9.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\asmap.h,7,4.0,9.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\bip32.h,5,5.0,9.0
+bitcoin,C++,D:\clones\bitcoin\src\util\getuniquepath.cpp,2,3.0,9.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\moneystr.h,5,11.0,9.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\readwritefile.h,6,13.0,9.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\threadnames.h,7,10.0,9.0
+bitcoin,C++,D:\clones\bitcoin\src\zmq\zmqutil.cpp,4,3.0,9.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\00_setup_env_native_asan.sh,2,4.0,8.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\00_setup_env_native_nowallet_libbitcoinkernel.sh,2,4.0,8.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test\00_setup_env_native_tsan.sh,2,4.0,8.0
+bitcoin,diff,D:\clones\bitcoin\contrib\guix\patches\oscrypto-hard-code-openssl.patch,0,5.0,8.0
+bitcoin,diff,D:\clones\bitcoin\depends\patches\fontconfig\gperf_header_regen.patch,6,10.0,8.0
+bitcoin,diff,D:\clones\bitcoin\depends\patches\zeromq\remove_libstd_link.patch,4,13.0,8.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\consensus\amount.h,6,15.0,8.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\ipc\context.h,3,8.0,8.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\helpers\memenv\memenv.h,7,7.0,8.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\leveldb\util\hash.h,6,5.0,8.0
+bitcoin,SVG,D:\clones\bitcoin\src\qt\res\src\tx_in.svg,0,1.0,8.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\qt\test\util.h,5,9.0,8.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\scalar_4x64.h,5,6.0,8.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\scalar_8x32.h,5,6.0,8.0
+bitcoin,Markdown,D:\clones\bitcoin\src\test\data\README.md,4,0.0,8.0
+bitcoin,Markdown,D:\clones\bitcoin\src\test\util\README.md,3,0.0,8.0
+bitcoin,C++,D:\clones\bitcoin\src\test\util\script.cpp,2,3.0,8.0
+bitcoin,C++,D:\clones\bitcoin\src\util\check.cpp,3,3.0,8.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\ui_change_type.h,3,4.0,8.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\coincontrol.cpp,3,3.0,8.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\wallet\rpc\wallet.h,5,3.0,8.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\warnings.h,5,10.0,8.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\test_run_all.sh,2,4.0,7.0
+bitcoin,diff,D:\clones\bitcoin\depends\patches\qt\qtbase-moc-ignore-gcc-macro.patch,3,7.0,7.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.3.23.md,3,0.0,7.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\data.cpp,4,3.0,7.0
+bitcoin,C++,D:\clones\bitcoin\src\init\bitcoin-wallet.cpp,2,3.0,7.0
+bitcoin,Markdown,D:\clones\bitcoin\src\leveldb\port\README.md,3,0.0,7.0
+bitcoin,C++,D:\clones\bitcoin\src\policy\settings.cpp,3,4.0,7.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\rpc\client.h,6,9.0,7.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\rpc\mempool.h,5,5.0,7.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\basic-config.h,5,5.0,7.0
+bitcoin,C++,D:\clones\bitcoin\src\univalue\test\no_nul.cpp,1,0.0,7.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\macros.h,4,7.0,7.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\overloaded.h,4,11.0,7.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\rbf.h,6,10.0,7.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\thread.h,5,6.0,7.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\url.h,4,3.0,7.0
+bitcoin,diff,D:\clones\bitcoin\depends\patches\qt\fix_no_printer.patch,3,10.0,6.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.3.15.md,0,0.0,6.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.3.19.md,3,0.0,6.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\consensus\tx_check.h,5,9.0,6.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\options.cc,5,3.0,6.0
+bitcoin,make,D:\clones\bitcoin\src\qt\test\Makefile,0,0.0,6.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\randomenv.h,5,6.0,6.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\ecmult_const.h,4,11.0,6.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\scalar_low.h,5,6.0,6.0
+bitcoin,make,D:\clones\bitcoin\src\test\Makefile,0,0.0,6.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\test\util\blockfilter.h,4,3.0,6.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\pass3.json,0,0.0,6.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\serfloat.h,4,6.0,6.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\ci\lint_run_all.sh,2,4.0,5.0
+bitcoin,diff,D:\clones\bitcoin\contrib\guix\patches\elfsteem-value-error-python-39.patch,0,8.0,5.0
+bitcoin,diff,D:\clones\bitcoin\contrib\guix\patches\glibc-ldd-x86_64.patch,1,4.0,5.0
+bitcoin,Markdown,D:\clones\bitcoin\contrib\testgen\README.md,3,0.0,5.0
+bitcoin,make,D:\clones\bitcoin\depends\builders\openbsd.mk,2,0.0,5.0
+bitcoin,Qt Project,D:\clones\bitcoin\depends\patches\qt\qttools_src.pro,1,0.0,5.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes-24198.md,1,0.0,5.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\secp256k1\src\ecmult_gen_prec.h,4,5.0,5.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\support\cleanse.h,4,6.0,5.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\getuniquepath.h,4,10.0,5.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\util\types.h,3,3.0,5.0
+bitcoin,C++,D:\clones\bitcoin\src\wallet\context.cpp,2,3.0,5.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\zmq\zmqrpc.h,4,3.0,5.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\zmq\zmqutil.h,4,3.0,5.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\test\lint\lint-files.sh,2,3.0,5.0
+bitcoin,make,D:\clones\bitcoin\depends\builders\freebsd.mk,1,0.0,4.0
+bitcoin,diff,D:\clones\bitcoin\depends\patches\qt\use_android_ndk23.patch,3,6.0,4.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.19.0.md,2,0.0,4.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\compat\sanity.h,3,3.0,4.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\ipc\capnp\init-types.h,3,3.0,4.0
+bitcoin,C++,D:\clones\bitcoin\src\leveldb\util\filter_policy.cc,4,3.0,4.0
+bitcoin,Properties,D:\clones\bitcoin\src\qt\android\gradle.properties,0,0.0,4.0
+bitcoin,C/C++ Header,D:\clones\bitcoin\src\rpc\mining.h,3,4.0,4.0
+bitcoin,Markdown,D:\clones\bitcoin\contrib\qos\README.md,2,0.0,3.0
+bitcoin,diff,D:\clones\bitcoin\depends\patches\qt\fix_qt_pkgconfig.patch,1,7.0,3.0
+bitcoin,YAML,D:\clones\bitcoin\src\crc32c\.clang-format,0,0.0,3.0
+bitcoin,CMake,D:\clones\bitcoin\src\crc32c\Crc32cConfig.cmake.in,3,3.0,3.0
+bitcoin,Bourne Shell,D:\clones\bitcoin\src\secp256k1\autogen.sh,0,0.0,3.0
+bitcoin,make,D:\clones\bitcoin\depends\builders\linux.mk,0,0.0,2.0
+bitcoin,make,D:\clones\bitcoin\depends\builders\netbsd.mk,0,0.0,2.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\guix.md,1,0.0,2.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes-24494.md,0,0.0,2.0
+bitcoin,YAML,D:\clones\bitcoin\src\.clang-tidy,0,0.0,2.0
+bitcoin,C++,D:\clones\bitcoin\src\bench\nanobench.cpp,1,3.0,2.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail27.json,0,0.0,2.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail28.json,0,0.0,2.0
+bitcoin,Markdown,D:\clones\bitcoin\INSTALL.md,0,0.0,1.0
+bitcoin,DOS Batch,D:\clones\bitcoin\ci\test\wrapped-cl.bat,0,0.0,1.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\assets-attribution.md,0,0.0,1.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.3.16.md,0,0.0,1.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.4.5.md,0,0.0,1.0
+bitcoin,Markdown,D:\clones\bitcoin\doc\release-notes\release-notes-0.6.1.md,1,0.0,1.0
+bitcoin,C++,D:\clones\bitcoin\src\crc32c\src\crc32c_prefetch_unittest.cc,2,6.0,1.0
+bitcoin,CMake,D:\clones\bitcoin\src\leveldb\cmake\leveldbConfig.cmake,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail1.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail10.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail11.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail12.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail13.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail14.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail15.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail16.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail17.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail18.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail19.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail2.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail20.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail21.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail22.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail23.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail24.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail25.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail26.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail29.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail3.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail30.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail31.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail32.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail33.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail34.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail35.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail36.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail37.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail38.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail39.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail4.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail44.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail45.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail5.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail6.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail7.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail8.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\fail9.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\pass2.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\pass4.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\round1.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\round2.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\round3.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\round4.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\round5.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\round6.json,0,0.0,1.0
+bitcoin,JSON,D:\clones\bitcoin\src\univalue\test\round7.json,0,0.0,1.0
+bitcoin,C++,D:\clones\bitcoin\src\util\string.cpp,1,3.0,1.0
+bitcoin,C++,D:\clones\bitcoin\src\test\descriptor_tests.cpp,54,437.0,0.0

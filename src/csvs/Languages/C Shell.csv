@@ -1,0 +1,5 @@
+project,language,filename,blank,comment,code
+git,C Shell,D:\clones\git\contrib\completion\git-completion.tcsh,18,64.0,45.0
+cpython,C Shell,D:\clones\cpython\Lib\venv\scripts\posix\activate.csh,9,5.0,12.0
+XX-Net,C Shell,D:\clones\XX-Net\python3.8.2\Lib\venv\scripts\posix\activate.csh,9,7.0,21.0
+vim,C Shell,D:\clones\vim\runtime\tools\vim132,0,6.0,7.0

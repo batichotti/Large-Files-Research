@@ -1,0 +1,67 @@
+project,language,filename,blank,comment,code
+VVDocumenter-Xcode,XML,D:\clones\VVDocumenter-Xcode\VVDocumenterTests\DocumenterTests\VVMethodTestsCode.plist,33,0.0,743.0
+VVDocumenter-Xcode,XML,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Setting\VVDSettingPanelWindowController.xib,0,0.0,318.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Setting\VVDocumenterSetting.m,42,37.0,232.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Setting\VVDSettingPanelWindowController.m,40,30.0,190.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\OCCategory\NSString+VVTextGetter\NSString+VVTextGetter.m,33,34.0,160.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenterTests\VVTestHelper.m,39,38.0,154.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVBaseCommenter.m,58,155.0,152.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\VVDocumenterManager.m,40,51.0,141.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenterTests\SyntaxTests\SyntaxTests.m,37,27.0,138.0
+VVDocumenter-Xcode,XML,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode.xcodeproj\xcshareddata\xcschemes\VVDocumenter-Xcode.xcscheme,0,0.0,119.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenterTests\CommenterTests\CommenterTests.m,33,27.0,91.0
+VVDocumenter-Xcode,XML,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode.xcodeproj\xcshareddata\xcschemes\VVDocumenterTests.xcscheme,0,0.0,81.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\ProjectHelper\VVProject.m,26,25.0,79.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVSwiftFunctionCommenter.m,14,25.0,74.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\OCCategory\NSString+VVSyntax\NSString+VVSyntax.m,17,29.0,72.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\OCCategory\NSString+PDRegex\NSString+PDRegex.m,17,8.0,71.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\VVDocumenter.m,14,27.0,71.0
+VVDocumenter-Xcode,XML,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\VVDocumenter-Xcode-Info.plist,0,0.0,64.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\KeyboardHelper\VVKeyboardEventSender.m,9,25.0,57.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenterTests\VVDocumenterTests.m,15,27.0,47.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVEnumCommenter.m,13,34.0,41.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVArgument.m,7,25.0,36.0
+VVDocumenter-Xcode,Markdown,D:\clones\VVDocumenter-Xcode\README.md,32,0.0,35.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\OCCategory\NSTextView+VVTextGetter\NSTextView+VVTextGetter.m,9,25.0,33.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVFunctionCommenter.m,8,26.0,31.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVMethodCommenter.m,8,25.0,31.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVSwiftEnumCommenter.m,5,25.0,30.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Setting\VVDocumenterSetting.h,5,25.0,30.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\ProjectHelper\VVWorkspaceManager.m,9,25.0,27.0
+VVDocumenter-Xcode,XML,D:\clones\VVDocumenter-Xcode\VVDocumenterTests\VVDocumenterTests-Info.plist,0,0.0,22.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVBaseCommenter.h,10,26.0,21.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVMacroCommenter.m,7,25.0,20.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\OCCategory\NSString+VVSyntax\NSString+VVSyntax.h,4,25.0,17.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVCommenter.h,3,25.0,16.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\OCCategory\VVTextResult.m,6,25.0,16.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\OCCategory\NSString+VVTextGetter\NSString+VVTextGetter.h,10,25.0,15.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVSwiftExtensionCommenter.m,3,25.0,12.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\KeyboardHelper\VVKeyboardEventSender.h,3,25.0,12.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\OCCategory\NSTextView+VVTextGetter\NSTextView+VVTextGetter.h,9,25.0,11.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\ProjectHelper\VVProject.h,12,25.0,11.0
+VVDocumenter-Xcode,XML,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode.xcodeproj\project.xcworkspace\xcuserdata\onevcat.xcuserdatad\WorkspaceSettings.xcsettings,0,0.0,10.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\OCCategory\NSString+PDRegex\NSString+PDRegex.h,4,7.0,10.0
+VVDocumenter-Xcode,XML,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVSwiftPropertyCommenter.m,4,25.0,7.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenterTests\VVTestHelper.h,3,25.0,7.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\OCCategory\VVTextResult.h,5,25.0,6.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\ProjectHelper\VVWorkspaceManager.h,5,25.0,6.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\VVDocumenter.h,2,25.0,6.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVArgument.h,3,25.0,5.0
+VVDocumenter-Xcode,YAML,D:\clones\VVDocumenter-Xcode\.travis.yml,0,0.0,3.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVEnumCommenter.h,3,25.0,3.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVFunctionCommenter.h,3,25.0,3.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVMacroCommenter.h,3,25.0,3.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVMethodCommenter.h,3,25.0,3.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVPropertyCommenter.h,3,25.0,3.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVPropertyCommenter.m,3,25.0,3.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVStructCommenter.h,3,25.0,3.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVStructCommenter.m,3,25.0,3.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVSwiftEnumCommenter.h,3,25.0,3.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVSwiftExtensionCommenter.h,3,25.0,3.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVSwiftFunctionCommenter.h,3,25.0,3.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVSwiftPropertyCommenter.h,3,25.0,3.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVVariableCommenter.h,3,25.0,3.0
+VVDocumenter-Xcode,Objective-C,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Commenter\VVVariableCommenter.m,3,25.0,3.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\Setting\VVDSettingPanelWindowController.h,3,25.0,3.0
+VVDocumenter-Xcode,C/C++ Header,D:\clones\VVDocumenter-Xcode\VVDocumenter-Xcode\VVDocumenterManager.h,3,25.0,3.0

@@ -1,0 +1,221 @@
+project,language,filename,blank,comment,code
+masscan,C,D:\clones\masscan\src\main-conf.c,319,291.0,2748.0
+masscan,C,D:\clones\masscan\src\proto-ssl-test.c,10,9.0,2413.0
+masscan,C,D:\clones\masscan\src\proto-smb.c,187,291.0,1611.0
+masscan,C,D:\clones\masscan\src\proto-tcp.c,232,318.0,1148.0
+masscan,C,D:\clones\masscan\src\main.c,269,466.0,1118.0
+masscan,C,D:\clones\masscan\src\templ-pkt.c,193,251.0,1097.0
+masscan,C,D:\clones\masscan\src\massip-parse.c,103,165.0,1037.0
+masscan,C,D:\clones\masscan\src\smack1.c,312,519.0,959.0
+masscan,C,D:\clones\masscan\src\proto-ssl.c,172,353.0,920.0
+masscan,C,D:\clones\masscan\src\proto-x509.c,132,386.0,874.0
+masscan,C,D:\clones\masscan\src\read-service-probes.c,147,183.0,828.0
+masscan,C,D:\clones\masscan\src\massip-rangesv4.c,207,292.0,752.0
+masscan,C,D:\clones\masscan\src\proto-http.c,118,137.0,692.0
+masscan,XML,D:\clones\masscan\vs10\masscan.vcxproj.filters,0,0.0,672.0
+masscan,C,D:\clones\masscan\src\rawsock.c,145,196.0,664.0
+masscan,C,D:\clones\masscan\src\output.c,131,210.0,642.0
+masscan,C,D:\clones\masscan\src\rand-primegen.c,94,20.0,602.0
+masscan,C,D:\clones\masscan\src\templ-payloads.c,122,149.0,593.0
+masscan,C,D:\clones\masscan\src\rawsock-pcapfile.c,140,223.0,570.0
+masscan,C,D:\clones\masscan\src\proto-coap.c,78,140.0,515.0
+masscan,C,D:\clones\masscan\src\massip-rangesv6.c,137,94.0,490.0
+masscan,C,D:\clones\masscan\src\proto-snmp.c,110,125.0,486.0
+masscan,C,D:\clones\masscan\src\in-binary.c,86,121.0,474.0
+masscan,C,D:\clones\masscan\src\proto-banner1.c,75,50.0,456.0
+masscan,C,D:\clones\masscan\src\proto-preprocess.c,96,86.0,447.0
+masscan,C,D:\clones\masscan\src\crypto-blackrock2.c,78,65.0,430.0
+masscan,Markdown,D:\clones\masscan\README.md,175,0.0,426.0
+masscan,C/C++ Header,D:\clones\masscan\src\rte-ring.h,91,629.0,413.0
+masscan,XML,D:\clones\masscan\vs10\masscan.vcxproj,0,0.0,380.0
+masscan,C,D:\clones\masscan\src\rawsock-getroute.c,85,102.0,374.0
+masscan,Markdown,D:\clones\masscan\doc\masscan.8.markdown,125,0.0,359.0
+masscan,C,D:\clones\masscan\src\stub-pcap.c,64,36.0,357.0
+masscan,C,D:\clones\masscan\src\stack-ndpv6.c,69,65.0,353.0
+masscan,C,D:\clones\masscan\src\proto-banout.c,79,84.0,339.0
+masscan,C,D:\clones\masscan\src\rawsock-getif.c,81,76.0,329.0
+masscan,C,D:\clones\masscan\src\proto-tcp-telnet.c,21,57.0,325.0
+masscan,C,D:\clones\masscan\src\proto-memcached.c,51,60.0,324.0
+masscan,C,D:\clones\masscan\src\in-report.c,64,26.0,307.0
+masscan,C,D:\clones\masscan\src\proto-vnc.c,24,37.0,303.0
+masscan,C,D:\clones\masscan\src\proto-tcp-rdp.c,32,46.0,302.0
+masscan,C,D:\clones\masscan\src\main-dedup.c,64,123.0,279.0
+masscan,C,D:\clones\masscan\src\out-binary.c,63,29.0,277.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-banner1.h,47,31.0,265.0
+masscan,C,D:\clones\masscan\src\proto-dns.c,57,131.0,263.0
+masscan,C,D:\clones\masscan\src\rand-blackrock.c,68,89.0,263.0
+masscan,JavaScript,D:\clones\masscan\doc\algorithm.js,76,94.0,256.0
+masscan,C,D:\clones\masscan\src\out-redis.c,39,40.0,250.0
+masscan,C,D:\clones\masscan\src\rte-ring.c,58,100.0,238.0
+masscan,C/C++ Header,D:\clones\masscan\src\masscan.h,87,224.0,227.0
+masscan,C,D:\clones\masscan\src\proto-ntp.c,49,31.0,219.0
+masscan,C,D:\clones\masscan\src\stack-arpv4.c,63,83.0,216.0
+masscan,C,D:\clones\masscan\src\proto-zeroaccess.c,53,47.0,206.0
+masscan,C,D:\clones\masscan\src\pixie-timer.c,45,28.0,205.0
+masscan,C,D:\clones\masscan\src\siphash24.c,24,24.0,204.0
+masscan,C,D:\clones\masscan\src\main-status.c,27,69.0,196.0
+masscan,C,D:\clones\masscan\src\massip-addr.c,49,41.0,194.0
+masscan,C,D:\clones\masscan\src\proto-imap4.c,18,15.0,187.0
+masscan,C,D:\clones\masscan\src\rawsock-getip6.c,44,41.0,180.0
+masscan,C,D:\clones\masscan\src\util-checksum.c,30,51.0,178.0
+masscan,C,D:\clones\masscan\src\rand-lcg.c,58,155.0,177.0
+masscan,C,D:\clones\masscan\src\main-initadapter.c,25,70.0,174.0
+masscan,C,D:\clones\masscan\src\crypto-base64.c,26,27.0,172.0
+masscan,C,D:\clones\masscan\src\pixie-threads.c,21,24.0,172.0
+masscan,C,D:\clones\masscan\src\proto-sctp.c,29,17.0,163.0
+masscan,C,D:\clones\masscan\src\pixie-backtrace.c,39,15.0,162.0
+masscan,C,D:\clones\masscan\src\proto-smtp.c,21,24.0,151.0
+masscan,C,D:\clones\masscan\src\rawsock-getmac.c,37,34.0,151.0
+masscan,C,D:\clones\masscan\src\proto-pop3.c,19,12.0,148.0
+masscan,C,D:\clones\masscan\src\proto-icmp.c,25,19.0,146.0
+masscan,C,D:\clones\masscan\src\out-grepable.c,42,31.0,144.0
+masscan,C,D:\clones\masscan\src\misc-rstfilter.c,35,20.0,139.0
+masscan,C,D:\clones\masscan\src\proto-ntlmssp.c,37,97.0,136.0
+masscan,C,D:\clones\masscan\src\rawsock-getip.c,30,30.0,134.0
+masscan,C,D:\clones\masscan\src\xring.c,42,36.0,132.0
+masscan,C/C++ Header,D:\clones\masscan\src\output.h,23,40.0,131.0
+masscan,C/C++ Header,D:\clones\masscan\src\stub-pcap.h,35,56.0,131.0
+masscan,C,D:\clones\masscan\src\syn-cookie.c,22,20.0,130.0
+masscan,C,D:\clones\masscan\src\proto-netbios.c,29,11.0,129.0
+masscan,C,D:\clones\masscan\src\proto-ftp.c,14,10.0,126.0
+masscan,C,D:\clones\masscan\src\scripting-banner.c,23,26.0,125.0
+masscan,C,D:\clones\masscan\src\massip.c,21,9.0,122.0
+masscan,C,D:\clones\masscan\src\stub-lua.c,13,1.0,115.0
+masscan,C/C++ Header,D:\clones\masscan\src\stub-lua.h,14,9.0,115.0
+masscan,C,D:\clones\masscan\src\out-xml.c,17,11.0,114.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-tcp.h,19,41.0,103.0
+masscan,C,D:\clones\masscan\src\out-json.c,21,22.0,102.0
+masscan,Markdown,D:\clones\masscan\doc\howto-afl.md,50,0.0,101.0
+masscan,C/C++ Header,D:\clones\masscan\src\massip-addr.h,19,39.0,100.0
+masscan,C/C++ Header,D:\clones\masscan\src\templ-pkt.h,16,79.0,97.0
+masscan,C,D:\clones\masscan\src\main-ptrace.c,10,5.0,94.0
+masscan,C,D:\clones\masscan\src\out-ndjson.c,20,49.0,94.0
+masscan,C,D:\clones\masscan\src\masscan-app.c,5,6.0,90.0
+masscan,C,D:\clones\masscan\src\string_s.c,18,19.0,88.0
+masscan,C,D:\clones\masscan\src\proto-udp.c,12,11.0,86.0
+masscan,C,D:\clones\masscan\src\out-tcp-services.c,24,9.0,84.0
+masscan,make,D:\clones\masscan\Makefile,25,28.0,78.0
+masscan,C,D:\clones\masscan\src\stack-queue.c,19,33.0,78.0
+masscan,C,D:\clones\masscan\src\main-readrange.c,14,7.0,77.0
+masscan,C/C++ Header,D:\clones\masscan\src\read-service-probes.h,14,18.0,77.0
+masscan,C/C++ Header,D:\clones\masscan\src\string_s.h,25,12.0,77.0
+masscan,C/C++ Header,D:\clones\masscan\src\stub-pfring.h,6,13.0,76.0
+masscan,C,D:\clones\masscan\src\util-malloc.c,21,21.0,76.0
+masscan,C,D:\clones\masscan\src\stub-pfring.c,19,12.0,75.0
+masscan,C,D:\clones\masscan\src\out-unicornscan.c,18,5.0,72.0
+masscan,C,D:\clones\masscan\src\smackqueue.c,11,7.0,72.0
+masscan,C,D:\clones\masscan\src\out-certs.c,12,12.0,68.0
+masscan,C,D:\clones\masscan\src\versioning.c,16,16.0,67.0
+masscan,C,D:\clones\masscan\src\out-text.c,16,10.0,62.0
+masscan,C,D:\clones\masscan\src\vulncheck-heartbleed.c,6,2.0,62.0
+masscan,C,D:\clones\masscan\src\vulncheck-ntp-monlist.c,11,6.0,62.0
+masscan,C,D:\clones\masscan\src\out-hostonly.c,17,4.0,60.0
+masscan,C/C++ Header,D:\clones\masscan\src\smack.h,24,72.0,59.0
+masscan,C,D:\clones\masscan\src\event-timeout.c,31,75.0,58.0
+masscan,C,D:\clones\masscan\src\main-throttle.c,29,76.0,58.0
+masscan,C/C++ Header,D:\clones\masscan\src\rawsock.h,21,79.0,57.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-preprocess.h,6,4.0,55.0
+masscan,C,D:\clones\masscan\src\proto-ssh.c,8,8.0,54.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-x509.h,15,39.0,54.0
+masscan,C,D:\clones\masscan\src\out-null.c,9,23.0,53.0
+masscan,C,D:\clones\masscan\src\main-listscan.c,14,9.0,49.0
+masscan,C/C++ Header,D:\clones\masscan\src\massip-rangesv4.h,26,129.0,49.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-banout.h,19,73.0,49.0
+masscan,C,D:\clones\masscan\src\scripting-masscan.c,20,26.0,47.0
+masscan,C/C++ Header,D:\clones\masscan\src\event-timeout.h,13,62.0,46.0
+masscan,C/C++ Header,D:\clones\masscan\src\massip-rangesv6.h,24,118.0,46.0
+masscan,C,D:\clones\masscan\src\logger.c,13,17.0,45.0
+masscan,C/C++ Header,D:\clones\masscan\src\templ-payloads.h,17,52.0,45.0
+masscan,C,D:\clones\masscan\src\pixie-file.c,10,13.0,44.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-dns-parse.h,6,1.0,44.0
+masscan,C/C++ Header,D:\clones\masscan\src\masscan-app.h,5,4.0,41.0
+masscan,C/C++ Header,D:\clones\masscan\src\rawsock-pcapfile.h,12,13.0,41.0
+masscan,C,D:\clones\masscan\src\scripting.c,12,22.0,41.0
+masscan,Markdown,D:\clones\masscan\VULNINFO.md,29,0.0,40.0
+masscan,C/C++ Header,D:\clones\masscan\src\pixie-threads.h,11,9.0,40.0
+masscan,C/C++ Header,D:\clones\masscan\src\rand-blackrock.h,8,36.0,35.0
+masscan,C/C++ Header,D:\clones\masscan\src\stack-queue.h,8,9.0,31.0
+masscan,C,D:\clones\masscan\src\proto-arp.c,9,3.0,29.0
+masscan,C/C++ Header,D:\clones\masscan\src\massip.h,19,55.0,27.0
+masscan,C/C++ Header,D:\clones\masscan\src\main-status.h,8,0.0,25.0
+masscan,C,D:\clones\masscan\src\proto-interactive.c,5,11.0,25.0
+masscan,C/C++ Header,D:\clones\masscan\src\stack-src.h,6,4.0,25.0
+masscan,Visual Studio Solution,D:\clones\masscan\vs10\masscan.sln,1,1.0,24.0
+masscan,C/C++ Header,D:\clones\masscan\src\masscan-status.h,6,0.0,23.0
+masscan,C/C++ Header,D:\clones\masscan\src\massip-parse.h,15,35.0,22.0
+masscan,C,D:\clones\masscan\src\in-filter.c,3,0.0,21.0
+masscan,C/C++ Header,D:\clones\masscan\src\vulncheck.h,9,23.0,21.0
+masscan,Markdown,D:\clones\masscan\doc\faq\FAQ0004-serverlogs.md,8,0.0,20.0
+masscan,C/C++ Header,D:\clones\masscan\src\rand-primegen.h,6,18.0,20.0
+masscan,C,D:\clones\masscan\src\stack-src.c,3,0.0,20.0
+masscan,Markdown,D:\clones\masscan\doc\faq\FAQ0001-slow.md,10,0.0,19.0
+masscan,Markdown,D:\clones\masscan\doc\faq\FAQ0002-drops.md,12,0.0,19.0
+masscan,C/C++ Header,D:\clones\masscan\src\main-throttle.h,8,0.0,19.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-interactive.h,5,9.0,19.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-ntlmssp.h,6,0.0,19.0
+masscan,C/C++ Header,D:\clones\masscan\src\syn-cookie.h,7,7.0,18.0
+masscan,C/C++ Header,D:\clones\masscan\src\massip-port.h,3,7.0,17.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-coap.h,5,9.0,17.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-sctp.h,6,7.0,17.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-udp.h,4,10.0,17.0
+masscan,C,D:\clones\masscan\src\vulncheck-sslv3.c,4,0.0,17.0
+masscan,Markdown,D:\clones\masscan\doc\faq\FAQ0003-excludelist.md,9,0.0,16.0
+masscan,C/C++ Header,D:\clones\masscan\src\out-record.h,2,0.0,16.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-spnego.h,7,5.0,16.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-zeroaccess.h,5,5.0,16.0
+masscan,C/C++ Header,D:\clones\masscan\src\rawsock-adapter.h,4,6.0,16.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-memcached.h,4,9.0,15.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-ntp.h,4,11.0,15.0
+masscan,C,D:\clones\masscan\src\proto-oproto.c,1,0.0,15.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-snmp.h,4,8.0,15.0
+masscan,C/C++ Header,D:\clones\masscan\src\stack-ndpv6.h,6,16.0,15.0
+masscan,C/C++ Header,D:\clones\masscan\src\util-malloc.h,9,6.0,15.0
+masscan,YAML,D:\clones\masscan\.travis.yml,6,4.0,14.0
+masscan,C/C++ Header,D:\clones\masscan\src\misc-rstfilter.h,11,35.0,14.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-http.h,7,14.0,14.0
+masscan,C/C++ Header,D:\clones\masscan\src\in-report.h,7,0.0,13.0
+masscan,C/C++ Header,D:\clones\masscan\src\main-dedup.h,6,4.0,13.0
+masscan,C/C++ Header,D:\clones\masscan\src\smackqueue.h,11,0.0,13.0
+masscan,C/C++ Header,D:\clones\masscan\src\pixie-file.h,3,4.0,12.0
+masscan,C/C++ Header,D:\clones\masscan\src\pixie-sockets.h,2,0.0,12.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-oproto.h,4,9.0,12.0
+masscan,C/C++ Header,D:\clones\masscan\src\stack-arpv4.h,3,22.0,12.0
+masscan,HTML,D:\clones\masscan\doc\bot.html,6,0.0,11.0
+masscan,C/C++ Header,D:\clones\masscan\src\in-filter.h,4,7.0,11.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-icmp.h,2,0.0,11.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-netbios.h,2,0.0,11.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-ssl.h,7,13.0,11.0
+masscan,C,D:\clones\masscan\src\stack-if.c,1,2.0,11.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-dns.h,3,0.0,10.0
+masscan,C/C++ Header,D:\clones\masscan\src\rand-lcg.h,5,5.0,10.0
+masscan,C,D:\clones\masscan\src\vulncheck.c,4,0.0,10.0
+masscan,C/C++ Header,D:\clones\masscan\src\pixie-timer.h,9,17.0,9.0
+masscan,C/C++ Header,D:\clones\masscan\src\util-checksum.h,6,34.0,9.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-arp.h,3,0.0,8.0
+masscan,C/C++ Header,D:\clones\masscan\src\scripting.h,5,10.0,8.0
+masscan,C/C++ Header,D:\clones\masscan\src\siphash24.h,4,5.0,8.0
+masscan,C/C++ Header,D:\clones\masscan\src\stub-pcap-dlt.h,5,6.0,8.0
+masscan,C/C++ Header,D:\clones\masscan\src\util-bool.h,2,0.0,8.0
+masscan,Markdown,D:\clones\masscan\doc\faq\README.md,2,0.0,7.0
+masscan,C/C++ Header,D:\clones\masscan\src\crypto-base64.h,3,0.0,7.0
+masscan,C/C++ Header,D:\clones\masscan\src\in-binary.h,3,6.0,7.0
+masscan,C/C++ Header,D:\clones\masscan\src\logger.h,3,0.0,7.0
+masscan,C/C++ Header,D:\clones\masscan\src\main-globals.h,3,0.0,7.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-smb.h,3,7.0,7.0
+masscan,C/C++ Header,D:\clones\masscan\src\unusedparm.h,0,0.0,7.0
+masscan,C/C++ Header,D:\clones\masscan\src\main-ptrace.h,4,0.0,6.0
+masscan,C/C++ Header,D:\clones\masscan\src\main-readrange.h,2,0.0,6.0
+masscan,C/C++ Header,D:\clones\masscan\src\out-tcp-services.h,3,0.0,6.0
+masscan,make,D:\clones\masscan\debian\rules,3,8.0,5.0
+masscan,C/C++ Header,D:\clones\masscan\src\pixie-backtrace.h,3,6.0,5.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-ftp.h,2,0.0,5.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-imap4.h,2,0.0,5.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-pop3.h,2,0.0,5.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-smtp.h,2,0.0,5.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-ssh.h,2,0.0,5.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-tcp-rdp.h,3,0.0,5.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-tcp-telnet.h,2,0.0,5.0
+masscan,C/C++ Header,D:\clones\masscan\src\proto-vnc.h,3,0.0,5.0
+masscan,C/C++ Header,D:\clones\masscan\src\versioning.h,4,0.0,5.0
+masscan,C/C++ Header,D:\clones\masscan\src\xring.h,3,0.0,4.0
+masscan,C/C++ Header,D:\clones\masscan\src\masscan-version.h,3,0.0,3.0

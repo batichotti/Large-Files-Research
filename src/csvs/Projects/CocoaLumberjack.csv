@@ -1,0 +1,390 @@
+project,language,filename,blank,comment,code
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\RegisteredDynamicLogging\Desktop\RegisteredLoggingTest\en.lproj\MainMenu.xib,0,0.0,5627.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaAsyncSocket\GCDAsyncSocket.m,1574,961.0,4886.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\PerUserLogLevels\PerUserLogLevels\en.lproj\MainMenu.xib,0,0.0,4587.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\TestXcodeColors\Desktop\TestXcodeColors\en.lproj\MainMenu.xib,0,0.0,4587.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\Benchmark\Desktop\BenchmarkMac\en.lproj\MainMenu.xib,0,0.0,4582.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\DispatchQueueLogger\DispatchQueueLogger\en.lproj\MainMenu.xib,0,0.0,4582.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\NonArcTest\NonArcTest\en.lproj\MainMenu.xib,0,0.0,4582.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\ContextFilter\English.lproj\MainMenu.xib,0,0.0,4119.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\CoreDataLogger\CoreDataLogger\en.lproj\MainMenu.xib,0,0.0,4119.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\CustomFormatters\English.lproj\MainMenu.xib,0,0.0,4119.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\CustomLogLevels\English.lproj\MainMenu.xib,0,0.0,4119.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\FineGrainedLogging\English.lproj\MainMenu.xib,0,0.0,4119.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\GlobalLogLevel\English.lproj\MainMenu.xib,0,0.0,4119.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\LogFileCompressor\English.lproj\MainMenu.xib,0,0.0,4119.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\OverflowTestMac\English.lproj\MainMenu.xib,0,0.0,4119.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\RollingTestMac\English.lproj\MainMenu.xib,0,0.0,4119.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\SQLiteLogger\SQLiteLogger\en.lproj\MainMenu.xib,0,0.0,4119.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\HTTPConnection.m,522,779.0,1427.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\DDFileLogger.m,380,206.0,1236.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\DDTTYLogger.m,313,200.0,983.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\DDLog.m,253,244.0,827.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\SQLiteLogger\FMDB\FMDatabase.m,186,15.0,618.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\WebSocket.m,156,152.0,508.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\HTTPServer.m,189,147.0,461.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\RegisteredDynamicLogging\Mobile\RegisteredLoggingTest\en.lproj\MainWindow.xib,0,0.0,444.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\UniversalApp\MainWindow.xib,0,0.0,444.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\CHANGELOG.md,164,0.0,414.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\DDAbstractDatabaseLogger.m,135,162.0,386.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Mime\MultipartFormDataParser.m,84,72.0,373.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\SQLiteLogger\FMDB\FMResultSet.m,113,11.0,281.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Benchmarking\PerformanceTesting.m,73,80.0,266.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Responses\HTTPAsyncFileResponse.m,110,60.0,261.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\Documentation\CustomFormatters.md,72,0.0,233.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\CoreDataLogger\CoreDataLogger\CoreDataLogger.m,65,22.0,231.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\LogFileCompressor\CompressingLogFileManager.m,126,144.0,230.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\Benchmark\Mobile\MainWindow.xib,0,0.0,219.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\MainWindow.xib,0,0.0,219.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Tests\CocoaLumberjackTests\DDFileLoggerTests.m,64,18.0,214.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Tests\CocoaLumberjackTests\DDLogMessageTests.m,33,16.0,214.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\include\CocoaLumberjack\DDLog.h,103,611.0,213.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\README.md,88,0.0,211.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Tests\CocoaLumberjackTests\DDBasicLoggingTests.m,68,14.0,201.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaAsyncSocket\GCDAsyncSocket.h,103,771.0,200.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\TestXcodeColors\Mobile\TextXcodeColors\en.lproj\ViewController.xib,0,0.0,199.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\Extensions\DDDispatchQueueLogFormatter.m,59,30.0,180.0
+CocoaLumberjack,Swift,D:\clones\CocoaLumberjack\Sources\CocoaLumberjackSwiftLogBackend\DDLogHandler.swift,20,58.0,176.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\SQLiteLogger\FMDBLogger.m,58,39.0,172.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\RegisteredDynamicLogging\Mobile\RegisteredLoggingTest\en.lproj\RegisteredLoggingTestViewController.xib,0,0.0,156.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\UniversalApp\UniversalAppViewController.xib,0,0.0,156.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Responses\HTTPFileResponse.m,62,20.0,155.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\Benchmark\Mobile\BenchmarkIPhoneViewController.xib,0,0.0,151.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Mime\MultipartMessageHeaderField.m,36,24.0,151.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Responses\HTTPDynamicFileResponse.m,70,71.0,151.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\WebServerIPhoneViewController.xib,0,0.0,151.0
+CocoaLumberjack,Swift,D:\clones\CocoaLumberjack\Sources\CocoaLumberjackSwift\CocoaLumberjack.swift,17,27.0,149.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Classes\MyHTTPConnection.m,45,62.0,147.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\Documentation\GettingStarted.md,71,0.0,144.0
+CocoaLumberjack,Swift,D:\clones\CocoaLumberjack\Tests\CocoaLumberjackSwiftLogBackendTests\DDLogHandlerTests.swift,15,17.0,141.0
+CocoaLumberjack,Swift,D:\clones\CocoaLumberjack\Dangerfile.swift,18,54.0,135.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\Extensions\DDFileLogger+Buffering.m,46,23.0,135.0
+CocoaLumberjack,JavaScript,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Web\jquery-1.4.2.min.js,0,20.0,134.0
+CocoaLumberjack,Swift,D:\clones\CocoaLumberjack\Tests\CocoaLumberjackSwiftTests\DDLogCombineTests.swift,36,16.0,134.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\HTTPAuthenticationRequest.m,34,29.0,132.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\Documentation\CustomLogLevels.md,33,0.0,131.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\DDASLLogCapture.m,40,36.0,129.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Tests\CocoaLumberjackTests\DDFileLoggerPerformanceTests.m,44,32.0,128.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Categories\DDData.m,32,0.0,126.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\Extensions\DDContextFilterLogFormatter.m,43,18.0,124.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\CaptureASL\CaptureASL\Main.storyboard,0,1.0,119.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Integration\Integration.xcodeproj\xcshareddata\xcschemes\watchOSSwiftIntegration (Notification).xcscheme,0,0.0,118.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\Documentation\CustomLoggers.md,37,0.0,116.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Integration\Integration.xcodeproj\xcshareddata\xcschemes\watchOSSwiftIntegration.xcscheme,0,0.0,116.0
+CocoaLumberjack,HTML,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Web\socket.html,33,0.0,113.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\CaptureASL\CaptureASL.xcodeproj\xcshareddata\xcschemes\CaptureASL.xcscheme,0,0.0,103.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Tests\CocoaLumberjackTests\DDSMocking.m,29,14.0,102.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\TestXcodeColors\Mobile\TextXcodeColors.xcodeproj\xcshareddata\xcschemes\TextXcodeColors (Mobile).xcscheme,0,0.0,100.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Benchmarking\Benchmarking.xcodeproj\xcshareddata\xcschemes\Benchmarking.xcscheme,0,0.0,93.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\Benchmark\Desktop\BenchmarkMac.xcodeproj\xcshareddata\xcschemes\BenchmarkMac.xcscheme,0,0.0,93.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\CLI\CLI.xcodeproj\xcshareddata\xcschemes\CLI.xcscheme,0,0.0,93.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\ContextFilter\ContextFilter.xcodeproj\xcshareddata\xcschemes\ContextFilter.xcscheme,0,0.0,93.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\CoreDataLogger\CoreDataLogger.xcodeproj\xcshareddata\xcschemes\CoreDataLogger.xcscheme,0,0.0,93.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\CustomFormatters\CustomFormatters.xcodeproj\xcshareddata\xcschemes\CustomFormatters.xcscheme,0,0.0,93.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\CustomLogLevels\CustomLogLevels.xcodeproj\xcshareddata\xcschemes\CustomLogLevels.xcscheme,0,0.0,93.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\DispatchQueueLogger\DispatchQueueLogger.xcodeproj\xcshareddata\xcschemes\DispatchQueueLogger.xcscheme,0,0.0,93.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\FineGrainedLogging\FineGrainedLogging.xcodeproj\xcshareddata\xcschemes\FineGrainedLogging.xcscheme,0,0.0,93.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\GlobalLogLevel\GlobalLogLevel.xcodeproj\xcshareddata\xcschemes\GlobalLogLevel.xcscheme,0,0.0,93.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\LogFileCompressor\LogFileCompressor.xcodeproj\xcshareddata\xcschemes\LogFileCompressor.xcscheme,0,0.0,93.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\NonArcTest\NonArcTest.xcodeproj\xcshareddata\xcschemes\NonArcTest.xcscheme,0,0.0,93.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\OverflowTestMac\OverflowTestMac.xcodeproj\xcshareddata\xcschemes\OverflowTestMac.xcscheme,0,0.0,93.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\PerUserLogLevels\PerUserLogLevels.xcodeproj\xcshareddata\xcschemes\PerUserLogLevels.xcscheme,0,0.0,93.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\RegisteredDynamicLogging\Desktop\RegisteredLoggingTest.xcodeproj\xcshareddata\xcschemes\RegisteredLoggingTest (Desktop).xcscheme,0,0.0,93.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\RegisteredDynamicLogging\Mobile\RegisteredLoggingTest.xcodeproj\xcshareddata\xcschemes\RegisteredLoggingTest (Mobile).xcscheme,0,0.0,93.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\RollingTestMac\RollingTestMac.xcodeproj\xcshareddata\xcschemes\RollingTestMac.xcscheme,0,0.0,93.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\SQLiteLogger\SQLiteLogger.xcodeproj\xcshareddata\xcschemes\SQLiteLogger.xcscheme,0,0.0,93.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\TestXcodeColors\Desktop\TestXcodeColors.xcodeproj\xcshareddata\xcschemes\TestXcodeColors (Desktop).xcscheme,0,0.0,93.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\UniversalApp\UniversalApp.xcodeproj\xcshareddata\xcschemes\UniversalApp.xcscheme,0,0.0,93.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\HTTPMessage.m,20,0.0,93.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\WebServerIPhone.xcodeproj\xcshareddata\xcschemes\WebServerIPhone.xcscheme,0,0.0,93.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\Benchmark\Mobile\BenchmarkIPhone.xcodeproj\xcshareddata\xcschemes\BenchmarkIPhone.xcscheme,0,0.0,91.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\include\CocoaLumberjack\DDFileLogger.h,89,351.0,90.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Integration\Integration.xcodeproj\xcshareddata\xcschemes\iOSFrameworkIntegration.xcscheme,0,0.0,87.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Integration\Integration.xcodeproj\xcshareddata\xcschemes\iOSStaticLibraryIntegration.xcscheme,0,0.0,87.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Integration\Integration.xcodeproj\xcshareddata\xcschemes\iOSSwiftIntegration.xcscheme,0,0.0,87.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Integration\Integration.xcodeproj\xcshareddata\xcschemes\macOSSwiftIntegration.xcscheme,0,0.0,87.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Integration\Integration.xcodeproj\xcshareddata\xcschemes\tvOSSwiftIntegration.xcscheme,0,0.0,87.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\Documentation\FineGrainedLogging.md,47,0.0,85.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\SQLiteLogger\FMDB\FMDatabase.h,35,1.0,82.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\Documentation\DynamicLogLevels.md,39,0.0,82.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\DDASLLogger.m,30,21.0,82.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\HTTPConnection.h,34,4.0,81.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Tests\Tests.xcodeproj\xcshareddata\xcschemes\OS X Tests.xcscheme,0,0.0,81.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Tests\Tests.xcodeproj\xcshareddata\xcschemes\iOS Tests.xcscheme,0,0.0,81.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\.idea\dictionaries\cocoalumberjack.xml,0,0.0,78.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\DDOSLogger.m,22,19.0,78.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Tests\CocoaLumberjackTests\DDAtomicCounterTests.m,13,14.0,77.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\Demos.xcworkspace\contents.xcworkspacedata,0,0.0,76.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Categories\DDRange.m,24,4.0,76.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Lumberjack.xcodeproj\xcshareddata\xcschemes\CocoaLumberjack-Static.xcscheme,0,0.0,76.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Lumberjack.xcodeproj\xcshareddata\xcschemes\CocoaLumberjack.xcscheme,0,0.0,76.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Lumberjack.xcodeproj\xcshareddata\xcschemes\CocoaLumberjackSwift.xcscheme,0,0.0,76.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Benchmarking\DynamicLogging.m,17,16.0,74.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Classes\WebSocketLogger.m,31,19.0,74.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Tests\CocoaLumberjackTests\DDContextFilterLogFormatter+DeprecatedTests.m,19,14.0,72.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\Extensions\DDMultiFormatter.m,28,14.0,69.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Benchmarking\BaseNSLogging.m,15,15.0,68.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Lumberjack.xcodeproj\xcshareddata\xcschemes\Lumberjack (OS X\iOS 8+).xcscheme,0,0.0,68.0
+CocoaLumberjack,YAML,D:\clones\CocoaLumberjack\.github\workflows\unit-tests.yml,4,0.0,66.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Benchmarking\StaticLogging.m,15,16.0,66.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\HTTPServer.h,24,115.0,66.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Tests\CocoaLumberjackTests\DDContextFilterLogFormatterTests.m,19,14.0,66.0
+CocoaLumberjack,YAML,D:\clones\CocoaLumberjack\.github\workflows\validations.yml,5,0.0,65.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\SQLiteLogger\FMDB\FMDatabaseAdditions.m,26,23.0,65.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\TestXcodeColors\Mobile\TextXcodeColors\AppDelegate.m,36,28.0,65.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\Documentation\PerUserLogLevels.md,24,0.0,65.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Tests\Tests.xcodeproj\xcshareddata\xcschemes\Swift Tests.xcscheme,0,0.0,63.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\DispatchQueueLogger\DispatchQueueLogger\AppDelegate.m,19,9.0,61.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\SQLiteLogger\FMDB\FMResultSet.h,28,6.0,59.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Categories\DDNumber.m,23,6.0,59.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Tests\CocoaLumberjackTests\DDLogTests.m,17,18.0,59.0
+CocoaLumberjack,Swift,D:\clones\CocoaLumberjack\Sources\CocoaLumberjackSwift\DDLog+Combine.swift,17,39.0,56.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Responses\HTTPDataResponse.m,24,2.0,53.0
+CocoaLumberjack,Bourne Shell,D:\clones\CocoaLumberjack\Scripts\update-copyright.sh,9,6.0,53.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\Documentation\XcodeColors.md,29,0.0,52.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Responses\HTTPRedirectResponse.m,19,3.0,51.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\Documentation\Performance.md,39,0.0,51.0
+CocoaLumberjack,YAML,D:\clones\CocoaLumberjack\.github\workflows\demo-builds.yml,3,0.0,49.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Mime\MultipartMessageHeader.m,20,17.0,49.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\Documentation\CustomContext.md,22,0.0,49.0
+CocoaLumberjack,YAML,D:\clones\CocoaLumberjack\.github\workflows\integration-tests.yml,4,1.0,48.0
+CocoaLumberjack,JSON,D:\clones\CocoaLumberjack\Integration\watchOSSwiftIntegration Extension\Assets.xcassets\Complication.complicationset\Contents.json,0,0.0,48.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\TestXcodeColors\Desktop\TestXcodeColors\AppDelegate.m,31,23.0,46.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Classes\WebServerIPhoneAppDelegate.m,32,47.0,46.0
+CocoaLumberjack,YAML,D:\clones\CocoaLumberjack\.github\workflows\library-builds.yml,4,0.0,45.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\OverflowTestMac\OverflowTestMacAppDelegate.m,20,17.0,45.0
+CocoaLumberjack,Swift,D:\clones\CocoaLumberjack\Integration\Sources\ViewController.swift,13,15.0,45.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Integration\iOSSwiftIntegration\Info.plist,0,0.0,45.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\Supporting Files\DDLegacyMacros.h,12,19.0,44.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\include\CocoaLumberjack\DDLogMacros.h,10,47.0,44.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Xcode\Lumberjack.xcworkspace\contents.xcworkspacedata,0,0.0,44.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Integration\watchOSSwiftIntegration\Base.lproj\Interface.storyboard,0,4.0,43.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\include\CocoaLumberjack\DDDispatchQueueLogFormatter.h,26,154.0,43.0
+CocoaLumberjack,Swift,D:\clones\CocoaLumberjack\Package.swift,2,5.0,41.0
+CocoaLumberjack,Swift,D:\clones\CocoaLumberjack\Package@swift-5.0.swift,2,5.0,41.0
+CocoaLumberjack,Swift,D:\clones\CocoaLumberjack\Package@swift-5.1.swift,2,5.0,41.0
+CocoaLumberjack,Swift,D:\clones\CocoaLumberjack\Package@swift-5.2.swift,2,5.0,41.0
+CocoaLumberjack,Swift,D:\clones\CocoaLumberjack\Package@swift-5.3.swift,2,5.0,41.0
+CocoaLumberjack,Swift,D:\clones\CocoaLumberjack\Package@swift-5.4.swift,2,5.0,41.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\CaptureASL\CaptureASL\CaptureASL-Info.plist,0,0.0,40.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Tests\Tests.xcodeproj\xcshareddata\xcbaselines\432B533F1AAE425D00843E69.xcbaseline\Info.plist,0,0.0,40.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\Documentation\LogFileManagement.md,24,0.0,39.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\RegisteredDynamicLogging\Mobile\RegisteredLoggingTest\RegisteredLoggingTest-Info.plist,0,0.0,38.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\TestXcodeColors\Mobile\TextXcodeColors\TextXcodeColors-Info.plist,0,0.0,38.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\include\CocoaLumberjack\DDTTYLogger.h,19,129.0,38.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\FineGrainedLogging\TimerOne.m,13,7.0,37.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\FineGrainedLogging\TimerTwo.m,12,7.0,37.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\CoreDataLogger\CoreDataLogger\CoreDataLoggerAppDelegate.m,15,8.0,36.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\SQLiteLogger\SQLiteLogger\SQLiteLoggerAppDelegate.m,15,8.0,36.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\Documentation\XcodeTricks.md,22,0.0,36.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Integration\watchOSSwiftIntegration Extension\Info.plist,0,0.0,36.0
+CocoaLumberjack,CSV,D:\clones\CocoaLumberjack\Benchmarking\Results\Benchmark PowerMac.csv,0,0.0,35.0
+CocoaLumberjack,CSV,D:\clones\CocoaLumberjack\Benchmarking\Results\Benchmark iMac.csv,0,0.0,35.0
+CocoaLumberjack,CSV,D:\clones\CocoaLumberjack\Benchmarking\Results\Benchmark iPad.csv,0,0.0,35.0
+CocoaLumberjack,CSV,D:\clones\CocoaLumberjack\Benchmarking\Results\Benchmark iPhone 3GS.csv,0,0.0,35.0
+CocoaLumberjack,CSV,D:\clones\CocoaLumberjack\Benchmarking\Results\Benchmark iPodTouch3 GCD.csv,0,0.0,35.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Mime\MultipartFormDataParser.h,15,15.0,35.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\CaptureASL\CaptureASL\ViewController.m,7,6.0,34.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\WebSocket.h,24,47.0,34.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Categories\DDRange.h,14,9.0,33.0
+CocoaLumberjack,CSS,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Web\styles.css,7,0.0,33.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Integration\watchOSSwiftIntegration\Info.plist,0,0.0,33.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\RollingTestMac\RollingTestMac-Info.plist,0,0.0,32.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\TestXcodeColors\Desktop\TestXcodeColors\TestXcodeColors-Info.plist,0,0.0,32.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\HTTPAuthenticationRequest.h,10,3.0,32.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Integration\Sources\ViewController.m,11,15.0,32.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Integration\macOSSwiftIntegration\Info.plist,0,0.0,32.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\CLI\CLIColor.m,11,14.0,32.0
+CocoaLumberjack,Ruby,D:\clones\CocoaLumberjack\CocoaLumberjack.podspec,8,0.0,31.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\UniversalApp\Classes\UniversalAppAppDelegate.m,27,29.0,31.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\WebServerIPhone-Info.plist,0,0.0,30.0
+CocoaLumberjack,Swift,D:\clones\CocoaLumberjack\Integration\Sources\Formatter.swift,7,14.0,30.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Integration\tvOSSwiftIntegration\Info.plist,0,0.0,30.0
+CocoaLumberjack,Swift,D:\clones\CocoaLumberjack\Integration\watchOSSwiftIntegration Extension\ExtensionDelegate.swift,6,27.0,30.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Tests\CocoaLumberjackTests\DDOSLoggingTests.m,8,14.0,30.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Responses\HTTPErrorResponse.m,9,0.0,29.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\Extensions\DDContextFilterLogFormatter+Deprecated.m,14,14.0,29.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Tests\CocoaLumberjackTests\DDLogFileManagerTests.m,13,14.0,29.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\.github\CONTRIBUTING.md,14,0.0,28.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\LogFileCompressor\LogFileCompressorAppDelegate.m,14,9.0,28.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\RegisteredDynamicLogging\Mobile\RegisteredLoggingTest\RegisteredLoggingTestAppDelegate.m,11,7.0,28.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\RollingTestMac\RollingTestMacAppDelegate.m,16,20.0,28.0
+CocoaLumberjack,JSON,D:\clones\CocoaLumberjack\Integration\watchOSSwiftIntegration Extension\Assets.xcassets\Complication.complicationset\Utilitarian.imageset\Contents.json,0,0.0,28.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\include\CocoaLumberjack\DDAbstractDatabaseLogger.h,15,84.0,28.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\include\CocoaLumberjack\DDLog+LOGV.h,7,47.0,28.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Sources\CocoaLumberjackSwift\Supporting Files\CocoaLumberjackSwift-Info.plist,0,0.0,28.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\Documentation\ProblemSolution.md,17,0.0,27.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\GlobalLogLevel\GlobalLogLevelAppDelegate.m,11,6.0,26.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\HTTPMessage.h,18,4.0,26.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\Documentation\CombineLoggers.md,11,0.0,25.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\CustomLogLevels\MYLog.h,8,19.0,24.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Responses\HTTPAsyncFileResponse.h,10,41.0,24.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\Documentation\ARC.md,21,0.0,24.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\Supporting Files\CocoaLumberjack.h,13,67.0,24.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Tests\Info.plist,0,0.0,24.0
+CocoaLumberjack,JSON,D:\clones\CocoaLumberjack\Demos\CaptureASL\CaptureASL\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,23.0
+CocoaLumberjack,JSON,D:\clones\CocoaLumberjack\Demos\CaptureASL\CaptureASL\Images.xcassets\LaunchImage.launchimage\Contents.json,0,0.0,23.0
+CocoaLumberjack,Bourne Again Shell,D:\clones\CocoaLumberjack\Demos\PerUserLogLevels\Scripts\LumberjackUser.bash,9,17.0,23.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\RegisteredDynamicLogging\Desktop\RegisteredLoggingTest\RegisteredLoggingTestAppDelegate.m,10,7.0,23.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\Documentation\Architecture.md,20,0.0,23.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\Documentation\README.md,23,0.0,23.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Tests\CocoaLumberjackTests\DDSampleFileManager.m,10,14.0,22.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Tests\Tests.xcodeproj\xcshareddata\xcbaselines\432B533F1AAE425D00843E69.xcbaseline\AB613018-19D0-4E38-845A-D0F077AAF499.plist,0,0.0,22.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\include\CocoaLumberjack\DDContextFilterLogFormatter.h,20,76.0,21.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Tests\Tests.xcodeproj\xcshareddata\IDETemplateMacros.plist,0,0.0,21.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\CaptureASL\CaptureASL\AppDelegate.m,12,6.0,20.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\ContextFilter\ContextFilterAppDelegate.m,16,34.0,20.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\PerUserLogLevels\PerUserLogLevels\AppDelegate.m,10,19.0,20.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\RegisteredDynamicLogging\Desktop\RegisteredLoggingTest\Lions.m,7,7.0,20.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\RegisteredDynamicLogging\Desktop\RegisteredLoggingTest\Tigers.m,7,7.0,20.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\RegisteredDynamicLogging\Mobile\RegisteredLoggingTest\Lions.m,7,7.0,20.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\RegisteredDynamicLogging\Mobile\RegisteredLoggingTest\Tigers.m,7,7.0,20.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Tests\CocoaLumberjackTests\DDSMocking.h,7,14.0,20.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\Tests\Helpers.md,6,0.0,20.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\CLI\CLI\main.m,4,7.0,19.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\ContextFilter\ThirdPartyFramework.m,10,13.0,19.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\CustomFormatters\CustomFormattersAppDelegate.m,12,9.0,19.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\include\CocoaLumberjack\DDContextFilterLogFormatter+Deprecated.h,18,82.0,19.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Mime\MultipartMessageHeader.h,5,10.0,18.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\.github\ISSUE_TEMPLATE.md,6,0.0,17.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\CustomLogLevels\CustomLogLevelsAppDelegate.m,8,8.0,17.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Responses\HTTPFileResponse.h,8,0.0,17.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\CoreDataLogger\CoreDataLogger\CoreDataLogger.h,7,24.0,16.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\NonArcTest\NonArcTest\AppDelegate.m,8,7.0,16.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Classes\WebSocketLogger.h,7,6.0,16.0
+CocoaLumberjack,Swift,D:\clones\CocoaLumberjack\Integration\watchOSSwiftIntegration Extension\NotificationController.swift,7,21.0,16.0
+CocoaLumberjack,Swift,D:\clones\CocoaLumberjack\Sources\CocoaLumberjackSwift\DDAssert.swift,3,31.0,16.0
+CocoaLumberjack,YAML,D:\clones\CocoaLumberjack\.github\stale.yml,0,6.0,15.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\ContextFilter\MyContextFilter.m,4,9.0,15.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Classes\WebServerIPhoneAppDelegate.h,8,6.0,15.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\FineGrainedLogging\FineGrainedLoggingAppDelegate.m,8,6.0,14.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\SQLiteLogger\FMDB\FMDatabaseAdditions.h,7,10.0,14.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\HTTPResponse.h,15,120.0,14.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\Documentation\PerLoggerLogLevels.md,6,0.0,14.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Integration\Sources\AppDelegate.m,5,15.0,14.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\include\CocoaLumberjack\DDMultiFormatter.h,12,34.0,14.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Benchmarking\Benchmarking.xcodeproj\xcshareddata\IDETemplateMacros.plist,0,0.0,13.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\Benchmark\Mobile\Classes\BenchmarkIPhoneAppDelegate.m,6,6.0,13.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Responses\HTTPDynamicFileResponse.h,4,35.0,13.0
+CocoaLumberjack,HTML,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Web\index.html,0,0.0,13.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\WebServerIPhone.xcodeproj\xcshareddata\IDETemplateMacros.plist,0,0.0,13.0
+CocoaLumberjack,Swift,D:\clones\CocoaLumberjack\Integration\Sources\AppDelegate.swift,4,15.0,13.0
+CocoaLumberjack,Swift,D:\clones\CocoaLumberjack\Integration\watchOSSwiftIntegration Extension\InterfaceController.swift,5,17.0,13.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\include\CocoaLumberjack\DDASLLogger.h,12,38.0,13.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\.github\PULL_REQUEST_TEMPLATE.md,6,0.0,12.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Benchmarking\PerformanceTesting.h,7,7.0,12.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\SQLiteLogger\FMDBLogger.h,7,29.0,12.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\include\CocoaLumberjack\DDOSLogger.h,11,32.0,12.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\FineGrainedLogging\FineGrainedLoggingAppDelegate.h,6,6.0,11.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\GlobalLogLevel\Stuff.m,4,6.0,11.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Mime\MultipartMessageHeaderField.h,7,5.0,11.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\Documentation\FAQ.md,10,0.0,11.0
+CocoaLumberjack,Swift,D:\clones\CocoaLumberjack\Integration\macOSSwiftIntegration\main.swift,3,14.0,11.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\include\CocoaLumberjack\CLIColor.h,10,33.0,11.0
+CocoaLumberjack,YAML,D:\clones\CocoaLumberjack\.swiftlint.yml,3,0.0,10.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\Benchmark\Mobile\Classes\BenchmarkIPhoneAppDelegate.h,5,6.0,10.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\HTTPLogging.h,14,59.0,10.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Integration\macOSSwiftIntegration\macOSSwiftIntegration.entitlements,0,0.0,10.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\include\CocoaLumberjack\DDASLLogCapture.h,9,27.0,10.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\Benchmark\Desktop\BenchmarkMac\AppDelegate.m,5,6.0,9.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\CoreDataLogger\CoreDataLogger\CoreDataLoggerAppDelegate.h,5,6.0,9.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\LogFileCompressor\LogFileCompressorAppDelegate.h,6,6.0,9.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\RollingTestMac\RollingTestMacAppDelegate.h,6,6.0,9.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\SQLiteLogger\SQLiteLogger\SQLiteLoggerAppDelegate.h,5,6.0,9.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\UniversalApp\Classes\UniversalAppAppDelegate.h,6,6.0,9.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Responses\HTTPDataResponse.h,4,0.0,9.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\include\CocoaLumberjack\DDLoggerNames.h,7,14.0,9.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Benchmarking\BaseNSLogging.h,4,6.0,8.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Benchmarking\DynamicLogging.h,4,6.0,8.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Benchmarking\StaticLogging.h,4,6.0,8.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Benchmarking\main.m,3,6.0,8.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\CaptureASL\CaptureASL\main.m,2,6.0,8.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\CoreDataLogger\CoreDataLogger\Log.xcdatamodeld\.xccurrentversion,0,0.0,8.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\CoreDataLogger\CoreDataLogger\LogEntry.h,4,6.0,8.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\CustomFormatters\TestFormatter.m,4,10.0,8.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\LogFileCompressor\CompressingLogFileManager.h,3,6.0,8.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\RegisteredDynamicLogging\Mobile\RegisteredLoggingTest\main.m,2,6.0,8.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\TestXcodeColors\Mobile\TextXcodeColors\main.m,3,6.0,8.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Categories\DDData.h,6,0.0,8.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Responses\HTTPRedirectResponse.h,4,0.0,8.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Lumberjack.xcodeproj\project.xcworkspace\xcshareddata\WorkspaceSettings.xcsettings,0,0.0,8.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\DDFileLogger+Internal.h,8,15.0,8.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\include\CocoaLumberjack\DDAssertMacros.h,2,20.0,8.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Sources\CocoaLumberjackSwiftSupport\include\CocoaLumberjackSwiftSupport\SwiftLogLevel.h,5,15.0,8.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Tests\CocoaLumberjackTests\DDSampleFileManager.h,7,14.0,8.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Xcode\Lumberjack.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist,0,0.0,8.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\Benchmark\Mobile\main.m,2,6.0,7.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\CoreDataLogger\CoreDataLogger.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\CoreDataLogger\CoreDataLogger\LogEntry.m,4,6.0,7.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\FineGrainedLogging\TimerOne.h,3,6.0,7.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\FineGrainedLogging\TimerTwo.h,3,6.0,7.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\GlobalLogLevel\GlobalLogLevel.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\OverflowTestMac\SlowLogger.m,4,6.0,7.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\SQLiteLogger\SQLiteLogger.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\TestXcodeColors\Mobile\TextXcodeColors\ViewController.h,4,6.0,7.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\UniversalApp\main.m,2,6.0,7.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Categories\DDNumber.h,5,0.0,7.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\main.m,2,6.0,7.0
+CocoaLumberjack,Markdown,D:\clones\CocoaLumberjack\Documentation\AppCode-support.md,2,0.0,7.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Integration\Sources\main.m,2,14.0,7.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\include\CocoaLumberjack\DDFileLogger+Buffering.h,6,14.0,7.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Tests\Tests.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\ContextFilter\ContextFilterAppDelegate.h,4,6.0,6.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\CustomFormatters\CustomFormattersAppDelegate.h,4,6.0,6.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\CustomLogLevels\CustomLogLevelsAppDelegate.h,4,6.0,6.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\FineGrainedLogging\MYLog.h,6,9.0,6.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\GlobalLogLevel\GlobalLogLevelAppDelegate.h,4,6.0,6.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\OverflowTestMac\OverflowTestMacAppDelegate.h,4,6.0,6.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\RegisteredDynamicLogging\Desktop\RegisteredLoggingTest\RegisteredLoggingTestAppDelegate.h,4,6.0,6.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\RegisteredDynamicLogging\Mobile\RegisteredLoggingTest\RegisteredLoggingTestAppDelegate.h,5,6.0,6.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\TestXcodeColors\Mobile\TextXcodeColors\AppDelegate.h,5,6.0,6.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Vendor\CocoaHTTPServer\Responses\HTTPErrorResponse.h,3,0.0,6.0
+CocoaLumberjack,JSON,D:\clones\CocoaLumberjack\Integration\watchOSSwiftIntegration Extension\Assets.xcassets\Contents.json,0,0.0,6.0
+CocoaLumberjack,YAML,D:\clones\CocoaLumberjack\.github\dependabot.yml,1,0.0,5.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\Benchmark\Desktop\BenchmarkMac\main.m,2,6.0,5.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\CaptureASL\CaptureASL\ViewController.h,4,6.0,5.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\ContextFilter\ThirdPartyFramework.h,5,6.0,5.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\ContextFilter\main.m,2,6.0,5.0
+CocoaLumberjack,XML,D:\clones\CocoaLumberjack\Demos\CoreDataLogger\CoreDataLogger\CoreDataLogger.xcdatamodeld\.xccurrentversion,0,0.0,5.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\CoreDataLogger\CoreDataLogger\main.m,2,6.0,5.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\CustomFormatters\main.m,2,6.0,5.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\CustomLogLevels\main.m,2,6.0,5.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\DispatchQueueLogger\DispatchQueueLogger\main.m,2,6.0,5.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\FineGrainedLogging\main.m,2,6.0,5.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\GlobalLogLevel\main.m,2,6.0,5.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\LogFileCompressor\main.m,2,6.0,5.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\NonArcTest\NonArcTest\main.m,2,6.0,5.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\OverflowTestMac\main.m,2,6.0,5.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\PerUserLogLevels\PerUserLogLevels\main.m,2,6.0,5.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\RegisteredDynamicLogging\Desktop\RegisteredLoggingTest\main.m,2,6.0,5.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\RollingTestMac\main.m,2,6.0,5.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\SQLiteLogger\SQLiteLogger\main.m,2,6.0,5.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\TestXcodeColors\Desktop\TestXcodeColors\main.m,2,6.0,5.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Sources\CocoaLumberjack\DDLoggerNames.m,2,14.0,5.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\Benchmark\Desktop\BenchmarkMac\AppDelegate.h,4,6.0,4.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\CaptureASL\CaptureASL\AppDelegate.h,5,6.0,4.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\ContextFilter\MyContextFilter.h,3,6.0,4.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\CustomFormatters\TestFormatter.h,3,6.0,4.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\DispatchQueueLogger\DispatchQueueLogger\AppDelegate.h,4,6.0,4.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\GlobalLogLevel\Stuff.h,4,6.0,4.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\NonArcTest\NonArcTest\AppDelegate.h,4,6.0,4.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\OverflowTestMac\SlowLogger.h,3,6.0,4.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\PerUserLogLevels\PerUserLogLevels\AppDelegate.h,4,6.0,4.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\RegisteredDynamicLogging\Mobile\RegisteredLoggingTest\Lions.h,4,6.0,4.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\RegisteredDynamicLogging\Mobile\RegisteredLoggingTest\Tigers.h,4,6.0,4.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\TestXcodeColors\Desktop\TestXcodeColors\AppDelegate.h,4,6.0,4.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\TestXcodeColors\Mobile\TextXcodeColors\ViewController.m,4,6.0,4.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Classes\MyHTTPConnection.h,3,6.0,4.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Integration\Sources\AppDelegate.h,4,14.0,4.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\Benchmark\Mobile\Classes\BenchmarkIPhoneViewController.h,3,6.0,3.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\Benchmark\Mobile\Classes\BenchmarkIPhoneViewController.m,3,6.0,3.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\RegisteredDynamicLogging\Mobile\RegisteredLoggingTest\RegisteredLoggingTestViewController.h,3,6.0,3.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\RegisteredDynamicLogging\Mobile\RegisteredLoggingTest\RegisteredLoggingTestViewController.m,3,6.0,3.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\UniversalApp\Classes\UniversalAppViewController.h,3,6.0,3.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\UniversalApp\Classes\UniversalAppViewController.m,3,6.0,3.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Classes\WebServerIPhoneViewController.h,3,6.0,3.0
+CocoaLumberjack,Objective-C,D:\clones\CocoaLumberjack\Demos\WebServerIPhone\Classes\WebServerIPhoneViewController.m,3,6.0,3.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Integration\Sources\ViewController.h,3,14.0,3.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Demos\GlobalLogLevel\MyLogging.h,2,6.0,2.0
+CocoaLumberjack,C/C++ Header,D:\clones\CocoaLumberjack\Sources\CocoaLumberjackSwift\Supporting Files\CocoaLumberjackSwift.h,2,16.0,2.0
+CocoaLumberjack,C,D:\clones\CocoaLumberjack\Sources\CocoaLumberjackSwiftSupport\empty.c,0,1.0,0.0

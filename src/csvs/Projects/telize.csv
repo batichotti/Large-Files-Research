@@ -1,0 +1,9 @@
+project,language,filename,blank,comment,code
+telize,C,D:\clones\telize\src\location.c,42,18.0,132.0
+telize,C,D:\clones\telize\src\utils.c,19,13.0,92.0
+telize,Markdown,D:\clones\telize\README.md,50,0.0,87.0
+telize,C/C++ Header,D:\clones\telize\src\location.h,5,13.0,54.0
+telize,C,D:\clones\telize\src\jsonip.c,10,13.0,28.0
+telize,C/C++ Header,D:\clones\telize\src\telize.h,9,13.0,20.0
+telize,C,D:\clones\telize\src\ip.c,5,13.0,13.0
+telize,JSON,D:\clones\telize\assets\bad_ip.json,0,0.0,4.0

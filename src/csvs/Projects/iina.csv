@@ -1,0 +1,394 @@
+project,language,filename,blank,comment,code
+iina,XML,D:\clones\iina\iina\Base.lproj\QuickSettingViewController.xib,0,0.0,2400.0
+iina,Swift,D:\clones\iina\iina\MainWindowController.swift,380,276.0,2130.0
+iina,Swift,D:\clones\iina\iina\PlayerCore.swift,237,216.0,1469.0
+iina,XML,D:\clones\iina\iina\Base.lproj\PrefSubViewController.xib,0,0.0,1350.0
+iina,XML,D:\clones\iina\iina\Base.lproj\PrefUIViewController.xib,0,0.0,1247.0
+iina,XML,D:\clones\iina\iina\Base.lproj\InspectorWindowController.xib,0,0.0,1234.0
+iina,XML,D:\clones\iina\iina\Info.plist,0,0.0,1159.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\avcodec.h,387,2828.0,969.0
+iina,Swift,D:\clones\iina\iina\MPVController.swift,205,148.0,926.0
+iina,XML,D:\clones\iina\iina\Base.lproj\FilterWindowController.xib,0,0.0,865.0
+iina,XML,D:\clones\iina\iina\Base.lproj\MainMenu.xib,0,0.0,792.0
+iina,XML,D:\clones\iina\iina\Base.lproj\PrefGeneralViewController.xib,0,0.0,771.0
+iina,Swift,D:\clones\iina\iina\MPVOption.swift,24,696.0,745.0
+iina,Swift,D:\clones\iina\iina\PlaylistViewController.swift,134,54.0,716.0
+iina,XML,D:\clones\iina\iina\Base.lproj\MainWindowController.xib,0,0.0,684.0
+iina,Swift,D:\clones\iina\iina\Preference.swift,183,45.0,682.0
+iina,Swift,D:\clones\iina\iina\QuickSettingViewController.swift,104,43.0,641.0
+iina,XML,D:\clones\iina\iina\Base.lproj\PlaylistViewController.xib,0,0.0,634.0
+iina,Swift,D:\clones\iina\iina\MenuController.swift,75,67.0,578.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavformat\avformat.h,268,2169.0,575.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\codec_id.h,27,59.0,506.0
+iina,Swift,D:\clones\iina\iina\Extensions.swift,96,62.0,500.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\intreadwrite.h,100,51.0,493.0
+iina,Swift,D:\clones\iina\iina\AppDelegate.swift,102,106.0,483.0
+iina,XML,D:\clones\iina\iina\Base.lproj\MiniPlayerWindowController.xib,0,0.0,479.0
+iina,XML,D:\clones\iina\iina\Base.lproj\PrefControlViewController.xib,0,0.0,476.0
+iina,Swift,D:\clones\iina\iina\Utility.swift,72,77.0,461.0
+iina,XML,D:\clones\iina\iina\Base.lproj\PrefCodecViewController.xib,0,0.0,447.0
+iina,XML,D:\clones\iina\iina\Base.lproj\PrefKeyBindingViewController.xib,0,0.0,436.0
+iina,XML,D:\clones\iina\iina\Base.lproj\AboutWindowController.xib,0,0.0,434.0
+iina,XML,D:\clones\iina\iina\Base.lproj\InitialWindowController.xib,0,0.0,427.0
+iina,XML,D:\clones\iina\iina\Base.lproj\PrefNetworkViewController.xib,0,0.0,417.0
+iina,Swift,D:\clones\iina\iina\FilterWindowController.swift,69,39.0,415.0
+iina,XML,D:\clones\iina\iina\Base.lproj\PreferenceWindowController.xib,0,0.0,412.0
+iina,Swift,D:\clones\iina\iina\PlayerWindowController.swift,81,50.0,406.0
+iina,Swift,D:\clones\iina\iina\InitialWindowController.swift,73,18.0,373.0
+iina,Swift,D:\clones\iina\iina\KeyCodeHelper.swift,22,24.0,373.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\pixfmt.h,66,178.0,372.0
+iina,Swift,D:\clones\iina\iina\MPVProperty.swift,1,251.0,371.0
+iina,Swift,D:\clones\iina\iina\PreferenceWindowController.swift,67,15.0,370.0
+iina,XML,D:\clones\iina\iina\Base.lproj\PrefUtilsViewController.xib,0,0.0,350.0
+iina,Swift,D:\clones\iina\iina\PrefKeyBindingViewController.swift,54,39.0,350.0
+iina,Swift,D:\clones\iina\iina\MiniPlayerWindowController.swift,68,36.0,343.0
+iina,Swift,D:\clones\iina\iina\TouchBarSupport.swift,67,14.0,342.0
+iina,XML,D:\clones\iina\iina\Base.lproj\HistoryWindowController.xib,0,0.0,334.0
+iina,XML,D:\clones\iina\iina\Base.lproj\PrefAdvancedViewController.xib,0,0.0,332.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\common.h,49,239.0,320.0
+iina,JSON,D:\clones\iina\iina\Translators.json,0,0.0,317.0
+iina,Swift,D:\clones\iina\iina\MainMenuActions.swift,55,20.0,314.0
+iina,Swift,D:\clones\iina\iina\AutoFileMatcher.swift,46,38.0,288.0
+iina,Swift,D:\clones\iina\iina\OpenSubSubtitle.swift,41,24.0,286.0
+iina,Swift,D:\clones\iina\iina\VideoView.swift,73,32.0,279.0
+iina,Objective-C,D:\clones\iina\iina\FFmpegController.m,66,44.0,262.0
+iina,Swift,D:\clones\iina\iina\OSDMessage.swift,51,14.0,259.0
+iina,XML,D:\clones\iina\iina\Base.lproj\SubChooseViewController.xib,0,0.0,254.0
+iina,XML,D:\clones\iina\iina\Base.lproj\FontPickerWindowController.xib,0,0.0,246.0
+iina,XML,D:\clones\iina\iina\Base.lproj\OpenURLWindowController.xib,0,0.0,246.0
+iina,Swift,D:\clones\iina\iina\InspectorWindowController.swift,61,13.0,245.0
+iina,Swift,D:\clones\iina\iina\AssrtSubtitle.swift,28,15.0,233.0
+iina,C/C++ Header,D:\clones\iina\deps\include\mpv\client.h,79,1756.0,232.0
+iina,Swift,D:\clones\iina\iina\HistoryWindowController.swift,53,17.0,229.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\frame.h,93,679.0,225.0
+iina,Swift,D:\clones\iina\iina\PrefUIViewController.swift,31,11.0,213.0
+iina,Swift,D:\clones\iina\iina\PlaybackInfo.swift,44,17.0,211.0
+iina,Swift,D:\clones\iina\iina\PrefOSCToolbarSettingsSheetController.swift,60,21.0,211.0
+iina,Swift,D:\clones\iina\iina\AboutWindowController.swift,37,14.0,208.0
+iina,Swift,D:\clones\iina\iina\PlaySliderCell.swift,33,16.0,194.0
+iina,Swift,D:\clones\iina\iina\FilterPresets.swift,29,40.0,176.0
+iina,Swift,D:\clones\iina\other\check_translation.swift,33,5.0,176.0
+iina,Swift,D:\clones\iina\iina\MPVFilter.swift,30,74.0,175.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavformat\avio.h,79,636.0,173.0
+iina,Swift,D:\clones\iina\iina\CropBoxView.swift,42,23.0,169.0
+iina,Swift,D:\clones\iina\iina\MPVNode.swift,33,23.0,165.0
+iina,Swift,D:\clones\iina\iina\ViewLayer.swift,39,11.0,165.0
+iina,Swift,D:\clones\iina\iina\KeyBindingDataLoader.swift,18,8.0,161.0
+iina,XML,D:\clones\iina\iina\Base.lproj\PrefOSCToolbarSettingsSheetController.xib,0,0.0,158.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\packet.h,73,545.0,156.0
+iina,Swift,D:\clones\iina\iina\MainWindowMenuActions.swift,19,22.0,155.0
+iina,Swift,D:\clones\iina\iina\PrefSubViewController.swift,40,9.0,153.0
+iina,Swift,D:\clones\iina\iina\Switch.swift,15,7.0,153.0
+iina,Swift,D:\clones\iina\iina\FileGroup.swift,22,13.0,150.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\opt.h,49,690.0,147.0
+iina,Swift,D:\clones\iina\iina\ThumbnailCache.swift,33,25.0,142.0
+iina,Swift,D:\clones\iina\iina\DraggingDetect.swift,20,60.0,141.0
+iina,Swift,D:\clones\iina\iina\JustXMLRPC.swift,16,14.0,138.0
+iina,Swift,D:\clones\iina\iina\OnlineSubtitle.swift,19,12.0,138.0
+iina,XML,D:\clones\iina\iina\Base.lproj\GuideWindowController.xib,0,0.0,135.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\version.h,9,31.0,132.0
+iina,XML,D:\clones\iina\iina\Base.lproj\KeyRecordViewController.xib,0,0.0,129.0
+iina,Swift,D:\clones\iina\iina\KeyBindingTranslator.swift,18,25.0,129.0
+iina,Swift,D:\clones\iina\iina-cli\main.swift,27,9.0,125.0
+iina,Swift,D:\clones\iina\iina\KeyMapping.swift,18,12.0,125.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\attributes.h,21,33.0,119.0
+iina,Swift,D:\clones\iina\iina\MPVTrack.swift,19,21.0,119.0
+iina,Swift,D:\clones\iina\iina\ShooterSubtitle.swift,28,8.0,111.0
+iina,XML,D:\clones\iina\iina\Base.lproj\CropSettingsViewController.xib,0,0.0,110.0
+iina,Swift,D:\clones\iina\iina\FontPickerWindowController.swift,23,11.0,110.0
+iina,Swift,D:\clones\iina\iina\OpenURLWindowController.swift,14,9.0,110.0
+iina,Swift,D:\clones\iina\iina\PrefUtilsViewController.swift,26,8.0,110.0
+iina,Swift,D:\clones\iina\iina\PrefAdvancedViewController.swift,29,8.0,109.0
+iina,Ruby,D:\clones\iina\other\parse_doc.rb,18,7.0,108.0
+iina,XML,D:\clones\iina\iina.xcodeproj\xcshareddata\xcschemes\OpenInIINA.xcscheme,0,0.0,107.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\codec.h,36,342.0,102.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libswscale\swscale.h,41,194.0,101.0
+iina,Swift,D:\clones\iina\iina\KeyRecordViewController.swift,25,10.0,101.0
+iina,Swift,D:\clones\iina\iina\GuideWindowController.swift,20,7.0,97.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\hwcontext.h,52,459.0,94.0
+iina,JavaScript,D:\clones\iina\browser\Chrome_Open_In_IINA\common.js,9,2.0,92.0
+iina,XML,D:\clones\iina\iina.xcodeproj\xcshareddata\xcschemes\iina-cli.xcscheme,0,0.0,91.0
+iina,XML,D:\clones\iina\iina.xcodeproj\xcshareddata\xcschemes\iina.xcscheme,0,0.0,91.0
+iina,Ruby,D:\clones\iina\other\change_lib_dependencies.rb,24,2.0,91.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\avstring.h,42,306.0,89.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\channel_layout.h,21,129.0,88.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\pixdesc.h,51,304.0,87.0
+iina,Swift,D:\clones\iina\iina\Logger.swift,20,7.0,85.0
+iina,Objective-C,D:\clones\iina\iina\ObjcUtils.m,17,10.0,84.0
+iina,Swift,D:\clones\iina\other\check_localizable.swift,24,10.0,83.0
+iina,Ruby,D:\clones\iina\other\integrate_doc_types.rb,12,2.0,83.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\log.h,48,271.0,82.0
+iina,Swift,D:\clones\iina\iina\AppData.swift,17,14.0,82.0
+iina,XML,D:\clones\iina\iina\Base.lproj\ScreenshootOSDView.xib,0,0.0,81.0
+iina,Swift,D:\clones\iina\iina\MPVCommand.swift,6,73.0,80.0
+iina,XML,D:\clones\iina\OpenInIINA\Info.plist,0,0.0,79.0
+iina,XML,D:\clones\iina\iina.xcodeproj\xcshareddata\xcschemes\iina-ca.xcscheme,0,0.0,79.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavformat\version.h,9,36.0,78.0
+iina,Swift,D:\clones\iina\iina\LanguageTokenField.swift,14,7.0,78.0
+iina,Swift,D:\clones\iina\iina\KeyBindingItem.swift,20,8.0,77.0
+iina,Swift,D:\clones\iina\iina\VideoTime.swift,23,11.0,77.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\mem.h,48,582.0,76.0
+iina,Swift,D:\clones\iina\iina\PrefCodecViewController.swift,18,7.0,73.0
+iina,Markdown,D:\clones\iina\README.md,37,0.0,72.0
+iina,Swift,D:\clones\iina\iina\KeychainAccess.swift,21,14.0,72.0
+iina,Swift,D:\clones\iina\iina\DurationDisplayTextField.swift,12,9.0,71.0
+iina,XML,D:\clones\iina\iina\Base.lproj\FreeSelectingViewController.xib,0,0.0,70.0
+iina,Swift,D:\clones\iina\iina\KeyBindingCriterion.swift,30,7.0,69.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\bswap.h,16,25.0,68.0
+iina,C/C++ Header,D:\clones\iina\deps\include\mpv\render.h,24,646.0,68.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\AppIcon.appiconset\Contents.json,0,0.0,68.0
+iina,Swift,D:\clones\iina\iina\CollapseView.swift,16,12.0,66.0
+iina,HTML,D:\clones\iina\browser\Chrome_Open_In_IINA\options.html,0,0.0,65.0
+iina,Swift,D:\clones\iina\iina\PrefGeneralViewController.swift,16,8.0,65.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\buffer.h,31,258.0,64.0
+iina,XML,D:\clones\iina\iina\PrefOSCToolbarDraggingItemViewController.xib,0,0.0,64.0
+iina,Swift,D:\clones\iina\iina\ScrollingTextField.swift,16,9.0,64.0
+iina,Swift,D:\clones\iina\iina\StreamReader.swift,11,15.0,63.0
+iina,Swift,D:\clones\iina\iina\KeyRecordView.swift,14,7.0,61.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\mathematics.h,18,166.0,59.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\avutil.h,39,269.0,57.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\version.h,15,78.0,57.0
+iina,Swift,D:\clones\iina\iina\SubChooseViewController.swift,21,8.0,57.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\dirac.h,18,57.0,56.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\hdr_dynamic_metadata.h,44,244.0,55.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\cpu.h,16,63.0,54.0
+iina,Swift,D:\clones\iina\iina\PlaybackHistory.swift,13,7.0,51.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\codec_par.h,26,153.0,50.0
+iina,Swift,D:\clones\iina\iina\ControlBarView.swift,11,11.0,50.0
+iina,Swift,D:\clones\iina\iina\SavedFilter.swift,9,7.0,50.0
+iina,Swift,D:\clones\iina\OpenInIINA\SafariExtensionHandler.swift,6,7.0,49.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\error.h,15,62.0,49.0
+iina,Swift,D:\clones\iina\iina\CharEncoding.swift,3,7.0,49.0
+iina,Swift,D:\clones\iina\iina\ScreenshootOSDView.swift,8,7.0,49.0
+iina,Swift,D:\clones\iina\iina\FloatingPointByteCountFormatter.swift,12,8.0,48.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\bsf.h,36,242.0,47.0
+iina,Swift,D:\clones\iina\iina\CropSettingsViewController.swift,13,10.0,47.0
+iina,Markdown,D:\clones\iina\CONTRIBUTING.md,15,0.0,46.0
+iina,Swift,D:\clones\iina\iina\PrefOSCToolbarDraggingItemViewController.swift,14,7.0,46.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\samplefmt.h,23,204.0,45.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\encryption_info.h,25,137.0,43.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\hwcontext_vulkan.h,16,146.0,42.0
+iina,Swift,D:\clones\iina\iina\CacheManager.swift,12,10.0,42.0
+iina,Swift,D:\clones\iina\iina\Aspect.swift,10,7.0,41.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\bprint.h,21,158.0,40.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\rational.h,22,158.0,40.0
+iina,C/C++ Header,D:\clones\iina\deps\include\mpv\opengl_cb.h,22,278.0,39.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\imgutils.h,22,231.0,38.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\video_enc_params.h,16,117.0,38.0
+iina,C/C++ Header,D:\clones\iina\deps\include\mpv\render_gl.h,17,161.0,38.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Colors\AboutWindowBackground.colorset\Contents.json,0,0.0,38.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Colors\InitialWindowActionButtonBackgroundHover.colorset\Contents.json,0,0.0,38.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Colors\InitialWindowActionButtonBackgroundPressed.colorset\Contents.json,0,0.0,38.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Colors\InitialWindowBetaLabel.colorset\Contents.json,0,0.0,38.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Colors\InitialWindowLastFileBackground.colorset\Contents.json,0,0.0,38.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Colors\InitialWindowLastFileBackgroundHover.colorset\Contents.json,0,0.0,38.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Colors\InitialWindowLastFileBackgroundPressed.colorset\Contents.json,0,0.0,38.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Colors\MainSliderBarChapterStroke.colorset\Contents.json,0,0.0,38.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Colors\MainSliderBarLeft.colorset\Contents.json,0,0.0,38.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Colors\MainSliderBarRight.colorset\Contents.json,0,0.0,38.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Colors\MainSliderKnob.colorset\Contents.json,0,0.0,38.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Colors\MainSliderKnobActive.colorset\Contents.json,0,0.0,38.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Colors\PlaylistProgressBar.colorset\Contents.json,0,0.0,38.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Colors\SidebarTabTint.colorset\Contents.json,0,0.0,38.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Colors\SidebarTabTintActive.colorset\Contents.json,0,0.0,38.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Colors\SidebarTableBackground.colorset\Contents.json,0,0.0,38.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Colors\TitleBarBorder.colorset\Contents.json,0,0.0,38.0
+iina,Swift,D:\clones\iina\iina\HistoryController.swift,11,7.0,38.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\avfft.h,21,60.0,37.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\intfloat.h,9,31.0,37.0
+iina,Swift,D:\clones\iina\iina\Regex.swift,7,7.0,37.0
+iina,C/C++ Header,D:\clones\iina\iina\iina-Bridging-Header.h,15,2.0,37.0
+iina,Markdown,D:\clones\iina\.github\ISSUE_TEMPLATE\bug_report.md,18,0.0,35.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\film_grain_params.h,23,110.0,35.0
+iina,XML,D:\clones\iina\iina\AboutWindowContributorAvatarItem.xib,0,0.0,35.0
+iina,Swift,D:\clones\iina\iina\SleepPreventer.swift,10,7.0,35.0
+iina,HTML,D:\clones\iina\browser\Chrome_Open_In_IINA\popup.html,0,0.0,34.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\fifo.h,20,125.0,34.0
+iina,Swift,D:\clones\iina\iina\AboutWindowContributorAvatarItem.swift,6,7.0,33.0
+iina,JSON,D:\clones\iina\browser\Firefox_Open_In_IINA\manifest.json,0,0.0,32.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\hwcontext_drm.h,10,127.0,32.0
+iina,Swift,D:\clones\iina\iina\Translators.swift,4,7.0,32.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\dv_profile.h,10,42.0,31.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\vdpau.h,20,126.0,30.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\stereo3d.h,27,176.0,30.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\tx.h,17,88.0,30.0
+iina,Swift,D:\clones\iina\iina\PowerSource.swift,8,7.0,30.0
+iina,XML,D:\clones\iina\iina\Translators.stringsdict,0,0.0,30.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\dict.h,21,150.0,29.0
+iina,Swift,D:\clones\iina\iina\RoundedColorWell.swift,12,10.0,29.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\spherical.h,17,187.0,28.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\timecode.h,18,153.0,28.0
+iina,Swift,D:\clones\iina\iina\CropBoxViewController.swift,8,8.0,28.0
+iina,Swift,D:\clones\iina\iina\MPVEvent.swift,2,7.0,28.0
+iina,C/C++ Header,D:\clones\iina\deps\include\mpv\stream_cb.h,15,198.0,27.0
+iina,Swift,D:\clones\iina\iina\PrefNetworkViewController.swift,11,8.0,27.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\avassert.h,10,39.0,26.0
+iina,JSON,D:\clones\iina\browser\Chrome_Open_In_IINA\manifest.json,1,0.0,25.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\xvmc.h,23,122.0,25.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\threadmessage.h,15,75.0,25.0
+iina,Swift,D:\clones\iina\iina\FirstRunManager.swift,6,7.0,25.0
+iina,Swift,D:\clones\iina\iina\FreeSelectingViewController.swift,6,8.0,25.0
+iina,Swift,D:\clones\iina\iina\PrefControlViewController.swift,11,7.0,24.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\codec_desc.h,11,94.0,23.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\crc.h,11,66.0,23.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\hash.h,21,226.0,23.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\hwcontext_d3d11va.h,14,132.0,23.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\hwcontext_vaapi.h,10,84.0,23.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\lfg.h,9,48.0,23.0
+iina,Swift,D:\clones\iina\iina\ExtendedColors.swift,7,7.0,23.0
+iina,Swift,D:\clones\iina\iina\ISO639Helper.swift,7,7.0,23.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\avdct.h,15,51.0,22.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\d3d11va.h,17,73.0,22.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\hmac.h,13,65.0,22.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\md5.h,14,62.0,22.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\timestamp.h,10,46.0,22.0
+iina,Swift,D:\clones\iina\iina\IINACommand.swift,10,7.0,22.0
+iina,Swift,D:\clones\iina\iina\JustExtension.swift,6,7.0,22.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\hwcontext_opencl.h,8,71.0,21.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\mastering_display_metadata.h,17,90.0,21.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\default-album-art.imageset\Contents.json,0,0.0,21.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\iina_arrow.imageset\Contents.json,0,0.0,21.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\osc_bottom.imageset\Contents.json,0,0.0,21.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\osc_float.imageset\Contents.json,0,0.0,21.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\osc_top.imageset\Contents.json,0,0.0,21.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\speed-dark.imageset\Contents.json,0,0.0,21.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\speedl-dark.imageset\Contents.json,0,0.0,21.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\toolbar_control.imageset\Contents.json,0,0.0,21.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\trackpad.imageset\Contents.json,0,0.0,21.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\dxva2.h,14,59.0,20.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\audio_fifo.h,18,149.0,20.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\downmix_info.h,16,79.0,20.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\eval.h,12,105.0,20.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Colors\CropBoxFill.colorset\Contents.json,0,0.0,20.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Colors\InitialWindowActionButtonBackground.colorset\Contents.json,0,0.0,20.0
+iina,Swift,D:\clones\iina\iina\GifGenerator.swift,9,7.0,20.0
+iina,Swift,D:\clones\iina\iina\LuaScript.swift,7,7.0,20.0
+iina,Swift,D:\clones\iina\iina\Parameter.swift,4,7.0,20.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\videotoolbox.h,16,92.0,19.0
+iina,Swift,D:\clones\iina\iina\PlaylistPlaybackProgressView.swift,8,8.0,19.0
+iina,Swift,D:\clones\iina\iina\PreferenceViewController.swift,10,7.0,19.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\adler32.h,8,46.0,18.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\aes_ctr.h,16,54.0,18.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\parseutils.h,16,159.0,18.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libswscale\version.h,9,26.0,18.0
+iina,Swift,D:\clones\iina\iina\MPVPlaylistItem.swift,7,9.0,18.0
+iina,Swift,D:\clones\iina\iina\MainWindow.swift,5,7.0,18.0
+iina,Swift,D:\clones\iina\iina\VolumeSliderCell.swift,5,8.0,18.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\ripemd.h,13,58.0,17.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\sha.h,13,65.0,17.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\sha512.h,13,67.0,17.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\tree.h,13,108.0,17.0
+iina,Markdown,D:\clones\iina\.github\ISSUE_TEMPLATE\feature_request.md,6,0.0,16.0
+iina,JavaScript,D:\clones\iina\browser\Chrome_Open_In_IINA\popup.js,1,0.0,16.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\qsv.h,12,79.0,16.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\vorbis_parser.h,11,47.0,16.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\dovi_meta.h,7,47.0,16.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\pref_advanced.imageset\Contents.json,0,0.0,16.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\pref_av.imageset\Contents.json,0,0.0,16.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\pref_control.imageset\Contents.json,0,0.0,16.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\pref_general.imageset\Contents.json,0,0.0,16.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\pref_kb.imageset\Contents.json,0,0.0,16.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\pref_network.imageset\Contents.json,0,0.0,16.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\pref_sub.imageset\Contents.json,0,0.0,16.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\pref_ui.imageset\Contents.json,0,0.0,16.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\pref_utils.imageset\Contents.json,0,0.0,16.0
+iina,C/C++ Header,D:\clones\iina\iina\FFmpegController.h,17,13.0,16.0
+iina,Swift,D:\clones\iina\iina\MPVChapter.swift,5,7.0,16.0
+iina,Swift,D:\clones\iina\iina\ScriptLoader.swift,6,7.0,16.0
+iina,YAML,D:\clones\iina\.github\workflows\ci.yml,4,1.0,15.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\blowfish.h,11,56.0,15.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\murmur3.h,12,94.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\back.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\battery.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\fullscreen.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\history.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\minus.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\mute.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\nextl.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\nextr.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\ontop.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\ontop_off.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\pause.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\pip.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\play.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\playing-in-pip.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\playlist.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\plus.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\speed.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\speedl.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\sub-track.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\tab_audio.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\tab_sub.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\tab_video.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\toggle-album-art.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\volume-0.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\volume-1.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\volume-2.imageset\Contents.json,0,0.0,15.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\volume.imageset\Contents.json,0,0.0,15.0
+iina,Swift,D:\clones\iina\iina\GeometryDef.swift,4,11.0,15.0
+iina,Swift,D:\clones\iina\iina\ThumbnailPeekView.swift,5,8.0,15.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\hwcontext_cuda.h,12,43.0,14.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\hwcontext_dxva2.h,9,52.0,14.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\xtea.h,11,69.0,14.0
+iina,Swift,D:\clones\iina\iina\RoundedTextFieldCell.swift,7,7.0,14.0
+iina,Swift,D:\clones\iina\iina\SettingsListCellView.swift,6,7.0,14.0
+iina,diff,D:\clones\iina\other\mpv.patch,3,17.0,14.0
+iina,HTML,D:\clones\iina\browser\Chrome_Open_In_IINA\background.html,1,0.0,13.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\mediacodec.h,12,76.0,13.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\vaapi.h,11,62.0,13.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\motion_vector.h,4,40.0,13.0
+iina,Swift,D:\clones\iina\iina\AccessibilityPreferences.swift,4,22.0,13.0
+iina,Bourne Shell,D:\clones\iina\other\download_libs.sh,2,1.0,13.0
+iina,JavaScript,D:\clones\iina\browser\Chrome_Open_In_IINA\background.js,2,0.0,12.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\des.h,10,55.0,12.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\hwcontext_qsv.h,8,33.0,12.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\loop-dark.imageset\Contents.json,0,0.0,12.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\loop.imageset\Contents.json,0,0.0,12.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\shuffle-dark.imageset\Contents.json,0,0.0,12.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\shuffle.imageset\Contents.json,0,0.0,12.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\trash.imageset\Contents.json,0,0.0,12.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\triangle-down.imageset\Contents.json,0,0.0,12.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\aes.h,11,43.0,11.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\lzo.h,8,47.0,11.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\rc4.h,9,46.0,11.0
+iina,Swift,D:\clones\iina\iina\MPVHook.swift,4,7.0,11.0
+iina,XML,D:\clones\iina\OpenInIINA\OpenInIINA.entitlements,0,0.0,10.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\cast5.h,9,61.0,10.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\file.h,8,53.0,10.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\pixelutils.h,5,37.0,10.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\replaygain.h,4,36.0,10.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\tea.h,10,51.0,10.0
+iina,XML,D:\clones\iina\iina\IINA.entitlements,0,0.0,10.0
+iina,Bourne Shell,D:\clones\iina\other\update_copyright.sh,6,8.0,10.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\camellia.h,10,51.0,9.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\hwcontext_videotoolbox.h,9,42.0,9.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\macros.h,9,32.0,9.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\twofish.h,10,51.0,9.0
+iina,Objective-C,D:\clones\iina\iina\FixedFontManager.m,3,0.0,9.0
+iina,Swift,D:\clones\iina\iina\MiniPlayerWindowMenuActions.swift,6,7.0,9.0
+iina,JavaScript,D:\clones\iina\OpenInIINA\open-in-iina.js,1,0.0,8.0
+iina,JavaScript,D:\clones\iina\browser\Chrome_Open_In_IINA\options.js,2,0.0,8.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\adts_parser.h,5,24.0,8.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\base64.h,9,55.0,8.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\display.h,10,96.0,8.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\hwcontext_vdpau.h,6,30.0,8.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\time.h,7,41.0,8.0
+iina,Swift,D:\clones\iina\iina\FlippedView.swift,3,7.0,8.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\ac3_parser.h,5,24.0,7.0
+iina,XML,D:\clones\iina\iina.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+iina,Swift,D:\clones\iina\iina\IINAError.swift,5,7.0,7.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\hwcontext_mediacodec.h,3,27.0,6.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\DocIcons\Contents.json,0,0.0,6.0
+iina,JSON,D:\clones\iina\iina\Assets.xcassets\Icons\Contents.json,0,0.0,6.0
+iina,C/C++ Header,D:\clones\iina\iina\FixedFontManager.h,4,0.0,6.0
+iina,C/C++ Header,D:\clones\iina\iina\ObjcUtils.h,4,7.0,6.0
+iina,Swift,D:\clones\iina\iina\SlideUpButton.swift,4,7.0,6.0
+iina,Swift,D:\clones\iina\iina\TimeLabelOverflowedStackView.swift,4,7.0,6.0
+iina,Swift,D:\clones\iina\iina\TimeLabelOverflowedView.swift,4,7.0,6.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavcodec\jni.h,4,37.0,5.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\avconfig.h,0,1.0,5.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\random_seed.h,5,33.0,5.0
+iina,Markdown,D:\clones\iina\.github\PULL_REQUEST_TEMPLATE.md,2,0.0,4.0
+iina,C/C++ Header,D:\clones\iina\deps\include\libavutil\ffversion.h,0,1.0,4.0
+iina,YAML,D:\clones\iina\crowdin.yml,0,0.0,3.0
+iina,Markdown,D:\clones\iina\browser\Chrome_Open_In_IINA\README.md,1,0.0,2.0

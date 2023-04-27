@@ -1,0 +1,372 @@
+project,language,filename,blank,comment,code
+RestKit,XML,D:\clones\RestKit\Examples\RKMacOSX\RKMacOSX\en.lproj\MainMenu.xib,0,0.0,4119.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\ObjectMapping\RKObjectMappingNextGenTest.m,448,46.0,2613.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\benchmark_parents_and_children.json,0,0.0,2062.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\CoreData\RKManagedObjectMappingOperationDataSourceTest.m,309,45.0,1534.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\ObjectMapping\RKObjectManagerTest.m,296,25.0,1521.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\Network\RKManagedObjectRequestOperationTest.m,215,73.0,1448.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\AFNetworking\AFRKHTTPClient.m,277,30.0,1096.0
+RestKit,Objective-C,D:\clones\RestKit\Code\ObjectMapping\RKMappingOperation.m,182,95.0,1017.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\RKObjectManager.m,144,64.0,827.0
+RestKit,Markdown,D:\clones\RestKit\Docs\Object Mapping.md,162,0.0,801.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\Network\RKObjectRequestOperationTest.m,166,20.0,767.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\RKManagedObjectRequestOperation.m,117,70.0,759.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\CoreData\RKEntityMappingTest.m,106,20.0,722.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\AFNetworking\AFRKURLConnectionOperation.m,153,24.0,685.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\ObjectMapping\RKObjectParameterizationTest.m,136,29.0,621.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\Network\RKResponseMapperOperationTest.m,109,11.0,560.0
+RestKit,Markdown,D:\clones\RestKit\README.md,115,0.0,519.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\CoreData\RKManagedObjectStoreTest.m,97,64.0,514.0
+RestKit,Markdown,D:\clones\RestKit\Docs\MobileTuts Advanced RestKit\Advanced_RestKit_Tutorial.md,210,0.0,513.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\ObjectMapping\RKMappingOperationTest.m,73,23.0,491.0
+RestKit,Objective-C,D:\clones\RestKit\Code\ObjectMapping\RKObjectMapping.m,106,28.0,490.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\RKObjectRequestOperation.m,88,33.0,488.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\RKHTTPUtilities.m,50,57.0,479.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\ObjectMapping\RKPaginatorTest.m,70,23.0,463.0
+RestKit,Objective-C,D:\clones\RestKit\Code\CoreData\RKManagedObjectStore.m,89,54.0,433.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Testing\RKMappingTest.m,74,43.0,424.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\Foursquare.json,0,0.0,423.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\RKResponseMapperOperation.m,84,43.0,412.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\Search\RKSearchIndexerTest.m,96,21.0,403.0
+RestKit,Objective-C,D:\clones\RestKit\Code\CoreData\RKManagedObjectMappingOperationDataSource.m,83,47.0,397.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\Network\RKRouteSetTest.m,57,8.0,358.0
+RestKit,Objective-C,D:\clones\RestKit\Code\ObjectMapping\RKMapperOperation.m,72,37.0,344.0
+RestKit,Objective-C,D:\clones\RestKit\Code\CoreData\RKEntityByAttributeCache.m,53,37.0,340.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\CoreData\RKEntityByAttributeCacheTest.m,76,21.0,328.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Search\RKSearchIndexer.m,60,40.0,326.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\Network\RKResponseDescriptorTest.m,46,7.0,304.0
+RestKit,Ruby,D:\clones\RestKit\Tests\Server\server.rb,59,7.0,292.0
+RestKit,HTML,D:\clones\RestKit\Docs\MobileTuts Introduction to RestKit\index.html,100,0.0,287.0
+RestKit,Objective-C,D:\clones\RestKit\Code\CoreData\RKEntityMapping.m,55,21.0,286.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\CoreData\RKRelationshipConnectionOperationTest.m,71,11.0,286.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\RKPaginator.m,51,24.0,253.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\AFNetworking\AFRKImageRequestOperation.m,50,22.0,249.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\AFNetworking\AFRKHTTPRequestOperation.m,51,28.0,248.0
+RestKit,Objective-C,D:\clones\RestKit\Code\CoreData\RKEntityCache.m,33,19.0,244.0
+RestKit,Objective-C,D:\clones\RestKit\Code\ObjectMapping\RKObjectMappingMatcher.m,66,9.0,238.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\ObjectMapping\RKObjectMappingTest.m,51,10.0,234.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\CoreData\RKManagedObjectLoaderTest.m,36,20.0,228.0
+RestKit,Objective-C,D:\clones\RestKit\Code\CoreData\RKManagedObjectImporter.m,49,22.0,227.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Testing\RKTestFactory.m,51,29.0,224.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\CoreData\RKEntityCacheTest.m,39,7.0,223.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\Testing\RKMappingTestTest.m,28,7.0,208.0
+RestKit,Ruby,D:\clones\RestKit\Rakefile,31,1.0,200.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\ObjectMapping\RKDynamicMappingTest.m,19,21.0,186.0
+RestKit,Objective-C,D:\clones\RestKit\Code\CoreData\RKRelationshipConnectionOperation.m,27,27.0,183.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Support\RKLog.m,28,21.0,164.0
+RestKit,XML,D:\clones\RestKit\Tests\Fixtures\XML\national_weather_service.xml,0,0.0,163.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\RKResponseDescriptor.m,31,20.0,160.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Support\RKOperationStateMachine.m,27,23.0,159.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Support\lcl_RK.h,58,174.0,157.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\RKRouteSet.m,38,22.0,152.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\Support\RKHTTPUtilitiesTest.m,36,10.0,152.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\ObjectMapping\RKMIMETypeSerializationTest.m,32,21.0,151.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\Support\RKPathMatcherTest.m,27,19.0,147.0
+RestKit,Objective-C,D:\clones\RestKit\Code\ObjectMapping\RKPropertyInspector.m,36,25.0,146.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Support\RKMIMETypeSerialization.m,31,22.0,137.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Support\RKURLEncodedSerialization.m,39,25.0,134.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\AFNetworking\AFRKHTTPClient.h,163,355.0,133.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\AFNetworking\UIImageView+AFRKNetworking.m,40,21.0,130.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\Support\RKDictionaryUtilitiesTest.m,28,19.0,129.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\RKObjectManager.h,234,533.0,124.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\RKRoute.m,28,19.0,122.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\AFNetworking\AFRKXMLRequestOperation.m,25,21.0,121.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\CoreData\NSEntityDescription+RKAdditionsTest.m,22,7.0,121.0
+RestKit,Objective-C,D:\clones\RestKit\Code\CoreData\RKInMemoryManagedObjectCache.m,25,22.0,120.0
+RestKit,Objective-C,D:\clones\RestKit\Code\CoreData\RKPropertyInspector+CoreData.m,21,21.0,120.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\RKPathMatcher.m,19,21.0,114.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Support\lcl_RK.m,18,43.0,114.0
+RestKit,XML,D:\clones\RestKit\RestKit.xcworkspace\xcshareddata\xcschemes\Build All Examples.xcscheme,0,0.0,113.0
+RestKit,Markdown,D:\clones\RestKit\Tests\README.md,37,0.0,112.0
+RestKit,Objective-C,D:\clones\RestKit\Code\ObjectMapping\RKObjectUtilities.m,15,23.0,109.0
+RestKit,Objective-C,D:\clones\RestKit\Examples\RKSearchExample\RKSearchExample\RKSViewController.m,26,7.0,107.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\RKObjectParameterization.m,19,27.0,106.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\AFNetworking\AFRKNetworkActivityIndicatorManager.m,29,23.0,105.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Support\RKPathUtilities.m,20,10.0,105.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Testing\RKTestHelpers.m,19,24.0,105.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\Network\RKRequestDescriptorTest.m,17,7.0,105.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\AFNetworking\AFRKJSONRequestOperation.m,21,25.0,104.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\AFNetworking\AFRKPropertyListRequestOperation.m,20,21.0,102.0
+RestKit,Objective-C,D:\clones\RestKit\Code\CoreData\RKFetchRequestManagedObjectCache.m,21,25.0,101.0
+RestKit,Objective-C,D:\clones\RestKit\Code\CoreData\RKConnectionDescription.m,23,21.0,98.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\CoreData\RKFetchRequestMappingCacheTest.m,23,11.0,98.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Testing\RKBenchmark.m,21,11.0,97.0
+RestKit,Markdown,D:\clones\RestKit\Code\Search\README.md,55,0.0,94.0
+RestKit,Objective-C,D:\clones\RestKit\Examples\RKTwitterCoreData\Classes\RKTwitterViewController.m,24,12.0,94.0
+RestKit,Markdown,D:\clones\RestKit\Docs\WRITING_DOCS.md,21,0.0,91.0
+RestKit,XML,D:\clones\RestKit\Examples\RKTwitter\RKTwitter.xcodeproj\xcshareddata\xcschemes\RKTwitter.xcscheme,0,0.0,91.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\Support\RKDotNetDateFormatterTest.m,18,7.0,91.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\CoreData\RKInMemoryManagedObjectCacheTest.m,17,25.0,90.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\Support\RKURLEncodedSerializationTest.m,17,19.0,90.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\RKHTTPRequestOperation.m,20,22.0,89.0
+RestKit,XML,D:\clones\RestKit\Examples\RKTwitterCoreData\Resources\MainStoryboard.storyboard,0,2.0,88.0
+RestKit,Objective-C,D:\clones\RestKit\Examples\RKTwitterCoreData\Classes\RKTwitterAppDelegate.m,20,36.0,84.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Testing\RKTestNotificationObserver.m,20,7.0,83.0
+RestKit,Objective-C,D:\clones\RestKit\Code\CocoaLumberjack\RKLumberjackLogger.m,21,8.0,81.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Support\RKDotNetDateFormatter.m,16,19.0,80.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\Network\RKHTTPRequestOperationTest.m,19,7.0,80.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\Search\RKSearchTest.m,19,11.0,80.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\RKRequestDescriptor.m,17,22.0,79.0
+RestKit,XML,D:\clones\RestKit\Examples\RKSearchExample\RKSearchExample\en.lproj\MainStoryboard.storyboard,0,1.0,78.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\CoreData\RKFetchedResultsControllerUpdateTest.m,27,16.0,78.0
+RestKit,Objective-C,D:\clones\RestKit\Code\ObjectMapping\RKDynamicMapping.m,19,23.0,77.0
+RestKit,Markdown,D:\clones\RestKit\CREDITS.md,9,0.0,75.0
+RestKit,Objective-C,D:\clones\RestKit\Examples\RKTwitter\Classes\RKTwitterViewController.m,18,9.0,74.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Support\RKLog.h,52,129.0,72.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\CoreData\RKRefetchingMappingResultTests.m,31,13.0,69.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\Network\AFRKNetworkingTests.m,24,21.0,69.0
+RestKit,XML,D:\clones\RestKit\Tests\Schemes\RestKitFrameworkTests.xcscheme,0,0.0,69.0
+RestKit,XML,D:\clones\RestKit\Tests\Schemes\RestKitTests.xcscheme,0,0.0,69.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Testing\RKTestFixture.m,16,19.0,63.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\humans\nested_self_referential.json,0,0.0,61.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Testing\RKPropertyMappingTestExpectation.m,15,19.0,60.0
+RestKit,Ruby,D:\clones\RestKit\RestKit.podspec,11,3.0,57.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\ObjectMapping\RKObjectMapping.h,152,321.0,56.0
+RestKit,Objective-C,D:\clones\RestKit\Examples\RKTwitter\Classes\RKTwitterAppDelegate.m,17,17.0,56.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Network\RKRouter.m,12,19.0,54.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\ObjectMapping\RKRelationshipMappingTest.m,21,7.0,49.0
+RestKit,Objective-C,D:\clones\RestKit\Code\ObjectMapping\RKMappingResult.m,13,21.0,47.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\ObjectMapping\RKMappingOperation.h,94,254.0,46.0
+RestKit,XML,D:\clones\RestKit\Resources\PLISTs\RestKitResources-Info.plist,0,0.0,46.0
+RestKit,Objective-C,D:\clones\RestKit\Code\CoreData\NSManagedObjectContext+RKAdditions.m,12,27.0,45.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\AFNetworking\AFRKURLConnectionOperation.h,103,222.0,45.0
+RestKit,Objective-C,D:\clones\RestKit\Code\ObjectMapping\RKPropertyMapping.m,11,24.0,44.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\RKHTTPUtilities.h,31,86.0,42.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Testing\RKMappingTest.h,51,149.0,42.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\ComplexNestedUser.json,1,0.0,42.0
+RestKit,Objective-C,D:\clones\RestKit\Code\ObjectMapping\RKRelationshipMapping.m,10,19.0,41.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Testing\RKConnectionTestExpectation.m,10,19.0,41.0
+RestKit,XML,D:\clones\RestKit\Examples\RKSearchExample\RKSearchExample\RKSearchExample-Info.plist,0,0.0,40.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\lists.json,0,0.0,40.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\parents_and_children.json,0,0.0,40.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\Network\RKRouterTest.m,8,7.0,40.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\RKPaginator.h,67,174.0,39.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\ArrayOfHumans.json,0,0.0,38.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\CoreData\RKConnectionDescriptionTest.m,11,7.0,38.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\RKTestEnvironment.m,9,24.0,38.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\AFNetworking\AFRKImageRequestOperation.h,17,59.0,37.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\RKResponseMapperOperation.h,69,159.0,37.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Search\RKManagedObjectStore+RKSearchAdditions.m,12,19.0,37.0
+RestKit,C/C++ Header,D:\clones\RestKit\Tests\Models\RKTestUser.h,6,7.0,37.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\Support\RKStringTokenizerTest.m,9,7.0,36.0
+RestKit,C/C++ Header,D:\clones\RestKit\Tests\Models\RKHuman.h,10,19.0,36.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Models\RKTestUser.m,11,10.0,36.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\CoreData\RKManagedObjectStore.h,71,202.0,34.0
+RestKit,Objective-C,D:\clones\RestKit\Examples\RKSearchExample\RKSearchExample\RKSAppDelegate.m,12,15.0,33.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\DynamicKeysWithNestedRelationship.json,0,0.0,33.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\SameKeyDifferentTargetClasses.json,1,0.0,33.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\user.json,0,0.0,33.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\CoreData\NSManagedObjectContext+RKAdditionsTest.m,10,7.0,33.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\ObjectMapping\RKAttributeMappingTest.m,11,7.0,33.0
+RestKit,Objective-C++,D:\clones\RestKit\Tests\Logic\Support\RKObjectiveCppTest.mm,11,8.0,33.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\CoreData\RKEntityMapping.h,90,194.0,32.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Search\RKSearchPredicate.m,12,7.0,32.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Testing\RKTestFactory.h,51,147.0,32.0
+RestKit,XML,D:\clones\RestKit\Examples\RKMacOSX\RKMacOSX\RKMacOSX-Info.plist,0,0.0,32.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\humans\all.json,0,0.0,32.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\ObjectMapping\RKMapperOperation.h,68,157.0,31.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Support\RKDictionaryUtilities.m,6,7.0,31.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\ObjectMapping\RKMappingResultTest.m,8,19.0,31.0
+RestKit,XML,D:\clones\RestKit\Examples\RKTwitterCoreData\Resources\RKTwitter-Info.plist,0,0.0,30.0
+RestKit,XML,D:\clones\RestKit\Resources\PLISTs\RestKitFramework-Info.plist,0,0.0,30.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\ArrayOfNestedDictionaries.json,0,0.0,29.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\CoreData\RKManagedObjectSeederTest.m,21,7.0,29.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\Support\NSStringRestKitTest.m,8,19.0,29.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Models\RKHuman.m,7,19.0,29.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\RKObjectRequestOperation.h,63,147.0,28.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Testing\RKTestHelpers.h,20,73.0,28.0
+RestKit,XML,D:\clones\RestKit\Examples\RKTwitter\Resources\RKTwitter-Info.plist,0,0.0,28.0
+RestKit,XML,D:\clones\RestKit\Tests\Fixtures\XML\orders.xml,0,0.0,28.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\CoreData\RKEntityByAttributeCache.h,45,127.0,27.0
+RestKit,XML,D:\clones\RestKit\Tests\Fixtures\XML\zend.xml,0,0.0,27.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\Network\RKRouteTest.m,9,7.0,27.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\AFNetworking\AFRKNetworking.h,7,21.0,26.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\humans\self_referential.json,0,0.0,26.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Search\RKSearchIndexer.h,56,142.0,25.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Support\RKStringTokenizer.m,13,10.0,25.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\RKResponseDescriptor.h,41,116.0,24.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Support\lcl_config_logger_RK.h,6,23.0,24.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\CoreData\RKEntityCache.h,41,118.0,23.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\humans\hoarderWithCats_issue_2192.json,1,0.0,23.0
+RestKit,Objective-C,D:\clones\RestKit\Code\ObjectMapping\RKObjectMappingOperationDataSource.m,7,19.0,22.0
+RestKit,XML,D:\clones\RestKit\Resources\PLISTs\RestKitTests-Info.plist,0,0.0,22.0
+RestKit,YAML,D:\clones\RestKit\.travis.yml,0,0.0,21.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Support\RKMIMETypes.m,4,19.0,21.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Search\RKSearchWordEntity.m,6,7.0,20.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Support\RKOperationStateMachine.h,36,103.0,19.0
+RestKit,XML,D:\clones\RestKit\Tests\Fixtures\XML\tab_data.xml,0,0.0,19.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\Support\RKISODateFormatterTest.m,9,7.0,19.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Models\RKTestAddress.m,6,9.0,19.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\RKRouteSet.h,38,103.0,18.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\humans\has_many_with_to_one_relationship.json,0,0.0,18.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\users.json,0,0.0,18.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\CoreData\RKManagedObjectImporter.h,34,107.0,17.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\AFNetworking\AFRKHTTPRequestOperation.h,30,86.0,17.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\AFNetworking\AFRKXMLRequestOperation.h,19,53.0,17.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\RKRequestDescriptor.h,21,72.0,17.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\RestKit.h,7,26.0,17.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\humans\and_cats.json,0,0.0,17.0
+RestKit,Objective-C,D:\clones\RestKit\Code\CoreData\NSManagedObject+RKAdditions.m,5,7.0,16.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\AFNetworking\UIImageView+AFRKNetworking.h,16,46.0,16.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\RKManagedObjectRequestOperation.h,66,127.0,16.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Testing\RKBenchmark.h,25,70.0,16.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\DynamicKeysWithRelationship.json,0,0.0,16.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\RailsUser.json,0,0.0,16.0
+RestKit,C/C++ Header,D:\clones\RestKit\Tests\Models\RKCat.h,6,19.0,16.0
+RestKit,XML,D:\clones\RestKit\Tests\Models\VersionedModel.xcdatamodeld\VersionedModel 3.xcdatamodel\contents,0,0.0,16.0
+RestKit,Objective-C,D:\clones\RestKit\Code\ObjectMapping\RKAttributeMapping.m,5,19.0,15.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\ObjectMapping\RKMappingOperationDataSource.h,35,89.0,15.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\ObjectMapping\RKObjectUtilities.h,25,73.0,15.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\ObjectMapping\RKPropertyInspector.h,26,76.0,15.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\ObjectMapping\RKRelationshipMapping.h,24,56.0,15.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Testing\RKPropertyMappingTestExpectation.h,25,83.0,15.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\ArrayOfResults.json,0,0.0,15.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\NakedEvents.json,0,0.0,15.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Models\RKCat.m,6,19.0,15.0
+RestKit,C/C++ Header,D:\clones\RestKit\Tests\Models\RKHouse.h,7,19.0,15.0
+RestKit,XML,D:\clones\RestKit\Tests\Models\VersionedModel.xcdatamodeld\VersionedModel 2.xcdatamodel\contents,0,0.0,15.0
+RestKit,XML,D:\clones\RestKit\Tests\Models\VersionedModel.xcdatamodeld\VersionedModel 4.xcdatamodel\contents,0,0.0,15.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\RKRoute.h,33,94.0,14.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\ObjectMapping\RKMappingErrors.h,3,19.0,14.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\Dynamic\friends.json,0,0.0,14.0
+RestKit,C/C++ Header,D:\clones\RestKit\Tests\Models\RKChild.h,5,19.0,14.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Models\RKHouse.m,6,19.0,14.0
+RestKit,XML,D:\clones\RestKit\Tests\Models\VersionedModel.xcdatamodeld\VersionedModel.xcdatamodel\contents,0,0.0,14.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\CoreData\RKConnectionDescription.h,42,109.0,13.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\CoreData\RKRelationshipConnectionOperation.h,19,58.0,13.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network.h,2,19.0,13.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\RKRouter.h,27,78.0,13.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Testing\RKTestFixture.h,17,57.0,13.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Testing\RKTestNotificationObserver.h,23,62.0,13.0
+RestKit,XML,D:\clones\RestKit\Examples\RKSearchExample\RKSearchExample\RKSearchExampleModel.xcdatamodeld\RKSearchExampleModel.xcdatamodel\contents,0,0.0,13.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\humans\with_to_one_relationship_inside_collection.json,1,0.0,13.0
+RestKit,C/C++ Header,D:\clones\RestKit\Tests\Models\RKTestAddress.h,5,7.0,13.0
+RestKit,C/C++ Header,D:\clones\RestKit\Tests\RKTestEnvironment.h,6,23.0,13.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\CoreData.h,2,19.0,12.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\AFNetworking\AFRKNetworkActivityIndicatorManager.h,17,46.0,12.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\ObjectMapping\RKObjectMappingMatcher.h,28,71.0,12.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Support\RKMIMETypes.h,10,32.0,12.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Support\RKMacros.h,6,33.0,12.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Support\RKPathUtilities.h,16,34.0,12.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Support\lcl_config_components_RK.h,4,47.0,12.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\ConnectingParents.json,0,0.0,12.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\DynamicKeys.json,0,0.0,12.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\humans\with_to_one_relationship.json,0,0.0,12.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\CoreData\RKManagedObjectCaching.h,15,46.0,11.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\RKPathMatcher.h,30,91.0,11.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\ObjectMapping\RKPropertyMapping.h,17,56.0,11.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Support\RKNSJSONSerialization.m,5,19.0,11.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Testing\RKConnectionTestExpectation.h,18,58.0,11.0
+RestKit,C/C++ Header,D:\clones\RestKit\Examples\RKTwitterCoreData\Classes\RKTweet.h,10,28.0,11.0
+RestKit,XML,D:\clones\RestKit\Tests\Fixtures\XML\channels.xml,0,0.0,11.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Models\RKChild.m,4,19.0,11.0
+RestKit,C/C++ Header,D:\clones\RestKit\Tests\Models\RKMappableObject.h,4,19.0,11.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\CoreData\RKManagedObjectMappingOperationDataSource.h,18,56.0,10.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\ObjectMapping\RKDynamicMapping.h,32,73.0,10.0
+RestKit,Objective-C,D:\clones\RestKit\Code\ObjectMapping\RKMapping.m,5,7.0,10.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Support.h,1,20.0,10.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Support\RKErrors.h,12,37.0,10.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Support\RKMIMETypeSerialization.h,22,65.0,10.0
+RestKit,C/C++ Header,D:\clones\RestKit\Examples\RKTwitter\Classes\RKTweet.h,10,28.0,10.0
+RestKit,Objective-C,D:\clones\RestKit\Examples\RKTwitterCoreData\Classes\RKTweet.m,4,7.0,10.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\cats\catsWithParent_issue_2194.json,1,0.0,10.0
+RestKit,C/C++ Header,D:\clones\RestKit\Tests\Models\RKObjectLoaderTestResultModel.h,4,19.0,10.0
+RestKit,C/C++ Header,D:\clones\RestKit\Tests\Models\RKParent.h,5,19.0,10.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Models\RKPost.m,6,8.0,10.0
+RestKit,C/C++ Header,D:\clones\RestKit\Tests\Models\RKResident.h,6,19.0,10.0
+RestKit,Bourne Again Shell,D:\clones\RestKit\Tests\cibuild,4,4.0,10.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\AFNetworking\AFRKJSONRequestOperation.h,14,48.0,9.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\AFNetworking\AFRKPropertyListRequestOperation.h,13,46.0,9.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\RKHTTPRequestOperation.h,13,38.0,9.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\ObjectMapping\RKMappingResult.h,22,60.0,9.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Support\RKDictionaryUtilities.h,7,30.0,9.0
+RestKit,JSON,D:\clones\RestKit\Examples\RKSearchExample\RKSearchExample\contacts.json,0,0.0,9.0
+RestKit,C/C++ Header,D:\clones\RestKit\Tests\Models\RKDynamicMappingModels.h,4,19.0,9.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Models\RKDynamicMappingModels.m,4,19.0,9.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Models\RKResident.m,5,19.0,9.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Models\RKSearchable.m,6,19.0,9.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\ObjectMapping.h,2,19.0,8.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Search\RKManagedObjectStore+RKSearchAdditions.h,20,56.0,8.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Testing.h,4,19.0,8.0
+RestKit,XML,D:\clones\RestKit\Examples\RKSearchExample\RKSearchExample\RKSearchExampleModel.xcdatamodeld\.xccurrentversion,0,0.0,8.0
+RestKit,Objective-C,D:\clones\RestKit\Examples\RKSearchExample\RKSearchExample\main.m,3,7.0,8.0
+RestKit,XML,D:\clones\RestKit\RestKit.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist,0,0.0,8.0
+RestKit,XML,D:\clones\RestKit\Tests\Fixtures\XML\container_attributes.xml,0,0.0,8.0
+RestKit,C/C++ Header,D:\clones\RestKit\Tests\Models\RKMappableAssociation.h,4,19.0,8.0
+RestKit,XML,D:\clones\RestKit\Tests\Models\VersionedModel.xcdatamodeld\.xccurrentversion,0,0.0,8.0
+RestKit,Markdown,D:\clones\RestKit\CONTRIBUTING.md,6,0.0,7.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\CoreData\NSManagedObjectContext+RKAdditions.h,17,55.0,7.0
+RestKit,Objective-C,D:\clones\RestKit\Code\ObjectMapping\RKErrorMessage.m,4,19.0,7.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Search\RKSearchWord.m,5,20.0,7.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Support\RKURLEncodedSerialization.h,15,52.0,7.0
+RestKit,XML,D:\clones\RestKit\Examples\RKMacOSX\RKMacOSX.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+RestKit,Objective-C,D:\clones\RestKit\Examples\RKMacOSX\RKMacOSX\RKMacOSXAppDelegate.m,5,8.0,7.0
+RestKit,XML,D:\clones\RestKit\Examples\RKSearchExample\RKSearchExample.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+RestKit,Objective-C,D:\clones\RestKit\Examples\RKTwitter\Classes\RKTweet.m,4,7.0,7.0
+RestKit,C/C++ Header,D:\clones\RestKit\Examples\RKTwitter\Classes\RKTwitterViewController.h,3,7.0,7.0
+RestKit,XML,D:\clones\RestKit\Examples\RKTwitter\RKTwitter.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+RestKit,XML,D:\clones\RestKit\Examples\RKTwitterCoreData\RKTwitterCoreData.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+RestKit,Objective-C,D:\clones\RestKit\Examples\RKTwitterCoreData\main.m,3,7.0,7.0
+RestKit,JSON,D:\clones\RestKit\Examples\RKTwitterCoreData\users.json,0,0.0,7.0
+RestKit,XML,D:\clones\RestKit\RestKit.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+RestKit,C/C++ Header,D:\clones\RestKit\Tests\Models\RKEvent.h,5,19.0,7.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Models\RKEvent.m,5,19.0,7.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Models\RKParent.m,5,19.0,7.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\CocoaLumberjack\RKLumberjackLogger.h,4,7.0,6.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\CoreData\NSManagedObject+RKAdditions.h,9,23.0,6.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\ObjectMapping\RKMapperOperation_Private.h,3,19.0,6.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Search\RKSearchWordEntity.h,4,22.0,6.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Support\RKDotNetDateFormatter.h,13,54.0,6.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Support\RKErrors.m,3,19.0,6.0
+RestKit,C/C++ Header,D:\clones\RestKit\Examples\RKMacOSX\RKMacOSX\RKMacOSXAppDelegate.h,4,7.0,6.0
+RestKit,C/C++ Header,D:\clones\RestKit\Examples\RKSearchExample\RKSearchExample\RKSAppDelegate.h,4,7.0,6.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\nested_user.json,0,0.0,6.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Logic\Support\RKPathUtilitiesTest.m,6,7.0,6.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Models\RKObjectLoaderTestResultModel.m,4,19.0,6.0
+RestKit,C/C++ Header,D:\clones\RestKit\Tests\Models\RKObjectMapperTestModel.h,5,19.0,6.0
+RestKit,C/C++ Header,D:\clones\RestKit\Tests\Models\RKSearchable.h,4,19.0,6.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\CoreData\RKInMemoryManagedObjectCache.h,7,30.0,5.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\CoreData\RKPropertyInspector+CoreData.h,7,33.0,5.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\ObjectMapping\RKErrorMessage.h,7,32.0,5.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\ObjectMapping\RKMapping.h,13,44.0,5.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Search.h,2,19.0,5.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Search\RKSearchPredicate.h,10,39.0,5.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Support\RKSerialization.h,10,41.0,5.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Support\RKStringTokenizer.h,9,37.0,5.0
+RestKit,Objective-C,D:\clones\RestKit\Code\Testing\RKTestConstants.m,2,25.0,5.0
+RestKit,Objective-C,D:\clones\RestKit\Examples\RKMacOSX\RKMacOSX\main.m,2,7.0,5.0
+RestKit,C/C++ Header,D:\clones\RestKit\Examples\RKTwitter\Classes\RKTUser.h,3,7.0,5.0
+RestKit,XML,D:\clones\RestKit\Resources\RestKitCoreData.xcdatamodeld\.xccurrentversion,0,0.0,5.0
+RestKit,XML,D:\clones\RestKit\Tests\Fixtures\XML\attributes_without_text_content.xml,0,0.0,5.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Models\RKMappableAssociation.m,5,19.0,5.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Models\RKMappableObject.m,4,19.0,5.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\RKObjectParameterization.h,6,34.0,4.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Network\RKObjectRequestOperationSubclass.h,7,33.0,4.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\ObjectMapping\RKAttributeMapping.h,8,48.0,4.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Search\RKSearchWord.h,6,29.0,4.0
+RestKit,C/C++ Header,D:\clones\RestKit\Examples\RKTwitterCoreData\Classes\RKTwitterViewController.h,2,7.0,4.0
+RestKit,C/C++ Header,D:\clones\RestKit\Tests\Models\RKPost.h,2,7.0,4.0
+RestKit,Ruby,D:\clones\RestKit\Tests\Server\server.ru,1,0.0,4.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\CoreData\RKFetchRequestManagedObjectCache.h,3,25.0,3.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\ObjectMapping\RKObjectMappingOperationDataSource.h,2,22.0,3.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Support\RKNSJSONSerialization.h,3,23.0,3.0
+RestKit,C/C++ Header,D:\clones\RestKit\Examples\RKSearchExample\RKSearchExample\RKSViewController.h,3,7.0,3.0
+RestKit,Objective-C,D:\clones\RestKit\Examples\RKTwitter\Classes\RKTUser.m,2,7.0,3.0
+RestKit,C/C++ Header,D:\clones\RestKit\Examples\RKTwitterCoreData\Classes\RKTwitterAppDelegate.h,2,7.0,3.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\humans\empty_human.json,0,0.0,3.0
+RestKit,C/C++ Header,D:\clones\RestKit\Tests\Logic\Network\RKResponseMapperOperationTest.h,3,7.0,3.0
+RestKit,Objective-C,D:\clones\RestKit\Tests\Models\RKObjectMapperTestModel.m,2,19.0,3.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\CoreData\RKManagedObjectStore_Private.h,2,7.0,2.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Support\RKBooleanClass.h,2,19.0,2.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\Dynamic\mixed.json,0,0.0,2.0
+RestKit,JSON,D:\clones\RestKit\Examples\RKTwitterCoreData\restkit.json,0,0.0,1.0
+RestKit,XML,D:\clones\RestKit\RestKit.xcworkspace\contents.xcworkspacedata,0,0.0,1.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\Dynamic\boy.json,0,0.0,1.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\Dynamic\child.json,0,0.0,1.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\Dynamic\girl.json,0,0.0,1.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\Dynamic\parent.json,0,0.0,1.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\error.json,0,0.0,1.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\errors.json,0,0.0,1.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\humans\1.json,0,0.0,1.0
+RestKit,JSON,D:\clones\RestKit\Tests\Fixtures\JSON\humans\empty.json,0,0.0,1.0
+RestKit,C/C++ Header,D:\clones\RestKit\Code\Support\lcl_config_extensions_RK.h,1,19.0,0.0

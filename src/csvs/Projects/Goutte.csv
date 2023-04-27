@@ -1,0 +1,9 @@
+project,language,filename,blank,comment,code
+Goutte,reStructuredText,D:\clones\Goutte\README.rst,39,34.0,37.0
+Goutte,JSON,D:\clones\Goutte\composer.json,0,0.0,29.0
+Goutte,JSON,D:\clones\Goutte\box.json,0,0.0,21.0
+Goutte,YAML,D:\clones\Goutte\.travis.yml,6,0.0,19.0
+Goutte,XML,D:\clones\Goutte\phpunit.xml.dist,1,0.0,16.0
+Goutte,PHP,D:\clones\Goutte\Goutte\Tests\ClientTest.php,4,8.0,13.0
+Goutte,PHP,D:\clones\Goutte\Goutte\Client.php,4,11.0,6.0
+Goutte,PHP,D:\clones\Goutte\Goutte\Resources\phar-stub.php,3,8.0,3.0

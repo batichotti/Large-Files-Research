@@ -1,0 +1,423 @@
+project,language,filename,blank,comment,code
+libuv,C/C++ Header,D:\clones\libuv\src\win\winapi.h,1115,44.0,3610.0
+libuv,C,D:\clones\libuv\test\test-fs.c,824,331.0,3328.0
+libuv,C,D:\clones\libuv\src\win\fs.c,599,290.0,2550.0
+libuv,C,D:\clones\libuv\src\win\pipe.c,475,279.0,1835.0
+libuv,C,D:\clones\libuv\src\win\tty.c,415,305.0,1733.0
+libuv,C,D:\clones\libuv\src\unix\fs.c,384,172.0,1689.0
+libuv,C,D:\clones\libuv\test\test-spawn.c,420,115.0,1448.0
+libuv,C/C++ Header,D:\clones\libuv\include\uv.h,226,298.0,1325.0
+libuv,C,D:\clones\libuv\src\win\util.c,389,185.0,1318.0
+libuv,C,D:\clones\libuv\test\test-tty-escape-sequence-processing.c,263,101.0,1267.0
+libuv,C,D:\clones\libuv\src\win\tcp.c,270,168.0,1258.0
+libuv,C,D:\clones\libuv\src\unix\core.c,381,119.0,1124.0
+libuv,C,D:\clones\libuv\src\unix\stream.c,345,210.0,1119.0
+libuv,C/C++ Header,D:\clones\libuv\test\test-list.h,85,29.0,1046.0
+libuv,C,D:\clones\libuv\src\unix\udp.c,229,133.0,1043.0
+libuv,C,D:\clones\libuv\test\test-fs-event.c,229,99.0,892.0
+libuv,C,D:\clones\libuv\src\win\udp.c,208,89.0,884.0
+libuv,C,D:\clones\libuv\src\unix\aix.c,255,171.0,878.0
+libuv,C,D:\clones\libuv\src\win\process.c,196,247.0,840.0
+libuv,C,D:\clones\libuv\src\uv-common.c,230,49.0,691.0
+libuv,C/C++ Header,D:\clones\libuv\include\uv\tree.h,39,62.0,667.0
+libuv,C,D:\clones\libuv\src\unix\fsevents.c,169,116.0,631.0
+libuv,C,D:\clones\libuv\src\unix\sunos.c,187,62.0,629.0
+libuv,CMake,D:\clones\libuv\CMakeLists.txt,47,13.0,623.0
+libuv,C,D:\clones\libuv\src\unix\linux-core.c,173,76.0,608.0
+libuv,C,D:\clones\libuv\test\test-ipc.c,207,53.0,597.0
+libuv,C,D:\clones\libuv\src\unix\thread.c,228,55.0,579.0
+libuv,C,D:\clones\libuv\src\unix\os390.c,199,109.0,569.0
+libuv,C/C++ Header,D:\clones\libuv\include\uv\win.h,86,60.0,545.0
+libuv,C,D:\clones\libuv\test\test-poll.c,144,56.0,496.0
+libuv,make,D:\clones\libuv\Makefile.am,41,17.0,487.0
+libuv,C,D:\clones\libuv\src\win\core.c,155,124.0,466.0
+libuv,C,D:\clones\libuv\src\win\fs-event.c,104,59.0,445.0
+libuv,C,D:\clones\libuv\test\test-fork.c,137,113.0,433.0
+libuv,C/C++ Header,D:\clones\libuv\include\uv\unix.h,47,28.0,430.0
+libuv,m4,D:\clones\libuv\m4\ax_pthread.m4,63,0.0,422.0
+libuv,C,D:\clones\libuv\src\win\poll.c,109,55.0,421.0
+libuv,C,D:\clones\libuv\src\unix\kqueue.c,110,65.0,419.0
+libuv,C,D:\clones\libuv\src\win\winsock.c,102,55.0,418.0
+libuv,C,D:\clones\libuv\src\unix\os390-syscalls.c,102,48.0,384.0
+libuv,C,D:\clones\libuv\src\unix\process.c,110,75.0,384.0
+libuv,C/C++ Header,D:\clones\libuv\include\uv\errno.h,71,27.0,362.0
+libuv,C,D:\clones\libuv\src\unix\ibmi.c,107,72.0,358.0
+libuv,C,D:\clones\libuv\src\unix\tcp.c,111,54.0,345.0
+libuv,C,D:\clones\libuv\test\test-tty.c,86,46.0,342.0
+libuv,C,D:\clones\libuv\test\test-ref.c,85,21.0,339.0
+libuv,C,D:\clones\libuv\test\runner.c,78,37.0,338.0
+libuv,C,D:\clones\libuv\src\unix\signal.c,133,91.0,334.0
+libuv,C,D:\clones\libuv\test\test-fs-readdir.c,71,58.0,333.0
+libuv,C,D:\clones\libuv\src\win\getaddrinfo.c,64,70.0,329.0
+libuv,C,D:\clones\libuv\src\win\thread.c,124,37.0,318.0
+libuv,C,D:\clones\libuv\test\benchmark-multi-accept.c,90,49.0,312.0
+libuv,C,D:\clones\libuv\test\test-fs-open-flags.c,77,46.0,312.0
+libuv,C,D:\clones\libuv\test\benchmark-pump.c,135,38.0,305.0
+libuv,C,D:\clones\libuv\test\echo-server.c,90,39.0,302.0
+libuv,C,D:\clones\libuv\test\test-ipc-send-recv.c,91,39.0,299.0
+libuv,C,D:\clones\libuv\test\runner-unix.c,92,55.0,298.0
+libuv,C,D:\clones\libuv\test\test-ping-pong.c,103,40.0,296.0
+libuv,C,D:\clones\libuv\src\unix\pipe.c,97,43.0,295.0
+libuv,C/C++ Header,D:\clones\libuv\test\task.h,58,31.0,289.0
+libuv,C,D:\clones\libuv\src\unix\darwin.c,79,25.0,275.0
+libuv,C,D:\clones\libuv\src\threadpool.c,79,44.0,270.0
+libuv,C,D:\clones\libuv\test\test-tcp-open.c,107,26.0,268.0
+libuv,C,D:\clones\libuv\src\win\process-stdio.c,79,70.0,267.0
+libuv,C/C++ Header,D:\clones\libuv\src\uv-common.h,71,39.0,263.0
+libuv,C,D:\clones\libuv\src\unix\epoll.c,73,97.0,252.0
+libuv,C/C++ Header,D:\clones\libuv\src\unix\internal.h,57,55.0,250.0
+libuv,C,D:\clones\libuv\test\test-threadpool-cancel.c,78,21.0,250.0
+libuv,C,D:\clones\libuv\test\test-signal.c,50,27.0,248.0
+libuv,C,D:\clones\libuv\test\test-getsockname.c,91,26.0,244.0
+libuv,C,D:\clones\libuv\test\test-udp-open.c,84,24.0,242.0
+libuv,C,D:\clones\libuv\src\unix\posix-poll.c,65,70.0,239.0
+libuv,C,D:\clones\libuv\src\unix\tty.c,72,109.0,239.0
+libuv,C,D:\clones\libuv\test\benchmark-pound.c,86,26.0,239.0
+libuv,C,D:\clones\libuv\test\runner-win.c,75,32.0,239.0
+libuv,C,D:\clones\libuv\test\test-tty-duplicate-key.c,46,41.0,234.0
+libuv,C,D:\clones\libuv\src\inet.c,28,42.0,233.0
+libuv,m4,D:\clones\libuv\m4\libuv-check-flags.m4,36,53.0,231.0
+libuv,C,D:\clones\libuv\test\test-timer.c,96,26.0,225.0
+libuv,Markdown,D:\clones\libuv\README.md,109,0.0,224.0
+libuv,C,D:\clones\libuv\src\idna.c,65,33.0,217.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\guide\utilities.rst,107,127.0,216.0
+libuv,C,D:\clones\libuv\src\unix\linux-inotify.c,60,52.0,215.0
+libuv,DOS Batch,D:\clones\libuv\docs\make.bat,29,1.0,213.0
+libuv,C,D:\clones\libuv\test\test-stdio-over-pipes.c,63,24.0,212.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\guide\processes.rst,99,113.0,209.0
+libuv,C,D:\clones\libuv\src\unix\linux-syscalls.c,33,22.0,209.0
+libuv,C,D:\clones\libuv\test\test-thread.c,63,28.0,209.0
+libuv,C,D:\clones\libuv\src\fs-poll.c,63,24.0,200.0
+libuv,C,D:\clones\libuv\test\test-fs-poll.c,73,27.0,200.0
+libuv,C,D:\clones\libuv\test\run-tests.c,48,24.0,199.0
+libuv,C,D:\clones\libuv\src\unix\freebsd.c,64,27.0,198.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\guide\threads.rst,95,109.0,193.0
+libuv,C,D:\clones\libuv\test\test-tcp-bind-error.c,79,27.0,193.0
+libuv,C,D:\clones\libuv\test\test-tcp-close-reset.c,78,24.0,188.0
+libuv,C,D:\clones\libuv\src\unix\getaddrinfo.c,39,28.0,185.0
+libuv,C,D:\clones\libuv\test\test-pipe-getsockname.c,63,23.0,184.0
+libuv,C,D:\clones\libuv\test\test-signal-multiple-loops.c,64,59.0,184.0
+libuv,C/C++ Header,D:\clones\libuv\src\win\internal.h,74,84.0,180.0
+libuv,C,D:\clones\libuv\src\win\stream.c,49,20.0,177.0
+libuv,C,D:\clones\libuv\test\test-loop-handles.c,87,77.0,173.0
+libuv,C,D:\clones\libuv\test\test-udp-ipv6.c,56,23.0,172.0
+libuv,C,D:\clones\libuv\test\benchmark-udp-pummel.c,50,23.0,170.0
+libuv,C,D:\clones\libuv\src\unix\netbsd.c,61,29.0,169.0
+libuv,C,D:\clones\libuv\src\unix\openbsd.c,54,19.0,167.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\migration_010_100.rst,76,7.0,161.0
+libuv,C/C++ Header,D:\clones\libuv\src\heap-inl.h,37,48.0,160.0
+libuv,C,D:\clones\libuv\src\win\signal.c,75,48.0,159.0
+libuv,C,D:\clones\libuv\test\test-idna.c,22,35.0,157.0
+libuv,C,D:\clones\libuv\test\test-poll-oob.c,28,26.0,156.0
+libuv,C,D:\clones\libuv\src\unix\loop.c,49,25.0,154.0
+libuv,C/C++ Header,D:\clones\libuv\include\uv\stdint-msvc2008.h,40,55.0,152.0
+libuv,C,D:\clones\libuv\src\unix\async.c,62,39.0,152.0
+libuv,SVG,D:\clones\libuv\img\logos.svg,1,1.0,150.0
+libuv,make,D:\clones\libuv\docs\Makefile,29,6.0,148.0
+libuv,C/C++ Header,D:\clones\libuv\src\win\req-inl.h,46,27.0,148.0
+libuv,C,D:\clones\libuv\test\test-fs-copyfile.c,33,39.0,145.0
+libuv,C,D:\clones\libuv\test\test-condvar.c,59,64.0,144.0
+libuv,C,D:\clones\libuv\test\test-getaddrinfo.c,46,28.0,141.0
+libuv,C,D:\clones\libuv\test\test-udp-multicast-join6.c,52,26.0,141.0
+libuv,C,D:\clones\libuv\test\test-udp-send-unreachable.c,39,23.0,139.0
+libuv,C,D:\clones\libuv\test\test-udp-connect6.c,39,23.0,138.0
+libuv,C/C++ Header,D:\clones\libuv\src\win\winsock.h,30,34.0,137.0
+libuv,C,D:\clones\libuv\src\win\error.c,12,25.0,136.0
+libuv,C,D:\clones\libuv\test\benchmark-ping-pongs.c,58,27.0,136.0
+libuv,C,D:\clones\libuv\test\test-udp-connect.c,38,23.0,136.0
+libuv,C,D:\clones\libuv\src\unix\darwin-proctitle.c,38,20.0,134.0
+libuv,C,D:\clones\libuv\test\test-platform-output.c,21,21.0,134.0
+libuv,C,D:\clones\libuv\docs\code\uvwget\main.c,33,0.0,133.0
+libuv,C,D:\clones\libuv\test\test-tcp-create-socket-early.c,53,23.0,133.0
+libuv,C,D:\clones\libuv\test\test-udp-send-and-recv.c,52,27.0,133.0
+libuv,C,D:\clones\libuv\test\test-tcp-connect-timeout.c,40,29.0,127.0
+libuv,C/C++ Header,D:\clones\libuv\src\win\fs-fd-hash-inl.h,42,32.0,126.0
+libuv,C/C++ Header,D:\clones\libuv\test\benchmark-list.h,24,22.0,125.0
+libuv,C,D:\clones\libuv\test\test-udp-alloc-cb-fail.c,49,22.0,125.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\guide\filesystem.rst,84,141.0,124.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\guide\networking.rst,67,69.0,121.0
+libuv,C,D:\clones\libuv\test\test-queue-foreach-delete.c,30,53.0,121.0
+libuv,C/C++ Header,D:\clones\libuv\src\win\handle-inl.h,36,24.0,120.0
+libuv,C,D:\clones\libuv\test\test-ip6-addr.c,25,26.0,120.0
+libuv,C,D:\clones\libuv\test\test-callback-stack.c,56,31.0,117.0
+libuv,Markdown,D:\clones\libuv\CONTRIBUTING.md,56,0.0,115.0
+libuv,C,D:\clones\libuv\src\timer.c,47,23.0,115.0
+libuv,C,D:\clones\libuv\test\test-tcp-close-accept.c,36,47.0,115.0
+libuv,C,D:\clones\libuv\test\test-pipe-sendmsg.c,36,22.0,114.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\guide\basics.rst,52,72.0,112.0
+libuv,C,D:\clones\libuv\src\win\getnameinfo.c,18,28.0,111.0
+libuv,C,D:\clones\libuv\test\test-shutdown-eof.c,40,37.0,111.0
+libuv,C,D:\clones\libuv\test\test-udp-multicast-join.c,44,26.0,111.0
+libuv,C,D:\clones\libuv\test\test-delayed-accept.c,52,27.0,110.0
+libuv,YAML,D:\clones\libuv\.github\workflows\CI.yml,7,2.0,109.0
+libuv,C,D:\clones\libuv\test\benchmark-ping-udp.c,35,25.0,109.0
+libuv,C,D:\clones\libuv\test\test-tcp-writealot.c,45,26.0,109.0
+libuv,C,D:\clones\libuv\test\test-env-vars.c,29,34.0,107.0
+libuv,C,D:\clones\libuv\src\unix\haiku.c,39,22.0,106.0
+libuv,C,D:\clones\libuv\test\test-tcp-bind6-error.c,49,21.0,106.0
+libuv,C,D:\clones\libuv\test\test-ipc-heavy-traffic-deadlock-bug.c,33,21.0,105.0
+libuv,C,D:\clones\libuv\src\win\handle.c,36,22.0,104.0
+libuv,C,D:\clones\libuv\src\unix\bsd-ifaddrs.c,28,32.0,103.0
+libuv,C,D:\clones\libuv\test\benchmark-spawn.c,40,21.0,103.0
+libuv,C,D:\clones\libuv\test\test-mutexes.c,43,38.0,101.0
+libuv,Markdown,D:\clones\libuv\LINKS.md,2,0.0,99.0
+libuv,C,D:\clones\libuv\src\win\winapi.c,24,25.0,98.0
+libuv,C,D:\clones\libuv\test\test-udp-options.c,34,28.0,98.0
+libuv,C,D:\clones\libuv\src\win\loop-watcher.c,7,20.0,95.0
+libuv,C,D:\clones\libuv\src\unix\proctitle.c,39,24.0,94.0
+libuv,C,D:\clones\libuv\src\unix\poll.c,33,34.0,93.0
+libuv,C,D:\clones\libuv\test\test-udp-send-immediate.c,33,22.0,93.0
+libuv,C,D:\clones\libuv\test\test-handle-fileno.c,13,21.0,91.0
+libuv,C,D:\clones\libuv\test\test-pipe-set-non-blocking.c,20,17.0,91.0
+libuv,C,D:\clones\libuv\test\test-udp-mmsg.c,32,26.0,91.0
+libuv,C,D:\clones\libuv\docs\code\udp-dhcp\main.c,19,19.0,89.0
+libuv,C,D:\clones\libuv\src\unix\qnx.c,28,20.0,89.0
+libuv,C,D:\clones\libuv\test\test-tcp-write-queue-order.c,30,20.0,89.0
+libuv,C,D:\clones\libuv\docs\code\multi-echo-server\main.c,23,3.0,88.0
+libuv,C,D:\clones\libuv\test\benchmark-tcp-write-batch.c,35,21.0,88.0
+libuv,C,D:\clones\libuv\test\benchmark-async.c,34,20.0,87.0
+libuv,C,D:\clones\libuv\test\test-embed.c,29,23.0,87.0
+libuv,C,D:\clones\libuv\test\test-osx-select.c,31,22.0,87.0
+libuv,m4,D:\clones\libuv\configure.ac,2,0.0,86.0
+libuv,C,D:\clones\libuv\src\win\dl.c,28,22.0,86.0
+libuv,C,D:\clones\libuv\test\test-tcp-oob.c,33,28.0,85.0
+libuv,C,D:\clones\libuv\test\test-tcp-write-to-half-open-connection.c,35,21.0,85.0
+libuv,C,D:\clones\libuv\test\test-tcp-shutdown-after-write.c,34,20.0,84.0
+libuv,C,D:\clones\libuv\test\test-udp-create-socket-early.c,28,23.0,84.0
+libuv,C,D:\clones\libuv\src\random.c,20,20.0,83.0
+libuv,C,D:\clones\libuv\test\test-tcp-try-write.c,32,20.0,83.0
+libuv,C,D:\clones\libuv\test\benchmark-fs-stat.c,26,28.0,82.0
+libuv,C,D:\clones\libuv\test\test-barrier.c,42,24.0,82.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\design.rst,43,17.0,80.0
+libuv,C,D:\clones\libuv\src\unix\getnameinfo.c,16,25.0,80.0
+libuv,C,D:\clones\libuv\test\test-pipe-bind-error.c,39,20.0,80.0
+libuv,C,D:\clones\libuv\test\test-shutdown-simultaneous.c,25,31.0,79.0
+libuv,C/C++ Header,D:\clones\libuv\src\unix\darwin-stub.h,15,20.0,78.0
+libuv,C,D:\clones\libuv\src\uv-data-getter-setters.c,21,20.0,78.0
+libuv,C,D:\clones\libuv\test\test-fs-fd-hash.c,26,29.0,78.0
+libuv,C,D:\clones\libuv\docs\code\pipe-echo-server\main.c,16,1.0,77.0
+libuv,C,D:\clones\libuv\test\test-connection-fail.c,42,42.0,77.0
+libuv,C,D:\clones\libuv\test\test-timer-again.c,34,30.0,77.0
+libuv,C,D:\clones\libuv\test\test-metrics.c,34,26.0,75.0
+libuv,C,D:\clones\libuv\test\test-tcp-close.c,36,25.0,75.0
+libuv,C,D:\clones\libuv\test\test-tcp-read-stop-start.c,38,23.0,75.0
+libuv,C,D:\clones\libuv\docs\code\multi-echo-server\worker.c,14,0.0,74.0
+libuv,C/C++ Header,D:\clones\libuv\src\queue.h,16,19.0,73.0
+libuv,C,D:\clones\libuv\src\unix\os390-proctitle.c,35,28.0,73.0
+libuv,C,D:\clones\libuv\test\test-process-title.c,31,31.0,73.0
+libuv,C,D:\clones\libuv\test\test-tcp-alloc-cb-fail.c,29,21.0,73.0
+libuv,C,D:\clones\libuv\docs\code\tcp-echo-server\main.c,15,1.0,71.0
+libuv,C,D:\clones\libuv\test\test-readable-on-eof.c,20,20.0,71.0
+libuv,C,D:\clones\libuv\test\test-udp-try-send.c,30,20.0,71.0
+libuv,C,D:\clones\libuv\test\blackhole-server.c,32,20.0,70.0
+libuv,C,D:\clones\libuv\test\test-async.c,31,33.0,70.0
+libuv,C,D:\clones\libuv\test\test-getters-setters.c,19,20.0,70.0
+libuv,C,D:\clones\libuv\test\test-getnameinfo.c,24,23.0,69.0
+libuv,make,D:\clones\libuv\docs\code\Makefile,14,0.0,68.0
+libuv,C,D:\clones\libuv\test\benchmark-million-async.c,24,20.0,68.0
+libuv,C,D:\clones\libuv\test\test-tcp-unexpected-read.c,25,24.0,68.0
+libuv,C,D:\clones\libuv\test\test-watcher-cross-stop.c,21,23.0,68.0
+libuv,C,D:\clones\libuv\test\test-poll-close-doesnt-corrupt-stack.c,27,20.0,67.0
+libuv,C,D:\clones\libuv\test\test-signal-pending-on-close.c,30,22.0,67.0
+libuv,C,D:\clones\libuv\test\test-tcp-write-fail.c,27,21.0,67.0
+libuv,C,D:\clones\libuv\docs\code\cgi\main.c,13,3.0,65.0
+libuv,C,D:\clones\libuv\docs\code\dns\main.c,16,0.0,64.0
+libuv,C,D:\clones\libuv\test\test-emfile.c,21,36.0,64.0
+libuv,C,D:\clones\libuv\test\test-not-readable-nor-writable-on-read-error.c,20,20.0,64.0
+libuv,C,D:\clones\libuv\test\test-semaphore.c,27,20.0,64.0
+libuv,C,D:\clones\libuv\test\benchmark-async-pummel.c,33,23.0,63.0
+libuv,C,D:\clones\libuv\test\test-pipe-connect-multiple.c,23,21.0,63.0
+libuv,C,D:\clones\libuv\test\test-tcp-try-write-error.c,26,20.0,63.0
+libuv,C,D:\clones\libuv\docs\code\uvtee\main.c,16,2.0,62.0
+libuv,C/C++ Header,D:\clones\libuv\test\runner.h,41,69.0,62.0
+libuv,C,D:\clones\libuv\test\test-multiple-listen.c,27,20.0,62.0
+libuv,C,D:\clones\libuv\test\test-process-title-threadsafe.c,23,24.0,62.0
+libuv,C,D:\clones\libuv\test\test-get-passwd.c,14,26.0,61.0
+libuv,C,D:\clones\libuv\test\test-udp-multicast-interface6.c,24,23.0,61.0
+libuv,C,D:\clones\libuv\test\test-get-currentexe.c,17,29.0,60.0
+libuv,C,D:\clones\libuv\test\test-shutdown-close.c,24,24.0,60.0
+libuv,Python,D:\clones\libuv\docs\src\conf.py,91,198.0,59.0
+libuv,C,D:\clones\libuv\test\test-udp-multicast-interface.c,24,23.0,57.0
+libuv,C,D:\clones\libuv\test\test-close-fd.c,8,21.0,55.0
+libuv,C,D:\clones\libuv\test\test-idle.c,24,20.0,55.0
+libuv,C,D:\clones\libuv\test\test-pipe-close-stdout-read-stdin.c,18,39.0,55.0
+libuv,C,D:\clones\libuv\test\test-pipe-set-fchmod.c,13,22.0,55.0
+libuv,C,D:\clones\libuv\test\test-tcp-close-while-connecting.c,18,24.0,55.0
+libuv,C,D:\clones\libuv\test\test-tcp-connect-error-after-write.c,20,25.0,53.0
+libuv,C,D:\clones\libuv\src\unix\bsd-proctitle.c,27,20.0,52.0
+libuv,C/C++ Header,D:\clones\libuv\src\unix\linux-syscalls.h,6,20.0,52.0
+libuv,C,D:\clones\libuv\src\unix\random-sysctl-linux.c,16,31.0,52.0
+libuv,C,D:\clones\libuv\src\win\async.c,23,23.0,52.0
+libuv,C,D:\clones\libuv\test\test-eintr-handling.c,22,20.0,52.0
+libuv,C,D:\clones\libuv\test\test-pipe-connect-error.c,23,20.0,52.0
+libuv,C,D:\clones\libuv\test\test-udp-send-hang-loop.c,23,24.0,52.0
+libuv,Markdown,D:\clones\libuv\SUPPORTED_PLATFORMS.md,18,0.0,51.0
+libuv,C,D:\clones\libuv\docs\code\uvcat\main.c,9,3.0,51.0
+libuv,C,D:\clones\libuv\test\test-poll-multiple-handles.c,19,29.0,51.0
+libuv,C,D:\clones\libuv\test\test-udp-multicast-ttl.c,21,22.0,51.0
+libuv,C,D:\clones\libuv\docs\code\signal\main.c,14,2.0,50.0
+libuv,C,D:\clones\libuv\test\test-poll-closesocket.c,22,20.0,50.0
+libuv,C,D:\clones\libuv\docs\code\queue-cancel\main.c,10,0.0,49.0
+libuv,C,D:\clones\libuv\test\test-random.c,23,22.0,49.0
+libuv,C,D:\clones\libuv\test\test-timer-from-check.c,11,20.0,49.0
+libuv,C,D:\clones\libuv\test\test-tmpdir.c,10,23.0,49.0
+libuv,C,D:\clones\libuv\test\test-udp-bind.c,24,20.0,49.0
+libuv,C,D:\clones\libuv\test\test-udp-dgram-too-big.c,22,20.0,49.0
+libuv,C,D:\clones\libuv\src\unix\random-devurandom.c,20,25.0,48.0
+libuv,C,D:\clones\libuv\test\benchmark-loop-count.c,24,20.0,48.0
+libuv,C,D:\clones\libuv\test\benchmark-million-timers.c,18,20.0,48.0
+libuv,C,D:\clones\libuv\test\test-pipe-server-close.c,23,23.0,48.0
+libuv,C,D:\clones\libuv\docs\code\locks\main.c,10,0.0,47.0
+libuv,C,D:\clones\libuv\src\unix\aix-common.c,14,28.0,47.0
+libuv,C,D:\clones\libuv\test\benchmark-getaddrinfo.c,25,20.0,47.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\guide\introduction.rst,18,9.0,46.0
+libuv,C,D:\clones\libuv\src\unix\loop-watcher.c,3,20.0,45.0
+libuv,C/C++ Header,D:\clones\libuv\src\unix\os390-syscalls.h,10,22.0,43.0
+libuv,C,D:\clones\libuv\test\test-close-order.c,16,21.0,43.0
+libuv,C,D:\clones\libuv\test\test-pipe-connect-prepare.c,19,21.0,43.0
+libuv,C,D:\clones\libuv\src\unix\dl.c,17,21.0,42.0
+libuv,C,D:\clones\libuv\src\unix\random-getrandom.c,21,25.0,42.0
+libuv,C,D:\clones\libuv\test\test-error.c,11,29.0,42.0
+libuv,C,D:\clones\libuv\test\test-shutdown-twice.c,19,24.0,42.0
+libuv,C,D:\clones\libuv\test\test-tcp-read-stop.c,14,20.0,42.0
+libuv,Python,D:\clones\libuv\tools\make_dist_html.py,13,67.0,42.0
+libuv,C,D:\clones\libuv\test\test-homedir.c,8,23.0,41.0
+libuv,C,D:\clones\libuv\test\test-process-priority.c,12,30.0,41.0
+libuv,C,D:\clones\libuv\docs\code\tty-gravity\main.c,8,0.0,40.0
+libuv,C,D:\clones\libuv\test\test-active.c,23,21.0,40.0
+libuv,C,D:\clones\libuv\test\test-callback-order.c,16,21.0,40.0
+libuv,C,D:\clones\libuv\test\test-loop-close.c,15,20.0,40.0
+libuv,Markdown,D:\clones\libuv\MAINTAINERS.md,13,0.0,39.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\signal.rst,40,22.0,39.0
+libuv,C/C++ Header,D:\clones\libuv\src\unix\atomic-ops.h,7,17.0,39.0
+libuv,C,D:\clones\libuv\test\test-loop-stop.c,12,20.0,39.0
+libuv,C,D:\clones\libuv\test\test-tcp-write-after-connect.c,17,21.0,39.0
+libuv,C,D:\clones\libuv\test\test-threadpool.c,17,20.0,39.0
+libuv,C,D:\clones\libuv\test\test-socket-buffer-size.c,18,21.0,38.0
+libuv,C,D:\clones\libuv\test\test-walk-handles.c,17,22.0,38.0
+libuv,C,D:\clones\libuv\docs\code\proc-streams\main.c,11,1.0,37.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\threading.rst,64,96.0,37.0
+libuv,C/C++ Header,D:\clones\libuv\include\uv\darwin.h,4,20.0,37.0
+libuv,C,D:\clones\libuv\test\run-benchmarks.c,13,22.0,37.0
+libuv,C,D:\clones\libuv\test\test-poll-close.c,16,20.0,37.0
+libuv,C,D:\clones\libuv\test\test-udp-sendmmsg-error.c,18,20.0,37.0
+libuv,C,D:\clones\libuv\test\test-uname.c,10,22.0,37.0
+libuv,C,D:\clones\libuv\docs\code\queue-work\main.c,8,0.0,36.0
+libuv,C,D:\clones\libuv\test\benchmark-queue-work.c,12,20.0,36.0
+libuv,C,D:\clones\libuv\test\test-tcp-connect-error.c,17,20.0,36.0
+libuv,C,D:\clones\libuv\test\test-tcp-connect6-error.c,15,20.0,36.0
+libuv,C,D:\clones\libuv\docs\code\progress\main.c,11,1.0,35.0
+libuv,C,D:\clones\libuv\test\test-loop-time.c,13,21.0,35.0
+libuv,C,D:\clones\libuv\test\test-not-writable-after-shutdown.c,14,20.0,35.0
+libuv,C,D:\clones\libuv\test\test-connect-unspecified.c,9,20.0,34.0
+libuv,C,D:\clones\libuv\docs\code\onchange\main.c,9,2.0,33.0
+libuv,C,D:\clones\libuv\docs\code\thread-create\main.c,5,0.0,31.0
+libuv,C,D:\clones\libuv\test\test-dlerror.c,9,21.0,31.0
+libuv,C,D:\clones\libuv\test\test-loop-alive.c,14,22.0,31.0
+libuv,C,D:\clones\libuv\docs\code\idle-compute\main.c,8,5.0,30.0
+libuv,C,D:\clones\libuv\docs\code\plugin\main.c,9,0.0,30.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\guide\eventloops.rst,9,11.0,30.0
+libuv,C,D:\clones\libuv\test\test-ip-name.c,11,24.0,30.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\index.rst,19,14.0,29.0
+libuv,C,D:\clones\libuv\test\test-async-null-cb.c,9,26.0,29.0
+libuv,C,D:\clones\libuv\test\test-gethostname.c,6,23.0,29.0
+libuv,C,D:\clones\libuv\docs\code\spawn\main.c,8,0.0,28.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\handle.rst,101,154.0,28.0
+libuv,C,D:\clones\libuv\test\benchmark-thread.c,15,21.0,28.0
+libuv,C,D:\clones\libuv\test\test-cwd-and-chdir.c,9,20.0,28.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\poll.rst,45,76.0,27.0
+libuv,C,D:\clones\libuv\test\test-default-loop-close.c,12,20.0,27.0
+libuv,C,D:\clones\libuv\test\test-thread-equal.c,4,20.0,27.0
+libuv,C,D:\clones\libuv\docs\code\interfaces\main.c,7,0.0,26.0
+libuv,Python,D:\clones\libuv\docs\src\sphinx-plugins\manpage.py,12,7.0,26.0
+libuv,Bourne Shell,D:\clones\libuv\autogen.sh,7,14.0,25.0
+libuv,C,D:\clones\libuv\docs\code\tty\main.c,4,0.0,25.0
+libuv,C/C++ Header,D:\clones\libuv\src\unix\spinlock.h,10,18.0,25.0
+libuv,C/C++ Header,D:\clones\libuv\src\win\atomicops-inl.h,10,26.0,25.0
+libuv,C,D:\clones\libuv\src\win\detect-wakeup.c,8,23.0,25.0
+libuv,C,D:\clones\libuv\test\test-ip4-addr.c,9,21.0,25.0
+libuv,DOS Batch,D:\clones\libuv\tools\vswhere_usability_wrapper.cmd,2,6.0,25.0
+libuv,YAML,D:\clones\libuv\.github\workflows\sanitizer.yml,2,0.0,24.0
+libuv,C,D:\clones\libuv\docs\code\detach\main.c,7,0.0,24.0
+libuv,C,D:\clones\libuv\docs\code\uvstop\main.c,9,0.0,24.0
+libuv,C/C++ Header,D:\clones\libuv\src\win\stream-inl.h,10,20.0,24.0
+libuv,C,D:\clones\libuv\test\test-pipe-pending-instances.c,14,21.0,24.0
+libuv,C,D:\clones\libuv\src\unix\cygwin.c,8,22.0,23.0
+libuv,C,D:\clones\libuv\src\unix\random-getentropy.c,13,21.0,23.0
+libuv,C,D:\clones\libuv\test\benchmark-sizes.c,3,20.0,23.0
+libuv,C,D:\clones\libuv\test\test-strscpy.c,10,20.0,23.0
+libuv,C,D:\clones\libuv\src\unix\pthread-fixes.c,8,28.0,22.0
+libuv,C,D:\clones\libuv\test\test-hrtime.c,7,24.0,21.0
+libuv,C,D:\clones\libuv\test\test-tcp-flags.c,11,20.0,21.0
+libuv,C,D:\clones\libuv\docs\code\ref-timer\main.c,8,1.0,20.0
+libuv,m4,D:\clones\libuv\m4\as_case.m4,1,0.0,20.0
+libuv,C,D:\clones\libuv\test\test-loop-configure.c,4,14.0,20.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\threadpool.rst,26,24.0,19.0
+libuv,C,D:\clones\libuv\test\test-get-memory.c,4,21.0,19.0
+libuv,JavaScript,D:\clones\libuv\docs\code\multi-echo-server\hammer.js,2,0.0,18.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\fs.rst,235,449.0,18.0
+libuv,C,D:\clones\libuv\src\unix\no-proctitle.c,7,20.0,18.0
+libuv,C,D:\clones\libuv\test\test-run-once.c,10,20.0,18.0
+libuv,C,D:\clones\libuv\docs\code\idle-basic\main.c,7,0.0,17.0
+libuv,C,D:\clones\libuv\src\unix\procfs-exepath.c,8,20.0,17.0
+libuv,C,D:\clones\libuv\src\version.c,8,20.0,17.0
+libuv,C,D:\clones\libuv\test\test-run-nowait.c,8,20.0,17.0
+libuv,C,D:\clones\libuv\test\test-test-macros.c,5,20.0,17.0
+libuv,C,D:\clones\libuv\src\unix\no-fsevents.c,6,20.0,16.0
+libuv,C,D:\clones\libuv\src\unix\sysinfo-memory.c,6,20.0,16.0
+libuv,YAML,D:\clones\libuv\.github\stale.yml,0,8.0,15.0
+libuv,C/C++ Header,D:\clones\libuv\include\uv\sunos.h,5,24.0,15.0
+libuv,C/C++ Header,D:\clones\libuv\test\runner-win.h,5,21.0,15.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\guide\about.rst,5,3.0,14.0
+libuv,C,D:\clones\libuv\src\win\snprintf.c,6,23.0,13.0
+libuv,C,D:\clones\libuv\test\test-gettimeofday.c,5,21.0,13.0
+libuv,C,D:\clones\libuv\docs\code\cgi\tick.c,1,0.0,12.0
+libuv,C,D:\clones\libuv\docs\code\helloworld\main.c,3,0.0,12.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\fs_event.rst,42,78.0,12.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\fs_poll.rst,30,35.0,12.0
+libuv,C/C++ Header,D:\clones\libuv\include\uv\linux.h,2,20.0,12.0
+libuv,C,D:\clones\libuv\src\strscpy.c,6,20.0,12.0
+libuv,C/C++ Header,D:\clones\libuv\test\runner-unix.h,4,20.0,12.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\async.rst,26,28.0,11.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\check.rst,25,18.0,11.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\dll.rst,20,13.0,11.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\errors.rst,185,189.0,11.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\idle.rst,27,24.0,11.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\loop.rst,83,151.0,11.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\pipe.rst,51,76.0,11.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\prepare.rst,25,18.0,11.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\request.rst,45,61.0,11.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\stream.rst,92,155.0,11.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\tcp.rst,54,81.0,11.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\tty.rst,51,78.0,11.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\version.rst,25,24.0,11.0
+libuv,C/C++ Header,D:\clones\libuv\include\uv\bsd.h,3,20.0,11.0
+libuv,C/C++ Header,D:\clones\libuv\include\uv\version.h,5,27.0,11.0
+libuv,C,D:\clones\libuv\src\unix\posix-hrtime.c,4,20.0,11.0
+libuv,C,D:\clones\libuv\src\unix\sysinfo-loadavg.c,5,20.0,11.0
+libuv,Markdown,D:\clones\libuv\.github\ISSUE_TEMPLATE.md,3,0.0,10.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\process.rst,76,195.0,10.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\timer.rst,36,42.0,10.0
+libuv,C/C++ Header,D:\clones\libuv\include\uv\aix.h,2,20.0,10.0
+libuv,C/C++ Header,D:\clones\libuv\include\uv\os390.h,3,20.0,10.0
+libuv,C,D:\clones\libuv\test\test-get-loadavg.c,5,20.0,10.0
+libuv,YAML,D:\clones\libuv\.readthedocs.yaml,2,0.0,9.0
+libuv,C,D:\clones\libuv\docs\code\default-loop\main.c,3,0.0,9.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\dns.rst,46,53.0,9.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\udp.rst,157,284.0,9.0
+libuv,C/C++ Header,D:\clones\libuv\include\uv\posix.h,2,20.0,9.0
+libuv,C/C++ Header,D:\clones\libuv\include\uv\threadpool.h,4,24.0,9.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\misc.rst,253,498.0,8.0
+libuv,XML,D:\clones\libuv\docs\src\static\diagrams.key\Metadata\BuildVersionHistory.plist,0,0.0,8.0
+libuv,XML,D:\clones\libuv\uv_win_longpath.manifest,0,0.0,8.0
+libuv,C,D:\clones\libuv\docs\code\proc-streams\test.c,1,0.0,7.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\metrics.rst,9,12.0,6.0
+libuv,C/C++ Header,D:\clones\libuv\src\idna.h,4,22.0,5.0
+libuv,C/C++ Header,D:\clones\libuv\src\strscpy.h,4,30.0,5.0
+libuv,C,D:\clones\libuv\test\test-fail-always.c,3,21.0,5.0
+libuv,C,D:\clones\libuv\docs\code\plugin\hello.c,1,0.0,4.0
+libuv,C/C++ Header,D:\clones\libuv\docs\code\plugin\plugin.h,2,1.0,4.0
+libuv,C,D:\clones\libuv\test\test-pass-always.c,3,21.0,4.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\upgrading.rst,4,4.0,3.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\api.rst,4,30.0,2.0
+libuv,reStructuredText,D:\clones\libuv\docs\src\guide.rst,4,16.0,2.0

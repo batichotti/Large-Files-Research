@@ -1,0 +1,149 @@
+project,language,filename,blank,comment,code
+reagent,JSON,D:\clones\reagent\package-lock.json,0,0.0,8317.0
+reagent,ClojureScript,D:\clones\reagent\test\reagenttest\testreagent.cljs,143,61.0,1546.0
+reagent,JSON,D:\clones\reagent\examples\react-mde\package-lock.json,0,0.0,1178.0
+reagent,JSON,D:\clones\reagent\examples\material-ui\package-lock.json,0,0.0,1121.0
+reagent,CSS,D:\clones\reagent\site\public\css\examples.css,78,11.0,493.0
+reagent,ClojureScript,D:\clones\reagent\src\reagent\ratom.cljs,112,26.0,492.0
+reagent,CSS,D:\clones\reagent\examples\todomvc\resources\public\todos.css,73,10.0,475.0
+reagent,ClojureScript,D:\clones\reagent\test\reagenttest\testratom.cljs,35,6.0,444.0
+reagent,Markdown,D:\clones\reagent\CHANGELOG.md,203,0.0,420.0
+reagent,ClojureScript,D:\clones\reagent\test\reagenttest\testcursor.cljs,53,22.0,402.0
+reagent,ClojureScript,D:\clones\reagent\src\reagent\impl\component.cljs,80,45.0,354.0
+reagent,ClojureScript,D:\clones\reagent\demo\reagentdemo\news\news060.cljs,101,2.0,337.0
+reagent,ClojureScript,D:\clones\reagent\src\reagent\core.cljs,69,7.0,298.0
+reagent,ClojureScript,D:\clones\reagent\demo\reagentdemo\intro.cljs,65,1.0,276.0
+reagent,ClojureScript,D:\clones\reagent\test\reagenttest\testwithlet.cljs,20,6.0,274.0
+reagent,ClojureScript,D:\clones\reagent\test\reagenttest\testtrack.cljs,26,2.0,268.0
+reagent,ClojureScript,D:\clones\reagent\test\reagenttest\testratomasync.cljs,25,5.0,267.0
+reagent,ClojureScript,D:\clones\reagent\demo\reagentdemo\news\news050.cljs,85,0.0,255.0
+reagent,ClojureScript,D:\clones\reagent\src\reagent\impl\template.cljs,48,23.0,252.0
+reagent,CSS,D:\clones\reagent\site\public\css\main.css,37,3.0,221.0
+reagent,ClojureScript,D:\clones\reagent\test\reagenttest\testwrap.cljs,28,5.0,221.0
+reagent,Markdown,D:\clones\reagent\doc\ReactFeatures.md,60,0.0,213.0
+reagent,ClojureScript,D:\clones\reagent\src\reagent\impl\util.cljs,28,13.0,205.0
+reagent,Markdown,D:\clones\reagent\doc\CreatingReagentComponents.md,90,0.0,199.0
+reagent,Markdown,D:\clones\reagent\doc\ManagingState.md,84,0.0,189.0
+reagent,Clojure,D:\clones\reagent\project.clj,21,12.0,165.0
+reagent,ClojureScript,D:\clones\reagent\demo\reagentdemo\news\async.cljs,36,0.0,164.0
+reagent,Markdown,D:\clones\reagent\doc\WhenDoComponentsUpdate.md,87,0.0,163.0
+reagent,ClojureScript,D:\clones\reagent\examples\material-ui\src\example\core.cljs,28,29.0,153.0
+reagent,Markdown,D:\clones\reagent\doc\UsingSquareBracketsInsteadOfParens.md,62,0.0,152.0
+reagent,Markdown,D:\clones\reagent\doc\InteropWithReact.md,48,0.0,146.0
+reagent,Markdown,D:\clones\reagent\README.md,54,0.0,128.0
+reagent,YAML,D:\clones\reagent\.github\workflows\clojure.yml,16,4.0,115.0
+reagent,ClojureScript,D:\clones\reagent\test\reagent\impl\util_test.cljs,20,9.0,113.0
+reagent,SVG,D:\clones\reagent\logo\logo-text.svg,0,0.0,109.0
+reagent,ClojureScript,D:\clones\reagent\demo\reagentdemo\news\anyargs.cljs,31,0.0,105.0
+reagent,ClojureScript,D:\clones\reagent\examples\todomvc\src\todomvc\core.cljs,12,0.0,98.0
+reagent,Markdown,D:\clones\reagent\doc\BatchingAndTiming.md,28,0.0,94.0
+reagent,Markdown,D:\clones\reagent\doc\UsingHiccupToDescribeHTML.md,47,0.0,94.0
+reagent,ClojureScript,D:\clones\reagent\src\reagent\impl\input.cljs,13,34.0,94.0
+reagent,ClojureScript,D:\clones\reagent\src\reagent\impl\batching.cljs,28,4.0,93.0
+reagent,ClojureScript,D:\clones\reagent\demo\reagentdemo\news\clockpost.cljs,31,0.0,92.0
+reagent,ClojureScript,D:\clones\reagent\demo\sitetools\core.cljs,17,5.0,92.0
+reagent,ClojureScript,D:\clones\reagent\demo\reagentdemo\syntax.cljs,12,2.0,90.0
+reagent,ClojureScript,D:\clones\reagent\examples\react-mde\src\example\core.cljs,16,11.0,85.0
+reagent,Clojure,D:\clones\reagent\src\reagent\debug.clj,14,0.0,83.0
+reagent,ClojureScript,D:\clones\reagent\prerender\sitetools\prerender.cljs,11,1.0,77.0
+reagent,ClojureScript,D:\clones\reagent\examples\geometry\src\geometry\core.cljs,14,0.0,75.0
+reagent,ClojureScript,D:\clones\reagent\demo\reagentdemo\news\news051.cljs,28,0.0,74.0
+reagent,Markdown,D:\clones\reagent\doc\0.8-upgrade.md,33,0.0,73.0
+reagent,ClojureScript,D:\clones\reagent\demo\reagentdemo\news\undodemo.cljs,21,1.0,71.0
+reagent,ClojureScript,D:\clones\reagent\examples\react-sortable-hoc\src\example\core.cljs,12,8.0,68.0
+reagent,ClojureScript,D:\clones\reagent\examples\geometry\src\geometry\components.cljs,12,0.0,65.0
+reagent,ClojureScript,D:\clones\reagent\examples\react-transition-group\src\example\core.cljs,6,1.0,64.0
+reagent,ClojureScript,D:\clones\reagent\src\reagent\dom.cljs,11,2.0,61.0
+reagent,Markdown,D:\clones\reagent\doc\ReagentCompiler.md,20,0.0,59.0
+reagent,ClojureScript,D:\clones\reagent\test\reagenttest\runtests.cljs,11,4.0,58.0
+reagent,Clojure,D:\clones\reagent\src\reagent\ratom.clj,3,12.0,55.0
+reagent,ClojureScript,D:\clones\reagent\demo\reagentdemo\news.cljs,10,0.0,54.0
+reagent,ClojureScript,D:\clones\reagent\demo\reagentdemo\news\news060rc.cljs,18,0.0,52.0
+reagent,Markdown,D:\clones\reagent\doc\examples\material-ui.md,15,0.0,50.0
+reagent,ClojureScript,D:\clones\reagent\demo\reagentdemo\core.cljs,7,0.0,49.0
+reagent,Markdown,D:\clones\reagent\doc\README.md,13,0.0,43.0
+reagent,Bourne Shell,D:\clones\reagent\run-tests.sh,11,1.0,43.0
+reagent,ClojureScript,D:\clones\reagent\demo\reagentdemo\news\binaryclock.cljs,8,0.0,42.0
+reagent,ClojureScript,D:\clones\reagent\examples\functional-components-and-hooks\src\example\core.cljs,9,3.0,42.0
+reagent,ClojureScript,D:\clones\reagent\demo\reagentdemo\news\news060release.cljs,7,0.0,38.0
+reagent,ClojureScript,D:\clones\reagent\test\reagenttest\utils.cljs,3,0.0,38.0
+reagent,Markdown,D:\clones\reagent\doc\ControlledInputs.md,11,0.0,36.0
+reagent,Markdown,D:\clones\reagent\doc\FAQ\ComponentNotRerendering.md,14,0.0,36.0
+reagent,Clojure,D:\clones\reagent\demo\reagentdemo\syntax.clj,11,11.0,34.0
+reagent,Markdown,D:\clones\reagent\doc\FAQ\UsingRefs.md,8,0.0,33.0
+reagent,Bourne Shell,D:\clones\reagent\build-example-site.sh,11,2.0,29.0
+reagent,Markdown,D:\clones\reagent\doc\development.md,13,0.0,29.0
+reagent,JavaScript,D:\clones\reagent\test-environments\bundle\karma.conf.js,0,4.0,29.0
+reagent,JavaScript,D:\clones\reagent\test\runners\karma.conf.js,11,6.0,29.0
+reagent,Markdown,D:\clones\reagent\CONTRIBUTING.md,18,0.0,28.0
+reagent,ClojureScript,D:\clones\reagent\examples\simple\src\simpleexample\core.cljs,8,0.0,28.0
+reagent,JSON,D:\clones\reagent\package.json,0,0.0,27.0
+reagent,Clojure,D:\clones\reagent\examples\functional-components-and-hooks\project.clj,6,0.0,26.0
+reagent,Clojure,D:\clones\reagent\examples\geometry\project.clj,6,0.0,26.0
+reagent,Clojure,D:\clones\reagent\examples\simple\project.clj,6,0.0,26.0
+reagent,Clojure,D:\clones\reagent\examples\todomvc\project.clj,6,0.0,26.0
+reagent,ClojureScript,D:\clones\reagent\demo\reagentdemo\common.cljs,1,0.0,25.0
+reagent,Clojure,D:\clones\reagent\examples\react-context\project.clj,4,0.0,24.0
+reagent,ClojureScript,D:\clones\reagent\examples\react-context\src\example\core.cljs,9,12.0,24.0
+reagent,Clojure,D:\clones\reagent\examples\react-sortable-hoc\project.clj,4,0.0,24.0
+reagent,Clojure,D:\clones\reagent\examples\react-transition-group\project.clj,4,0.0,24.0
+reagent,ClojureScript,D:\clones\reagent\test\reagenttest\performancetest.cljs,6,2.0,24.0
+reagent,Bourne Shell,D:\clones\reagent\build-docs.sh,7,0.0,23.0
+reagent,Clojure,D:\clones\reagent\src\reagent\core.clj,3,0.0,23.0
+reagent,ClojureScript,D:\clones\reagent\demo\reagentdemo\news\news061.cljs,6,0.0,22.0
+reagent,Markdown,D:\clones\reagent\doc\FAQ\UsingAnEntity.md,11,0.0,22.0
+reagent,ClojureScript,D:\clones\reagent\src\reagent\debug.cljs,5,0.0,22.0
+reagent,ClojureScript,D:\clones\reagent\src\reagent\dom\server.cljs,2,0.0,22.0
+reagent,JSON,D:\clones\reagent\examples\react-mde\package.json,0,0.0,20.0
+reagent,JavaScript,D:\clones\reagent\test-environments\bundle-adv\karma.conf.js,0,0.0,20.0
+reagent,ClojureScript,D:\clones\reagent\test\reagent\impl\template_test.cljs,4,1.0,19.0
+reagent,CSS,D:\clones\reagent\examples\simple\resources\public\example.css,4,0.0,18.0
+reagent,HTML,D:\clones\reagent\site\public\index.html,0,0.0,18.0
+reagent,Markdown,D:\clones\reagent\doc\examples\smooth-ui.md,3,0.0,17.0
+reagent,HTML,D:\clones\reagent\examples\geometry\resources\public\index.html,0,0.0,17.0
+reagent,CSS,D:\clones\reagent\examples\react-transition-group\resources\public\fade.css,4,0.0,17.0
+reagent,HTML,D:\clones\reagent\examples\simple\resources\public\index.html,0,0.0,17.0
+reagent,HTML,D:\clones\reagent\examples\todomvc\resources\public\index.html,0,0.0,17.0
+reagent,Markdown,D:\clones\reagent\doc\FAQ\HtmlEntities.md,7,0.0,15.0
+reagent,JavaScript,D:\clones\reagent\test-environments\shadow-cljs-prod\karma.conf.js,0,0.0,15.0
+reagent,HTML,D:\clones\reagent\examples\functional-components-and-hooks\resources\public\index.html,0,0.0,14.0
+reagent,HTML,D:\clones\reagent\examples\react-mde\resources\public\index.html,0,0.0,14.0
+reagent,HTML,D:\clones\reagent\examples\react-transition-group\resources\public\index.html,0,0.0,14.0
+reagent,Clojure,D:\clones\reagent\src\reagent\interop.clj,2,4.0,14.0
+reagent,ClojureScript,D:\clones\reagent\examples\geometry\src\geometry\geometry.cljs,5,0.0,13.0
+reagent,JSON,D:\clones\reagent\examples\material-ui\package.json,0,0.0,13.0
+reagent,HTML,D:\clones\reagent\examples\react-sortable-hoc\resources\public\index.html,0,0.0,13.0
+reagent,Markdown,D:\clones\reagent\doc\FAQ\CljsjsReactProblems.md,8,0.0,12.0
+reagent,JavaScript,D:\clones\reagent\lib\modules.js,3,0.0,12.0
+reagent,Markdown,D:\clones\reagent\doc\FAQ\ForcingComponentRecreation.md,3,0.0,11.0
+reagent,Markdown,D:\clones\reagent\doc\FAQ\dangerouslySetInnerHTML.md,6,0.0,11.0
+reagent,Markdown,D:\clones\reagent\doc\FAQ\MyAttributesAreMissing.md,7,0.0,10.0
+reagent,Markdown,D:\clones\reagent\examples\react-mde\Readme.md,5,0.0,10.0
+reagent,Markdown,D:\clones\reagent\examples\todomvc\README.md,5,0.0,10.0
+reagent,Markdown,D:\clones\reagent\test-environments\bundle-adv\README.md,1,0.0,9.0
+reagent,Markdown,D:\clones\reagent\ROADMAP.md,1,0.0,8.0
+reagent,ClojureScript,D:\clones\reagent\demo\reagentdemo\dev.cljs,3,0.0,8.0
+reagent,SVG,D:\clones\reagent\logo\logo.svg,0,0.0,8.0
+reagent,JavaScript,D:\clones\reagent\test-environments\bundle-adv\webpack.config.js,0,0.0,8.0
+reagent,JavaScript,D:\clones\reagent\test-environments\bundle\webpack.config.js,0,0.0,8.0
+reagent,Bourne Shell,D:\clones\reagent\test-environments\browser-cljsjs-prod\test.sh,1,0.0,7.0
+reagent,Bourne Shell,D:\clones\reagent\test-environments\browser-npm-prod\test.sh,3,0.0,7.0
+reagent,YAML,D:\clones\reagent\codecov.yml,0,0.0,6.0
+reagent,ClojureScript,D:\clones\reagent\src\reagent\impl\protocols.cljs,2,0.0,6.0
+reagent,Bourne Shell,D:\clones\reagent\test-environments\bundle-adv\test.sh,1,0.0,6.0
+reagent,Bourne Shell,D:\clones\reagent\test-environments\node-npm\test.sh,0,0.0,6.0
+reagent,Bourne Shell,D:\clones\reagent\test-environments\shadow-cljs-prod\test.sh,0,0.0,6.0
+reagent,ClojureScript,D:\clones\reagent\examples\geometry\devsrc\geometry\dev.cljs,1,0.0,5.0
+reagent,Bourne Shell,D:\clones\reagent\test-environments\browser-cljsjs\test.sh,0,0.0,5.0
+reagent,Bourne Shell,D:\clones\reagent\test-environments\browser-npm\test.sh,0,0.0,5.0
+reagent,Bourne Shell,D:\clones\reagent\test-environments\bundle-adv\build.sh,0,0.0,5.0
+reagent,Bourne Shell,D:\clones\reagent\test-environments\node-cljsjs\test_disabled.sh,0,0.0,5.0
+reagent,ClojureScript,D:\clones\reagent\demo\reagentdemo\prod.cljs,2,0.0,4.0
+reagent,CSS,D:\clones\reagent\examples\geometry\resources\public\example.css,1,0.0,4.0
+reagent,Bourne Shell,D:\clones\reagent\test-environments\bundle\test.sh,0,0.0,4.0
+reagent,JavaScript,D:\clones\reagent\test-environments\bundle\workaround.js,1,0.0,3.0
+reagent,Markdown,D:\clones\reagent\.github\issue_template.md,1,0.0,2.0
+reagent,Markdown,D:\clones\reagent\outsite\public\README.md,1,0.0,2.0
+reagent,Bourne Shell,D:\clones\reagent\prepare-tests.sh,1,0.0,2.0
+reagent,ClojureScript,D:\clones\reagent\src\reagent\interop.cljs,0,0.0,2.0
+reagent,CSS,D:\clones\reagent\examples\react-mde\resources\public\react-mds-all.css,0,0.0,1.0

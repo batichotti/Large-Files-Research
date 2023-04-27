@@ -1,0 +1,58 @@
+project,language,filename,blank,comment,code
+FiraCode,Markdown,D:\clones\FiraCode\googlefonts-qa\checks\static\FiraCode-Medium.checks.md,317,0.0,843.0
+FiraCode,Markdown,D:\clones\FiraCode\googlefonts-qa\checks\static\FiraCode-Bold.checks.md,317,0.0,842.0
+FiraCode,Markdown,D:\clones\FiraCode\googlefonts-qa\checks\static\FiraCode-Light.checks.md,317,0.0,842.0
+FiraCode,Markdown,D:\clones\FiraCode\googlefonts-qa\checks\static\FiraCode-Regular.checks.md,317,0.0,841.0
+FiraCode,Markdown,D:\clones\FiraCode\googlefonts-qa\checks\static\FiraCode-Retina.checks.md,317,0.0,838.0
+FiraCode,Markdown,D:\clones\FiraCode\googlefonts-qa\checks\FiraCode-Light.checks.md,315,0.0,805.0
+FiraCode,Markdown,D:\clones\FiraCode\CHANGELOG.md,82,0.0,306.0
+FiraCode,Clojure,D:\clones\FiraCode\clojure\fira_code\calt.clj,53,45.0,237.0
+FiraCode,Markdown,D:\clones\FiraCode\README.md,68,0.0,213.0
+FiraCode,Clojure,D:\clones\FiraCode\clojure\fira_code\glyphs.clj,36,5.0,182.0
+FiraCode,Markdown,D:\clones\FiraCode\LEEME.md,62,0.0,178.0
+FiraCode,Markdown,D:\clones\FiraCode\README_CN.md,60,0.0,177.0
+FiraCode,Markdown,D:\clones\FiraCode\googlefonts-qa\notes\outline-checks.md,123,0.0,122.0
+FiraCode,Markdown,D:\clones\FiraCode\googlefonts-qa\notes\QA-notes.md,59,0.0,90.0
+FiraCode,Bourne Shell,D:\clones\FiraCode\script\build.sh,13,5.0,84.0
+FiraCode,HTML,D:\clones\FiraCode\distr\specimen.html,24,0.0,71.0
+FiraCode,Python,D:\clones\FiraCode\script\release.py,12,2.0,60.0
+FiraCode,Markdown,D:\clones\FiraCode\docs\calt_performance.md,14,0.0,49.0
+FiraCode,Python,D:\clones\FiraCode\googlefonts-qa\scripts\set-vertical-metrics.py,39,25.0,49.0
+FiraCode,Markdown,D:\clones\FiraCode\googlefonts-qa\README.md,25,0.0,48.0
+FiraCode,Bourne Shell,D:\clones\FiraCode\googlefonts-qa\scripts\move-check.sh,27,19.0,44.0
+FiraCode,CSS,D:\clones\FiraCode\distr\fira_code.css,5,1.0,42.0
+FiraCode,Clojure,D:\clones\FiraCode\clojure\fira_code\main.clj,2,0.0,31.0
+FiraCode,Clojure,D:\clones\FiraCode\clojure\fira_code\features.clj,8,0.0,29.0
+FiraCode,Clojure,D:\clones\FiraCode\clojure\fira_code\spacers.clj,4,0.0,27.0
+FiraCode,Bourne Shell,D:\clones\FiraCode\script\build_variable.sh,13,5.0,27.0
+FiraCode,Clojure,D:\clones\FiraCode\script\progress.clj,4,4.0,27.0
+FiraCode,YAML,D:\clones\FiraCode\.github\workflows\build.yml,1,0.0,26.0
+FiraCode,JSON,D:\clones\FiraCode\package.json,1,0.0,25.0
+FiraCode,Bourne Shell,D:\clones\FiraCode\script\build_ttf.sh,9,0.0,25.0
+FiraCode,Clojure,D:\clones\FiraCode\clojure\fira_code\checks.clj,3,0.0,20.0
+FiraCode,Clojure,D:\clones\FiraCode\clojure\fira_code\coll.clj,6,0.0,19.0
+FiraCode,Bourne Shell,D:\clones\FiraCode\script\bootstrap_macos.sh,3,1.0,19.0
+FiraCode,Bourne Shell,D:\clones\FiraCode\script\build_woff.sh,7,1.0,19.0
+FiraCode,Bourne Shell,D:\clones\FiraCode\script\build_woff2.sh,7,1.0,19.0
+FiraCode,Python,D:\clones\FiraCode\script\update_version.py,2,0.0,19.0
+FiraCode,Bourne Shell,D:\clones\FiraCode\script\bake_in_features.sh,7,3.0,18.0
+FiraCode,Bourne Shell,D:\clones\FiraCode\script\bootstrap_linux.sh,4,1.0,15.0
+FiraCode,Clojure,D:\clones\FiraCode\clojure\fira_code\classes.clj,4,0.0,14.0
+FiraCode,Python,D:\clones\FiraCode\script\common.py,4,0.0,13.0
+FiraCode,Clojure,D:\clones\FiraCode\clojure\fira_code\not_space.clj,2,0.0,12.0
+FiraCode,HTML,D:\clones\FiraCode\googlefonts-qa\gfonts-description.html,0,0.0,12.0
+FiraCode,Clojure,D:\clones\FiraCode\clojure\fira_code\files.clj,2,0.0,10.0
+FiraCode,Bourne Shell,D:\clones\FiraCode\script\package.sh,3,0.0,10.0
+FiraCode,Clojure,D:\clones\FiraCode\clojure\fira_code\time.clj,4,0.0,9.0
+FiraCode,Dockerfile,D:\clones\FiraCode\Dockerfile,2,0.0,7.0
+FiraCode,Bourne Shell,D:\clones\FiraCode\script\clean.sh,1,0.0,7.0
+FiraCode,zsh,D:\clones\FiraCode\script\everything,1,1.0,7.0
+FiraCode,Bourne Shell,D:\clones\FiraCode\script\build_docker.sh,2,0.0,6.0
+FiraCode,make,D:\clones\FiraCode\Makefile,2,0.0,5.0
+FiraCode,YAML,D:\clones\FiraCode\.github\FUNDING.yml,0,0.0,3.0
+FiraCode,Bourne Again Shell,D:\clones\FiraCode\script\check,2,0.0,3.0
+FiraCode,zsh,D:\clones\FiraCode\script\check_widths,1,0.0,2.0
+FiraCode,Bourne Shell,D:\clones\FiraCode\script\nrepl.sh,1,0.0,2.0
+FiraCode,Bourne Shell,D:\clones\FiraCode\script\update_glyphs.sh,1,0.0,2.0
+FiraCode,SVG,D:\clones\FiraCode\extras\logo.svg,0,0.0,1.0
+FiraCode,Bourne Shell,D:\clones\FiraCode\googlefonts-qa\scripts\build.sh,0,0.0,1.0

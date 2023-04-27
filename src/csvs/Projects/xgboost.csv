@@ -1,0 +1,971 @@
+project,language,filename,blank,comment,code
+xgboost,Bourne Shell,D:\clones\xgboost\R-package\configure,377,417.0,3108.0
+xgboost,Markdown,D:\clones\xgboost\NEWS.md,304,0.0,2150.0
+xgboost,Python,D:\clones\xgboost\python-package\xgboost\dask.py,273,286.0,1695.0
+xgboost,Python,D:\clones\xgboost\python-package\xgboost\core.py,369,761.0,1516.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_with_dask.py,347,46.0,1509.0
+xgboost,C++,D:\clones\xgboost\src\tree\tree_model.cc,146,59.0,1227.0
+xgboost,C++,D:\clones\xgboost\src\c_api\c_api.cc,129,11.0,1206.0
+xgboost,CUDA,D:\clones\xgboost\src\common\device_helpers.cuh,190,251.0,1163.0
+xgboost,C++,D:\clones\xgboost\src\data\data.cc,98,69.0,1111.0
+xgboost,C++,D:\clones\xgboost\src\learner.cc,165,112.0,1083.0
+xgboost,Python,D:\clones\xgboost\python-package\xgboost\sklearn.py,228,599.0,1059.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_with_sklearn.py,290,50.0,1055.0
+xgboost,Python,D:\clones\xgboost\python-package\xgboost\data.py,185,62.0,923.0
+xgboost,CUDA,D:\clones\xgboost\src\predictor\gpu_predictor.cu,90,31.0,911.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\data\adapter.h,146,91.0,899.0
+xgboost,C++,D:\clones\xgboost\src\gbm\gbtree.cc,87,90.0,859.0
+xgboost,C++,D:\clones\xgboost\src\common\json.cc,123,24.0,836.0
+xgboost,C++,D:\clones\xgboost\rabit\src\allreduce_base.cc,27,183.0,773.0
+xgboost,CUDA,D:\clones\xgboost\src\tree\updater_gpu_hist.cu,112,68.0,718.0
+xgboost,C++,D:\clones\xgboost\jvm-packages\xgboost4j\src\native\xgboost4j.cpp,91,252.0,703.0
+xgboost,CUDA,D:\clones\xgboost\src\metric\auc.cu,88,130.0,687.0
+xgboost,CUDA,D:\clones\xgboost\src\objective\rank_obj.cu,122,166.0,676.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\quantile.h,29,192.0,671.0
+xgboost,C++,D:\clones\xgboost\src\common\charconv.cc,79,203.0,660.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_json.cc,59,16.0,604.0
+xgboost,C++,D:\clones\xgboost\R-package\src\xgboost_R.cc,62,13.0,583.0
+xgboost,CUDA,D:\clones\xgboost\src\common\quantile.cu,73,67.0,580.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\test_serialization.cc,91,23.0,580.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\main\scala\ml\dmlc\xgboost4j\scala\spark\XGBoost.scala,70,60.0,566.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\helpers.cc,83,13.0,564.0
+xgboost,CUDA,D:\clones\xgboost\src\objective\regression_obj.cu,90,35.0,554.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\linalg.h,74,197.0,544.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\common\test_hist_util.cu,67,6.0,541.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\test\java\ml\dmlc\xgboost4j\java\BoosterImplTest.java,93,65.0,536.0
+xgboost,C++,D:\clones\xgboost\src\tree\updater_histmaker.cc,20,97.0,515.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\common\test_quantile.cu,70,13.0,515.0
+xgboost,C++,D:\clones\xgboost\src\common\quantile.cc,58,50.0,508.0
+xgboost,C++,D:\clones\xgboost\src\tree\updater_colmaker.cc,23,91.0,507.0
+xgboost,Maven,D:\clones\xgboost\jvm-packages\pom.xml,6,3.0,499.0
+xgboost,C++,D:\clones\xgboost\src\predictor\cpu_predictor.cc,42,27.0,483.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_basic_models.py,97,21.0,471.0
+xgboost,C/C++ Header,D:\clones\xgboost\rabit\include\rabit\internal\socket.h,34,159.0,463.0
+xgboost,Python,D:\clones\xgboost\tests\python-gpu\test_gpu_with_dask.py,92,9.0,453.0
+xgboost,C++,D:\clones\xgboost\src\cli_main.cc,47,43.0,449.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\hist_util.h,87,112.0,448.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\json.h,90,92.0,434.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\tree_model.h,52,254.0,432.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\tree\test_tree_model.cc,68,14.0,429.0
+xgboost,R,D:\clones\xgboost\R-package\R\callbacks.R,72,339.0,424.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\main\scala\ml\dmlc\xgboost4j\scala\spark\PreXGBoost.scala,79,114.0,421.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\span.h,118,142.0,420.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\java\ml\dmlc\xgboost4j\java\Booster.java,58,312.0,420.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_span.cc,95,18.0,417.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\data\array_interface.h,43,98.0,416.0
+xgboost,Groovy,D:\clones\xgboost\Jenkinsfile,27,17.0,409.0
+xgboost,C++,D:\clones\xgboost\src\metric\auc.cc,43,50.0,407.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark-gpu\src\main\scala\ml\dmlc\xgboost4j\scala\rapids\spark\GpuPreXGBoost.scala,73,113.0,397.0
+xgboost,R,D:\clones\xgboost\R-package\tests\testthat\test_basic.R,56,26.0,395.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\tree\test_gpu_hist.cu,87,43.0,393.0
+xgboost,R,D:\clones\xgboost\R-package\tests\testthat\test_helpers.R,54,34.0,391.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\gbm\test_gbtree.cc,90,24.0,391.0
+xgboost,CUDA,D:\clones\xgboost\src\data\ellpack_page.cu,53,59.0,375.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\tree\param.h,37,108.0,374.0
+xgboost,Python,D:\clones\xgboost\tests\python\testing.py,104,16.0,374.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\java\ml\dmlc\xgboost4j\java\XGBoost.java,43,169.0,373.0
+xgboost,Python,D:\clones\xgboost\tests\python-gpu\test_gpu_prediction.py,72,15.0,370.0
+xgboost,Markdown,D:\clones\xgboost\doc\R-package\xgboostPresentation.md,221,0.0,368.0
+xgboost,C++,D:\clones\xgboost\plugin\updater_oneapi\predictor_oneapi.cc,58,24.0,366.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\test_learner.cc,60,25.0,365.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\tree\hist\test_histogram.cc,69,23.0,365.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\gbm\gbtree.h,45,43.0,364.0
+xgboost,Python,D:\clones\xgboost\python-package\xgboost\callback.py,84,116.0,360.0
+xgboost,CUDA,D:\clones\xgboost\src\tree\gpu_hist\evaluate_splits.cu,47,38.0,358.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgb.Booster.R,45,387.0,354.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\tree\hist\evaluate_splits.h,31,40.0,345.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\data.h,86,247.0,341.0
+xgboost,CUDA,D:\clones\xgboost\src\common\host_device_vector.cu,64,19.0,341.0
+xgboost,CUDA,D:\clones\xgboost\src\metric\elementwise_metric.cu,52,36.0,341.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_hist_util.cc,60,11.0,340.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_callback.py,39,19.0,339.0
+xgboost,Markdown,D:\clones\xgboost\rabit\doc\guide.md,46,0.0,337.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\main\scala\ml\dmlc\xgboost4j\scala\spark\XGBoostClassifier.scala,114,46.0,336.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_dmatrix.py,76,23.0,336.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\common\test_span.cu,73,22.0,335.0
+xgboost,Python,D:\clones\xgboost\python-package\xgboost\tracker.py,58,75.0,333.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\column_matrix.h,59,49.0,330.0
+xgboost,C++,D:\clones\xgboost\src\tree\updater_quantile_hist.cc,47,20.0,328.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\linear\coordinate_common.h,29,148.0,327.0
+xgboost,CUDA,D:\clones\xgboost\jvm-packages\xgboost4j-gpu\src\native\xgboost4j-gpu.cu,56,15.0,325.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\test\scala\ml\dmlc\xgboost4j\scala\spark\XGBoostGeneralSuite.scala,43,20.0,325.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\predictor\test_predictor.cc,77,11.0,325.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\parameter.rst,165,13.0,323.0
+xgboost,C/C++ Header,D:\clones\xgboost\tests\cpp\helpers.h,72,63.0,322.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\test\scala\ml\dmlc\xgboost4j\scala\spark\XGBoostClassifierSuite.scala,55,20.0,319.0
+xgboost,C++,D:\clones\xgboost\rabit\src\rabit_c_api.cc,23,5.0,319.0
+xgboost,Markdown,D:\clones\xgboost\doc\R-package\discoverYourData.md,161,0.0,310.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\data\sparse_page_source.h,51,18.0,310.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\objective\test_regression_obj.cc,53,18.0,310.0
+xgboost,C++,D:\clones\xgboost\src\metric\rank_metric.cc,51,51.0,307.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\c_api.h,78,1002.0,301.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\data\test_simple_dmatrix.cu,56,16.0,300.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\scala\ml\dmlc\xgboost4j\scala\rabit\handler\RabitWorkerHandler.scala,75,95.0,297.0
+xgboost,C/C++ Header,D:\clones\xgboost\rabit\include\rabit\internal\rabit-inl.h,10,39.0,297.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\tree\updater_basemaker-inl.h,14,87.0,297.0
+xgboost,CUDA,D:\clones\xgboost\src\tree\gpu_hist\gradient_based_sampler.cu,51,38.0,295.0
+xgboost,C++,D:\clones\xgboost\src\gbm\gblinear.cc,36,30.0,293.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\tree\hist\histogram.h,27,29.0,292.0
+xgboost,CUDA,D:\clones\xgboost\src\common\hist_util.cu,31,26.0,285.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\survival_util.h,39,25.0,283.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_linalg.cc,35,15.0,283.0
+xgboost,R,D:\clones\xgboost\R-package\tests\testthat\test_callbacks.R,57,14.0,282.0
+xgboost,C++,D:\clones\xgboost\src\tree\updater_approx.cc,41,29.0,278.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\data\test_simple_dmatrix.cc,45,8.0,277.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\metric\test_elementwise_metric.cc,36,3.0,276.0
+xgboost,CMake,D:\clones\xgboost\CMakeLists.txt,39,42.0,272.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\test\java\ml\dmlc\xgboost4j\java\DMatrixTest.java,43,91.0,272.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\main\scala\ml\dmlc\xgboost4j\scala\spark\XGBoostRegressor.scala,107,38.0,270.0
+xgboost,CUDA,D:\clones\xgboost\src\tree\constraints.cu,42,23.0,270.0
+xgboost,C++,D:\clones\xgboost\src\data\simple_dmatrix.cc,25,27.0,269.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_with_pandas.py,50,13.0,269.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\c_api\test_c_api.cc,44,7.0,268.0
+xgboost,C/C++ Header,D:\clones\xgboost\tests\cpp\common\test_span.h,73,5.0,267.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\data\test_metainfo.cc,38,6.0,267.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\tree\test_constraints.cu,34,23.0,265.0
+xgboost,Python,D:\clones\xgboost\python-package\setup.py,58,47.0,264.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\tree\updater_quantile_hist.h,40,45.0,259.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.train.Rd,43,9.0,258.0
+xgboost,Python,D:\clones\xgboost\python-package\xgboost\training.py,81,198.0,258.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_eval_metrics.py,51,9.0,254.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\tree\gpu_hist\test_evaluate_splits.cu,31,6.0,252.0
+xgboost,C/C++ Header,D:\clones\xgboost\rabit\src\allreduce_base.h,9,309.0,248.0
+xgboost,Python,D:\clones\xgboost\tests\python-gpu\test_from_cudf.py,72,22.0,247.0
+xgboost,CMake,D:\clones\xgboost\cmake\Utils.cmake,29,15.0,239.0
+xgboost,C++,D:\clones\xgboost\src\common\hist_util.cc,31,22.0,239.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\predictor\test_gpu_predictor.cu,41,5.0,239.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark-gpu\src\test\scala\ml\dmlc\xgboost4j\scala\rapids\spark\GpuTestSuite.scala,34,21.0,238.0
+xgboost,CUDA,D:\clones\xgboost\src\metric\survival_metric.cu,52,10.0,238.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_basic.py,54,39.0,238.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\partition_builder.h,42,34.0,234.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\test\scala\ml\dmlc\xgboost4j\scala\spark\XGBoostRegressorSuite.scala,47,18.0,231.0
+xgboost,CUDA,D:\clones\xgboost\src\common\hist_util.cuh,28,49.0,227.0
+xgboost,Python,D:\clones\xgboost\tests\ci_build\tidy.py,37,30.0,224.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_predict.py,55,8.0,224.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\common\test_device_helpers.cu,30,14.0,223.0
+xgboost,R,D:\clones\xgboost\R-package\R\utils.R,45,162.0,221.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_quantile.cc,31,6.0,221.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\scala\ml\dmlc\xgboost4j\scala\rabit\handler\RabitTrackerHandler.scala,63,78.0,220.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\c_api\c_api_utils.h,17,27.0,219.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\base64.h,7,46.0,219.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\objective\test_ranking_obj_gpu.cu,32,17.0,219.0
+xgboost,YAML,D:\clones\xgboost\.github\workflows\main.yml,9,4.0,216.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\data\test_sparse_page_dmatrix.cc,36,9.0,215.0
+xgboost,YAML,D:\clones\xgboost\.clang-format,0,1.0,213.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\json_io.h,39,17.0,210.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\threading_utils.h,34,48.0,207.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\metric\test_auc.cc,38,15.0,207.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\build.rst,187,119.0,206.0
+xgboost,C++,D:\clones\xgboost\rabit\src\engine_mpi.cc,9,34.0,206.0
+xgboost,C/C++ Header,D:\clones\xgboost\tests\cpp\common\test_hist_util.h,24,26.0,206.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_shap.py,34,14.0,206.0
+xgboost,CUDA,D:\clones\xgboost\src\linear\updater_gpu_coordinate.cu,29,23.0,204.0
+xgboost,CUDA,D:\clones\xgboost\src\metric\rank_metric.cu,45,40.0,203.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\predictor\test_cpu_predictor.cc,37,20.0,202.0
+xgboost,CUDA,D:\clones\xgboost\src\metric\multiclass_metric.cu,32,26.0,199.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_updaters.py,32,17.0,199.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\test\scala\ml\dmlc\xgboost4j\scala\spark\MissingValueHandlingSuite.scala,16,21.0,198.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\gpu\index.rst,49,20.0,196.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgb.DMatrix.R,21,183.0,194.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\data\test_ellpack_page.cu,39,10.0,190.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\bitfield.h,30,17.0,187.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\test\scala\ml\dmlc\xgboost4j\scala\spark\RabitRobustnessSuite.scala,40,51.0,186.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\java\ml\dmlc\xgboost4j\java\NativeLibLoader.java,35,89.0,186.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\java\ml\dmlc\xgboost4j\java\DMatrix.java,41,183.0,185.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\tutorials\dask.rst,141,223.0,184.0
+xgboost,CUDA,D:\clones\xgboost\src\tree\gpu_hist\histogram.cu,36,49.0,184.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\base.h,41,65.0,183.0
+xgboost,C++,D:\clones\xgboost\src\data\gradient_index.cc,32,22.0,180.0
+xgboost,CSS,D:\clones\xgboost\R-package\vignettes\vignette.css,37,9.0,179.0
+xgboost,Python,D:\clones\xgboost\tests\python-gpu\test_from_cupy.py,38,6.0,179.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\java\ml\dmlc\xgboost4j\java\RabitTracker.java,20,27.0,176.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\data\test_sparse_page_dmatrix.cu,36,12.0,175.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\main\scala\ml\dmlc\xgboost4j\scala\spark\DataUtils.scala,24,31.0,174.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark-gpu\src\test\scala\ml\dmlc\xgboost4j\scala\rapids\spark\GpuXGBoostRegressorSuite.scala,41,26.0,171.0
+xgboost,CUDA,D:\clones\xgboost\src\objective\multiclass_obj.cu,28,14.0,165.0
+xgboost,C++,D:\clones\xgboost\src\data\sparse_page_dmatrix.cc,21,12.0,164.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j\src\test\scala\ml\dmlc\xgboost4j\scala\ScalaBoosterImplSuite.scala,33,26.0,163.0
+xgboost,C/C++ Header,D:\clones\xgboost\rabit\src\allreduce_mock.h,4,20.0,162.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark-gpu\src\test\scala\ml\dmlc\xgboost4j\scala\rapids\spark\GpuXGBoostClassifierSuite.scala,38,26.0,161.0
+xgboost,XML,D:\clones\xgboost\jvm-packages\scalastyle-config.xml,57,61.0,159.0
+xgboost,CUDA,D:\clones\xgboost\src\data\data.cu,11,12.0,159.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\tree\split_evaluator.h,23,16.0,159.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_charconv.cc,23,31.0,159.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\common\test_host_device_vector.cu,28,11.0,158.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\tree\hist\test_evaluate_splits.cc,31,8.0,158.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j\src\test\scala\ml\dmlc\xgboost4j\scala\rabit\RabitTrackerConnectionHandlerTest.scala,61,38.0,156.0
+xgboost,make,D:\clones\xgboost\rabit\doc\Makefile,30,6.0,156.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\compressed_iterator.h,23,46.0,154.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\data\test_iterative_device_dmatrix.cu,16,5.0,154.0
+xgboost,R,D:\clones\xgboost\R-package\man\predict.xgb.Booster.Rd,33,17.0,152.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\jvm\xgboost4j_spark_tutorial.rst,192,249.0,152.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\common.h,34,17.0,152.0
+xgboost,C,D:\clones\xgboost\demo\c-api\inference\inference.c,32,28.0,150.0
+xgboost,CSV,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\test\resources\rank.train.csv,0,0.0,149.0
+xgboost,Groovy,D:\clones\xgboost\Jenkinsfile-win64,10,5.0,148.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgb.ggplot.R,30,36.0,147.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark-gpu\src\test\scala\ml\dmlc\xgboost4j\scala\rapids\spark\GpuXGBoostGeneralSuite.scala,25,15.0,147.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\test\scala\ml\dmlc\xgboost4j\scala\spark\PersistenceSuite.scala,31,17.0,147.0
+xgboost,C++,D:\clones\xgboost\src\common\host_device_vector.cc,38,12.0,146.0
+xgboost,CUDA,D:\clones\xgboost\src\data\ellpack_page.cuh,35,67.0,145.0
+xgboost,C++,D:\clones\xgboost\plugin\updater_oneapi\regression_obj_oneapi.cc,33,5.0,144.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\objective\test_aft_obj.cc,18,11.0,144.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\tree\test_tree_stat.cc,31,8.0,144.0
+xgboost,CUDA,D:\clones\xgboost\src\data\iterative_device_dmatrix.cu,18,10.0,143.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_cli.py,30,19.0,143.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.cv.Rd,25,0.0,142.0
+xgboost,CUDA,D:\clones\xgboost\src\common\quantile.cuh,25,40.0,142.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\plugin\test_regression_obj_oneapi.cc,26,8.0,142.0
+xgboost,Markdown,D:\clones\xgboost\demo\CLI\binary_classification\README.md,22,0.0,141.0
+xgboost,CUDA,D:\clones\xgboost\src\data\device_adapter.cuh,17,54.0,141.0
+xgboost,CUDA,D:\clones\xgboost\src\tree\gpu_hist\row_partitioner.cu,14,18.0,141.0
+xgboost,C++,D:\clones\xgboost\src\tree\updater_refresh.cc,7,20.0,141.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\data\test_adapter.cc,19,3.0,141.0
+xgboost,Markdown,D:\clones\xgboost\demo\README.md,25,0.0,139.0
+xgboost,CSV,D:\clones\xgboost\demo\data\veterans_lung_cancer.csv,0,0.0,138.0
+xgboost,Python,D:\clones\xgboost\tests\python-gpu\test_gpu_pickling.py,38,10.0,138.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\intrusive_ptr.h,28,52.0,137.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\main\scala\ml\dmlc\xgboost4j\scala\spark\params\GeneralParams.scala,56,117.0,137.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_column_matrix.cc,11,7.0,137.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_config.cc,13,19.0,137.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgb.plot.shap.R,14,139.0,136.0
+xgboost,C++,D:\clones\xgboost\src\common\io.cc,15,9.0,135.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\transform.h,22,46.0,135.0
+xgboost,make,D:\clones\xgboost\Makefile,24,12.0,133.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\math.h,23,47.0,133.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\data\test_metainfo.cu,29,2.0,133.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\metric\test_rank_metric.cc,18,5.0,133.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_data_iterator.py,25,5.0,133.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgb.cv.R,27,163.0,132.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\scala\ml\dmlc\xgboost4j\scala\Booster.scala,37,171.0,132.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\ci_build\ci_build.sh,30,54.0,132.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\plugin\test_predictor_oneapi.cc,20,16.0,132.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_training_continuation.py,33,2.0,132.0
+xgboost,Python,D:\clones\xgboost\dev\release-py-r.py,39,15.0,130.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\tree\gpu_hist\test_histogram.cu,24,8.0,130.0
+xgboost,CMake,D:\clones\xgboost\cmake\modules\FindLibR.cmake,25,39.0,129.0
+xgboost,Python,D:\clones\xgboost\demo\guide-python\custom_rmsle.py,41,28.0,129.0
+xgboost,Python,D:\clones\xgboost\jvm-packages\create_jni.py,31,6.0,129.0
+xgboost,Maven,D:\clones\xgboost\jvm-packages\xgboost4j-gpu\pom.xml,2,0.0,128.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\tree\gpu_hist\test_gradient_based_sampler.cu,20,5.0,128.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.plot.shap.Rd,32,1.0,127.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\tutorials\ray.rst,63,76.0,127.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\main\scala\ml\dmlc\xgboost4j\scala\spark\params\BoosterParams.scala,67,109.0,127.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\data\proxy_dmatrix.h,16,9.0,127.0
+xgboost,R,D:\clones\xgboost\R-package\tests\testthat\test_interactions.R,31,27.0,126.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\tree\test_tree_policy.cc,17,14.0,126.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\tutorials\model.rst,83,61.0,125.0
+xgboost,CUDA,D:\clones\xgboost\src\c_api\c_api.cu,18,3.0,125.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\tree\updater_approx.h,13,6.0,125.0
+xgboost,YAML,D:\clones\xgboost\.github\workflows\r_tests.yml,24,1.0,124.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\objective\regression_loss.h,17,14.0,124.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\prediction.rst,35,9.0,123.0
+xgboost,YAML,D:\clones\xgboost\.github\workflows\python_tests.yml,17,3.0,122.0
+xgboost,C,D:\clones\xgboost\demo\c-api\basic\c-api-demo.c,33,18.0,122.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\python\python_intro.rst,98,43.0,122.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_ranking.py,20,31.0,122.0
+xgboost,CUDA,D:\clones\xgboost\src\objective\aft_obj.cu,20,9.0,121.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\treemethod.rst,25,0.0,120.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\data\test_data.cc,23,7.0,120.0
+xgboost,C,D:\clones\xgboost\demo\c-api\external-memory\external_memory.c,27,34.0,119.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark-gpu\src\main\scala\ml\dmlc\xgboost4j\scala\rapids\spark\GpuUtils.scala,23,25.0,119.0
+xgboost,Maven,D:\clones\xgboost\jvm-packages\xgboost4j\pom.xml,2,0.0,119.0
+xgboost,Python,D:\clones\xgboost\python-package\xgboost\plotting.py,40,98.0,119.0
+xgboost,Python,D:\clones\xgboost\tests\python-gpu\test_gpu_ranking.py,24,49.0,119.0
+xgboost,Python,D:\clones\xgboost\tests\python-gpu\test_gpu_with_sklearn.py,30,4.0,119.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_model_compatibility.py,12,4.0,119.0
+xgboost,Python,D:\clones\xgboost\tests\python\generate_models.py,32,0.0,118.0
+xgboost,SVG,D:\clones\xgboost\doc\_static\us.svg,0,0.0,117.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\contrib\coding_guide.rst,49,16.0,117.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\test\scala\org\apache\spark\SparkParallelismTrackerSuite.scala,16,18.0,117.0
+xgboost,CUDA,D:\clones\xgboost\src\tree\gpu_hist\row_partitioner.cuh,19,68.0,117.0
+xgboost,Python,D:\clones\xgboost\doc\conf.py,44,77.0,116.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\learner.h,22,190.0,116.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\logging.h,21,13.0,116.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\scala\ml\dmlc\xgboost4j\scala\XGBoost.scala,21,61.0,116.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_demos.py,47,6.0,116.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\main\scala\org\apache\spark\SparkParallelismTracker.scala,24,37.0,114.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_with_modin.py,25,11.0,114.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\gbm\gblinear_model.h,14,17.0,113.0
+xgboost,Python,D:\clones\xgboost\demo\json-model\json_parser.py,30,32.0,112.0
+xgboost,C/C++ Header,D:\clones\xgboost\plugin\updater_oneapi\regression_loss_oneapi.h,15,18.0,112.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\config.h,12,50.0,112.0
+xgboost,CUDA,D:\clones\xgboost\src\tree\gpu_hist\evaluate_splits.cuh,16,44.0,112.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_monotone_constraints.py,31,2.0,112.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\tutorials\saving_model.rst,51,82.0,111.0
+xgboost,XML,D:\clones\xgboost\jvm-packages\checkstyle.xml,20,31.0,111.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\random.h,20,85.0,111.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\gbm\gbtree_model.h,18,23.0,110.0
+xgboost,C/C++ Header,D:\clones\xgboost\rabit\include\rabit\internal\utils.h,17,19.0,108.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_random.cc,17,5.0,108.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\objective\test_ranking_obj.cc,24,5.0,108.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\tree\gpu_hist\test_row_partitioner.cu,13,10.0,108.0
+xgboost,Python,D:\clones\xgboost\tests\python-gpu\test_gpu_updaters.py,21,6.0,108.0
+xgboost,Python,D:\clones\xgboost\python-package\xgboost\rabit.py,45,76.0,107.0
+xgboost,CUDA,D:\clones\xgboost\src\tree\updater_gpu_common.cuh,14,25.0,107.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\java\ml\dmlc\xgboost4j\java\ExternalCheckpointManager.java,12,0.0,105.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\observer.h,10,18.0,105.0
+xgboost,CUDA,D:\clones\xgboost\src\tree\gpu_hist\evaluator.cu,13,17.0,105.0
+xgboost,Python,D:\clones\xgboost\demo\guide-python\custom_softmax.py,40,40.0,103.0
+xgboost,CUDA,D:\clones\xgboost\src\tree\gpu_hist\gradient_based_sampler.cuh,20,24.0,103.0
+xgboost,C++,D:\clones\xgboost\src\tree\param.cc,3,4.0,103.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j\src\test\scala\ml\dmlc\xgboost4j\scala\DMatrixSuite.scala,14,54.0,102.0
+xgboost,Python,D:\clones\xgboost\python-package\xgboost\compat.py,34,38.0,102.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\group_data.h,9,59.0,102.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\test\scala\ml\dmlc\xgboost4j\scala\spark\XGBoostRabitRegressionSuite.scala,22,21.0,101.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\data\gradient_index.h,15,39.0,101.0
+xgboost,Markdown,D:\clones\xgboost\jvm-packages\README.md,36,0.0,100.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\scala\ml\dmlc\xgboost4j\scala\DMatrix.scala,30,135.0,100.0
+xgboost,C/C++ Header,D:\clones\xgboost\jvm-packages\xgboost4j\src\native\xgboost4j.h,45,222.0,98.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\tree\test_regen.cc,20,6.0,98.0
+xgboost,Markdown,D:\clones\xgboost\CONTRIBUTORS.md,9,0.0,97.0
+xgboost,R,D:\clones\xgboost\R-package\tests\testthat\test_model_compatibility.R,9,4.0,97.0
+xgboost,C/C++ Header,D:\clones\xgboost\rabit\include\rabit\internal\engine.h,6,192.0,97.0
+xgboost,C++,D:\clones\xgboost\src\gbm\gbtree_model.cc,14,3.0,97.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\main\scala\ml\dmlc\xgboost4j\scala\spark\params\DefaultXGBoostParamsWriter.scala,20,35.0,95.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\scala\ml\dmlc\xgboost4j\scala\rabit\RabitTracker.scala,22,78.0,95.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\metric\test_multiclass_metric.cc,16,1.0,95.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgb.train.R,23,267.0,94.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\jvm\java_intro.rst,49,15.0,94.0
+xgboost,C/C++ Header,D:\clones\xgboost\rabit\include\rabit\internal\io.h,5,15.0,94.0
+xgboost,C++,D:\clones\xgboost\rabit\src\engine.cc,14,21.0,94.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\data\sparse_page_dmatrix.h,15,46.0,94.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\java\ml\dmlc\xgboost4j\java\example\CustomObjective.java,28,47.0,93.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\test\scala\ml\dmlc\xgboost4j\scala\spark\ExternalCheckpointManagerSuite.scala,28,14.0,93.0
+xgboost,CUDA,D:\clones\xgboost\src\common\device_helpers.cu,19,6.0,93.0
+xgboost,C++,D:\clones\xgboost\src\tree\updater_prune.cc,10,17.0,93.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\data\test_array_interface.cc,13,7.0,93.0
+xgboost,Python,D:\clones\xgboost\dev\prepare_jvm_release.py,9,1.0,92.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\row_set.h,19,19.0,92.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\gbm.h,16,127.0,91.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\test\scala\ml\dmlc\xgboost4j\scala\spark\TrainTestData.scala,19,12.0,91.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\probability_distribution.h,25,9.0,91.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\metric\test_survival_metric.cu,19,10.0,91.0
+xgboost,Python,D:\clones\xgboost\demo\guide-python\callbacks.py,20,21.0,90.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\tutorials\custom_metric_obj.rst,72,149.0,90.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgb.model.dt.tree.R,19,71.0,89.0
+xgboost,R,D:\clones\xgboost\R-package\tests\testthat\test_dmatrix.R,19,9.0,89.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\java\ml\dmlc\xgboost4j\java\DataBatch.java,14,12.0,89.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\java\ml\dmlc\xgboost4j\java\Rabit.java,21,44.0,89.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\metric\auc.h,19,9.0,89.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\scala\ml\dmlc\xgboost4j\scala\example\CustomObjective.scala,19,51.0,88.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\scala\ml\dmlc\xgboost4j\scala\example\spark\SparkMLlibPipeline.scala,26,27.0,88.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_interaction_constraints.py,18,8.0,88.0
+xgboost,C/C++ Header,D:\clones\xgboost\rabit\include\rabit\rabit.h,9,278.0,87.0
+xgboost,Python,D:\clones\xgboost\tests\ci_build\test_r_package.py,15,0.0,87.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_early_stopping.py,16,4.0,87.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\install.rst,89,135.0,86.0
+xgboost,C++,D:\clones\xgboost\src\predictor\predictor.cc,11,6.0,86.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\tree\test_prediction_cache.cc,18,4.0,86.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\travis\run_test.sh,14,7.0,86.0
+xgboost,R,D:\clones\xgboost\R-package\tests\helper_scripts\generate_models.R,14,6.0,85.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j-gpu\src\test\java\ml\dmlc\xgboost4j\gpu\java\BoosterTest.java,23,19.0,85.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\test\java\ml\dmlc\xgboost4j\java\OsDetectionTest.java,23,15.0,85.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\test\scala\ml\dmlc\xgboost4j\scala\spark\DeterministicPartitioningSuite.scala,15,14.0,84.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\test\scala\ml\dmlc\xgboost4j\scala\spark\PerTest.scala,21,19.0,84.0
+xgboost,C++,D:\clones\xgboost\src\linear\updater_shotgun.cc,10,9.0,84.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\metric\test_survival_metric.cc,16,18.0,84.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\tree\test_param.cc,20,1.0,84.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_openmp.py,23,0.0,84.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_survival.py,18,9.0,84.0
+xgboost,C,D:\clones\xgboost\R-package\src\init.c,4,11.0,83.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\tutorials\feature_interaction_constraint.rst,42,158.0,83.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\predictor.h,22,137.0,83.0
+xgboost,C++,D:\clones\xgboost\src\logging.cc,17,8.0,83.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.importance.Rd,13,6.0,82.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\tutorials\categorical.rst,46,38.0,82.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\tutorials\rf.rst,24,0.0,82.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\java\ml\dmlc\xgboost4j\java\example\util\DataLoader.java,24,17.0,82.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_bitfield.cc,14,4.0,82.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\contrib\unit_tests.rst,66,44.0,81.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j-gpu\src\test\java\ml\dmlc\xgboost4j\gpu\java\DMatrixTest.java,27,15.0,81.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\main\scala\ml\dmlc\xgboost4j\scala\spark\params\DefaultXGBoostParamsReader.scala,20,48.0,81.0
+xgboost,C++,D:\clones\xgboost\src\linear\updater_coordinate.cc,10,15.0,81.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_plotting.py,16,0.0,81.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgb.plot.multi.trees.R,14,64.0,80.0
+xgboost,CUDA,D:\clones\xgboost\src\objective\hinge.cu,13,7.0,80.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\data\file_iterator.h,15,20.0,79.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\jvm\xgboost4j_spark_gpu_tutorial.rst,61,107.0,78.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\java\ml\dmlc\xgboost4j\java\XGBoostJNI.java,42,26.0,78.0
+xgboost,C++,D:\clones\xgboost\src\data\gradient_index_format.cc,7,13.0,78.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\data\iterative_device_dmatrix.h,14,5.0,78.0
+xgboost,C/C++ Header,D:\clones\xgboost\tests\cpp\tree\test_evaluate_splits.h,11,7.0,78.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.plot.importance.Rd,17,0.0,77.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_with_arrow.py,11,0.0,77.0
+xgboost,R,D:\clones\xgboost\R-package\tests\testthat\test_update.R,14,17.0,76.0
+xgboost,Python,D:\clones\xgboost\demo\guide-python\continuation.py,18,14.0,76.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_parameter.cc,16,8.0,76.0
+xgboost,R,D:\clones\xgboost\R-package\demo\interaction_constraints.R,23,15.0,75.0
+xgboost,Python,D:\clones\xgboost\demo\guide-python\cat_in_the_dat.py,30,18.0,75.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\java\ml\dmlc\xgboost4j\java\example\BasicWalkThrough.java,27,29.0,75.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_intrusive_ptr.cc,23,11.0,75.0
+xgboost,R,D:\clones\xgboost\R-package\tests\testthat\test_custom_objective.R,14,0.0,74.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\scala\ml\dmlc\xgboost4j\scala\rabit\util\LinkMap.scala,14,48.0,74.0
+xgboost,Python,D:\clones\xgboost\rabit\doc\conf.py,34,76.0,74.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\charconv.h,14,15.0,74.0
+xgboost,C++,D:\clones\xgboost\src\tree\constraints.cc,13,16.0,74.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.plot.tree.Rd,14,4.0,73.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\test\scala\ml\dmlc\xgboost4j\scala\spark\ParameterSuite.scala,16,14.0,73.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_io.cc,16,4.0,73.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.attr.Rd,13,1.0,72.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j-gpu\src\main\java\ml\dmlc\xgboost4j\gpu\java\CudfColumn.java,20,18.0,72.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\tree\driver.h,9,9.0,72.0
+xgboost,C++,D:\clones\xgboost\plugin\dense_parser\dense_libsvm.cc,10,6.0,71.0
+xgboost,C++,D:\clones\xgboost\src\metric\metric.cc,8,10.0,71.0
+xgboost,Python,D:\clones\xgboost\tests\distributed\test_issue3402.py,6,2.0,71.0
+xgboost,Python,D:\clones\xgboost\demo\guide-python\multioutput_regression.py,22,19.0,70.0
+xgboost,C++,D:\clones\xgboost\src\common\version.cc,16,5.0,70.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\ci_build\test_python.sh,9,2.0,70.0
+xgboost,C/C++ Header,D:\clones\xgboost\tests\cpp\data\test_array_interface.h,14,1.0,70.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_probability_distribution.cc,11,35.0,69.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_threading_utils.cc,19,4.0,69.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgb.plot.tree.R,9,73.0,68.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.create.features.Rd,19,5.0,68.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.plot.shap.summary.Rd,9,1.0,68.0
+xgboost,Python,D:\clones\xgboost\demo\dask\dask_callbacks.py,12,9.0,68.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\tutorials\aft_survival_analysis.rst,43,57.0,68.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\string_view.h,10,3.0,68.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_linear.py,9,5.0,68.0
+xgboost,R,D:\clones\xgboost\R-package\inst\make-r-def.R,9,20.0,67.0
+xgboost,Bourne Shell,D:\clones\xgboost\dev\release-tarball.sh,22,2.0,67.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\faq.rst,13,0.0,67.0
+xgboost,C++,D:\clones\xgboost\plugin\example\custom_obj.cc,11,21.0,67.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\tree\test_quantile_hist.cc,8,3.0,67.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.plot.deepness.Rd,13,1.0,66.0
+xgboost,R,D:\clones\xgboost\R-package\tests\helper_scripts\run_lint.R,5,0.0,66.0
+xgboost,CSV,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\test\resources\rank.test.csv,0,0.0,66.0
+xgboost,C/C++ Header,D:\clones\xgboost\tests\cpp\data\test_metainfo.h,5,8.0,66.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\scala\ml\dmlc\xgboost4j\scala\example\BasicWalkThrough.scala,17,21.0,65.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\test\java\ml\dmlc\xgboost4j\java\ArchDetectionTest.java,18,15.0,65.0
+xgboost,R,D:\clones\xgboost\R-package\man\cb.gblinear.history.Rd,7,23.0,64.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.model.dt.tree.Rd,15,4.0,64.0
+xgboost,Python,D:\clones\xgboost\demo\aft_survival\aft_survival_viz_demo.py,13,20.0,64.0
+xgboost,Python,D:\clones\xgboost\tests\benchmark\benchmark_tree.py,17,5.0,64.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\tree\test_prune.cc,16,11.0,64.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgb.plot.deepness.R,13,74.0,63.0
+xgboost,R,D:\clones\xgboost\R-package\demo\basic_walkthrough.R,13,36.0,63.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.plot.multi.trees.Rd,17,2.0,63.0
+xgboost,Python,D:\clones\xgboost\demo\guide-python\update_process.py,13,18.0,63.0
+xgboost,Python,D:\clones\xgboost\dev\query_contributors.py,10,1.0,63.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\host_device_vector.h,24,60.0,63.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\main\scala\ml\dmlc\xgboost4j\scala\spark\params\XGBoostEstimatorCommon.scala,16,39.0,63.0
+xgboost,CUDA,D:\clones\xgboost\src\data\simple_dmatrix.cuh,8,7.0,63.0
+xgboost,YAML,D:\clones\xgboost\.github\workflows\jvm_tests.yml,12,0.0,62.0
+xgboost,R,D:\clones\xgboost\R-package\tests\testthat\test_glm.R,14,0.0,62.0
+xgboost,C++,D:\clones\xgboost\src\data\sparse_page_raw_format.cc,10,6.0,62.0
+xgboost,CUDA,D:\clones\xgboost\src\tree\gpu_hist\expand_entry.cuh,12,3.0,62.0
+xgboost,Python,D:\clones\xgboost\tests\python-gpu\test_gpu_linear.py,9,5.0,62.0
+xgboost,C++,D:\clones\xgboost\amalgamation\xgboost-all0.cc,9,19.0,61.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j-gpu\src\main\java\ml\dmlc\xgboost4j\gpu\java\CudfUtils.java,14,23.0,61.0
+xgboost,Maven,D:\clones\xgboost\jvm-packages\xgboost4j-spark-gpu\pom.xml,0,0.0,61.0
+xgboost,Python,D:\clones\xgboost\tests\benchmark\generate_libsvm.py,21,5.0,61.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\objective\test_multiclass_obj.cc,16,3.0,61.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\feature_map.h,4,32.0,60.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\io.h,15,41.0,60.0
+xgboost,C++,D:\clones\xgboost\src\common\timer.cc,7,3.0,60.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\data\sparse_page_writer.h,13,38.0,59.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\common\test_gpu_compressed_iterator.cu,13,2.0,59.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\common\test_linalg.cu,8,12.0,59.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_partition_builder.cc,20,0.0,59.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\linear\test_linear.cc,16,3.0,59.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\test_helpers.cc,11,0.0,59.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\categorical.h,14,24.0,58.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\timer.h,10,17.0,58.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\tree\test_approx.cc,6,3.0,58.0
+xgboost,Python,D:\clones\xgboost\tests\distributed\distributed_gpu.py,20,8.0,58.0
+xgboost,R,D:\clones\xgboost\R-package\man\cb.early.stop.Rd,6,0.0,57.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\tutorials\dart.rst,32,22.0,57.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\parameter.h,6,40.0,57.0
+xgboost,Maven,D:\clones\xgboost\jvm-packages\xgboost4j-flink\pom.xml,1,0.0,57.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-flink\src\main\scala\ml\dmlc\xgboost4j\scala\flink\XGBoost.scala,12,30.0,57.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\common\test_bitfield.cu,9,3.0,57.0
+xgboost,Markdown,D:\clones\xgboost\README.md,13,0.0,56.0
+xgboost,Python,D:\clones\xgboost\demo\aft_survival\aft_survival_demo_with_optuna.py,8,14.0,56.0
+xgboost,CUDA,D:\clones\xgboost\src\tree\gpu_hist\feature_groups.cuh,19,44.0,56.0
+xgboost,Python,D:\clones\xgboost\tests\benchmark\benchmark_linear.py,12,1.0,56.0
+xgboost,C/C++ Header,D:\clones\xgboost\tests\cpp\common\test_quantile.h,8,0.0,56.0
+xgboost,C/C++ Header,D:\clones\xgboost\tests\cpp\predictor\test_predictor.h,19,4.0,56.0
+xgboost,Python,D:\clones\xgboost\tests\python-gpu\load_pickle.py,11,8.0,56.0
+xgboost,CMake,D:\clones\xgboost\cmake\Sanitizer.cmake,8,8.0,55.0
+xgboost,Python,D:\clones\xgboost\demo\guide-python\quantile_data_iterator.py,31,27.0,55.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\tutorials\external_memory.rst,37,46.0,55.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\linalg_op.h,6,3.0,55.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_transform_range.cc,15,3.0,55.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\data\test_gradient_index.cc,13,3.0,55.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\rabit\allreduce_base_test.cc,13,0.0,55.0
+xgboost,Python,D:\clones\xgboost\demo\guide-python\external_memory.py,19,23.0,54.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j-gpu\src\main\java\ml\dmlc\xgboost4j\gpu\java\CudfColumnBatch.java,18,16.0,54.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\tree\hist\expand_entry.h,7,3.0,54.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\common\test_ranking_utils.cu,12,0.0,54.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_parse_tree.py,15,3.0,54.0
+xgboost,Python,D:\clones\xgboost\demo\guide-python\sklearn_examples.py,11,9.0,53.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\test\scala\ml\dmlc\xgboost4j\scala\spark\XGBoostConfigureSuite.scala,16,14.0,53.0
+xgboost,Python,D:\clones\xgboost\tests\python-gpu\conftest.py,8,1.0,53.0
+xgboost,Python,D:\clones\xgboost\tests\python-gpu\test_gpu_basic_models.py,12,4.0,53.0
+xgboost,CUDA,D:\clones\xgboost\src\common\ranking_utils.cuh,8,24.0,52.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\linear\param.h,4,15.0,52.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\tree\gpu_hist\test_driver.cu,5,3.0,52.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\objective.h,10,63.0,51.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-gpu\src\test\scala\ml\dmlc\xgboost4j\scala\DeviceQuantileDMatrixSuite.scala,15,13.0,51.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_tree_regularization.py,14,12.0,51.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgb.importance.R,6,86.0,50.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\scala\ml\dmlc\xgboost4j\scala\example\spark\SparkTraining.scala,13,23.0,50.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\test\scala\ml\dmlc\xgboost4j\scala\spark\FeatureSizeValidatingSuite.scala,10,14.0,50.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\tree\test_histmaker.cc,17,2.0,50.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.dump.Rd,8,3.0,49.0
+xgboost,Python,D:\clones\xgboost\demo\dask\gpu_training.py,14,24.0,49.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\main\scala\ml\dmlc\xgboost4j\scala\spark\params\CustomParams.scala,16,17.0,49.0
+xgboost,CUDA,D:\clones\xgboost\src\data\ellpack_page_raw_format.cu,8,3.0,49.0
+xgboost,CUDA,D:\clones\xgboost\src\tree\constraints.cuh,11,39.0,49.0
+xgboost,CUDA,D:\clones\xgboost\src\tree\gpu_hist\histogram.cuh,10,10.0,49.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_tracker.py,12,0.0,49.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\generic_parameters.h,13,21.0,48.0
+xgboost,Maven,D:\clones\xgboost\jvm-packages\xgboost4j-example\pom.xml,0,0.0,48.0
+xgboost,Maven,D:\clones\xgboost\jvm-packages\xgboost4j-spark\pom.xml,0,0.0,48.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\data\simple_dmatrix.h,13,9.0,48.0
+xgboost,CUDA,D:\clones\xgboost\src\tree\gpu_hist\feature_groups.cu,12,4.0,48.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_pickling.py,17,0.0,48.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgb.plot.importance.R,10,67.0,47.0
+xgboost,R,D:\clones\xgboost\R-package\man\a-compatibility-note-for-saveRDS-save.Rd,8,9.0,47.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.shap.data.Rd,8,0.0,47.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\java\ml\dmlc\xgboost4j\java\DeviceQuantileDMatrix.java,10,11.0,47.0
+xgboost,Python,D:\clones\xgboost\tests\python-gpu\test_monotonic_constraints.py,16,0.0,47.0
+xgboost,C/C++ Header,D:\clones\xgboost\R-package\src\xgboost_R.h,37,226.0,46.0
+xgboost,Python,D:\clones\xgboost\demo\guide-python\categorical.py,19,22.0,46.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\main\scala\ml\dmlc\xgboost4j\scala\spark\params\LearningTaskParams.scala,31,49.0,46.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\metric\metric_common.h,14,30.0,46.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\ci_build\build_python_wheels.sh,8,14.0,46.0
+xgboost,C/C++ Header,D:\clones\xgboost\tests\cpp\histogram_helpers.h,6,1.0,46.0
+xgboost,m4,D:\clones\xgboost\R-package\configure.ac,9,0.0,45.0
+xgboost,R,D:\clones\xgboost\demo\multiclass_classification\train.R,16,3.0,45.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\contrib\git_guide.rst,28,3.0,45.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\tutorials\c_api_tutorial.rst,112,165.0,45.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\tutorials\param_tuning.rst,15,0.0,45.0
+xgboost,Python,D:\clones\xgboost\python-package\xgboost\config.py,25,72.0,45.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_compressed_iterator.cc,8,2.0,45.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\data\test_sparse_page_raw_format.cc,7,4.0,45.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\test\scala\ml\dmlc\xgboost4j\scala\spark\CustomObj.scala,12,28.0,44.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\java\ml\dmlc\xgboost4j\java\TrackerProperties.java,11,1.0,44.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\data\ellpack_page_source.h,9,4.0,44.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_version.cc,15,3.0,44.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\data\test_device_adapter.cu,8,1.0,44.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\tree\test_refresh.cc,11,3.0,44.0
+xgboost,Python,D:\clones\xgboost\tests\python-gpu\test_gpu_eval_metrics.py,14,0.0,44.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.save.Rd,2,0.0,43.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\tree_updater.h,12,60.0,43.0
+xgboost,C/C++ Header,D:\clones\xgboost\rabit\include\rabit\c_api.h,16,130.0,43.0
+xgboost,C++,D:\clones\xgboost\src\tree\updater_sync.cc,8,9.0,43.0
+xgboost,YAML,D:\clones\xgboost\tests\ci_build\conda_env\cpu_test.yml,0,0.0,43.0
+xgboost,Python,D:\clones\xgboost\tests\python-gpu\test_gpu_training_continuation.py,6,0.0,43.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.Booster.complete.Rd,6,4.0,42.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\java\ml\dmlc\xgboost4j\java\example\EarlyStopping.java,13,12.0,42.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\java\ml\dmlc\xgboost4j\java\util\BigDenseMatrix.java,16,18.0,42.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\data\test_proxy_dmatrix.cu,4,0.0,42.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\tree\test_constraints.cc,16,2.0,42.0
+xgboost,Python,D:\clones\xgboost\tests\python-gpu\test_device_quantile_dmatrix.py,14,1.0,42.0
+xgboost,R,D:\clones\xgboost\R-package\man\cb.cv.predict.Rd,2,0.0,41.0
+xgboost,Python,D:\clones\xgboost\demo\kaggle-higgs\speedtest.py,10,11.0,41.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\tutorials\input_format.rst,30,41.0,41.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\tutorials\monotonic.rst,38,23.0,41.0
+xgboost,CUDA,D:\clones\xgboost\src\common\linalg_op.cuh,4,3.0,41.0
+xgboost,CUDA,D:\clones\xgboost\src\data\sparse_page_dmatrix.cu,4,4.0,41.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_group_data.cc,9,5.0,41.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\data\test_array_interface.cu,11,3.0,41.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\test_logging.cc,12,0.0,41.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_dt.py,10,3.0,41.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.DMatrix.Rd,5,0.0,40.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.load.Rd,1,0.0,40.0
+xgboost,R,D:\clones\xgboost\R-package\tests\testthat\test_ranking.R,5,6.0,40.0
+xgboost,Python,D:\clones\xgboost\demo\CLI\binary_classification\mapfeat.py,6,1.0,40.0
+xgboost,Markdown,D:\clones\xgboost\demo\rmm_plugin\README.md,7,0.0,40.0
+xgboost,Python,D:\clones\xgboost\python-package\xgboost\__init__.py,6,8.0,40.0
+xgboost,C++,D:\clones\xgboost\src\gbm\gblinear_model.cc,6,3.0,40.0
+xgboost,YAML,D:\clones\xgboost\tests\ci_build\conda_env\macos_cpu_test.yml,0,0.0,40.0
+xgboost,Python,D:\clones\xgboost\demo\aft_survival\aft_survival_demo.py,6,11.0,39.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\metric.h,7,62.0,39.0
+xgboost,YAML,D:\clones\xgboost\.travis.yml,13,2.0,38.0
+xgboost,CMake,D:\clones\xgboost\R-package\CMakeLists.txt,3,3.0,38.0
+xgboost,C++,D:\clones\xgboost\R-package\src\xgboost_custom.cc,6,8.0,38.0
+xgboost,Python,D:\clones\xgboost\demo\dask\cpu_survival.py,10,19.0,38.0
+xgboost,Python,D:\clones\xgboost\demo\guide-python\basic_walkthrough.py,12,23.0,38.0
+xgboost,Python,D:\clones\xgboost\demo\guide-python\cross_validation.py,6,23.0,38.0
+xgboost,Python,D:\clones\xgboost\demo\guide-python\predict_first_ntree.py,11,9.0,38.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j-spark-gpu\src\main\java\ml\dmlc\xgboost4j\java\nvidia\spark\GpuColumnBatch.java,14,16.0,38.0
+xgboost,Python,D:\clones\xgboost\python-package\xgboost\libpath.py,9,18.0,38.0
+xgboost,C++,D:\clones\xgboost\src\objective\objective.cc,6,7.0,38.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\tree\constraints.h,10,17.0,38.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\data\test_file_iterator.cc,5,3.0,38.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\data\test_gradient_index_page_raw_format.cc,6,3.0,38.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\linear_updater.h,13,29.0,37.0
+xgboost,CUDA,D:\clones\xgboost\src\data\array_interface.cu,2,17.0,37.0
+xgboost,CUDA,D:\clones\xgboost\src\gbm\gbtree.cu,4,3.0,37.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_survival_util.cc,5,3.0,37.0
+xgboost,YAML,D:\clones\xgboost\.github\workflows\python_wheels.yml,2,0.0,36.0
+xgboost,R,D:\clones\xgboost\R-package\man\getinfo.Rd,8,0.0,36.0
+xgboost,R,D:\clones\xgboost\R-package\man\setinfo.Rd,6,0.0,36.0
+xgboost,R,D:\clones\xgboost\R-package\tests\testthat\test_interaction_constraints.R,11,8.0,36.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\java\ml\dmlc\xgboost4j\java\ColumnBatch.java,17,40.0,36.0
+xgboost,CMake,D:\clones\xgboost\plugin\CMakeLists.txt,4,2.0,36.0
+xgboost,Python,D:\clones\xgboost\tests\ci_build\rename_whl.py,9,0.0,36.0
+xgboost,YAML,D:\clones\xgboost\.github\workflows\r_nold.yml,7,2.0,35.0
+xgboost,R,D:\clones\xgboost\R-package\demo\custom_objective.R,6,24.0,35.0
+xgboost,R,D:\clones\xgboost\R-package\demo\predict_leaf_indices.R,11,9.0,35.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\data\gradient_index_page_source.h,5,3.0,35.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\data\test_ellpack_page_raw_format.cu,7,3.0,35.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\gbm\test_gblinear.cc,10,3.0,35.0
+xgboost,R,D:\clones\xgboost\R-package\man\callbacks.Rd,3,0.0,34.0
+xgboost,R,D:\clones\xgboost\R-package\man\cb.reset.parameters.Rd,2,0.0,34.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgbConfig.Rd,1,4.0,34.0
+xgboost,Python,D:\clones\xgboost\demo\guide-python\feature_weights.py,11,6.0,34.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\java\ml\dmlc\xgboost4j\java\example\util\CustomEval.java,10,17.0,34.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\data\arrow-cdi.h,9,23.0,34.0
+xgboost,YAML,D:\clones\xgboost\tests\ci_build\conda_env\aarch64_test.yml,0,0.0,34.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\helpers.cu,7,0.0,34.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\objective\test_objective.cc,5,2.0,34.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.save.raw.Rd,3,0.0,33.0
+xgboost,Python,D:\clones\xgboost\demo\kaggle-higgs\higgs-pred.py,8,6.0,33.0
+xgboost,R,D:\clones\xgboost\demo\kaggle-higgs\speedtest.R,7,30.0,33.0
+xgboost,Python,D:\clones\xgboost\demo\multiclass_classification\train.py,9,8.0,33.0
+xgboost,Markdown,D:\clones\xgboost\demo\rank\README.md,8,0.0,33.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\scala\ml\dmlc\xgboost4j\scala\DeviceQuantileDMatrix.scala,17,57.0,33.0
+xgboost,Markdown,D:\clones\xgboost\plugin\updater_oneapi\README.md,9,0.0,33.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\data\validation.h,4,3.0,33.0
+xgboost,CMake,D:\clones\xgboost\tests\cpp\CMakeLists.txt,7,1.0,33.0
+xgboost,C/C++ Header,D:\clones\xgboost\tests\cpp\categorical_helpers.h,6,5.0,33.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgb.unserialize.R,0,9.0,32.0
+xgboost,R,D:\clones\xgboost\R-package\man\dimnames.xgb.DMatrix.Rd,3,0.0,32.0
+xgboost,R,D:\clones\xgboost\R-package\man\slice.xgb.DMatrix.Rd,7,0.0,32.0
+xgboost,Jupyter Notebook,D:\clones\xgboost\demo\gpu_acceleration\shap.ipynb,0,179.0,32.0
+xgboost,Python,D:\clones\xgboost\demo\rank\rank.py,8,1.0,32.0
+xgboost,Python,D:\clones\xgboost\demo\rank\trans_data.py,7,1.0,32.0
+xgboost,Markdown,D:\clones\xgboost\plugin\README.md,8,0.0,32.0
+xgboost,Python,D:\clones\xgboost\python-package\xgboost\_typing.py,9,20.0,32.0
+xgboost,C++,D:\clones\xgboost\src\tree\tree_updater.cc,6,6.0,32.0
+xgboost,R,D:\clones\xgboost\R-package\demo\cross_validation.R,7,13.0,31.0
+xgboost,R,D:\clones\xgboost\R-package\man\agaricus.test.Rd,2,0.0,31.0
+xgboost,R,D:\clones\xgboost\R-package\man\agaricus.train.Rd,2,0.0,31.0
+xgboost,R,D:\clones\xgboost\R-package\man\cb.save.model.Rd,2,0.0,31.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\java\ml\dmlc\xgboost4j\java\example\PredictLeafIndices.java,12,23.0,31.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\test\scala\ml\dmlc\xgboost4j\scala\spark\EvalError.scala,10,24.0,31.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\c_api\c_api_error.h,7,17.0,31.0
+xgboost,C++,D:\clones\xgboost\src\common\threading_utils.cc,4,16.0,31.0
+xgboost,Python,D:\clones\xgboost\tests\python-gpu\test_gpu_data_iterator.py,7,1.0,31.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\travis\travis_setup_env.sh,5,4.0,31.0
+xgboost,R,D:\clones\xgboost\R-package\demo\create_sparse_matrix.R,19,40.0,30.0
+xgboost,R,D:\clones\xgboost\demo\kaggle-otto\otto_train_pred.R,8,5.0,30.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\scala\ml\dmlc\xgboost4j\scala\example\util\CustomEval.scala,6,24.0,30.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-flink\src\main\scala\ml\dmlc\xgboost4j\scala\flink\XGBoostModel.scala,9,28.0,30.0
+xgboost,C++,D:\clones\xgboost\src\common\random.cc,4,4.0,30.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\data\histogram_cut_format.h,3,3.0,30.0
+xgboost,CUDA,D:\clones\xgboost\src\data\simple_dmatrix.cu,7,9.0,30.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_monitor.cc,4,1.0,30.0
+xgboost,C/C++ Header,D:\clones\xgboost\tests\cpp\linear\test_json_io.h,8,3.0,30.0
+xgboost,Python,D:\clones\xgboost\tests\python-gpu\test_gpu_demos.py,9,0.0,30.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\contrib\ci.rst,7,3.0,29.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\linear\test_linear.cu,9,1.0,29.0
+xgboost,R,D:\clones\xgboost\R-package\man\print.xgb.cv.Rd,3,0.0,28.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.serialize.Rd,1,0.0,28.0
+xgboost,Python,D:\clones\xgboost\demo\kaggle-higgs\higgs-numpy.py,12,13.0,28.0
+xgboost,Python,D:\clones\xgboost\demo\rank\rank_sklearn.py,5,1.0,28.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\java\ml\dmlc\xgboost4j\java\example\BoostFromPrediction.java,13,21.0,28.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\java\ml\dmlc\xgboost4j\java\example\PredictFirstNtree.java,14,24.0,28.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\scala\ml\dmlc\xgboost4j\scala\example\PredictLeafIndices.scala,14,14.0,28.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\main\scala\ml\dmlc\xgboost4j\scala\spark\package.scala,8,12.0,28.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\main\scala\ml\dmlc\xgboost4j\scala\spark\params\Utils.scala,12,31.0,28.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\ci_build\entrypoint.sh,8,7.0,28.0
+xgboost,R,D:\clones\xgboost\R-package\demo\early_stopping.R,1,12.0,27.0
+xgboost,R,D:\clones\xgboost\R-package\man\cb.evaluation.log.Rd,4,0.0,27.0
+xgboost,R,D:\clones\xgboost\R-package\man\cb.print.evaluation.Rd,2,0.0,27.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.gblinear.history.Rd,2,0.0,27.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.parameters.Rd,4,0.0,27.0
+xgboost,Dockerfile,D:\clones\xgboost\jvm-packages\dev\Dockerfile,6,25.0,27.0
+xgboost,CUDA,D:\clones\xgboost\src\data\proxy_dmatrix.cu,3,3.0,27.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\data\simple_batch_iterator.h,7,3.0,27.0
+xgboost,C++,D:\clones\xgboost\src\gbm\gbm.cc,4,6.0,27.0
+xgboost,C++,D:\clones\xgboost\src\linear\linear_updater.cc,6,4.0,27.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\predictor\predict_fn.h,1,3.0,27.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\ci_build\test_jvm_cross.sh,8,7.0,27.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\common\test_transform_range.cu,5,5.0,27.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgb.dump.R,5,40.0,26.0
+xgboost,R,D:\clones\xgboost\R-package\demo\tweedie_regression.R,12,11.0,26.0
+xgboost,R,D:\clones\xgboost\R-package\man\dim.xgb.DMatrix.Rd,2,0.0,26.0
+xgboost,R,D:\clones\xgboost\R-package\man\prepare.ggplot.shap.data.Rd,1,0.0,26.0
+xgboost,TeX,D:\clones\xgboost\R-package\vignettes\xgboost.bib,4,0.0,26.0
+xgboost,Python,D:\clones\xgboost\demo\guide-python\sklearn_evals_result.py,11,7.0,26.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\contrib\donate.rst,15,3.0,26.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\java\ml\dmlc\xgboost4j\java\example\GeneralizedLinearModel.java,13,31.0,26.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\scala\ml\dmlc\xgboost4j\scala\example\BoostFromPrediction.scala,14,13.0,26.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\main\scala\org\apache\spark\ml\linalg\xgboost\XGBoostSchemaUtils.scala,10,15.0,26.0
+xgboost,C++,D:\clones\xgboost\rabit\guide\basic.cc,0,9.0,26.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\ci_build\build_jvm_doc.sh,9,5.0,26.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\ci_build\build_r_pkg_with_cuda_win64.sh,5,3.0,26.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_categorical.cc,9,8.0,26.0
+xgboost,R,D:\clones\xgboost\R-package\man\print.xgb.Booster.Rd,4,0.0,25.0
+xgboost,Markdown,D:\clones\xgboost\demo\c-api\basic\README.md,5,0.0,25.0
+xgboost,Python,D:\clones\xgboost\demo\dask\cpu_training.py,8,13.0,25.0
+xgboost,Python,D:\clones\xgboost\demo\gpu_acceleration\cover_type.py,7,7.0,25.0
+xgboost,Python,D:\clones\xgboost\demo\kaggle-higgs\higgs-cv.py,3,9.0,25.0
+xgboost,R,D:\clones\xgboost\demo\kaggle-higgs\higgs-train.R,4,2.0,25.0
+xgboost,Markdown,D:\clones\xgboost\jvm-packages\xgboost4j-example\README.md,5,0.0,25.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\scala\ml\dmlc\xgboost4j\scala\example\ExternalMemory.scala,14,20.0,25.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\scala\ml\dmlc\xgboost4j\scala\example\PredictFirstNTree.scala,13,15.0,25.0
+xgboost,CUDA,D:\clones\xgboost\src\data\sparse_page_source.cu,5,3.0,25.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\ci_build\build_r_pkg_with_cuda.sh,5,3.0,25.0
+xgboost,Groovy,D:\clones\xgboost\tests\ci_build\jenkins_tools.Groovy,7,6.0,25.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.config.Rd,4,0.0,24.0
+xgboost,R,D:\clones\xgboost\R-package\tests\testthat\test_parameter_exposure.R,6,0.0,24.0
+xgboost,CMake,D:\clones\xgboost\cmake\RPackageInstall.cmake.in,5,5.0,24.0
+xgboost,CMake,D:\clones\xgboost\cmake\modules\FindNccl.cmake,7,39.0,24.0
+xgboost,Python,D:\clones\xgboost\demo\CLI\regression\mapfeat.py,7,2.0,24.0
+xgboost,Python,D:\clones\xgboost\demo\dask\sklearn_cpu_training.py,8,8.0,24.0
+xgboost,Python,D:\clones\xgboost\demo\dask\sklearn_gpu_training.py,9,10.0,24.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\get_started.rst,15,55.0,24.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\java\ml\dmlc\xgboost4j\java\example\CrossValidation.java,10,21.0,24.0
+xgboost,C++,D:\clones\xgboost\src\data\ellpack_page.cc,9,4.0,24.0
+xgboost,CUDA,D:\clones\xgboost\src\data\ellpack_page_source.cu,2,6.0,24.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\data\test_proxy_dmatrix.cc,4,3.0,24.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\objective\test_hinge.cc,4,1.0,24.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\test_global_config.cc,4,4.0,24.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\travis\setup.sh,2,1.0,24.0
+xgboost,Markdown,D:\clones\xgboost\R-package\README.md,10,0.0,23.0
+xgboost,R,D:\clones\xgboost\R-package\demo\gpu_accelerated.R,5,17.0,23.0
+xgboost,R,D:\clones\xgboost\R-package\man\print.xgb.DMatrix.Rd,4,0.0,23.0
+xgboost,C,D:\clones\xgboost\R-package\src\xgboost_assert.c,1,2.0,23.0
+xgboost,R,D:\clones\xgboost\R-package\tests\testthat\test_feature_weights.R,4,0.0,23.0
+xgboost,R,D:\clones\xgboost\R-package\tests\testthat\test_io.R,6,1.0,23.0
+xgboost,Python,D:\clones\xgboost\demo\CLI\binary_classification\mknfold.py,6,0.0,23.0
+xgboost,Python,D:\clones\xgboost\demo\CLI\regression\mknfold.py,6,0.0,23.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\contrib\release.rst,15,1.0,23.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\global_config.h,5,6.0,23.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\task.h,5,17.0,23.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\scala\ml\dmlc\xgboost4j\scala\example\GeneralizedLinearModel.scala,11,26.0,23.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j-tester\src\main\java\ml\dmlc\xgboost4j\tester\App.java,3,0.0,23.0
+xgboost,C++,D:\clones\xgboost\rabit\guide\lazy_allreduce.cc,1,10.0,23.0
+xgboost,CMake,D:\clones\xgboost\src\CMakeLists.txt,7,8.0,23.0
+xgboost,CUDA,D:\clones\xgboost\src\data\proxy_dmatrix.cuh,1,3.0,23.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.DMatrix.save.Rd,1,0.0,22.0
+xgboost,Python,D:\clones\xgboost\demo\guide-python\evals_result.py,7,4.0,22.0
+xgboost,Markdown,D:\clones\xgboost\demo\kaggle-higgs\README.md,9,0.0,22.0
+xgboost,Python,D:\clones\xgboost\demo\rmm_plugin\rmm_mgpu_with_dask.py,6,6.0,22.0
+xgboost,CSS,D:\clones\xgboost\doc\_static\custom.css,7,2.0,22.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\tutorials\kubernetes.rst,12,0.0,22.0
+xgboost,CMake,D:\clones\xgboost\jvm-packages\CMakeLists.txt,6,0.0,22.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\java\ml\dmlc\xgboost4j\java\example\ExternalMemory.java,11,28.0,22.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\main\scala\ml\dmlc\xgboost4j\scala\spark\XGBoostTrainingSummary.scala,7,12.0,22.0
+xgboost,C++,D:\clones\xgboost\src\data\proxy_dmatrix.cc,3,4.0,22.0
+xgboost,YAML,D:\clones\xgboost\tests\ci_build\conda_env\win64_cpu_test.yml,0,0.0,22.0
+xgboost,Python,D:\clones\xgboost\tests\jenkins_get_approval.py,3,1.0,22.0
+xgboost,Python,D:\clones\xgboost\tests\python\with_omp_limit.py,4,0.0,22.0
+xgboost,YAML,D:\clones\xgboost\.clang-tidy,0,0.0,21.0
+xgboost,CMake,D:\clones\xgboost\cmake\FindPrefetchIntrinsics.cmake,0,1.0,21.0
+xgboost,Markdown,D:\clones\xgboost\demo\CLI\distributed-training\README.md,6,0.0,21.0
+xgboost,CMake,D:\clones\xgboost\demo\c-api\CMakeLists.txt,2,0.0,21.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\python\callbacks.rst,13,27.0,21.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\scala\ml\dmlc\xgboost4j\scala\example\CrossValidation.scala,10,15.0,21.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\version.h,8,6.0,21.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\ci_build\build_via_cmake.sh,2,0.0,21.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_string_view.cc,4,3.0,21.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_config.py,6,1.0,21.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.unserialize.Rd,1,0.0,20.0
+xgboost,SVG,D:\clones\xgboost\doc\_static\cn.svg,0,0.0,20.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\tutorials\multioutput.rst,8,10.0,20.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-example\src\main\scala\ml\dmlc\xgboost4j\scala\example\flink\DistTrainWithFlink.scala,5,16.0,20.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\java\ml\dmlc\xgboost4j\java\util\UtilUnsafe.java,10,16.0,20.0
+xgboost,Markdown,D:\clones\xgboost\rabit\doc\index.md,4,0.0,20.0
+xgboost,Markdown,D:\clones\xgboost\rabit\doc\parameters.md,1,0.0,20.0
+xgboost,make,D:\clones\xgboost\rabit\guide\Makefile,6,0.0,20.0
+xgboost,C++,D:\clones\xgboost\src\common\common.cc,6,7.0,20.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\ci_build\build_jvm_packages.sh,7,1.0,20.0
+xgboost,YAML,D:\clones\xgboost\tests\ci_build\conda_env\win64_test.yml,0,0.0,20.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgb.load.R,1,34.0,19.0
+xgboost,R,D:\clones\xgboost\R-package\tests\testthat\test_config.R,2,0.0,19.0
+xgboost,CMake,D:\clones\xgboost\cmake\xgboost-config.cmake.in,5,1.0,19.0
+xgboost,JavaScript,D:\clones\xgboost\doc\_static\js\auto_module_index.js,4,2.0,19.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\contrib\community.rst,15,1.0,19.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\model.h,6,21.0,19.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\java\ml\dmlc\xgboost4j\java\IRabitTracker.java,6,19.0,19.0
+xgboost,Python,D:\clones\xgboost\rabit\guide\basic.py,2,6.0,19.0
+xgboost,Python,D:\clones\xgboost\rabit\guide\lazy_allreduce.py,4,8.0,19.0
+xgboost,C++,D:\clones\xgboost\src\data\gradient_index_page_source.cc,1,6.0,19.0
+xgboost,Python,D:\clones\xgboost\tests\python\test_with_shap.py,4,2.0,19.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgboost.R,5,86.0,18.0
+xgboost,Markdown,D:\clones\xgboost\R-package\demo\README.md,2,0.0,18.0
+xgboost,R,D:\clones\xgboost\R-package\man\normalize.Rd,0,0.0,18.0
+xgboost,CMake,D:\clones\xgboost\cmake\modules\FindNVTX.cmake,8,0.0,18.0
+xgboost,R,D:\clones\xgboost\demo\kaggle-higgs\higgs-pred.R,4,2.0,18.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\contrib\docs.rst,7,5.0,18.0
+xgboost,C++,D:\clones\xgboost\jvm-packages\xgboost4j-gpu\src\native\xgboost4j-gpu.cpp,4,3.0,18.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\test\scala\ml\dmlc\xgboost4j\scala\spark\TmpFolderPerSuite.scala,12,12.0,18.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\scala\ml\dmlc\xgboost4j\scala\rabit\util\RabitTrackerHelpers.scala,7,14.0,18.0
+xgboost,Markdown,D:\clones\xgboost\tests\README.md,2,0.0,18.0
+xgboost,R,D:\clones\xgboost\R-package\tests\testthat\test_monotone.R,6,0.0,17.0
+xgboost,CMake,D:\clones\xgboost\cmake\modules\FindNVML.cmake,6,0.0,17.0
+xgboost,Python,D:\clones\xgboost\demo\guide-python\predict_leaf_indices.py,2,7.0,17.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\python\python_api.rst,36,96.0,17.0
+xgboost,Bourne Shell,D:\clones\xgboost\jvm-packages\dev\build-linux.sh,3,21.0,17.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\scala\ml\dmlc\xgboost4j\LabeledPoint.scala,7,24.0,17.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\scala\ml\dmlc\xgboost4j\scala\ExternalCheckpointManager.scala,8,12.0,17.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\metric\test_metric.cc,2,1.0,17.0
+xgboost,C/C++ Header,D:\clones\xgboost\tests\cpp\tree\test_partitioner.h,1,3.0,17.0
+xgboost,Python,D:\clones\xgboost\tests\python-gpu\test_large_input.py,2,2.0,17.0
+xgboost,DOS Batch,D:\clones\xgboost\jvm-packages\dev\build-linux.cmd,6,22.0,16.0
+xgboost,Bourne Shell,D:\clones\xgboost\jvm-packages\dev\change_version.sh,5,22.0,16.0
+xgboost,Bourne Shell,D:\clones\xgboost\jvm-packages\dev\package-linux.sh,2,18.0,16.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\main\scala\ml\dmlc\xgboost4j\scala\spark\params\NonParamVariables.scala,8,12.0,16.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\tree\hist\param.h,2,5.0,16.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\ci_build\print_r_stacktrace.sh,6,1.0,16.0
+xgboost,R,D:\clones\xgboost\R-package\demo\boost_from_prediction.R,2,9.0,15.0
+xgboost,R,D:\clones\xgboost\R-package\demo\predict_first_ntree.R,4,4.0,15.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgb.load.raw.Rd,1,0.0,15.0
+xgboost,R,D:\clones\xgboost\R-package\man\xgboost-deprecated.Rd,1,0.0,15.0
+xgboost,Bourne Shell,D:\clones\xgboost\demo\CLI\yearpredMSD\runexp.sh,1,1.0,15.0
+xgboost,Python,D:\clones\xgboost\demo\guide-python\boost_from_prediction.py,3,13.0,15.0
+xgboost,YAML,D:\clones\xgboost\doc\xgboost_doc.yml,0,0.0,15.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\main\scala\ml\dmlc\xgboost4j\scala\spark\PreXGBoostProvider.scala,12,44.0,15.0
+xgboost,Markdown,D:\clones\xgboost\plugin\example\README.md,3,0.0,15.0
+xgboost,C++,D:\clones\xgboost\rabit\guide\broadcast.cc,0,1.0,15.0
+xgboost,Python,D:\clones\xgboost\rabit\guide\broadcast.py,2,6.0,15.0
+xgboost,CUDA,D:\clones\xgboost\src\common\common.cu,3,5.0,15.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\ci_build\deploy_jvm_packages.sh,7,3.0,15.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\ci_build\initialize_maven.sh,3,1.0,15.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\test_main.cc,3,1.0,15.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgb.load.raw.R,1,8.0,14.0
+xgboost,R,D:\clones\xgboost\R-package\demo\caret_wrapper.R,7,14.0,14.0
+xgboost,R,D:\clones\xgboost\R-package\tests\testthat\test_gc_safety.R,2,0.0,14.0
+xgboost,CMake,D:\clones\xgboost\cmake\Doc.cmake,2,0.0,14.0
+xgboost,make,D:\clones\xgboost\demo\c-api\basic\Makefile,5,0.0,14.0
+xgboost,R,D:\clones\xgboost\demo\data\gen_autoclaims.R,4,0.0,14.0
+xgboost,Python,D:\clones\xgboost\demo\guide-python\sklearn_parallel.py,1,4.0,14.0
+xgboost,Markdown,D:\clones\xgboost\demo\kaggle-otto\README.MD,8,0.0,14.0
+xgboost,Python,D:\clones\xgboost\demo\rmm_plugin\rmm_singlegpu.py,3,4.0,14.0
+xgboost,C/C++ Header,D:\clones\xgboost\src\common\pseudo_huber.h,2,3.0,14.0
+xgboost,Python,D:\clones\xgboost\tests\ci_build\insert_vcomp140.py,4,0.0,14.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\ci_build\verify_link.sh,2,2.0,14.0
+xgboost,R,D:\clones\xgboost\R-package\demo\generalized_linear_model.R,3,17.0,13.0
+xgboost,Bourne Shell,D:\clones\xgboost\R-package\remove_warning_suppression_pragma.sh,0,1.0,13.0
+xgboost,CMake,D:\clones\xgboost\cmake\RPackageInstallTargetSetup.cmake,0,3.0,13.0
+xgboost,Markdown,D:\clones\xgboost\demo\CLI\regression\README.md,3,0.0,13.0
+xgboost,Markdown,D:\clones\xgboost\demo\c-api\external-memory\README.md,3,0.0,13.0
+xgboost,Python,D:\clones\xgboost\demo\guide-python\generalized_linear_model.py,2,20.0,13.0
+xgboost,Bourne Shell,D:\clones\xgboost\demo\kaggle-higgs\run.sh,1,0.0,13.0
+xgboost,Bourne Shell,D:\clones\xgboost\demo\rank\wgetdata.sh,3,0.0,13.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\R-package\index.rst,7,8.0,13.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\contrib\index.rst,7,10.0,13.0
+xgboost,Python,D:\clones\xgboost\jvm-packages\xgboost4j-tester\generate_pom.py,8,193.0,13.0
+xgboost,CMake,D:\clones\xgboost\rabit\CMakeLists.txt,4,0.0,13.0
+xgboost,C++,D:\clones\xgboost\src\c_api\c_api_error.cc,4,5.0,13.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\common\test_common.cc,1,0.0,13.0
+xgboost,Python,D:\clones\xgboost\tests\distributed\test_basic.py,7,9.0,13.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgb.save.R,0,36.0,12.0
+xgboost,R,D:\clones\xgboost\R-package\demo\runall.R,0,2.0,12.0
+xgboost,R,D:\clones\xgboost\R-package\tests\testthat\test_poisson_regression.R,2,0.0,12.0
+xgboost,Python,D:\clones\xgboost\demo\guide-python\gamma_regression.py,5,11.0,12.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\jvm\index.rst,10,21.0,12.0
+xgboost,C/C++ Header,D:\clones\xgboost\jvm-packages\xgboost4j-gpu\src\native\jvm_utils.h,3,0.0,12.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\main\scala\ml\dmlc\xgboost4j\scala\spark\params\RabitParams.scala,9,19.0,12.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\scala\ml\dmlc\xgboost4j\scala\EvalTrait.scala,9,24.0,12.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\plugin\test_example_objective.cc,3,0.0,12.0
+xgboost,Jupyter Notebook,D:\clones\xgboost\demo\CLI\distributed-training\plot_model.ipynb,0,96.0,11.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j-tester\src\test\java\ml\dmlc\xgboost4j\tester\AppTest.java,3,6.0,11.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\scala\ml\dmlc\xgboost4j\scala\ObjectiveTrait.scala,8,19.0,11.0
+xgboost,reStructuredText,D:\clones\xgboost\python-package\README.rst,7,2.0,11.0
+xgboost,Python,D:\clones\xgboost\rabit\doc\sphinx_util.py,3,2.0,11.0
+xgboost,Python,D:\clones\xgboost\tests\python-gpu\test_gpu_interaction_constraints.py,4,1.0,11.0
+xgboost,Python,D:\clones\xgboost\tests\python-gpu\test_gpu_plotting.py,6,0.0,11.0
+xgboost,CMake,D:\clones\xgboost\cmake\modules\FindASan.cmake,3,0.0,10.0
+xgboost,CMake,D:\clones\xgboost\cmake\modules\FindLSan.cmake,3,0.0,10.0
+xgboost,CMake,D:\clones\xgboost\cmake\modules\FindTSan.cmake,3,0.0,10.0
+xgboost,CMake,D:\clones\xgboost\cmake\modules\FindUBSan.cmake,3,0.0,10.0
+xgboost,make,D:\clones\xgboost\doc\R-package\Makefile,2,3.0,10.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\c++.rst,2,0.0,10.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\c.rst,2,0.0,10.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\index.rst,4,23.0,10.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\python\model.rst,9,19.0,10.0
+xgboost,Python,D:\clones\xgboost\doc\sphinx_util.py,3,2.0,10.0
+xgboost,C/C++ Header,D:\clones\xgboost\rabit\include\rabit\serializable.h,2,14.0,10.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\distributed\runtests-gpu.sh,4,0.0,10.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgb.DMatrix.save.R,1,14.0,9.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgb.config.R,1,28.0,9.0
+xgboost,C++,D:\clones\xgboost\amalgamation\dmlc-minimum0.cc,0,5.0,9.0
+xgboost,CMake,D:\clones\xgboost\cmake\Version.cmake,0,0.0,9.0
+xgboost,Bourne Shell,D:\clones\xgboost\demo\CLI\binary_classification\runexp.sh,2,6.0,9.0
+xgboost,Python,D:\clones\xgboost\demo\CLI\yearpredMSD\csv2libsvm.py,2,0.0,9.0
+xgboost,CMake,D:\clones\xgboost\demo\c-api\inference\CMakeLists.txt,2,3.0,9.0
+xgboost,Bourne Shell,D:\clones\xgboost\demo\multiclass_classification\runexp.sh,0,0.0,9.0
+xgboost,Python,D:\clones\xgboost\jvm-packages\xgboost4j-tester\get_iris.py,1,0.0,9.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\java\ml\dmlc\xgboost4j\java\XGBoostError.java,5,17.0,9.0
+xgboost,Markdown,D:\clones\xgboost\rabit\doc\python_api.md,2,0.0,9.0
+xgboost,C/C++ Header,D:\clones\xgboost\rabit\include\rabit\base.h,3,7.0,9.0
+xgboost,C++,D:\clones\xgboost\src\objective\aft_obj.cc,5,7.0,9.0
+xgboost,C++,D:\clones\xgboost\src\objective\hinge.cc,5,4.0,9.0
+xgboost,C++,D:\clones\xgboost\src\objective\multiclass_obj.cc,5,4.0,9.0
+xgboost,C++,D:\clones\xgboost\src\objective\rank_obj.cc,4,4.0,9.0
+xgboost,C++,D:\clones\xgboost\src\objective\regression_obj.cc,5,4.0,9.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\ci_build\build_mock_cmake.sh,1,0.0,9.0
+xgboost,C++,D:\clones\xgboost\tests\ci_build\test_tidy.cc,2,0.0,9.0
+xgboost,Python,D:\clones\xgboost\tests\python-gpu\test_gpu_parse_tree.py,5,0.0,9.0
+xgboost,Bourne Shell,D:\clones\xgboost\demo\CLI\regression\runexp.sh,1,7.0,8.0
+xgboost,CMake,D:\clones\xgboost\demo\c-api\basic\CMakeLists.txt,2,3.0,8.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\python\index.rst,2,7.0,8.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\distributed\runtests-mpi.sh,5,0.0,8.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\distributed\runtests.sh,5,0.0,8.0
+xgboost,Markdown,D:\clones\xgboost\demo\CLI\yearpredMSD\README.md,2,0.0,7.0
+xgboost,Markdown,D:\clones\xgboost\demo\multiclass_classification\README.md,3,0.0,7.0
+xgboost,Scala,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\main\scala\ml\dmlc\xgboost4j\scala\spark\params\InferenceParams.scala,9,16.0,7.0
+xgboost,Markdown,D:\clones\xgboost\rabit\doc\cpp_api.md,2,0.0,7.0
+xgboost,C++,D:\clones\xgboost\src\common\survival_util.cc,4,7.0,7.0
+xgboost,YAML,D:\clones\xgboost\.github\lock.yml,9,17.0,6.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgb.create.features.R,0,81.0,6.0
+xgboost,R,D:\clones\xgboost\R-package\demo\poisson_regression.R,0,0.0,6.0
+xgboost,Bourne Shell,D:\clones\xgboost\demo\CLI\distributed-training\run_aws.sh,2,3.0,6.0
+xgboost,C/C++ Header,D:\clones\xgboost\include\xgboost\version_config.h,2,3.0,6.0
+xgboost,XML,D:\clones\xgboost\jvm-packages\checkstyle-suppressions.xml,5,21.0,6.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\java\ml\dmlc\xgboost4j\java\Column.java,8,26.0,6.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\java\ml\dmlc\xgboost4j\java\IEvaluation.java,6,29.0,6.0
+xgboost,Java,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\java\ml\dmlc\xgboost4j\java\IObjective.java,5,24.0,6.0
+xgboost,C++,D:\clones\xgboost\src\global_config.cc,2,6.0,6.0
+xgboost,C++,D:\clones\xgboost\src\tree\hist\param.cc,1,3.0,6.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\travis\travis_after_failure.sh,1,0.0,6.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgb.save.raw.R,0,27.0,5.0
+xgboost,CMake,D:\clones\xgboost\demo\c-api\external-memory\CMakeLists.txt,2,0.0,5.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\tutorials\index.rst,3,23.0,5.0
+xgboost,C++,D:\clones\xgboost\rabit\src\engine_mock.cc,0,9.0,5.0
+xgboost,C++,D:\clones\xgboost\tests\cpp\rabit\test_utils.cc,1,0.0,5.0
+xgboost,INI,D:\clones\xgboost\tests\pytest.ini,0,0.0,5.0
+xgboost,Markdown,D:\clones\xgboost\.github\ISSUE_TEMPLATE.md,3,0.0,4.0
+xgboost,R,D:\clones\xgboost\R-package\R\xgb.serialize.R,0,17.0,4.0
+xgboost,reStructuredText,D:\clones\xgboost\demo\dask\README.rst,1,0.0,4.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\cli.rst,1,0.0,4.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\julia.rst,1,0.0,4.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\tutorials\aws_yarn.rst,2,2.0,4.0
+xgboost,C++,D:\clones\xgboost\src\common\pseudo_huber.cc,0,3.0,4.0
+xgboost,Windows Module Definition,D:\clones\xgboost\R-package\src\xgboost-win.def,0,0.0,3.0
+xgboost,R,D:\clones\xgboost\R-package\tests\testthat.R,1,0.0,3.0
+xgboost,Markdown,D:\clones\xgboost\demo\gpu_acceleration\README.md,2,0.0,3.0
+xgboost,reStructuredText,D:\clones\xgboost\demo\guide-python\README.rst,2,0.0,3.0
+xgboost,Markdown,D:\clones\xgboost\demo\json-model\README.md,0,0.0,3.0
+xgboost,Bourne Shell,D:\clones\xgboost\demo\rank\runexp.sh,1,0.0,3.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\jvm\javadocs\index.rst,0,0.0,3.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\jvm\scaladocs\xgboost4j-flink\index.rst,0,0.0,3.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\jvm\scaladocs\xgboost4j-spark\index.rst,0,0.0,3.0
+xgboost,reStructuredText,D:\clones\xgboost\doc\jvm\scaladocs\xgboost4j\index.rst,0,0.0,3.0
+xgboost,C++,D:\clones\xgboost\src\metric\elementwise_metric.cc,1,4.0,3.0
+xgboost,C++,D:\clones\xgboost\src\metric\multiclass_metric.cc,1,4.0,3.0
+xgboost,C++,D:\clones\xgboost\src\metric\survival_metric.cc,1,7.0,3.0
+xgboost,YAML,D:\clones\xgboost\.github\FUNDING.yml,0,0.0,2.0
+xgboost,Bourne Shell,D:\clones\xgboost\R-package\cleanup,1,0.0,2.0
+xgboost,Markdown,D:\clones\xgboost\demo\data\README.md,0,0.0,2.0
+xgboost,Markdown,D:\clones\xgboost\plugin\updater_gpu\README.md,1,0.0,2.0
+xgboost,Bourne Shell,D:\clones\xgboost\tests\travis\travis_before_cache.sh,0,1.0,2.0
+xgboost,Properties,D:\clones\xgboost\jvm-packages\xgboost4j-gpu\src\main\resources\xgboost4j-version.properties,0,0.0,1.0
+xgboost,Properties,D:\clones\xgboost\jvm-packages\xgboost4j-spark\src\test\resources\log4j.properties,0,0.0,1.0
+xgboost,Properties,D:\clones\xgboost\jvm-packages\xgboost4j\src\main\resources\xgboost4j-version.properties,0,0.0,1.0
+xgboost,Markdown,D:\clones\xgboost\rabit\README.md,0,0.0,1.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\metric\test_auc.cu,0,4.0,1.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\metric\test_elementwise_metric.cu,0,4.0,1.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\metric\test_multiclass_metric.cu,0,4.0,1.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\metric\test_rank_metric.cu,0,4.0,1.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\objective\test_aft_obj.cu,1,4.0,1.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\objective\test_hinge.cu,0,0.0,1.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\objective\test_multiclass_obj_gpu.cu,0,0.0,1.0
+xgboost,CUDA,D:\clones\xgboost\tests\cpp\objective\test_regression_obj_gpu.cu,1,4.0,1.0

@@ -1,0 +1,4 @@
+project,language,filename,blank,comment,code
+uWebSockets,Qt Project,D:\clones\uWebSockets\misc\15.pro,3,0.0,38.0
+bitcoin,Qt Project,D:\clones\bitcoin\depends\patches\qt\qt.pro,5,1.0,10.0
+bitcoin,Qt Project,D:\clones\bitcoin\depends\patches\qt\qttools_src.pro,1,0.0,5.0

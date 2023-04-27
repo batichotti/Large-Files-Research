@@ -1,0 +1,679 @@
+project,language,filename,blank,comment,code
+mpv,C,D:\clones\mpv\player\command.c,852,199.0,5721.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\man\options.rst,1542,9.0,5472.0
+mpv,C,D:\clones\mpv\demux\demux.c,726,532.0,3358.0
+mpv,C,D:\clones\mpv\video\out\gpu\video.c,644,432.0,3357.0
+mpv,C,D:\clones\mpv\options\m_option.c,446,118.0,3305.0
+mpv,C,D:\clones\mpv\demux\demux_mkv.c,390,135.0,2733.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\man\input.rst,848,16.0,2706.0
+mpv,Lua,D:\clones\mpv\player\lua\osc.lua,450,265.0,2137.0
+mpv,C,D:\clones\mpv\video\out\d3d11\ra_d3d11.c,317,94.0,2056.0
+mpv,C,D:\clones\mpv\video\out\x11_common.c,272,70.0,1797.0
+mpv,C,D:\clones\mpv\player\client.c,305,147.0,1760.0
+mpv,C,D:\clones\mpv\video\out\wayland_common.c,324,75.0,1668.0
+mpv,Meson,D:\clones\mpv\meson.build,218,40.0,1611.0
+mpv,C,D:\clones\mpv\player\loadfile.c,300,131.0,1573.0
+mpv,C,D:\clones\mpv\video\out\w32_common.c,255,181.0,1462.0
+mpv,C,D:\clones\mpv\input\input.c,208,105.0,1389.0
+mpv,C,D:\clones\mpv\video\out\vo_gpu_next.c,215,83.0,1276.0
+mpv,C,D:\clones\mpv\video\out\vo.c,182,119.0,1145.0
+mpv,C,D:\clones\mpv\demux\demux_lavf.c,181,87.0,1113.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\man\mpv.rst,439,105.0,1088.0
+mpv,C,D:\clones\mpv\player\lua.c,154,97.0,1080.0
+mpv,C,D:\clones\mpv\stream\stream_dvb.c,138,93.0,1047.0
+mpv,C,D:\clones\mpv\filters\f_decoder_wrapper.c,224,72.0,1021.0
+mpv,C,D:\clones\mpv\player\playloop.c,181,115.0,985.0
+mpv,C,D:\clones\mpv\video\out\opengl\ra_gl.c,179,49.0,979.0
+mpv,C,D:\clones\mpv\video\decode\vd_lavc.c,239,82.0,978.0
+mpv,C,D:\clones\mpv\video\repack.c,170,77.0,953.0
+mpv,C,D:\clones\mpv\options\options.c,127,35.0,940.0
+mpv,Lua,D:\clones\mpv\player\lua\stats.lua,147,137.0,923.0
+mpv,C,D:\clones\mpv\filters\f_lavfi.c,175,68.0,920.0
+mpv,C,D:\clones\mpv\player\video.c,190,160.0,906.0
+mpv,C,D:\clones\mpv\video\out\drm_common.c,152,41.0,905.0
+mpv,C,D:\clones\mpv\video\mp_image.c,154,146.0,900.0
+mpv,C,D:\clones\mpv\player\javascript.c,148,210.0,897.0
+mpv,C,D:\clones\mpv\audio\out\ao_alsa.c,178,95.0,891.0
+mpv,C,D:\clones\mpv\video\out\vo_vdpau.c,164,92.0,886.0
+mpv,C,D:\clones\mpv\options\m_config_frontend.c,151,62.0,877.0
+mpv,Objective-C,D:\clones\mpv\video\out\cocoa_common.m,186,44.0,873.0
+mpv,XML,D:\clones\mpv\TOOLS\osxbundle\mpv.app\Contents\Info.plist,0,0.0,871.0
+mpv,C,D:\clones\mpv\video\out\vo_direct3d.c,226,157.0,868.0
+mpv,C,D:\clones\mpv\audio\out\ao_wasapi_utils.c,135,57.0,854.0
+mpv,C,D:\clones\mpv\video\out\opengl\context_drm_egl.c,144,32.0,853.0
+mpv,C,D:\clones\mpv\video\out\gpu\shader_cache.c,145,68.0,838.0
+mpv,C,D:\clones\mpv\video\out\vo_sdl.c,116,48.0,834.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\interface-changes.rst,9,0.0,806.0
+mpv,C,D:\clones\mpv\sub\sd_ass.c,122,58.0,804.0
+mpv,Lua,D:\clones\mpv\player\lua\ytdl_hook.lua,135,75.0,803.0
+mpv,Objective-C,D:\clones\mpv\osdep\macosx_menubar.m,41,16.0,778.0
+mpv,C,D:\clones\mpv\video\out\gpu\d3d11_helpers.c,112,61.0,778.0
+mpv,C,D:\clones\mpv\video\out\gpu\video_shaders.c,100,157.0,778.0
+mpv,C,D:\clones\mpv\common\encode_lavc.c,147,53.0,773.0
+mpv,C,D:\clones\mpv\sub\draw_bmp.c,191,65.0,761.0
+mpv,C,D:\clones\mpv\video\out\vo_xv.c,120,60.0,738.0
+mpv,C,D:\clones\mpv\video\out\vo_rpi.c,179,29.0,730.0
+mpv,C,D:\clones\mpv\player\audio.c,159,79.0,724.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\opengl\gl_headers.h,43,38.0,718.0
+mpv,C,D:\clones\mpv\video\filter\vf_vapoursynth.c,111,56.0,714.0
+mpv,C,D:\clones\mpv\video\csputils.c,97,157.0,712.0
+mpv,C,D:\clones\mpv\audio\out\ao_audiotrack.c,87,37.0,707.0
+mpv,C,D:\clones\mpv\common\msg.c,124,71.0,703.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\man\lua.rst,220,0.0,685.0
+mpv,Lua,D:\clones\mpv\player\lua\defaults.lua,96,53.0,684.0
+mpv,C,D:\clones\mpv\video\out\vo_vaapi.c,149,38.0,684.0
+mpv,C,D:\clones\mpv\stream\dvb_tune.c,84,43.0,682.0
+mpv,C,D:\clones\mpv\filters\filter.c,152,89.0,677.0
+mpv,C,D:\clones\mpv\options\m_config_core.c,167,68.0,675.0
+mpv,C,D:\clones\mpv\stream\stream.c,130,97.0,673.0
+mpv,C,D:\clones\mpv\audio\out\ao_pulse.c,104,67.0,658.0
+mpv,Python,D:\clones\mpv\wscript_build.py,80,19.0,658.0
+mpv,C,D:\clones\mpv\osdep\io.c,95,81.0,643.0
+mpv,C,D:\clones\mpv\video\out\placebo\ra_pl.c,110,21.0,613.0
+mpv,Lua,D:\clones\mpv\player\lua\console.lua,88,136.0,612.0
+mpv,C,D:\clones\mpv\video\img_format.c,110,106.0,610.0
+mpv,C,D:\clones\mpv\stream\stream_dvdnav.c,79,45.0,595.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\man\vf.rst,172,19.0,592.0
+mpv,Swift,D:\clones\mpv\video\out\mac\common.swift,94,25.0,587.0
+mpv,C,D:\clones\mpv\audio\out\ao.c,70,50.0,581.0
+mpv,JavaScript,D:\clones\mpv\player\javascript\defaults.js,114,88.0,580.0
+mpv,C,D:\clones\mpv\video\out\opengl\common.c,37,63.0,576.0
+mpv,C,D:\clones\mpv\input\cmd.c,83,28.0,560.0
+mpv,C,D:\clones\mpv\video\out\vo_libmpv.c,121,70.0,559.0
+mpv,C,D:\clones\mpv\audio\filter\af_scaletempo2_internals.c,104,135.0,558.0
+mpv,C,D:\clones\mpv\video\out\vo_drm.c,107,25.0,555.0
+mpv,C,D:\clones\mpv\demux\demux_edl.c,55,47.0,549.0
+mpv,C,D:\clones\mpv\filters\f_output_chain.c,144,34.0,539.0
+mpv,C,D:\clones\mpv\sub\sd_lavc.c,100,48.0,536.0
+mpv,C,D:\clones\mpv\demux\demux_timeline.c,123,62.0,534.0
+mpv,C,D:\clones\mpv\video\zimg.c,126,53.0,532.0
+mpv,C,D:\clones\mpv\options\m_property.c,39,47.0,530.0
+mpv,C,D:\clones\mpv\filters\f_swresample.c,104,67.0,528.0
+mpv,C,D:\clones\mpv\sub\osd_libass.c,117,47.0,527.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\man\vo.rst,138,6.0,526.0
+mpv,C,D:\clones\mpv\audio\out\buffer.c,127,62.0,511.0
+mpv,C,D:\clones\mpv\video\out\opengl\context_angle.c,100,44.0,510.0
+mpv,C,D:\clones\mpv\demux\ebml.c,55,57.0,509.0
+mpv,C,D:\clones\mpv\audio\filter\af_scaletempo.c,80,43.0,503.0
+mpv,C,D:\clones\mpv\stream\stream_libarchive.c,71,52.0,498.0
+mpv,C,D:\clones\mpv\stream\stream_bluray.c,72,44.0,495.0
+mpv,C,D:\clones\mpv\audio\aframe.c,97,78.0,484.0
+mpv,C,D:\clones\mpv\demux\demux_mkv_timeline.c,83,76.0,483.0
+mpv,C,D:\clones\mpv\player\osd.c,79,35.0,474.0
+mpv,C,D:\clones\mpv\audio\out\ao_pipewire.c,103,26.0,471.0
+mpv,Swift,D:\clones\mpv\video\out\mac\window.swift,86,31.0,461.0
+mpv,C,D:\clones\mpv\video\out\opengl\context_dxinterop.c,91,54.0,460.0
+mpv,C/C++ Header,D:\clones\mpv\player\core.h,100,116.0,456.0
+mpv,C,D:\clones\mpv\player\screenshot.c,77,22.0,456.0
+mpv,C,D:\clones\mpv\video\vdpau.c,86,38.0,450.0
+mpv,C,D:\clones\mpv\test\repack.c,66,16.0,437.0
+mpv,C,D:\clones\mpv\audio\out\ao_coreaudio_utils.c,82,37.0,427.0
+mpv,C,D:\clones\mpv\sub\osd.c,77,65.0,419.0
+mpv,Python,D:\clones\mpv\TOOLS\matroska.py,42,20.0,418.0
+mpv,C,D:\clones\mpv\video\out\vo_sixel.c,95,73.0,412.0
+mpv,C,D:\clones\mpv\osdep\terminal-unix.c,84,54.0,409.0
+mpv,C,D:\clones\mpv\video\filter\vf_vavpp.c,70,22.0,409.0
+mpv,C,D:\clones\mpv\video\out\d3d11\context.c,93,52.0,404.0
+mpv,C/C++ Header,D:\clones\mpv\options\m_option.h,136,219.0,399.0
+mpv,C,D:\clones\mpv\video\out\gpu\lcms.c,83,45.0,395.0
+mpv,C,D:\clones\mpv\demux\demux_playlist.c,55,30.0,394.0
+mpv,C,D:\clones\mpv\video\filter\vf_d3d11vpp.c,87,23.0,394.0
+mpv,C,D:\clones\mpv\filters\f_autoconvert.c,102,21.0,392.0
+mpv,C,D:\clones\mpv\misc\bstr.c,48,31.0,390.0
+mpv,C,D:\clones\mpv\video\out\vulkan\context_display.c,71,34.0,390.0
+mpv,C,D:\clones\mpv\audio\out\ao_wasapi.c,66,47.0,388.0
+mpv,C,D:\clones\mpv\input\ipc-win.c,81,43.0,385.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\mplayer-changes.rst,69,12.0,374.0
+mpv,C,D:\clones\mpv\video\out\d3d11\hwdec_dxva2dxgi.c,62,37.0,372.0
+mpv,C,D:\clones\mpv\audio\chmap.c,39,78.0,371.0
+mpv,C,D:\clones\mpv\video\out\gpu\user_shaders.c,66,37.0,360.0
+mpv,C,D:\clones\mpv\osdep\subprocess-win.c,80,79.0,356.0
+mpv,C,D:\clones\mpv\video\out\drm_atomic.c,76,22.0,356.0
+mpv,C,D:\clones\mpv\sub\dec_sub.c,75,37.0,350.0
+mpv,C,D:\clones\mpv\video\sws_utils.c,67,47.0,350.0
+mpv,C,D:\clones\mpv\player\main.c,80,38.0,347.0
+mpv,C,D:\clones\mpv\video\out\gpu\ra.c,41,30.0,343.0
+mpv,C,D:\clones\mpv\video\out\hwdec\hwdec_vaapi.c,63,19.0,342.0
+mpv,C,D:\clones\mpv\demux\demux_mf.c,54,25.0,341.0
+mpv,C,D:\clones\mpv\video\image_writer.c,69,26.0,341.0
+mpv,Objective-C,D:\clones\mpv\video\out\cocoa\window.m,76,38.0,341.0
+mpv,C,D:\clones\mpv\input\ipc-unix.c,90,17.0,339.0
+mpv,C,D:\clones\mpv\osdep\terminal-win.c,38,54.0,335.0
+mpv,C,D:\clones\mpv\video\out\vo_x11.c,76,27.0,335.0
+mpv,C,D:\clones\mpv\audio\decode\ad_spdif.c,70,28.0,334.0
+mpv,C,D:\clones\mpv\filters\f_auto_filters.c,86,1.0,333.0
+mpv,C/C++ Header,D:\clones\mpv\options\options.h,52,3.0,333.0
+mpv,C,D:\clones\mpv\audio\out\ao_coreaudio.c,82,16.0,331.0
+mpv,C,D:\clones\mpv\misc\jni.c,77,21.0,331.0
+mpv,C,D:\clones\mpv\stream\stream_lavf.c,51,53.0,330.0
+mpv,C,D:\clones\mpv\stream\stream_cdda.c,61,20.0,329.0
+mpv,C,D:\clones\mpv\player\configfiles.c,65,43.0,328.0
+mpv,C,D:\clones\mpv\sub\ass_mp.c,59,34.0,326.0
+mpv,C,D:\clones\mpv\input\ipc.c,67,24.0,325.0
+mpv,C,D:\clones\mpv\audio\out\ao_oss.c,51,37.0,323.0
+mpv,C,D:\clones\mpv\audio\out\ao_openal.c,50,31.0,322.0
+mpv,Objective-C,D:\clones\mpv\osdep\macosx_events.m,59,28.0,320.0
+mpv,C,D:\clones\mpv\audio\out\ao_coreaudio_exclusive.c,92,62.0,318.0
+mpv,C,D:\clones\mpv\filters\f_hwtransfer.c,74,32.0,318.0
+mpv,C,D:\clones\mpv\video\mp_image_pool.c,57,63.0,308.0
+mpv,C,D:\clones\mpv\audio\filter\af_lavcac3enc.c,62,29.0,307.0
+mpv,C,D:\clones\mpv\filters\f_async_queue.c,52,17.0,306.0
+mpv,C,D:\clones\mpv\options\path.c,47,34.0,304.0
+mpv,C,D:\clones\mpv\sub\filter_sdh.c,40,138.0,304.0
+mpv,C,D:\clones\mpv\video\out\filter_kernels.c,37,69.0,303.0
+mpv,C,D:\clones\mpv\stream\stream_file.c,47,28.0,302.0
+mpv,Objective-C,D:\clones\mpv\osdep\macosx_application.m,51,27.0,301.0
+mpv,C,D:\clones\mpv\video\out\opengl\hwdec_dxva2egl.c,53,23.0,301.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\man\osc.rst,125,0.0,299.0
+mpv,C,D:\clones\mpv\player\scripting.c,51,34.0,298.0
+mpv,C,D:\clones\mpv\common\av_common.c,41,52.0,297.0
+mpv,C,D:\clones\mpv\input\keycodes.c,30,29.0,296.0
+mpv,C,D:\clones\mpv\osdep\win32\pthread.c,37,16.0,292.0
+mpv,C,D:\clones\mpv\audio\filter\af_rubberband.c,57,21.0,291.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\edl-mpv.rst,112,0.0,284.0
+mpv,C,D:\clones\mpv\common\recorder.c,77,50.0,284.0
+mpv,Objective-C,D:\clones\mpv\osdep\macosx_touchbar.m,34,16.0,284.0
+mpv,C,D:\clones\mpv\ta\ta.c,35,87.0,284.0
+mpv,C,D:\clones\mpv\video\out\opengl\hwdec_rpi.c,76,24.0,284.0
+mpv,C,D:\clones\mpv\common\stats.c,54,4.0,283.0
+mpv,C,D:\clones\mpv\video\out\opengl\context_glx.c,65,25.0,282.0
+mpv,C,D:\clones\mpv\player\external_files.c,58,34.0,279.0
+mpv,C,D:\clones\mpv\video\filter\vf_gpu.c,72,23.0,277.0
+mpv,C,D:\clones\mpv\video\out\gpu\osd.c,62,24.0,277.0
+mpv,C,D:\clones\mpv\video\out\hwdec\hwdec_cuda_vk.c,48,20.0,276.0
+mpv,C,D:\clones\mpv\video\out\vo_tct.c,42,33.0,275.0
+mpv,C,D:\clones\mpv\video\out\opengl\hwdec_d3d11egl.c,59,24.0,274.0
+mpv,C,D:\clones\mpv\common\common.c,24,78.0,273.0
+mpv,C,D:\clones\mpv\audio\chmap_sel.c,44,73.0,272.0
+mpv,Objective-C,D:\clones\mpv\video\out\cocoa\events_view.m,49,23.0,271.0
+mpv,C,D:\clones\mpv\common\playlist.c,52,30.0,268.0
+mpv,C,D:\clones\mpv\misc\json.c,22,66.0,268.0
+mpv,C,D:\clones\mpv\video\out\vo_gpu.c,52,21.0,267.0
+mpv,C,D:\clones\mpv\video\out\opengl\context_win.c,69,29.0,265.0
+mpv,C,D:\clones\mpv\video\out\vo_wlshm.c,40,16.0,265.0
+mpv,C,D:\clones\mpv\demux\demux_raw.c,46,19.0,264.0
+mpv,C,D:\clones\mpv\demux\demux_disc.c,59,38.0,263.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\client-api-changes.rst,13,0.0,262.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\man\javascript.rst,134,0.0,262.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\gpu\ra.h,86,212.0,260.0
+mpv,C,D:\clones\mpv\misc\dispatch.c,26,134.0,258.0
+mpv,C,D:\clones\mpv\player\misc.c,35,29.0,257.0
+mpv,C,D:\clones\mpv\video\out\gpu\utils.c,56,21.0,257.0
+mpv,C,D:\clones\mpv\osdep\subprocess-posix.c,40,50.0,256.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\man\ipc.rst,126,6.0,255.0
+mpv,C,D:\clones\mpv\filters\f_utils.c,47,10.0,254.0
+mpv,Swift,D:\clones\mpv\video\out\mac\gl_layer.swift,51,17.0,254.0
+mpv,C,D:\clones\mpv\audio\out\ao_coreaudio_chmap.c,53,26.0,252.0
+mpv,C,D:\clones\mpv\video\out\opengl\context_rpi.c,60,19.0,248.0
+mpv,C,D:\clones\mpv\video\out\opengl\egl_helpers.c,56,78.0,247.0
+mpv,C,D:\clones\mpv\video\vdpau_mixer.c,37,25.0,244.0
+mpv,C,D:\clones\mpv\video\out\opengl\context.c,48,31.0,243.0
+mpv,C,D:\clones\mpv\video\out\vo_caca.c,38,31.0,243.0
+mpv,C,D:\clones\mpv\audio\out\ao_lavc.c,69,36.0,240.0
+mpv,Markdown,D:\clones\mpv\DOCS\contribute.md,43,0.0,237.0
+mpv,C,D:\clones\mpv\video\out\opengl\hwdec_drmprime_drm.c,55,30.0,236.0
+mpv,C,D:\clones\mpv\audio\out\ao_sndio.c,50,34.0,234.0
+mpv,C,D:\clones\mpv\demux\demux_cue.c,40,39.0,234.0
+mpv,C,D:\clones\mpv\video\filter\refqueue.c,65,60.0,234.0
+mpv,C,D:\clones\mpv\test\img_format.c,26,2.0,230.0
+mpv,Swift,D:\clones\mpv\video\out\mac\view.swift,50,18.0,229.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\vo.h,79,229.0,226.0
+mpv,C,D:\clones\mpv\video\vaapi.c,48,17.0,223.0
+mpv,C,D:\clones\mpv\audio\decode\ad_lavc.c,55,26.0,222.0
+mpv,C/C++ Header,D:\clones\mpv\demux\demux.h,57,54.0,220.0
+mpv,C,D:\clones\mpv\video\out\vulkan\context.c,47,26.0,219.0
+mpv,C,D:\clones\mpv\demux\cue.c,23,29.0,218.0
+mpv,C,D:\clones\mpv\sub\lavc_conv.c,35,31.0,218.0
+mpv,C,D:\clones\mpv\video\out\opengl\utils.c,33,32.0,217.0
+mpv,C,D:\clones\mpv\demux\cache.c,59,51.0,214.0
+mpv,C,D:\clones\mpv\input\sdl_gamepad.c,45,25.0,213.0
+mpv,C/C++ Header,D:\clones\mpv\libmpv\client.h,72,1605.0,211.0
+mpv,Swift,D:\clones\mpv\video\out\mac\title_bar.swift,27,19.0,209.0
+mpv,C,D:\clones\mpv\audio\filter\af_scaletempo2.c,36,1.0,208.0
+mpv,C,D:\clones\mpv\ta\ta_utils.c,41,66.0,208.0
+mpv,C/C++ Header,D:\clones\mpv\video\csputils.h,49,50.0,204.0
+mpv,Objective-C,D:\clones\mpv\video\out\opengl\hwdec_ios.m,48,24.0,203.0
+mpv,C,D:\clones\mpv\video\out\gpu\libmpv_gpu.c,44,2.0,202.0
+mpv,C,D:\clones\mpv\audio\out\ao_jack.c,60,24.0,198.0
+mpv,C,D:\clones\mpv\audio\out\ao_opensles.c,43,25.0,198.0
+mpv,C,D:\clones\mpv\video\d3d.c,54,22.0,198.0
+mpv,C,D:\clones\mpv\video\out\hwdec\hwdec_cuda.c,52,27.0,198.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\opengl\common.h,30,20.0,197.0
+mpv,SVG,D:\clones\mpv\etc\mpv-gradient.svg,1,1.0,196.0
+mpv,Swift,D:\clones\mpv\osdep\macos\libmpv_helper.swift,33,21.0,196.0
+mpv,C,D:\clones\mpv\video\out\d3d11\hwdec_d3d11va.c,34,24.0,194.0
+mpv,C,D:\clones\mpv\misc\thread_tools.c,46,30.0,193.0
+mpv,C,D:\clones\mpv\osdep\windows_utils.c,16,20.0,193.0
+mpv,C,D:\clones\mpv\audio\format.c,27,48.0,192.0
+mpv,Lua,D:\clones\mpv\TOOLS\lua\autocrop.lua,66,73.0,190.0
+mpv,C,D:\clones\mpv\options\parse_commandline.c,38,33.0,190.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\man\af.rst,56,7.0,188.0
+mpv,C,D:\clones\mpv\video\filter\vf_format.c,31,20.0,188.0
+mpv,C,D:\clones\mpv\video\out\gpu\error_diffusion.c,40,88.0,188.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\gpu\video.h,28,17.0,188.0
+mpv,C,D:\clones\mpv\video\out\dither.c,26,21.0,186.0
+mpv,C,D:\clones\mpv\video\out\gpu\context.c,29,27.0,184.0
+mpv,Python,D:\clones\mpv\waftools\checks\generic.py,32,6.0,183.0
+mpv,C,D:\clones\mpv\video\out\hwdec\hwdec_vaapi_gl.c,39,21.0,182.0
+mpv,C,D:\clones\mpv\video\out\opengl\hwdec_dxva2gldx.c,37,20.0,182.0
+mpv,C,D:\clones\mpv\video\out\opengl\hwdec_vdpau.c,50,18.0,181.0
+mpv,C,D:\clones\mpv\audio\out\ao_wasapi_changenotify.c,35,31.0,180.0
+mpv,Swift,D:\clones\mpv\video\out\cocoa_cb_common.swift,41,19.0,180.0
+mpv,Python,D:\clones\mpv\waftools\dependencies.py,38,7.0,179.0
+mpv,C,D:\clones\mpv\audio\out\ao_pcm.c,37,35.0,178.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\man\ao.rst,57,4.0,177.0
+mpv,C,D:\clones\mpv\video\out\win32\displayconfig.c,33,32.0,177.0
+mpv,Python,D:\clones\mpv\waftools\deps_parser.py,20,14.0,177.0
+mpv,C,D:\clones\mpv\filters\frame.c,34,0.0,176.0
+mpv,C,D:\clones\mpv\video\out\opengl\context_x11egl.c,40,16.0,176.0
+mpv,C,D:\clones\mpv\video\out\gpu_next\context.c,37,19.0,173.0
+mpv,C,D:\clones\mpv\video\out\opengl\context_wayland.c,49,20.0,173.0
+mpv,C,D:\clones\mpv\misc\charset_conv.c,28,43.0,171.0
+mpv,C,D:\clones\mpv\video\filter\vf_fingerprint.c,39,20.0,170.0
+mpv,C,D:\clones\mpv\video\out\gpu\hwdec.c,15,16.0,170.0
+mpv,C,D:\clones\mpv\demux\packet.c,20,37.0,169.0
+mpv,C/C++ Header,D:\clones\mpv\input\keycodes.h,36,54.0,168.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\man\stats.rst,70,0.0,165.0
+mpv,Lua,D:\clones\mpv\TOOLS\lua\autoload.lua,32,27.0,165.0
+mpv,C/C++ Header,D:\clones\mpv\stream\stream.h,44,60.0,165.0
+mpv,C,D:\clones\mpv\video\out\vo_lavc.c,48,42.0,165.0
+mpv,Markdown,D:\clones\mpv\README.md,69,0.0,164.0
+mpv,C,D:\clones\mpv\video\out\win32\droptarget.c,36,16.0,164.0
+mpv,YAML,D:\clones\mpv\.github\workflows\build.yml,22,9.0,162.0
+mpv,C,D:\clones\mpv\filters\user_filters.c,29,6.0,162.0
+mpv,C,D:\clones\mpv\video\out\aspect.c,26,24.0,162.0
+mpv,C,D:\clones\mpv\video\out\opengl\context_cocoa.c,38,23.0,162.0
+mpv,Lua,D:\clones\mpv\TOOLS\lua\skip-logo.lua,41,65.0,159.0
+mpv,Markdown,D:\clones\mpv\DOCS\compile-windows.md,55,0.0,158.0
+mpv,C,D:\clones\mpv\audio\out\ao_sdl.c,33,27.0,157.0
+mpv,C,D:\clones\mpv\video\out\opengl\hwdec_osx.c,45,19.0,157.0
+mpv,C,D:\clones\mpv\audio\out\ao_null.c,43,32.0,156.0
+mpv,C,D:\clones\mpv\player\sub.c,31,26.0,156.0
+mpv,Bourne Shell,D:\clones\mpv\ci\build-mingw64.sh,25,12.0,155.0
+mpv,C,D:\clones\mpv\common\av_log.c,31,24.0,155.0
+mpv,C,D:\clones\mpv\video\out\libmpv_sw.c,45,9.0,155.0
+mpv,Swift,D:\clones\mpv\osdep\macos\remote_command_center.swift,24,16.0,154.0
+mpv,C/C++ Header,D:\clones\mpv\sub\osd.h,48,44.0,154.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\io.h,38,30.0,153.0
+mpv,C,D:\clones\mpv\options\parse_configfile.c,23,26.0,152.0
+mpv,C/C++ Header,D:\clones\mpv\video\img_format.h,67,125.0,152.0
+mpv,C,D:\clones\mpv\video\out\bitmap_packer.c,9,36.0,152.0
+mpv,Lua,D:\clones\mpv\player\lua\auto_profiles.lua,19,17.0,151.0
+mpv,Objective-C,D:\clones\mpv\audio\out\ao_audiounit.m,31,19.0,147.0
+mpv,C,D:\clones\mpv\misc\thread_pool.c,51,25.0,147.0
+mpv,C,D:\clones\mpv\test\scale_test.c,34,11.0,147.0
+mpv,zsh,D:\clones\mpv\etc\_mpv.zsh,50,54.0,146.0
+mpv,C,D:\clones\mpv\video\out\placebo\utils.c,20,1.0,146.0
+mpv,Python,D:\clones\mpv\waftools\detections\compiler_swift.py,39,19.0,145.0
+mpv,C,D:\clones\mpv\video\filter\vf_vdpaupp.c,32,19.0,144.0
+mpv,Python,D:\clones\mpv\waftools\checks\custom.py,15,11.0,144.0
+mpv,C,D:\clones\mpv\video\out\opengl\formats.c,21,35.0,140.0
+mpv,Lua,D:\clones\mpv\player\lua\assdraw.lua,20,1.0,139.0
+mpv,C/C++ Header,D:\clones\mpv\stream\dvbin.h,36,16.0,139.0
+mpv,Bourne Shell,D:\clones\mpv\TOOLS\idet.sh,9,11.0,138.0
+mpv,Lua,D:\clones\mpv\player\lua\options.lua,20,15.0,136.0
+mpv,C/C++ Header,D:\clones\mpv\misc\bstr.h,38,58.0,135.0
+mpv,C,D:\clones\mpv\test\tests.c,24,1.0,134.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\compatibility.rst,45,0.0,132.0
+mpv,C,D:\clones\mpv\stream\stream_slice.c,33,19.0,129.0
+mpv,C,D:\clones\mpv\video\hwdec.c,19,0.0,128.0
+mpv,C,D:\clones\mpv\video\out\vo_image.c,27,16.0,128.0
+mpv,Python,D:\clones\mpv\TOOLS\stats-conv.py,21,19.0,126.0
+mpv,C,D:\clones\mpv\video\out\drm_prime.c,18,16.0,126.0
+mpv,Lua,D:\clones\mpv\TOOLS\lua\acompressor.lua,24,7.0,124.0
+mpv,C,D:\clones\mpv\stream\cookies.c,30,28.0,122.0
+mpv,C,D:\clones\mpv\test\linked_list.c,41,1.0,122.0
+mpv,C,D:\clones\mpv\video\out\hwdec\hwdec_cuda_gl.c,31,21.0,122.0
+mpv,C,D:\clones\mpv\video\out\dr_helper.c,29,10.0,121.0
+mpv,C,D:\clones\mpv\video\out\vulkan\context_wayland.c,32,22.0,121.0
+mpv,C,D:\clones\mpv\video\filter\vf_sub.c,31,18.0,120.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\waf-buildsystem.rst,38,0.0,119.0
+mpv,C,D:\clones\mpv\stream\stream_concat.c,35,25.0,119.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\encoding.rst,40,0.0,115.0
+mpv,C,D:\clones\mpv\misc\node.c,17,16.0,115.0
+mpv,Ruby,D:\clones\mpv\TOOLS\travis-deps,24,1.0,114.0
+mpv,Bourne Shell,D:\clones\mpv\TOOLS\mpv_identify.sh,18,19.0,112.0
+mpv,C/C++ Header,D:\clones\mpv\options\m_config_frontend.h,46,109.0,112.0
+mpv,C,D:\clones\mpv\filters\f_swscale.c,32,17.0,110.0
+mpv,C,D:\clones\mpv\osdep\timer.c,17,23.0,110.0
+mpv,C,D:\clones\mpv\common\tags.c,16,19.0,109.0
+mpv,C/C++ Header,D:\clones\mpv\ta\ta.h,24,24.0,109.0
+mpv,C/C++ Header,D:\clones\mpv\video\mp_image.h,31,56.0,109.0
+mpv,Swift,D:\clones\mpv\osdep\macos\mpv_helper.swift,26,22.0,108.0
+mpv,Lua,D:\clones\mpv\TOOLS\lua\autodeint.lua,18,34.0,104.0
+mpv,C,D:\clones\mpv\sub\filter_jsre.c,28,6.0,103.0
+mpv,C,D:\clones\mpv\audio\filter\af_format.c,25,16.0,102.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\man\console.rst,45,0.0,100.0
+mpv,C,D:\clones\mpv\osdep\glob-win.c,24,38.0,100.0
+mpv,C,D:\clones\mpv\video\out\gpu\spirv_shaderc.c,22,3.0,100.0
+mpv,C/C++ Header,D:\clones\mpv\ta\ta_talloc.h,24,34.0,99.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\wayland_common.h,16,25.0,98.0
+mpv,Lua,D:\clones\mpv\TOOLS\lua\command-test.lua,19,8.0,97.0
+mpv,C,D:\clones\mpv\audio\filter\af_drop.c,19,0.0,95.0
+mpv,C,D:\clones\mpv\video\out\hwdec\hwdec_vaapi_vk.c,17,20.0,95.0
+mpv,Python,D:\clones\mpv\TOOLS\dylib-unhell.py,32,4.0,94.0
+mpv,C,D:\clones\mpv\demux\codec_tags.c,14,22.0,92.0
+mpv,C,D:\clones\mpv\osdep\semaphore_osx.c,14,17.0,92.0
+mpv,C,D:\clones\mpv\video\out\opengl\context_android.c,23,16.0,91.0
+mpv,C,D:\clones\mpv\video\out\win_state.c,25,39.0,91.0
+mpv,C/C++ Header,D:\clones\mpv\audio\out\internal.h,26,120.0,90.0
+mpv,C/C++ Header,D:\clones\mpv\input\cmd.h,24,42.0,89.0
+mpv,C,D:\clones\mpv\sub\img_convert.c,13,26.0,89.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\x11_common.h,29,35.0,89.0
+mpv,C,D:\clones\mpv\stream\stream_cb.c,22,0.0,88.0
+mpv,C,D:\clones\mpv\video\out\opengl\libmpv_gl.c,20,7.0,88.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\man\encode.rst,36,0.0,87.0
+mpv,C/C++ Header,D:\clones\mpv\audio\chmap.h,24,30.0,87.0
+mpv,SVG,D:\clones\mpv\etc\mpv.svg,1,1.0,84.0
+mpv,C,D:\clones\mpv\video\out\vo_mediacodec_embed.c,19,16.0,84.0
+mpv,C/C++ Header,D:\clones\mpv\audio\out\ao.h,16,27.0,83.0
+mpv,C/C++ Header,D:\clones\mpv\options\m_property.h,38,103.0,83.0
+mpv,C,D:\clones\mpv\test\json.c,10,1.0,83.0
+mpv,C/C++ Header,D:\clones\mpv\input\input.h,52,105.0,82.0
+mpv,C,D:\clones\mpv\video\out\vulkan\context_xlib.c,22,16.0,82.0
+mpv,Python,D:\clones\mpv\waftools\generators\sources.py,14,0.0,81.0
+mpv,C/C++ Header,D:\clones\mpv\common\common.h,26,29.0,80.0
+mpv,C,D:\clones\mpv\demux\demux_libarchive.c,23,17.0,80.0
+mpv,C/C++ Header,D:\clones\mpv\filters\filter.h,53,336.0,80.0
+mpv,Markdown,D:\clones\mpv\DOCS\release-policy.md,43,0.0,78.0
+mpv,C/C++ Header,D:\clones\mpv\video\vdpau.h,25,7.0,78.0
+mpv,XML,D:\clones\mpv\TOOLS\mpv-osd-symbols.sfdir\font.props,0,0.0,77.0
+mpv,Bourne Again Shell,D:\clones\mpv\etc\mpv.bash-completion,10,27.0,77.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\opengl\angle_dynamic.h,8,2.0,77.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\atomic.h,15,18.0,76.0
+mpv,Python,D:\clones\mpv\waftools\detections\compiler.py,15,1.0,76.0
+mpv,C,D:\clones\mpv\video\fmt-conversion.c,16,19.0,75.0
+mpv,C,D:\clones\mpv\test\chmap.c,16,2.0,74.0
+mpv,C,D:\clones\mpv\video\out\vo_null.c,11,20.0,74.0
+mpv,C/C++ Header,D:\clones\mpv\player\command.h,16,33.0,73.0
+mpv,C,D:\clones\mpv\common\codecs.c,6,30.0,71.0
+mpv,C,D:\clones\mpv\osdep\timer-win2.c,16,30.0,71.0
+mpv,C,D:\clones\mpv\sub\filter_regex.c,18,0.0,71.0
+mpv,C,D:\clones\mpv\video\out\vulkan\context_win.c,19,16.0,71.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\drm_atomic.h,17,17.0,70.0
+mpv,C/C++ Header,D:\clones\mpv\audio\out\ao_wasapi.h,20,26.0,69.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\drm_common.h,13,17.0,69.0
+mpv,Python,D:\clones\mpv\TOOLS\osxbundle.py,19,0.0,68.0
+mpv,C/C++ Header,D:\clones\mpv\libmpv\render.h,24,646.0,68.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\gpu\utils.h,22,15.0,68.0
+mpv,Lua,D:\clones\mpv\TOOLS\lua\status-line.lua,18,7.0,67.0
+mpv,C,D:\clones\mpv\audio\out\ao_coreaudio_properties.c,17,19.0,67.0
+mpv,C,D:\clones\mpv\input\event.c,5,21.0,67.0
+mpv,C,D:\clones\mpv\osdep\path-win.c,17,18.0,67.0
+mpv,C,D:\clones\mpv\video\out\android_common.c,15,16.0,67.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\gpu\user_shaders.h,12,20.0,67.0
+mpv,SVG,D:\clones\mpv\etc\mpv-symbolic.svg,1,1.0,66.0
+mpv,C,D:\clones\mpv\osdep\w32_keyboard.c,17,28.0,66.0
+mpv,C,D:\clones\mpv\stream\stream_memory.c,16,19.0,65.0
+mpv,C/C++ Header,D:\clones\mpv\common\playlist.h,23,33.0,64.0
+mpv,C,D:\clones\mpv\filters\f_demux_in.c,20,1.0,64.0
+mpv,C/C++ Header,D:\clones\mpv\sub\osd_state.h,23,7.0,63.0
+mpv,C,D:\clones\mpv\video\out\vulkan\context_android.c,17,16.0,63.0
+mpv,C/C++ Header,D:\clones\mpv\sub\sd.h,23,24.0,62.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\win32\include\pthread.h,22,16.0,61.0
+mpv,C/C++ Header,D:\clones\mpv\filters\f_decoder_wrapper.h,27,36.0,60.0
+mpv,C,D:\clones\mpv\test\paths.c,6,2.0,60.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\gpu\hwdec.h,19,45.0,60.0
+mpv,C/C++ Header,D:\clones\mpv\demux\ebml.h,16,18.0,59.0
+mpv,Swift,D:\clones\mpv\osdep\macos\swift_extensions.swift,15,16.0,58.0
+mpv,Python,D:\clones\mpv\waftools\clang_compilation_database.py,13,16.0,58.0
+mpv,Python,D:\clones\mpv\waftools\features.py,15,1.0,58.0
+mpv,C/C++ Header,D:\clones\mpv\audio\aframe.h,17,0.0,57.0
+mpv,C/C++ Header,D:\clones\mpv\demux\stheader.h,25,35.0,57.0
+mpv,C,D:\clones\mpv\osdep\threads.c,7,17.0,57.0
+mpv,C,D:\clones\mpv\video\out\gpu\spirv.c,12,1.0,57.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\gpu\context.h,21,27.0,55.0
+mpv,C,D:\clones\mpv\osdep\polldev.c,3,18.0,54.0
+mpv,Markdown,D:\clones\mpv\DOCS\build-system-differences.md,17,0.0,53.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\man\libmpv.rst,22,0.0,53.0
+mpv,C,D:\clones\mpv\osdep\main-fn-win.c,17,10.0,53.0
+mpv,C,D:\clones\mpv\osdep\win32-console-wrapper.c,16,20.0,53.0
+mpv,C,D:\clones\mpv\ta\ta_talloc.c,10,14.0,53.0
+mpv,C/C++ Header,D:\clones\mpv\test\tests.h,19,15.0,53.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\gpu\shader_cache.h,7,6.0,53.0
+mpv,Windows Module Definition,D:\clones\mpv\libmpv\mpv.def,0,0.0,52.0
+mpv,C/C++ Header,D:\clones\mpv\options\m_config_core.h,27,122.0,52.0
+mpv,C/C++ Header,D:\clones\mpv\audio\out\ao_coreaudio_utils.h,13,17.0,51.0
+mpv,C/C++ Header,D:\clones\mpv\common\msg.h,18,24.0,50.0
+mpv,Bourne Shell,D:\clones\mpv\version.sh,12,4.0,50.0
+mpv,C/C++ Header,D:\clones\mpv\common\encode_lavc.h,20,47.0,49.0
+mpv,Pascal,D:\clones\mpv\video\vdpau_functions.inc,1,0.0,49.0
+mpv,C/C++ Header,D:\clones\mpv\misc\linked_list.h,9,50.0,48.0
+mpv,Swift,D:\clones\mpv\osdep\macos\swift_compat.swift,6,16.0,48.0
+mpv,C/C++ Header,D:\clones\mpv\sub\dec_sub.h,11,0.0,48.0
+mpv,C,D:\clones\mpv\test\scale_zimg.c,12,0.0,48.0
+mpv,C,D:\clones\mpv\video\out\opengl\oml_sync.c,16,48.0,48.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\gpu\lcms.h,8,0.0,47.0
+mpv,C/C++ Header,D:\clones\mpv\demux\packet.h,17,23.0,46.0
+mpv,C/C++ Header,D:\clones\mpv\video\hwdec.h,23,30.0,46.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\libmpv.h,9,28.0,46.0
+mpv,Python,D:\clones\mpv\TOOLS\umpv,14,27.0,45.0
+mpv,C/C++ Header,D:\clones\mpv\video\sws_utils.h,20,17.0,45.0
+mpv,Bourne Shell,D:\clones\mpv\TOOLS\appveyor-install.sh,6,4.0,44.0
+mpv,C/C++ Header,D:\clones\mpv\audio\format.h,15,18.0,44.0
+mpv,Meson,D:\clones\mpv\generated\osdep\meson.build,11,2.0,44.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\gpu\d3d11_helpers.h,21,38.0,44.0
+mpv,C/C++ Header,D:\clones\mpv\video\vdpau_mixer.h,15,2.0,44.0
+mpv,C/C++ Header,D:\clones\mpv\player\client.h,12,3.0,43.0
+mpv,Python,D:\clones\mpv\waftools\waf_customizations.py,10,7.0,43.0
+mpv,Python,D:\clones\mpv\TOOLS\macos-sdk-version.py,13,13.0,42.0
+mpv,C,D:\clones\mpv\misc\natural_sort.c,3,22.0,42.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\subprocess.h,15,31.0,42.0
+mpv,C/C++ Header,D:\clones\mpv\audio\filter\af_scaletempo2_internals.h,4,76.0,41.0
+mpv,Bourne Shell,D:\clones\mpv\ci\build-freebsd.sh,6,0.0,41.0
+mpv,C/C++ Header,D:\clones\mpv\misc\jni.h,17,103.0,41.0
+mpv,Python,D:\clones\mpv\bootstrap.py,12,4.0,40.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\semaphore.h,13,6.0,40.0
+mpv,C,D:\clones\mpv\audio\fmt-conversion.c,6,16.0,38.0
+mpv,C/C++ Header,D:\clones\mpv\demux\timeline.h,14,19.0,38.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\threads.h,13,17.0,38.0
+mpv,Python,D:\clones\mpv\waftools\generators\headers.py,6,1.0,38.0
+mpv,C/C++ Header,D:\clones\mpv\common\encode.h,7,21.0,37.0
+mpv,C/C++ Header,D:\clones\mpv\filters\f_output_chain.h,17,33.0,37.0
+mpv,C/C++ Header,D:\clones\mpv\libmpv\render_gl.h,17,157.0,37.0
+mpv,C,D:\clones\mpv\osdep\path-unix.c,10,19.0,37.0
+mpv,C,D:\clones\mpv\video\image_loader.c,10,1.0,37.0
+mpv,C,D:\clones\mpv\video\out\vulkan\utils.c,7,0.0,37.0
+mpv,Python,D:\clones\mpv\waftools\syms.py,6,9.0,37.0
+mpv,Markdown,D:\clones\mpv\.github\ISSUE_TEMPLATE\2_bug_report_macos.md,15,0.0,36.0
+mpv,XML,D:\clones\mpv\osdep\mpv.exe.manifest,0,5.0,36.0
+mpv,C,D:\clones\mpv\video\out\opengl\angle_dynamic.c,7,1.0,36.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\opengl\formats.h,9,6.0,36.0
+mpv,Markdown,D:\clones\mpv\.github\ISSUE_TEMPLATE\2_bug_report_linux.md,14,0.0,35.0
+mpv,C,D:\clones\mpv\demux\timeline.c,6,0.0,35.0
+mpv,Python,D:\clones\mpv\version.py,10,0.0,35.0
+mpv,C/C++ Header,D:\clones\mpv\video\zimg.h,17,21.0,35.0
+mpv,Bourne Shell,D:\clones\mpv\ci\build-macos.sh,10,0.0,34.0
+mpv,C,D:\clones\mpv\misc\rendezvous.c,5,15.0,34.0
+mpv,C,D:\clones\mpv\osdep\timer-linux.c,4,19.0,34.0
+mpv,Markdown,D:\clones\mpv\.github\ISSUE_TEMPLATE\2_bug_report_windows.md,14,0.0,33.0
+mpv,C/C++ Header,D:\clones\mpv\common\msg_control.h,9,2.0,33.0
+mpv,C/C++ Header,D:\clones\mpv\common\av_common.h,6,16.0,32.0
+mpv,C/C++ Header,D:\clones\mpv\filters\filter_internal.h,25,88.0,32.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\macosx_compat.h,13,18.0,32.0
+mpv,C,D:\clones\mpv\test\scale_sws.c,9,4.0,32.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\filter_kernels.h,8,16.0,32.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\gpu\video_shaders.h,11,16.0,32.0
+mpv,Lua,D:\clones\mpv\TOOLS\lua\cycle-deinterlace-pullup.lua,5,20.0,31.0
+mpv,Lua,D:\clones\mpv\TOOLS\lua\osd-test.lua,3,1.0,31.0
+mpv,C/C++ Header,D:\clones\mpv\filters\f_swresample.h,7,6.0,31.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\endian.h,6,0.0,31.0
+mpv,Markdown,D:\clones\mpv\.github\ISSUE_TEMPLATE\3_bug_report.md,13,0.0,30.0
+mpv,C/C++ Header,D:\clones\mpv\options\path.h,21,44.0,30.0
+mpv,C/C++ Header,D:\clones\mpv\video\mp_image_pool.h,13,1.0,30.0
+mpv,C/C++ Header,D:\clones\mpv\filters\frame.h,12,18.0,29.0
+mpv,Windows Resource File,D:\clones\mpv\osdep\mpv.rc,4,17.0,29.0
+mpv,C/C++ Header,D:\clones\mpv\sub\ass_mp.h,11,21.0,29.0
+mpv,C/C++ Header,D:\clones\mpv\video\image_writer.h,10,32.0,29.0
+mpv,Objective-C,D:\clones\mpv\video\out\cocoa\video_view.m,7,16.0,29.0
+mpv,C/C++ Header,D:\clones\mpv\audio\out\ao_coreaudio_properties.h,15,18.0,28.0
+mpv,Bourne Shell,D:\clones\mpv\ci\build-tumbleweed.sh,2,0.0,28.0
+mpv,C/C++ Header,D:\clones\mpv\filters\user_filters.h,6,5.0,28.0
+mpv,C/C++ Header,D:\clones\mpv\misc\dispatch.h,4,0.0,28.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\gpu\spirv.h,8,5.0,28.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\hwdec\hwdec_vaapi.h,12,16.0,28.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\opengl\utils.h,12,17.0,28.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\vulkan\common.h,6,3.0,28.0
+mpv,C,D:\clones\mpv\waftools\fragments\iconv.c,2,0.0,28.0
+mpv,Lua,D:\clones\mpv\TOOLS\lua\test-hooks.lua,5,0.0,27.0
+mpv,Python,D:\clones\mpv\TOOLS\macos-swift-lib-directory.py,10,5.0,27.0
+mpv,YAML,D:\clones\mpv\appveyor.yml,5,6.0,27.0
+mpv,C/C++ Header,D:\clones\mpv\filters\f_async_queue.h,18,89.0,27.0
+mpv,C/C++ Header,D:\clones\mpv\filters\f_autoconvert.h,16,42.0,27.0
+mpv,Meson,D:\clones\mpv\generated\wayland\meson.build,5,0.0,27.0
+mpv,C/C++ Header,D:\clones\mpv\libmpv\stream_cb.h,15,198.0,27.0
+mpv,C/C++ Header,D:\clones\mpv\misc\thread_tools.h,16,39.0,27.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\macOS_swift_bridge.h,9,20.0,27.0
+mpv,C,D:\clones\mpv\osdep\terminal-dummy.c,8,0.0,27.0
+mpv,C/C++ Header,D:\clones\mpv\video\vaapi.h,11,17.0,27.0
+mpv,Python,D:\clones\mpv\waftools\detections\devices.py,4,0.0,27.0
+mpv,C,D:\clones\mpv\osdep\timer-darwin.c,8,16.0,26.0
+mpv,C/C++ Header,D:\clones\mpv\stream\stream_libarchive.h,8,1.0,26.0
+mpv,C/C++ Header,D:\clones\mpv\video\filter\refqueue.h,12,1.0,26.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\bitmap_packer.h,9,16.0,26.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\hwdec\hwdec_cuda.h,15,21.0,26.0
+mpv,C/C++ Header,D:\clones\mpv\audio\chmap_sel.h,10,17.0,25.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\compiler.h,6,1.0,25.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\opengl\context.h,12,22.0,25.0
+mpv,C/C++ Header,D:\clones\mpv\common\tags.h,5,0.0,24.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\macosx_application.h,7,17.0,24.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\windows_utils.h,8,17.0,24.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\placebo\utils.h,5,0.0,24.0
+mpv,C/C++ Header,D:\clones\mpv\common\codecs.h,9,16.0,23.0
+mpv,Swift,D:\clones\mpv\osdep\macos\log_helper.swift,8,16.0,23.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\macosx_touchbar.h,7,16.0,23.0
+mpv,C,D:\clones\mpv\video\cuda.c,8,16.0,23.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\drm_prime.h,6,16.0,23.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\opengl\egl_helpers.h,11,4.0,23.0
+mpv,Bourne Shell,D:\clones\mpv\TOOLS\appveyor-build.sh,2,0.0,22.0
+mpv,Lua,D:\clones\mpv\TOOLS\lua\nan-test.lua,9,6.0,22.0
+mpv,Bourne Shell,D:\clones\mpv\TOOLS\travis-rebuild-website,5,2.0,22.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\win32\include\semaphore.h,7,15.0,22.0
+mpv,C/C++ Header,D:\clones\mpv\common\recorder.h,4,0.0,21.0
+mpv,Meson,D:\clones\mpv\generated\meson.build,4,2.0,21.0
+mpv,C/C++ Header,D:\clones\mpv\sub\draw_bmp.h,9,30.0,21.0
+mpv,C,D:\clones\mpv\test\gl_video.c,7,1.0,21.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\cocoa\mpvadapter.h,4,16.0,21.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\win_state.h,6,8.0,21.0
+mpv,Markdown,D:\clones\mpv\.github\ISSUE_TEMPLATE\4_bug_report_build.md,10,0.0,20.0
+mpv,Python,D:\clones\mpv\TOOLS\file2string.py,8,20.0,20.0
+mpv,C/C++ Header,D:\clones\mpv\demux\cue.h,7,16.0,20.0
+mpv,C/C++ Header,D:\clones\mpv\filters\f_utils.h,12,52.0,20.0
+mpv,C,D:\clones\mpv\osdep\subprocess.c,6,17.0,20.0
+mpv,C/C++ Header,D:\clones\mpv\test\scale_test.h,5,3.0,20.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\gpu\osd.h,5,0.0,20.0
+mpv,C/C++ Header,D:\clones\mpv\video\repack.h,10,46.0,20.0
+mpv,Markdown,D:\clones\mpv\.github\ISSUE_TEMPLATE\6_question.md,6,0.0,19.0
+mpv,Meson,D:\clones\mpv\generated\etc\meson.build,1,0.0,19.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\macosx_application_objc.h,5,16.0,19.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\timer.h,15,30.0,19.0
+mpv,C/C++ Header,D:\clones\mpv\stream\dvb_tune.h,6,17.0,19.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\gpu\error_diffusion.h,9,20.0,19.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\gpu\libmpv_gpu.h,6,15.0,19.0
+mpv,C/C++ Header,D:\clones\mpv\filters\f_swscale.h,6,10.0,18.0
+mpv,reStructuredText,D:\clones\mpv\DOCS\man\changes.rst,3,0.0,17.0
+mpv,C/C++ Header,D:\clones\mpv\misc\charset_conv.h,5,0.0,17.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\macosx_events_objc.h,9,19.0,17.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\gpu_next\context.h,8,16.0,17.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\opengl\oml_sync.h,5,6.0,17.0
+mpv,Markdown,D:\clones\mpv\.github\ISSUE_TEMPLATE\5_feature_request.md,6,0.0,16.0
+mpv,C,D:\clones\mpv\demux\demux_null.c,3,16.0,16.0
+mpv,Objective-C,D:\clones\mpv\osdep\path-macosx.m,2,16.0,16.0
+mpv,C,D:\clones\mpv\stream\stream_mf.c,6,21.0,16.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\d3d11\ra_d3d11.h,8,11.0,16.0
+mpv,C,D:\clones\mpv\waftools\fragments\wasapi.c,0,0.0,16.0
+mpv,Lua,D:\clones\mpv\TOOLS\lua\ontop-playback.lua,2,2.0,15.0
+mpv,Lua,D:\clones\mpv\TOOLS\lua\pause-when-minimize.lua,2,3.0,15.0
+mpv,C/C++ Header,D:\clones\mpv\common\stats.h,9,10.0,15.0
+mpv,C/C++ Header,D:\clones\mpv\filters\f_lavfi.h,7,17.0,15.0
+mpv,C,D:\clones\mpv\input\ipc-dummy.c,4,0.0,15.0
+mpv,C/C++ Header,D:\clones\mpv\player\external_files.h,6,16.0,15.0
+mpv,C/C++ Header,D:\clones\mpv\player\screenshot.h,8,23.0,15.0
+mpv,C/C++ Header,D:\clones\mpv\video\d3d.h,9,18.0,15.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\opengl\ra_gl.h,2,0.0,15.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\vulkan\context.h,8,8.0,15.0
+mpv,C/C++ Header,D:\clones\mpv\input\event.h,7,22.0,14.0
+mpv,C/C++ Header,D:\clones\mpv\misc\node.h,3,0.0,14.0
+mpv,C,D:\clones\mpv\osdep\path-uwp.c,4,17.0,14.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\terminal.h,12,26.0,14.0
+mpv,C,D:\clones\mpv\stream\stream_null.c,5,18.0,14.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\aspect.h,3,16.0,14.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\cocoa_common.h,8,18.0,14.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\w32_common.h,6,16.0,14.0
+mpv,Objective-C,D:\clones\mpv\waftools\fragments\cocoa.m,2,0.0,14.0
+mpv,Markdown,D:\clones\mpv\.github\ISSUE_TEMPLATE\1_dont_ignore.md,3,0.0,13.0
+mpv,Markdown,D:\clones\mpv\TOOLS\lua\README.md,7,0.0,13.0
+mpv,Lua,D:\clones\mpv\TOOLS\lua\observe-all.lua,4,5.0,13.0
+mpv,C/C++ Header,D:\clones\mpv\misc\ctype.h,4,2.0,13.0
+mpv,C,D:\clones\mpv\stream\stream_avdevice.c,5,16.0,13.0
+mpv,C,D:\clones\mpv\waftools\fragments\audiounit.c,2,0.0,13.0
+mpv,C,D:\clones\mpv\waftools\fragments\coreaudio.c,2,0.0,13.0
+mpv,C,D:\clones\mpv\waftools\fragments\gl_x11.c,2,0.0,13.0
+mpv,C,D:\clones\mpv\waftools\fragments\sse.c,5,0.0,13.0
+mpv,Python,D:\clones\mpv\waftools\inflector.py,6,3.0,13.0
+mpv,Lua,D:\clones\mpv\TOOLS\lua\ao-null-reload.lua,3,5.0,12.0
+mpv,C/C++ Header,D:\clones\mpv\filters\f_hwtransfer.h,7,6.0,12.0
+mpv,C,D:\clones\mpv\osdep\android\strnlen.c,3,25.0,12.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\macosx_events.h,6,18.0,12.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\macosx_versions.h,5,16.0,12.0
+mpv,C/C++ Header,D:\clones\mpv\sub\img_convert.h,7,4.0,12.0
+mpv,JavaScript,D:\clones\mpv\test\subtimes.js,3,0.0,12.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\cocoa\window.h,3,16.0,12.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\dr_helper.h,6,19.0,12.0
+mpv,C/C++ Header,D:\clones\mpv\audio\out\ao_coreaudio_chmap.h,6,16.0,11.0
+mpv,C/C++ Header,D:\clones\mpv\demux\cache.h,5,0.0,11.0
+mpv,C/C++ Header,D:\clones\mpv\options\parse_commandline.h,5,16.0,11.0
+mpv,C,D:\clones\mpv\stream\stream_edl.c,4,2.0,11.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\win32\droptarget.h,5,17.0,11.0
+mpv,C/C++ Header,D:\clones\mpv\common\global.h,2,3.0,10.0
+mpv,C/C++ Header,D:\clones\mpv\demux\codec_tags.h,7,16.0,10.0
+mpv,Meson,D:\clones\mpv\generated\player\lua\meson.build,0,0.0,10.0
+mpv,C/C++ Header,D:\clones\mpv\misc\thread_pool.h,5,19.0,10.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\macosx_menubar.h,3,17.0,10.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\placebo\ra_pl.h,5,1.0,10.0
+mpv,YAML,D:\clones\mpv\.github\ISSUE_TEMPLATE\config.yml,0,0.0,9.0
+mpv,C/C++ Header,D:\clones\mpv\common\av_log.h,2,0.0,9.0
+mpv,C,D:\clones\mpv\common\version.c,2,16.0,9.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\getpid.h,2,18.0,9.0
+mpv,Meson,D:\clones\mpv\generated\TOOLS\osxbundle\mpv.app\Contents\Resources\meson.build,0,0.0,8.0
+mpv,C/C++ Header,D:\clones\mpv\misc\json.h,4,17.0,8.0
+mpv,C/C++ Header,D:\clones\mpv\options\parse_configfile.h,5,16.0,8.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\path.h,3,13.0,8.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\strnlen.h,4,19.0,8.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\android_common.h,5,16.0,8.0
+mpv,Lua,D:\clones\mpv\TOOLS\lua\audio-hotplug-test.lua,1,0.0,7.0
+mpv,Meson,D:\clones\mpv\generated\player\javascript\meson.build,0,0.0,6.0
+mpv,Meson,D:\clones\mpv\generated\sub\meson.build,0,0.0,6.0
+mpv,C,D:\clones\mpv\osdep\subprocess-dummy.c,1,0.0,6.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\w32_keyboard.h,5,18.0,6.0
+mpv,C/C++ Header,D:\clones\mpv\video\fmt-conversion.h,4,16.0,6.0
+mpv,C/C++ Header,D:\clones\mpv\video\image_loader.h,3,0.0,6.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\cocoa\events_view.h,2,16.0,6.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\cocoa\video_view.h,2,16.0,6.0
+mpv,C,D:\clones\mpv\waftools\fragments\bsd_thread_name.c,0,0.0,6.0
+mpv,C,D:\clones\mpv\waftools\fragments\glibc_thread_name.c,0,0.0,6.0
+mpv,C,D:\clones\mpv\waftools\fragments\pthreads.c,0,0.0,6.0
+mpv,Objective-C,D:\clones\mpv\waftools\fragments\touchbar.m,1,0.0,6.0
+mpv,C/C++ Header,D:\clones\mpv\audio\fmt-conversion.h,3,16.0,5.0
+mpv,C/C++ Header,D:\clones\mpv\demux\matroska.h,3,16.0,5.0
+mpv,C/C++ Header,D:\clones\mpv\filters\f_auto_filters.h,4,4.0,5.0
+mpv,C/C++ Header,D:\clones\mpv\filters\f_demux_in.h,3,3.0,5.0
+mpv,C/C++ Header,D:\clones\mpv\misc\rendezvous.h,3,0.0,5.0
+mpv,C/C++ Header,D:\clones\mpv\mpv_talloc.h,2,0.0,5.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\android\strnlen.h,3,25.0,5.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\macosx_menubar_objc.h,4,16.0,5.0
+mpv,C,D:\clones\mpv\osdep\main-fn-cocoa.c,1,4.0,5.0
+mpv,C,D:\clones\mpv\osdep\main-fn-unix.c,1,0.0,5.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\vulkan\utils.h,1,0.0,5.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\win32\displayconfig.h,4,18.0,5.0
+mpv,C,D:\clones\mpv\waftools\fragments\osx_thread_name.c,0,0.0,5.0
+mpv,C/C++ Header,D:\clones\mpv\misc\natural_sort.h,3,16.0,4.0
+mpv,C/C++ Header,D:\clones\mpv\stream\cookies.h,3,21.0,4.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\d3d11\context.h,3,2.0,4.0
+mpv,C,D:\clones\mpv\waftools\fragments\vector.c,0,0.0,4.0
+mpv,Bourne Shell,D:\clones\mpv\TOOLS\gen-osd-font.sh,3,3.0,3.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\polldev.h,2,2.0,3.0
+mpv,C/C++ Header,D:\clones\mpv\video\out\dither.h,0,0.0,2.0
+mpv,C/C++ Header,D:\clones\mpv\options\m_config.h,0,0.0,1.0
+mpv,C/C++ Header,D:\clones\mpv\osdep\main-fn.h,0,0.0,1.0
+mpv,Python,D:\clones\mpv\waftools\__init__.py,0,1.0,1.0

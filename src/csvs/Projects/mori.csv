@@ -1,0 +1,47 @@
+project,language,filename,blank,comment,code
+mori,HTML,D:\clones\mori\docs\index.html,209,7.0,1734.0
+mori,JavaScript,D:\clones\mori\docs\js\shCore.js,284,471.0,965.0
+mori,JavaScript,D:\clones\mori\docs\js\shBrushClojure.js,113,47.0,597.0
+mori,ClojureScript,D:\clones\mori\src\mori\extra.cljs,35,10.0,220.0
+mori,HTML,D:\clones\mori\epl-v10.html,45,0.0,216.0
+mori,CSS,D:\clones\mori\docs\css\shCore.css,1,31.0,195.0
+mori,CSS,D:\clones\mori\docs\shCore.css,1,31.0,194.0
+mori,Markdown,D:\clones\mori\README.md,69,0.0,187.0
+mori,ClojureScript,D:\clones\mori\resources\chain.cljs,13,12.0,175.0
+mori,CSS,D:\clones\mori\docs\css\base.css,23,2.0,156.0
+mori,JavaScript,D:\clones\mori\spec\mori-spec.js,20,1.0,144.0
+mori,CSS,D:\clones\mori\docs\css\shThemeMarginalia.css,10,12.0,135.0
+mori,CSS,D:\clones\mori\docs\css\shThemeEclipse.css,1,16.0,111.0
+mori,CSS,D:\clones\mori\docs\css\shThemeDjango.css,1,16.0,103.0
+mori,CSS,D:\clones\mori\docs\css\shThemeEmacs.css,0,16.0,97.0
+mori,JavaScript,D:\clones\mori\docs\js\shAutoloader.js,17,37.0,76.0
+mori,Clojure,D:\clones\mori\src\mori\macros.clj,12,6.0,58.0
+mori,JSON,D:\clones\mori\package.json,0,0.0,53.0
+mori,ClojureScript,D:\clones\mori\src\mori.cljs,1,0.0,44.0
+mori,JavaScript,D:\clones\mori\bench\mut_perf.js,9,39.0,39.0
+mori,JavaScript,D:\clones\mori\bench\trie_perf.js,6,0.0,36.0
+mori,JavaScript,D:\clones\mori\bench\transducers.js,10,1.0,35.0
+mori,Clojure,D:\clones\mori\project.clj,5,0.0,33.0
+mori,JavaScript,D:\clones\mori\support\scripts\require.js,0,5.0,30.0
+mori,Bourne Again Shell,D:\clones\mori\bin\lein_prefer,24,0.0,27.0
+mori,JavaScript,D:\clones\mori\docs\js\shBrushJScript.js,7,2.0,27.0
+mori,JavaScript,D:\clones\mori\bench\proxy_vs_freeze.js,7,0.0,25.0
+mori,Markdown,D:\clones\mori\CHANGES.md,8,0.0,21.0
+mori,HTML,D:\clones\mori\support\script-tag-load.html,2,0.0,20.0
+mori,JavaScript,D:\clones\mori\bin\get_lein.js,3,0.0,16.0
+mori,Bourne Shell,D:\clones\mori\scripts\docs.sh,2,0.0,14.0
+mori,JavaScript,D:\clones\mori\support\wrapper.js,8,10.0,14.0
+mori,YAML,D:\clones\mori\.travis.yml,0,0.0,13.0
+mori,PowerShell,D:\clones\mori\scripts\build.ps1,0,0.0,11.0
+mori,ClojureScript,D:\clones\mori\src\mori\mutable.cljs,2,0.0,11.0
+mori,HTML,D:\clones\mori\support\amd-load.html,0,0.0,11.0
+mori,HTML,D:\clones\mori\support\index.html,0,0.0,11.0
+mori,Bourne Shell,D:\clones\mori\scripts\build.sh,7,0.0,9.0
+mori,Markdown,D:\clones\mori\support\README.md,3,0.0,8.0
+mori,JavaScript,D:\clones\mori\support\scripts\main.js,4,0.0,7.0
+mori,Bourne Shell,D:\clones\mori\scripts\build_clean.sh,1,0.0,3.0
+mori,Bourne Shell,D:\clones\mori\scripts\clean.sh,2,0.0,3.0
+mori,JavaScript,D:\clones\mori\docs\js\xregexp-min.js,0,1.0,1.0
+mori,JavaScript,D:\clones\mori\support\scripts\mori.js,0,0.0,1.0
+mori,JavaScript,D:\clones\mori\support\wrapper.min.js,0,0.0,1.0
+mori,JavaScript,D:\clones\mori\spec\chain-spec.js,62,90.0,0.0

@@ -1,0 +1,10 @@
+project,language,filename,blank,comment,code
+FFmpeg,Verilog-SystemVerilog,D:\clones\FFmpeg\libswresample\libswresample.v,0,0.0,7.0
+FFmpeg,Verilog-SystemVerilog,D:\clones\FFmpeg\libswscale\libswscale.v,0,0.0,7.0
+FFmpeg,Verilog-SystemVerilog,D:\clones\FFmpeg\libavdevice\libavdevice.v,0,0.0,7.0
+FFmpeg,Verilog-SystemVerilog,D:\clones\FFmpeg\libavcodec\libavcodec.v,0,0.0,9.0
+FFmpeg,Verilog-SystemVerilog,D:\clones\FFmpeg\libavutil\libavutil.v,0,0.0,6.0
+FFmpeg,Verilog-SystemVerilog,D:\clones\FFmpeg\libavformat\libavformat.v,0,0.0,6.0
+FFmpeg,Verilog-SystemVerilog,D:\clones\FFmpeg\libavfilter\libavfilter.v,0,0.0,7.0
+FFmpeg,Verilog-SystemVerilog,D:\clones\FFmpeg\libpostproc\libpostproc.v,0,0.0,7.0
+vim,Verilog-SystemVerilog,D:\clones\vim\runtime\tutor\tutor.sv,354,0.0,476.0

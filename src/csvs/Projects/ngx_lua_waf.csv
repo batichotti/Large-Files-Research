@@ -1,0 +1,6 @@
+project,language,filename,blank,comment,code
+ngx_lua_waf,Lua,D:\clones\ngx_lua_waf\init.lua,14,1.0,230.0
+ngx_lua_waf,Markdown,D:\clones\ngx_lua_waf\README.md,43,0.0,95.0
+ngx_lua_waf,Lua,D:\clones\ngx_lua_waf\waf.lua,0,0.0,88.0
+ngx_lua_waf,Bourne Shell,D:\clones\ngx_lua_waf\install.sh,0,1.0,46.0
+ngx_lua_waf,Lua,D:\clones\ngx_lua_waf\config.lua,4,0.0,41.0

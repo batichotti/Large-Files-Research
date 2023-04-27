@@ -1,0 +1,497 @@
+project,language,filename,blank,comment,code
+bitbar,Bourne Shell,D:\clones\bitbar\pkg\plugins\testdata\token-too-long\jma.1h.sh,166,59.0,3096.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Examples\DateToolsExample\DateToolsExample\Colours.m,237,73.0,993.0
+bitbar,Go,D:\clones\bitbar\pkg\plugins\emoji.go,9,23.0,881.0
+bitbar,Go,D:\clones\bitbar\tools\sitegen\main.go,33,16.0,850.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\AHProxySettings\AHProxyExampe\Base.lproj\MainMenu.xib,0,0.0,847.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\NSStringEmojize\NSStringEmojize\emojis.h,1,7.0,847.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUFileManager.m,159,92.0,785.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\DateTools\NSDate+DateTools.m,200,749.0,772.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\STPrivilegedTask\PrivilegedTaskExample\PrivilegedTaskExample\Base.lproj\MainMenu.xib,0,0.0,735.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Tests\SUBinaryDeltaTest.m,218,21.0,728.0
+bitbar,Go,D:\clones\bitbar\app\app.go,49,73.0,683.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUBasicUpdateDriver.m,101,46.0,486.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUBinaryDeltaCreate.m,97,16.0,474.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\BitBar\Plugin.m,153,33.0,458.0
+bitbar,C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Vendor\bsdiff\sais.c,30,51.0,453.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Tests\DateToolsTests\DateToolsTestsTests\DateToolsTests.m,119,140.0,434.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUUpdater.m,83,41.0,417.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Tests\DateToolsTests\DateToolsTestsTests\DTTimePeriodTests.m,117,118.0,399.0
+bitbar,Go,D:\clones\bitbar\pkg\metadata\plugin_metadata.go,31,66.0,388.0
+bitbar,Go,D:\clones\bitbar\pkg\plugins\plugin.go,30,84.0,341.0
+bitbar,Markdown,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\README.md,107,0.0,318.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\DateTools\DTTimePeriod.m,55,271.0,316.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Resources\SUModelTranslation.plist,0,0.0,314.0
+bitbar,Go,D:\clones\bitbar\tools\sitegen\docs.go,15,12.0,290.0
+bitbar,C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Vendor\bsdiff\bspatch.c,56,55.0,287.0
+bitbar,Go,D:\clones\bitbar\pkg\plugins\item_params_test.go,42,7.0,284.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\BitBarTests\PluginTest.m,113,12.0,277.0
+bitbar,Go,D:\clones\bitbar\pkg\plugins\plugin_test.go,51,11.0,271.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUAppcast.m,44,16.0,268.0
+bitbar,C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Vendor\bsdiff\bsdiff.c,51,89.0,266.0
+bitbar,Go,D:\clones\bitbar\app\plugins_service.go,21,27.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\da.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\de.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\el.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\en.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\es.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\fr.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\is.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\it.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\ja.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\ko.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\nb.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\nl.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\pl.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\pt_BR.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\pt_PT.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\ro.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\ru.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\sk.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\sl.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\sv.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\th.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\tr.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\uk.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\zh_TW.lproj\SUUpdateAlert.xib,0,0.0,261.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\ar.lproj\SUUpdateAlert.xib,0,0.0,260.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\TestApplication\English.lproj\MainMenu.xib,0,0.0,257.0
+bitbar,Go,D:\clones\bitbar\pkg\plugins\item_params.go,15,66.0,254.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\zh_CN.lproj\SUUpdateAlert.xib,0,0.0,249.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\cs.lproj\SUUpdateAlert.xib,0,0.0,248.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\InstalledPluginView.svelte,17,0.0,247.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\sv.lproj\SUUpdatePermissionPrompt.xib,1,0.0,241.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\es.lproj\SUUpdatePermissionPrompt.xib,1,0.0,240.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\nb.lproj\SUUpdatePermissionPrompt.xib,0,0.0,240.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\ru.lproj\SUUpdatePermissionPrompt.xib,1,0.0,240.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\sl.lproj\SUUpdatePermissionPrompt.xib,1,0.0,240.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\uk.lproj\SUUpdatePermissionPrompt.xib,1,0.0,240.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\ar.lproj\SUUpdatePermissionPrompt.xib,1,0.0,239.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\da.lproj\SUUpdatePermissionPrompt.xib,1,0.0,239.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\de.lproj\SUUpdatePermissionPrompt.xib,1,0.0,239.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\el.lproj\SUUpdatePermissionPrompt.xib,1,0.0,239.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\en.lproj\SUUpdatePermissionPrompt.xib,1,0.0,239.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\fr.lproj\SUUpdatePermissionPrompt.xib,1,0.0,239.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\is.lproj\SUUpdatePermissionPrompt.xib,1,0.0,239.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\it.lproj\SUUpdatePermissionPrompt.xib,1,0.0,239.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\ja.lproj\SUUpdatePermissionPrompt.xib,1,0.0,239.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\ko.lproj\SUUpdatePermissionPrompt.xib,1,0.0,239.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\nl.lproj\SUUpdatePermissionPrompt.xib,1,0.0,239.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\pl.lproj\SUUpdatePermissionPrompt.xib,1,0.0,239.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\pt_BR.lproj\SUUpdatePermissionPrompt.xib,1,0.0,239.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\pt_PT.lproj\SUUpdatePermissionPrompt.xib,1,0.0,239.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\ro.lproj\SUUpdatePermissionPrompt.xib,1,0.0,239.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\sk.lproj\SUUpdatePermissionPrompt.xib,1,0.0,239.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\th.lproj\SUUpdatePermissionPrompt.xib,1,0.0,239.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\zh_CN.lproj\SUUpdatePermissionPrompt.xib,1,0.0,239.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\zh_TW.lproj\SUUpdatePermissionPrompt.xib,1,0.0,239.0
+bitbar,Markdown,D:\clones\bitbar\archive\bitbar\README.md,90,0.0,239.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\tr.lproj\SUUpdatePermissionPrompt.xib,0,0.0,238.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUBinaryDeltaApply.m,37,14.0,233.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\BitBar\HTMLPlugin.m,47,18.0,231.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\BitBar\PluginManager.m,98,34.0,231.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUUpdateAlert.m,57,26.0,231.0
+bitbar,Swift,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Tests\SUFileManagerTest.swift,75,11.0,230.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUUIBasedUpdateDriver.m,46,19.0,225.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Tests\DateToolsTests\DateToolsTestsTests\DTTimePeriodCollectionTests.m,73,62.0,224.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\cs.lproj\SUUpdatePermissionPrompt.xib,1,0.0,224.0
+bitbar,Go,D:\clones\bitbar\pkg\update\update.go,13,29.0,213.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\AHProxySettings\AHProxySettings\AHProxySettings.m,44,33.0,211.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\TestApplication\SUTestWebServer.m,41,13.0,209.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\DateTools\DTTimePeriodCollection.m,45,118.0,207.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\STPrivilegedTask\STPrivilegedTask.m,77,182.0,202.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUBinaryDeltaCommon.m,36,8.0,200.0
+bitbar,HTML,D:\clones\bitbar\xbarapp.com\templates\_layout.html,0,2.0,199.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUHost.m,45,25.0,198.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Examples\DateToolsExample\DateToolsExample\Colours.h,70,228.0,191.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\Autoupdate\Autoupdate.m,55,30.0,191.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUBinaryDeltaTool.m,41,9.0,190.0
+bitbar,Go,D:\clones\bitbar\pkg\update\update_test.go,18,2.0,188.0
+bitbar,HTML,D:\clones\bitbar\xbarapp.com\templates\index.html,0,0.0,182.0
+bitbar,Go,D:\clones\bitbar\pkg\plugins\refresh_interval_test.go,14,3.0,178.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\BitBar\AppDelegate.m,65,24.0,176.0
+bitbar,Go,D:\clones\bitbar\pkg\plugins\parse_test.go,39,9.0,175.0
+bitbar,Go,D:\clones\bitbar\tools\sitegen\repo.go,9,11.0,173.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\App.svelte,17,0.0,170.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Examples\DateToolsExample\DateToolsExample\TimePeriodsViewController.xib,0,0.0,162.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUAutomaticUpdateDriver.m,42,21.0,159.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUCodeSigningVerifier.m,28,11.0,159.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Examples\DateToolsExample\DateToolsExample\DateToolsViewController.xib,0,0.0,157.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Tests\SUCodeSigningVerifierTest.m,30,8.0,156.0
+bitbar,Go,D:\clones\bitbar\pkg\plugins\refresh_interval.go,11,13.0,154.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUAppcastItem.m,25,21.0,150.0
+bitbar,Go,D:\clones\bitbar\pkg\metadata\plugin_metadata_test.go,32,21.0,150.0
+bitbar,HTML,D:\clones\bitbar\xbarapp.com\templates\article.html,0,0.0,147.0
+bitbar,Go,D:\clones\bitbar\pkg\plugins\colors.go,3,0.0,143.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\DateTools\NSDate+DateTools.h,17,21.0,142.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\TestApplication\SUTestApplicationDelegate.m,47,23.0,133.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\DateTools\DTTimePeriodChain.m,34,52.0,132.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUDiskImageUnarchiver.m,28,21.0,132.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUSystemProfiler.m,19,21.0,132.0
+bitbar,Go,D:\clones\bitbar\pkg\plugins\action.go,9,25.0,132.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Tests\DateToolsTests\DateToolsTestsTests\DTTimeAgoTests.m,37,9.0,129.0
+bitbar,Go,D:\clones\bitbar\app\menu_parser_test.go,18,1.0,128.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUInstaller.m,19,15.0,128.0
+bitbar,HTML,D:\clones\bitbar\xbarapp.com\templates\plugin.html,1,0.0,128.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUStandardVersionComparator.m,18,25.0,127.0
+bitbar,Go,D:\clones\bitbar\pkg\plugins\install.go,9,18.0,126.0
+bitbar,Go,D:\clones\bitbar\pkg\plugins\variables.go,9,11.0,125.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Examples\DateToolsExample\DateToolsExample\TimePeriodsViewController.m,44,21.0,123.0
+bitbar,Go,D:\clones\bitbar\pkg\plugins\installed_plugins_test.go,14,0.0,123.0
+bitbar,Go,D:\clones\bitbar\pkg\plugins\parse.go,7,13.0,123.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\BitBar.xcodeproj\xcshareddata\xcschemes\BitBar.xcscheme,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\ar.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\da.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\el.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\en.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\es.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\fr.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\is.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\it.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\ja.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\ko.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\nb.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\nl.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\pl.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\pt_BR.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\pt_PT.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\ro.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\ru.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\sk.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\sl.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\sv.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\th.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\tr.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\uk.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\zh_CN.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\zh_TW.lproj\SUAutomaticUpdateAlert.xib,0,0.0,122.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Vendor\CocoatechCore\NTSynchronousTask.m,33,14.0,122.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUDSAVerifier.m,28,16.0,121.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUUpdatePermissionPrompt.m,27,13.0,121.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUPlainInstaller.m,37,28.0,119.0
+bitbar,HTML,D:\clones\bitbar\xbarapp.com\templates\contributor.html,0,0.0,119.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\fileop\fileop.m,14,20.0,117.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUPipedUnarchiver.m,31,15.0,116.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\de.lproj\SUAutomaticUpdateAlert.xib,0,0.0,116.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\cs.lproj\SUAutomaticUpdateAlert.xib,0,0.0,114.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Examples\DateToolsExample\DateToolsExample.xcodeproj\xcshareddata\xcschemes\DateTools.xcscheme,0,0.0,110.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Tests\DateToolsTests\DateToolsTestsTests\DTTimePeriodChainTests.m,37,36.0,110.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\TestApplication\SUUpdateSettingsWindowController.xib,0,0.0,108.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\BitBar\ExecutablePlugin.m,43,16.0,107.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\BitBar\NSString+ANSI.m,23,12.0,105.0
+bitbar,HTML,D:\clones\bitbar\xbarapp.com\templates\category.html,0,0.0,105.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\DateTools\DTTimePeriodGroup.m,32,99.0,103.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle.xcodeproj\xcshareddata\xcschemes\Sparkle.xcscheme,0,0.0,100.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle.xcodeproj\xcshareddata\xcschemes\Distribution.xcscheme,0,0.0,99.0
+bitbar,Swift,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\CheckLocalizations.swift,16,0.0,99.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\elements\PluginCollection.svelte,8,0.0,96.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Tests\DateToolsTests\DateToolsTests.xcodeproj\xcshareddata\xcschemes\DateToolsTests.xcscheme,0,0.0,96.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\elements\Switch.svelte,9,0.0,94.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUStatus.xib,0,0.0,94.0
+bitbar,Go,D:\clones\bitbar\pkg\plugins\install_test.go,16,72.0,93.0
+bitbar,Go,D:\clones\bitbar\app\menu_parser.go,6,9.0,90.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUStatusController.m,21,11.0,88.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\BitBar.xcodeproj\xcshareddata\xcschemes\BitBarDistro.xcscheme,0,0.0,87.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\LaunchAtLoginController\LaunchAtLoginController.m,25,24.0,87.0
+bitbar,Markdown,D:\clones\bitbar\archive\bitbar\App\Vendor\STPrivilegedTask\README.md,31,0.0,85.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\AHProxySettings\AHProxySettings\AHProxy.m,13,21.0,82.0
+bitbar,CSS,D:\clones\bitbar\xbarapp.com\styles.css,9,6.0,81.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\DateTools\DTTimePeriod.h,16,27.0,80.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\PluginView.svelte,11,0.0,78.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\rpc.svelte,19,0.0,78.0
+bitbar,Go,D:\clones\bitbar\tools\sitegen\images.go,5,4.0,78.0
+bitbar,HTML,D:\clones\bitbar\xbarapp.com\templates\articles-index.html,0,0.0,78.0
+bitbar,JavaScript,D:\clones\bitbar\app\frontend\rollup.config.js,15,20.0,77.0
+bitbar,Go,D:\clones\bitbar\app\settings.go,9,3.0,77.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\AHProxySettings\AHProxySettings.xcodeproj\xcshareddata\xcschemes\AHProxySettings.xcscheme,0,0.0,77.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Examples\DateToolsExample\DateToolsExample\DateToolsViewController.m,20,17.0,77.0
+bitbar,Go,D:\clones\bitbar\pkg\plugins\installed_plugins.go,7,13.0,77.0
+bitbar,JavaScript,D:\clones\bitbar\app\frontend\src\backend\index.js,2,99.0,73.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\AHProxySettings\AHProxyExampe\AppDelegate.m,17,8.0,73.0
+bitbar,CSS,D:\clones\bitbar\app\frontend\src\styles.css,12,6.0,71.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Tests\DateToolsTests\DateToolsTestsTests\DTTimePeriodGroupTests.m,19,17.0,70.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUUpdater.h,99,201.0,70.0
+bitbar,Swift,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Tests\SUUnarchiverTest.swift,23,7.0,70.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUAutomaticUpdateAlert.m,13,7.0,69.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUUnarchiver.m,17,8.0,69.0
+bitbar,JSON,D:\clones\bitbar\archive\bitbar\App\BitBar\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,68.0
+bitbar,JSON,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Resources\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,68.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\PersonView.svelte,9,0.0,66.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\elements\PluginDetails.svelte,12,0.0,66.0
+bitbar,Bourne Shell,D:\clones\bitbar\app\package.sh,29,14.0,66.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Tests\DateToolsTests\DateToolsTests.xcodeproj\xcshareddata\xcschemes\DateToolsTestsTests.xcscheme,0,0.0,66.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\elements\VariableInput.svelte,8,0.0,65.0
+bitbar,Go,D:\clones\bitbar\xbarapp.com\main_test.go,9,0.0,65.0
+bitbar,Go,D:\clones\bitbar\app\main.go,5,2.0,64.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUUserInitiatedUpdateDriver.m,16,10.0,61.0
+bitbar,Go,D:\clones\bitbar\app\command_service.go,12,11.0,60.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\elements\Error.svelte,5,0.0,60.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Tests\SUDSAVerifierTest.m,19,7.0,59.0
+bitbar,Go,D:\clones\bitbar\pkg\plugins\variables_test.go,13,0.0,59.0
+bitbar,Markdown,D:\clones\bitbar\archive\bitbar\App\BitBar\CHANGELOG.md,23,0.0,58.0
+bitbar,JSON,D:\clones\bitbar\archive\bitbar\App\Vendor\AHProxySettings\AHProxyExampe\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,58.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Tests\SUUpdaterTest.m,12,7.0,58.0
+bitbar,HTML,D:\clones\bitbar\archive\bitbar\App\BitBar\incoming-url-tests.html,3,0.0,57.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle.xcodeproj\xcshareddata\xcschemes\UITests.xcscheme,0,0.0,56.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUBinaryDeltaCommon.h,16,12.0,56.0
+bitbar,Swift,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Tests\SUAppcastTest.swift,20,11.0,56.0
+bitbar,Go,D:\clones\bitbar\pkg\plugins\action_test.go,11,3.0,56.0
+bitbar,Swift,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\UITests\SUTestApplicationTest.swift,27,24.0,55.0
+bitbar,Go,D:\clones\bitbar\app\categories_service.go,6,5.0,54.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\elements\Variables.svelte,8,0.0,54.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\AHProxySettings\AHProxySettingsTests\AHProxySettingsTest.m,22,15.0,53.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUConstants.m,12,8.0,53.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Tests\SUVersionComparisonTest.m,12,13.0,53.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\elements\Duration.svelte,5,0.0,52.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\elements\Spinner.svelte,4,1.0,52.0
+bitbar,Markdown,D:\clones\bitbar\archive\bitbar\App\Vendor\LaunchAtLoginController\README.md,31,0.0,50.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\elements\Breadcrumbs.svelte,7,0.0,49.0
+bitbar,YAML,D:\clones\bitbar\archive\bitbar\.travis.yml,0,5.0,49.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUConstants.h,16,19.0,48.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Tests\SUInstallerTest.m,16,9.0,48.0
+bitbar,Go,D:\clones\bitbar\pkg\plugins\plugin_darwin.go,4,0.0,48.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\BitBar\BitBar-Info.plist,0,0.0,47.0
+bitbar,Markdown,D:\clones\bitbar\xbarapp.com\articles\2021\03\14\Variables-in-xbar.md,23,0.0,47.0
+bitbar,Go,D:\clones\bitbar\app\person_service.go,6,4.0,46.0
+bitbar,Go,D:\clones\bitbar\pkg\metadata\categories_metadata.go,7,5.0,46.0
+bitbar,Markdown,D:\clones\bitbar\talk-overview.md,4,0.0,45.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\STPrivilegedTask\PrivilegedTaskExample\PrivilegedTaskExample\AppDelegate.m,19,30.0,44.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUOperatingSystem.m,7,7.0,44.0
+bitbar,JSON,D:\clones\bitbar\pkg\plugins\testdata\stub-api\currency-tracker.1h.py.json,0,0.0,44.0
+bitbar,Markdown,D:\clones\bitbar\app\README.md,23,0.0,43.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Examples\DateToolsExample\DateToolsExample\AppDelegate.m,17,18.0,43.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUBinaryDeltaUnarchiver.m,8,7.0,43.0
+bitbar,YAML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\.clang-format,0,3.0,42.0
+bitbar,C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Vendor\bsdiff\bscommon.c,12,8.0,42.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\BitBar.xcodeproj\project.xcworkspace\xcshareddata\BitBar.xccheckout,0,0.0,41.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Tests\Resources\testappcast.xml,1,3.0,41.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Tests\DateToolsTests\DateToolsTests\DateToolsTests-Info.plist,0,0.0,40.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\NSStringEmojize\NSStringEmojize\NSString+Emojize.m,8,7.0,39.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\TestApplication\TestApplication-Info.plist,0,0.0,39.0
+bitbar,HTML,D:\clones\bitbar\xbarapp.com\templates\contributors.html,0,0.0,39.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\Homepage.svelte,4,0.0,38.0
+bitbar,Markdown,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\CREDITS.md,36,0.0,38.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\NSStringEmojize\Example\NSStringEmojize\NSStringEmojize-Info.plist,0,0.0,38.0
+bitbar,Markdown,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\README.markdown,15,0.0,38.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUUpdateDriver.m,14,8.0,38.0
+bitbar,JSON,D:\clones\bitbar\app\frontend\package.json,0,0.0,37.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\BitBarTests\PluginManagerTest.m,22,8.0,37.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUScheduledUpdateDriver.m,14,9.0,37.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Examples\DateToolsExample\DateToolsExample\DateToolsExample-Info.plist,0,0.0,36.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\STPrivilegedTask\STPrivilegedTask.h,4,41.0,36.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Resources\SampleAppcast.xml,2,1.0,36.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUBasicUpdateDriver.h,13,7.0,36.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\PluginsList.svelte,8,0.0,35.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUHost.h,6,6.0,35.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\BitBar\NSColor+Hex.m,11,7.0,34.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\AHProxySettings\AHProxyExampe\Info.plist,0,0.0,34.0
+bitbar,Markdown,D:\clones\bitbar\archive\bitbar\App\Vendor\AHProxySettings\README.md,11,0.0,34.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Tests\DateToolsTests\DateToolsTests\ViewController.m,9,11.0,34.0
+bitbar,make,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Makefile,8,0.0,34.0
+bitbar,Markdown,D:\clones\bitbar\app\build\README.md,15,0.0,33.0
+bitbar,Go,D:\clones\bitbar\tools\xbarmdcheck\main.go,4,0.0,33.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\DateTools\DTTimePeriodGroup.h,8,22.0,32.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\STPrivilegedTask\PrivilegedTaskExample\PrivilegedTaskExample\Info.plist,0,0.0,32.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\Autoupdate\Autoupdate-Info.plist,0,0.0,32.0
+bitbar,Go,D:\clones\bitbar\xbarapp.com\main.go,4,0.0,32.0
+bitbar,Markdown,D:\clones\bitbar\README.md,22,0.0,31.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\elements\PluginSourceBrowser.svelte,4,0.0,31.0
+bitbar,Go,D:\clones\bitbar\app\incoming_urls.go,4,3.0,30.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\BitBar\Plugin.h,10,9.0,30.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Examples\DateToolsExample\DateToolsExample\ExampleNavigationController.m,10,10.0,30.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUAppcastItem.h,9,9.0,30.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SULog.m,15,33.0,30.0
+bitbar,Go,D:\clones\bitbar\tools\sitegen\repo_test.go,3,1.0,30.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Tests\DateToolsTests\DateToolsTests\Base.lproj\Main.storyboard,0,1.0,29.0
+bitbar,Ruby,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle.podspec,2,0.0,29.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUErrors.h,9,15.0,29.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\BitBar\NSUserDefaults+Settings.m,10,7.0,28.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\DateTools\DTError.m,13,31.0,28.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\NSStringEmojize\Example\NSStringEmojize\DIYAppDelegate.m,11,15.0,28.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\Sparkle-Info.plist,0,0.0,28.0
+bitbar,Go,D:\clones\bitbar\pkg\plugins\plugin_linux.go,6,2.0,28.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\DateTools\DTTimePeriodCollection.h,8,21.0,27.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\elements\Button.svelte,7,0.0,26.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Examples\DateToolsExample\DateTools\Info.plist,0,0.0,26.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Tests\SparkleTests-Info.plist,0,0.0,26.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\waiters.svelte,10,0.0,25.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\AHProxySettings\AHProxySettings\NSTask+useSystemProxies.m,6,23.0,25.0
+bitbar,Bourne Shell,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Configurations\make-release-package.sh,5,4.0,25.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\BitBarTests\BitBarTests-Info.plist,0,0.0,24.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\AHProxySettings\AHProxySettingsTests\Info.plist,0,0.0,24.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\UITests\UITests-Info.plist,0,0.0,24.0
+bitbar,Go,D:\clones\bitbar\pkg\plugins\plugin_windows.go,6,1.0,24.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\elements\KeyboardShortcuts.svelte,3,0.0,23.0
+bitbar,JavaScript,D:\clones\bitbar\app\frontend\tailwind.config.js,3,0.0,23.0
+bitbar,JSON,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Tests\DateToolsTests\DateToolsTests\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,23.0
+bitbar,JSON,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Tests\DateToolsTests\DateToolsTests\Images.xcassets\LaunchImage.launchimage\Contents.json,0,0.0,23.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\TestApplication\sparkletestcast.xml,0,0.0,23.0
+bitbar,Markdown,D:\clones\bitbar\pkg\plugins\README.md,6,0.0,23.0
+bitbar,Go,D:\clones\bitbar\pkg\update\updatetest\main.go,4,0.0,23.0
+bitbar,JavaScript,D:\clones\bitbar\app\frontend\src\main.js,4,0.0,22.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Tests\DateToolsTests\DateToolsTests\AppDelegate.m,9,15.0,22.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Tests\DateToolsTests\DateToolsTestsTests\DateToolsTestsTests-Info.plist,0,0.0,22.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\NSStringEmojize\Example\NSStringEmojizeTests\NSStringEmojizeTests-Info.plist,0,0.0,22.0
+bitbar,Markdown,D:\clones\bitbar\archive\bitbar\App\Vendor\NSStringEmojize\README.md,9,0.0,22.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUPackageInstaller.m,7,12.0,22.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUProbingUpdateDriver.m,9,8.0,22.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\pagedata.svelte,7,0.0,21.0
+bitbar,Go,D:\clones\bitbar\app\incoming_urls_test.go,8,0.0,21.0
+bitbar,Go,D:\clones\bitbar\app\settings_test.go,8,0.0,21.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\DateTools\DTTimePeriodChain.h,7,21.0,21.0
+bitbar,Bourne Shell,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Configurations\set-git-version-info.sh,5,2.0,21.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Tests\Sparkle Unit Tests-Bridging-Header.h,12,4.0,21.0
+bitbar,HTML,D:\clones\bitbar\app\frontend\public\index.html,0,0.0,20.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUUnarchiver.h,9,7.0,20.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUUpdateAlert.h,10,7.0,20.0
+bitbar,Bourne Again Shell,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\bin\generate_keys,4,0.0,20.0
+bitbar,Markdown,D:\clones\bitbar\xbarapp.com\articles\2021\03\13\Upgrade-legacy-BitBar-plugins.md,13,0.0,20.0
+bitbar,JavaScript,D:\clones\bitbar\xbarapp.com\tailwind.config.js,0,0.0,20.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\AHProxySettings\AHProxySettings\AHProxySettings.h,14,77.0,19.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUGuidedPackageInstaller.m,8,7.0,19.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Vendor\bsdiff\sais.h,10,30.0,19.0
+bitbar,Go,D:\clones\bitbar\app\categories_service_test.go,5,0.0,18.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\BitBar\PluginManager.h,8,7.0,18.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\BitBarTests\PluginManager+Test.m,6,8.0,18.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUUpdatePermissionPrompt.h,8,7.0,18.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Tests\Resources\testnamespaces.xml,0,0.0,18.0
+bitbar,Markdown,D:\clones\bitbar\archive\bitbar\Docs\URLScheme.md,13,0.0,18.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\BitBar\App.xib,0,0.0,17.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\BitBar\Base.lproj\MainMenu.xib,0,0.0,17.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUAppcast.h,7,7.0,17.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUUpdateDriver.h,10,7.0,17.0
+bitbar,Markdown,D:\clones\bitbar\archive\bitbar\Docs\DistributingBitBar.md,11,0.0,17.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\AHProxySettings\AHProxySettings\AHProxy.h,10,60.0,16.0
+bitbar,Ruby,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\DateTools.podspec,5,0.0,16.0
+bitbar,Ruby,D:\clones\bitbar\archive\bitbar\App\Vendor\STPrivilegedTask\STPrivilegedTask.podspec,0,0.0,16.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUAutomaticUpdateAlert.h,7,7.0,16.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUFileManager.h,16,139.0,16.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUStatusController.h,9,10.0,16.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\TestApplication\SUUpdateSettingsWindowController.m,9,7.0,16.0
+bitbar,Go,D:\clones\bitbar\pkg\metadata\categories_metadata_test.go,7,3.0,16.0
+bitbar,Markdown,D:\clones\bitbar\xbarapp.com\README.md,8,0.0,16.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\BitBar\HTMLPlugin.h,9,8.0,15.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\AHProxySettings\AHProxyExampe\AppDelegate.h,8,7.0,15.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUDSAVerifier.h,9,13.0,15.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\Sparkle.h,5,9.0,15.0
+bitbar,Markdown,D:\clones\bitbar\tools\sitegen\README.md,8,0.0,15.0
+bitbar,Bourne Shell,D:\clones\bitbar\app\test.sh,7,4.0,14.0
+bitbar,Ruby,D:\clones\bitbar\archive\bitbar\App\Vendor\AHProxySettings\AHProxySettings.podspec,0,0.0,14.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\NSStringEmojize\Example\NSStringEmojize\DIYViewController.m,6,7.0,14.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\NSStringEmojize\Example\NSStringEmojizeTests\NSStringEmojizeTests.m,6,7.0,14.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUPlainInstaller.h,9,7.0,14.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUStandardVersionComparator.h,8,20.0,14.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUUnarchiver_Private.h,5,7.0,14.0
+bitbar,YAML,D:\clones\bitbar\xbarapp.com\app.yaml,1,0.0,14.0
+bitbar,JSON,D:\clones\bitbar\xbarapp.com\package.json,0,0.0,14.0
+bitbar,Ruby,D:\clones\bitbar\archive\bitbar\App\Vendor\NSStringEmojize\NSStringEmojize.podspec,1,0.0,13.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\DateTools\DTConstants.h,2,21.0,12.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\DateTools\DTError.h,5,21.0,12.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUUIBasedUpdateDriver.h,7,7.0,12.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUVersionComparisonProtocol.h,7,15.0,12.0
+bitbar,JSON,D:\clones\bitbar\app\frontend\src\backend\package.json,0,0.0,11.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\elements\A.svelte,0,0.0,11.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\DateTools\DTConstants.m,1,21.0,11.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUInstaller.h,6,7.0,11.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUPackageInstaller.h,6,7.0,11.0
+bitbar,Bourne Shell,D:\clones\bitbar\tools\sitegen\run.sh,3,2.0,11.0
+bitbar,Markdown,D:\clones\bitbar\archive\bitbar\App\Vendor\NSStringEmojize\LICENSE.md,3,0.0,10.0
+bitbar,Bourne Shell,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Documentation\build-docs.sh,1,0.0,10.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUCodeSigningVerifier.h,4,7.0,10.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Vendor\CocoatechCore\NTSynchronousTask.h,7,9.0,10.0
+bitbar,make,D:\clones\bitbar\archive\bitbar\Makefile,5,0.0,10.0
+bitbar,Bourne Shell,D:\clones\bitbar\pkg\plugins\testdata\broken-plugins\wont-quit.1m.sh,3,0.0,10.0
+bitbar,JSON,D:\clones\bitbar\app\wails.json,0,0.0,9.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUGuidedPackageInstaller.h,10,16.0,9.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUSystemProfiler.h,4,7.0,9.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUVersionDisplayProtocol.h,5,15.0,9.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUWindowController.m,4,7.0,9.0
+bitbar,Bourne Shell,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\bin\sign_update,0,0.0,9.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\fileop\SUFileOperationConstants.m,2,7.0,9.0
+bitbar,JavaScript,D:\clones\bitbar\xbarapp.com\postcss.config.js,0,0.0,9.0
+bitbar,Bourne Shell,D:\clones\bitbar\app\build.sh,3,0.0,8.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\BitBar.xcodeproj\project.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist,0,0.0,8.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Examples\DateToolsExample\DateToolsExample\main.m,3,7.0,8.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Tests\DateToolsTests\DateToolsTests\main.m,3,7.0,8.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\NSStringEmojize\Example\NSStringEmojize\main.m,3,7.0,8.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUAutomaticUpdateDriver.h,5,7.0,8.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUExport.h,3,7.0,8.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUWindowController.h,4,8.0,8.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\fileop\SUFileOperationConstants.h,1,7.0,8.0
+bitbar,Bourne Shell,D:\clones\bitbar\pkg\plugins\testdata\plugins\expanded.1m.sh,2,1.0,8.0
+bitbar,Bourne Shell,D:\clones\bitbar\pkg\plugins\testdata\plugins\expanded.1s.sh,3,2.0,8.0
+bitbar,Bourne Shell,D:\clones\bitbar\xbarapp.com\deploy.sh,3,0.0,8.0
+bitbar,Go,D:\clones\bitbar\xbarapp.com\download.go,2,3.0,8.0
+bitbar,JavaScript,D:\clones\bitbar\app\frontend\postcss.config.js,0,0.0,7.0
+bitbar,Svelte,D:\clones\bitbar\app\frontend\src\signals.svelte,4,0.0,7.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\BitBar.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\BitBar\NSUserDefaults+Settings.h,5,7.0,7.0
+bitbar,Bourne Shell,D:\clones\bitbar\archive\bitbar\App\BitBarTests\TestPlugins\three.7d.sh,2,5.0,7.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\AHProxySettings\AHProxySettings.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\DateTools\DateTools.h,1,21.0,7.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Examples\DateToolsExample\DateToolsExample.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Tests\DateToolsTests\DateToolsTests.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\NSStringEmojize\Example\NSStringEmojize.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\STPrivilegedTask\PrivilegedTaskExample\PrivilegedTaskExample\AppDelegate.h,6,27.0,7.0
+bitbar,YAML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\.travis.yml,0,0.0,7.0
+bitbar,XML,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUBinaryDeltaUnarchiver.h,5,7.0,7.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUDiskImageUnarchiver.h,5,7.0,7.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUPipedUnarchiver.h,5,7.0,7.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUProbingUpdateDriver.h,4,8.0,7.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUScheduledUpdateDriver.h,5,7.0,7.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUUserInitiatedUpdateDriver.h,5,7.0,7.0
+bitbar,Bourne Again Shell,D:\clones\bitbar\archive\bitbar\Scripts\bitbar-bundler,5,2.0,7.0
+bitbar,JSON,D:\clones\bitbar\app\package-lock.json,0,0.0,6.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\BitBar\ExecutablePlugin.h,5,7.0,6.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\BitBarTests\PluginManager+Test.h,4,7.0,6.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\LaunchAtLoginController\LaunchAtLoginController.h,5,24.0,6.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\NSStringEmojize\NSStringEmojize\NSString+Emojize.h,4,8.0,6.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUBinaryDeltaCreate.h,4,7.0,6.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SULog.h,8,18.0,6.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUOperatingSystem.h,4,6.0,6.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Vendor\bsdiff\bscommon.h,4,6.0,6.0
+bitbar,Markdown,D:\clones\bitbar\tools\xbarmdcheck\README.md,3,0.0,6.0
+bitbar,JSON,D:\clones\bitbar\.vscode\settings.json,0,0.0,5.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\BitBar\NSColor+Hex.h,4,7.0,5.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\BitBar\NSString+ANSI.h,4,7.0,5.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\AHProxySettings\AHProxySettings\NSTask+useSystemProxies.h,3,34.0,5.0
+bitbar,YAML,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\.travis.yml,2,0.0,5.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Examples\DateToolsExample\DateToolsExample\AppDelegate.h,3,7.0,5.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUBinaryDeltaApply.h,3,7.0,5.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\TestApplication\SUTestWebServer.h,5,7.0,5.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\TestApplication\main.m,2,7.0,5.0
+bitbar,Bourne Again Shell,D:\clones\bitbar\pkg\plugins\testdata\plugins\simple.1m.sh.disabled,2,1.0,5.0
+bitbar,Bourne Shell,D:\clones\bitbar\xbarapp.com\build.sh,2,0.0,5.0
+bitbar,Bourne Shell,D:\clones\bitbar\archive\bitbar\App\BitBarTests\TestPlugins\two.5m.sh,2,5.0,4.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\AHProxySettings\AHProxyExampe\main.m,2,7.0,4.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Tests\DateToolsTests\DateToolsTests\AppDelegate.h,4,7.0,4.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\NSStringEmojize\Example\NSStringEmojize\DIYAppDelegate.h,4,7.0,4.0
+bitbar,Objective-C,D:\clones\bitbar\archive\bitbar\App\Vendor\STPrivilegedTask\PrivilegedTaskExample\PrivilegedTaskExample\main.m,2,7.0,4.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Sparkle\SUUpdater_Private.h,4,7.0,4.0
+bitbar,Bourne Shell,D:\clones\bitbar\pkg\plugins\testdata\plugins\params.3s.sh,2,1.0,4.0
+bitbar,Bourne Shell,D:\clones\bitbar\pkg\plugins\testdata\plugins\simple.1s.sh,2,1.0,4.0
+bitbar,Bourne Shell,D:\clones\bitbar\pkg\plugins\testdata\vars-test\plugin.sh,2,3.0,4.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Examples\DateToolsExample\DateToolsExample\DateToolsViewController.h,3,7.0,3.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Examples\DateToolsExample\DateToolsExample\ExampleNavigationController.h,3,7.0,3.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Examples\DateToolsExample\DateToolsExample\TimePeriodsViewController.h,3,7.0,3.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\DateTools\Tests\DateToolsTests\DateToolsTests\ViewController.h,3,7.0,3.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\NSStringEmojize\Example\NSStringEmojize\DIYViewController.h,3,7.0,3.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\NSStringEmojize\Example\NSStringEmojizeTests\NSStringEmojizeTests.h,3,7.0,3.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\TestApplication\SUTestApplicationDelegate.h,3,7.0,3.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\TestApplication\SUUpdateSettingsWindowController.h,3,7.0,3.0
+bitbar,Bourne Shell,D:\clones\bitbar\pkg\plugins\testdata\broken-plugins\broken.1m.sh,1,0.0,3.0
+bitbar,JSON,D:\clones\bitbar\pkg\plugins\testdata\plugins\001-multiple.1s.sh.vars.json,0,0.0,3.0
+bitbar,JSON,D:\clones\bitbar\pkg\plugins\testdata\vars-test\plugin.sh.vars.json,0,0.0,3.0
+bitbar,Markdown,D:\clones\bitbar\pkg\update\README.md,2,0.0,3.0
+bitbar,Bourne Shell,D:\clones\bitbar\xbarapp.com\gen.sh,1,1.0,3.0
+bitbar,Bourne Shell,D:\clones\bitbar\xbarapp.com\run.sh,1,0.0,3.0
+bitbar,Bourne Shell,D:\clones\bitbar\archive\bitbar\App\BitBarTests\TestPlugins\one.10s.sh,2,5.0,2.0
+bitbar,Bourne Shell,D:\clones\bitbar\pkg\plugins\testdata\plugins\001-multiple.1s.sh,0,0.0,2.0
+bitbar,Bourne Shell,D:\clones\bitbar\pkg\plugins\testdata\plugins\002-multiple.1s.sh,0,0.0,2.0
+bitbar,CSS,D:\clones\bitbar\xbarapp.com\public\css\xbar.css,2,1.0,2.0
+bitbar,YAML,D:\clones\bitbar\.github\FUNDING.yml,0,0.0,1.0
+bitbar,JSON,D:\clones\bitbar\app\package.json,0,0.0,1.0
+bitbar,C/C++ Header,D:\clones\bitbar\archive\bitbar\App\Vendor\Sparkle\Vendor\bsdiff\bspatch.h,1,10.0,1.0
+bitbar,Bourne Again Shell,D:\clones\bitbar\pkg\plugins\testdata\plugins\expanded.1m.sh.off,1,1.0,1.0
+bitbar,Bourne Shell,D:\clones\bitbar\tools\xbarmdcheck\testdata\sample-plugin.sh,1,16.0,0.0

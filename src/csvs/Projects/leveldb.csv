@@ -1,0 +1,146 @@
+project,language,filename,blank,comment,code
+leveldb,C++,D:\clones\leveldb\db\db_test.cc,284,155.0,1858.0
+leveldb,C++,D:\clones\leveldb\db\db_impl.cc,159,143.0,1257.0
+leveldb,C++,D:\clones\leveldb\db\version_set.cc,161,193.0,1215.0
+leveldb,C++,D:\clones\leveldb\benchmarks\db_bench.cc,118,80.0,892.0
+leveldb,C++,D:\clones\leveldb\table\table_test.cc,106,32.0,691.0
+leveldb,C++,D:\clones\leveldb\util\env_posix.cc,132,117.0,677.0
+leveldb,C++,D:\clones\leveldb\util\env_windows.cc,119,74.0,623.0
+leveldb,C++,D:\clones\leveldb\benchmarks\db_bench_sqlite3.cc,87,69.0,570.0
+leveldb,C++,D:\clones\leveldb\db\c.cc,92,10.0,463.0
+leveldb,C++,D:\clones\leveldb\db\fault_injection_test.cc,75,27.0,448.0
+leveldb,C++,D:\clones\leveldb\db\log_test.cc,85,31.0,442.0
+leveldb,C++,D:\clones\leveldb\benchmarks\db_bench_tree_db.cc,54,46.0,431.0
+leveldb,HTML,D:\clones\leveldb\doc\benchmark.html,39,0.0,420.0
+leveldb,Markdown,D:\clones\leveldb\doc\index.md,109,0.0,415.0
+leveldb,CMake,D:\clones\leveldb\CMakeLists.txt,55,49.0,411.0
+leveldb,C++,D:\clones\leveldb\db\repair.cc,39,54.0,358.0
+leveldb,C,D:\clones\leveldb\db\c_test.c,44,11.0,329.0
+leveldb,C++,D:\clones\leveldb\util\crc32c.cc,30,28.0,322.0
+leveldb,C++,D:\clones\leveldb\helpers\memenv\memenv.cc,76,14.0,300.0
+leveldb,C++,D:\clones\leveldb\util\cache.cc,49,53.0,299.0
+leveldb,C++,D:\clones\leveldb\db\corruption_test.cc,46,19.0,297.0
+leveldb,C++,D:\clones\leveldb\db\version_set_test.cc,44,3.0,284.0
+leveldb,C++,D:\clones\leveldb\db\recovery_test.cc,40,14.0,280.0
+leveldb,C++,D:\clones\leveldb\db\skiplist_test.cc,50,49.0,269.0
+leveldb,C++,D:\clones\leveldb\db\db_iter.cc,35,29.0,254.0
+leveldb,C++,D:\clones\leveldb\util\histogram.cc,15,6.0,251.0
+leveldb,C/C++ Header,D:\clones\leveldb\db\skiplist.h,57,89.0,234.0
+leveldb,C++,D:\clones\leveldb\util\env_posix_test.cc,61,58.0,234.0
+leveldb,C++,D:\clones\leveldb\db\version_edit.cc,26,7.0,225.0
+leveldb,C++,D:\clones\leveldb\table\block.cc,33,39.0,220.0
+leveldb,C++,D:\clones\leveldb\table\table.cc,29,22.0,220.0
+leveldb,C++,D:\clones\leveldb\table\table_builder.cc,34,30.0,201.0
+leveldb,C++,D:\clones\leveldb\db\log_reader.cc,35,39.0,200.0
+leveldb,C++,D:\clones\leveldb\db\dumpfile.cc,21,14.0,197.0
+leveldb,C++,D:\clones\leveldb\helpers\memenv\memenv_test.cc,48,19.0,192.0
+leveldb,C++,D:\clones\leveldb\util\env_test.cc,40,7.0,186.0
+leveldb,C/C++ Header,D:\clones\leveldb\db\version_set.h,85,124.0,184.0
+leveldb,C/C++ Header,D:\clones\leveldb\include\leveldb\env.h,60,176.0,181.0
+leveldb,C++,D:\clones\leveldb\util\cache_test.cc,40,11.0,173.0
+leveldb,Markdown,D:\clones\leveldb\README.md,65,0.0,171.0
+leveldb,C++,D:\clones\leveldb\util\coding_test.cc,24,7.0,162.0
+leveldb,C/C++ Header,D:\clones\leveldb\include\leveldb\c.h,57,55.0,158.0
+leveldb,C++,D:\clones\leveldb\table\merger.cc,25,19.0,147.0
+leveldb,C++,D:\clones\leveldb\table\two_level_iterator.cc,25,10.0,136.0
+leveldb,C++,D:\clones\leveldb\util\coding.cc,16,6.0,134.0
+leveldb,C/C++ Header,D:\clones\leveldb\db\db_impl.h,48,36.0,133.0
+leveldb,Markdown,D:\clones\leveldb\doc\impl.md,44,0.0,128.0
+leveldb,C/C++ Header,D:\clones\leveldb\db\dbformat.h,47,52.0,125.0
+leveldb,C++,D:\clones\leveldb\util\bloom_test.cc,25,7.0,122.0
+leveldb,C++,D:\clones\leveldb\db\write_batch_test.cc,12,3.0,117.0
+leveldb,C++,D:\clones\leveldb\table\format.cc,15,12.0,114.0
+leveldb,C++,D:\clones\leveldb\util\logging_test.cc,24,3.0,113.0
+leveldb,C++,D:\clones\leveldb\db\write_batch.cc,24,15.0,111.0
+leveldb,C/C++ Header,D:\clones\leveldb\port\port_stdcxx.h,27,13.0,111.0
+leveldb,C++,D:\clones\leveldb\db\filename.cc,18,15.0,108.0
+leveldb,C++,D:\clones\leveldb\db\filename_test.cc,16,5.0,106.0
+leveldb,C++,D:\clones\leveldb\db\dbformat.cc,17,15.0,104.0
+leveldb,C++,D:\clones\leveldb\issues\issue320_test.cc,22,4.0,100.0
+leveldb,C++,D:\clones\leveldb\db\table_cache.cc,16,5.0,99.0
+leveldb,C++,D:\clones\leveldb\db\memtable.cc,18,23.0,97.0
+leveldb,C++,D:\clones\leveldb\db\dbformat_test.cc,24,8.0,96.0
+leveldb,C++,D:\clones\leveldb\table\filter_block_test.cc,20,12.0,90.0
+leveldb,Markdown,D:\clones\leveldb\doc\table_format.md,24,0.0,83.0
+leveldb,YAML,D:\clones\leveldb\.github\workflows\build.yml,13,6.0,82.0
+leveldb,C++,D:\clones\leveldb\util\env.cc,21,5.0,82.0
+leveldb,C++,D:\clones\leveldb\db\log_writer.cc,19,12.0,80.0
+leveldb,C/C++ Header,D:\clones\leveldb\util\posix_logger.h,22,28.0,80.0
+leveldb,C++,D:\clones\leveldb\db\autocompact_test.cc,18,13.0,79.0
+leveldb,C/C++ Header,D:\clones\leveldb\db\version_edit.h,20,7.0,79.0
+leveldb,C++,D:\clones\leveldb\table\filter_block.cc,18,10.0,78.0
+leveldb,C/C++ Header,D:\clones\leveldb\port\thread_annotations.h,25,6.0,77.0
+leveldb,C/C++ Header,D:\clones\leveldb\util\windows_logger.h,21,27.0,76.0
+leveldb,C/C++ Header,D:\clones\leveldb\util\coding.h,22,28.0,72.0
+leveldb,C/C++ Header,D:\clones\leveldb\table\iterator_wrapper.h,10,11.0,71.0
+leveldb,C++,D:\clones\leveldb\benchmarks\db_bench_log.cc,19,3.0,70.0
+leveldb,C/C++ Header,D:\clones\leveldb\include\leveldb\status.h,23,29.0,70.0
+leveldb,C++,D:\clones\leveldb\util\status.cc,8,3.0,66.0
+leveldb,C++,D:\clones\leveldb\db\builder.cc,12,8.0,62.0
+leveldb,C++,D:\clones\leveldb\util\bloom.cc,17,13.0,62.0
+leveldb,C++,D:\clones\leveldb\table\block_builder.cc,13,33.0,61.0
+leveldb,C/C++ Header,D:\clones\leveldb\db\snapshot.h,19,16.0,60.0
+leveldb,C++,D:\clones\leveldb\table\iterator.cc,13,3.0,60.0
+leveldb,C/C++ Header,D:\clones\leveldb\include\leveldb\slice.h,24,31.0,59.0
+leveldb,C++,D:\clones\leveldb\util\logging.cc,16,7.0,59.0
+leveldb,C++,D:\clones\leveldb\util\comparator.cc,13,7.0,55.0
+leveldb,Markdown,D:\clones\leveldb\doc\log_format.md,21,0.0,54.0
+leveldb,C++,D:\clones\leveldb\issues\issue178_test.cc,16,15.0,54.0
+leveldb,C++,D:\clones\leveldb\db\leveldbutil.cc,8,3.0,53.0
+leveldb,C/C++ Header,D:\clones\leveldb\util\testutil.h,15,14.0,53.0
+leveldb,C/C++ Header,D:\clones\leveldb\include\leveldb\db.h,27,88.0,52.0
+leveldb,C/C++ Header,D:\clones\leveldb\table\format.h,25,22.0,52.0
+leveldb,C++,D:\clones\leveldb\util\arena.cc,11,7.0,48.0
+leveldb,C++,D:\clones\leveldb\util\arena_test.cc,7,6.0,48.0
+leveldb,C/C++ Header,D:\clones\leveldb\db\log_reader.h,23,43.0,46.0
+leveldb,C++,D:\clones\leveldb\util\env_windows_test.cc,11,8.0,46.0
+leveldb,C/C++ Header,D:\clones\leveldb\db\memtable.h,20,22.0,45.0
+leveldb,C/C++ Header,D:\clones\leveldb\include\leveldb\options.h,33,109.0,45.0
+leveldb,C/C++ Header,D:\clones\leveldb\include\leveldb\iterator.h,22,49.0,41.0
+leveldb,C/C++ Header,D:\clones\leveldb\table\filter_block.h,14,14.0,40.0
+leveldb,C/C++ Header,D:\clones\leveldb\util\arena.h,16,16.0,39.0
+leveldb,C++,D:\clones\leveldb\util\crc32c_test.cc,13,4.0,39.0
+leveldb,C++,D:\clones\leveldb\util\hash.cc,9,9.0,37.0
+leveldb,C/C++ Header,D:\clones\leveldb\include\leveldb\table.h,18,30.0,36.0
+leveldb,C++,D:\clones\leveldb\util\testutil.cc,9,6.0,36.0
+leveldb,C++,D:\clones\leveldb\issues\issue200_test.cc,11,8.0,35.0
+leveldb,C/C++ Header,D:\clones\leveldb\db\filename.h,19,31.0,33.0
+leveldb,C/C++ Header,D:\clones\leveldb\include\leveldb\table_builder.h,20,40.0,33.0
+leveldb,C/C++ Header,D:\clones\leveldb\port\port_example.h,22,46.0,32.0
+leveldb,C++,D:\clones\leveldb\util\hash_test.cc,6,3.0,32.0
+leveldb,C/C++ Header,D:\clones\leveldb\db\table_cache.h,15,15.0,31.0
+leveldb,C/C++ Header,D:\clones\leveldb\include\leveldb\write_batch.h,19,33.0,31.0
+leveldb,C++,D:\clones\leveldb\db\version_edit_test.cc,8,3.0,30.0
+leveldb,C/C++ Header,D:\clones\leveldb\util\no_destructor.h,10,6.0,30.0
+leveldb,C/C++ Header,D:\clones\leveldb\util\random.h,10,24.0,29.0
+leveldb,C/C++ Header,D:\clones\leveldb\util\histogram.h,13,3.0,28.0
+leveldb,C++,D:\clones\leveldb\util\no_destructor_test.cc,12,4.0,28.0
+leveldb,C/C++ Header,D:\clones\leveldb\include\leveldb\cache.h,20,56.0,27.0
+leveldb,C/C++ Header,D:\clones\leveldb\table\block_builder.h,15,12.0,27.0
+leveldb,C/C++ Header,D:\clones\leveldb\db\log_writer.h,16,12.0,26.0
+leveldb,C/C++ Header,D:\clones\leveldb\table\block.h,14,4.0,26.0
+leveldb,C++,D:\clones\leveldb\util\status_test.cc,11,4.0,24.0
+leveldb,Markdown,D:\clones\leveldb\CONTRIBUTING.md,9,0.0,22.0
+leveldb,C/C++ Header,D:\clones\leveldb\include\leveldb\export.h,8,3.0,22.0
+leveldb,C/C++ Header,D:\clones\leveldb\db\write_batch_internal.h,15,10.0,20.0
+leveldb,C/C++ Header,D:\clones\leveldb\util\crc32c.h,10,14.0,19.0
+leveldb,C/C++ Header,D:\clones\leveldb\include\leveldb\comparator.h,14,32.0,18.0
+leveldb,C/C++ Header,D:\clones\leveldb\util\mutexlock.h,9,12.0,18.0
+leveldb,C/C++ Header,D:\clones\leveldb\db\log_format.h,9,9.0,17.0
+leveldb,C/C++ Header,D:\clones\leveldb\include\leveldb\filter_policy.h,12,43.0,17.0
+leveldb,C/C++ Header,D:\clones\leveldb\util\logging.h,12,16.0,16.0
+leveldb,C/C++ Header,D:\clones\leveldb\db\builder.h,8,8.0,14.0
+leveldb,C/C++ Header,D:\clones\leveldb\db\db_iter.h,8,6.0,12.0
+leveldb,C/C++ Header,D:\clones\leveldb\table\two_level_iterator.h,7,12.0,12.0
+leveldb,C/C++ Header,D:\clones\leveldb\util\env_posix_test_helper.h,8,8.0,12.0
+leveldb,C/C++ Header,D:\clones\leveldb\util\env_windows_test_helper.h,7,6.0,12.0
+leveldb,YAML,D:\clones\leveldb\.clang-format,1,6.0,11.0
+leveldb,C/C++ Header,D:\clones\leveldb\include\leveldb\dumpfile.h,7,10.0,11.0
+leveldb,C/C++ Header,D:\clones\leveldb\port\port.h,4,6.0,9.0
+leveldb,C/C++ Header,D:\clones\leveldb\table\merger.h,6,11.0,9.0
+leveldb,C/C++ Header,D:\clones\leveldb\helpers\memenv\memenv.h,7,7.0,8.0
+leveldb,C/C++ Header,D:\clones\leveldb\util\hash.h,6,5.0,8.0
+leveldb,Markdown,D:\clones\leveldb\port\README.md,3,0.0,7.0
+leveldb,C++,D:\clones\leveldb\util\options.cc,5,3.0,6.0
+leveldb,C++,D:\clones\leveldb\util\filter_policy.cc,4,3.0,4.0
+leveldb,CMake,D:\clones\leveldb\cmake\leveldbConfig.cmake.in,3,3.0,3.0

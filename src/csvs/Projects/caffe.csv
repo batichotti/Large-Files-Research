@@ -1,0 +1,615 @@
+project,language,filename,blank,comment,code
+caffe,C/C++ Header,D:\clones\caffe\src\gtest\gtest.h,1957,4696.0,12884.0
+caffe,C++,D:\clones\caffe\src\gtest\gtest-all.cpp,1244,2806.0,5067.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_upgrade_proto.cpp,19,13.0,2961.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_net.cpp,96,64.0,2444.0
+caffe,Python,D:\clones\caffe\scripts\cpp_lint.py,688,1948.0,2237.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_gradient_based_solver.cpp,116,58.0,1115.0
+caffe,C++,D:\clones\caffe\src\caffe\util\upgrade_proto.cpp,30,32.0,1065.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_convolution_layer.cpp,43,46.0,997.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_split_layer.cpp,21,5.0,957.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_pooling_layer.cpp,37,197.0,951.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_neuron_layer.cpp,85,57.0,939.0
+caffe,C++,D:\clones\caffe\src\caffe\net.cpp,41,64.0,889.0
+caffe,Protocol Buffers,D:\clones\caffe\src\caffe\proto\caffe.proto,150,585.0,714.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_deconvolution_layer.cpp,26,30.0,513.0
+caffe,make,D:\clones\caffe\Makefile,92,110.0,507.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_filler.cpp,49,7.0,499.0
+caffe,C++,D:\clones\caffe\src\caffe\blob.cpp,49,19.0,493.0
+caffe,C++,D:\clones\caffe\python\caffe\_caffe.cpp,60,43.0,479.0
+caffe,C++,D:\clones\caffe\matlab\+caffe\private\caffe_.cpp,53,81.0,471.0
+caffe,C++,D:\clones\caffe\src\caffe\data_transformer.cpp,51,24.0,470.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_scale_layer.cpp,30,8.0,469.0
+caffe,CUDA,D:\clones\caffe\src\caffe\util\im2col.cu,21,24.0,467.0
+caffe,C++,D:\clones\caffe\src\caffe\solver.cpp,35,36.0,435.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_bias_layer.cpp,28,8.0,431.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_lrn_layer.cpp,31,11.0,408.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_data_layer.cpp,48,23.0,398.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_random_number_generator.cpp,88,39.0,393.0
+caffe,C++,D:\clones\caffe\tools\caffe.cpp,36,29.0,384.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\window_data_layer.cpp,51,52.0,373.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_io.cpp,51,0.0,373.0
+caffe,CUDA,D:\clones\caffe\src\caffe\util\math_functions.cu,63,23.0,373.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\base_conv_layer.cpp,18,22.0,357.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_inner_product_layer.cpp,17,21.0,353.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\pooling_layer.cu,20,21.0,345.0
+caffe,C++,D:\clones\caffe\src\caffe\solvers\sgd_solver.cpp,18,25.0,332.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_accuracy_layer.cpp,34,9.0,327.0
+caffe,C++,D:\clones\caffe\src\caffe\util\math_functions.cpp,65,1.0,319.0
+caffe,C++,D:\clones\caffe\src\caffe\parallel.cpp,34,27.0,310.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\pooling_layer.cpp,11,20.0,298.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_data_transformer.cpp,41,5.0,298.0
+caffe,CMake,D:\clones\caffe\cmake\Utils.cmake,36,68.0,278.0
+caffe,CSS,D:\clones\caffe\docs\stylesheets\styles.css,69,7.0,272.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_argmax_layer.cpp,19,8.0,268.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_memory_data_layer.cpp,19,14.0,266.0
+caffe,C++,D:\clones\caffe\src\caffe\layer_factory.cpp,26,18.0,265.0
+caffe,Jupyter Notebook,D:\clones\caffe\examples\02-fine-tuning.ipynb,0,916.0,259.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_reduction_layer.cpp,38,1.0,257.0
+caffe,C++,D:\clones\caffe\src\caffe\common.cpp,39,31.0,255.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\solver.md,87,0.0,254.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\cudnn_deconv_layer.cpp,38,38.0,251.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_crop_layer.cpp,23,10.0,250.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_lstm_layer.cpp,31,9.0,248.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_blob.cpp,32,22.0,247.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_reshape_layer.cpp,36,8.0,235.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\recurrent_layer.cpp,33,37.0,226.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\lrn_layer.cpp,16,20.0,221.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layer.hpp,33,228.0,216.0
+caffe,Markdown,D:\clones\caffe\examples\mnist\readme.md,74,0.0,215.0
+caffe,C++,D:\clones\caffe\src\caffe\util\io.cpp,22,3.0,213.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\net.hpp,25,113.0,207.0
+caffe,CMake,D:\clones\caffe\cmake\Cuda.cmake,50,43.0,205.0
+caffe,C++,D:\clones\caffe\src\caffe\util\im2col.cpp,14,15.0,205.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\infogain_loss_layer.cpp,10,11.0,202.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\cudnn_conv_layer.cpp,37,34.0,198.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\scale_layer.cpp,9,20.0,198.0
+caffe,Python,D:\clones\caffe\python\caffe\io.py,48,144.0,197.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\test\test_gradient_check_util.hpp,17,54.0,195.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\batch_norm_layer.cpp,25,31.0,195.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\filler.hpp,18,89.0,194.0
+caffe,C++,D:\clones\caffe\examples\cpp_classification\classification.cpp,47,25.0,193.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_image_data_layer.cpp,15,11.0,193.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_eltwise_layer.cpp,18,1.0,190.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_slice_layer.cpp,19,8.0,188.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\util\math_functions.hpp,72,26.0,186.0
+caffe,C++,D:\clones\caffe\src\caffe\util\hdf5.cpp,19,6.0,186.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_concat_layer.cpp,20,4.0,183.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\spp_layer.cpp,28,18.0,182.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_rnn_layer.cpp,25,10.0,182.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\rnn_layer.cpp,31,24.0,181.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\lstm_layer.cpp,32,32.0,180.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\im2col_layer.cpp,10,4.0,179.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\interfaces.md,110,0.0,176.0
+caffe,Python,D:\clones\caffe\python\caffe\test\test_net.py,48,167.0,174.0
+caffe,Python,D:\clones\caffe\examples\web_demo\app.py,38,16.0,173.0
+caffe,Python,D:\clones\caffe\python\caffe\pycaffe.py,54,119.0,172.0
+caffe,CUDA,D:\clones\caffe\src\caffe\test\test_im2col_kernel.cu,27,14.0,172.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\lrn_layer.cu,15,16.0,171.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_math_functions.cpp,30,3.0,170.0
+caffe,C++,D:\clones\caffe\src\caffe\syncedmem.cpp,16,1.0,169.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_dummy_data_layer.cpp,15,10.0,168.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_embed_layer.cpp,12,1.0,165.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\blob.hpp,27,94.0,161.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_im2col_layer.cpp,15,3.0,160.0
+caffe,Python,D:\clones\caffe\python\caffe\draw.py,45,113.0,156.0
+caffe,CMake,D:\clones\caffe\cmake\Dependencies.cmake,27,31.0,153.0
+caffe,Markdown,D:\clones\caffe\examples\siamese\readme.md,36,0.0,151.0
+caffe,C++,D:\clones\caffe\src\caffe\util\benchmark.cpp,17,1.0,151.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\util\cudnn.hpp,19,0.0,150.0
+caffe,Python,D:\clones\caffe\tools\extra\plot_training_log.py.example,19,15.0,150.0
+caffe,Jupyter Notebook,D:\clones\caffe\examples\01-learning-lenet.ipynb,0,1141.0,147.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\eltwise_layer.cpp,9,6.0,147.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\hdf5_data_layer.cpp,22,20.0,146.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_power_layer.cpp,21,3.0,146.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_mvn_layer.cpp,18,9.0,145.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_stochastic_pooling.cpp,22,8.0,145.0
+caffe,CMake,D:\clones\caffe\cmake\Summary.cmake,15,21.0,144.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\image_data_layer.cpp,18,17.0,144.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_tile_layer.cpp,17,0.0,144.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\softmax_loss_layer.cpp,11,5.0,142.0
+caffe,CMake,D:\clones\caffe\cmake\Modules\FindLAPACK.cmake,19,32.0,139.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\base_conv_layer.hpp,16,19.0,139.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\lstm_unit_layer.cu,13,2.0,139.0
+caffe,Python,D:\clones\caffe\python\caffe\net_spec.py,46,46.0,138.0
+caffe,C++,D:\clones\caffe\tools\extract_features.cpp,18,29.0,136.0
+caffe,Markdown,D:\clones\caffe\examples\finetune_flickr_style\readme.md,36,0.0,133.0
+caffe,Jupyter Notebook,D:\clones\caffe\examples\brewing-logreg.ipynb,0,1033.0,131.0
+caffe,Python,D:\clones\caffe\python\detect.py,18,24.0,131.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_softmax_layer.cpp,15,6.0,131.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_hdf5data_layer.cpp,26,12.0,129.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_sigmoid_cross_entropy_loss_layer.cpp,15,6.0,127.0
+caffe,Python,D:\clones\caffe\python\caffe\test\test_coord_map.py,17,49.0,126.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_contrastive_loss_layer.cpp,13,5.0,126.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\inner_product_layer.cpp,9,16.0,125.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\net_layer_blob.md,44,0.0,124.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\common.hpp,29,40.0,124.0
+caffe,C++,D:\clones\caffe\tools\convert_imageset.cpp,18,18.0,123.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\eltwise_layer.cu,8,4.0,122.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_infogain_loss_layer.cpp,10,6.0,122.0
+caffe,HTML,D:\clones\caffe\examples\web_demo\templates\index.html,13,4.0,121.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\batch_norm_layer.cu,21,29.0,121.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\accuracy_layer.cu,15,13.0,120.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\crop_layer.cpp,15,18.0,119.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\lstm_unit_layer.cpp,11,0.0,119.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\sigmoid_cross_entropy_loss_layer.cpp,11,10.0,119.0
+caffe,Python,D:\clones\caffe\tools\extra\parse_log.py,50,41.0,119.0
+caffe,Markdown,D:\clones\caffe\docs\install_apt_debian.md,45,0.0,118.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\scale_layer.cu,8,9.0,118.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\softmax_layer.cu,14,16.0,118.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\util\io.hpp,36,0.0,116.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_db.cpp,19,1.0,116.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\base_data_layer.cpp,13,8.0,115.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\slice_layer.cpp,9,2.0,115.0
+caffe,C++,D:\clones\caffe\examples\mnist\convert_mnist_data.cpp,22,11.0,114.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_maxpool_dropout_layers.cpp,11,3.0,113.0
+caffe,C++,D:\clones\caffe\src\caffe\util\insert_splits.cpp,7,6.0,113.0
+caffe,CMake,D:\clones\caffe\cmake\Targets.cmake,18,44.0,112.0
+caffe,Python,D:\clones\caffe\python\caffe\detector.py,25,79.0,112.0
+caffe,Python,D:\clones\caffe\python\classify.py,15,11.0,112.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\cudnn_deconv_layer.cu,13,13.0,112.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\reduction_layer.cpp,9,8.0,112.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\contrastive_loss_layer.cpp,8,1.0,111.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\prelu_layer.cpp,17,13.0,111.0
+caffe,Python,D:\clones\caffe\examples\pycaffe\layers\pascal_multilabel_datalayers.py,46,61.0,109.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\data_layer.cpp,15,12.0,109.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_util_blas.cpp,18,5.0,109.0
+caffe,Jupyter Notebook,D:\clones\caffe\examples\pascal-multilabel-with-datalayer.ipynb,0,371.0,108.0
+caffe,MATLAB,D:\clones\caffe\matlab\+caffe\Net.m,8,22.0,108.0
+caffe,C++,D:\clones\caffe\examples\siamese\convert_mnist_siamese_data.cpp,12,10.0,107.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\sgd_solvers.hpp,26,16.0,107.0
+caffe,Python,D:\clones\caffe\python\caffe\test\test_python_layer.py,36,25.0,107.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\mvn_layer.cpp,23,4.0,107.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\bias_layer.cpp,9,6.0,106.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_batch_norm_layer.cpp,20,7.0,106.0
+caffe,C++,D:\clones\caffe\tools\compute_image_mean.cpp,16,3.0,106.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\softmax_loss_layer.cu,12,13.0,105.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\memory_data_layer.cpp,11,8.0,104.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_hdf5_output_layer.cpp,17,3.0,104.0
+caffe,Python,D:\clones\caffe\tools\extra\summarize.py,22,14.0,104.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_filter_layer.cpp,13,10.0,103.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\embed_layer.cpp,9,8.0,102.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_spp_layer.cpp,16,16.0,102.0
+caffe,Jupyter Notebook,D:\clones\caffe\examples\detection.ipynb,0,8291.0,101.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\contrastive_loss_layer.cu,7,1.0,101.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\filter_layer.cpp,11,13.0,101.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_batch_reindex_layer.cpp,16,1.0,101.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_syncedmem.cpp,20,4.0,101.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\prelu_layer.cu,16,14.0,98.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers.md,39,0.0,97.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_solver.cpp,11,1.0,97.0
+caffe,Python,D:\clones\caffe\python\caffe\coord_map.py,25,64.0,96.0
+caffe,Markdown,D:\clones\caffe\docs\installation.md,51,0.0,95.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_flatten_layer.cpp,13,1.0,94.0
+caffe,Jupyter Notebook,D:\clones\caffe\examples\00-classification.ipynb,0,687.0,93.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\accuracy_layer.cpp,10,5.0,92.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\concat_layer.cpp,9,3.0,92.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\cudnn_conv_layer.cu,13,13.0,92.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\dummy_data_layer.cpp,7,15.0,92.0
+caffe,Markdown,D:\clones\caffe\docs\install_osx.md,37,0.0,91.0
+caffe,MATLAB,D:\clones\caffe\matlab\+caffe\+test\test_net.m,4,2.0,90.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_softmax_with_loss_layer.cpp,13,5.0,90.0
+caffe,C++,D:\clones\caffe\examples\cifar10\convert_cifar_data.cpp,11,10.0,89.0
+caffe,Bourne Shell,D:\clones\caffe\scripts\travis\install-deps.sh,14,10.0,88.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\reshape_layer.cpp,6,2.0,88.0
+caffe,C++,D:\clones\caffe\src\caffe\util\db_lmdb.cpp,15,10.0,88.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\argmax_layer.cpp,7,7.0,87.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\batch_reindex_layer.cu,11,9.0,86.0
+caffe,Python,D:\clones\caffe\tools\extra\resize_and_crop_images.py,9,14.0,86.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\sigmoid_cross_entropy_loss_layer.cu,11,12.0,84.0
+caffe,C++,D:\clones\caffe\src\caffe\solvers\adadelta_solver.cpp,17,11.0,84.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_threshold_layer.cpp,11,3.0,84.0
+caffe,C++,D:\clones\caffe\src\caffe\util\signal_handler.cpp,16,15.0,84.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\mvn_layer.cu,23,4.0,83.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\power_layer.cpp,8,11.0,83.0
+caffe,Jupyter Notebook,D:\clones\caffe\examples\net_surgery.ipynb,0,6820.0,81.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layer_factory.hpp,18,42.0,81.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\reduction_layer.cu,6,4.0,81.0
+caffe,Markdown,D:\clones\caffe\docs\development.md,40,0.0,80.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\solver.hpp,18,40.0,80.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\util\db_lmdb.hpp,16,0.0,80.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\util\mkl_alternate.hpp,14,10.0,79.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_tanh_layer.cpp,17,5.0,79.0
+caffe,Python,D:\clones\caffe\examples\finetune_flickr_style\assemble_data.py,11,9.0,78.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\parallel.hpp,23,22.0,78.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\solver_factory.hpp,18,41.0,78.0
+caffe,CMake,D:\clones\caffe\CMakeLists.txt,25,23.0,77.0
+caffe,Python,D:\clones\caffe\python\train.py,19,4.0,77.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\embed_layer.cu,9,0.0,77.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_benchmark.cpp,13,0.0,77.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\softmax_layer.cpp,9,10.0,76.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\crop_layer.cu,10,2.0,75.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\log_layer.cpp,8,2.0,75.0
+caffe,C++,D:\clones\caffe\src\caffe\solvers\adam_solver.cpp,13,6.0,75.0
+caffe,Markdown,D:\clones\caffe\docs\index.md,28,0.0,73.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\lrn_layer.hpp,13,8.0,73.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\recurrent_layer.hpp,22,92.0,73.0
+caffe,Python,D:\clones\caffe\python\caffe\test\test_net_spec.py,10,6.0,73.0
+caffe,CMake,D:\clones\caffe\cmake\Modules\FindMKL.cmake,22,17.0,71.0
+caffe,C++,D:\clones\caffe\src\caffe\util\blocking_queue.cpp,20,0.0,71.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\syncedmem.hpp,14,11.0,70.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\deconv_layer.cpp,8,5.0,70.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\inner_product_layer.cu,6,3.0,70.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_euclidean_loss_layer.cpp,13,6.0,70.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\batch_reindex_layer.cpp,9,0.0,69.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\conv_layer.cpp,8,4.0,69.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\hinge_loss_layer.cpp,9,0.0,69.0
+caffe,CSS,D:\clones\caffe\docs\stylesheets\pygment_trac.css,1,0.0,68.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\power_layer.cu,7,10.0,68.0
+caffe,CMake,D:\clones\caffe\cmake\ProtoBuf.cmake,12,11.0,67.0
+caffe,CMake,D:\clones\caffe\docs\CMakeLists.txt,19,20.0,67.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\util\device_alternate.hpp,19,10.0,67.0
+caffe,Markdown,D:\clones\caffe\examples\cpp_classification\readme.md,11,0.0,66.0
+caffe,Markdown,D:\clones\caffe\examples\imagenet\readme.md,39,0.0,66.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\concat_layer.cu,7,0.0,66.0
+caffe,Markdown,D:\clones\caffe\examples\cifar10\readme.md,32,0.0,65.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\util\db_leveldb.hpp,14,0.0,64.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\slice_layer.cu,7,0.0,64.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\data.md,15,0.0,63.0
+caffe,MATLAB,D:\clones\caffe\matlab\+caffe\Blob.m,4,11.0,63.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\cudnn_relu_layer.cu,9,2.0,63.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\hdf5_output_layer.cpp,12,1.0,63.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_hinge_loss_layer.cpp,11,2.0,61.0
+caffe,Python,D:\clones\caffe\examples\pycaffe\tools.py,25,36.0,60.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\dropout_layer.cpp,11,4.0,60.0
+caffe,MATLAB,D:\clones\caffe\matlab\demo\classification_demo.m,15,74.0,59.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\dropout_layer.cu,8,3.0,59.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\swish_layer.cpp,9,0.0,59.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\exp_layer.cpp,8,2.0,58.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\filter_layer.cu,6,5.0,58.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\tile_layer.cu,8,0.0,58.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\cudnn_sigmoid_layer.cu,7,0.0,57.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\cudnn_tanh_layer.cu,8,0.0,57.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\multinomial_logistic_loss_layer.cpp,7,0.0,57.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\base_data_layer.hpp,14,12.0,56.0
+caffe,Python,D:\clones\caffe\scripts\download_model_binary.py,14,7.0,56.0
+caffe,C++,D:\clones\caffe\src\caffe\internal_thread.cpp,12,0.0,56.0
+caffe,Markdown,D:\clones\caffe\docs\install_apt.md,27,0.0,55.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\convolution.md,8,0.0,55.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\test\test_caffe_main.hpp,20,2.0,55.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\im2col_layer.cu,7,0.0,55.0
+caffe,Python,D:\clones\caffe\src\caffe\test\test_data\generate_sample_data.py,17,9.0,55.0
+caffe,Markdown,D:\clones\caffe\CONTRIBUTING.md,18,0.0,54.0
+caffe,Bourne Shell,D:\clones\caffe\examples\mnist\train_lenet_docker.sh,9,56.0,54.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\clip_layer.cu,11,2.0,54.0
+caffe,C++,D:\clones\caffe\src\caffe\solvers\adagrad_solver.cpp,11,4.0,54.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\lstm_layer.hpp,15,86.0,53.0
+caffe,Python,D:\clones\caffe\python\caffe\test\test_solver.py,9,11.0,53.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\tile_layer.cpp,8,0.0,53.0
+caffe,Python,D:\clones\caffe\tools\extra\extract_seconds.py,13,6.0,53.0
+caffe,CMake,D:\clones\caffe\cmake\Modules\FindOpenBLAS.cmake,10,2.0,52.0
+caffe,HTML,D:\clones\caffe\docs\_layouts\default.html,6,4.0,52.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\crop_layer.hpp,11,15.0,52.0
+caffe,Python,D:\clones\caffe\python\caffe\classifier.py,14,32.0,52.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\deconv_layer.cu,6,3.0,52.0
+caffe,C++,D:\clones\caffe\src\caffe\solvers\rmsprop_solver.cpp,13,5.0,52.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\bias_layer.cu,7,1.0,51.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\conv_layer.cu,6,3.0,51.0
+caffe,CMake,D:\clones\caffe\matlab\CMakeLists.txt,15,7.0,50.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\cudnn_lcn_layer.cpp,17,6.0,50.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\elu_layer.cu,10,2.0,50.0
+caffe,Markdown,D:\clones\caffe\docs\model_zoo.md,23,0.0,49.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\innerproduct.md,10,0.0,49.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\util\im2col.hpp,11,0.0,49.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\log_layer.cu,6,0.0,49.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_common.cpp,15,0.0,49.0
+caffe,C++,D:\clones\caffe\src\caffe\solvers\nesterov_solver.cpp,9,4.0,48.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_multinomial_logistic_loss_layer.cpp,9,1.0,48.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_platform.cpp,9,0.0,48.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\spp_layer.hpp,10,19.0,47.0
+caffe,Python,D:\clones\caffe\python\draw_net.py,10,5.0,47.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\bnll_layer.cu,10,2.0,47.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\euclidean_loss_layer.cpp,8,0.0,47.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\relu_layer.cu,10,7.0,47.0
+caffe,Markdown,D:\clones\caffe\examples\feature_extraction\readme.md,28,0.0,46.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\cudnn_deconv_layer.hpp,12,10.0,46.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\hdf5_data_layer.hpp,12,6.0,46.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\infogain_loss_layer.hpp,17,83.0,46.0
+caffe,MATLAB,D:\clones\caffe\matlab\+caffe\Solver.m,4,9.0,46.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\swish_layer.cu,7,1.0,46.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\cudnn_conv_layer.hpp,12,15.0,45.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\pooling_layer.hpp,9,7.0,45.0
+caffe,Bourne Shell,D:\clones\caffe\examples\imagenet\create_imagenet.sh,10,4.0,44.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\sigmoid_cross_entropy_loss_layer.hpp,13,71.0,44.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\softmax_loss_layer.hpp,12,74.0,44.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\sigmoid_layer.cu,9,7.0,44.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\split_layer.cpp,9,6.0,44.0
+caffe,Python,D:\clones\caffe\examples\pycaffe\caffenet.py,10,2.0,43.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\hdf5_output_layer.hpp,12,7.0,43.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\memory_data_layer.hpp,13,7.0,43.0
+caffe,MATLAB,D:\clones\caffe\matlab\hdf5creation\store2hdf5.m,7,9.0,43.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\tanh_layer.cu,10,4.0,43.0
+caffe,CMake,D:\clones\caffe\cmake\External\gflags.cmake,8,6.0,42.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\accuracy_layer.hpp,15,42.0,42.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\im2col_layer.hpp,12,11.0,42.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\python_layer.hpp,11,2.0,42.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\scale_layer.hpp,12,31.0,42.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\util\benchmark.hpp,10,0.0,42.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_solver_factory.cpp,8,0.0,42.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\util\db.hpp,13,0.0,41.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_layer_factory.cpp,8,2.0,41.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\reshape.md,11,0.0,40.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\loss.md,11,0.0,40.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\window_data_layer.hpp,9,7.0,40.0
+caffe,Python,D:\clones\caffe\python\caffe\test\test_io.py,13,3.0,40.0
+caffe,Python,D:\clones\caffe\python\caffe\test\test_python_layer_with_param_str.py,13,8.0,40.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_internal_thread.cpp,13,0.0,40.0
+caffe,Dockerfile,D:\clones\caffe\docker\gpu\Dockerfile,6,2.0,39.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\data_transformer.hpp,17,98.0,39.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\batch_norm_layer.hpp,10,29.0,39.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\batch_reindex_layer.hpp,10,34.0,39.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\swish_layer.hpp,11,46.0,39.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\bnll_layer.cpp,8,0.0,39.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\clip_layer.cpp,12,0.0,39.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\elu_layer.cpp,8,0.0,39.0
+caffe,C++,D:\clones\caffe\tools\upgrade_net_proto_binary.cpp,8,3.0,39.0
+caffe,C++,D:\clones\caffe\tools\upgrade_net_proto_text.cpp,8,4.0,39.0
+caffe,C++,D:\clones\caffe\tools\upgrade_solver_proto_text.cpp,8,4.0,39.0
+caffe,CMake,D:\clones\caffe\cmake\External\glog.cmake,11,8.0,38.0
+caffe,CMake,D:\clones\caffe\cmake\lint.cmake,9,3.0,38.0
+caffe,Dockerfile,D:\clones\caffe\docker\cpu\Dockerfile,6,2.0,38.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\pooling.md,9,0.0,38.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\cudnn_lcn_layer.hpp,11,0.0,38.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\parameter_layer.hpp,7,0.0,38.0
+caffe,MATLAB,D:\clones\caffe\matlab\+caffe\+test\test_solver.m,5,2.0,38.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\cudnn_lcn_layer.cu,8,0.0,38.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\cudnn_lrn_layer.cpp,12,3.0,38.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\sigmoid_layer.cpp,9,0.0,38.0
+caffe,YAML,D:\clones\caffe\.travis.yml,10,20.0,37.0
+caffe,CMake,D:\clones\caffe\cmake\Modules\FindNumPy.cmake,8,13.0,37.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\inner_product_layer.hpp,9,6.0,37.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\reduction_layer.hpp,9,13.0,37.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\cudnn_pooling_layer.cpp,8,1.0,37.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\flatten_layer.cpp,7,0.0,37.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\relu_layer.cpp,8,0.0,37.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\contrastive_loss_layer.hpp,11,54.0,36.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\embed_layer.hpp,9,7.0,36.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\slice_layer.hpp,9,6.0,36.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\util\upgrade_proto.hpp,27,25.0,36.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\absval_layer.cpp,8,0.0,36.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\cudnn_relu_layer.cpp,8,2.0,36.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\cudnn_sigmoid_layer.cpp,8,2.0,36.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\cudnn_softmax_layer.cu,8,0.0,36.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\euclidean_loss_layer.cu,6,0.0,36.0
+caffe,C++,D:\clones\caffe\src\caffe\util\db.cpp,5,0.0,36.0
+caffe,CMake,D:\clones\caffe\cmake\Misc.cmake,11,7.0,35.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\index.md,16,0.0,35.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\concat_layer.hpp,10,42.0,35.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\cudnn_pooling_layer.hpp,9,5.0,35.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\eltwise_layer.hpp,10,6.0,35.0
+caffe,Bourne Shell,D:\clones\caffe\scripts\deploy_docs.sh,9,6.0,35.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\cudnn_lrn_layer.cu,9,0.0,35.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\cudnn_pooling_layer.cu,6,0.0,35.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\cudnn_softmax_layer.cpp,9,2.0,35.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\cudnn_tanh_layer.cpp,8,2.0,35.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\exp_layer.cu,7,0.0,35.0
+caffe,CMake,D:\clones\caffe\cmake\Modules\FindMatlabMex.cmake,9,5.0,34.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\concat.md,6,0.0,34.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\power.md,12,0.0,34.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\bias_layer.hpp,11,9.0,34.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\cudnn_lrn_layer.hpp,10,0.0,34.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\cudnn_relu_layer.hpp,9,3.0,34.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\cudnn_sigmoid_layer.hpp,9,3.0,34.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\cudnn_tanh_layer.hpp,9,3.0,34.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\dropout_layer.hpp,10,36.0,34.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\prelu_layer.hpp,13,54.0,34.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\reshape_layer.hpp,9,9.0,34.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\softmax_layer.hpp,9,7.0,34.0
+caffe,CMake,D:\clones\caffe\src\caffe\CMakeLists.txt,10,6.0,34.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\recurrent_layer.cu,8,2.0,34.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\tanh_layer.cpp,8,2.0,34.0
+caffe,CMake,D:\clones\caffe\cmake\ConfigGen.cmake,17,18.0,33.0
+caffe,Markdown,D:\clones\caffe\docs\install_yum.md,12,0.0,33.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\argmax_layer.hpp,8,36.0,33.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\filter_layer.hpp,10,34.0,33.0
+caffe,MATLAB,D:\clones\caffe\matlab\hdf5creation\demo.m,11,20.0,33.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\hdf5_output_layer.cu,8,0.0,33.0
+caffe,CMake,D:\clones\caffe\cmake\Modules\FindAtlas.cmake,10,10.0,32.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\slice.md,10,0.0,32.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\cudnn_softmax_layer.hpp,9,4.0,32.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\data_layer.hpp,8,0.0,32.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\dummy_data_layer.hpp,9,6.0,32.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\euclidean_loss_layer.hpp,11,64.0,32.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\image_data_layer.hpp,10,5.0,32.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\mvn_layer.hpp,10,6.0,32.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\power_layer.hpp,11,46.0,32.0
+caffe,Bourne Shell,D:\clones\caffe\tools\extra\parse_log.sh,8,11.0,32.0
+caffe,Jupyter Notebook,D:\clones\caffe\examples\siamese\mnist_siamese.ipynb,0,1878.0,31.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\log_layer.hpp,11,40.0,31.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\util\rng.hpp,11,1.0,31.0
+caffe,Bourne Shell,D:\clones\caffe\scripts\upload_model_to_gist.sh,5,2.0,31.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_caffe_main.cpp,3,4.0,31.0
+caffe,Markdown,D:\clones\caffe\README.md,15,0.0,30.0
+caffe,CMake,D:\clones\caffe\cmake\Modules\FindGFlags.cmake,9,11.0,30.0
+caffe,CMake,D:\clones\caffe\cmake\Modules\FindGlog.cmake,8,10.0,30.0
+caffe,Python,D:\clones\caffe\examples\web_demo\exifutil.py,6,3.0,30.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\absval_layer.hpp,10,28.0,30.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\split_layer.hpp,9,6.0,30.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\tile_layer.hpp,10,3.0,30.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\util\hdf5.hpp,11,0.0,30.0
+caffe,CMake,D:\clones\caffe\cmake\Modules\FindLevelDB.cmake,8,7.0,29.0
+caffe,Markdown,D:\clones\caffe\docker\README.md,18,0.0,29.0
+caffe,Markdown,D:\clones\caffe\examples\web_demo\readme.md,12,0.0,29.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\exp_layer.hpp,11,40.0,29.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\silence_layer.hpp,8,6.0,29.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\threshold_layer.hpp,10,25.0,29.0
+caffe,CMake,D:\clones\caffe\python\CMakeLists.txt,7,4.0,29.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\split_layer.cu,7,1.0,29.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\conv_layer.hpp,9,47.0,28.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\deconv_layer.hpp,9,14.0,28.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\rnn_layer.hpp,9,10.0,28.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\input_layer.hpp,8,7.0,27.0
+caffe,Python,D:\clones\caffe\python\caffe\test\test_draw.py,9,1.0,27.0
+caffe,Python,D:\clones\caffe\scripts\split_caffe_proto.py,6,2.0,27.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\hdf5_data_layer.cu,7,4.0,27.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\bnll_layer.hpp,10,34.0,26.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\clip_layer.hpp,10,39.0,26.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\elu_layer.hpp,11,49.0,26.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\loss_layer.hpp,9,18.0,26.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\relu_layer.hpp,10,49.0,26.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\sigmoid_layer.hpp,10,35.0,26.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\tanh_layer.hpp,10,37.0,26.0
+caffe,CUDA,D:\clones\caffe\include\caffe\util\gpu_util.cuh,6,3.0,26.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\util\nccl.hpp,11,0.0,26.0
+caffe,MATLAB,D:\clones\caffe\matlab\+caffe\get_net.m,5,6.0,26.0
+caffe,CUDA,D:\clones\caffe\src\caffe\solvers\adadelta_solver.cu,4,0.0,26.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\relu.md,7,0.0,25.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\flatten_layer.hpp,9,27.0,25.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\absval_layer.cu,7,0.0,25.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\threshold_layer.cpp,7,0.0,25.0
+caffe,CUDA,D:\clones\caffe\src\caffe\solvers\adam_solver.cu,4,0.0,25.0
+caffe,CMake,D:\clones\caffe\cmake\Uninstall.cmake.in,2,0.0,24.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\multinomial_logistic_loss_layer.hpp,10,58.0,24.0
+caffe,MATLAB,D:\clones\caffe\matlab\+caffe\io.m,1,16.0,24.0
+caffe,Markdown,D:\clones\caffe\models\bvlc_googlenet\readme.md,8,0.0,24.0
+caffe,Bourne Shell,D:\clones\caffe\scripts\travis\configure-make.sh,8,4.0,24.0
+caffe,CUDA,D:\clones\caffe\src\caffe\solvers\rmsprop_solver.cu,4,0.0,24.0
+caffe,CMake,D:\clones\caffe\cmake\Modules\FindvecLib.cmake,7,6.0,23.0
+caffe,CMake,D:\clones\caffe\cmake\Templates\CaffeConfig.cmake.in,9,23.0,23.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\forward_backward.md,14,0.0,23.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\sigmoid.md,7,0.0,23.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\softmaxwithloss.md,10,0.0,23.0
+caffe,Python,D:\clones\caffe\examples\pycaffe\layers\pyloss.py,6,8.0,23.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\util\blocking_queue.hpp,14,8.0,23.0
+caffe,MATLAB,D:\clones\caffe\matlab\+caffe\Layer.m,4,5.0,23.0
+caffe,CUDA,D:\clones\caffe\src\caffe\solvers\nesterov_solver.cu,4,0.0,23.0
+caffe,Markdown,D:\clones\caffe\.github\ISSUE_TEMPLATE.md,12,0.0,22.0
+caffe,CMake,D:\clones\caffe\cmake\Modules\FindNCCL.cmake,4,0.0,22.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\lrn.md,6,0.0,22.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\internal_thread.hpp,13,18.0,22.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\hinge_loss_layer.hpp,11,71.0,22.0
+caffe,Bourne Shell,D:\clones\caffe\scripts\travis\configure-cmake.sh,8,2.0,22.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\input_layer.cpp,5,0.0,22.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\threshold_layer.cu,8,1.0,22.0
+caffe,CUDA,D:\clones\caffe\src\caffe\solvers\adagrad_solver.cu,4,0.0,22.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\data.md,8,0.0,21.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\imagedata.md,6,0.0,21.0
+caffe,Python,D:\clones\caffe\scripts\copy_notebook.py,4,8.0,20.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\loss_layer.cpp,6,1.0,20.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\silence_layer.cpp,6,0.0,20.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\silence_layer.cu,6,1.0,20.0
+caffe,CUDA,D:\clones\caffe\src\caffe\solvers\sgd_solver.cu,4,0.0,20.0
+caffe,C++,D:\clones\caffe\src\caffe\test\test_protobuf.cpp,7,2.0,20.0
+caffe,CSS,D:\clones\caffe\docs\stylesheets\reset.css,1,1.0,19.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\bnll.md,6,0.0,19.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\python.md,8,0.0,19.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\layers\neuron_layer.hpp,7,6.0,19.0
+caffe,Markdown,D:\clones\caffe\models\bvlc_alexnet\readme.md,6,0.0,19.0
+caffe,Markdown,D:\clones\caffe\models\bvlc_reference_caffenet\readme.md,6,0.0,19.0
+caffe,Markdown,D:\clones\caffe\models\finetune_flickr_style\readme.md,5,0.0,19.0
+caffe,Bourne Shell,D:\clones\caffe\scripts\download_model_from_gist.sh,5,0.0,19.0
+caffe,Bourne Shell,D:\clones\caffe\scripts\gather_examples.sh,3,7.0,19.0
+caffe,CUDA,D:\clones\caffe\src\caffe\layers\base_data_layer.cu,5,2.0,19.0
+caffe,C++,D:\clones\caffe\src\caffe\util\cudnn.cpp,4,0.0,19.0
+caffe,C++,D:\clones\caffe\src\caffe\util\db_leveldb.cpp,4,0.0,19.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\elu.md,7,0.0,18.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\hdf5output.md,7,0.0,18.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\memorydata.md,7,0.0,18.0
+caffe,CMake,D:\clones\caffe\examples\CMakeLists.txt,8,6.0,18.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\util\signal_handler.h,5,1.0,18.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\absval.md,5,0.0,17.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\exp.md,7,0.0,17.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\softmax.md,7,0.0,17.0
+caffe,CMake,D:\clones\caffe\src\caffe\test\CMakeLists.txt,7,12.0,17.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\deconvolution.md,6,0.0,16.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\infogainloss.md,7,0.0,16.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\lstm.md,5,0.0,16.0
+caffe,Bourne Shell,D:\clones\caffe\examples\siamese\create_mnist_siamese.sh,5,1.0,16.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\caffe.hpp,3,2.0,16.0
+caffe,CMake,D:\clones\caffe\tools\CMakeLists.txt,7,7.0,16.0
+caffe,Markdown,D:\clones\caffe\docs\multigpu.md,11,0.0,15.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\accuracy.md,5,0.0,15.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\batchnorm.md,5,0.0,15.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\bias.md,4,0.0,15.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\clip.md,5,0.0,15.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\contrastiveloss.md,5,0.0,15.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\crop.md,5,0.0,15.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\dropout.md,5,0.0,15.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\eltwise.md,5,0.0,15.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\embed.md,5,0.0,15.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\flatten.md,6,0.0,15.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\hdf5data.md,5,0.0,15.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\log.md,5,0.0,15.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\mvn.md,5,0.0,15.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\parameter.md,6,0.0,15.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\prelu.md,5,0.0,15.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\recurrent.md,5,0.0,15.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\reduction.md,5,0.0,15.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\scale.md,5,0.0,15.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\tile.md,5,0.0,15.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\util\insert_splits.hpp,9,2.0,15.0
+caffe,MATLAB,D:\clones\caffe\matlab\+caffe\+test\test_io.m,0,3.0,15.0
+caffe,MATLAB,D:\clones\caffe\matlab\+caffe\private\is_valid_handle.m,4,8.0,15.0
+caffe,Markdown,D:\clones\caffe\models\bvlc_reference_rcnn_ilsvrc13\readme.md,5,0.0,15.0
+caffe,Bourne Shell,D:\clones\caffe\scripts\travis\test.sh,3,1.0,15.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\argmax.md,4,0.0,14.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\dummydata.md,6,0.0,14.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\hingeloss.md,5,0.0,14.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\input.md,5,0.0,14.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\multinomiallogisticloss.md,5,0.0,14.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\rnn.md,5,0.0,14.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\spp.md,6,0.0,14.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\windowdata.md,5,0.0,14.0
+caffe,Bourne Shell,D:\clones\caffe\examples\mnist\create_mnist.sh,6,2.0,14.0
+caffe,CMake,D:\clones\caffe\cmake\Modules\FindSnappy.cmake,6,9.0,13.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\tanh.md,5,0.0,13.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\threshold.md,5,0.0,13.0
+caffe,C/C++ Header,D:\clones\caffe\include\caffe\util\format.hpp,5,0.0,13.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\euclideanloss.md,4,0.0,12.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\silence.md,5,0.0,12.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\split.md,5,0.0,12.0
+caffe,Bourne Shell,D:\clones\caffe\examples\cifar10\create_cifar10.sh,7,1.0,12.0
+caffe,CMake,D:\clones\caffe\cmake\Modules\FindLMDB.cmake,6,11.0,11.0
+caffe,Bourne Shell,D:\clones\caffe\data\mnist\get_mnist.sh,3,1.0,11.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\batchreindex.md,5,0.0,11.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\filter.md,4,0.0,11.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\im2col.md,5,0.0,11.0
+caffe,Bourne Shell,D:\clones\caffe\examples\cifar10\train_full.sh,4,2.0,11.0
+caffe,Python,D:\clones\caffe\python\caffe\test\test_nccl.py,4,4.0,11.0
+caffe,Markdown,D:\clones\caffe\CONTRIBUTORS.md,9,0.0,10.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\layers\sigmoidcrossentropyloss.md,3,0.0,10.0
+caffe,Bourne Shell,D:\clones\caffe\scripts\build_docs.sh,7,6.0,10.0
+caffe,Bourne Shell,D:\clones\caffe\scripts\travis\build.sh,2,1.0,10.0
+caffe,Bourne Shell,D:\clones\caffe\scripts\travis\setup-venv.sh,4,4.0,10.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\neuron_layer.cpp,5,0.0,10.0
+caffe,CMake,D:\clones\caffe\cmake\Templates\CaffeConfigVersion.cmake.in,1,1.0,9.0
+caffe,Bourne Shell,D:\clones\caffe\data\cifar10\get_cifar10.sh,7,3.0,9.0
+caffe,Markdown,D:\clones\caffe\docs\tutorial\convolution.md,4,0.0,9.0
+caffe,MATLAB,D:\clones\caffe\matlab\+caffe\run_tests.m,5,6.0,9.0
+caffe,Bourne Shell,D:\clones\caffe\scripts\travis\install-python-deps.sh,2,4.0,9.0
+caffe,Bourne Shell,D:\clones\caffe\data\ilsvrc12\get_ilsvrc_aux.sh,6,7.0,8.0
+caffe,Bourne Shell,D:\clones\caffe\examples\cifar10\train_quick.sh,3,1.0,8.0
+caffe,Python,D:\clones\caffe\python\caffe\__init__.py,0,0.0,8.0
+caffe,Bourne Shell,D:\clones\caffe\scripts\travis\configure.sh,2,1.0,8.0
+caffe,Bourne Shell,D:\clones\caffe\examples\imagenet\make_imagenet_mean.sh,3,2.0,7.0
+caffe,Python,D:\clones\caffe\python\caffe\test\test_layer_type_list.py,3,1.0,7.0
+caffe,Bourne Shell,D:\clones\caffe\scripts\travis\defaults.sh,2,1.0,7.0
+caffe,C++,D:\clones\caffe\src\gtest\gtest_main.cc,4,28.0,7.0
+caffe,YAML,D:\clones\caffe\docs\_config.yml,1,0.0,6.0
+caffe,Bourne Shell,D:\clones\caffe\examples\imagenet\resume_training.sh,1,0.0,6.0
+caffe,MATLAB,D:\clones\caffe\matlab\+caffe\get_solver.m,2,2.0,6.0
+caffe,MATLAB,D:\clones\caffe\matlab\+caffe\set_device.m,3,2.0,6.0
+caffe,Markdown,D:\clones\caffe\INSTALL.md,2,0.0,5.0
+caffe,Bourne Shell,D:\clones\caffe\examples\cifar10\train_full_sigmoid.sh,3,0.0,5.0
+caffe,Bourne Shell,D:\clones\caffe\examples\cifar10\train_full_sigmoid_bn.sh,3,0.0,5.0
+caffe,MATLAB,D:\clones\caffe\matlab\+caffe\private\CHECK.m,2,0.0,5.0
+caffe,MATLAB,D:\clones\caffe\matlab\+caffe\private\CHECK_FILE_EXIST.m,2,0.0,5.0
+caffe,C++,D:\clones\caffe\src\caffe\layers\parameter_layer.cpp,3,0.0,5.0
+caffe,Bourne Shell,D:\clones\caffe\examples\imagenet\train_caffenet.sh,1,0.0,4.0
+caffe,Bourne Shell,D:\clones\caffe\examples\mnist\train_lenet_consolidated.sh,1,0.0,4.0
+caffe,Bourne Shell,D:\clones\caffe\examples\mnist\train_lenet_rmsprop.sh,1,0.0,4.0
+caffe,Bourne Shell,D:\clones\caffe\examples\mnist\train_mnist_autoencoder.sh,1,0.0,4.0
+caffe,Bourne Shell,D:\clones\caffe\examples\mnist\train_mnist_autoencoder_adadelta.sh,1,0.0,4.0
+caffe,Bourne Shell,D:\clones\caffe\examples\mnist\train_mnist_autoencoder_adagrad.sh,1,0.0,4.0
+caffe,Bourne Shell,D:\clones\caffe\examples\mnist\train_mnist_autoencoder_nesterov.sh,1,0.0,4.0
+caffe,Bourne Shell,D:\clones\caffe\examples\siamese\train_mnist_siamese.sh,2,0.0,4.0
+caffe,MATLAB,D:\clones\caffe\matlab\+caffe\reset_all.m,2,2.0,4.0
+caffe,C++,D:\clones\caffe\src\caffe\layer.cpp,3,0.0,4.0
+caffe,CMake,D:\clones\caffe\src\gtest\CMakeLists.txt,2,2.0,4.0
+caffe,Markdown,D:\clones\caffe\docs\README.md,2,0.0,3.0
+caffe,Bourne Shell,D:\clones\caffe\examples\mnist\train_lenet.sh,1,0.0,3.0
+caffe,Bourne Shell,D:\clones\caffe\examples\mnist\train_lenet_adam.sh,1,0.0,3.0
+caffe,MATLAB,D:\clones\caffe\matlab\+caffe\set_mode_cpu.m,2,2.0,3.0
+caffe,MATLAB,D:\clones\caffe\matlab\+caffe\set_mode_gpu.m,2,2.0,3.0
+caffe,MATLAB,D:\clones\caffe\matlab\+caffe\version.m,2,2.0,3.0
+caffe,Bourne Shell,D:\clones\caffe\tools\extra\launch_resize_and_crop_images.sh,3,19.0,2.0

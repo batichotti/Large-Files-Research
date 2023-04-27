@@ -1,0 +1,302 @@
+project,language,filename,blank,comment,code
+YYKit,JSON,D:\clones\YYKit\Demo\YYKitDemo\twitter_2.json,1073,0.0,31053.0
+YYKit,JSON,D:\clones\YYKit\Demo\YYKitDemo\twitter_1.json,983,0.0,27994.0
+YYKit,JSON,D:\clones\YYKit\Demo\YYKitDemo\twitter_3.json,1061,0.0,26885.0
+YYKit,JSON,D:\clones\YYKit\Demo\YYKitDemo\twitter_0.json,1038,0.0,25058.0
+YYKit,JSON,D:\clones\YYKit\Demo\YYKitDemo\weibo_3.json,61,0.0,13215.0
+YYKit,JSON,D:\clones\YYKit\Demo\YYKitDemo\weibo_7.json,55,0.0,9298.0
+YYKit,JSON,D:\clones\YYKit\Demo\YYKitDemo\weibo_2.json,41,0.0,8690.0
+YYKit,JSON,D:\clones\YYKit\Demo\YYKitDemo\weibo_1.json,64,0.0,8412.0
+YYKit,JSON,D:\clones\YYKit\Demo\YYKitDemo\weibo_4.json,61,0.0,7625.0
+YYKit,JSON,D:\clones\YYKit\Demo\YYKitDemo\weibo_6.json,57,0.0,7379.0
+YYKit,JSON,D:\clones\YYKit\Demo\YYKitDemo\weibo_0.json,67,0.0,7355.0
+YYKit,JSON,D:\clones\YYKit\Demo\YYKitDemo\weibo_5.json,76,0.0,6774.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Text\YYTextView.m,458,134.0,3199.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Text\Component\YYTextLayout.m,329,112.0,2965.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Image\YYImageCoder.m,328,185.0,2350.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Model\NSObject+YYModel.m,162,127.0,1548.0
+YYKit,XML,D:\clones\YYKit\Demo\YYKitDemo\EmoticonWeibo.bundle\com.sina.default\info.plist,0,0.0,1247.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Text\YYLabel.m,148,16.0,1150.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Text\String\NSAttributedString+YYText.m,251,51.0,1057.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Cache\YYKVStorage.m,107,40.0,906.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\WBStatusCell.m,137,18.0,838.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\WBStatusLayout.m,127,72.0,706.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Image\YYWebImageOperation.m,73,29.0,698.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYPhotoGroupView.m,151,10.0,686.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\T1StatusCell.m,100,7.0,669.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\UIKit\UIImage+YYAdd.m,83,31.0,638.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYImageBenchmark.m,103,20.0,619.0
+YYKit,XML,D:\clones\YYKit\Demo\YYKitDemo\EmoticonQQ.bundle\info.plist,0,0.0,566.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\Foundation\NSData+YYAdd.m,95,28.0,519.0
+YYKit,XML,D:\clones\YYKit\Demo\YYKitDemo\EmoticonWeibo.bundle\com.apple.emoji\info.plist,0,0.0,503.0
+YYKit,XML,D:\clones\YYKit\Demo\YYKitDemo\EmoticonWeibo.bundle\com.sina.lxh\info.plist,0,0.0,503.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Image\YYAnimatedImageView.m,65,15.0,497.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\WBEmoticonInputView.m,91,8.0,446.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\UIKit\UIDevice+YYAdd.m,63,13.0,439.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Text\String\YYTextAttribute.m,80,10.0,427.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Cache\YYMemoryCache.m,61,27.0,426.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Text\Component\YYTextKeyboardManager.m,80,40.0,401.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\UIKit\UIColor+YYAdd.m,64,12.0,398.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Utility\YYKeychain.m,69,32.0,396.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\T1Model.m,29,7.0,369.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Image\Categories\UIButton+YYWebImage.m,49,12.0,369.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Cache\YYDiskCache.m,62,14.0,368.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Text\Component\YYTextEffectWindow.m,44,19.0,368.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Text\String\YYTextParser.m,54,17.0,348.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\Foundation\NSObject+YYAdd.m,51,19.0,326.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\Foundation\NSString+YYAdd.m,66,23.0,325.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Model\YYClassInfo.m,32,10.0,320.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\Foundation\NSDictionary+YYAdd.m,65,11.0,316.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Utility\YYThreadSafeArray.m,101,10.0,309.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Image\Categories\UIImageView+YYWebImage.m,40,16.0,302.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\T1StatusLayout.m,44,7.0,279.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Text\Component\YYTextSelectionView.m,42,10.0,277.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Text\Component\YYTextMagnifier.m,61,18.0,276.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\WBStatusTimelineViewController.m,52,23.0,272.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\WBModel.m,17,11.0,268.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Text\String\NSAttributedString+YYText.h,258,899.0,257.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\WBStatusHelper.m,42,46.0,253.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\Quartz\CALayer+YYAdd.m,61,10.0,253.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\WBModel.h,56,52.0,245.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\WBStatusComposeViewController.m,45,7.0,242.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Utility\YYFileHash.m,32,14.0,236.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\T1HomeTimelineItemsViewController.m,45,8.0,235.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\Quartz\YYCGUtilities.m,25,13.0,233.0
+YYKit,C/C++ Header,D:\clones\YYKit\Vendor\WebP.framework\Headers\encode.h,75,229.0,223.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\UIKit\UIView+YYAdd.m,41,11.0,220.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Image\YYImageCache.m,33,10.0,212.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Utility\YYDispatchQueuePool.m,19,10.0,209.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYBPGCoder.m,46,20.0,206.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYTextAttributeExample.m,42,28.0,206.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\UIKit\UIFont+YYAdd.m,48,18.0,203.0
+YYKit,C/C++ Header,D:\clones\YYKit\Vendor\WebP.framework\Headers\decode.h,66,226.0,196.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Utility\YYAsyncLayer.m,20,11.0,193.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\Quartz\YYCGUtilities.h,72,74.0,192.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Text\String\YYTextArchiver.m,38,26.0,189.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Utility\YYThreadSafeDictionary.m,61,10.0,183.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\UIKit\UIApplication+YYAdd.m,47,12.0,180.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYWebImageExample.m,35,18.0,179.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Text\String\NSParagraphStyle+YYText.m,41,10.0,179.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYTextEditExample.m,31,8.0,177.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\YYKitMacro.h,45,118.0,173.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\WBStatusComposeTextParser.m,40,21.0,171.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\T1Model.h,46,9.0,169.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\YYKit.h,21,10.0,168.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYModelExample.m,44,14.0,158.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Image\Categories\MKAnnotationView+YYWebImage.m,21,11.0,154.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Image\Categories\CALayer+YYWebImage.m,26,11.0,152.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYTextAsyncExample.m,37,8.0,148.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\UIKit\UIScreen+YYAdd.m,18,10.0,145.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\Foundation\NSDate+YYAdd.m,35,10.0,143.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYKeychainExample.m,47,20.0,141.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Image\YYImage.m,28,19.0,140.0
+YYKit,Markdown,D:\clones\YYKit\README.md,50,0.0,136.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Text\Component\YYTextLine.m,23,10.0,134.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Utility\YYReachability.m,23,17.0,134.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\Foundation\NSArray+YYAdd.m,32,10.0,130.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Text\YYTextView.h,74,208.0,128.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Text\String\YYTextUtilities.h,34,102.0,127.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Text\String\YYTextAttribute.h,72,152.0,123.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYTextAttachmentExample.m,34,7.0,121.0
+YYKit,C/C++ Header,D:\clones\YYKit\Vendor\WebP.framework\Headers\mux.h,56,353.0,121.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Text\Component\YYTextLayout.h,122,332.0,120.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Image\YYImageCoder.h,107,279.0,119.0
+YYKit,C/C++ Header,D:\clones\YYKit\Vendor\WebP.framework\Headers\demux.h,48,197.0,113.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Text\Component\YYTextContainerView.m,19,14.0,111.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Text\String\UIPasteboard+YYText.m,24,12.0,111.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\WBStatusLayout.h,42,64.0,109.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Text\Component\YYTextDebugOption.m,22,10.0,109.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Text\Component\YYTextInput.m,33,10.0,108.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Cache\YYCache.m,23,10.0,106.0
+YYKit,Bourne Shell,D:\clones\YYKit\Vendor\WebP.sh,17,15.0,101.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYImageDisplayExample.m,22,8.0,97.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYTextTagExample.m,16,7.0,95.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Image\YYFrameImage.m,17,10.0,93.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Model\YYClassInfo.h,34,73.0,93.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Text\YYLabel.h,73,214.0,93.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYImageProgressiveExample.m,18,7.0,92.0
+YYKit,XML,D:\clones\YYKit\Demo\YYKitDemo.xcodeproj\xcshareddata\xcschemes\YYKitExample.xcscheme,0,0.0,91.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\WBStatusCell.h,25,20.0,91.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\UIKit\UIControl+YYAdd.m,23,10.0,85.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Utility\YYTimer.m,15,10.0,84.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Utility\YYKeychain.h,76,170.0,82.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYTextBindingExample.m,20,7.0,80.0
+YYKit,XML,D:\clones\YYKit\Framework\YYKit.xcodeproj\xcshareddata\xcschemes\YYKit.xcscheme,0,0.0,80.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Image\Categories\_YYWebImageSetter.m,14,10.0,79.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\Foundation\NSThread+YYAdd.m,17,14.0,76.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Image\YYWebImageManager.m,12,10.0,76.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYControl.m,13,7.0,75.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\Foundation\NSObject+YYAddForKVO.m,29,10.0,71.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\T1Helper.m,10,7.0,69.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYTextRubyExample.m,27,11.0,69.0
+YYKit,C/C++ Header,D:\clones\YYKit\Vendor\bpg.framework\Headers\libbpg.h,24,43.0,69.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Image\Categories\UIButton+YYWebImage.h,34,111.0,68.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Image\YYWebImageManager.h,69,143.0,68.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\UIKit\UIColor+YYAdd.h,93,198.0,67.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYTextEmoticonExample.m,14,7.0,66.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\Foundation\NSString+YYAdd.h,83,260.0,66.0
+YYKit,XML,D:\clones\YYKit\Demo\YYKitDemo\Info.plist,0,0.0,63.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\Foundation\NSBundle+YYAdd.m,14,10.0,63.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\UIKit\UIDevice+YYAdd.h,57,73.0,63.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Text\String\YYTextRubyAnnotation.m,10,10.0,63.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\T1StatusCell.h,26,7.0,60.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYFPSLabel.m,16,7.0,59.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYFeedListExample.m,14,7.0,59.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYRootViewController.m,12,9.0,58.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Utility\YYTransaction.m,14,10.0,57.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\T1StatusLayout.h,16,7.0,55.0
+YYKit,C/C++ Header,D:\clones\YYKit\Vendor\WebP.framework\Headers\mux_types.h,13,29.0,55.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Cache\YYKVStorage.h,75,195.0,55.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Image\YYSpriteSheetImage.m,15,10.0,55.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Image\Categories\UIImageView+YYWebImage.h,36,103.0,54.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\Foundation\NSData+YYAdd.h,69,188.0,53.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\UIKit\UITableView+YYAdd.m,17,10.0,53.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Utility\YYWeakProxy.m,20,10.0,53.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYAppDelegate.m,17,8.0,52.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYImageExampleHelper.m,8,8.0,52.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYTextExample.m,10,7.0,52.0
+YYKit,C/C++ Header,D:\clones\YYKit\Vendor\WebP.framework\Headers\format_constants.h,14,22.0,52.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Cache\YYDiskCache.h,98,262.0,52.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\UIKit\UIImage+YYAdd.h,99,227.0,51.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYTextCopyPasteExample.m,13,7.0,50.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Text\String\YYTextRunDelegate.m,11,10.0,50.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Text\String\YYTextUtilities.m,4,11.0,50.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYTextMarkdownExample.m,12,7.0,49.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\UIKit\UIGestureRecognizer+YYAdd.m,19,10.0,49.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYTextUndoRedoExample.m,13,7.0,48.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Text\Component\YYTextLine.h,18,20.0,46.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYImageExample.m,10,8.0,45.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\Foundation\NSDate+YYAdd.h,43,102.0,43.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\Foundation\NSNumber+YYAdd.m,8,12.0,43.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\UIKit\UIBezierPath+YYAdd.m,12,10.0,42.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Utility\YYFileHash.h,24,39.0,42.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYUtilityExample.m,11,7.0,41.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\Foundation\NSDictionary+YYAdd.h,54,102.0,41.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Image\YYImageCache.h,52,135.0,41.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\Foundation\NSNotificationCenter+YYAdd.m,13,10.0,39.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\UIKit\UIScrollView+YYAdd.m,13,10.0,37.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYTextExampleHelper.m,10,7.0,36.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\Quartz\CALayer+YYAdd.h,18,43.0,36.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Utility\YYGestureRecognizer.m,9,10.0,36.0
+YYKit,XML,D:\clones\YYKit\Demo\YYKitDemo\Base.lproj\LaunchScreen.xib,0,0.0,35.0
+YYKit,XML,D:\clones\YYKit\Demo\YYKitDemo\EmoticonWeibo.bundle\emoticons.plist,0,0.0,35.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Model\NSObject+YYModel.h,112,294.0,35.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Text\Component\YYTextSelectionView.h,19,24.0,35.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\UIKit\UIBarButtonItem+YYAdd.m,18,10.0,34.0
+YYKit,C/C++ Header,D:\clones\YYKit\Vendor\WebP.framework\Headers\config.h,44,68.0,33.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\Foundation\NSKeyedUnarchiver+YYAdd.m,8,10.0,33.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Image\Categories\CALayer+YYWebImage.h,20,59.0,33.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Image\Categories\MKAnnotationView+YYWebImage.h,19,58.0,32.0
+YYKit,C/C++ Header,D:\clones\YYKit\Vendor\WebP.framework\Headers\types.h,6,15.0,31.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Cache\YYMemoryCache.h,47,135.0,31.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Text\Component\YYTextInput.h,23,33.0,31.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\UIKit\UIFont+YYAdd.h,38,85.0,30.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\Foundation\NSArray+YYAdd.h,47,121.0,28.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Cache\YYCache.h,41,122.0,28.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Image\YYWebImageOperation.h,19,50.0,28.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Text\Component\YYTextKeyboardManager.h,23,47.0,28.0
+YYKit,XML,D:\clones\YYKit\Demo\YYKitDemo\zh-Hans.lproj\LaunchScreen.xib,0,0.0,27.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Text\Component\YYTextDebugOption.h,22,46.0,27.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Utility\YYReachability.h,14,19.0,27.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\UIKit\UIView+YYAdd.h,24,67.0,26.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYSimpleWebViewController.m,8,7.0,25.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYTableView.m,7,10.0,25.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\Foundation\NSObject+YYAdd.h,79,198.0,25.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Text\Component\YYTextMagnifier.h,10,17.0,25.0
+YYKit,XML,D:\clones\YYKit\Framework\Info.plist,0,0.0,24.0
+YYKit,Ruby,D:\clones\YYKit\YYKit.podspec,4,0.0,24.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Image\Categories\_YYWebImageSetter.h,10,20.0,24.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\UIKit\UIApplication+YYAdd.h,26,40.0,23.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Image\YYFrameImage.h,29,56.0,22.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Text\String\YYTextParser.h,22,47.0,22.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYPhotoGroupView.h,9,9.0,21.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\Foundation\NSObject+YYAddForARC.m,10,10.0,20.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Image\YYAnimatedImageView.h,31,74.0,20.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Image\YYImage.h,18,42.0,20.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Utility\YYTimer.h,12,17.0,19.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\WBStatusHelper.h,17,24.0,18.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Image\YYSpriteSheetImage.h,23,61.0,18.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Text\Component\YYTextEffectWindow.h,11,23.0,18.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\YYTableViewCell.m,4,7.0,17.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\Foundation\NSNotificationCenter+YYAdd.h,22,58.0,17.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\Foundation\NSTimer+YYAdd.m,8,10.0,17.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\UIKit\UITableView+YYAdd.h,47,124.0,17.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Utility\YYAsyncLayer.h,18,44.0,17.0
+YYKit,C/C++ Header,D:\clones\YYKit\Vendor\WebP.framework\Headers\extras.h,14,21.0,16.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Base\UIKit\UITextField+YYAdd.m,7,10.0,16.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Text\Component\YYTextContainerView.h,14,25.0,16.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Utility\YYGestureRecognizer.h,9,16.0,16.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Text\String\YYTextRubyAnnotation.h,22,41.0,15.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Utility\YYDispatchQueuePool.h,12,24.0,15.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\Foundation\NSBundle+YYAdd.h,22,57.0,13.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\UIKit\UIScrollView+YYAdd.h,17,41.0,13.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Text\String\UIPasteboard+YYText.h,10,18.0,13.0
+YYKit,YAML,D:\clones\YYKit\.travis.yml,2,0.0,12.0
+YYKit,Objective-C,D:\clones\YYKit\YYKit\Utility\YYSentinel.m,5,10.0,12.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Text\String\YYTextRunDelegate.h,15,42.0,11.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\WBEmoticonInputView.h,3,8.0,10.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\WBStatusComposeViewController.h,3,8.0,10.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\UIKit\UIControl+YYAdd.h,18,50.0,10.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\UIKit\UIScreen+YYAdd.h,13,40.0,10.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\T1Helper.h,8,12.0,9.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\Foundation\NSKeyedUnarchiver+YYAdd.h,11,25.0,9.0
+YYKit,XML,D:\clones\YYKit\Demo\YYKitDemo.xcodeproj\project.xcworkspace\xcshareddata\WorkspaceSettings.xcsettings,0,0.0,8.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\Foundation\NSObject+YYAddForKVO.h,12,33.0,8.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\UIKit\UIGestureRecognizer+YYAdd.h,11,28.0,8.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Utility\YYWeakProxy.h,16,37.0,8.0
+YYKit,XML,D:\clones\YYKit\Demo\YYKitDemo.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\WBStatusComposeTextParser.h,2,7.0,7.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYControl.h,2,7.0,7.0
+YYKit,Objective-C,D:\clones\YYKit\Demo\YYKitDemo\main.m,2,7.0,7.0
+YYKit,XML,D:\clones\YYKit\Framework\YYKit.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\Foundation\NSObject+YYAddForARC.h,7,17.0,7.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\Foundation\NSTimer+YYAdd.h,17,42.0,7.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\UIKit\UITextField+YYAdd.h,8,20.0,7.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Text\String\NSParagraphStyle+YYText.h,9,21.0,7.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Text\String\YYTextArchiver.h,6,20.0,7.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Utility\YYSentinel.h,7,17.0,7.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Utility\YYTransaction.h,10,25.0,7.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYAppDelegate.h,3,7.0,6.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYImageExampleHelper.h,6,9.0,6.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYTextExampleHelper.h,3,7.0,6.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\Foundation\NSNumber+YYAdd.h,8,19.0,6.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\UIKit\UIBarButtonItem+YYAdd.h,7,19.0,6.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\UIKit\UIBezierPath+YYAdd.h,9,22.0,6.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYBPGCoder.h,8,28.0,5.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYSimpleWebViewController.h,4,7.0,4.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Base\Foundation\NSThread+YYAdd.h,5,16.0,4.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\T1HomeTimelineItemsViewController.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\WBStatusTimelineViewController.h,3,8.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYFPSLabel.h,4,13.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYFeedListExample.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYImageBenchmark.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYImageDisplayExample.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYImageExample.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYImageProgressiveExample.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYKeychainExample.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYModelExample.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYRootViewController.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYTableView.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYTableViewCell.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYTextAsyncExample.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYTextAttachmentExample.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYTextAttributeExample.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYTextBindingExample.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYTextCopyPasteExample.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYTextEditExample.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYTextEmoticonExample.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYTextExample.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYTextMarkdownExample.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYTextRubyExample.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYTextTagExample.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYTextUndoRedoExample.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYUtilityExample.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\Demo\YYKitDemo\YYWebImageExample.h,3,7.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Utility\YYThreadSafeArray.h,6,20.0,3.0
+YYKit,C/C++ Header,D:\clones\YYKit\YYKit\Utility\YYThreadSafeDictionary.h,6,20.0,3.0
+YYKit,JSON,D:\clones\YYKit\Demo\YYKitDemo\EmoticonWeibo.bundle\additional\DisplayOnly\com.sina.emotions2015-04\info.json,0,0.0,1.0
+YYKit,JSON,D:\clones\YYKit\Demo\YYKitDemo\EmoticonWeibo.bundle\additional\DisplayOnly\com.sina.emotions2015-05\info.json,0,0.0,1.0
+YYKit,JSON,D:\clones\YYKit\Demo\YYKitDemo\EmoticonWeibo.bundle\additional\DisplayOnly\com.sina.emotions2015-06\info.json,0,0.0,1.0
+YYKit,JSON,D:\clones\YYKit\Demo\YYKitDemo\EmoticonWeibo.bundle\additional\DisplayOnly\com.sina.emotions2015-07\info.json,0,0.0,1.0
+YYKit,JSON,D:\clones\YYKit\Demo\YYKitDemo\EmoticonWeibo.bundle\additional\DisplayOnly\com.sina.emotions2015-08\info.json,0,0.0,1.0
+YYKit,JSON,D:\clones\YYKit\Demo\YYKitDemo\EmoticonWeibo.bundle\additional\com.sina.default\info.json,0,0.0,1.0

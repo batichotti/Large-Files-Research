@@ -1,0 +1,10 @@
+project,language,filename,blank,comment,code
+paperwork,YAML,D:\clones\paperwork\paperwork.yml,13,53.0,245.0
+paperwork,Markdown,D:\clones\paperwork\README.md,104,0.0,153.0
+paperwork,Bourne Shell,D:\clones\paperwork\development\local.sh,31,18.0,87.0
+paperwork,Markdown,D:\clones\paperwork\.github\ISSUE_TEMPLATE\bug_report.md,8,0.0,30.0
+paperwork,make,D:\clones\paperwork\Makefile,6,13.0,22.0
+paperwork,Markdown,D:\clones\paperwork\.github\ISSUE_TEMPLATE\feature_request.md,5,0.0,15.0
+paperwork,make,D:\clones\paperwork\development\Makefile,2,10.0,12.0
+paperwork,TOML,D:\clones\paperwork\traefik\traefik.toml,3,0.0,11.0
+paperwork,YAML,D:\clones\paperwork\_config.yml,0,0.0,5.0

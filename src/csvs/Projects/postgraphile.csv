@@ -1,0 +1,130 @@
+project,language,filename,blank,comment,code
+postgraphile,JavaScript,D:\clones\postgraphile\src\postgraphile\__tests__\withPostGraphileContext-test.js,49,18.0,1204.0
+postgraphile,JavaScript,D:\clones\postgraphile\src\postgraphile\http\__tests__\createPostGraphileHttpRequestHandler-test.js,66,35.0,1093.0
+postgraphile,Markdown,D:\clones\postgraphile\CHANGELOG.md,574,0.0,857.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\postgraphile\cli.ts,69,63.0,822.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\postgraphile\http\createPostGraphileHttpRequestHandler.ts,118,296.0,814.0
+postgraphile,JavaScript,D:\clones\postgraphile\postgraphiql\src\components\PostGraphiQL.js,77,104.0,721.0
+postgraphile,Markdown,D:\clones\postgraphile\examples\forum\TUTORIAL.md,223,0.0,589.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\postgraphile\withPostGraphileContext.ts,54,124.0,462.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\postgraphile\http\subscriptions.ts,42,73.0,420.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\postgraphile\postgraphile.ts,35,67.0,326.0
+postgraphile,GraphQL,D:\clones\postgraphile\examples\servers\schema.graphql,112,295.0,285.0
+postgraphile,Markdown,D:\clones\postgraphile\CONTRIBUTING.md,99,0.0,277.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\postgraphile\http\frameworks.ts,45,90.0,221.0
+postgraphile,GraphQL,D:\clones\postgraphile\src\postgraphile\__tests__\fixtures\mutations\mutation-create.graphql,2,0.0,212.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\postgraphile\pluginHook.ts,23,14.0,198.0
+postgraphile,SQL,D:\clones\postgraphile\examples\forum\schema.sql,52,7.0,183.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\postgraphile\http\__tests__\supertest\lib\test.ts,39,109.0,181.0
+postgraphile,JSON,D:\clones\postgraphile\package.json,0,0.0,171.0
+postgraphile,SQL,D:\clones\postgraphile\examples\kitchen-sink\schema.sql,34,0.0,168.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\interfaces.ts,9,243.0,154.0
+postgraphile,JSON,D:\clones\postgraphile\sponsors.json,0,0.0,150.0
+postgraphile,Markdown,D:\clones\postgraphile\README.md,63,0.0,139.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\postgraphile\http\liveSubscribe.ts,10,39.0,122.0
+postgraphile,Markdown,D:\clones\postgraphile\TROUBLESHOOTING.md,52,0.0,99.0
+postgraphile,GraphQL,D:\clones\postgraphile\src\postgraphile\__tests__\fixtures\mutations\mutation-update.graphql,2,0.0,96.0
+postgraphile,CSS,D:\clones\postgraphile\postgraphiql\src\components\postgraphiql.css,13,1.0,94.0
+postgraphile,JavaScript,D:\clones\postgraphile\src\postgraphile\__tests__\postgraphile-test.js,12,0.0,93.0
+postgraphile,YAML,D:\clones\postgraphile\.github\workflows\ci.yml,14,1.0,83.0
+postgraphile,SQL,D:\clones\postgraphile\examples\kitchen-sink\data.sql,11,0.0,77.0
+postgraphile,JavaScript,D:\clones\postgraphile\.eslintrc.js,3,6.0,66.0
+postgraphile,JavaScript,D:\clones\postgraphile\src\postgraphile\__tests__\postgraphileIntegrationQueries-test.js,8,20.0,66.0
+postgraphile,Markdown,D:\clones\postgraphile\SPONSORS.md,7,0.0,64.0
+postgraphile,TypeScript,D:\clones\postgraphile\examples\servers\restify\rum-and-raisin.ts,14,21.0,63.0
+postgraphile,SQL,D:\clones\postgraphile\examples\forum\data.sql,6,0.0,57.0
+postgraphile,TypeScript,D:\clones\postgraphile\examples\servers\common.ts,6,9.0,56.0
+postgraphile,TypeScript,D:\clones\postgraphile\examples\servers\fastify3\rum-and-raisin.ts,13,25.0,54.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\postgraphile\http\mapAsyncIterator.ts,7,18.0,54.0
+postgraphile,GraphQL,D:\clones\postgraphile\src\postgraphile\__tests__\fixtures\mutations\mutation-delete.graphql,3,0.0,53.0
+postgraphile,GraphQL,D:\clones\postgraphile\src\postgraphile\__tests__\fixtures\queries\connections.graphql,2,0.0,50.0
+postgraphile,JavaScript,D:\clones\postgraphile\src\postgraphile\__tests__\postgraphileIntegrationSchema-test.js,7,3.0,49.0
+postgraphile,GraphQL,D:\clones\postgraphile\src\postgraphile\__tests__\fixtures\queries\procedure-computed-fields.graphql,0,0.0,48.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\postgraphile\shutdownActions.ts,6,37.0,48.0
+postgraphile,JavaScript,D:\clones\postgraphile\scripts\proxied-test-server.js,10,16.0,47.0
+postgraphile,JavaScript,D:\clones\postgraphile\src\postgraphile\__tests__\postgraphileIntegrationSchemaExport-test.js,7,1.0,47.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\postgraphile\extendedFormatError.ts,4,12.0,47.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\index.ts,6,1.0,46.0
+postgraphile,GraphQL,D:\clones\postgraphile\src\postgraphile\__tests__\fixtures\queries\relation-head-tail.graphql,0,0.0,45.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\plugins.ts,5,5.0,44.0
+postgraphile,GraphQL,D:\clones\postgraphile\src\postgraphile\__tests__\fixtures\queries\node.graphql,1,0.0,44.0
+postgraphile,Markdown,D:\clones\postgraphile\examples\forum\README.md,15,0.0,42.0
+postgraphile,JavaScript,D:\clones\postgraphile\src\postgraphile\__tests__\postgraphileIntegrationMutations-test.js,9,13.0,42.0
+postgraphile,TypeScript,D:\clones\postgraphile\examples\servers\fastify3\vanilla.ts,9,15.0,41.0
+postgraphile,GraphQL,D:\clones\postgraphile\src\postgraphile\__tests__\fixtures\queries\types.graphql,1,0.0,41.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\postgraphile\schema\exportPostGraphileSchema.ts,7,7.0,41.0
+postgraphile,YAML,D:\clones\postgraphile\.github\workflows\docker-hub.yaml,5,0.0,39.0
+postgraphile,JSON,D:\clones\postgraphile\tsconfig.json,0,0.0,38.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\postgraphile\http\setupServerSentEvents.ts,8,15.0,36.0
+postgraphile,TypeScript,D:\clones\postgraphile\examples\servers\restify\vanilla.ts,9,15.0,35.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\postgraphile\http\__tests__\supertest\lib\agent.ts,12,18.0,35.0
+postgraphile,Bourne Again Shell,D:\clones\postgraphile\scripts\dev,8,4.0,34.0
+postgraphile,GraphQL,D:\clones\postgraphile\src\postgraphile\__tests__\fixtures\queries\query.graphql,1,0.0,33.0
+postgraphile,GraphQL,D:\clones\postgraphile\src\postgraphile\__tests__\fixtures\queries\relation-tail-head.graphql,0,0.0,33.0
+postgraphile,JavaScript,D:\clones\postgraphile\postgraphiql\src\formatSQL.js,0,0.0,32.0
+postgraphile,Dockerfile,D:\clones\postgraphile\Dockerfile,13,7.0,31.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\__tests__\utils\withPgClient.ts,8,19.0,30.0
+postgraphile,Bourne Shell,D:\clones\postgraphile\.github\workflows\ci\docker-entrypoint-initdb.d\020-wal2json.sh,4,2.0,26.0
+postgraphile,TypeScript,D:\clones\postgraphile\examples\servers\express\rum-and-raisin.ts,10,4.0,26.0
+postgraphile,JavaScript,D:\clones\postgraphile\src\postgraphile\__tests__\postgraphileIntegrationShutdown-test.js,5,1.0,25.0
+postgraphile,TypeScript,D:\clones\postgraphile\examples\servers\koa\rum-and-raisin.ts,8,4.0,22.0
+postgraphile,GraphQL,D:\clones\postgraphile\src\postgraphile\__tests__\fixtures\queries\unique-constraints.graphql,0,0.0,22.0
+postgraphile,Markdown,D:\clones\postgraphile\LICENSE.md,4,0.0,21.0
+postgraphile,JSON,D:\clones\postgraphile\postgraphiql\package.json,0,0.0,20.0
+postgraphile,CSS,D:\clones\postgraphile\postgraphiql\src\index.css,4,1.0,19.0
+postgraphile,TypeScript,D:\clones\postgraphile\examples\servers\koa\vanilla.ts,3,0.0,18.0
+postgraphile,Bourne Shell,D:\clones\postgraphile\scripts\build,6,0.0,18.0
+postgraphile,GraphQL,D:\clones\postgraphile\src\postgraphile\__tests__\fixtures\mutations\procedure-mutation.graphql,0,0.0,18.0
+postgraphile,GraphQL,D:\clones\postgraphile\src\postgraphile\__tests__\fixtures\queries\dynamic-json.graphql,1,2.0,18.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\postgraphile\http\__tests__\supertest\index.ts,7,10.0,18.0
+postgraphile,Markdown,D:\clones\postgraphile\ISSUE_TEMPLATE.md,11,0.0,17.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\__tests__\utils\createTestInParallel.ts,3,14.0,17.0
+postgraphile,TypeScript,D:\clones\postgraphile\examples\servers\express\vanilla.ts,3,0.0,16.0
+postgraphile,TypeScript,D:\clones\postgraphile\examples\servers\node\index.ts,2,0.0,15.0
+postgraphile,JavaScript,D:\clones\postgraphile\src\postgraphile\__tests__\__mocks__\postgraphile-core.js,2,0.0,15.0
+postgraphile,HTML,D:\clones\postgraphile\postgraphiql\public\index.html,0,0.0,14.0
+postgraphile,GraphQL,D:\clones\postgraphile\src\postgraphile\__tests__\fixtures\queries\classic-ids.graphql,0,0.0,14.0
+postgraphile,Bourne Again Shell,D:\clones\postgraphile\scripts\ci,5,0.0,13.0
+postgraphile,GraphQL,D:\clones\postgraphile\src\postgraphile\__tests__\fixtures\queries\procedure-query.graphql,0,0.0,13.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\__tests__\utils\pgPool.ts,4,1.0,12.0
+postgraphile,JavaScript,D:\clones\postgraphile\isTurbo.js,0,0.0,11.0
+postgraphile,JavaScript,D:\clones\postgraphile\resources\jest-preprocessor.js,3,3.0,11.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\postgres\inventory\pgClientFromContext.ts,6,5.0,11.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\postgraphile\postgraphilerc.ts,2,2.0,10.0
+postgraphile,JavaScript,D:\clones\postgraphile\examples\sample.postgraphilerc.js,0,0.0,9.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\__tests__\utils\kitchenSinkSchemaSql.ts,2,0.0,9.0
+postgraphile,Bourne Again Shell,D:\clones\postgraphile\scripts\run-kitchen-sink-sql,5,0.0,8.0
+postgraphile,JavaScript,D:\clones\postgraphile\src\postgraphile\__tests__\__mocks__\fs.js,2,1.0,8.0
+postgraphile,JavaScript,D:\clones\postgraphile\prettier.config.js,0,1.0,7.0
+postgraphile,Markdown,D:\clones\postgraphile\scripts\CHANGELOG_HEADER.md,2,0.0,7.0
+postgraphile,JavaScript,D:\clones\postgraphile\cli.js,0,0.0,6.0
+postgraphile,Bourne Again Shell,D:\clones\postgraphile\examples\forum\scripts\run-schema,3,0.0,6.0
+postgraphile,JavaScript,D:\clones\postgraphile\docker\.postgraphilerc.js,0,0.0,5.0
+postgraphile,Markdown,D:\clones\postgraphile\examples\README.md,4,0.0,5.0
+postgraphile,SQL,D:\clones\postgraphile\examples\forum\schema-demo.sql,4,5.0,5.0
+postgraphile,JavaScript,D:\clones\postgraphile\index.js,0,0.0,5.0
+postgraphile,JavaScript,D:\clones\postgraphile\plugins.js,0,0.0,5.0
+postgraphile,JavaScript,D:\clones\postgraphile\postgraphiql\src\index.js,2,0.0,5.0
+postgraphile,TypeScript,D:\clones\postgraphile\src\postgraphile\index.ts,0,0.0,5.0
+postgraphile,Bourne Shell,D:\clones\postgraphile\.github\workflows\ci\docker-entrypoint-initdb.d\030-setup.sh,1,0.0,4.0
+postgraphile,SQL,D:\clones\postgraphile\examples\forum\schema-drop.sql,3,3.0,4.0
+postgraphile,Bourne Again Shell,D:\clones\postgraphile\postgraphile,0,0.0,4.0
+postgraphile,JavaScript,D:\clones\postgraphile\postgraphiql\.eslintrc.js,0,0.0,4.0
+postgraphile,Bourne Again Shell,D:\clones\postgraphile\scripts\update-engine,0,0.0,4.0
+postgraphile,JavaScript,D:\clones\postgraphile\src\__tests__\utils\printSchemaOrdered.js,1,0.0,4.0
+postgraphile,Markdown,D:\clones\postgraphile\src\assets\README.md,1,0.0,4.0
+postgraphile,TypeScript,D:\clones\postgraphile\typings\package.d.ts,0,0.0,4.0
+postgraphile,TypeScript,D:\clones\postgraphile\typings\pg-connection-string.d.ts,0,0.0,4.0
+postgraphile,TypeScript,D:\clones\postgraphile\typings\sponsors.d.ts,0,0.0,4.0
+postgraphile,Bourne Shell,D:\clones\postgraphile\.github\workflows\ci\docker-entrypoint-initdb.d\010-enable_wal.sh,1,0.0,3.0
+postgraphile,Markdown,D:\clones\postgraphile\examples\kitchen-sink\README.md,2,0.0,3.0
+postgraphile,Bourne Again Shell,D:\clones\postgraphile\run-pg,0,0.0,3.0
+postgraphile,Bourne Again Shell,D:\clones\postgraphile\scripts\test,2,0.0,3.0
+postgraphile,YAML,D:\clones\postgraphile\.github\FUNDING.yml,0,0.0,2.0
+postgraphile,Markdown,D:\clones\postgraphile\postgraphiql\README.md,1,0.0,2.0
+postgraphile,Bourne Again Shell,D:\clones\postgraphile\scripts\typecheck,1,0.0,2.0
+postgraphile,Markdown,D:\clones\postgraphile\src\README.md,1,0.0,2.0
+postgraphile,Bourne Again Shell,D:\clones\postgraphile\examples\forum\scripts\run-schema-demo,4,4.0,1.0
+postgraphile,TypeScript,D:\clones\postgraphile\plugins.d.ts,0,0.0,1.0
+postgraphile,JavaScript,D:\clones\postgraphile\resources\jest-setup.js,0,0.0,1.0
+postgraphile,Bourne Shell,D:\clones\postgraphile\rmlocal.sh,0,0.0,1.0

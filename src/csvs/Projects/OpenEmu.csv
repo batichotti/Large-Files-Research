@@ -1,0 +1,954 @@
+project,language,filename,blank,comment,code
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\Setup Assistant Resources\OpenEmuText.dae,0,0.0,5958.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\Controller-Database.plist,0,0.0,4054.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\Setup Assistant Resources\OpenEmu.dae,0,0.0,2881.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEGameDocument.swift,335,112.0,1531.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\include\blur-functions.h,89,664.0,1163.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OEAlertTest\MainMenu.xib,0,0.0,1073.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\Main.storyboard,0,3.0,942.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\src\tex2Dantialias.h,63,428.0,902.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OEGameCollectionViewController.m,223,64.0,841.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OEImportOperation.m,181,93.0,766.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\xadmaster.h,118,187.0,724.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\AppDelegate.swift,241,65.0,713.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OEMediaViewController.m,189,43.0,688.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OEGridView.m,146,50.0,675.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEAlert.swift,137,51.0,669.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OEPopoutGameWindowController.m,165,74.0,660.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OELibraryDatabase.m,196,61.0,648.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\PrefControlsController.swift,162,51.0,570.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu.xcworkspace\xcshareddata\xcschemes\OpenEmu + Cores (ExperimentalAlpha).xcscheme,0,0.0,555.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PlayStation 2\Controller-Mappings.plist,0,0.0,555.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PlayStation\Controller-Mappings.plist,0,0.0,555.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\ShaderParametersViewController.swift,129,37.0,537.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\GameControlsBar.swift,143,58.0,535.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Saturn\Controller-Mappings.plist,0,0.0,498.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEDBGame.swift,111,44.0,497.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OECollectionViewController.m,144,57.0,495.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OEGridGameCell.m,118,34.0,489.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\SidebarController.swift,153,44.0,485.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\1.2 to 1.3.xcmappingmodel\xcmapping.xml,1,0.0,477.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameCube\Controller-Mappings.plist,0,0.0,475.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\GameScannerViewController.swift,185,36.0,462.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OESidebarController.m,135,46.0,455.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SetupAssistant.xib,2,0.0,444.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\1.1 to 1.2.xcmappingmodel\xcmapping.xml,1,0.0,443.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PSP\Controller-Mappings.plist,0,0.0,443.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\1.0 Beta 4 to 1.0.xcmappingmodel\xcmapping.xml,1,0.0,440.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\1.0 Beta to 0.2.xcmappingmodel\xcmapping.xml,1,0.0,440.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\0.2 to 0.3.xcmappingmodel\xcmapping.xml,1,0.0,439.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\N64\Controller-Mappings.plist,0,0.0,439.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\PrefDebugController.swift,111,32.0,434.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\MainWindowController.swift,92,38.0,429.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Arcade\Controller-Mappings.plist,0,0.0,429.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\OpenEmu.appiconset\Contents.json,0,0.0,428.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Dreamcast\Controller-Mappings.plist,0,0.0,427.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Genesis\Controller-Mappings.plist,0,0.0,424.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC-FX\Controller-Mappings.plist,0,0.0,424.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega 32X\Controller-Mappings.plist,0,0.0,424.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega CD\Controller-Mappings.plist,0,0.0,424.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEDBSaveState.swift,102,60.0,422.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\ImageCollectionViewController.swift,112,45.0,413.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NDS\Controller-Mappings.plist,0,0.0,403.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SuperNES\Controller-Mappings.plist,0,0.0,403.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\GameCollectionViewController.swift,103,37.0,397.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\3DO\Controller-Mappings.plist,0,0.0,390.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\CoreUpdater.swift,108,31.0,364.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\src\phosphor-mask-resizing.h,40,275.0,362.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\LibraryController.swift,83,39.0,359.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy Advance\Controller-Mappings.plist,0,0.0,358.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Pokemon mini\Controller-Mappings.plist,0,0.0,358.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Virtual Boy\Controller-Mappings.plist,0,0.0,358.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\BlankSlateView.swift,121,33.0,353.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\_CodeSignature\CodeResources,0,0.0,352.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu.xcworkspace\xcshareddata\xcschemes\OpenEmu + Cores.xcscheme,0,0.0,349.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\ControlsButtonSetupView.swift,104,40.0,349.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OELibraryDatabase+Maintenance.m,63,38.0,345.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\KeyboardUsages.plist,0,0.0,344.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\src\geometry-functions.h,37,314.0,342.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\HomebrewViewController.swift,93,40.0,331.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 5200\Controller-Mappings.plist,0,0.0,322.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 7800\Controller-Mappings.plist,0,0.0,322.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Jaguar\Controller-Mappings.plist,0,0.0,322.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Nintendo FDS\Controller-Mappings.plist,0,0.0,322.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\src\scanline-functions.h,24,227.0,320.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\include\special-functions.h,51,153.0,306.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\HomebrewViewController.xib,0,0.0,305.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEDBRom.swift,71,50.0,298.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PlayStation\PlayStation-Info.plist,0,0.0,297.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PlayStation 2\PlayStation2-Info.plist,0,0.0,296.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy\Controller-Mappings.plist,0,0.0,286.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Lynx\Controller-Mappings.plist,0,0.0,286.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NES\Controller-Mappings.plist,0,0.0,286.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine CD\Controller-Mappings.plist,0,0.0,286.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine\Controller-Mappings.plist,0,0.0,286.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Supervision\Controller-Mappings.plist,0,0.0,286.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\VMU\Controller-Mappings.plist,0,0.0,286.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\WonderSwan\Controller-Mappings.plist,0,0.0,286.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\src\bind-shader-params.h,21,29.0,283.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OEAudioDeviceManager.m,76,27.0,279.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Vectrex\Controller-Mappings.plist,0,0.0,267.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEDBSystem.swift,69,36.0,265.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\ROMImporter.swift,64,36.0,264.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\NSImage+DrawingAdditions.swift,79,29.0,262.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OEVersionMigrationController.m,76,34.0,261.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameCube\GameCube-Info.plist,0,0.0,261.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OEGridMediaItemCell.m,78,37.0,255.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NeoGeoPocket\Controller-Mappings.plist,0,0.0,252.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\ALIterativeMigrator.m,47,64.0,251.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 2600\Controller-Mappings.plist,0,0.0,250.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Commodore 64\Controller-Mappings.plist,0,0.0,250.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameGear\Controller-Mappings.plist,0,0.0,250.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SG-1000\Controller-Mappings.plist,0,0.0,250.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SegaMasterSystem\Controller-Mappings.plist,0,0.0,250.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Saturn\Saturn-Info.plist,0,0.0,244.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\N64\N64-Info.plist,0,0.0,243.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\PrefLibraryController.xib,0,0.0,242.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Intellivision\Controller-Mappings.plist,0,0.0,242.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\Shaders\MAME HLSL\parameterGroups.plist,0,0.0,238.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 5200\Atari 5200-Info.plist,0,0.0,234.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Jaguar\Jaguar-Info.plist,0,0.0,234.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\src\crt-royale-bloom-approx.h,20,120.0,227.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\PrefCoresController.xib,0,0.0,226.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Intellivision\Intellivision-Info.plist,0,0.0,220.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\MSX\Controller-Mappings.plist,0,0.0,216.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\PrefBiosController.swift,72,26.0,214.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\ColecoVision\Controller-Mappings.plist,0,0.0,214.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEDBImage.swift,57,31.0,213.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PSP\PSP-Info.plist,0,0.0,213.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\ColecoVision\ColecoVision-Info.plist,0,0.0,211.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\CollectionView.swift,49,28.0,210.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\PrefControlsController2.xib,0,0.0,209.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\SetupAssistant.swift,52,36.0,209.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Dreamcast\Dreamcast-Info.plist,0,0.0,208.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\GameViewController.swift,71,40.0,207.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\src\crt-royale-scanlines-horizontal-apply-mask.h,24,82.0,206.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OEUtilities.m,51,33.0,205.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\ScreenshotViewController.swift,67,24.0,204.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\LibraryToolbarDelegate.swift,69,28.0,203.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\ControllerImageView.swift,57,27.0,198.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\HomebrewCoverView.swift,63,33.0,196.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\PrefGameplayController.xib,0,0.0,196.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\ShaderParametersViewController.xib,0,0.0,194.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\XADArchiveParser.h,51,26.0,194.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OESystemPluginPostInstall\main.swift,47,31.0,193.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OECollectionViewController.xib,0,0.0,192.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OELibraryDatabase+Moving.m,56,54.0,191.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Arcade\Arcade-Info.plist,0,0.0,183.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Virtual Boy\Virtual Boy-Info.plist,0,0.0,183.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NDS\NDS-Info.plist,0,0.0,182.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEAlert+Additions.swift,57,23.0,181.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\SaveStateViewController.swift,61,24.0,179.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 8-bit\Controller-Mappings.plist,0,0.0,178.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Odyssey2\Controller-Mappings.plist,0,0.0,178.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OpenEmu-Info.plist,0,0.0,177.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\Other Assets\cheats-database.xml,0,0.0,177.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 2600\Atari 2600-Info.plist,0,0.0,177.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine CD\PC Engine CD-Info.plist,0,0.0,176.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\AppMover.swift,42,22.0,175.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\src\derived-settings-and-constants.h,32,108.0,175.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PSP\OEPSPSystemController.m,60,53.0,175.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\parameterGroups.plist,0,0.0,174.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\src\bloom-functions.h,23,121.0,173.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\NTSC VCR\misc\colorspace-tools.h,40,14.0,173.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Genesis\Genesis-Info.plist,0,0.0,173.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine\PC Engine-Info.plist,0,0.0,173.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega 32X\Sega 32X-Info.plist,0,0.0,173.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SuperNES\SuperNES-Info.plist,0,0.0,173.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\XADArchive.h,49,24.0,173.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\PrefBiosController.xib,0,0.0,170.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega CD\Sega CD-Info.plist,0,0.0,170.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OpenVGDB.swift,65,25.0,168.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\GameInfoHelper.swift,43,35.0,167.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC-FX\PC-FX-Info.plist,0,0.0,167.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\WonderSwan\WonderSwan-Info.plist,0,0.0,166.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OpenEmu.xcodeproj\xcshareddata\xcschemes\OpenEmu (Experimental).xcscheme,0,0.0,165.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\GameControlsBarView.swift,47,29.0,163.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\LibraryGamesViewController.swift,57,27.0,161.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OpenEmu.xcodeproj\xcshareddata\xcschemes\OpenEmu(ExperimentalAlpha).xcscheme,0,0.0,165.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\PreferencesWindowController.swift,80,34.0,161.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\src\crt-royale-geometry-aa-last-pass.h,24,60.0,160.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SidebarController.xib,0,0.0,158.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\3DO\3DO-Info.plist,0,0.0,158.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 7800\Atari 7800-Info.plist,0,0.0,156.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\PrefControlsController.xib,0,0.0,153.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Pokemon mini\Pokemon mini-Info.plist,0,0.0,151.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEControlLabelsGenerator\main.swift,29,25.0,150.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\IKImageWrapper.h,2,0.0,149.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy Advance\GameBoy Advance-Info.plist,0,0.0,149.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\include\gamma-management.h,87,314.0,146.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\GameTableView.xib,0,0.0,145.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Nintendo FDS\Nintendo FDS-Info.plist,0,0.0,144.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\GameViewController+TouchBar.swift,75,26.0,143.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\GameScanner.xib,0,0.0,142.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\GameTableView.swift,35,27.0,141.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OpenEmu.xcodeproj\xcshareddata\xcschemes\OpenEmu.xcscheme,0,0.0,141.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\CSInputBuffer.h,56,25.0,141.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\VMU\VMU-Info.plist,0,0.0,140.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\ShaderControl.swift,31,38.0,139.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\ImageCollectionDataSource.swift,31,24.0,138.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Commodore 64\Commodore 64-Info.plist,0,0.0,138.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NES\NES-Info.plist,0,0.0,138.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu-metal.xcworkspace\xcshareddata\xcschemes\OpenEmu + Stella.xcscheme,0,0.0,137.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy\GameBoy-Info.plist,0,0.0,137.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Vectrex\Vectrex-Info.plist,0,0.0,136.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Lynx\Lynx-Info.plist,0,0.0,135.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Supervision\Supervision-Info.plist,0,0.0,135.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\UniversalDetector.framework\Versions\A\_CodeSignature\CodeResources,0,0.0,135.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SegaMasterSystem\SegaMasterSystem-Info.plist,0,0.0,133.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\AvailableLibrariesViewController.swift,31,24.0,130.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NeoGeoPocket\NeoGeoPocket-Info.plist,0,0.0,130.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\CSHandle.h,41,26.0,130.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\GameDocumentController.swift,47,23.0,129.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\XADString.h,43,20.0,129.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OpenEmu.xcodeproj\xcshareddata\xcschemes\OEControlLabelsGenerator.xcscheme,0,0.0,128.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SG-1000\SG-1000-Info.plist,0,0.0,128.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\XADPath.h,31,27.0,128.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEGameLayerNotificationView.swift,36,29.0,127.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameGear\GameGear-Info.plist,0,0.0,127.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\MSX\OEMSXSystemResponder.m,23,26.0,127.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\IKImageBrowserCell.h,3,1.0,125.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEMediaViewController+TouchBar.swift,58,25.0,125.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\MSX\MSX-Info.plist,0,0.0,125.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\NameShaderPreset.xib,0,0.0,124.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\IKRenderer.h,8,0.0,120.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 8-bit\Atari 8bit-Info.plist,0,0.0,119.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Odyssey2\Odyssey2-Info.plist,0,0.0,117.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\ControlsSectionTitleView.swift,33,28.0,116.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\XADSimpleUnarchiver.h,53,21.0,116.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\MSX\OEMSXSystemResponderClient.h,19,25.0,115.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEAlertTest\AppDelegate.swift,17,23.0,113.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\BIOSFile.swift,41,50.0,112.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OEDBRomMigrationPolicy.m,20,23.0,111.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\PrefLibraryController.swift,30,26.0,110.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OEDatabase.xcdatamodeld\OEDatabase 1.3.xcdatamodel\contents,0,0.0,108.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\CoreDownload.swift,37,24.0,107.0
+OpenEmu,C,D:\clones\OpenEmu\OpenEmu\OpenEmuQLGenerator\main.c,31,107.0,106.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\PrefCoresController.swift,33,26.0,106.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\GameCollectionViewItemIndicationLayer.swift,19,23.0,102.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OEDatabase.xcdatamodeld\OEDatabase 0.4.xcdatamodel\contents,0,0.0,101.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Geom Deluxe\parameterGroups.plist,0,0.0,101.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\IKImageBrowserLayoutManager.h,2,1.0,100.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OEDBItem.m,29,23.0,100.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OEDatabase.xcdatamodeld\OEDatabase 1.1.xcdatamodel\contents,0,0.0,100.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\openemutools\Chalk.swift,25,23.0,100.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OEDatabase.xcdatamodeld\OEDatabase 0.3.xcdatamodel\contents,0,0.0,99.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OEDatabase.xcdatamodeld\OEDatabase 1.2.xcdatamodel\contents,0,0.0,99.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OEDatabase.xcdatamodeld\OEDatabase 0.2.xcdatamodel\contents,0,0.0,98.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OEDatabase.xcdatamodeld\OEDatabase 0.5.xcdatamodel\contents,0,0.0,98.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OEDatabase.xcdatamodeld\OEDatabase 1.0.xcdatamodel\contents,0,0.0,98.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OEDatabase.xcdatamodeld\OEDatabase.xcdatamodel\contents,0,0.0,98.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\include\quad-pixel-communication.h,23,122.0,98.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PlayStation\OEPSXSystemController.m,40,51.0,96.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\SetupAssistantQCOpenGLLayer.swift,29,27.0,95.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEDBScreenshot.swift,27,29.0,90.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu.xcworkspace\contents.xcworkspacedata,0,0.0,88.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\GlossButton.swift,27,23.0,88.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\XADUnarchiver.h,37,21.0,86.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OEFileManager.m,16,24.0,84.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SliderCell.xib,0,0.0,80.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OELibraryDatabase.h,39,24.0,78.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\crt-royale-settings-files\user-settings-royale-with-cheese-nvidia.h,28,254.0,77.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\SQLiteDatabase.swift,17,23.0,76.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PlayStation 2\OEPS2SystemController.m,34,42.0,76.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\Download.swift,36,25.0,74.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEGameCollectionViewController+TouchBar.swift,36,23.0,74.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\NSControl+i18n.swift,10,23.0,73.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\crt-royale-settings-files\user-settings-default-nvidia-clean.h,11,8.0,73.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\crt-royale-settings-files\user-settings-default-nvidia.h,28,258.0,73.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\XADSWFTagParser.h,19,20.0,73.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\crt-royale-settings-files\user-settings-royale-with-cheese-ati.h,28,259.0,72.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\user-settings.h,28,263.0,72.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\openemutools\ShaderCommand+Benchmark.swift,20,24.0,71.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\crt-royale-settings-files\user-settings-fast-nvidia.h,28,261.0,70.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\crt-royale-settings-files\user-settings-default-intel-clean.h,11,12.0,69.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\crt-royale-settings-files\user-settings-default-intel.h,28,262.0,69.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\crt-royale-settings-files\user-settings-default-ati-clean.h,11,13.0,68.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\crt-royale-settings-files\user-settings.h,28,263.0,68.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\CollectionViewItem.xib,0,0.0,66.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\IKImageBrowserGridGroup.h,4,2.0,66.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\crt-royale-settings-files\user-settings-fast-intel.h,28,265.0,66.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\NSImageView+OEAdditions.swift,24,25.0,65.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\crt-royale-settings-files\user-settings-fast-ati.h,28,266.0,65.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\crt-royale-settings-files\user-settings-fast-static-nvidia.h,28,266.0,65.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\ImageCollectionViewController.xib,0,0.0,64.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\ImageCollectionViewItem.xib,0,0.0,64.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OEDBSaveStateMigrationPolicy.m,16,24.0,64.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\NSDocument+OEAdditions.m,21,23.0,63.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\NSURL+LibraryAdditions.swift,26,23.0,63.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PlayStation 2\Controller-Preferences.plist,0,0.0,63.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PlayStation\Controller-Preferences.plist,0,0.0,63.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OEDBImageMigrationPolicy.m,21,24.0,62.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\crt-royale-settings-files\user-settings-fast-static-intel.h,28,270.0,61.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\TextButton.swift,19,23.0,61.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OEArchiveHelper.m,18,24.0,60.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\crt-royale-settings-files\user-settings-fast-static-ati.h,28,271.0,60.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OpenEmuQLGenerator\OESaveStateQLPlugin-Info.plist,0,0.0,59.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\AvailableLibrariesCollectionViewItem.xib,0,0.0,58.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEGridViewFieldEditor.swift,13,23.0,58.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\N64\OEN64SystemController.m,14,32.0,58.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\CollectionViewItem.swift,15,23.0,57.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OpenEmuApplication.swift,29,23.0,57.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\openemutools\ShaderCommand+DumpMetalSource.swift,13,23.0,57.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 5200\Controller-Preferences.plist,0,0.0,55.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Jaguar\Controller-Preferences.plist,0,0.0,55.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\UserDefaults+OEAdditions.swift,20,29.0,55.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\grid_header.imageset\Contents.json,0,0.0,54.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Commodore 64\OEC64SystemResponder.m,16,23.0,54.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OECollectionViewController.h,22,24.0,53.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\PrefGameplayController.swift,25,24.0,53.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameCube\Controller-Preferences.plist,0,0.0,53.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Saturn\Controller-Preferences-JAP.plist,0,0.0,53.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Saturn\Controller-Preferences.plist,0,0.0,53.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OELibraryMigrator.m,18,23.0,52.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OEPluginDocument.m,16,24.0,52.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\XADRegex.h,23,34.0,52.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\AvailableLibrariesViewController.xib,0,0.0,51.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\ControlsKeyButton.swift,17,24.0,51.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\PrefDebugController.xib,0,0.0,51.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SidebarItemView.xib,0,0.0,51.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Intellivision\Controller-Preferences.plist,0,0.0,51.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SegaMasterSystem\OESMSSystemResponder.m,13,23.0,51.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\LZW.h,15,20.0,51.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\BlankSlateSpinnerView.swift,19,25.0,50.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Preferences\controls_shadow.imageset\Contents.json,0,0.0,50.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Preferences\wood_inset_box.imageset\Contents.json,0,0.0,50.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Preferences\wood_popup_button.imageset\Contents.json,0,0.0,50.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Preferences\wood_textfield.imageset\Contents.json,0,0.0,50.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Preferences\wood_textfield_focus.imageset\Contents.json,0,0.0,50.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Setup Assistant\installer_dark_inset_box.imageset\Contents.json,0,0.0,50.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Setup Assistant\installer_scrollview_box.imageset\Contents.json,0,0.0,50.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\ImageCollectionHeaderView.xib,0,0.0,50.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\NameShaderPreset.swift,11,23.0,50.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\SetupAssistantTableView.swift,19,24.0,50.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\ControlsLabels.swift,18,23.0,49.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\ColecoVision\Controller-Preferences.plist,0,0.0,49.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\N64\Controller-Preferences.plist,0,0.0,49.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\XADException.h,9,20.0,49.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\ControlsPopUpButtonCell.swift,12,23.0,48.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEImportOperation.h,21,23.0,48.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 5200\Keyboard-Mappings.plist,0,0.0,48.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Jaguar\Keyboard-Mappings.plist,0,0.0,48.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Preferences\controls_textfield_focus.imageset\Contents.json,0,0.0,47.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 8-bit\OEA8SystemResponder.m,15,23.0,47.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega CD\OESegaCDSystemController.m,18,27.0,47.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\ControlsScroller.swift,20,23.0,46.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\GridSizeSlider.swift,16,23.0,46.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OESearchField.swift,11,28.0,46.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\UniversalDetector.framework\Versions\A\Resources\Info.plist,0,0.0,46.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Resources\Info.plist,0,0.0,46.0
+OpenEmu,Markdown,D:\clones\OpenEmu\ILLUSTRATIONS.md,5,0.0,45.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\AboutViewController.swift,13,23.0,45.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PSP\Controller-Preferences.plist,0,0.0,45.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\openemutools\ShaderCommand+Thumbnail.swift,12,23.0,45.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Game Controls\hud_bar.imageset\Contents.json,0,0.0,44.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Preferences\controls_textfield.imageset\Contents.json,0,0.0,44.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Preferences\wood_knob_vertical.imageset\Contents.json,0,0.0,44.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Intellivision\Keyboard-Mappings.plist,0,0.0,44.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Saturn\OESaturnSystemController.m,18,27.0,44.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SidebarHeaderView.xib,0,0.0,43.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Dreamcast\Controller-Preferences.plist,0,0.0,43.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NDS\Controller-Preferences.plist,0,0.0,43.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu-metal.xcworkspace\xcshareddata\xcdebugger\Breakpoints_v2.xcbkptlist,0,0.0,42.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu.xcworkspace\xcshareddata\xcdebugger\Breakpoints_v2.xcbkptlist,0,0.0,42.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\NSFileManager+OEHashingAdditions.m,16,26.0,42.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OpenEmuQLPreview\Info.plist,0,0.0,42.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OpenEmuQLThumbnail\Info.plist,0,0.0,42.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\ColecoVision\Keyboard-Mappings.plist,0,0.0,42.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\HUDBarButton.swift,17,24.0,41.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\RatingCell.swift,17,24.0,41.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine CD\OEPCECDSystemController.m,15,25.0,41.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PlayStation\OEPSXSystemResponder.m,14,23.0,41.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PlayStation\OEPSXSystemResponderClient.h,8,23.0,41.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Saturn\OESaturnSystemResponder.m,14,23.0,41.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Virtual Boy\Controller-Preferences.plist,0,0.0,41.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PlayStation 2\Keyboard-Mappings.plist,0,0.0,40.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PlayStation\Keyboard-Mappings.plist,0,0.0,40.0
+OpenEmu,Markdown,D:\clones\OpenEmu\README.md,7,0.0,40.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\GroupCell.xib,0,0.0,39.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\MainWindow.xib,0,0.0,39.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Arcade\Controller-Preferences.plist,0,0.0,39.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 2600\Controller-Preferences.plist,0,0.0,39.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine CD\Controller-Preferences-JAP.plist,0,0.0,39.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine CD\Controller-Preferences.plist,0,0.0,39.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine\Controller-Preferences-JAP.plist,0,0.0,39.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine\Controller-Preferences.plist,0,0.0,39.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\ImageCacheService.swift,7,23.0,38.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\LibraryMigrator.swift,11,23.0,38.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\XADPrefixCode.h,12,20.0,38.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Genesis\Controller-Preferences.plist,0,0.0,37.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Genesis\OEGenesisSystemResponder.m,13,23.0,37.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NES\OENESSystemResponder.m,13,23.0,37.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC-FX\Controller-Preferences.plist,0,0.0,37.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC-FX\OEPCFXSystemResponder.m,13,23.0,37.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega 32X\Controller-Preferences.plist,0,0.0,37.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega CD\Controller-Preferences.plist,0,0.0,37.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega CD\OESegaCDSystemResponder.m,13,23.0,37.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SuperNES\Controller-Preferences.plist,0,0.0,37.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SuperNES\OESNESSystemResponder.m,13,23.0,37.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\WonderSwan\Controller-Preferences.plist,0,0.0,37.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\CSFileHandle.h,13,24.0,37.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\Cheats.swift,24,46.0,36.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\GameScannerButton.swift,10,23.0,36.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\3DO\OE3DOSystemController.m,21,27.0,36.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameCube\OEGCSystemController.m,19,31.0,36.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PlayStation 2\OEPS2SystemResponderClient.h,8,23.0,36.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Saturn\OESaturnSystemResponderClient.h,8,23.0,36.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega 32X\OESega32XSystemController.m,11,23.0,36.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\XADSWFGeometry.h,9,22.0,36.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\NSArray+OEAdditions.m,7,23.0,35.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\3DO\Controller-Preferences.plist,0,0.0,35.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 7800\Controller-Preferences.plist,0,0.0,35.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Intellivision\OEIntellivisionSystemResponder.m,12,23.0,35.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Odyssey2\OEOdyssey2SystemResponder.m,12,23.0,35.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\URL+OEAdditions.swift,15,23.0,35.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\CheckboxCell.xib,0,0.0,34.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\GlossCheckboxCell.swift,5,23.0,34.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\blank_slate_box_text.colorset\Contents.json,0,0.0,34.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OEAlertTest\Info.plist,0,0.0,34.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OEGridCell.m,11,23.0,34.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OpenEmuQLGenerator\GenerateThumbnailForURL.m,9,28.0,34.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Arcade\Keyboard-Mappings.plist,0,0.0,34.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\N64\Keyboard-Mappings.plist,0,0.0,34.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NDS\Keyboard-Mappings.plist,0,0.0,34.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Saturn\Keyboard-Mappings.plist,0,0.0,34.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Virtual Boy\Keyboard-Mappings.plist,0,0.0,34.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OpenEmuQLGenerator\GeneratePreviewForURL.m,8,28.0,33.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OpenEmuTests\ROMImporterTests.swift,10,23.0,33.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy Advance\Controller-Preferences.plist,0,0.0,33.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Pokemon mini\Controller-Preferences.plist,0,0.0,33.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Vectrex\OEVectrexSystemController.m,10,23.0,33.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Vectrex\OEVectrexSystemResponder.m,10,29.0,33.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\Checksums.h,15,20.0,33.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\LibraryToolbar.swift,7,23.0,32.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\ShaderParameters.xib,0,0.0,32.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 2600\Keyboard-Mappings.plist,0,0.0,32.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine CD\Keyboard-Mappings.plist,0,0.0,32.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine\Keyboard-Mappings.plist,0,0.0,32.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\CSStreamHandle.h,8,26.0,32.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\Preferences.xib,0,0.0,31.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 5200\OE5200SystemResponderClient.h,8,23.0,31.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameCube\OEGCSystemResponderClient.h,8,23.0,31.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Intellivision\OEIntellivisionSystemResponderClient.h,8,24.0,31.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Jaguar\OEJaguarSystemResponderClient.h,8,23.0,31.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Nintendo FDS\Controller-Preferences.plist,0,0.0,31.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Nintendo FDS\OEFDSSystemResponder.m,10,23.0,31.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\CSMemoryHandle.h,10,24.0,31.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu.xcworkspace\xcshareddata\IDETemplateMacros.plist,0,0.0,30.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\ControlsPopUpButton.swift,12,23.0,30.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameCube\Keyboard-Mappings.plist,0,0.0,30.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Genesis\Keyboard-Mappings.plist,0,0.0,30.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC-FX\Keyboard-Mappings.plist,0,0.0,30.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PSP\Keyboard-Mappings.plist,0,0.0,30.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega 32X\Keyboard-Mappings.plist,0,0.0,30.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega CD\Keyboard-Mappings.plist,0,0.0,30.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SuperNES\Keyboard-Mappings.plist,0,0.0,30.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\WonderSwan\Keyboard-Mappings.plist,0,0.0,30.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\CSZlibHandle.h,11,24.0,30.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEDBSmartCollection.swift,9,25.0,29.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEShadersModel+OpenEmu.swift,6,23.0,29.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 2600\OE2600SystemResponder.m,11,23.0,29.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 7800\OE7800SystemResponder.m,11,23.0,29.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy\Controller-Preferences.plist,0,0.0,29.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Lynx\Controller-Preferences.plist,0,0.0,29.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\N64\OEN64SystemResponderClient.h,13,27.0,29.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NES\Controller-Preferences-JAP.plist,0,0.0,29.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NES\Controller-Preferences.plist,0,0.0,29.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Supervision\Controller-Preferences.plist,0,0.0,29.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\VMU\Controller-Preferences.plist,0,0.0,29.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Vectrex\Controller-Preferences.plist,0,0.0,29.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\broker\Info.plist,0,0.0,29.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\IKImageBrowserView.h,17,10.0,28.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\3DO\Keyboard-Mappings.plist,0,0.0,28.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 7800\Keyboard-Mappings.plist,0,0.0,28.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\ColecoVision\OEColecoVisionSystemResponderClient.h,8,23.0,28.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Dreamcast\Keyboard-Mappings.plist,0,0.0,28.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEDBCollection.swift,12,27.0,27.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Commodore 64\Controller-Preferences.plist,0,0.0,27.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameGear\Controller-Preferences.plist,0,0.0,27.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Genesis\OEGenesisSystemResponderClient.h,8,23.0,27.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NDS\OENDSSystemResponderClient.h,8,23.0,27.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NeoGeoPocket\Controller-Preferences.plist,0,0.0,27.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC-FX\OEPCFXSystemResponderClient.h,8,23.0,27.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PSP\OEPSPSystemResponderClient.h,8,23.0,27.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SG-1000\Controller-Preferences.plist,0,0.0,27.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega CD\OESegaCDSystemResponderClient.h,8,23.0,27.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SegaMasterSystem\Controller-Preferences.plist,0,0.0,27.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SuperNES\OESNESSystemResponderClient.h,8,23.0,27.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\NSDocumentController+Additions.swift,11,23.0,26.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEGridView.h,11,23.0,26.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 2600\OE2600SystemResponderClient.h,8,23.0,26.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Dreamcast\OEDCSystemResponderClient.h,8,23.0,26.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy Advance\Keyboard-Mappings.plist,0,0.0,26.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Genesis\OEGenesisSystemController.m,10,23.0,26.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NDS\OENDSSystemResponder.m,11,23.0,26.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Pokemon mini\Keyboard-Mappings.plist,0,0.0,26.0
+OpenEmu,Markdown,D:\clones\OpenEmu\.github\ISSUE_TEMPLATE\bug_report.md,11,0.0,25.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Preferences\bios_found.imageset\Contents.json,0,0.0,25.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Preferences\bios_missing.imageset\Contents.json,0,0.0,25.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\blank_slate_spinner.imageset\Contents.json,0,0.0,25.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OpenEmuHelperApp\OpenEmuHelperApp-Info.plist,0,0.0,25.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OpenEmuTests\GameInfoHelperTests.swift,7,23.0,25.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\PreferencesControlsBox.swift,15,25.0,25.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Commodore 64\OEC64SystemResponderClient.h,7,23.0,25.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\MSX\Controller-Preferences.plist,0,0.0,25.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SegaMasterSystem\OESMSSystemResponderClient.h,11,23.0,25.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\XADRC4Handle.h,12,20.0,25.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\openemutools\OpenEmuTools.swift,5,23.0,25.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\CenteredTextFieldCell.swift,10,23.0,24.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\HomebrewOutlinedButton.swift,14,23.0,24.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\InputLimitFormatter.swift,12,23.0,24.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OpenEmu-Bridging-Header.h,5,3.0,24.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\SidebarHeaderView.swift,10,23.0,24.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Arcade\OEArcadeSystemResponderClient.h,10,24.0,24.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 7800\OE7800SystemResponderClient.h,8,23.0,24.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Nintendo FDS\Keyboard-Mappings.plist,0,0.0,24.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Virtual Boy\OEVBSystemResponderClient.h,8,23.0,24.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\XADSkipHandle.h,8,21.0,24.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\HoverButton.swift,9,23.0,23.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\NSColor+OEAdditions.swift,11,23.0,23.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEAppearance.swift,7,23.0,23.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OETableView.m,13,23.0,23.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\SetupAssistantBackgroundView.swift,9,23.0,23.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 8-bit\Controller-Preferences.plist,0,0.0,23.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NES\OENESSystemController.m,8,23.0,23.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Odyssey2\Controller-Preferences.plist,0,0.0,23.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine CD\OEPCECDSystemResponderClient.h,8,23.0,23.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine\OEPCESystemResponderClient.h,8,23.0,23.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC-FX\OEPCFXSystemController.m,11,24.0,23.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PSP\OEPSPSystemController.h,6,26.0,23.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SuperNES\OESNESSystemController.m,8,23.0,23.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\XADPlatform.h,7,25.0,23.0
+OpenEmu,Bourne Shell,D:\clones\OpenEmu\Scripts\clone-cores.sh,2,0.0,23.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu-metal.xcworkspace\contents.xcworkspacedata,0,0.0,22.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\ControlsKeySeparatorView.swift,11,23.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Preferences\beta_icon.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Preferences\bios_tab_icon.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Preferences\controls_background.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Preferences\controls_highlight.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Preferences\controls_tab_icon.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Preferences\cores_tab_icon.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Preferences\debug_tab_icon.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Preferences\gameplay_tab_icon.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Preferences\library_tab_icon.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Setup Assistant\gloss_button_.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Setup Assistant\gloss_checkbox.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\about_background.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\blank_slate_arrow.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\blank_slate_box.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\blank_slate_camera.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\blank_slate_core_icon.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\blank_slate_warning.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\collection_simple.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\collection_smart.imageset\Contents.json,0,0.0,22.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\HomebrewBlankSlateView.swift,10,23.0,22.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\LibraryController.xib,0,0.0,22.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\NSWindow+Image.swift,16,23.0,22.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEAudioDeviceManager.h,17,51.0,22.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OpenEmuTests\Info.plist,0,0.0,22.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\SidebarItemView.swift,6,23.0,22.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\SidebarOutlineView.swift,10,24.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\3DO\Images.xcassets\3do_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\3DO\Images.xcassets\controller_3do.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\3DO\Images.xcassets\controller_3do_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 2600\Images.xcassets\atari2600_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 2600\Images.xcassets\controller_2600.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 2600\Images.xcassets\controller_2600_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 5200\Images.xcassets\atari5200_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 5200\Images.xcassets\controller_5200.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 5200\Images.xcassets\controller_5200_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 7800\Images.xcassets\atari7800_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 7800\Images.xcassets\controller_7800.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 7800\Images.xcassets\controller_7800_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 8-bit\OEA8SystemResponderClient.h,7,23.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\ColecoVision\Images.xcassets\colecovision_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\ColecoVision\Images.xcassets\controller_colecovision.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\ColecoVision\Images.xcassets\controller_colecovision_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Commodore 64\Images.xcassets\c64_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Dreamcast\Images.xcassets\controller_dc.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Dreamcast\Images.xcassets\controller_dc_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy Advance\Images.xcassets\controller_gba.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy Advance\Images.xcassets\controller_gba_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy Advance\Images.xcassets\gba_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy\Images.xcassets\controller_gb.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy\Images.xcassets\controller_gb_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy\Images.xcassets\gameboy_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy\Keyboard-Mappings.plist,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameCube\Images.xcassets\controller_gc.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameCube\Images.xcassets\controller_gc_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameCube\Images.xcassets\gamecube_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameGear\Images.xcassets\controller_gamegear.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameGear\Images.xcassets\controller_gamegear_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameGear\Images.xcassets\gamegear_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Genesis\Images.xcassets\genesis_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Genesis\Images.xcassets\megadrive_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Intellivision\Images.xcassets\controller_intellivision.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Intellivision\Images.xcassets\controller_intellivision_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Intellivision\Images.xcassets\intellivision_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Lynx\Images.xcassets\controller_lynx.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Lynx\Images.xcassets\controller_lynx_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Lynx\Images.xcassets\lynx_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Lynx\Keyboard-Mappings.plist,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\N64\Images.xcassets\controller_n64.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\N64\Images.xcassets\controller_n64_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\N64\Images.xcassets\n64_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NDS\Images.xcassets\controller_nds.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NDS\Images.xcassets\controller_nds_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NDS\Images.xcassets\nds_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NES\Images.xcassets\controller_nes.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NES\Images.xcassets\controller_nes_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NES\Images.xcassets\nes_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NES\Keyboard-Mappings.plist,0,0.0,22.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NES\OENESSystemResponderClient.h,7,23.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NeoGeoPocket\Images.xcassets\controller_ngp.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NeoGeoPocket\Images.xcassets\controller_ngp_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NeoGeoPocket\Images.xcassets\neogeopocket_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Nintendo FDS\Images.xcassets\controller_fc.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Nintendo FDS\Images.xcassets\controller_fc_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Nintendo FDS\Images.xcassets\famicom_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Odyssey2\Images.xcassets\controller_odyssey2.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Odyssey2\Images.xcassets\controller_odyssey2_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Odyssey2\Images.xcassets\odyssey2_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine CD\Images.xcassets\controller_pcecd.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine CD\Images.xcassets\controller_pcecd_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine CD\Images.xcassets\controller_tg16cd.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine CD\Images.xcassets\controller_tg16cd_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine CD\Images.xcassets\pcenginecd_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine CD\Images.xcassets\tgcd_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine\Images.xcassets\controller_pce.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine\Images.xcassets\controller_pce_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine\Images.xcassets\controller_tg16.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine\Images.xcassets\controller_tg16_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine\Images.xcassets\pcengine_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine\Images.xcassets\tg16_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC-FX\Images.xcassets\controller_pcfx.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC-FX\Images.xcassets\controller_pcfx_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC-FX\Images.xcassets\pcfx_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PSP\Images.xcassets\controller_psp.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PSP\Images.xcassets\controller_psp_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PSP\Images.xcassets\psp_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PlayStation\Images.xcassets\controller_psx.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PlayStation\Images.xcassets\controller_psx_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PlayStation\Images.xcassets\psx_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Pokemon mini\Images.xcassets\pokemonmini_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SG-1000\Images.xcassets\controller_sg1000.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SG-1000\Images.xcassets\controller_sg1000_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SG-1000\Images.xcassets\sg1000_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Saturn\Images.xcassets\controller_saturn.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Saturn\Images.xcassets\controller_saturn_jp.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Saturn\Images.xcassets\controller_saturn_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Saturn\Images.xcassets\saturn_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Saturn\Images.xcassets\saturn_library_jp.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega 32X\Images.xcassets\32x_eu_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega 32X\Images.xcassets\32x_jp_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega 32X\Images.xcassets\32x_na_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega 32X\OESega32XSystemResponderClient.h,8,23.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega CD\Images.xcassets\controller_genesis.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega CD\Images.xcassets\controller_genesis_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega CD\Images.xcassets\segacd_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SegaMasterSystem\Images.xcassets\controller_sms.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SegaMasterSystem\Images.xcassets\controller_sms_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SegaMasterSystem\Images.xcassets\sms_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SuperNES\Images.xcassets\controller_snes_eu.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SuperNES\Images.xcassets\controller_snes_jap.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SuperNES\Images.xcassets\controller_snes_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SuperNES\Images.xcassets\controller_snes_usa.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SuperNES\Images.xcassets\snes_eujap_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SuperNES\Images.xcassets\snes_usa_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Supervision\Keyboard-Mappings.plist,0,0.0,22.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\VMU\Keyboard-Mappings.plist,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Vectrex\Images.xcassets\controller_vectrex_eu.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Vectrex\Images.xcassets\controller_vectrex_jap.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Vectrex\Images.xcassets\controller_vectrex_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Vectrex\Images.xcassets\controller_vectrex_usa.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Vectrex\Images.xcassets\vectrex_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Vectrex\Images.xcassets\vectrex_library_eu.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Vectrex\Images.xcassets\vectrex_library_jp.imageset\Contents.json,0,0.0,22.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Vectrex\Keyboard-Mappings.plist,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Virtual Boy\Images.xcassets\controller_vb.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Virtual Boy\Images.xcassets\controller_vb_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Virtual Boy\Images.xcassets\vb_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\WonderSwan\Images.xcassets\controller_ws.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\WonderSwan\Images.xcassets\controller_ws_mask.imageset\Contents.json,0,0.0,22.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\WonderSwan\Images.xcassets\wonderswan_library.imageset\Contents.json,0,0.0,22.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\WonderSwan\OEWSSystemResponderClient.h,8,23.0,22.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\UniversalDetector.framework\Versions\A\Headers\UniversalDetector.h,7,20.0,22.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\XADArchiveParserDescriptions.h,5,20.0,22.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\openemutools\Info.plist,0,0.0,22.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\LibraryGamesViewController.xib,0,0.0,21.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEDBItem.h,16,23.0,21.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\3DO\OE3DOSystemResponderClient.h,8,23.0,21.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Arcade\Images.xcassets\arcade_library.imageset\Contents.json,0,0.0,21.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Arcade\Images.xcassets\controller_arcade.imageset\Contents.json,0,0.0,21.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Arcade\Images.xcassets\controller_arcade_mask.imageset\Contents.json,0,0.0,21.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 8-bit\Images.xcassets\atari8bit_library.imageset\Contents.json,0,0.0,21.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 8-bit\Images.xcassets\controller_atari8bit.imageset\Contents.json,0,0.0,21.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 8-bit\Images.xcassets\controller_atari8bit_mask.imageset\Contents.json,0,0.0,21.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Commodore 64\Images.xcassets\controller_c64.imageset\Contents.json,0,0.0,21.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Commodore 64\Images.xcassets\controller_c64_mask.imageset\Contents.json,0,0.0,21.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Dreamcast\Images.xcassets\dc_library.imageset\Contents.json,0,0.0,21.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Dreamcast\OEDCSystemResponder.m,9,23.0,21.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameCube\OEGCSystemResponder.m,9,23.0,21.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Jaguar\Images.xcassets\controller_jaguar.imageset\Contents.json,0,0.0,21.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Jaguar\Images.xcassets\controller_jaguar_mask.imageset\Contents.json,0,0.0,21.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Jaguar\Images.xcassets\jaguar_library.imageset\Contents.json,0,0.0,21.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\MSX\Images.xcassets\controller_msx.imageset\Contents.json,0,0.0,21.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\MSX\Images.xcassets\controller_msx_mask.imageset\Contents.json,0,0.0,21.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\MSX\Images.xcassets\msx_library.imageset\Contents.json,0,0.0,21.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\N64\OEN64SystemResponder.m,9,23.0,21.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Nintendo FDS\OEFDSSystemResponderClient.h,9,23.0,21.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PSP\OEPSPSystemResponder.m,9,23.0,21.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PlayStation 2\OEPS2SystemResponder.m,9,23.0,21.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Pokemon mini\Images.xcassets\controller_pokemonmini.imageset\Contents.json,0,0.0,21.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Pokemon mini\Images.xcassets\controller_pokemonmini_mask.imageset\Contents.json,0,0.0,21.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Supervision\Images.xcassets\supervision_library.imageset\Contents.json,0,0.0,21.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\VMU\Images.xcassets\controller_vmu.imageset\Contents.json,0,0.0,21.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\VMU\Images.xcassets\controller_vmu_mask.imageset\Contents.json,0,0.0,21.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\VMU\Images.xcassets\vmu_library.imageset\Contents.json,0,0.0,21.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\CSByteStreamHandle.h,12,25.0,21.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\CSBzip2Handle.h,11,24.0,21.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\accent.colorset\Contents.json,0,0.0,20.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy Advance\OEGBASystemResponderClient.h,8,23.0,20.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameGear\Keyboard-Mappings.plist,0,0.0,20.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NeoGeoPocket\Keyboard-Mappings.plist,0,0.0,20.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Pokemon mini\OEPMSystemResponderClient.h,8,23.0,20.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SG-1000\Keyboard-Mappings.plist,0,0.0,20.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SegaMasterSystem\Keyboard-Mappings.plist,0,0.0,20.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\CSBlockStreamHandle.h,9,26.0,20.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\BackgroundGradientView.swift,9,23.0,19.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\NSBitmapImageRep+OEAdditions.swift,5,27.0,19.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEMediaViewController.h,13,23.0,19.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\ShaderParametersWindowController.swift,8,23.0,19.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\crt\shaders\crt-royale\src\user-cgp-constants.h,7,32.0,19.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Vectrex\OEVectrexSystemResponderClient.h,8,23.0,19.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\openemutools\CGContext.swift,6,26.0,19.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\openemutools\ShaderCommand+Preset.swift,5,23.0,19.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Game Controls\hud_button_black.imageset\Contents.json,0,0.0,18.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Game Controls\hud_button_black_pressed.imageset\Contents.json,0,0.0,18.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Game Controls\hud_button_red.imageset\Contents.json,0,0.0,18.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Game Controls\hud_button_red_pressed.imageset\Contents.json,0,0.0,18.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEVersionMigrationController.h,11,25.0,18.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy\OEGBSystemResponderClient.h,8,23.0,18.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Lynx\OELynxSystemResponderClient.h,8,23.0,18.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Supervision\OESVSystemResponderClient.h,8,23.0,18.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\VMU\OEVMUSystemResponderClient.h,8,23.0,18.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\CSSubHandle.h,8,23.0,18.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEDBSaveStatesMedia.swift,10,24.0,17.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEGameCollectionViewController.h,11,24.0,17.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\3DO\OE3DOSystemResponder.m,8,23.0,17.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Arcade\OEArcadeSystemResponder.m,8,23.0,17.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 5200\OE5200SystemResponder.m,8,23.0,17.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\ColecoVision\OEColecoVisionSystemResponder.m,8,23.0,17.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy Advance\OEGBASystemResponder.m,8,23.0,17.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy\OEGBSystemResponder.m,8,23.0,17.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameGear\OEGGSystemResponder.m,8,23.0,17.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameGear\OEGGSystemResponderClient.h,8,23.0,17.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Jaguar\OEJaguarSystemResponder.m,8,23.0,17.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Lynx\OELynxSystemResponder.m,8,23.0,17.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NeoGeoPocket\OENGPSystemResponder.m,8,23.0,17.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NeoGeoPocket\OENGPSystemResponderClient.h,8,23.0,17.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Odyssey2\OEOdyssey2SystemResponderClient.h,8,23.0,17.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine CD\OEPCECDSystemResponder.m,8,23.0,17.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine\OEPCESystemController.m,7,23.0,17.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine\OEPCESystemResponder.m,8,23.0,17.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Pokemon mini\OEPMSystemResponder.m,8,23.0,17.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SG-1000\OESG1000SystemResponder.m,8,23.0,17.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SG-1000\OESG1000SystemResponderClient.h,8,23.0,17.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega 32X\OESega32XSystemResponder.m,8,23.0,17.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Supervision\OESVSystemResponder.m,8,23.0,17.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\VMU\OEVMUSystemResponder.m,8,23.0,17.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Virtual Boy\OEVBSystemResponder.m,8,23.0,17.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\WonderSwan\OEWSSystemResponder.m,8,23.0,17.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\New Images\grid_rating2.imageset\Contents.json,0,0.0,16.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\New Images\grid_rating2_fill.imageset\Contents.json,0,0.0,16.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\IKOpenGLRoundedRectRenderer.h,2,0.0,16.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\ImageCollectionViewItem.swift,6,23.0,16.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OEArrayController.m,8,23.0,16.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEUtilities.h,10,24.0,16.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OpenEmuQLPreview\PreviewViewController.swift,7,23.0,16.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\blurs\vertex-shader-blur-fast-horizontal.h,10,36.0,16.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\Shaders\CRT Royale Kurozumi\blurs\vertex-shader-blur-fast-vertical.h,8,33.0,16.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Odyssey2\Keyboard-Mappings.plist,0,0.0,16.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\CSMultiHandle.h,7,23.0,16.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\XADResourceFork.h,6,20.0,16.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\ALIterativeMigrator.h,10,72.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Game Controls\hud_fullscreen_enter.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Game Controls\hud_fullscreen_exit.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Game Controls\hud_options.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Game Controls\hud_pause.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Game Controls\hud_play.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Game Controls\hud_power.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Game Controls\hud_restart.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Game Controls\hud_save.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Game Controls\hud_volume_down.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Game Controls\hud_volume_up.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\HUD Icons\hud_fastforward_notification.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\HUD Icons\hud_quicksave_notification.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\HUD Icons\hud_rewind_notification.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\HUD Icons\hud_screenshot_notification.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\HUD Icons\hud_stepbackward_notification.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\HUD Icons\hud_stepforward_notification.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Touch Bar\quick_load_touch_bar_template.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Touch Bar\quick_save_touch_bar_template.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\arrow_right.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\game_scanner_cancel.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\game_scanner_continue.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\game_scanner_pause.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\grid_rating.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\grid_slider_max.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\grid_slider_min.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\list_indicator_missing.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\list_indicator_playing.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\list_indicator_unplayed.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\list_rating.imageset\Contents.json,0,0.0,15.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\sidebar_add.imageset\Contents.json,0,0.0,15.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEDBAllGamesCollection.swift,10,25.0,15.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OpenEmuHelperApp\OpenEmuHelperAppMain.m,6,25.0,15.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\ClangAnalyser.h,8,20.0,15.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\openemutools\ShaderCommand.swift,2,23.0,15.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\NSDocument+OEAdditions.h,8,23.0,14.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OELogging.m,6,23.0,14.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\ColecoVision\OEColecoVisionSystemController.m,9,24.0,14.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEDBCollectionFolder.swift,8,25.0,13.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEListViewDataSourceItem.h,7,23.0,13.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\BackgroundImageView.swift,5,23.0,12.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\DisabledScrollView.swift,5,23.0,12.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\missing_artwork.imageset\Contents.json,0,0.0,12.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\missing_rom.imageset\Contents.json,0,0.0,12.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\spinner.imageset\Contents.json,0,0.0,12.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OECoverGridDataSourceItem.h,8,24.0,12.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEGridCell.h,5,23.0,12.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\XADMaster.framework\Versions\A\Headers\CRC.h,5,22.0,12.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\InsetScrollView.swift,3,23.0,11.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\NSAttributedString+Hyperlink.swift,7,26.0,11.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OELibraryMigrator.h,8,23.0,11.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 2600\OE2600SystemController.m,8,23.0,11.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\MSX\OEMSXSystemController.m,8,24.0,11.0
+OpenEmu,Markdown,D:\clones\OpenEmu\.github\ISSUE_TEMPLATE\question.md,2,0.0,10.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\NSShadow+OEAdditions.swift,5,23.0,10.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\OEBuildInfo.m,7,23.0,10.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEFileManager.h,6,23.0,10.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEGameCollectionViewItemProtocol.h,5,23.0,10.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEPopoutGameWindowController.h,9,23.0,10.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OpenEmuQLThumbnail\OpenEmuQLThumbnail.entitlements,0,0.0,10.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Arcade\OEArcadeSystemController.m,6,23.0,10.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\ArrowCursorTextView.swift,5,24.0,9.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\SidebarItem.swift,2,23.0,9.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy Advance\OEGBASystemController.m,4,23.0,9.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy\OEGBSystemController.m,4,23.0,9.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Intellivision\OEIntellivisionSystemController.m,7,23.0,9.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist,0,0.0,8.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu.xcworkspace\xcshareddata\WorkspaceSettings.xcsettings,0,0.0,8.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\DLog.swift,4,24.0,8.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\ImageCollectionHeaderView.swift,4,23.0,8.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\NSMutableDictionary+Pop.swift,5,23.0,8.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OECollectionViewItemProtocol.h,4,23.0,8.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\OEDatabase.xcdatamodeld\.xccurrentversion,0,0.0,8.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OpenEmuQLThumbnail\ThumbnailProvider.swift,5,23.0,8.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NDS\OENDSSystemController.m,6,23.0,8.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SuperNES\Controller-Preferences-JAP.plist,0,0.0,8.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SuperNES\Controller-Preferences-NA.plist,0,0.0,8.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Vectrex\Controller-Preferences-JAP.plist,0,0.0,8.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Vectrex\Controller-Preferences-NA.plist,0,0.0,8.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\AppKit+ApplePrivate.h,7,25.0,7.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\GameIntegralScalingDelegate.swift,6,23.0,7.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\NSManagedObjectContext+LibraryDatabase.swift,4,23.0,7.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEBuildInfo.h,9,28.0,7.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEResponder.h,4,24.0,7.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OETableView.h,6,23.0,7.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 5200\OE5200SystemController.m,6,23.0,7.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Odyssey2\OEOdyssey2SystemController.m,6,23.0,7.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\Graphics.xcassets\Touch Bar\Contents.json,0,0.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\NSArray+OEAdditions.h,4,23.0,6.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\NSBindingName+Additions.swift,2,23.0,6.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\NSWindow+FullScreen.swift,4,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEArchiveHelper.h,8,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEDBImageMigrationPolicy.h,7,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OELogging.h,3,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OpenEmuTests\OpenEmuTests-Bridging-Header.h,1,3.0,6.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\PreferencePane.swift,2,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\3DO\OE3DOSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Arcade\OEArcadeSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 2600\OE2600SystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 5200\OE5200SystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 7800\OE7800SystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 8-bit\OEA8SystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\ColecoVision\OEColecoVisionSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Commodore 64\OEC64SystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Dreamcast\OEDCSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy Advance\OEGBASystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy\OEGBSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameCube\OEGCSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameGear\OEGGSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Genesis\OEGenesisSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Intellivision\OEIntellivisionSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Jaguar\OEJaguarSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Lynx\OELynxSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\MSX\OEMSXSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\N64\OEN64SystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NDS\OENDSSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NES\OENESSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NeoGeoPocket\OENGPSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Nintendo FDS\OEFDSSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Odyssey2\OEOdyssey2SystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine CD\OEPCECDSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine\OEPCESystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC-FX\OEPCFXSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PSP\OEPSPSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PlayStation 2\OEPS2SystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PlayStation\OEPSXSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Pokemon mini\OEPMSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SG-1000\OESG1000SystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Saturn\OESaturnSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega 32X\OESega32XSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega CD\OESegaCDSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SegaMasterSystem\OESMSSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SuperNES\OESNESSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Supervision\OESVSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\VMU\OEVMUSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Vectrex\OEVectrexSystemResponder.h,6,23.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Virtual Boy\OEVBSystemResponder.h,6,23.0,6.0
+OpenEmu,JSON,D:\clones\OpenEmu\OpenEmu\SystemPlugins\WonderSwan\Images.xcassets\Contents.json,0,0.0,6.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\WonderSwan\OEWSSystemResponder.h,6,23.0,6.0
+OpenEmu,YAML,D:\clones\OpenEmu\.github\ISSUE_TEMPLATE\config.yml,1,0.0,5.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\NSFileManager+OEHashingAdditions.h,5,23.0,5.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEAlert.h,7,23.0,5.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEArrayController.h,5,23.0,5.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEDBRomMigrationPolicy.h,7,23.0,5.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEDBSaveStateMigrationPolicy.h,6,23.0,5.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\OEDBScreenshotsMedia.swift,5,24.0,5.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEGridGameCell.h,3,7.0,5.0
+OpenEmu,XML,D:\clones\OpenEmu\OpenEmu\SystemPlugins\MSX\Keyboard-Mappings.plist,0,0.0,5.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\3DO\OE3DOSystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Arcade\OEArcadeSystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 2600\OE2600SystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Atari 5200\OE5200SystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\ColecoVision\OEColecoVisionSystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Dreamcast\OEDCSystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy Advance\OEGBASystemController.h,3,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameBoy\OEGBSystemController.h,3,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\GameCube\OEGCSystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Genesis\OEGenesisSystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Intellivision\OEIntellivisionSystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\MSX\OEMSXSystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\N64\OEN64SystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NDS\OENDSSystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\NES\OENESSystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Odyssey2\OEOdyssey2SystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine CD\OEPCECDSystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC Engine\OEPCESystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PC-FX\OEPCFXSystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PlayStation 2\OEPS2SystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\PlayStation\OEPSXSystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Saturn\OESaturnSystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega 32X\OESega32XSystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Sega CD\OESegaCDSystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\SuperNES\OESNESSystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Vectrex\OEVectrexSystemController.h,5,23.0,4.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEGridMediaItemCell.h,5,23.0,3.0
+OpenEmu,C/C++ Header,D:\clones\OpenEmu\OpenEmu\OEPluginDocument.h,4,23.0,3.0
+OpenEmu,Objective-C,D:\clones\OpenEmu\OpenEmu\SystemPlugins\Dreamcast\OEDCSystemController.m,5,23.0,3.0
+OpenEmu,Markdown,D:\clones\OpenEmu\CONTRIBUTING.md,1,0.0,2.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\broker\main.swift,2,23.0,2.0
+OpenEmu,Markdown,D:\clones\OpenEmu\SUPPORT.md,1,0.0,2.0
+OpenEmu,Swift,D:\clones\OpenEmu\OpenEmu\ShaderPresetTextCodec.swift,1,23.0,1.0

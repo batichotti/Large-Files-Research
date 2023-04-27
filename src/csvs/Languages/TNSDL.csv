@@ -1,0 +1,29 @@
+project,language,filename,blank,comment,code
+Arduino,TNSDL,D:\clones\Arduino\build\windows\dist\drivers\arduino.inf,13,0.0,192.0
+ghc,TNSDL,D:\clones\ghc\testsuite\tests\cabal\T12733\p\P.hs.in2,0,0.0,5.0
+ghc,TNSDL,D:\clones\ghc\testsuite\tests\backpack\cabal\bkpcabal03\bkpcabal03.cabal.in2,1,0.0,11.0
+ghc,TNSDL,D:\clones\ghc\testsuite\tests\cabal\T12733\p\P.hs.in1,0,0.0,3.0
+ghc,TNSDL,D:\clones\ghc\testsuite\tests\backpack\cabal\bkpcabal06\impl\P.hs.in1,0,0.0,3.0
+ghc,TNSDL,D:\clones\ghc\testsuite\tests\backpack\cabal\bkpcabal03\bkpcabal03.cabal.in1,1,0.0,11.0
+ghc,TNSDL,D:\clones\ghc\testsuite\tests\backpack\cabal\bkpcabal01\q\Q.hs.in2,0,0.0,3.0
+Arduino,TNSDL,D:\clones\Arduino\build\windows\dist\drivers\FTDI USB Drivers\ftdiport.inf,36,0.0,383.0
+ghc,TNSDL,D:\clones\ghc\testsuite\tests\backpack\cabal\bkpcabal01\q\Q.hs.in1,0,0.0,3.0
+godot,TNSDL,D:\clones\godot\thirdparty\freetype\src\autofit\afblue.cin,8,20.0,11.0
+ghc,TNSDL,D:\clones\ghc\testsuite\tests\backpack\cabal\bkpcabal01\p\P.hs.in2,0,0.0,3.0
+Arduino,TNSDL,D:\clones\Arduino\build\windows\dist\drivers\genuino.inf,13,0.0,101.0
+ghc,TNSDL,D:\clones\ghc\testsuite\tests\backpack\cabal\bkpcabal04\bkpcabal04.cabal.in2,2,0.0,15.0
+Arduino,TNSDL,D:\clones\Arduino\build\windows\dist\drivers\CP210x_6.7\slabvcp.inf,28,11.0,107.0
+ghc,TNSDL,D:\clones\ghc\testsuite\tests\backpack\cabal\bkpcabal04\bkpcabal04.cabal.in1,2,0.0,15.0
+ghc,TNSDL,D:\clones\ghc\testsuite\tests\backpack\cabal\bkpcabal05\A.hsig.in1,0,0.0,3.0
+Arduino,TNSDL,D:\clones\Arduino\build\windows\dist\drivers\linino.inf,21,0.0,89.0
+ghc,TNSDL,D:\clones\ghc\testsuite\tests\backpack\cabal\bkpcabal02\p\H.hsig.in2,0,0.0,2.0
+Arduino,TNSDL,D:\clones\Arduino\build\windows\dist\drivers\CP210x_6.7.4\slabvcp.inf,46,11.0,228.0
+ghc,TNSDL,D:\clones\ghc\libraries\base\tests\IO\decodingerror001.in2,0,0.0,1.0
+ghc,TNSDL,D:\clones\ghc\testsuite\tests\backpack\cabal\bkpcabal02\p\H.hsig.in1,0,0.0,2.0
+ghc,TNSDL,D:\clones\ghc\testsuite\tests\backpack\cabal\bkpcabal01\p\P.hs.in1,0,0.0,4.0
+ghc,TNSDL,D:\clones\ghc\libraries\base\tests\IO\decodingerror001.in1,0,0.0,1.0
+vim,TNSDL,D:\clones\vim\src\GvimExt\gvimext.inf,5,0.0,17.0
+Arduino,TNSDL,D:\clones\Arduino\build\windows\dist\drivers\arduino-org.inf,26,0.0,198.0
+Arduino,TNSDL,D:\clones\Arduino\build\windows\dist\drivers\FTDI USB Drivers\ftdibus.inf,26,0.0,539.0
+Arduino,TNSDL,D:\clones\Arduino\build\windows\dist\drivers\AdafruitCircuitPlayground.inf,19,0.0,90.0
+ghc,TNSDL,D:\clones\ghc\testsuite\tests\backpack\cabal\bkpcabal05\A.hsig.in2,0,0.0,2.0

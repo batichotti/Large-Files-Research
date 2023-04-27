@@ -1,0 +1,2436 @@
+project,language,filename,blank,comment,code
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\where7.test.lua,2034,4108.0,31367.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\randexpr1.test.lua,3605,5226.0,17208.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\boundary2.test.lua,3025,24.0,12165.0
+tarantool,Bourne Shell,D:\clones\tarantool\third_party\libeio\configure,2111,1632.0,11175.0
+tarantool,Bourne Shell,D:\clones\tarantool\third_party\libev\configure,1874,1525.0,9638.0
+tarantool,m4,D:\clones\tarantool\third_party\libeio\aclocal.m4,963,100.0,8550.0
+tarantool,m4,D:\clones\tarantool\third_party\libev\aclocal.m4,927,104.0,7926.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\boundary3.test.lua,1898,26.0,7669.0
+tarantool,Bourne Shell,D:\clones\tarantool\third_party\libeio\ltmain.sh,959,1533.0,7163.0
+tarantool,C,D:\clones\tarantool\src\lib\uri\uri_parser.c,17,86.0,6864.0
+tarantool,Bourne Shell,D:\clones\tarantool\third_party\libev\ltmain.sh,871,1206.0,6336.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\boundary1.test.lua,1513,22.0,6118.0
+tarantool,C,D:\clones\tarantool\src\box\sql\select.c,325,1873.0,4616.0
+tarantool,C++,D:\clones\tarantool\src\box\alter.cc,271,1187.0,4449.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\salad\bps_tree.h,408,1375.0,4437.0
+tarantool,C,D:\clones\tarantool\extra\lemon.c,320,803.0,4342.0
+tarantool,C,D:\clones\tarantool\third_party\libev\ev.c,972,451.0,4267.0
+tarantool,C,D:\clones\tarantool\src\box\sql\expr.c,238,1376.0,4014.0
+tarantool,C,D:\clones\tarantool\src\box\sql\where.c,208,1382.0,3302.0
+tarantool,C,D:\clones\tarantool\src\box\vinyl.c,393,1080.0,3152.0
+tarantool,C,D:\clones\tarantool\src\box\sql\mem.c,170,138.0,3111.0
+tarantool,Lua,D:\clones\tarantool\src\box\lua\schema.lua,236,328.0,2994.0
+tarantool,C++,D:\clones\tarantool\src\box\box.cc,391,819.0,2911.0
+tarantool,C,D:\clones\tarantool\src\box\sql\build.c,185,871.0,2732.0
+tarantool,C,D:\clones\tarantool\src\box\sql\vdbe.c,260,1777.0,2414.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\e_expr.test.lua,278,991.0,2214.0
+tarantool,C++,D:\clones\tarantool\src\box\iproto.cc,227,937.0,2160.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\like2.test.lua,285,583.0,2118.0
+tarantool,C,D:\clones\tarantool\src\box\memtx_tx.c,237,639.0,2082.0
+tarantool,C,D:\clones\tarantool\src\box\vy_run.c,226,467.0,2054.0
+tarantool,C,D:\clones\tarantool\src\box\lua\net_box.c,179,617.0,2040.0
+tarantool,C,D:\clones\tarantool\src\box\vy_log.c,170,481.0,2028.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\func.test.lua,304,606.0,2022.0
+tarantool,Lua,D:\clones\tarantool\test\sql-luatest\datetime_test.lua,308,30.0,1923.0
+tarantool,C,D:\clones\tarantool\src\box\sql\func.c,129,333.0,1860.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\selectA.test.lua,219,519.0,1791.0
+tarantool,C++,D:\clones\tarantool\src\box\tuple_compare.cc,131,281.0,1781.0
+tarantool,C,D:\clones\tarantool\src\box\xrow.c,162,115.0,1746.0
+tarantool,C,D:\clones\tarantool\third_party\libeio\eio.c,453,150.0,1737.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\sql\sqlInt.h,352,2367.0,1687.0
+tarantool,C++,D:\clones\tarantool\src\box\applier.cc,200,617.0,1608.0
+tarantool,C,D:\clones\tarantool\src\box\sql\vdbeaux.c,136,599.0,1582.0
+tarantool,C,D:\clones\tarantool\test\app-tap\module_api.c,243,626.0,1560.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\datetime.test.lua,146,73.0,1504.0
+tarantool,C,D:\clones\tarantool\src\box\xlog.c,168,438.0,1487.0
+tarantool,C,D:\clones\tarantool\test\unit\raft.c,264,201.0,1468.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\e_select1.test.lua,207,656.0,1460.0
+tarantool,C,D:\clones\tarantool\src\lib\swim\swim.c,100,866.0,1428.0
+tarantool,C++,D:\clones\tarantool\src\box\memtx_tree.cc,139,341.0,1424.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\select1.test.lua,197,481.0,1394.0
+tarantool,yacc,D:\clones\tarantool\src\box\sql\parse.y,192,342.0,1378.0
+tarantool,C,D:\clones\tarantool\src\box\vy_scheduler.c,211,536.0,1366.0
+tarantool,Markdown,D:\clones\tarantool\doc\rfc\5910-consistent-sql-lua-types.md,346,0.0,1357.0
+tarantool,Lua,D:\clones\tarantool\src\lua\socket.lua,182,71.0,1356.0
+tarantool,C++,D:\clones\tarantool\src\box\memtx_engine.cc,161,201.0,1321.0
+tarantool,C,D:\clones\tarantool\src\lib\core\fiber.c,210,375.0,1313.0
+tarantool,C,D:\clones\tarantool\src\box\sql\vdbesort.c,181,763.0,1275.0
+tarantool,C,D:\clones\tarantool\src\lua\popen.c,223,1133.0,1195.0
+tarantool,C,D:\clones\tarantool\src\box\txn.c,126,294.0,1159.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\uuid.test.lua,162,37.0,1145.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\analyze9.test.lua,157,403.0,1117.0
+tarantool,C,D:\clones\tarantool\src\box\sql\os_unix.c,138,704.0,1108.0
+tarantool,C,D:\clones\tarantool\src\box\tuple_format.c,75,262.0,1076.0
+tarantool,Lua,D:\clones\tarantool\src\box\lua\upgrade.lua,131,202.0,1074.0
+tarantool,C,D:\clones\tarantool\src\box\sql\resolve.c,72,441.0,1074.0
+tarantool,SQL,D:\clones\tarantool\test\sql\boolean.test.sql,141,48.0,1057.0
+tarantool,C,D:\clones\tarantool\src\box\sql\analyze.c,67,560.0,1054.0
+tarantool,C,D:\clones\tarantool\src\box\sql.c,110,260.0,1037.0
+tarantool,C,D:\clones\tarantool\src\lib\salad\rtree.c,74,80.0,1035.0
+tarantool,Lua,D:\clones\tarantool\test\box\tx_man.test.lua,145,81.0,1018.0
+tarantool,C,D:\clones\tarantool\src\box\sql\wherecode.c,79,401.0,1006.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\fkey2.test.lua,137,308.0,1006.0
+tarantool,Lua,D:\clones\tarantool\src\box\lua\net_box.lua,93,107.0,1002.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\select4.test.lua,131,365.0,984.0
+tarantool,C,D:\clones\tarantool\src\box\key_def.c,78,138.0,978.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt2927.test.lua,103,189.0,952.0
+tarantool,C,D:\clones\tarantool\src\box\vy_tx.c,123,298.0,951.0
+tarantool,C,D:\clones\tarantool\src\lua\socket.c,101,72.0,948.0
+tarantool,C,D:\clones\tarantool\src\box\memtx_space.c,104,381.0,947.0
+tarantool,C,D:\clones\tarantool\src\box\vy_lsm.c,126,265.0,944.0
+tarantool,C,D:\clones\tarantool\src\lib\core\say.c,113,212.0,937.0
+tarantool,C,D:\clones\tarantool\src\box\wal.c,155,463.0,935.0
+tarantool,C,D:\clones\tarantool\src\box\sql\whereexpr.c,56,510.0,933.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\decimal.test.lua,133,37.0,930.0
+tarantool,C,D:\clones\tarantool\src\box\sql\printf.c,39,198.0,915.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\array.test.lua,124,19.0,910.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\misc5.test.lua,20,162.0,905.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\func2.test.lua,134,242.0,896.0
+tarantool,Lua,D:\clones\tarantool\src\lua\datetime.lua,143,140.0,892.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\mvcc.test.lua,80,670.0,889.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\map.test.lua,119,18.0,874.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-80e031a00f.test.lua,120,287.0,863.0
+tarantool,C,D:\clones\tarantool\src\box\sql\util.c,79,376.0,857.0
+tarantool,C,D:\clones\tarantool\src\box\sql\date.c,39,354.0,856.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\limit.test.lua,139,376.0,855.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\view.test.lua,111,332.0,848.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\cast.test.lua,126,206.0,836.0
+tarantool,C,D:\clones\tarantool\src\box\lua\call.c,93,249.0,835.0
+tarantool,C,D:\clones\tarantool\src\lib\core\popen.c,166,515.0,829.0
+tarantool,Lua,D:\clones\tarantool\test\app\socket.test.lua,110,66.0,827.0
+tarantool,C,D:\clones\tarantool\test\unit\swim.c,118,205.0,818.0
+tarantool,C,D:\clones\tarantool\third_party\lua-cjson\lua_cjson.c,158,207.0,813.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\select6.test.lua,108,216.0,808.0
+tarantool,C,D:\clones\tarantool\src\lua\msgpack.c,81,153.0,805.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt1473.test.lua,66,134.0,797.0
+tarantool,C,D:\clones\tarantool\src\box\sql\insert.c,57,407.0,792.0
+tarantool,C,D:\clones\tarantool\src\lib\raft\raft.c,83,322.0,787.0
+tarantool,C++,D:\clones\tarantool\test\unit\bps_tree.cc,137,3.0,781.0
+tarantool,C,D:\clones\tarantool\src\lua\init.c,54,204.0,778.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\table.test.lua,124,581.0,771.0
+tarantool,C,D:\clones\tarantool\src\box\lua\serialize_lua.c,137,178.0,762.0
+tarantool,Lua,D:\clones\tarantool\test\engine\ddl.test.lua,149,186.0,743.0
+tarantool,C++,D:\clones\tarantool\src\box\replication.cc,102,235.0,737.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\where2.test.lua,105,338.0,726.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\sptree.h,13,67.0,725.0
+tarantool,Lua,D:\clones\tarantool\src\box\lua\load_cfg.lua,69,168.0,712.0
+tarantool,C++,D:\clones\tarantool\src\box\relay.cc,100,376.0,710.0
+tarantool,C,D:\clones\tarantool\src\box\lua\merger.c,161,410.0,708.0
+tarantool,C,D:\clones\tarantool\src\lua\fio.c,86,32.0,706.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\salad\light.h,76,364.0,704.0
+tarantool,C++,D:\clones\tarantool\third_party\lua-yaml\lyaml.cc,106,129.0,704.0
+tarantool,Lua,D:\clones\tarantool\src\lua\swim.lua,85,253.0,697.0
+tarantool,Lua,D:\clones\tarantool\src\box\lua\console.lua,61,164.0,689.0
+tarantool,C,D:\clones\tarantool\src\box\xrow_update_field.c,47,49.0,689.0
+tarantool,C,D:\clones\tarantool\src\box\space.c,68,143.0,686.0
+tarantool,C++,D:\clones\tarantool\test\unit\mp_error.cc,66,50.0,686.0
+tarantool,C,D:\clones\tarantool\src\box\sql\trigger.c,89,178.0,683.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\in1.test.lua,99,289.0,679.0
+tarantool,C,D:\clones\tarantool\src\lib\core\datetime.c,88,57.0,676.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\join.test.lua,100,345.0,676.0
+tarantool,C++,D:\clones\tarantool\src\box\index.cc,70,72.0,656.0
+tarantool,Lua,D:\clones\tarantool\test\box\sequence.test.lua,81,81.0,653.0
+tarantool,C,D:\clones\tarantool\third_party\coro\coro.c,131,91.0,649.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\libev\ev++.h,121,52.0,645.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\index1.test.lua,92,305.0,643.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\misc1.test.lua,81,383.0,642.0
+tarantool,C,D:\clones\tarantool\src\box\txn_limbo.c,55,245.0,639.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\libeio\ecb.h,123,116.0,639.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\sort.test.lua,79,220.0,636.0
+tarantool,C,D:\clones\tarantool\src\box\vy_write_iterator.c,53,438.0,635.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\position.test.lua,88,150.0,633.0
+tarantool,C,D:\clones\tarantool\test\unit\swim_test_utils.c,68,188.0,632.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\merger.test.lua,91,46.0,631.0
+tarantool,C,D:\clones\tarantool\src\lua\fiber.c,71,170.0,630.0
+tarantool,C,D:\clones\tarantool\src\box\lua\console.c,92,297.0,625.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\sql-errors.test.lua,100,155.0,621.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\subquery.test.lua,92,205.0,621.0
+tarantool,Lua,D:\clones\tarantool\src\lua\msgpackffi.lua,60,46.0,615.0
+tarantool,C,D:\clones\tarantool\src\box\tuple.c,85,91.0,614.0
+tarantool,C++,D:\clones\tarantool\src\box\lua\space.cc,79,142.0,612.0
+tarantool,C,D:\clones\tarantool\src\box\vy_cache.c,70,180.0,608.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\metatypes.test.lua,84,17.0,608.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\update.test.lua,132,394.0,608.0
+tarantool,Lua,D:\clones\tarantool\test\box\access.test.lua,71,183.0,605.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\iterator.test.lua,100,117.0,605.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\tuple.h,98,673.0,602.0
+tarantool,C,D:\clones\tarantool\src\box\vy_stmt.c,55,136.0,598.0
+tarantool,Lua,D:\clones\tarantool\test\engine\null.test.lua,134,96.0,593.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\uri.test.lua,63,101.0,590.0
+tarantool,C,D:\clones\tarantool\src\lua\utils.c,85,184.0,588.0
+tarantool,C,D:\clones\tarantool\src\box\vy_read_iterator.c,77,215.0,586.0
+tarantool,C,D:\clones\tarantool\src\box\lua\info.c,123,69.0,584.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\built-in-functions.test.lua,68,14.0,583.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\collation.test.lua,37,12.0,578.0
+tarantool,Lua,D:\clones\tarantool\test\app-luatest\http_client_test.lua,39,44.0,573.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\libev\ev.h,141,166.0,571.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_iproto_transactions_over_streams.test.lua,93,180.0,568.0
+tarantool,Lua,D:\clones\tarantool\test\engine-luatest\gh_6436_field_foreign_key_test.lua,64,11.0,564.0
+tarantool,C,D:\clones\tarantool\src\lib\core\coio_file.c,82,39.0,563.0
+tarantool,C,D:\clones\tarantool\src\box\sql\treeview.c,17,85.0,559.0
+tarantool,Lua,D:\clones\tarantool\test\box\update.test.lua,87,141.0,557.0
+tarantool,C++,D:\clones\tarantool\src\main.cc,83,171.0,554.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\colname.test.lua,77,159.0,551.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\tarantoolctl.test.lua,63,24.0,550.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\with1.test.lua,74,452.0,547.0
+tarantool,C,D:\clones\tarantool\extra\lempar.c,39,371.0,543.0
+tarantool,C++,D:\clones\tarantool\src\box\user.cc,60,210.0,543.0
+tarantool,Lua,D:\clones\tarantool\test\engine-luatest\gh_6436_field_constraint_test.lua,118,11.0,537.0
+tarantool,Lua,D:\clones\tarantool\test\app\fiber.test.lua,68,151.0,531.0
+tarantool,C,D:\clones\tarantool\src\lib\swim\swim_proto.c,33,68.0,529.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\autoinc.test.lua,85,296.0,528.0
+tarantool,C,D:\clones\tarantool\src\box\lua\tuple.c,73,169.0,523.0
+tarantool,Lua,D:\clones\tarantool\test\engine\iterator.test.lua,80,49.0,523.0
+tarantool,Lua,D:\clones\tarantool\test\box\errinj.test.lua,113,88.0,521.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\check.test.lua,89,203.0,521.0
+tarantool,C++,D:\clones\tarantool\src\box\mp_error.cc,47,126.0,515.0
+tarantool,C,D:\clones\tarantool\test\unit\raft_test_utils.c,68,36.0,515.0
+tarantool,C,D:\clones\tarantool\src\lib\tzcode\strptime.c,97,91.0,514.0
+tarantool,C,D:\clones\tarantool\test\unit\uri.c,21,66.0,514.0
+tarantool,C,D:\clones\tarantool\src\lib\swim\swim_io.c,40,185.0,510.0
+tarantool,C++,D:\clones\tarantool\test\unit\rtree_multidim.cc,37,0.0,507.0
+tarantool,C,D:\clones\tarantool\test\unit\json.c,79,24.0,503.0
+tarantool,C,D:\clones\tarantool\src\box\sql\vdbeapi.c,59,152.0,501.0
+tarantool,C,D:\clones\tarantool\extra\mkkeywordhash.c,25,60.0,500.0
+tarantool,C++,D:\clones\tarantool\test\unit\bps_tree_iterator.cc,42,18.0,496.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\2.10.0-beta2.md,79,0.0,495.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\where3.test.lua,66,174.0,495.0
+tarantool,C,D:\clones\tarantool\src\lua\serializer.c,49,120.0,489.0
+tarantool,C,D:\clones\tarantool\third_party\crc32_impl.c,60,201.0,487.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\with2.test.lua,68,158.0,485.0
+tarantool,C,D:\clones\tarantool\src\box\sql\tokenize.c,24,131.0,482.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\xrow.h,95,596.0,480.0
+tarantool,C++,D:\clones\tarantool\src\box\memtx_hash.cc,59,69.0,479.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\eqp.test.lua,61,274.0,478.0
+tarantool,C,D:\clones\tarantool\src\box\sysview.c,45,87.0,474.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\intpkey.test.lua,68,315.0,473.0
+tarantool,Lua,D:\clones\tarantool\test\sql\types.test.lua,78,74.0,473.0
+tarantool,C,D:\clones\tarantool\test\unit\datetime.c,36,6.0,473.0
+tarantool,C,D:\clones\tarantool\src\lib\core\cbus.c,85,140.0,470.0
+tarantool,Lua,D:\clones\tarantool\test\engine-luatest\gh_6436_complex_foreign_key_test.lua,54,10.0,470.0
+tarantool,CMake,D:\clones\tarantool\CMakeLists.txt,88,190.0,467.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\salad\mhash.h,64,92.0,467.0
+tarantool,C,D:\clones\tarantool\src\lib\json\json.c,35,162.0,465.0
+tarantool,Lua,D:\clones\tarantool\src\lua\fio.lua,66,23.0,462.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\key_def.test.lua,54,44.0,462.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\triggerC.test.lua,87,442.0,459.0
+tarantool,C,D:\clones\tarantool\src\box\execute.c,25,148.0,458.0
+tarantool,C,D:\clones\tarantool\test\unit\heap.c,90,1.0,458.0
+tarantool,Lua,D:\clones\tarantool\src\lua\help_en_US.lua,113,31.0,454.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\graceful_shutdown_test.lua,18,37.0,453.0
+tarantool,Lua,D:\clones\tarantool\test\box\alter.test.lua,70,142.0,451.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\tx_gap_lock.test.lua,55,44.0,447.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\cfg.test.lua,83,84.0,443.0
+tarantool,Lua,D:\clones\tarantool\src\lua\log.lua,100,63.0,442.0
+tarantool,C,D:\clones\tarantool\third_party\libeio\etp.c,123,53.0,442.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\salad\rope.h,79,211.0,439.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\stat.test.lua,97,82.0,436.0
+tarantool,C,D:\clones\tarantool\src\box\vy_mem.c,57,154.0,434.0
+tarantool,Python,D:\clones\tarantool\test\box-py\iproto.test.py,85,55.0,434.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\alter.test.lua,57,98.0,434.0
+tarantool,C,D:\clones\tarantool\src\box\gc.c,76,200.0,433.0
+tarantool,C,D:\clones\tarantool\test\unit\vy_write_iterator.c,19,182.0,433.0
+tarantool,C,D:\clones\tarantool\src\box\lua\session.c,47,100.0,432.0
+tarantool,C,D:\clones\tarantool\third_party\libev\ev_iouring.c,124,157.0,431.0
+tarantool,C,D:\clones\tarantool\src\box\sql\fk_constraint.c,34,468.0,428.0
+tarantool,C,D:\clones\tarantool\src\box\tuple_constraint_fkey.c,50,126.0,428.0
+tarantool,C++,D:\clones\tarantool\src\box\memtx_bitset.cc,58,64.0,426.0
+tarantool,C,D:\clones\tarantool\src\box\lua\execute.c,22,99.0,422.0
+tarantool,C++,D:\clones\tarantool\src\box\tuple_extract_key.cc,21,58.0,422.0
+tarantool,Lua,D:\clones\tarantool\test\app\fio.test.lua,72,44.0,421.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl-luatest\update_optimize_test.lua,82,34.0,416.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\index.h,75,395.0,415.0
+tarantool,C,D:\clones\tarantool\src\box\tuple_constraint_def.c,31,64.0,414.0
+tarantool,C,D:\clones\tarantool\test\unit\watcher.c,89,38.0,412.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\sql\mem.h,121,369.0,411.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\gh_6150_memtx_tx_memory_monitoring_test.lua,15,10.0,411.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\in4.test.lua,69,177.0,411.0
+tarantool,Lua,D:\clones\tarantool\test\engine\tree.test.lua,119,56.0,409.0
+tarantool,C,D:\clones\tarantool\src\lib\tzcode\strftime.c,27,147.0,408.0
+tarantool,Bourne Shell,D:\clones\tarantool\third_party\libev\depcomp,54,168.0,408.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\lua\serializer_test.lua,95,52.0,406.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\selectB.test.lua,43,35.0,406.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\transitive1.test.lua,32,89.0,403.0
+tarantool,Lua,D:\clones\tarantool\src\lua\crypto.lua,51,1.0,398.0
+tarantool,Lua,D:\clones\tarantool\test\engine\upsert.test.lua,53,38.0,398.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\minmax2.test.lua,72,152.0,397.0
+tarantool,Lua,D:\clones\tarantool\src\box\lua\feedback_daemon.lua,62,14.0,394.0
+tarantool,Lua,D:\clones\tarantool\test\engine-luatest\gh_6436_tuple_constraint_test.lua,80,29.0,394.0
+tarantool,C++,D:\clones\tarantool\perf\tuple.cc,49,13.0,393.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\upsert.test.lua,104,102.0,392.0
+tarantool,C,D:\clones\tarantool\src\box\lua\lib.c,75,137.0,391.0
+tarantool,C++,D:\clones\tarantool\src\box\session.cc,51,83.0,391.0
+tarantool,C,D:\clones\tarantool\src\lib\core\evio.c,52,100.0,390.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\minmax3.test.lua,58,151.0,389.0
+tarantool,Lua,D:\clones\tarantool\test\swim\swim.test.lua,77,81.0,389.0
+tarantool,C++,D:\clones\tarantool\src\box\lua\cfg.cc,43,30.0,388.0
+tarantool,C,D:\clones\tarantool\src\lib\core\coio.c,30,150.0,388.0
+tarantool,C,D:\clones\tarantool\src\lib\core\crash.c,63,127.0,388.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\trigger2.test.lua,54,364.0,387.0
+tarantool,C,D:\clones\tarantool\src\box\session_settings.c,27,49.0,385.0
+tarantool,Lua,D:\clones\tarantool\test\box\tuple.test.lua,70,84.0,384.0
+tarantool,C,D:\clones\tarantool\src\box\xrow_update_array.c,33,79.0,378.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\select5.test.lua,49,139.0,378.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\orderby1.test.lua,49,371.0,377.0
+tarantool,C,D:\clones\tarantool\test\unit\bitset_iterator.c,126,0.0,371.0
+tarantool,Lua,D:\clones\tarantool\test\app-luatest\msgpack_test.lua,47,26.0,369.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\collation_unicode.test.lua,9,30.0,369.0
+tarantool,C,D:\clones\tarantool\src\box\func.c,50,158.0,366.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\queue.h,89,127.0,366.0
+tarantool,C,D:\clones\tarantool\src\box\engine.c,49,42.0,363.0
+tarantool,C,D:\clones\tarantool\src\box\lua\init.c,49,112.0,362.0
+tarantool,C,D:\clones\tarantool\src\lib\http_parser\http_parser.c,14,63.0,360.0
+tarantool,C,D:\clones\tarantool\test\unit\decimal.c,59,6.0,360.0
+tarantool,C,D:\clones\tarantool\test\unit\error.c,101,5.0,360.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\bit\bit.h,57,227.0,359.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\space.h,68,289.0,356.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\lua\sqltester.lua,51,29.0,355.0
+tarantool,C,D:\clones\tarantool\src\box\sql\vdbemem.c,39,194.0,354.0
+tarantool,C,D:\clones\tarantool\src\box\xrow_update_map.c,19,106.0,353.0
+tarantool,Lua,D:\clones\tarantool\src\lua\string.lua,29,56.0,353.0
+tarantool,C,D:\clones\tarantool\test\unit\csv.c,39,39.0,353.0
+tarantool,Bourne Shell,D:\clones\tarantool\third_party\libeio\install-sh,70,105.0,352.0
+tarantool,C,D:\clones\tarantool\third_party\libev\ev_linuxaio.c,92,178.0,350.0
+tarantool,C,D:\clones\tarantool\src\box\lua\key_def.c,51,120.0,349.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\analyzeE.test.lua,54,120.0,349.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\popen.test.lua,86,195.0,346.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\errinj.test.lua,47,73.0,346.0
+tarantool,C,D:\clones\tarantool\src\box\lua\stat.c,61,87.0,344.0
+tarantool,C++,D:\clones\tarantool\src\box\memtx_rtree.cc,39,63.0,344.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\trigger1.test.lua,43,516.0,342.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\txn.h,81,589.0,341.0
+tarantool,C,D:\clones\tarantool\src\lua\decimal.c,28,78.0,341.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\whereD.test.lua,42,95.0,341.0
+tarantool,C,D:\clones\tarantool\src\box\field_def.c,20,81.0,340.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\null.test.lua,63,155.0,340.0
+tarantool,C,D:\clones\tarantool\src\box\module_cache.c,65,64.0,339.0
+tarantool,C,D:\clones\tarantool\src\box\xrow_update_bar.c,28,114.0,339.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\misc3.test.lua,50,122.0,338.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\vy_stmt.h,64,390.0,337.0
+tarantool,C,D:\clones\tarantool\src\lib\crypto\crypto.c,35,66.0,336.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\analyze1.test.lua,52,176.0,336.0
+tarantool,C,D:\clones\tarantool\src\lua\httpc.c,66,56.0,335.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\string.test.lua,34,4.0,335.0
+tarantool,C,D:\clones\tarantool\src\box\watcher.c,30,82.0,333.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\sql\parse_def.h,53,152.0,332.0
+tarantool,C,D:\clones\tarantool\src\lib\coll\coll.c,28,72.0,332.0
+tarantool,C++,D:\clones\tarantool\src\lib\core\exception.cc,58,34.0,332.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\2.10.0-beta1.md,129,0.0,331.0
+tarantool,C++,D:\clones\tarantool\src\box\schema.cc,38,122.0,329.0
+tarantool,C,D:\clones\tarantool\src\lib\core\decimal.c,54,99.0,328.0
+tarantool,Lua,D:\clones\tarantool\src\lua\digest.lua,58,2.0,328.0
+tarantool,C,D:\clones\tarantool\src\httpc.c,56,99.0,326.0
+tarantool,C,D:\clones\tarantool\src\lib\fakesys\fakenet.c,35,141.0,326.0
+tarantool,Lua,D:\clones\tarantool\test\box\alter_limits.test.lua,30,107.0,326.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\fiber.h,95,568.0,325.0
+tarantool,C,D:\clones\tarantool\src\lua\utf8.c,17,136.0,324.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\func5.test.lua,46,80.0,321.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-3307-xfer-optimization-issue.test.lua,41,75.0,321.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\key_def.h,71,689.0,320.0
+tarantool,C,D:\clones\tarantool\src\lib\core\sio.c,26,61.0,320.0
+tarantool,C++,D:\clones\tarantool\src\box\tuple_hash.cc,33,81.0,319.0
+tarantool,C,D:\clones\tarantool\src\box\sql\update.c,34,136.0,318.0
+tarantool,C,D:\clones\tarantool\src\lib\core\util.c,37,112.0,318.0
+tarantool,Lua,D:\clones\tarantool\test\box\transaction.test.lua,41,101.0,318.0
+tarantool,C,D:\clones\tarantool\src\box\sql\delete.c,46,178.0,317.0
+tarantool,Lua,D:\clones\tarantool\test\box\function1.test.lua,42,35.0,316.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-9a8b09f8e6.test.lua,59,109.0,316.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\trigger9.test.lua,52,91.0,316.0
+tarantool,C,D:\clones\tarantool\test\unit\serializer.c,24,105.0,315.0
+tarantool,C++,D:\clones\tarantool\test\unit\vclock.cc,57,47.0,313.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\vy_log.h,50,447.0,311.0
+tarantool,Lua,D:\clones\tarantool\test\box\tree_pk.test.lua,75,34.0,309.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\tx_conflict.test.lua,21,25.0,307.0
+tarantool,C,D:\clones\tarantool\src\box\sequence.c,34,44.0,306.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\whereG.test.lua,29,124.0,306.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\trivia\util.h,69,242.0,302.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\analyze3.test.lua,58,290.0,299.0
+tarantool,C,D:\clones\tarantool\third_party\libev\event.c,82,44.0,299.0
+tarantool,C++,D:\clones\tarantool\src\box\recovery.cc,72,178.0,298.0
+tarantool,C,D:\clones\tarantool\src\box\vy_range.c,36,232.0,297.0
+tarantool,C,D:\clones\tarantool\src\lib\bitset\iterator.c,75,62.0,297.0
+tarantool,CMake,D:\clones\tarantool\src\CMakeLists.txt,38,41.0,295.0
+tarantool,Lua,D:\clones\tarantool\test\engine\tree_min_max_count.test.lua,70,10.0,295.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\xlog.h,85,517.0,294.0
+tarantool,C,D:\clones\tarantool\src\lib\csv\csv.c,30,87.0,294.0
+tarantool,C,D:\clones\tarantool\test\unit\vy_mem.c,39,11.0,294.0
+tarantool,C,D:\clones\tarantool\src\box\tuple_bloom.c,37,48.0,293.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\date.test.lua,11,183.0,293.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\unique.test.lua,37,106.0,293.0
+tarantool,Lua,D:\clones\tarantool\src\lua\buffer.lua,68,49.0,292.0
+tarantool,make,D:\clones\tarantool\.travis.mk,92,104.0,291.0
+tarantool,C,D:\clones\tarantool\src\lib\uri\uri.c,23,35.0,289.0
+tarantool,C++,D:\clones\tarantool\test\unit\light.cc,42,0.0,288.0
+tarantool,Lua,D:\clones\tarantool\src\box\lua\tuple.lua,52,34.0,287.0
+tarantool,C,D:\clones\tarantool\src\lib\core\fiber_channel.c,39,150.0,287.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-3251-string-pattern-comparison.test.lua,21,7.0,287.0
+tarantool,C,D:\clones\tarantool\src\box\raft.c,34,146.0,286.0
+tarantool,C,D:\clones\tarantool\src\lib\core\coio_task.c,45,100.0,286.0
+tarantool,Markdown,D:\clones\tarantool\doc\rfc\2592-prepared-statement.md,47,0.0,285.0
+tarantool,C,D:\clones\tarantool\test\unit\prbuf.c,42,18.0,285.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\cache.test.lua,96,19.0,285.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\xrow_update_field.h,77,427.0,283.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\iproto_constants.h,45,208.0,282.0
+tarantool,C,D:\clones\tarantool\src\box\sql\malloc.c,26,144.0,282.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\bigrow1.test.lua,34,91.0,282.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\diag.h,51,146.0,281.0
+tarantool,C,D:\clones\tarantool\test\unit\vy_point_lookup.c,47,9.0,281.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\engine.h,58,206.0,280.0
+tarantool,C,D:\clones\tarantool\src\box\sql\pragma.c,15,105.0,280.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-38cb5df375.test.lua,35,19.0,280.0
+tarantool,Lua,D:\clones\tarantool\test\replication-luatest\gh_5568_read_only_reason_test.lua,32,48.0,278.0
+tarantool,C,D:\clones\tarantool\src\lua\uri.c,19,45.0,277.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\write_iterator.test.lua,66,82.0,277.0
+tarantool,C++,D:\clones\tarantool\test\unit\rtree_iterator.cc,28,16.0,276.0
+tarantool,C,D:\clones\tarantool\src\box\lua\index.c,56,42.0,275.0
+tarantool,C,D:\clones\tarantool\test\unit\cbus_stress.c,59,53.0,275.0
+tarantool,Python,D:\clones\tarantool\tools\gen-release-notes,123,130.0,275.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\salad\heap.h,82,185.0,274.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\select9.test.lua,32,259.0,274.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\errcode.h,12,45.0,273.0
+tarantool,Lua,D:\clones\tarantool\test\box\misc.test.lua,42,71.0,273.0
+tarantool,C,D:\clones\tarantool\src\box\index_def.c,17,46.0,272.0
+tarantool,CMake,D:\clones\tarantool\src\box\CMakeLists.txt,24,3.0,271.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\vy_run.h,55,352.0,271.0
+tarantool,Bourne Shell,D:\clones\tarantool\extra\mkopcodeh.sh,12,45.0,269.0
+tarantool,Lua,D:\clones\tarantool\test\luatest_helpers\server.lua,41,34.0,269.0
+tarantool,Markdown,D:\clones\tarantool\doc\rfc\5187-luajit-metrics.md,38,0.0,268.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\gh_6246_mvcc_different_select_behavior_test.lua,49,16.0,268.0
+tarantool,Markdown,D:\clones\tarantool\doc\rfc\5442-luajit-memory-profiler.md,49,0.0,267.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\libev\ev_wrap.h,0,1.0,267.0
+tarantool,C,D:\clones\tarantool\src\lib\core\error_payload.c,24,19.0,266.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\libeio\eio.h,64,89.0,266.0
+tarantool,C++,D:\clones\tarantool\src\box\lua\error.cc,23,58.0,265.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\table.test.lua,21,0.0,265.0
+tarantool,Bourne Shell,D:\clones\tarantool\third_party\libev\missing,38,34.0,264.0
+tarantool,Lua,D:\clones\tarantool\src\lua\tap.lua,37,7.0,263.0
+tarantool,C,D:\clones\tarantool\src\lib\bitset\index.c,71,65.0,262.0
+tarantool,C,D:\clones\tarantool\src\lua\errno.c,6,30.0,261.0
+tarantool,Lua,D:\clones\tarantool\test\box\role.test.lua,37,78.0,261.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\tt_pthread.h,49,66.0,260.0
+tarantool,C++,D:\clones\tarantool\src\box\error.cc,39,36.0,259.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt2822.test.lua,40,140.0,259.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\msgpack.test.lua,19,8.0,257.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\in3.test.lua,42,185.0,256.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\deferred_delete.test.lua,56,68.0,255.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-5756-implicit-cast-in-arithmetic.test.lua,36,4.0,254.0
+tarantool,C,D:\clones\tarantool\src\box\lua\xlog.c,30,56.0,252.0
+tarantool,Lua,D:\clones\tarantool\test\box\before_replace.test.lua,44,51.0,252.0
+tarantool,CMake,D:\clones\tarantool\test\unit\CMakeLists.txt,49,3.0,252.0
+tarantool,C,D:\clones\tarantool\src\box\iproto_constants.c,17,52.0,251.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\net_box_test.lua,32,20.0,251.0
+tarantool,Lua,D:\clones\tarantool\test\engine\savepoint.test.lua,31,22.0,251.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\sql\whereInt.h,24,249.0,250.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\gh_6260_add_builtin_events_test.lua,56,17.0,250.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\feedback_daemon.test.lua,45,24.0,249.0
+tarantool,Lua,D:\clones\tarantool\test\sql\prepared.test.lua,46,46.0,249.0
+tarantool,Lua,D:\clones\tarantool\test\engine\tuple.test.lua,27,41.0,248.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\tx_serial.test.lua,19,16.0,248.0
+tarantool,C,D:\clones\tarantool\src\lib\core\backtrace.c,13,48.0,247.0
+tarantool,C,D:\clones\tarantool\test\unit\bitset_index.c,57,1.0,247.0
+tarantool,C++,D:\clones\tarantool\test\unit\coio.cc,31,18.0,246.0
+tarantool,Lua,D:\clones\tarantool\test\box\lua.test.lua,52,74.0,245.0
+tarantool,Lua,D:\clones\tarantool\test\engine\func_index.test.lua,29,36.0,245.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\where5.test.lua,73,120.0,245.0
+tarantool,C++,D:\clones\tarantool\test\unit\xrow.cc,50,65.0,245.0
+tarantool,Lua,D:\clones\tarantool\test\box\on_replace.test.lua,50,20.0,244.0
+tarantool,C,D:\clones\tarantool\test\unit\crypto.c,31,34.0,244.0
+tarantool,Bourne Shell,D:\clones\tarantool\third_party\libeio\missing,37,49.0,244.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\subselect.test.lua,40,104.0,243.0
+tarantool,Lua,D:\clones\tarantool\test\replication-luatest\gh_6842_qsync_applier_order_test.lua,34,94.0,242.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\types2.test.lua,15,71.0,242.0
+tarantool,C,D:\clones\tarantool\test\unit\vy_iterators_helper.c,18,15.0,242.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\gh.test.lua,51,36.0,242.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\vclock\vclock.h,42,177.0,241.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\keyword1.test.lua,7,17.0,241.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\triggerA.test.lua,18,68.0,241.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\errinj_ddl.test.lua,70,44.0,241.0
+tarantool,C,D:\clones\tarantool\src\lib\core\prbuf.c,31,92.0,240.0
+tarantool,C++,D:\clones\tarantool\test\unit\fiber.cc,49,36.0,239.0
+tarantool,C++,D:\clones\tarantool\test\unit\rtree.cc,45,3.0,239.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\badutf1.test.lua,35,85.0,238.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\select3.test.lua,41,123.0,238.0
+tarantool,C,D:\clones\tarantool\src\lib\fakesys\fakeev.c,35,107.0,237.0
+tarantool,C++,D:\clones\tarantool\src\box\lua\misc.cc,47,66.0,236.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\console.test.lua,58,52.0,236.0
+tarantool,C,D:\clones\tarantool\test\box\function1.c,40,16.0,236.0
+tarantool,Lua,D:\clones\tarantool\test\box\push.test.lua,32,47.0,235.0
+tarantool,C,D:\clones\tarantool\test\unit\say.c,30,15.0,232.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\say.h,60,232.0,231.0
+tarantool,Lua,D:\clones\tarantool\test\sql\ddl.test.lua,61,37.0,231.0
+tarantool,Markdown,D:\clones\tarantool\doc\rfc\vylog-ups-and-downs.md,49,0.0,230.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\swim\swim_proto.h,68,360.0,230.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\module_api.test.lua,27,2.0,230.0
+tarantool,Lua,D:\clones\tarantool\test\sql\collation.test.lua,39,83.0,229.0
+tarantool,C,D:\clones\tarantool\src\box\xrow_update_route.c,16,155.0,228.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\distinct.test.lua,23,72.0,228.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\fkey4.test.lua,22,35.0,228.0
+tarantool,CMake,D:\clones\tarantool\cmake\compiler.cmake,49,115.0,227.0
+tarantool,C,D:\clones\tarantool\src\box\tuple_convert.c,23,32.0,227.0
+tarantool,C,D:\clones\tarantool\src\lua\fiber_channel.c,34,39.0,227.0
+tarantool,C,D:\clones\tarantool\src\box\vy_quota.c,31,123.0,226.0
+tarantool,C,D:\clones\tarantool\src\lib\core\fio.c,29,37.0,226.0
+tarantool,C,D:\clones\tarantool\src\proc_title.c,33,117.0,226.0
+tarantool,Lua,D:\clones\tarantool\test\engine\update.test.lua,28,41.0,226.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\join5.test.lua,33,71.0,226.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt1449.test.lua,19,37.0,226.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\analyze5.test.lua,24,78.0,225.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\identifier_case.test.lua,34,3.0,225.0
+tarantool,Markdown,D:\clones\tarantool\doc\rfc\4182-persistent-lua-functions.md,25,0.0,224.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\alter2.test.lua,28,58.0,223.0
+tarantool,C,D:\clones\tarantool\src\box\space_cache.c,24,49.0,222.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\schema_def.h,29,98.0,220.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\in5.test.lua,27,89.0,220.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\gh-5632-6050-6259-gc-buf-reuse.test.lua,45,6.0,219.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\minmax4.test.lua,26,63.0,219.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\offset1.test.lua,30,62.0,219.0
+tarantool,Lua,D:\clones\tarantool\test\sql\checks.test.lua,24,58.0,219.0
+tarantool,C,D:\clones\tarantool\test\unit\column_mask.c,45,52.0,218.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\ddl.test.lua,30,46.0,218.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\resolver01.test.lua,33,119.0,217.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt3493.test.lua,31,71.0,217.0
+tarantool,C,D:\clones\tarantool\test\unit\merger.test.c,47,21.0,217.0
+tarantool,Lua,D:\clones\tarantool\test\engine\json.test.lua,11,22.0,216.0
+tarantool,C,D:\clones\tarantool\third_party\libev\ev_select.c,44,56.0,216.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\vy_stat.h,29,135.0,215.0
+tarantool,C,D:\clones\tarantool\test\unit\popen.c,50,3.0,215.0
+tarantool,C,D:\clones\tarantool\src\box\sql_stmt_cache.c,21,54.0,213.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\on_replace.test.lua,15,11.0,213.0
+tarantool,C,D:\clones\tarantool\src\box\sql\main.c,28,182.0,212.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\tuple_format.h,46,390.0,212.0
+tarantool,C,D:\clones\tarantool\src\box\sql\hash.c,16,84.0,211.0
+tarantool,C,D:\clones\tarantool\src\curl.c,37,78.0,211.0
+tarantool,Lua,D:\clones\tarantool\test\app\digest.test.lua,28,27.0,211.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\fkey3.test.lua,27,51.0,211.0
+tarantool,C,D:\clones\tarantool\src\box\vy_point_lookup.c,35,84.0,210.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\count.test.lua,30,58.0,210.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\memtx_tx.h,48,330.0,209.0
+tarantool,C,D:\clones\tarantool\src\box\port.c,18,54.0,209.0
+tarantool,C,D:\clones\tarantool\src\box\vy_regulator.c,44,207.0,209.0
+tarantool,C,D:\clones\tarantool\src\lua\pickle.c,27,46.0,209.0
+tarantool,Lua,D:\clones\tarantool\test\box\sql.test.lua,57,38.0,209.0
+tarantool,Bourne Shell,D:\clones\tarantool\tools\tarabrt.sh,45,45.0,209.0
+tarantool,Lua,D:\clones\tarantool\test\box\access_misc.test.lua,34,78.0,208.0
+tarantool,Lua,D:\clones\tarantool\test\box\access_sysview.test.lua,64,38.0,208.0
+tarantool,C,D:\clones\tarantool\test\unit\tuple_bigref.c,53,22.0,208.0
+tarantool,Lua,D:\clones\tarantool\test\wal_off\snapshot_stress.test.lua,46,11.0,208.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\session.h,55,214.0,207.0
+tarantool,C,D:\clones\tarantool\test\unit\uri_parser.c,37,10.0,207.0
+tarantool,C,D:\clones\tarantool\third_party\base64.c,21,43.0,207.0
+tarantool,Lua,D:\clones\tarantool\test\replication\qsync_advanced.test.lua,21,58.0,206.0
+tarantool,C,D:\clones\tarantool\test\unit\bit.c,57,4.0,205.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\json\json.h,39,314.0,204.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-5364-define-bit-wise-rules.test.lua,29,4.0,204.0
+tarantool,C,D:\clones\tarantool\test\unit\swim_proto.c,39,30.0,204.0
+tarantool,CMake,D:\clones\tarantool\cmake\FindOpenSSL.cmake,26,62.0,203.0
+tarantool,INI,D:\clones\tarantool\test\box\suite.ini,0,0.0,203.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\hermitage.test.lua,50,96.0,203.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-4dd95f6943.test.lua,30,15.0,202.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\vy_lsm.h,44,395.0,201.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\yaml.test.lua,18,13.0,200.0
+tarantool,Lua,D:\clones\tarantool\test\engine-luatest\gh_6961_fkey_same_space_test.lua,29,7.0,199.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\blob.test.lua,28,66.0,199.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\gh-4954-merger-via-c.test.lua,23,30.0,198.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\fkey1.test.lua,23,38.0,198.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\start-transaction.test.lua,27,49.0,198.0
+tarantool,C,D:\clones\tarantool\third_party\libutil_freebsd\pidfile.c,36,49.0,198.0
+tarantool,C,D:\clones\tarantool\src\lib\mpstream\mpstream.c,20,34.0,197.0
+tarantool,Python,D:\clones\tarantool\test\replication-py\cluster.test.py,48,29.0,197.0
+tarantool,C,D:\clones\tarantool\src\box\xrow_update.c,20,201.0,196.0
+tarantool,Lua,D:\clones\tarantool\test\replication\qsync_basic.test.lua,26,79.0,196.0
+tarantool,Lua,D:\clones\tarantool\src\lua\pwd.lua,28,58.0,195.0
+tarantool,Lua,D:\clones\tarantool\src\lua\uuid.lua,19,2.0,195.0
+tarantool,Lua,D:\clones\tarantool\test\engine\indices_any_type.test.lua,49,8.0,195.0
+tarantool,Markdown,D:\clones\tarantool\doc\rfc\3328-wire_protocol.md,35,0.0,194.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-31338dca7e.test.lua,16,51.0,194.0
+tarantool,Lua,D:\clones\tarantool\test\engine\transaction.test.lua,30,30.0,193.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\several-listening-sockets.test.lua,44,52.0,192.0
+tarantool,C,D:\clones\tarantool\src\box\merger.c,46,119.0,191.0
+tarantool,Markdown,D:\clones\tarantool\doc\rfc\1148-stacked-diagnostics.md,35,0.0,190.0
+tarantool,C,D:\clones\tarantool\src\box\bind.c,4,43.0,190.0
+tarantool,Lua,D:\clones\tarantool\test\engine\multikey.test.lua,13,36.0,190.0
+tarantool,C,D:\clones\tarantool\src\box\ck_constraint.c,15,72.0,189.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\func3.test.lua,30,90.0,188.0
+tarantool,C,D:\clones\tarantool\src\lib\bitset\bitset.c,46,39.0,187.0
+tarantool,Lua,D:\clones\tarantool\test\app\fiber_channel.test.lua,22,8.0,187.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-2579-custom-aggregate.test.lua,22,15.0,187.0
+tarantool,Lua,D:\clones\tarantool\src\lua\csv.lua,20,19.0,186.0
+tarantool,Lua,D:\clones\tarantool\test\box\call.test.lua,52,6.0,185.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\substr.test.lua,23,62.0,185.0
+tarantool,Lua,D:\clones\tarantool\test\box\tree_pk_multipart.test.lua,36,40.0,184.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\write_iterator_rand.test.lua,19,1.0,184.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\2.8.1.md,41,0.0,183.0
+tarantool,C,D:\clones\tarantool\src\lib\salad\rope.c,32,117.0,183.0
+tarantool,m4,D:\clones\tarantool\third_party\libeio\libeio.m4,17,7.0,183.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\cse.test.lua,25,62.0,182.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\insert3.test.lua,29,100.0,181.0
+tarantool,C,D:\clones\tarantool\src\box\opt_def.c,8,38.0,180.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\sql\vdbe.h,30,143.0,179.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\reflection.h,34,66.0,179.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-6293-implement-new-net-stat.test.lua,6,14.0,179.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\box.h,70,344.0,178.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\errinj.h,11,59.0,178.0
+tarantool,Lua,D:\clones\tarantool\test\box\error.test.lua,27,72.0,178.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\analyzeC.test.lua,23,74.0,178.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\index6.test.lua,24,259.0,178.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\logger.test.lua,39,29.0,177.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\insert1.test.lua,39,321.0,177.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\selectC.test.lua,31,161.0,177.0
+tarantool,CMake,D:\clones\tarantool\static-build\CMakeLists.txt,28,59.0,176.0
+tarantool,Lua,D:\clones\tarantool\test\box\lua\utils.lua,24,19.0,176.0
+tarantool,C,D:\clones\tarantool\src\box\tuple_dictionary.c,15,43.0,174.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\exception.h,50,37.0,174.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\json.test.lua,18,24.0,174.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\whereA.test.lua,21,71.0,174.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\allocator.h,19,39.0,173.0
+tarantool,Lua,D:\clones\tarantool\src\lua\httpc.lua,34,246.0,173.0
+tarantool,C,D:\clones\tarantool\third_party\PMurHash.c,53,91.0,173.0
+tarantool,Lua,D:\clones\tarantool\src\lua\error.lua,32,4.0,172.0
+tarantool,Markdown,D:\clones\tarantool\doc\rfc\5857-inter-fiber-debugger.md,35,0.0,171.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\curl-build.test.lua,20,18.0,171.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\default.test.lua,21,57.0,171.0
+tarantool,C++,D:\clones\tarantool\test\unit\coll.cpp,26,2.0,171.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\libev\ev_vars.h,36,40.0,171.0
+tarantool,Bourne Shell,D:\clones\tarantool\third_party\libev\install-sh,54,70.0,170.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\vy_tx.h,40,289.0,169.0
+tarantool,C,D:\clones\tarantool\test\unit\cbus.c,29,50.0,169.0
+tarantool,Markdown,D:\clones\tarantool\doc\rfc\3271-foreign-keys.md,24,0.0,168.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\error.h,49,122.0,168.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\index_def.h,32,230.0,168.0
+tarantool,C,D:\clones\tarantool\src\box\sql\prepare.c,14,56.0,168.0
+tarantool,C,D:\clones\tarantool\src\box\blackhole.c,17,32.0,167.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\session.test.lua,28,20.0,167.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\select7.test.lua,32,97.0,167.0
+tarantool,C,D:\clones\tarantool\src\lib\core\mp_interval.c,13,9.0,166.0
+tarantool,Lua,D:\clones\tarantool\test\box\rtree_misc.test.lua,51,37.0,166.0
+tarantool,Python,D:\clones\tarantool\test\box-py\call.test.py,22,23.0,164.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-5645-several-iproto-threads.test.lua,6,6.0,164.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\where6.test.lua,27,73.0,164.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\errinj_tx.test.lua,40,34.0,163.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\vy_mem.h,42,229.0,162.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\gh-2717-no-quit-sigint.test.lua,32,10.0,162.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\orderby6.test.lua,28,142.0,162.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-80ba201079.test.lua,19,83.0,162.0
+tarantool,C,D:\clones\tarantool\test\unit\bitset_basic.c,42,1.0,162.0
+tarantool,C++,D:\clones\tarantool\src\box\lua\slab.cc,47,92.0,161.0
+tarantool,Lua,D:\clones\tarantool\test\app-luatest\digest_crc32_recording_test.lua,38,4.0,161.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\printf2.test.lua,25,82.0,161.0
+tarantool,C,D:\clones\tarantool\test\unit\func_cache.c,30,12.0,161.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\memtx_engine.h,42,206.0,160.0
+tarantool,Lua,D:\clones\tarantool\src\lua\uri.lua,15,1.0,160.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\sql\vdbeInt.h,31,173.0,159.0
+tarantool,C,D:\clones\tarantool\src\box\vy_upsert.c,8,94.0,159.0
+tarantool,Lua,D:\clones\tarantool\test\app\decimal.test.lua,16,13.0,159.0
+tarantool,Lua,D:\clones\tarantool\test\sql\iproto.test.lua,41,60.0,159.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\cbus.h,37,256.0,158.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gc.test.lua,34,81.0,158.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\orderby3.test.lua,22,51.0,157.0
+tarantool,Lua,D:\clones\tarantool\test\sql\lua\sql_tokenizer.lua,7,53.0,157.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\lua-tables.test.lua,18,6.0,156.0
+tarantool,C,D:\clones\tarantool\test\unit\heap_iterator.c,39,0.0,156.0
+tarantool,Lua,D:\clones\tarantool\src\lua\argparse.lua,11,15.0,155.0
+tarantool,C,D:\clones\tarantool\src\lua\backtrace.c,14,29.0,154.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_iproto_streams.test.lua,11,31.0,154.0
+tarantool,Lua,D:\clones\tarantool\test\replication\errinj.test.lua,43,31.0,154.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\select2.test.lua,22,97.0,154.0
+tarantool,C,D:\clones\tarantool\third_party\qsort_arg.c,18,71.0,153.0
+tarantool,C,D:\clones\tarantool\third_party\qsort_arg_mt.c,20,65.0,153.0
+tarantool,C,D:\clones\tarantool\src\box\call.c,15,35.0,152.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\gh_6930_mvcc_isolation_levels_test.lua,20,4.0,152.0
+tarantool,Lua,D:\clones\tarantool\test\engine\errinj_ddl.test.lua,48,33.0,152.0
+tarantool,C,D:\clones\tarantool\third_party\libeio\demo.c,40,2.0,152.0
+tarantool,C,D:\clones\tarantool\src\box\lua\watcher.c,19,48.0,151.0
+tarantool,C,D:\clones\tarantool\src\box\sql\os.c,18,74.0,151.0
+tarantool,Lua,D:\clones\tarantool\test\engine\insert.test.lua,33,28.0,151.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\numcast.test.lua,21,33.0,151.0
+tarantool,C,D:\clones\tarantool\third_party\libev\ev_epoll.c,44,103.0,151.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\libev\event_compat.h,36,39.0,151.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\extended_error.test.lua,22,8.0,148.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_watcher.test.lua,15,14.0,148.0
+tarantool,C,D:\clones\tarantool\test\unit\luaL_iterator.c,18,42.0,148.0
+tarantool,C,D:\clones\tarantool\test\unit\mhash_body.c,28,8.0,148.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\iostream.h,27,109.0,147.0
+tarantool,Lua,D:\clones\tarantool\src\lua\init.lua,33,28.0,147.0
+tarantool,Lua,D:\clones\tarantool\test\app\watcher.test.lua,15,15.0,147.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\subquery2.test.lua,18,43.0,147.0
+tarantool,C,D:\clones\tarantool\src\box\space_def.c,14,63.0,146.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\utils.h,56,226.0,146.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\like3.test.lua,19,76.0,146.0
+tarantool,C,D:\clones\tarantool\test\unit\histogram.c,32,0.0,146.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\savepoint.test.lua,21,10.0,146.0
+tarantool,C,D:\clones\tarantool\third_party\sha1.c,33,40.0,146.0
+tarantool,Lua,D:\clones\tarantool\test\replication\qsync_errinj.test.lua,32,49.0,145.0
+tarantool,C++,D:\clones\tarantool\test\unit\snap_quorum_delay.cc,25,82.0,145.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\journal.h,37,154.0,144.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\datetime.h,43,183.0,144.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\salad\stailq.h,28,93.0,144.0
+tarantool,C++,D:\clones\tarantool\test\unit\reflection_cxx.cc,25,14.0,143.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\recover.test.lua,32,18.0,143.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-7bbfb7d442.test.lua,20,32.0,142.0
+tarantool,C,D:\clones\tarantool\src\box\request.c,22,77.0,141.0
+tarantool,Lua,D:\clones\tarantool\test\replication-luatest\gh_6036_qsync_order_test.lua,25,41.0,141.0
+tarantool,C,D:\clones\tarantool\src\lua\trigger.c,12,86.0,140.0
+tarantool,C/C++ Header,D:\clones\tarantool\test\unit\raft_test_utils.h,44,131.0,140.0
+tarantool,Lua,D:\clones\tarantool\test\box\admin.test.lua,9,0.0,139.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\between.test.lua,17,54.0,139.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\delete4.test.lua,23,51.0,139.0
+tarantool,C,D:\clones\tarantool\test\unit\mhash.c,19,0.0,139.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_msgpack_gh-2195.test.lua,27,27.0,138.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\delete1.test.lua,13,18.0,138.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\join6.test.lua,28,51.0,138.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\libeio\xthread.h,36,14.0,138.0
+tarantool,C,D:\clones\tarantool\third_party\libev\ev_kqueue.c,32,54.0,138.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\applier.h,25,173.0,137.0
+tarantool,C,D:\clones\tarantool\src\box\lua\sequence.c,13,38.0,137.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\replication.h,49,300.0,137.0
+tarantool,Lua,D:\clones\tarantool\test\sql\triggers.test.lua,37,43.0,137.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_incorrect_iterator_gh-841.test.lua,37,11.0,136.0
+tarantool,Lua,D:\clones\tarantool\test\engine\select.test.lua,10,9.0,136.0
+tarantool,C/C++ Header,D:\clones\tarantool\test\unit\unit.h,38,71.0,136.0
+tarantool,Markdown,D:\clones\tarantool\doc\changelogs.md,52,0.0,135.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\txn_limbo.h,36,242.0,134.0
+tarantool,Lua,D:\clones\tarantool\test\luatest_helpers\cluster.lua,23,1.0,134.0
+tarantool,CMake,D:\clones\tarantool\cmake\BuildLibCURL.cmake,26,42.0,133.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\triggerB.test.lua,12,53.0,133.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\errinj_stat.test.lua,18,17.0,133.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\misc.test.lua,14,46.0,133.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\swim\swim_io.h,31,192.0,132.0
+tarantool,YAML,D:\clones\tarantool\.github\actions\send-telegram-notify\action.yml,0,17.0,131.0
+tarantool,INI,D:\clones\tarantool\test\replication\suite.ini,0,0.0,131.0
+tarantool,C,D:\clones\tarantool\src\box\sql\alter.c,13,63.0,130.0
+tarantool,C,D:\clones\tarantool\src\cfg.c,17,34.0,130.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\serializer.h,32,222.0,130.0
+tarantool,Lua,D:\clones\tarantool\test\replication\replica_rejoin.test.lua,14,35.0,130.0
+tarantool,Lua,D:\clones\tarantool\test\sql\errinj.test.lua,12,22.0,130.0
+tarantool,C,D:\clones\tarantool\test\unit\uuid.c,22,0.0,130.0
+tarantool,C,D:\clones\tarantool\src\histogram.c,27,30.0,129.0
+tarantool,C,D:\clones\tarantool\src\lib\vclock\vclock.c,11,38.0,129.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt1443.test.lua,14,53.0,129.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\coro\coro.h,50,244.0,129.0
+tarantool,CMake,D:\clones\tarantool\extra\dist\CMakeLists.txt,20,26.0,128.0
+tarantool,Python,D:\clones\tarantool\test\app-luatest\httpd.py,19,0.0,128.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\auth.test.lua,18,10.0,128.0
+tarantool,Lua,D:\clones\tarantool\test\replication\election_basic.test.lua,25,22.0,128.0
+tarantool,C,D:\clones\tarantool\test\unit\xmalloc.c,7,0.0,128.0
+tarantool,C,D:\clones\tarantool\third_party\lua-cjson\strbuf.c,41,51.0,128.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\bitset\page.h,28,47.0,127.0
+tarantool,C,D:\clones\tarantool\src\title.c,21,51.0,127.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt1537.test.lua,23,56.0,127.0
+tarantool,C,D:\clones\tarantool\src\lib\bit\bit.c,42,36.0,126.0
+tarantool,C,D:\clones\tarantool\test\unit\cbus_hang.c,37,24.0,126.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\salad\rtree.h,34,181.0,125.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5806-xlog-cleanup.test.lua,42,69.0,125.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\analyze6.test.lua,16,56.0,125.0
+tarantool,C,D:\clones\tarantool\third_party\coro\conftest.c,2,27.0,125.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\raft\raft.h,35,237.0,124.0
+tarantool,Lua,D:\clones\tarantool\test\box\tx_man_intervals.test.lua,32,12.0,124.0
+tarantool,Lua,D:\clones\tarantool\test\engine\truncate.test.lua,11,37.0,124.0
+tarantool,CMake,D:\clones\tarantool\src\trivia\config.h.cmake,37,121.0,123.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\tap.test.lua,26,48.0,123.0
+tarantool,Lua,D:\clones\tarantool\test\sql\foreign-keys.test.lua,33,68.0,123.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_count_inconsistent_gh-3262.test.lua,36,4.0,122.0
+tarantool,Lua,D:\clones\tarantool\test\box\select.test.lua,30,19.0,122.0
+tarantool,C,D:\clones\tarantool\test\unit\queue.c,11,32.0,122.0
+tarantool,C,D:\clones\tarantool\test\unit\swim_errinj.c,23,93.0,122.0
+tarantool,C,D:\clones\tarantool\src\box\tuple_constraint_func.c,9,29.0,121.0
+tarantool,C,D:\clones\tarantool\src\lib\core\random.c,16,61.0,121.0
+tarantool,Lua,D:\clones\tarantool\test\app\uuid.test.lua,31,37.0,121.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\interval_test.lua,10,0.0,121.0
+tarantool,C,D:\clones\tarantool\src\lib\core\cord_buf.c,17,30.0,120.0
+tarantool,C,D:\clones\tarantool\test\unit\luaT_tuple_new.c,32,43.0,120.0
+tarantool,C,D:\clones\tarantool\src\lua\digest.c,14,50.0,119.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\lua_sql.test.lua,19,4.0,119.0
+tarantool,C,D:\clones\tarantool\src\box\vy_read_set.c,13,54.0,118.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\fiber_channel.h,33,241.0,118.0
+tarantool,C,D:\clones\tarantool\src\systemd.c,15,32.0,118.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\analyze8.test.lua,19,69.0,118.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\types.test.lua,23,122.0,118.0
+tarantool,C,D:\clones\tarantool\src\box\key_list.c,8,57.0,117.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\vy_cache.h,34,160.0,117.0
+tarantool,C,D:\clones\tarantool\src\lib\core\iostream.c,14,5.0,117.0
+tarantool,Lua,D:\clones\tarantool\test\box\bitset.test.lua,15,33.0,117.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\analyze7.test.lua,16,57.0,117.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\analyzeD.test.lua,21,62.0,117.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tokenize.test.lua,17,53.0,117.0
+tarantool,Lua,D:\clones\tarantool\test\sql\view.test.lua,29,45.0,117.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\vy_quota.h,31,197.0,116.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\console_lua.test.lua,25,25.0,116.0
+tarantool,Lua,D:\clones\tarantool\test\box\lib.test.lua,32,54.0,116.0
+tarantool,Lua,D:\clones\tarantool\test\engine\replica_join.test.lua,12,10.0,116.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\index7.test.lua,16,269.0,116.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\field_def.h,26,92.0,115.0
+tarantool,C,D:\clones\tarantool\src\box\sql\walker.c,8,86.0,115.0
+tarantool,C,D:\clones\tarantool\test\unit\stailq.c,14,0.0,115.0
+tarantool,C,D:\clones\tarantool\src\lib\bitset\expr.c,32,30.0,114.0
+tarantool,C,D:\clones\tarantool\src\lib\core\fiber_pool.c,10,76.0,114.0
+tarantool,Lua,D:\clones\tarantool\static-build\test\static-build\exports.test.lua,15,9.0,114.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt2192.test.lua,24,40.0,114.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\gc.h,37,228.0,113.0
+tarantool,C,D:\clones\tarantool\src\lib\core\diag.c,11,50.0,113.0
+tarantool,Lua,D:\clones\tarantool\test\app\loaders.test.lua,36,18.0,113.0
+tarantool,C/C++ Header,D:\clones\tarantool\test\unit\swim_test_utils.h,37,117.0,113.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\errinj_vylog.test.lua,51,41.0,113.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\csv.test.lua,21,3.0,112.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\snapshot.test.lua,28,12.0,112.0
+tarantool,Lua,D:\clones\tarantool\test\replication\anon.test.lua,29,31.0,112.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\icu.test.lua,16,67.0,112.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\popen.h,37,60.0,111.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\msgpackffi.test.lua,17,9.0,111.0
+tarantool,C,D:\clones\tarantool\src\lua\fiber_cond.c,16,30.0,110.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\gh_6305_net_box_autocomplete_test.lua,14,5.0,110.0
+tarantool,Lua,D:\clones\tarantool\test\box\cfg.test.lua,26,42.0,110.0
+tarantool,Lua,D:\clones\tarantool\test\box\indices_any_type.test.lua,7,24.0,110.0
+tarantool,make,D:\clones\tarantool\.gitlab.mk,24,34.0,109.0
+tarantool,C,D:\clones\tarantool\src\box\lua\ctl.c,17,31.0,109.0
+tarantool,Lua,D:\clones\tarantool\test\replication\hot_standby.test.lua,20,4.0,109.0
+tarantool,C,D:\clones\tarantool\src\lib\core\mp_datetime.c,28,23.0,107.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\gh_6930_mvcc_net_box_iso_test.lua,19,4.0,107.0
+tarantool,Lua,D:\clones\tarantool\test\replication-luatest\quorum_misc_test.lua,13,9.0,107.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\integration.yml,19,12.0,105.0
+tarantool,C,D:\clones\tarantool\src\box\func_cache.c,13,8.0,105.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-5958-rolled-back-replace-background-built-index.test.lua,39,32.0,105.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\orderby2.test.lua,16,71.0,105.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt3201.test.lua,12,35.0,105.0
+tarantool,SQL,D:\clones\tarantool\test\sql\add-column.test.sql,19,59.0,105.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\compat\unwind.h,54,82.0,105.0
+tarantool,CMake,D:\clones\tarantool\cmake\os.cmake,13,58.0,104.0
+tarantool,Lua,D:\clones\tarantool\test\replication\sync.test.lua,23,51.0,104.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl-luatest\gh_4501_defer_deletes_option_test.lua,11,5.0,104.0
+tarantool,C,D:\clones\tarantool\third_party\libev\ev_port.c,24,64.0,104.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\libev\event.h,30,43.0,104.0
+tarantool,Bourne Shell,D:\clones\tarantool\third_party\libev\import_libevent,18,9.0,104.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\latch.h,23,118.0,103.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\aggnested.test.lua,11,179.0,103.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-2996-indexed-by.test.lua,25,33.0,103.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\stress.lua,18,0.0,103.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\vy_range.h,24,164.0,102.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\coio.h,30,63.0,102.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\coalesce.test.lua,13,33.0,102.0
+tarantool,Lua,D:\clones\tarantool\test\replication\status.test.lua,18,31.0,101.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\alias.test.lua,20,103.0,101.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt2640.test.lua,10,40.0,101.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt3527.test.lua,12,24.0,101.0
+tarantool,C,D:\clones\tarantool\test\unit\vy_cache.c,15,29.0,101.0
+tarantool,C,D:\clones\tarantool\src\box\sql\legacy.c,14,54.0,100.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\user.h,34,104.0,100.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\ssl-cert-paths-discover.test.lua,41,11.0,100.0
+tarantool,Lua,D:\clones\tarantool\test\replication\local_spaces.test.lua,25,19.0,100.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\bloom.test.lua,31,22.0,100.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\swim\swim.h,36,193.0,99.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\func_test.lua,10,6.0,99.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\gh_6452_mvcc_crash_in_prepare_test.lua,20,4.0,99.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\gh-4954-merger-via-net-box.test.lua,24,6.0,99.0
+tarantool,Lua,D:\clones\tarantool\test\box\access_bin.test.lua,4,31.0,99.0
+tarantool,Lua,D:\clones\tarantool\test\box\session_settings.test.lua,24,18.0,99.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\hexlit.test.lua,8,21.0,99.0
+tarantool,C++,D:\clones\tarantool\test\unit\bloom.cc,5,0.0,99.0
+tarantool,C,D:\clones\tarantool\test\unit\popen-child.c,20,3.0,99.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\sql.h,39,293.0,98.0
+tarantool,Lua,D:\clones\tarantool\test\box\schema_reload.test.lua,26,22.0,98.0
+tarantool,Lua,D:\clones\tarantool\test\replication-luatest\quorum_orphan_test.lua,12,8.0,98.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5446-qsync-eval-quorum.test.lua,23,18.0,98.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\debug_mode_only.test.lua,10,15.0,98.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\tt_uuid.h,20,72.0,97.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\gh-5040-inter-mode-isatty-via-errinj.test.lua,15,14.0,97.0
+tarantool,Lua,D:\clones\tarantool\test\box\errinj_index.test.lua,25,4.0,97.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\autoindex1.test.lua,15,10.0,97.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-a7b7803e.test.lua,10,35.0,97.0
+tarantool,Lua,D:\clones\tarantool\test\sql\constraint.test.lua,11,58.0,97.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\vy_read_set.h,21,106.0,96.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-3350-skip-scan.test.lua,11,1.0,96.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\whereF.test.lua,15,57.0,96.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\csv\csv.h,26,62.0,95.0
+tarantool,C,D:\clones\tarantool\src\ssl_cert_paths_discover.c,15,48.0,95.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt2339.test.lua,15,34.0,95.0
+tarantool,C,D:\clones\tarantool\test\unit\base64.c,19,2.0,95.0
+tarantool,C,D:\clones\tarantool\third_party\libev\ev_poll.c,20,41.0,95.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\wal.h,34,164.0,94.0
+tarantool,C,D:\clones\tarantool\src\lib\swim\swim_transport_udp.c,10,38.0,94.0
+tarantool,Python,D:\clones\tarantool\test\replication-py\conflict.test.py,18,9.0,94.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-2931-savepoints.test.lua,10,0.0,94.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\index4.test.lua,15,52.0,94.0
+tarantool,C,D:\clones\tarantool\src\rmean.c,14,38.0,93.0
+tarantool,Lua,D:\clones\tarantool\test\box\net_msg_max.test.lua,19,33.0,93.0
+tarantool,Lua,D:\clones\tarantool\test\engine_long\suite.lua,15,4.0,93.0
+tarantool,Lua,D:\clones\tarantool\test\sql\bind.test.lua,18,22.0,93.0
+tarantool,Lua,D:\clones\tarantool\test\wal_off\rtree_benchmark.test.lua,24,0.0,93.0
+tarantool,CMake,D:\clones\tarantool\src\luarocks_lua_sources.cmake,0,0.0,92.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\alter_with_compression_test.lua,16,0.0,92.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-5422-broken_snapshot.test.lua,9,13.0,92.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-b1d3a2e531.test.lua,17,25.0,92.0
+tarantool,Lua,D:\clones\tarantool\test\wal_off\oom.test.lua,7,8.0,92.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\field_map.h,14,163.0,91.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-a8a0d2996a.test.lua,13,41.0,91.0
+tarantool,C,D:\clones\tarantool\test\unit\interval.c,13,0.0,91.0
+tarantool,CMake,D:\clones\tarantool\cmake\FindCURL.cmake,12,28.0,90.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\vy_scheduler.h,21,143.0,90.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\httpc.h,36,292.0,90.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\memtx_allocator.h,16,37.0,89.0
+tarantool,C++,D:\clones\tarantool\src\lib\core\trigger.cc,13,42.0,89.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\mpstream\mpstream.h,32,48.0,89.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\identifier-characters.test.lua,5,4.0,89.0
+tarantool,C,D:\clones\tarantool\test\unit\grp_alloc.c,13,5.0,89.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\select_consistency.test.lua,19,4.0,89.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\lua-cjson\strbuf.h,23,38.0,89.0
+tarantool,C,D:\clones\tarantool\src\box\service_engine.c,7,38.0,88.0
+tarantool,C,D:\clones\tarantool\src\box\sql\vdbetrace.c,6,62.0,88.0
+tarantool,CMake,D:\clones\tarantool\cmake\profile.cmake,13,3.0,87.0
+tarantool,Lua,D:\clones\tarantool\test\box\backup.test.lua,20,17.0,87.0
+tarantool,Lua,D:\clones\tarantool\test\box\varbinary_type.test.lua,17,6.0,87.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-f973c7ac31.test.lua,15,17.0,87.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt3334.test.lua,13,41.0,87.0
+tarantool,C,D:\clones\tarantool\test\unit\fiber_stack.c,23,27.0,87.0
+tarantool,CMake,D:\clones\tarantool\cmake\utils.cmake,10,20.0,86.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\decimal.h,41,162.0,86.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5445-leader-inconsistency.test.lua,18,30.0,86.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\orderby5.test.lua,15,91.0,86.0
+tarantool,Bourne Shell,D:\clones\tarantool\third_party\libev\mkinstalldirs,15,10.0,86.0
+tarantool,C,D:\clones\tarantool\third_party\lua-yaml\b64.c,8,0.0,86.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\assoc.h,15,42.0,85.0
+tarantool,Lua,D:\clones\tarantool\test\engine\tree_variants.test.lua,19,6.0,85.0
+tarantool,Python,D:\clones\tarantool\test\replication-py\swap.test.py,18,16.0,85.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\where4.test.lua,21,224.0,85.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\gh-4864-stmt-alloc-fail-compact.test.lua,26,36.0,85.0
+tarantool,C,D:\clones\tarantool\src\box\func_def.c,7,36.0,84.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_fiber-async_gh-3107.test.lua,8,15.0,84.0
+tarantool,Lua,D:\clones\tarantool\test\engine\decimal.test.lua,21,10.0,84.0
+tarantool,Lua,D:\clones\tarantool\test\sql-luatest\gh_6664_allow_limit_in_order_by_test.lua,10,0.0,84.0
+tarantool,C,D:\clones\tarantool\test\unit\sio.c,14,30.0,84.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\port.h,28,71.0,83.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\sql\pragma.h,3,20.0,83.0
+tarantool,C,D:\clones\tarantool\test\app\on_shutdownlib.c,13,30.0,83.0
+tarantool,Lua,D:\clones\tarantool\test\box\ddl_collation.test.lua,8,1.0,83.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\analyzeF.test.lua,25,28.0,83.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\split_coalesce.test.lua,22,10.0,83.0
+tarantool,Lua,D:\clones\tarantool\test\replication\before_replace.test.lua,17,27.0,82.0
+tarantool,C,D:\clones\tarantool\src\box\sql\global.c,11,100.0,81.0
+tarantool,Markdown,D:\clones\tarantool\src\box\sql\in-operator.md,26,0.0,81.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\watcher.h,21,168.0,81.0
+tarantool,C,D:\clones\tarantool\src\lib\core\fiber_cond.c,13,35.0,81.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\gh_7005_session_on_commit_rollback_test.lua,6,5.0,81.0
+tarantool,Lua,D:\clones\tarantool\test\replication\consistent.test.lua,17,82.0,81.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5213-qsync-applier-order.test.lua,17,26.0,81.0
+tarantool,Bourne Shell,D:\clones\tarantool\tools\run-jepsen-tests.sh,29,46.0,81.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\func_def.h,16,83.0,80.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\schema.h,27,87.0,80.0
+tarantool,Lua,D:\clones\tarantool\test\box\iterator.test.lua,28,19.0,80.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\autoindex4.test.lua,15,46.0,80.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\debug.test.lua,13,2.0,79.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\selectE.test.lua,12,58.0,79.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\fk_constraint.h,15,64.0,78.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\space_def.h,15,127.0,78.0
+tarantool,C,D:\clones\tarantool\src\box\vy_history.c,6,34.0,78.0
+tarantool,Lua,D:\clones\tarantool\src\lua\iconv.lua,12,2.0,78.0
+tarantool,C,D:\clones\tarantool\src\lua\tnt_msgpuck.c,16,30.0,78.0
+tarantool,C,D:\clones\tarantool\src\scramble.c,19,34.0,78.0
+tarantool,Python,D:\clones\tarantool\test\replication-py\multi.test.py,20,12.0,78.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gc_no_space.test.lua,17,24.0,78.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-2723-concurrency.test.lua,6,2.0,78.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-6024-funcs-return-bin.test.lua,13,0.0,78.0
+tarantool,C,D:\clones\tarantool\test\unit\checkpoint_schedule.c,18,0.0,78.0
+tarantool,C,D:\clones\tarantool\test\unit\rope_basic.c,26,2.0,78.0
+tarantool,CMake,D:\clones\tarantool\cmake\luajit.cmake,18,47.0,77.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_iproto_id.test.lua,5,5.0,77.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\contrib01.test.lua,10,28.0,77.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\join4.test.lua,16,35.0,77.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\pragma.test.lua,14,40.0,77.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\lint.yml,12,23.0,76.0
+tarantool,C,D:\clones\tarantool\src\box\journal.c,11,33.0,76.0
+tarantool,C,D:\clones\tarantool\src\box\sql\cursor.c,12,69.0,76.0
+tarantool,CMake,D:\clones\tarantool\src\lib\core\CMakeLists.txt,9,6.0,76.0
+tarantool,Python,D:\clones\tarantool\test\replication-py\init_storage.test.py,19,9.0,76.0
+tarantool,Lua,D:\clones\tarantool\test\replication\lua\fast_replica.lua,15,0.0,76.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\index2.test.lua,16,34.0,76.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\errinj_gc.test.lua,32,19.0,76.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\perf_sysbench.yml,16,6.0,75.0
+tarantool,CMake,D:\clones\tarantool\cmake\rpm.cmake,17,4.0,75.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\space_cache.h,21,94.0,75.0
+tarantool,C,D:\clones\tarantool\src\lib\core\mp_uuid.c,10,30.0,75.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\sio.h,27,141.0,75.0
+tarantool,C,D:\clones\tarantool\src\lua\error.c,11,40.0,75.0
+tarantool,Lua,D:\clones\tarantool\test\replication\qsync_snapshots.test.lua,16,43.0,75.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh2964-abort.test.lua,16,1.0,75.0
+tarantool,C,D:\clones\tarantool\third_party\libev\ev_win32.c,27,60.0,75.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\user_def.h,12,107.0,74.0
+tarantool,C,D:\clones\tarantool\src\lib\core\clock.c,6,30.0,74.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_methods_gh-3107.test.lua,7,15.0,74.0
+tarantool,Lua,D:\clones\tarantool\test\engine-tap\datetime.test.lua,17,4.0,74.0
+tarantool,Lua,D:\clones\tarantool\test\replication\autobootstrap.test.lua,23,25.0,74.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-5231-box-execute-writes-in-ro.test.lua,14,0.0,74.0
+tarantool,C++,D:\clones\tarantool\test\unit\fiber_channel.cc,27,0.0,74.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\bit\int96.h,13,80.0,73.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\crypto\crypto.h,24,181.0,73.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-6164-uuid-follow-ups.test.lua,14,6.0,73.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh2250-trigger-chain-limit.test.lua,16,10.0,73.0
+tarantool,Markdown,D:\clones\tarantool\README.md,16,0.0,72.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\opt_def.h,21,75.0,72.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\trigger.h,16,71.0,72.0
+tarantool,Lua,D:\clones\tarantool\src\lua\fiber.lua,15,11.0,72.0
+tarantool,C,D:\clones\tarantool\src\lua\tnt_datetime.c,14,5.0,72.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-5977-inconsistency-on-shadow-build-with-hash-pk.test.lua,24,8.0,72.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5213-qsync-applier-order-3.test.lua,15,41.0,72.0
+tarantool,Lua,D:\clones\tarantool\test\replication\skip_conflict_row.test.lua,14,14.0,72.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt3935.test.lua,15,38.0,72.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\trigger7.test.lua,12,59.0,72.0
+tarantool,C/C++ Header,D:\clones\tarantool\test\unit\vy_iterators_helper.h,20,123.0,72.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\replica_rejoin.test.lua,9,19.0,72.0
+tarantool,Bourne Shell,D:\clones\tarantool\tools\gdb.sh,16,19.0,72.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\salad\bloom.h,23,119.0,71.0
+tarantool,Lua,D:\clones\tarantool\src\lua\table.lua,5,21.0,71.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\schema_mt.test.lua,16,19.0,71.0
+tarantool,Lua,D:\clones\tarantool\test\box\func_reload.test.lua,16,7.0,71.0
+tarantool,C,D:\clones\tarantool\test\box\reload1.c,11,1.0,71.0
+tarantool,CMake,D:\clones\tarantool\cmake\BuildLibUnwind.cmake,13,15.0,70.0
+tarantool,C,D:\clones\tarantool\src\box\field_map.c,3,52.0,70.0
+tarantool,Lua,D:\clones\tarantool\test\replication-luatest\election_split_vote_test.lua,11,11.0,70.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt3298.test.lua,11,32.0,70.0
+tarantool,C,D:\clones\tarantool\src\cpu_feature.c,17,39.0,69.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\fio.h,23,146.0,69.0
+tarantool,C,D:\clones\tarantool\src\lua\info.c,8,30.0,69.0
+tarantool,C,D:\clones\tarantool\src\on_shutdown.c,12,49.0,69.0
+tarantool,C,D:\clones\tarantool\test\box\tuple_bench.c,8,1.0,69.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\join2.test.lua,11,32.0,69.0
+tarantool,Lua,D:\clones\tarantool\test\sql\transitive-transactions.test.lua,10,10.0,69.0
+tarantool,C/C++ Header,D:\clones\tarantool\test\unit\rope_common.h,13,4.0,69.0
+tarantool,Python,D:\clones\tarantool\test\xlog-py\misc.test.py,23,11.0,69.0
+tarantool,C,D:\clones\tarantool\extra\txt2c.c,6,9.0,68.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\module_cache.h,24,113.0,68.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\tt_static.h,9,48.0,68.0
+tarantool,C,D:\clones\tarantool\src\lua\swim.c,8,46.0,68.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\checkpoint_daemon.test.lua,19,13.0,68.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\compat\sys\bsd_time.h,15,39.0,68.0
+tarantool,Bourne Shell,D:\clones\tarantool\extra\dist\tarantool.init,19,22.0,67.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\error_payload.h,25,86.0,67.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-5998-one-tx-for-ddl.test.lua,19,8.0,67.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\analyze4.test.lua,8,83.0,67.0
+tarantool,C++,D:\clones\tarantool\test\unit\rmean.cc,9,2.0,67.0
+tarantool,CMake,D:\clones\tarantool\cmake\FindLibUnwind.cmake,11,9.0,66.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\salad\grp_alloc.h,13,79.0,66.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\transport_test.lua,10,1.0,66.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-4ef7e3cfca.test.lua,12,25.0,66.0
+tarantool,C,D:\clones\tarantool\test\unit\fiber_cond.c,19,4.0,66.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\compact.test.lua,21,11.0,66.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\vy_history.h,15,81.0,65.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\bitset\index.h,21,246.0,65.0
+tarantool,C,D:\clones\tarantool\src\lib\core\errinj.c,7,33.0,65.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\evio.h,19,84.0,65.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\salad\fifo.h,11,34.0,65.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\gh_6819_iproto_watch_not_implemented_test.lua,8,4.0,65.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\triggerD.test.lua,9,170.0,65.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\whereK.test.lua,12,41.0,65.0
+tarantool,Lua,D:\clones\tarantool\test\sql\gh-5427-lua-func-changes-result.test.lua,3,0.0,65.0
+tarantool,Lua,D:\clones\tarantool\test\sql\misc.test.lua,15,26.0,65.0
+tarantool,C,D:\clones\tarantool\test\unit\gh-5788-rope-insert-oom.c,12,10.0,65.0
+tarantool,C++,D:\clones\tarantool\test\unit\int96.cc,6,0.0,65.0
+tarantool,C,D:\clones\tarantool\src\box\tuple_constraint.c,6,7.0,64.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\tuple_constraint_def.h,15,103.0,64.0
+tarantool,Lua,D:\clones\tarantool\test\box\alter-primary-index-tuple-leak-long.test.lua,16,11.0,64.0
+tarantool,Lua,D:\clones\tarantool\test\engine\delete.test.lua,9,5.0,64.0
+tarantool,Lua,D:\clones\tarantool\test\replication\election_qsync_stress.test.lua,7,9.0,64.0
+tarantool,Lua,D:\clones\tarantool\test\sql\row-count.test.lua,5,22.0,64.0
+tarantool,C,D:\clones\tarantool\test\unit\ratelimit.c,13,0.0,64.0
+tarantool,C,D:\clones\tarantool\test\unit\rope_stress.c,7,0.0,64.0
+tarantool,C,D:\clones\tarantool\src\box\msgpack.c,4,30.0,63.0
+tarantool,C,D:\clones\tarantool\src\box\sysalloc.c,6,44.0,63.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\info\info.h,14,114.0,63.0
+tarantool,Lua,D:\clones\tarantool\test\app-luatest\fiber_parent_backtrace_test.lua,10,1.0,63.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\gh_6310_grant_rw_access_on__session_settings_space_to_public_role_test.lua,11,0.0,63.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\gh_6421_mvcc_wrong_index_count_test.lua,15,3.0,63.0
+tarantool,Lua,D:\clones\tarantool\test\box\blackhole.test.lua,10,10.0,63.0
+tarantool,Lua,D:\clones\tarantool\test\box\hash_replace.test.lua,12,13.0,63.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh2127-indentifier-max-length.test.lua,23,13.0,63.0
+tarantool,C,D:\clones\tarantool\test\unit\unit.c,11,0.0,63.0
+tarantool,Markdown,D:\clones\tarantool\static-build\README.md,24,0.0,62.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\gh-5602-environment-cfg-test-cases.lua,8,4.0,62.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-2763-session-credentials-update.test.lua,11,21.0,62.0
+tarantool,Lua,D:\clones\tarantool\test\replication\election_qsync.test.lua,11,25.0,62.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-ba7cbfaedc.test.lua,7,18.0,62.0
+tarantool,Lua,D:\clones\tarantool\test\sql\icu-upper-lower.test.lua,6,18.0,62.0
+tarantool,C,D:\clones\tarantool\third_party\libutil_freebsd\flopen.c,10,32.0,62.0
+tarantool,C,D:\clones\tarantool\src\box\coll_id_cache.c,8,35.0,61.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5874-qsync-txn-recovery.test.lua,7,18.0,61.0
+tarantool,Lua,D:\clones\tarantool\test\replication\on_replace.test.lua,15,17.0,61.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt3419.test.lua,12,33.0,61.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\whereC.test.lua,12,19.0,61.0
+tarantool,C,D:\clones\tarantool\test\unit\guava.c,7,0.0,61.0
+tarantool,C,D:\clones\tarantool\test\unit\tuple_uint32_overflow.c,16,0.0,61.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\gh-3395-read-prepared-uncommitted.test.lua,15,49.0,61.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\gh-5894-pre-1.7.7-upgrade.test.lua,12,4.0,61.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\coverage.yml,11,12.0,60.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\sequence.h,21,104.0,60.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\tuple_bloom.h,20,159.0,60.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\coll\coll_def.h,15,45.0,60.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\autoindex5.test.lua,10,46.0,60.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh2259-in-stmt-trans.test.lua,19,5.0,60.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\quote.test.lua,12,41.0,60.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\reusable_build.yml,2,9.0,59.0
+tarantool,CMake,D:\clones\tarantool\cmake\systemd.cmake,6,8.0,59.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\iproto_features.h,17,69.0,59.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\bitset\bitset.h,21,99.0,59.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\port.h,13,102.0,59.0
+tarantool,C,D:\clones\tarantool\src\lib\salad\bloom.c,9,35.0,59.0
+tarantool,Lua,D:\clones\tarantool\src\lua\trigger.lua,4,12.0,59.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\e_delete.test.lua,9,35.0,59.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\quota_timeout.test.lua,22,24.0,59.0
+tarantool,C,D:\clones\tarantool\extra\bin2c.c,6,8.0,58.0
+tarantool,Bourne Shell,D:\clones\tarantool\extra\mkopcodec.sh,4,9.0,58.0
+tarantool,C,D:\clones\tarantool\src\lib\core\tt_uuid.c,17,31.0,58.0
+tarantool,Lua,D:\clones\tarantool\test\box\info.test.lua,5,6.0,58.0
+tarantool,Lua,D:\clones\tarantool\test\sql-luatest\gh_6988_add_round_implementations_test.lua,13,3.0,58.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-385a5b56b9.test.lua,11,35.0,58.0
+tarantool,C++,D:\clones\tarantool\test\unit\guard.cc,7,10.0,58.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\gc.test.lua,25,18.0,58.0
+tarantool,CMake,D:\clones\tarantool\cmake\lto.cmake,21,50.0,57.0
+tarantool,Bourne Shell,D:\clones\tarantool\extra\addopcodes.sh,5,8.0,57.0
+tarantool,C++,D:\clones\tarantool\src\box\authentication.cc,5,42.0,57.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\bind.h,13,88.0,57.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\tuple_constraint.h,13,107.0,57.0
+tarantool,C++,D:\clones\tarantool\src\box\xrow_io.cc,13,36.0,57.0
+tarantool,C,D:\clones\tarantool\src\latency.c,10,30.0,57.0
+tarantool,CMake,D:\clones\tarantool\test\CMakeLists.txt,9,9.0,57.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\gh-1700-abort-recording-on-fiber-switch.test.lua,14,9.0,57.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\trigger.test.lua,17,13.0,57.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_tx_timeout.test.lua,11,8.0,57.0
+tarantool,Lua,D:\clones\tarantool\test\engine\lua.test.lua,9,8.0,57.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5433-election-restart-recovery.test.lua,10,24.0,57.0
+tarantool,Lua,D:\clones\tarantool\test\replication\transaction.test.lua,16,18.0,57.0
+tarantool,C,D:\clones\tarantool\test\sql-luatest\sql_datetime.c,5,0.0,57.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\distinctagg.test.lua,8,29.0,57.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-4077-iproto-execute-no-bind.test.lua,12,4.0,57.0
+tarantool,INI,D:\clones\tarantool\test\sql-tap\suite.ini,1,0.0,57.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt2767.test.lua,10,48.0,57.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt3346.test.lua,8,37.0,57.0
+tarantool,C,D:\clones\tarantool\test\unit\rope.c,11,0.0,57.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\fuzzing.yml,6,12.0,56.0
+tarantool,CMake,D:\clones\tarantool\cmake\BuildNghttp2.cmake,7,11.0,56.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\ck_constraint.h,16,155.0,56.0
+tarantool,C,D:\clones\tarantool\src\box\iproto_features.c,7,6.0,56.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\sql\tarantoolInt.h,19,107.0,56.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\vy_regulator.h,18,117.0,56.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\tzcode\private.h,20,42.0,56.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-5224-multikey-field-access.test.lua,8,8.0,56.0
+tarantool,Lua,D:\clones\tarantool\test\box\tx_timeout.test.lua,11,15.0,56.0
+tarantool,Lua,D:\clones\tarantool\test\engine\replace.test.lua,9,5.0,56.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\orderby4.test.lua,9,34.0,56.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-3a77c9714e.test.lua,8,23.0,56.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-868145d012.test.lua,9,22.0,56.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt3911.test.lua,10,27.0,56.0
+tarantool,Lua,D:\clones\tarantool\test\sql\savepoints.test.lua,11,10.0,56.0
+tarantool,CMake,D:\clones\tarantool\cmake\FindReadline.cmake,6,7.0,55.0
+tarantool,make,D:\clones\tarantool\debian\rules,13,3.0,55.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\mp_compression.h,10,5.0,55.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\uri\uri.h,19,63.0,55.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\init_script.test.lua,10,24.0,55.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-5518-add-granularity-option.test.lua,7,19.0,55.0
+tarantool,Lua,D:\clones\tarantool\test\box\lua\identifier.lua,4,7.0,55.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-6034-qsync-limbo-ownership.test.lua,10,8.0,55.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt2832.test.lua,16,30.0,55.0
+tarantool,Lua,D:\clones\tarantool\test\sql\persistency.test.lua,18,17.0,55.0
+tarantool,C,D:\clones\tarantool\test\unit\scramble.c,20,0.0,55.0
+tarantool,Markdown,D:\clones\tarantool\doc\rfc\3294-topology_discovering_protocol.md,20,0.0,54.0
+tarantool,C,D:\clones\tarantool\src\box\schema_def.c,8,37.0,54.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\gh-6786_func_index_iterator_stable_test.lua,5,0.0,54.0
+tarantool,Lua,D:\clones\tarantool\test\box\box.lua,9,0.0,54.0
+tarantool,Lua,D:\clones\tarantool\test\box\reconfigure.test.lua,14,15.0,54.0
+tarantool,Lua,D:\clones\tarantool\test\box\stat_net.test.lua,11,2.0,54.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\whereI.test.lua,12,46.0,54.0
+tarantool,Lua,D:\clones\tarantool\test\sql\upgrade.test.lua,16,4.0,54.0
+tarantool,C++,D:\clones\tarantool\test\unit\fiber_channel_stress.cc,7,0.0,54.0
+tarantool,Lua,D:\clones\tarantool\test\wal_off\lua.test.lua,6,13.0,54.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\release_lto_clang11.yml,6,12.0,53.0
+tarantool,CMake,D:\clones\tarantool\cmake\FindICU.cmake,7,10.0,53.0
+tarantool,Markdown,D:\clones\tarantool\doc\rfc\vclock_struct.md,20,0.0,53.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\execute.h,18,84.0,53.0
+tarantool,Lua,D:\clones\tarantool\src\lua\strict.lua,10,6.0,53.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_on_schema_reload-gh-1904.test.lua,9,3.0,53.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-6057-qsync-confirm-async-no-wal.test.lua,12,26.0,53.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh2140-trans.test.lua,13,1.0,53.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\index-info.test.lua,9,6.0,53.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\join3.test.lua,6,33.0,53.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\osx_11.yml,6,12.0,52.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\osx_11_aarch64.yml,6,12.0,52.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\osx_11_lto.yml,6,12.0,52.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\osx_12.yml,6,12.0,52.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\release_clang.yml,6,12.0,52.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\merger.h,19,79.0,52.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\coio_task.h,19,115.0,52.0
+tarantool,Lua,D:\clones\tarantool\test\app-luatest\gh_6305_autocomplete_metamethod_test.lua,4,4.0,52.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl-luatest\gh_6568_replica_initial_join_removal_of_compacted_run_files_test.lua,10,0.0,52.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\panic_on_broken_lsn.test.lua,15,18.0,52.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\upgrade\fill.lua,7,4.0,52.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\centos_7.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\centos_7_aarch64.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\centos_8.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\centos_8_aarch64.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\debian_10.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\debian_10_aarch64.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\debian_11.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\debian_11_aarch64.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\debian_9.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\debug_aarch64.yml,6,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\default_gcc_centos_7.yml,6,15.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\fedora_30.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\fedora_31.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\fedora_32.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\fedora_33.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\fedora_33_aarch64.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\fedora_34.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\fedora_34_aarch64.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\fedora_35.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\fedora_35_aarch64.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\opensuse_15_1.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\opensuse_15_2.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\osx_11_aarch64_debug.yml,6,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\release_lto.yml,6,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\ubuntu_16_04.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\ubuntu_18_04.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\ubuntu_20_04.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\ubuntu_20_04_aarch64.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\ubuntu_21_04.yml,5,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\ubuntu_21_10.yml,5,12.0,51.0
+tarantool,CMake,D:\clones\tarantool\cmake\package.cmake,8,10.0,51.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\coio_buf.h,7,48.0,51.0
+tarantool,C,D:\clones\tarantool\src\lib\core\mp_decimal.c,9,30.0,51.0
+tarantool,Python,D:\clones\tarantool\test\box-py\args.test.py,8,4.0,51.0
+tarantool,Lua,D:\clones\tarantool\test\box\rtree_array.test.lua,10,8.0,51.0
+tarantool,Lua,D:\clones\tarantool\test\engine-tap\gh-6780-before-replace-trigger-assertion.test.lua,7,3.0,51.0
+tarantool,Lua,D:\clones\tarantool\test\replication-luatest\no_quorum_test.lua,10,3.0,51.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5144-qsync-dup-confirm.test.lua,15,16.0,51.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt3357.test.lua,7,26.0,51.0
+tarantool,C,D:\clones\tarantool\test\unit\swim_test_transport.c,7,30.0,51.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\snapshot.test.lua,12,12.0,51.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\memtx_allocator_based_on_malloc.yml,6,12.0,50.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\func.h,15,68.0,50.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-5304-insert_during_recovery.test.lua,6,6.0,50.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_permissions.test.lua,12,4.0,50.0
+tarantool,Lua,D:\clones\tarantool\test\replication-luatest\gh_6754_promote_before_new_term_test.lua,10,0.0,50.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5426-election-on-off.test.lua,15,11.0,50.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh2130-index-refer-table.test.lua,12,10.0,50.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\select8.test.lua,7,19.0,50.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-54844eea3f.test.lua,8,22.0,50.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\gh-4810-dump-during-index-build.test.lua,18,6.0,50.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\debug.yml,9,12.0,49.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\out_of_source.yml,6,12.0,49.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\release.yml,6,12.0,49.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\release_asan_clang11.yml,6,12.0,49.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\static_build.yml,6,12.0,49.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\static_build_cmake_linux.yml,6,12.0,49.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\static_build_cmake_osx_15.yml,6,12.0,49.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\vinyl.h,17,51.0,49.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\buffer.test.lua,10,0.0,49.0
+tarantool,Lua,D:\clones\tarantool\test\app\crypto.test.lua,12,5.0,49.0
+tarantool,Lua,D:\clones\tarantool\test\box\lua\bitset.lua,11,0.0,49.0
+tarantool,Lua,D:\clones\tarantool\test\box\on_shutdown.test.lua,2,16.0,49.0
+tarantool,CMake,D:\clones\tarantool\test\fuzz\CMakeLists.txt,11,3.0,49.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5140-qsync-casc-rollback.test.lua,12,46.0,49.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5167-qsync-rollback-snap.test.lua,8,12.0,49.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5195-qsync-replica-write.test.lua,12,9.0,49.0
+tarantool,Lua,D:\clones\tarantool\test\replication\prune.test.lua,20,12.0,49.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt3554.test.lua,12,27.0,49.0
+tarantool,CMake,D:\clones\tarantool\cmake\simd.cmake,8,9.0,48.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\iproto.h,20,71.0,48.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\relay.h,18,80.0,48.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\vy_read_iterator.h,10,121.0,48.0
+tarantool,C,D:\clones\tarantool\src\lib\bitset\page.c,14,30.0,48.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\lua\process_timeout.lua,6,5.0,48.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\minimal.test.lua,9,11.0,48.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\gh-4231-box-execute-locking.test.lua,11,10.0,48.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\gh-4785-syslog.test.lua,11,9.0,48.0
+tarantool,Lua,D:\clones\tarantool\test\replication-luatest\quorum_master_test.lua,12,0.0,48.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\layout.test.lua,10,8.0,48.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\coverity.yml,6,7.0,47.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\tuple.h,16,88.0,47.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\sql_stmt_cache.h,18,88.0,47.0
+tarantool,C,D:\clones\tarantool\src\find_path.c,5,31.0,47.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\coll\coll.h,17,72.0,47.0
+tarantool,Lua,D:\clones\tarantool\test\app\lua\fiber.lua,14,21.0,47.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\errinj.test.lua,8,18.0,47.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\xstream.h,15,34.0,46.0
+tarantool,Lua,D:\clones\tarantool\test\app\gh-4076-argparse-wrong-bool-handling.test.lua,10,26.0,46.0
+tarantool,C,D:\clones\tarantool\test\box-tap\check_merge_source.c,8,55.0,46.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\gh-5602-environment-vars-cfg.test.lua,9,3.0,46.0
+tarantool,Lua,D:\clones\tarantool\test\engine\hints.test.lua,5,11.0,46.0
+tarantool,Lua,D:\clones\tarantool\test\replication-luatest\gh_6123_truncate_temp_space_test.lua,16,2.0,46.0
+tarantool,Lua,D:\clones\tarantool\test\replication-luatest\gh_6966_readonly_bootstrap_test.lua,6,8.0,46.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-4928-tx-boundaries.test.lua,11,4.0,46.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5506-election-on-off.test.lua,11,18.0,46.0
+tarantool,C,D:\clones\tarantool\test\sql-tap\gh-6024-funcs-return-bin.c,4,0.0,46.0
+tarantool,Lua,D:\clones\tarantool\test\sql\drop-table.test.lua,24,48.0,46.0
+tarantool,Lua,D:\clones\tarantool\test\sql\transition.test.lua,13,11.0,46.0
+tarantool,C,D:\clones\tarantool\test\unit\random.c,13,0.0,46.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\column_mask.h,10,98.0,45.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\ratelimit.h,7,52.0,45.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\backtrace.h,11,37.0,45.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\rmean.h,16,55.0,45.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\session.storage.test.lua,15,0.0,45.0
+tarantool,C,D:\clones\tarantool\test\sql-tap\decimal.c,4,0.0,45.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-6485-bugs-in-decimal.test.lua,6,6.0,45.0
+tarantool,C,D:\clones\tarantool\test\sql-tap\sql_uuid.c,4,0.0,45.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt3581.test.lua,6,25.0,45.0
+tarantool,INI,D:\clones\tarantool\test\vinyl\suite.ini,0,0.0,45.0
+tarantool,YAML,D:\clones\tarantool\.github\actions\environment\action.yml,0,44.0,44.0
+tarantool,CMake,D:\clones\tarantool\cmake\BuildAres.cmake,6,12.0,44.0
+tarantool,CMake,D:\clones\tarantool\extra\luarocks\hardcoded_static.lua.cmake,5,0.0,44.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\memtx_space.h,9,50.0,44.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\raft.h,16,63.0,44.0
+tarantool,C,D:\clones\tarantool\src\box\sql\random.c,7,58.0,44.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\sql\sqlLimit.h,15,128.0,44.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\coio_file.h,10,38.0,44.0
+tarantool,C,D:\clones\tarantool\src\lua\string.c,9,64.0,44.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-4648-func-load-unload.test.lua,8,11.0,44.0
+tarantool,C,D:\clones\tarantool\test\box\reload2.c,5,0.0,44.0
+tarantool,Lua,D:\clones\tarantool\test\box\stat.test.lua,9,8.0,44.0
+tarantool,Lua,D:\clones\tarantool\test\replication-luatest\gh_5418_qsync_with_anon_test.lua,15,1.0,44.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\large.lua,7,0.0,44.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\quota.test.lua,30,10.0,44.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\jepsen-single-instance-txm.yml,6,2.0,43.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\jepsen-single-instance.yml,6,2.0,43.0
+tarantool,make,D:\clones\tarantool\FreeBSD\databases\tarantool\Makefile,14,2.0,43.0
+tarantool,CMake,D:\clones\tarantool\cmake\thread.cmake,1,22.0,43.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\msgpack.h,19,62.0,43.0
+tarantool,Lua,D:\clones\tarantool\src\lua\title.lua,4,0.0,43.0
+tarantool,Python,D:\clones\tarantool\test\box-py\snapshot.test.py,16,18.0,43.0
+tarantool,Lua,D:\clones\tarantool\test\box\iproto.test.lua,9,4.0,43.0
+tarantool,Lua,D:\clones\tarantool\test\box\moved_delayed_free_mode.test.lua,4,2.0,43.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-4040-invalid-msgpack.test.lua,12,16.0,43.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-b75a9ca6b0.test.lua,6,25.0,43.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt2141.test.lua,7,26.0,43.0
+tarantool,Lua,D:\clones\tarantool\test\sql\full_metadata.test.lua,9,7.0,43.0
+tarantool,CMake,D:\clones\tarantool\cmake\BuildZSTD.cmake,2,0.0,42.0
+tarantool,C,D:\clones\tarantool\src\box\coll_id_def.c,6,30.0,42.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\gh_6344_mvcc_txm_story_gc_breaks_memtx_tree_iter_test.lua,7,0.0,42.0
+tarantool,Lua,D:\clones\tarantool\test\box\insert_during_recovery.lua,9,0.0,42.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\delete3.test.lua,4,24.0,42.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh2548-select-compound-limit.test.lua,13,10.0,42.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\orderby8.test.lua,8,27.0,42.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt3424.test.lua,9,24.0,42.0
+tarantool,C,D:\clones\tarantool\test\unit\mp_print_unknown_ext.c,16,0.0,42.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\header.test.lua,12,6.0,42.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\reader.test.lua,9,5.0,42.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\freebsd-12.yml,5,12.0,41.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\freebsd-13.yml,5,12.0,41.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\recovery.h,12,54.0,41.0
+tarantool,C++,D:\clones\tarantool\src\lib\core\cxx_abi.cc,10,13.0,41.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\gh_6794_recover_nonmatching_xlogs_test.lua,7,0.0,41.0
+tarantool,C,D:\clones\tarantool\test\box\cfunc2.c,5,10.0,41.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-3633-simple-tuple-size-increasing.test.lua,4,0.0,41.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_schema_change_gh-3107.test.lua,5,9.0,41.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\partial_dump.test.lua,10,10.0,41.0
+tarantool,HCL,D:\clones\tarantool\extra\tf\provider.tf,9,0.0,40.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_call_blocks_gh-946.test.lua,14,9.0,40.0
+tarantool,Lua,D:\clones\tarantool\test\engine\recover_snapshot_wal.test.lua,9,4.0,40.0
+tarantool,Lua,D:\clones\tarantool\test\replication-luatest\gh_4669_applier_reconnect_test.lua,5,3.0,40.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5566-final-join-synchro.test.lua,11,12.0,40.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-8c63ff0ec.test.lua,6,24.0,40.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\recovery_quota.test.lua,4,13.0,40.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\panic_on_wal_error.test.lua,1,36.0,40.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\jepsen-cluster-txm.yml,6,2.0,39.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\jepsen-cluster.yml,6,2.0,39.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\perf_tpch.yml,4,0.0,39.0
+tarantool,CMake,D:\clones\tarantool\cmake\module.cmake,2,3.0,39.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\func_cache.h,16,66.0,39.0
+tarantool,C,D:\clones\tarantool\src\lib\core\ssl.c,6,5.0,39.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\ssl.h,12,5.0,39.0
+tarantool,Lua,D:\clones\tarantool\test\app-luatest\gh_6817_console_memory_leak_test.lua,4,2.0,39.0
+tarantool,Lua,D:\clones\tarantool\test\app-luatest\prbuf_test.lua,5,0.0,39.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-5968-func-restore.test.lua,12,5.0,39.0
+tarantool,Lua,D:\clones\tarantool\test\box\iproto_stress.test.lua,11,1.0,39.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_reconnect_after_gh-3164.test.lua,3,11.0,39.0
+tarantool,Lua,D:\clones\tarantool\test\engine\snapshot.test.lua,12,9.0,39.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\orderby9.test.lua,8,26.0,39.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt1444.test.lua,8,29.0,39.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt3442.test.lua,8,36.0,39.0
+tarantool,C++,D:\clones\tarantool\test\unit\fiber_stress.cc,4,1.0,39.0
+tarantool,Lua,D:\clones\tarantool\test\wal_off\expirationd.test.lua,1,1.0,39.0
+tarantool,YAML,D:\clones\tarantool\.github\actions\perf\action.yml,1,1.0,38.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\perf_linkbench_ssd.yml,4,0.0,38.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\perf_nosqlbench_hash.yml,4,0.0,38.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\perf_nosqlbench_tree.yml,4,0.0,38.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\perf_ycsb_hash.yml,4,0.0,38.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\perf_ycsb_tree.yml,4,0.0,38.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\iterator_type.h,10,57.0,38.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\histogram.h,15,57.0,38.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\fiber_pool.h,8,59.0,38.0
+tarantool,Lua,D:\clones\tarantool\test\app\gh-4727-fio-gc.test.lua,1,21.0,38.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\gh-6025-box.on_commit-leak.test.lua,10,9.0,38.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-5998-one-tx-for-ddl-errinj.test.lua,10,5.0,38.0
+tarantool,Lua,D:\clones\tarantool\test\replication\replica_apply_order.test.lua,8,2.0,38.0
+tarantool,Lua,D:\clones\tarantool\test\sql-luatest\gh_6766_mp_ext_via_netbox_test.lua,6,0.0,38.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-5938-wrong-string-length.test.lua,7,0.0,38.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\constraint.test.lua,7,6.0,38.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\replica_quota.test.lua,12,13.0,38.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\throttle.test.lua,9,7.0,38.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\perf_cbench.yml,4,0.0,37.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\perf_tpcc.yml,4,0.0,37.0
+tarantool,CMake,D:\clones\tarantool\cmake\BuildMisc.cmake,7,2.0,37.0
+tarantool,CMake,D:\clones\tarantool\extra\CMakeLists.txt,2,10.0,37.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\tuple_dictionary.h,12,74.0,37.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\vy_write_iterator.h,11,224.0,37.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\fakesys\fakenet.h,16,93.0,37.0
+tarantool,Lua,D:\clones\tarantool\test\app\crypto_hmac.test.lua,18,9.0,37.0
+tarantool,Lua,D:\clones\tarantool\test\box\access_escalation.test.lua,23,29.0,37.0
+tarantool,Lua,D:\clones\tarantool\test\box\hash_multipart.test.lua,7,12.0,37.0
+tarantool,Lua,D:\clones\tarantool\test\box\lua\fifo.lua,1,1.0,37.0
+tarantool,Lua,D:\clones\tarantool\test\box\tx_man_recovery.test.lua,6,0.0,37.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\in2.test.lua,10,51.0,37.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt2942.test.lua,8,36.0,37.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt3879.test.lua,8,23.0,37.0
+tarantool,Lua,D:\clones\tarantool\test\sql\on-conflict.test.lua,6,15.0,37.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\dump_stress.test.lua,9,3.0,37.0
+tarantool,m4,D:\clones\tarantool\third_party\libev\libev.m4,7,3.0,37.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\tarantool_ev.h,7,28.0,37.0
+tarantool,CMake,D:\clones\tarantool\cmake\FindICONV.cmake,2,6.0,36.0
+tarantool,YAML,D:\clones\tarantool\snapcraft.yaml,4,0.0,36.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\curl.h,12,77.0,36.0
+tarantool,C,D:\clones\tarantool\src\lib\core\latch.c,6,30.0,36.0
+tarantool,Lua,D:\clones\tarantool\src\lua\env.lua,4,0.0,36.0
+tarantool,Lua,D:\clones\tarantool\src\lua\help.lua,8,7.0,36.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\version.h,11,46.0,36.0
+tarantool,CMake,D:\clones\tarantool\static-build\test\CheckDependencies.cmake,5,2.0,36.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\gh_6199_schema_priv_resolve_existence_check_test.lua,7,0.0,36.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\gh_6818_iproto_resumes_input_if_no_output_test.lua,3,4.0,36.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\gh-4562-errno-at-xdir_scan.test.lua,9,9.0,36.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_reload_schema_gh-636.test.lua,9,1.0,36.0
+tarantool,Lua,D:\clones\tarantool\test\engine\crossjoin.test.lua,1,0.0,36.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-3160-misc-heartbeats-on-master-changes.test.lua,6,2.0,36.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-4659-block-hash-index.test.lua,9,5.0,36.0
+tarantool,C,D:\clones\tarantool\test\sql-tap\gh-5938-wrong-string-length.c,5,0.0,36.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-6299-lost-collation-on-trim.test.lua,7,4.0,36.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-4c86b126f2.test.lua,4,24.0,36.0
+tarantool,Lua,D:\clones\tarantool\test\sql\delete.test.lua,19,20.0,36.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\json.test.lua,4,13.0,36.0
+tarantool,Python,D:\clones\tarantool\test\xlog-py\dup_key.test.py,11,6.0,36.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\checkpoint_threshold.test.lua,11,17.0,36.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\mp_error.h,12,73.0,35.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\gh-4491-coio-wait-leads-to-segfault.test.lua,14,4.0,35.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\pcall.test.lua,7,4.0,35.0
+tarantool,Lua,D:\clones\tarantool\test\app\gh-4235-dont-show-idle-in-fiber-info.test.lua,8,3.0,35.0
+tarantool,Lua,D:\clones\tarantool\test\app\on_shutdown.test.lua,6,8.0,35.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-4593-netbox-on_connect-disconnect.test.lua,6,11.0,35.0
+tarantool,Lua,D:\clones\tarantool\test\box\lua\txn_proxy.lua,6,13.0,35.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_connect_timeout_gh-2054.test.lua,2,3.0,35.0
+tarantool,Lua,D:\clones\tarantool\test\box\temp_spaces.test.lua,8,5.0,35.0
+tarantool,Lua,D:\clones\tarantool\test\replication\hang_on_synchro_fail.test.lua,14,10.0,35.0
+tarantool,Lua,D:\clones\tarantool\test\replication\wal_rw_stress.test.lua,7,13.0,35.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt2391.test.lua,7,27.0,35.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt3731.test.lua,8,24.0,35.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\gh-6448-deferred-delete-in-dropped-space.test.lua,3,4.0,35.0
+tarantool,HCL,D:\clones\tarantool\extra\tf\main.tf,11,0.0,34.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\memtx_tuple_compression.h,9,5.0,34.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\bitset\expr.h,12,101.0,34.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\bitset\iterator.h,13,96.0,34.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\backtrace.h,13,45.0,34.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\gh-6043-fiber-wakeup-self.test.lua,10,6.0,34.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\gh_6634_different_log_on_tuple_new_and_free_test.lua,7,0.0,34.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\gh_7014_session_disconnect_peer_test.lua,3,0.0,34.0
+tarantool,Lua,D:\clones\tarantool\test\engine\gh-1088-concurrent-bitset-iteration.test.lua,7,1.0,34.0
+tarantool,Lua,D:\clones\tarantool\test\replication\catch.test.lua,11,18.0,34.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5298-qsync-recovery-snap.test.lua,8,8.0,34.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5536-wal-limit.test.lua,12,13.0,34.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-6035-election-filter.test.lua,9,21.0,34.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-4a03edc4c8.test.lua,4,33.0,34.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-b351d95f9.test.lua,5,25.0,34.0
+tarantool,C,D:\clones\tarantool\test\unit\crc32.c,9,30.0,34.0
+tarantool,Lua,D:\clones\tarantool\test\wal_off\iterator_lt_gt.test.lua,3,1.0,34.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\base64.h,7,68.0,34.0
+tarantool,YAML,D:\clones\tarantool\.github\workflows\source.yml,5,0.0,33.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\sysalloc.h,10,40.0,33.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\cfg.h,16,41.0,33.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\iconv.test.lua,14,2.0,33.0
+tarantool,Lua,D:\clones\tarantool\test\app\env.test.lua,4,3.0,33.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-6092-invalid-listen-uri.test.lua,4,11.0,33.0
+tarantool,Lua,D:\clones\tarantool\test\box\lua\index_random_test.lua,5,5.0,33.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_closing_without_lost_gh-6338.test.lua,5,18.0,33.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_collectgarbage_gh-3107.test.lua,4,7.0,33.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_discard_gh-3107.test.lua,5,9.0,33.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_disconnect_gh-3859.test.lua,10,7.0,33.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_timeout-gh-3107.test.lua,5,9.0,33.0
+tarantool,Lua,D:\clones\tarantool\test\replication\election-candidate-promote.test.lua,7,2.0,33.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-3642-misc-no-socket-leak-on-replica-disconnect.test.lua,8,2.0,33.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5430-cluster-mvcc.test.lua,10,19.0,33.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5430-qsync-promote-crash.test.lua,10,33.0,33.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-6018-election-boot-voter.test.lua,10,16.0,33.0
+tarantool,Lua,D:\clones\tarantool\test\replication\long_row_timeout.test.lua,5,9.0,33.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-2360-omit-truncate-in-transaction.test.lua,5,6.0,33.0
+tarantool,Lua,D:\clones\tarantool\test\wal_off\alter.test.lua,8,10.0,33.0
+tarantool,C,D:\clones\tarantool\src\box\coll_id.c,2,30.0,32.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\sql\cursor.h,11,61.0,32.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\fiber_cond.h,19,93.0,32.0
+tarantool,Lua,D:\clones\tarantool\src\lua\clock.lua,7,1.0,32.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\tnt_msgpuck.h,15,38.0,32.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\gh_6635_garbage_of_last_prep_txn_test.lua,8,1.0,32.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-3633-tuple-size-increasing.test.lua,5,4.0,32.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-6554-gc-removes-inprogress-xlogs.test.lua,12,12.0,32.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_raw_response_gh-3107.test.lua,5,9.0,32.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_watcher_reconnect.test.lua,5,3.0,32.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-4114-local-space-replication.test.lua,10,5.0,32.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5435-qsync-clear-synchro-queue-commit-all.test.lua,16,18.0,32.0
+tarantool,Lua,D:\clones\tarantool\test\replication\join_vclock.test.lua,9,3.0,32.0
+tarantool,Lua,D:\clones\tarantool\test\replication\on_schema_init.test.lua,13,7.0,32.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-6376-wrong-double-to-dec-cmp.test.lua,5,1.0,32.0
+tarantool,Lua,D:\clones\tarantool\test\sql\engine.test.lua,8,7.0,32.0
+tarantool,Lua,D:\clones\tarantool\test\sql\gh-2362-select-access-rights.test.lua,9,1.0,32.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\gh-4957-too-many-upserts.test.lua,12,14.0,32.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\snap_io_rate.test.lua,11,5.0,32.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\transaction.test.lua,3,11.0,32.0
+tarantool,Markdown,D:\clones\tarantool\test\xlog\upgrade\how_to_add_new_test.md,4,0.0,32.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\PMurHash.h,13,19.0,32.0
+tarantool,Lua,D:\clones\tarantool\src\box\lua\merger.lua,7,3.0,31.0
+tarantool,C,D:\clones\tarantool\src\path_lock.c,5,36.0,31.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\scoped_guard.h,8,31.0,31.0
+tarantool,Python,D:\clones\tarantool\test\box-py\bad_trigger.test.py,9,8.0,31.0
+tarantool,INI,D:\clones\tarantool\test\engine\suite.ini,0,0.0,31.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\drop_all.test.lua,8,0.0,31.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-2549-many-columns.test.lua,8,5.0,31.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt3522.test.lua,6,23.0,31.0
+tarantool,Lua,D:\clones\tarantool\test\sql\sql-statN-index-drop.test.lua,13,12.0,31.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\parallel.test.lua,6,0.0,31.0
+tarantool,Lua,D:\clones\tarantool\test\wal_off\func_max.test.lua,0,3.0,31.0
+tarantool,Python,D:\clones\tarantool\test\xlog-py\missing.test.py,5,11.0,31.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\force_recovery.test.lua,13,3.0,31.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6043-fiber-wakeup-self.md,3,0.0,30.0
+tarantool,C,D:\clones\tarantool\src\box\checkpoint_schedule.c,9,37.0,30.0
+tarantool,C,D:\clones\tarantool\src\box\identifier.c,4,36.0,30.0
+tarantool,C++,D:\clones\tarantool\src\box\memtx_allocator.cc,5,30.0,30.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\sql\os.h,9,115.0,30.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\vy_entry.h,8,41.0,30.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\xrow_update.h,9,31.0,30.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\uri\uri_parser.h,5,5.0,30.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\gh-4983-tnt-e-assert-false-hangs.test.lua,13,8.0,30.0
+tarantool,INI,D:\clones\tarantool\test\app-tap\suite.ini,0,0.0,30.0
+tarantool,Lua,D:\clones\tarantool\test\app\gh-5799-fiber-info.test.lua,5,0.0,30.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-5135-invalid-upsert.test.lua,12,30.0,30.0
+tarantool,Lua,D:\clones\tarantool\test\box\space_bsize.test.lua,20,0.0,30.0
+tarantool,Lua,D:\clones\tarantool\test\engine\misc.test.lua,3,6.0,30.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-3055-election-promote.test.lua,6,7.0,30.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-4729-netbox-group-id.test.lua,3,4.0,30.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-6035-node.lua,4,0.0,30.0
+tarantool,Lua,D:\clones\tarantool\test\sql\tokenizer.test.lua,9,0.0,30.0
+tarantool,Lua,D:\clones\tarantool\test\sql\view_delayed_wal.test.lua,4,13.0,30.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl-luatest\gh_6778_recovery_crash_test.lua,3,0.0,30.0
+tarantool,CMake,D:\clones\tarantool\cmake\BuildLibEV.cmake,9,13.0,29.0
+tarantool,CMake,D:\clones\tarantool\cmake\FindOptionalPackage.cmake,2,6.0,29.0
+tarantool,CMake,D:\clones\tarantool\cmake\pod2man.cmake,3,4.0,29.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\audit.h,9,5.0,29.0
+tarantool,C,D:\clones\tarantool\src\box\constraint_id.c,3,31.0,29.0
+tarantool,C,D:\clones\tarantool\src\box\ibuf.c,6,30.0,29.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\swim\swim_transport.h,11,53.0,29.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\tzcode\tzcode.h,7,35.0,29.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\systemd.h,11,70.0,29.0
+tarantool,Lua,D:\clones\tarantool\static-build\test\static-build\luarocks.test.lua,8,3.0,29.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\cfg.test.lua,10,4.0,29.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\fail_main.test.lua,6,4.0,29.0
+tarantool,Lua,D:\clones\tarantool\test\app\luafun.test.lua,12,10.0,29.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_error_extension_feature.test.lua,5,1.0,29.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_roll_back_gh-822.test.lua,7,6.0,29.0
+tarantool,Lua,D:\clones\tarantool\test\replication\election_replica.lua,5,1.0,29.0
+tarantool,Lua,D:\clones\tarantool\test\replication\wal_off.test.lua,6,3.0,29.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\explain.test.lua,4,10.0,29.0
+tarantool,Lua,D:\clones\tarantool\test\sql\func-recreate.test.lua,7,1.0,29.0
+tarantool,Lua,D:\clones\tarantool\test\sql\gh-3199-no-mem-leaks.test.lua,15,7.0,29.0
+tarantool,Lua,D:\clones\tarantool\test\swim\box.lua,7,9.0,29.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\key_list.h,8,80.0,28.0
+tarantool,C,D:\clones\tarantool\src\lib\coll\coll_def.c,5,30.0,28.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\prbuf.h,10,46.0,28.0
+tarantool,C,D:\clones\tarantool\src\lib\swim\swim_ev.c,5,30.0,28.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\gh_6824_net_box_close_on_connect_after_watch_test.lua,3,2.0,28.0
+tarantool,Lua,D:\clones\tarantool\test\box\box-cfg-unix-socket-del.test.lua,3,3.0,28.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_stack_diag_gh-1148.test.lua,3,2.0,28.0
+tarantool,Lua,D:\clones\tarantool\test\replication\anon_register_gap.test.lua,10,5.0,28.0
+tarantool,Lua,D:\clones\tarantool\test\replication\force_recovery.test.lua,6,9.0,28.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-4730-applier-rollback.test.lua,15,30.0,28.0
+tarantool,Lua,D:\clones\tarantool\test\replication\once.test.lua,3,2.0,28.0
+tarantool,Lua,D:\clones\tarantool\test\replication\replicaset_ro_mostly.test.lua,7,5.0,28.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\trigger8.test.lua,6,28.0,28.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\unicode.test.lua,5,4.0,28.0
+tarantool,Lua,D:\clones\tarantool\test\sql\integer-overflow.test.lua,4,21.0,28.0
+tarantool,INI,D:\clones\tarantool\test\sql\suite.ini,0,0.0,28.0
+tarantool,Lua,D:\clones\tarantool\test\swim\errinj.test.lua,5,10.0,28.0
+tarantool,Python,D:\clones\tarantool\test\xlog-py\big_lsn.test.py,5,7.0,28.0
+tarantool,Python,D:\clones\tarantool\test\xlog-py\lsn_gap.test.py,6,6.0,28.0
+tarantool,CMake,D:\clones\tarantool\cmake\atomic.cmake,7,14.0,27.0
+tarantool,CMake,D:\clones\tarantool\extra\luarocks\hardcoded.lua.cmake,0,0.0,27.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\coll_id.h,8,46.0,27.0
+tarantool,C,D:\clones\tarantool\src\box\user_def.c,3,30.0,27.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\vy_stmt_stream.h,11,49.0,27.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\vy_upsert.h,8,50.0,27.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\random.h,10,57.0,27.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\init.h,9,51.0,27.0
+tarantool,Lua,D:\clones\tarantool\test\app-luatest\interval_test.lua,6,2.0,27.0
+tarantool,Lua,D:\clones\tarantool\test\app\argparse.test.lua,3,4.0,27.0
+tarantool,INI,D:\clones\tarantool\test\box-tap\suite.ini,0,0.0,27.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-4834-netbox-fiber-cancel.test.lua,3,1.0,27.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_is_nullable_gh-3256.test.lua,2,3.0,27.0
+tarantool,Lua,D:\clones\tarantool\test\engine\gh-4973-concurrent-alter-fails.test.lua,5,0.0,27.0
+tarantool,Lua,D:\clones\tarantool\test\engine\gh-6165-multibyte-fselect.test.lua,5,3.0,27.0
+tarantool,Lua,D:\clones\tarantool\test\replication\autobootstrap_guest.test.lua,9,21.0,27.0
+tarantool,Lua,D:\clones\tarantool\test\replication\ddl.lua,6,4.0,27.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-3711-misc-no-restart-on-same-configuration.test.lua,4,8.0,27.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5447-downstream-lag.test.lua,10,19.0,27.0
+tarantool,Lua,D:\clones\tarantool\test\replication\on_replace.lua,6,4.0,27.0
+tarantool,Lua,D:\clones\tarantool\test\replication\quorum.lua,7,3.0,27.0
+tarantool,Lua,D:\clones\tarantool\test\replication\replica_uuid_ro.lua,6,4.0,27.0
+tarantool,Lua,D:\clones\tarantool\test\replication\show_error_on_disconnect.test.lua,4,9.0,27.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh2168-temp-tables.test.lua,6,7.0,27.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\index3.test.lua,7,73.0,27.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\trigger5.test.lua,2,17.0,27.0
+tarantool,C,D:\clones\tarantool\test\unit\reflection_c.c,5,1.0,27.0
+tarantool,C,D:\clones\tarantool\test\unit\rope_avl.c,9,5.0,27.0
+tarantool,C,D:\clones\tarantool\test\unit\swim_test_ev.c,5,30.0,27.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\gh-4805-open-run-err-recovery.test.lua,7,0.0,27.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\gh-6045-missing-tuples-after-sc-build.test.lua,5,11.0,27.0
+tarantool,Markdown,D:\clones\tarantool\.github\ISSUE_TEMPLATE\bug_report.md,16,0.0,26.0
+tarantool,Lua,D:\clones\tarantool\extra\dist\example.lua,36,145.0,26.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\call.h,11,46.0,26.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\sql\hash.h,8,84.0,26.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\box_runtime_info_tuple_test.lua,6,6.0,26.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\errinj_set_with_enviroment_vars_script.lua,7,1.0,26.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\gh-5388-lua-key_def-leak.test.lua,10,46.0,26.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-6292-fix-dropping-msg-when-connection-closing.test.lua,4,8.0,26.0
+tarantool,Lua,D:\clones\tarantool\test\instances\default.lua,7,11.0,26.0
+tarantool,Lua,D:\clones\tarantool\test\replication\autobootstrap.lua,5,4.0,26.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-3247-misc-iproto-sequence-value-not-replicated.test.lua,3,3.0,26.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-6127-election-join-new.test.lua,4,11.0,26.0
+tarantool,C,D:\clones\tarantool\test\sql-tap\gh-2579-custom-aggregate.c,2,0.0,26.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-3332-tuple-format-leak.test.lua,5,0.0,26.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\selectF.test.lua,5,26.0,26.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\selectG.test.lua,3,27.0,26.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt3508.test.lua,3,18.0,26.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt3841.test.lua,7,21.0,26.0
+tarantool,YAML,D:\clones\tarantool\.github\actions\pack_and_deploy\action.yml,4,8.0,25.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\session_settings.h,5,59.0,25.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\fakesys\fakeev.h,12,91.0,25.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\swim\swim_constants.h,6,67.0,25.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\error.h,11,43.0,25.0
+tarantool,Lua,D:\clones\tarantool\test\app\gh-4662-fiber-storage-leak.test.lua,4,14.0,25.0
+tarantool,Lua,D:\clones\tarantool\test\box-luatest\gh_6042_uuid_and_scalar_test.lua,4,0.0,25.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\errinj_set_with_enviroment_vars.test.lua,2,2.0,25.0
+tarantool,Lua,D:\clones\tarantool\test\box\hash_64bit_delete.test.lua,7,10.0,25.0
+tarantool,Lua,D:\clones\tarantool\test\box\huge_field_map_long.test.lua,3,0.0,25.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_incompatible_index-gh-1729.test.lua,5,3.0,25.0
+tarantool,C,D:\clones\tarantool\test\fuzz\swim_proto_member_fuzzer.c,4,15.0,25.0
+tarantool,C,D:\clones\tarantool\test\fuzz\swim_proto_meta_fuzzer.c,4,15.0,25.0
+tarantool,Lua,D:\clones\tarantool\test\replication\recover_missing_xlog.test.lua,6,10.0,25.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-3297-ephemeral-rowid.test.lua,3,2.0,25.0
+tarantool,C,D:\clones\tarantool\test\unit\vy_log_stub.c,7,30.0,25.0
+tarantool,Lua,D:\clones\tarantool\test\wal_off\tuple.test.lua,1,7.0,25.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5860-implement-streams-in-iproto.md,2,0.0,24.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\call.h,10,35.0,24.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\mp_datetime.h,10,30.0,24.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\swim\swim_ev.h,15,50.0,24.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\gh-5983-jit-library-smoke-tests.test.lua,7,13.0,24.0
+tarantool,Python,D:\clones\tarantool\test\box-py\print.test.py,8,5.0,24.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\net.box.test.lua,6,4.0,24.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-4627-session-use-after-free.test.lua,8,23.0,24.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-4672-min-integer-value-in-serializer.test.lua,7,5.0,24.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-6405-discarding-arguments-in-box-func-call.test.lua,2,1.0,24.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-4399-misc-no-failure-on-error-reading-wal.test.lua,5,8.0,24.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-4739-vclock-assert.test.lua,4,8.0,24.0
+tarantool,Lua,D:\clones\tarantool\test\replication\master_quorum.lua,8,4.0,24.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt3541.test.lua,4,23.0,24.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt3773.test.lua,5,21.0,24.0
+tarantool,C,D:\clones\tarantool\third_party\clock_gettime.c,1,28.0,24.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\coll_id_cache.h,10,50.0,23.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\constraint_id.h,7,35.0,23.0
+tarantool,C,D:\clones\tarantool\src\box\fk_constraint.c,3,30.0,23.0
+tarantool,C,D:\clones\tarantool\src\lib\raft\raft_ev.c,4,30.0,23.0
+tarantool,C,D:\clones\tarantool\src\lib\tzcode\timelocal.c,12,56.0,23.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\pickle.h,6,36.0,23.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\logmod.test.lua,12,1.0,23.0
+tarantool,Lua,D:\clones\tarantool\test\app\gh-4787-netbox-empty-errmsg.test.lua,3,6.0,23.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\gh-6295-assert-on-wrong-id.test.lua,10,1.0,23.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\on_schema_init.test.lua,4,4.0,23.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\trigger_yield.test.lua,8,0.0,23.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_connect_triggers_gh-2858.test.lua,1,3.0,23.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_schema_change_gh-2666.test.lua,1,4.0,23.0
+tarantool,Lua,D:\clones\tarantool\test\engine\conflict.lua,6,0.0,23.0
+tarantool,Lua,D:\clones\tarantool\test\replication\autobootstrap_guest.lua,7,4.0,23.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-3610-misc-assert-connecting-master-twice.test.lua,5,5.0,23.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-4424-misc-orphan-on-reconfiguration-error.test.lua,3,8.0,23.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-d635236375.test.lua,4,21.0,23.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\trigger4.test.lua,2,174.0,23.0
+tarantool,Lua,D:\clones\tarantool\test\sql\autoincrement.test.lua,3,7.0,23.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\libutil_freebsd\libutil.h,11,0.0,23.0
+tarantool,CMake,D:\clones\tarantool\cmake\FindZLIB.cmake,6,0.0,22.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\serialize_lua.h,10,35.0,22.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\sysview.h,8,30.0,22.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\mp_uuid.h,12,83.0,22.0
+tarantool,C,D:\clones\tarantool\src\lib\salad\guava.c,6,39.0,22.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\tzcode\timelocal.h,5,38.0,22.0
+tarantool,Lua,D:\clones\tarantool\src\lua\debug.lua,4,2.0,22.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\main.h,8,37.0,22.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\title.h,10,71.0,22.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\gh-4761-json-per-call-options.test.lua,6,9.0,22.0
+tarantool,C,D:\clones\tarantool\test\app-tap\libyield.c,6,1.0,22.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\gc.test.lua,8,3.0,22.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\trigger_atexit.test.lua,11,2.0,22.0
+tarantool,Lua,D:\clones\tarantool\test\box\tuple_bench.test.lua,10,0.0,22.0
+tarantool,INI,D:\clones\tarantool\test\replication-py\suite.ini,0,0.0,22.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-6032-promote-wal-write.test.lua,5,2.0,22.0
+tarantool,Lua,D:\clones\tarantool\test\replication\lua\rlimit.lua,2,0.0,22.0
+tarantool,Lua,D:\clones\tarantool\test\swim\gh-5952-swim-serialize.test.lua,8,3.0,22.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\misc.test.lua,6,10.0,22.0
+tarantool,INI,D:\clones\tarantool\test\xlog\suite.ini,0,0.0,22.0
+tarantool,C,D:\clones\tarantool\third_party\memmem.c,9,38.0,22.0
+tarantool,CMake,D:\clones\tarantool\cmake\arch.cmake,2,11.0,21.0
+tarantool,Bourne Shell,D:\clones\tarantool\debian\tarantool-common.postinst,5,2.0,21.0
+tarantool,C++,D:\clones\tarantool\src\box\allocator.cc,4,30.0,21.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\blackhole.h,7,30.0,21.0
+tarantool,CMake,D:\clones\tarantool\src\lib\CMakeLists.txt,0,0.0,21.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\mp_decimal.h,9,67.0,21.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\mp_interval.h,10,50.0,21.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\ssl_error.h,10,5.0,21.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\http_parser\http_parser.h,7,43.0,21.0
+tarantool,Lua,D:\clones\tarantool\test\app\gh-4138-getaddrinfo-errors.test.lua,2,3.0,21.0
+tarantool,Lua,D:\clones\tarantool\test\app\pack.test.lua,1,1.0,21.0
+tarantool,Lua,D:\clones\tarantool\test\box\hash_64bit_select.test.lua,6,10.0,21.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_field_names_gh-2978.test.lua,4,4.0,21.0
+tarantool,Lua,D:\clones\tarantool\test\box\on_schema_init.lua,6,1.0,21.0
+tarantool,INI,D:\clones\tarantool\test\engine_long\suite.ini,0,0.0,21.0
+tarantool,C,D:\clones\tarantool\test\fuzz\csv_fuzzer.c,2,0.0,21.0
+tarantool,Lua,D:\clones\tarantool\test\sql\clear.test.lua,11,19.0,21.0
+tarantool,CMake,D:\clones\tarantool\cmake\BuildLibEIO.cmake,6,3.0,20.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\alter.h,2,30.0,20.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\checkpoint_schedule.h,7,58.0,20.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\request.h,7,59.0,20.0
+tarantool,C,D:\clones\tarantool\src\box\sql\callback.c,3,35.0,20.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\vy_point_lookup.h,8,67.0,20.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\tt_compression.h,8,5.0,20.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\scramble.h,8,76.0,20.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\yield-in-gc-finalizer.test.lua,11,4.0,20.0
+tarantool,CMake,D:\clones\tarantool\test\box\CMakeLists.txt,0,0.0,20.0
+tarantool,Lua,D:\clones\tarantool\test\box\ddl_tuple.test.lua,8,0.0,20.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-5090-empty-vinyl-backup.test.lua,9,1.0,20.0
+tarantool,Lua,D:\clones\tarantool\test\engine\gh-5216-small_alloc_factor.test.lua,0,0.0,20.0
+tarantool,Lua,D:\clones\tarantool\test\engine\uuid.test.lua,6,1.0,20.0
+tarantool,Lua,D:\clones\tarantool\test\replication\autobootstrap_anon.lua,5,0.0,20.0
+tarantool,Lua,D:\clones\tarantool\test\replication\bootstrap_leader.test.lua,7,0.0,20.0
+tarantool,Lua,D:\clones\tarantool\test\replication\er_load.lua,4,2.0,20.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-6027-applier-error-show.test.lua,7,4.0,20.0
+tarantool,Lua,D:\clones\tarantool\test\replication\join_without_snap.test.lua,7,5.0,20.0
+tarantool,Lua,D:\clones\tarantool\test\replication\rebootstrap.lua,7,2.0,20.0
+tarantool,Lua,D:\clones\tarantool\test\replication\replica_on_schema_init.lua,5,0.0,20.0
+tarantool,Lua,D:\clones\tarantool\test\replication\replica_uuid_rw.lua,6,0.0,20.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-5890-wrong-select-with-groupby.test.lua,3,5.0,20.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-3998683a16.test.lua,3,21.0,20.0
+tarantool,Lua,D:\clones\tarantool\test\wal_off\wal_mode.test.lua,2,0.0,20.0
+tarantool,Python,D:\clones\tarantool\test\xlog-py\empty.test.py,2,10.0,20.0
+tarantool,Modula3,D:\clones\tarantool\changelogs\unreleased\gh-6088-xlog-raft-lua.mg,0,0.0,19.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\xrow_io.h,7,30.0,19.0
+tarantool,C,D:\clones\tarantool\src\lib\core\memory.c,4,37.0,19.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\gh-5013-fiber-cancel.test.lua,7,0.0,19.0
+tarantool,INI,D:\clones\tarantool\test\app\suite.ini,0,0.0,19.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\cfgup.test.lua,8,4.0,19.0
+tarantool,Lua,D:\clones\tarantool\test\box\ddl_parallel.test.lua,10,1.0,19.0
+tarantool,C,D:\clones\tarantool\test\box\func_restore1.c,3,0.0,19.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-4769-unprepare-response-body.test.lua,6,1.0,19.0
+tarantool,Lua,D:\clones\tarantool\test\box\huge_field_map.test.lua,3,0.0,19.0
+tarantool,Lua,D:\clones\tarantool\test\box\leak.test.lua,1,4.0,19.0
+tarantool,Lua,D:\clones\tarantool\test\box\replace_during_recovery.lua,3,1.0,19.0
+tarantool,Lua,D:\clones\tarantool\test\engine\recover_snapshot.test.lua,9,1.0,19.0
+tarantool,C,D:\clones\tarantool\test\fuzz\datetime_parse_full_fuzzer.c,3,0.0,19.0
+tarantool,C,D:\clones\tarantool\test\fuzz\datetime_strptime_fuzzer.c,3,0.0,19.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-3637-misc-error-on-replica-auth-fail.test.lua,4,9.0,19.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5438-election-state.test.lua,4,6.0,19.0
+tarantool,Lua,D:\clones\tarantool\test\replication\replica_quorum.lua,5,0.0,19.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\gh-5436-vylog-gc-during-compaction.test.lua,9,7.0,19.0
+tarantool,INI,D:\clones\tarantool\test\wal_off\suite.ini,0,0.0,19.0
+tarantool,Bourne Shell,D:\clones\tarantool\tools\check_push_master.sh,5,5.0,19.0
+tarantool,Markdown,D:\clones\tarantool\.github\ISSUE_TEMPLATE\feature_request.md,10,0.0,18.0
+tarantool,Markdown,D:\clones\tarantool\.github\actions\send-telegram-notify\README.md,6,0.0,18.0
+tarantool,CMake,D:\clones\tarantool\cmake\BuildLibCORO.cmake,4,2.0,18.0
+tarantool,CMake,D:\clones\tarantool\cmake\FindLibYAML.cmake,5,0.0,18.0
+tarantool,CMake,D:\clones\tarantool\cmake\FindZSTD.cmake,4,0.0,18.0
+tarantool,C,D:\clones\tarantool\src\box\iterator_type.c,2,30.0,18.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\service_engine.h,5,30.0,18.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\tuple_constraint_fkey.h,6,17.0,18.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\clock.h,9,32.0,18.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\decimal.h,9,30.0,18.0
+tarantool,Lua,D:\clones\tarantool\src\lua\errno.lua,3,0.0,18.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\socket.h,5,30.0,18.0
+tarantool,C,D:\clones\tarantool\src\lua\tnt_iconv.c,3,0.0,18.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\trigger.h,6,71.0,18.0
+tarantool,C,D:\clones\tarantool\src\version.c,3,30.0,18.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\errno.test.lua,3,0.0,18.0
+tarantool,INI,D:\clones\tarantool\test\box-py\suite.ini,0,0.0,18.0
+tarantool,C,D:\clones\tarantool\test\box\cfunc4.c,2,5.0,18.0
+tarantool,Lua,D:\clones\tarantool\test\box\ddl_lock_gh-2783.test.lua,3,12.0,18.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-5304-replace_during_recovery.test.lua,3,1.0,18.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_log_corrupted_rows_gh-4040.test.lua,5,8.0,18.0
+tarantool,Lua,D:\clones\tarantool\test\engine\gh-5027-fields-nullability.test.lua,2,0.0,18.0
+tarantool,Lua,D:\clones\tarantool\test\engine\recover_wal.test.lua,9,1.0,18.0
+tarantool,C,D:\clones\tarantool\test\fuzz\uri_fuzzer.c,2,0.0,18.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5613-bootstrap-prefer-booted.test.lua,4,7.0,18.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-6375-assert-on-unsupported-ext.test.lua,3,4.0,18.0
+tarantool,Lua,D:\clones\tarantool\test\sql\gh-2981-check-autoinc.test.lua,7,0.0,18.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\gh-4771-upgrade.test.lua,6,0.0,18.0
+tarantool,Bourne Shell,D:\clones\tarantool\third_party\libev\update_ev_wrap,1,0.0,18.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\lua-yaml\lyaml.h,7,21.0,18.0
+tarantool,CMake,D:\clones\tarantool\cmake\FindZZIP.cmake,5,0.0,17.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\key_def.h,7,45.0,17.0
+tarantool,Lua,D:\clones\tarantool\src\box\lua\key_def.lua,2,0.0,17.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\misc.h,8,30.0,17.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\vy_read_view.h,6,49.0,17.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\latency.h,8,55.0,17.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\raft\raft_ev.h,10,35.0,17.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\info.test.lua,2,0.0,17.0
+tarantool,Lua,D:\clones\tarantool\test\app\fiber_cond.test.lua,1,6.0,17.0
+tarantool,Lua,D:\clones\tarantool\test\app\gh-6203-fiber-join-with-timeout.test.lua,4,0.0,17.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\gh-5450-merger-wrong-key-def.test.lua,4,5.0,17.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\gh-5750-feedback-disabled-err.test.lua,5,7.0,17.0
+tarantool,C,D:\clones\tarantool\test\box\cfunc3.c,2,3.0,17.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-4513-netbox-self-and-connect-interchangeable.test.lua,3,3.0,17.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-5610-dirty-restart.test.lua,3,0.0,17.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_long-poll_input_gh-3400.test.lua,1,10.0,17.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_readahead_gh-3958.test.lua,8,5.0,17.0
+tarantool,Lua,D:\clones\tarantool\test\box\rtree_point.test.lua,3,4.0,17.0
+tarantool,Lua,D:\clones\tarantool\test\box\rtree_point_r2.test.lua,3,4.0,17.0
+tarantool,Lua,D:\clones\tarantool\test\box\rtree_rect.test.lua,3,10.0,17.0
+tarantool,Lua,D:\clones\tarantool\test\engine\gh-5192-multikey-root-nullability.test.lua,2,0.0,17.0
+tarantool,Lua,D:\clones\tarantool\test\engine\recover_drop.test.lua,6,1.0,17.0
+tarantool,C,D:\clones\tarantool\test\fuzz\http_parser_fuzzer.c,2,0.0,17.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-3111-misc-rebootstrap-from-ro-master.test.lua,2,1.0,17.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5287-boot-anon.test.lua,7,6.0,17.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-bd484a090c.test.lua,5,40.0,17.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-fa7bf5ec.test.lua,3,27.0,17.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt3791.test.lua,3,24.0,17.0
+tarantool,Lua,D:\clones\tarantool\test\sql\max-on-index.test.lua,9,9.0,17.0
+tarantool,Lua,D:\clones\tarantool\test\sql\no-pk-space.test.lua,3,4.0,17.0
+tarantool,m4,D:\clones\tarantool\third_party\libev\configure.ac,8,2.0,17.0
+tarantool,C,D:\clones\tarantool\src\box\audit.c,3,5.0,16.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\ibuf.h,10,50.0,16.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\crash.h,7,21.0,16.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\memory.h,6,35.0,16.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\string.h,5,30.0,16.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\uri.h,6,14.0,16.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\gh-5649-yield-in-debug-hook.test.lua,4,5.0,16.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\gh-4688-box-info-memory.test.lua,6,3.0,16.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\gh-5307-key_def-part-count-check.test.lua,7,3.0,16.0
+tarantool,C,D:\clones\tarantool\test\box\cfunc1.c,4,7.0,16.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-5451-netbox-path-index-schema.test.lua,6,3.0,16.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-5518-add-granularity-option.lua,4,0.0,16.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-6520-race-between-push-and-close.test.lua,0,4.0,16.0
+tarantool,Lua,D:\clones\tarantool\test\box\lua\push.lua,1,0.0,16.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_uri_first_arg_gh-398.test.lua,5,2.0,16.0
+tarantool,Lua,D:\clones\tarantool\test\box\rtree_errinj.test.lua,4,0.0,16.0
+tarantool,Lua,D:\clones\tarantool\test\engine\box.lua,2,0.0,16.0
+tarantool,Python,D:\clones\tarantool\test\long_run-py\finalizers.test.py,2,0.0,16.0
+tarantool,Lua,D:\clones\tarantool\test\long_run-py\lua\finalizers.lua,3,2.0,16.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-3760-misc-return-on-quorum-0.test.lua,1,6.0,16.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-6094-rs-uuid-mismatch.test.lua,3,6.0,16.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\atof1.test.lua,8,33.0,16.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-3083-ephemeral-unref-tuples.test.lua,6,2.0,16.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-02a8e81d44.test.lua,5,20.0,16.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt1501.test.lua,5,20.0,16.0
+tarantool,Lua,D:\clones\tarantool\test\sql\gh-4104-view-access-check.test.lua,2,0.0,16.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\gh-4821-ddl-during-throttled-dump.test.lua,3,5.0,16.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\gh-5823-crash_snapshot.lua,3,4.0,16.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\vinyl.lua,2,0.0,16.0
+tarantool,C,D:\clones\tarantool\third_party\memrchr.c,4,29.0,16.0
+tarantool,Markdown,D:\clones\tarantool\.github\actions\perf\README.md,5,0.0,15.0
+tarantool,CMake,D:\clones\tarantool\cmake\BuildLibXXhash.cmake,3,4.0,15.0
+tarantool,CMake,D:\clones\tarantool\cmake\FindLibEIO.cmake,2,0.0,15.0
+tarantool,CMake,D:\clones\tarantool\cmake\FindLibEV.cmake,2,0.0,15.0
+tarantool,Markdown,D:\clones\tarantool\doc\rfc\template.md,10,0.0,15.0
+tarantool,CMake,D:\clones\tarantool\extra\luarocks\CMakeLists.txt,2,0.0,15.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\coll_id_def.h,4,35.0,15.0
+tarantool,Lua,D:\clones\tarantool\src\box\lua\session.lua,7,1.0,15.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\tuple_compare.h,7,61.0,15.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\tuple_convert.h,7,38.0,15.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\digest.h,7,30.0,15.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\proc_title.h,5,28.0,15.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\gh-4231-box-execute-idempotence.test.lua,8,14.0,15.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\gh-6198-max-cnt-of-tuple-fields-insert-overflow-err-msg.test.lua,5,0.0,15.0
+tarantool,Lua,D:\clones\tarantool\test\box\hash_32bit_delete.test.lua,5,9.0,15.0
+tarantool,Lua,D:\clones\tarantool\test\box\hash_32bit_select.test.lua,5,9.0,15.0
+tarantool,Lua,D:\clones\tarantool\test\box\hash_collation.test.lua,4,3.0,15.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_bad_argument_gh-594.test.lua,1,1.0,15.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_leaks_gh-3629.test.lua,1,4.0,15.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_pseudo_objects_gh-2401.test.lua,4,4.0,15.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_remote_method_gh-544.test.lua,6,1.0,15.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_reuse_tuple_formats_gh-6217.test.lua,4,1.0,15.0
+tarantool,Lua,D:\clones\tarantool\test\engine_long\box.lua,3,0.0,15.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-4606-admin-creds.test.lua,2,11.0,15.0
+tarantool,Lua,D:\clones\tarantool\test\replication\replica.lua,4,2.0,15.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-752e1646fc.test.lua,3,20.0,15.0
+tarantool,Lua,D:\clones\tarantool\test\sql\gh-3613-idx-alter-update.test.lua,7,4.0,15.0
+tarantool,Lua,D:\clones\tarantool\test\sql\gh2251-multiple-update.test.lua,9,4.0,15.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl-luatest\common.lua,2,0.0,15.0
+tarantool,m4,D:\clones\tarantool\third_party\libeio\configure.ac,7,0.0,15.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\tarantool_eio.h,2,28.0,15.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\introduce-arm64-preliminary-support.md,1,0.0,14.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\console.h,7,34.0,14.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\execute.h,5,52.0,14.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\session.h,5,30.0,14.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\memtx_bitset.h,5,30.0,14.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\memtx_hash.h,5,30.0,14.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\memtx_rtree.h,5,30.0,14.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\memtx_tree.h,5,30.0,14.0
+tarantool,C,D:\clones\tarantool\src\box\sql\parse_def.c,3,30.0,14.0
+tarantool,C,D:\clones\tarantool\src\crc32.c,2,34.0,14.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\crc32.h,6,34.0,14.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\cord_buf.h,6,29.0,14.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\mp_extension_types.h,3,36.0,14.0
+tarantool,C,D:\clones\tarantool\src\lib\core\reflection.c,4,31.0,14.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\fiber.h,5,33.0,14.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\fiber_cond.h,4,30.0,14.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\module_header.h,5,33.0,14.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\clock.test.lua,2,0.0,14.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\gh-6535-listen-update-numeric-uri.test.lua,3,0.0,14.0
+tarantool,C,D:\clones\tarantool\test\box\func_restore2.c,3,0.0,14.0
+tarantool,C,D:\clones\tarantool\test\box\func_restore3.c,3,0.0,14.0
+tarantool,C,D:\clones\tarantool\test\box\func_restore4.c,3,0.0,14.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-4703-on_shutdown-bug.test.lua,1,4.0,14.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-6332-on-replace-schema.test.lua,3,3.0,14.0
+tarantool,Lua,D:\clones\tarantool\test\box\hash_64bit_replace.test.lua,5,9.0,14.0
+tarantool,Lua,D:\clones\tarantool\test\box\hash_string_delete.test.lua,4,6.0,14.0
+tarantool,Lua,D:\clones\tarantool\test\box\hash_string_select.test.lua,5,6.0,14.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_upsert_gh-970.test.lua,1,1.0,14.0
+tarantool,Lua,D:\clones\tarantool\test\engine-tap\lib\tester.lua,6,0.0,14.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-3055-promote-wakeup-crash.test.lua,2,5.0,14.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-3606-misc-crash-on-box-concurrent-update.test.lua,2,1.0,14.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-4402-info-errno.test.lua,5,5.0,14.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-6018-master.lua,3,0.0,14.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-6028-vclock-is-empty.test.lua,8,2.0,14.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-6127-master1.lua,1,0.0,14.0
+tarantool,INI,D:\clones\tarantool\test\swim\suite.ini,0,0.0,14.0
+tarantool,make,D:\clones\tarantool\third_party\libev\Makefile.am,7,0.0,14.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5419-implement-ability-to-choose-memtx-allocator.md,2,0.0,13.0
+tarantool,CMake,D:\clones\tarantool\cmake\FindTermcap.cmake,4,5.0,13.0
+tarantool,CMake,D:\clones\tarantool\cmake\multilib.cmake,2,10.0,13.0
+tarantool,Bourne Shell,D:\clones\tarantool\extra\mkexports,0,14.0,13.0
+tarantool,CMake,D:\clones\tarantool\perf\CMakeLists.txt,3,0.0,13.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\identifier.h,5,38.0,13.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\info.h,6,30.0,13.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\space.h,5,30.0,13.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\info.h,6,30.0,13.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\path_lock.h,3,47.0,13.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\pwd.test.lua,7,0.0,13.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\gh-4231-box-cfg-idempotence.test.lua,7,14.0,13.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-6147-fix-crash-after-schema-change.test.lua,3,1.0,13.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-6266-crash-in-lua-triggers.test.lua,2,1.0,13.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_getaddrinfo_errors_gh-4138.test.lua,2,3.0,13.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_space_format_gh-2402.test.lua,7,3.0,13.0
+tarantool,Lua,D:\clones\tarantool\test\box\protocol.test.lua,6,3.0,13.0
+tarantool,Lua,D:\clones\tarantool\test\box\tiny.lua,2,0.0,13.0
+tarantool,Lua,D:\clones\tarantool\test\engine\errinj.test.lua,1,1.0,13.0
+tarantool,Lua,D:\clones\tarantool\test\engine_long\delete_replace_update.test.lua,5,0.0,13.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-4605-empty-password.test.lua,6,8.0,13.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt-7a31705a7e6.test.lua,3,20.0,13.0
+tarantool,Lua,D:\clones\tarantool\test\sql\delete-multiple-idx.test.lua,12,8.0,13.0
+tarantool,Lua,D:\clones\tarantool\test\sql\drop-index.test.lua,9,8.0,13.0
+tarantool,Lua,D:\clones\tarantool\test\sql\gh-3888-values-blob-assert.test.lua,8,12.0,13.0
+tarantool,Lua,D:\clones\tarantool\test\sql\gh-4546-sql-drop-grants.test.lua,2,4.0,13.0
+tarantool,Lua,D:\clones\tarantool\test\sql\gh2141-delete-trigger-drop-table.test.lua,5,4.0,13.0
+tarantool,Lua,D:\clones\tarantool\test\sql\gh2483-remote-persistency-check.test.lua,7,8.0,13.0
+tarantool,Lua,D:\clones\tarantool\test\sql\message-func-indexes.test.lua,3,4.0,13.0
+tarantool,Lua,D:\clones\tarantool\test\sql\vinyl-opts.test.lua,4,0.0,13.0
+tarantool,C,D:\clones\tarantool\test\unit\find_path.c,3,0.0,13.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\upgrade\2.5.1\gh-5107-upsert-upgrade\fill.lua,2,0.0,13.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\qsort_arg.h,5,4.0,13.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\sha1.h,5,6.0,13.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5882-log-levels.md,1,0.0,12.0
+tarantool,CMake,D:\clones\tarantool\cmake\BuildCDT.cmake,1,0.0,12.0
+tarantool,CMake,D:\clones\tarantool\cmake\GetLibUnwindVersion.cmake,0,0.0,12.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\cfg.h,4,30.0,12.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\ctl.h,6,30.0,12.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\error.h,4,30.0,12.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\index.h,5,30.0,12.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\init.h,4,30.0,12.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\merger.h,5,30.0,12.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\net_box.h,5,30.0,12.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\sequence.h,5,30.0,12.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\xlog.h,5,30.0,12.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\tuple_constraint_func.h,4,9.0,12.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\tuple_extract_key.h,4,34.0,12.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\tuple_hash.h,4,34.0,12.0
+tarantool,C++,D:\clones\tarantool\src\box\xstream.cc,2,30.0,12.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\core\cxx_abi.h,3,12.0,12.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lib\salad\guava.h,6,30.0,12.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\pickle.h,4,30.0,12.0
+tarantool,INI,D:\clones\tarantool\test\app-luatest\suite.ini,0,0.0,12.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\gh-5932-symbol-visibility.test.lua,5,7.0,12.0
+tarantool,Lua,D:\clones\tarantool\test\box\ddl_call_twice_gh-2336.test.lua,3,1.0,12.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-5645-several-iproto-threads.lua,4,0.0,12.0
+tarantool,Lua,D:\clones\tarantool\test\box\hash_64bit_insert.test.lua,3,5.0,12.0
+tarantool,Lua,D:\clones\tarantool\test\box\hash_gh-3907.test.lua,1,2.0,12.0
+tarantool,INI,D:\clones\tarantool\test\engine-tap\suite.ini,0,0.0,12.0
+tarantool,Lua,D:\clones\tarantool\test\long_run-py\box.lua,3,0.0,12.0
+tarantool,Lua,D:\clones\tarantool\test\luajit-test-init.lua,7,28.0,12.0
+tarantool,Lua,D:\clones\tarantool\test\replication\box_set_replication_stress.test.lua,3,2.0,12.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5430-master1.lua,3,0.0,12.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5430-master2.lua,2,0.0,12.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-6018-replica.lua,2,1.0,12.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-6127-master2.lua,1,0.0,12.0
+tarantool,Lua,D:\clones\tarantool\test\replication\hot_standby.lua,2,0.0,12.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\tkt1514.test.lua,3,20.0,12.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\lua-cjson\lua_cjson.h,5,0.0,12.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5846-cformat.md,1,0.0,11.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6882-fix-negative-datetime-intervals.md,2,0.0,11.0
+tarantool,Bourne Shell,D:\clones\tarantool\debian\tarantool-common.postrm,4,1.0,11.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\authentication.h,5,35.0,11.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\slab.h,3,30.0,11.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\stat.h,3,30.0,11.0
+tarantool,CMake,D:\clones\tarantool\src\lib\swim\CMakeLists.txt,1,0.0,11.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\errno.h,5,30.0,11.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\fiber_channel.h,3,30.0,11.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\fio.h,3,30.0,11.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\popen.h,3,30.0,11.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\on_shutdown.h,6,49.0,11.0
+tarantool,Lua,D:\clones\tarantool\static-build\test\static-build\traceback.test.lua,4,0.0,11.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\gh-5130-panic-on-invalid-log.test.lua,6,6.0,11.0
+tarantool,Python,D:\clones\tarantool\test\box-py\bootstrap.test.py,1,1.0,11.0
+tarantool,Lua,D:\clones\tarantool\test\box-tap\gh-6086-log-cfg-must-not-be-updated-on-box-cfg-error.test.lua,4,0.0,11.0
+tarantool,Lua,D:\clones\tarantool\test\box\hash_32bit_replace.test.lua,5,9.0,11.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_get_connection_object.test.lua,5,3.0,11.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_memory_corruption.test.lua,4,15.0,11.0
+tarantool,Lua,D:\clones\tarantool\test\luatest_helpers\misc.lua,3,2.0,11.0
+tarantool,Lua,D:\clones\tarantool\test\replication\anon.lua,2,0.0,11.0
+tarantool,Lua,D:\clones\tarantool\test\replication\ddl.test.lua,6,1.0,11.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-3510-misc-assert-replica-on-applier-disconnect.test.lua,1,4.0,11.0
+tarantool,Lua,D:\clones\tarantool\test\replication\rebootstrap.test.lua,4,6.0,11.0
+tarantool,CMake,D:\clones\tarantool\test\sql-tap\CMakeLists.txt,0,0.0,11.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-6113-assert-in-hex-on-zeroblob.test.lua,2,0.0,11.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-6239-quote-with-double-arg.test.lua,2,1.0,11.0
+tarantool,Lua,D:\clones\tarantool\test\sql\gh-2929-primary-key.test.lua,6,6.0,11.0
+tarantool,Lua,D:\clones\tarantool\test\sql\gh2808-inline-unique-persistency-check.test.lua,5,8.0,11.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\options.test.lua,3,0.0,11.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\replica_rejoin.lua,3,0.0,11.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\upgrade\2.1.3\gh-4771-upgrade-sequence\fill.lua,3,0.0,11.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\xlog.lua,2,0.0,11.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5979-recovery-yield.md,2,0.0,10.0
+tarantool,CMake,D:\clones\tarantool\cmake\BuildDecNumber.cmake,2,2.0,10.0
+tarantool,CMake,D:\clones\tarantool\cmake\BuildLibYAML.cmake,4,3.0,10.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\lib.h,5,10.0,10.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\lua\watcher.h,4,5.0,10.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\sql\hwtime.h,3,41.0,10.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\cpu_feature.h,4,45.0,10.0
+tarantool,CMake,D:\clones\tarantool\src\lib\bitset\CMakeLists.txt,1,0.0,10.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\ssl_cert_paths_discover.h,4,40.0,10.0
+tarantool,Lua,D:\clones\tarantool\test\box-py\box.lua,2,0.0,10.0
+tarantool,Lua,D:\clones\tarantool\test\box\ddl_truncate-gh-928.test.lua,3,1.0,10.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-6431-crash-while-encoding-error.test.lua,1,0.0,10.0
+tarantool,Lua,D:\clones\tarantool\test\box\hash_string_replace.test.lua,4,5.0,10.0
+tarantool,Lua,D:\clones\tarantool\test\box\upsert_errinj.test.lua,2,0.0,10.0
+tarantool,INI,D:\clones\tarantool\test\long_run-py\suite.ini,0,0.0,10.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5163-qsync-restart-crash.test.lua,2,4.0,10.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5430-master3.lua,2,0.0,10.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5613-master.lua,1,0.0,10.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5613-replica1.lua,1,2.0,10.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5613-replica2.lua,1,0.0,10.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-6157-unnecessary-free-on-string.test.lua,3,8.0,10.0
+tarantool,Lua,D:\clones\tarantool\test\sql\insert-unique.test.lua,7,8.0,10.0
+tarantool,C,D:\clones\tarantool\test\unit\box_test_utils.c,1,6.0,10.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\gh-5823-skip-newer-than-snap-vylog.test.lua,1,6.0,10.0
+tarantool,Groovy,D:\clones\tarantool\Jenkinsfile,2,0.0,9.0
+tarantool,Bourne Shell,D:\clones\tarantool\apk\tarantool.post-install,4,0.0,9.0
+tarantool,CMake,D:\clones\tarantool\cmake\FindMsgPuck.cmake,2,7.0,9.0
+tarantool,HCL,D:\clones\tarantool\extra\tf\outputs.tf,1,0.0,9.0
+tarantool,make,D:\clones\tarantool\rump\Makefile,1,0.0,9.0
+tarantool,C,D:\clones\tarantool\src\box\errcode.c,3,30.0,9.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\box\msgpack.h,2,30.0,9.0
+tarantool,CMake,D:\clones\tarantool\src\lib\raft\CMakeLists.txt,3,3.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\debug\server.lua,2,0.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\gh-6330-table-new.test.lua,4,3.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\box\iproto_streams.lua,4,0.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\box\lua\cfg_test3.lua,2,0.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\box\lua\cfg_test4.lua,2,0.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_huge_data_gh-983.test.lua,4,3.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_reconnect_after.test.lua,3,4.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\box\proxy.lua,2,0.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\box\tx_man.lua,2,0.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\engine\gh-5216-small_alloc_factor.lua,2,0.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-2991-misc-asserts-on-update.test.lua,0,2.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5288-qsync-recovery.test.lua,0,4.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5430-mvcc-replica1.lua,1,0.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-6028-replica.lua,4,0.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\replication\replica_auth.lua,3,0.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\replication\replica_no_quorum.lua,2,0.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\replication\replica_timeout.lua,3,0.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\replication\replica_uuid.lua,3,0.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\replication\wal_off.lua,2,0.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\sql-tap\gh-2884-forbid-rowid-syntax.test.lua,3,0.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\sql\gh-3613-idx-alter-update-2.test.lua,4,3.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\sql\gh-4755-scalar-collation-metadata.test.lua,2,7.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\sql\update-with-nested-select.test.lua,7,8.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\sql\vinyl-opts-cfg.lua,2,3.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\gh-5107-upsert-upgrade.test.lua,6,8.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\large.test.lua,4,0.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\wal_off\wal.lua,2,0.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\xlog-py\box.lua,2,0.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\panic.lua,2,0.0,9.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\snap_io_rate.test.lua,4,1.0,9.0
+tarantool,C,D:\clones\tarantool\third_party\tarantool_ev.c,4,28.0,9.0
+tarantool,Bourne Shell,D:\clones\tarantool\debian\tarantool.postinst,2,1.0,8.0
+tarantool,HCL,D:\clones\tarantool\extra\tf\versions.tf,0,0.0,8.0
+tarantool,Lua,D:\clones\tarantool\src\box\lua\xlog.lua,1,0.0,8.0
+tarantool,C,D:\clones\tarantool\src\lib\core\port.c,1,30.0,8.0
+tarantool,C++,D:\clones\tarantool\src\lib\core\ssl_error.cc,4,5.0,8.0
+tarantool,CMake,D:\clones\tarantool\src\lib\uri\CMakeLists.txt,1,1.0,8.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\utf8.h,4,30.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\func.test.lua,5,1.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\gh-5210-table-clear.test.lua,3,0.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\inspector.test.lua,3,0.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\app\app.lua,2,0.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\app\cmdline.test.lua,3,0.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\box\ddl_alter.test.lua,0,1.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-5422-broken_snapshot.lua,2,0.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-5610-dirty-restart.lua,2,0.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-6293-implement-new-net-stat.lua,3,0.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-6480-crash-if-box-cfg-listen-is-woken-up.test.lua,2,0.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\box\hash_32bit_insert.test.lua,3,5.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\box\lua\cfg_rtree.lua,0,0.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\box\lua\cfg_test2.lua,2,0.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\box\lua\cfg_test5.lua,2,0.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\box\lua\cfg_test6.lua,2,0.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_gibberish_gh-3900.test.lua,1,4.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_index_unique_flag_gh-4091.test.lua,4,3.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_iproto_hangs_gh-3464.test.lua,1,4.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_password_gh-1545.test.lua,1,1.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\engine\params.test.lua,4,3.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\replication-py\panic.lua,1,0.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\replication-py\replica.lua,1,0.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5213-replica.lua,2,0.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5430-mvcc-master.lua,3,0.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-6034-election-promote-bump-term.test.lua,4,4.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-6127-replica.lua,1,0.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\replication\master.lua,1,0.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\sql\app.lua,2,0.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\sql\gh-4745-table-info-assertion.test.lua,0,4.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\sql\select-null.test.lua,6,7.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\bad_run_indexes.lua,3,0.0,8.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\replica_quota.lua,2,0.0,8.0
+tarantool,INI,D:\clones\tarantool\test\xlog-py\suite.ini,0,0.0,8.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\crc32_impl.h,3,0.0,8.0
+tarantool,YAML,D:\clones\tarantool\.github\ISSUE_TEMPLATE\config.yml,0,0.0,7.0
+tarantool,Markdown,D:\clones\tarantool\.github\actions\environment\README.md,4,0.0,7.0
+tarantool,Markdown,D:\clones\tarantool\.github\actions\pack_and_deploy\README.md,4,0.0,7.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\add-libunwind-submodule.md,1,0.0,7.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\change-transaction-behaviour-after-rollback-on-yield.md,1,0.0,7.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-4470-explicit-cast.md,1,0.0,7.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5429-bump-tarantool-common-luarocks.md,2,0.0,7.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5814-memprof-group-allocation-on-traces.md,1,0.0,7.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5941-datetime-type-support.md,1,0.0,7.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6177-implement-txn-timeout-for-iproto-transactions.md,1,0.0,7.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6221-re-introduce-scalar-and-number-types.md,1,0.0,7.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6242-net-box-drop-conn-timeout.md,3,0.0,7.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6485-bug-of-decimal.md,1,0.0,7.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6923-interval-arithmetic.md,2,0.0,7.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\luajit-gdb-py-fixes.md,1,0.0,7.0
+tarantool,diff,D:\clones\tarantool\extra\packpack-dont-decline-custom-version.patch,1,10.0,7.0
+tarantool,C,D:\clones\tarantool\src\lib\core\tt_compression.c,2,5.0,7.0
+tarantool,CMake,D:\clones\tarantool\src\lib\fakesys\CMakeLists.txt,1,0.0,7.0
+tarantool,C,D:\clones\tarantool\src\lua\tnt_readline.c,2,30.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\app-luatest\gh_5747_crash_multiple_args_test.lua,1,0.0,7.0
+tarantool,C,D:\clones\tarantool\test\app\loaderslib.c,1,0.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\box\ddl_collation_field_def_gh-2937.test.lua,0,3.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\box\ddl_custom_fields_gh-2839.test.lua,0,3.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-6167-select-with-dict.test.lua,0,1.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\box\hash_string_insert.test.lua,2,4.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\box\hash_with_function.test.lua,1,1.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\box\lua\cfg_bad_vinyl_dir.lua,2,0.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\box\lua\cfg_memory.lua,3,0.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\box\lua\cfg_test1.lua,2,0.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\box\lua\cfg_test8.lua,2,0.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_wait_connected_gh-3856.test.lua,1,3.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\box\simple-tuple-size-increasing.lua,3,0.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\box\sql-update-with-nested-select.test.lua,7,8.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\engine\gh-5093-before_replace-key-type.test.lua,1,0.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\engine_long\delete_insert.test.lua,0,0.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\replication-py\failed.lua,2,0.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\replication-py\uuid_mismatch.lua,2,0.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\replication\replica_rejoin.lua,2,2.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\sql\check-clear-ephemeral.test.lua,5,7.0,7.0
+tarantool,SQL,D:\clones\tarantool\test\sql\gh-4697-scalar-bool-sort-cmp.test.sql,1,5.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\errinj_recovery.lua,3,0.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\force_recovery.lua,2,0.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\gh-5005-upsert-affecting-pk.test.lua,1,4.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\low_quota.lua,3,0.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\big_tx.test.lua,4,0.0,7.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\replica.lua,2,4.0,7.0
+tarantool,make,D:\clones\tarantool\third_party\libeio\Makefile.am,7,1.0,7.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5601-cluster-mvcc-duplicate.md,1,0.0,6.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5815-memprof-enrich-symtab.md,1,0.0,6.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6027-applier-lost-error.md,1,0.0,6.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6106-remove-sql-built-ins-from-_func.md,1,0.0,6.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6129-raft-resign-during-wal.md,1,0.0,6.0
+tarantool,Bourne Shell,D:\clones\tarantool\debian\tarantool.prerm,2,1.0,6.0
+tarantool,CMake,D:\clones\tarantool\src\lib\json\CMakeLists.txt,1,0.0,6.0
+tarantool,CMake,D:\clones\tarantool\src\lib\vclock\CMakeLists.txt,0,0.0,6.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\httpc.h,3,30.0,6.0
+tarantool,CMake,D:\clones\tarantool\test\app-tap\CMakeLists.txt,1,2.0,6.0
+tarantool,Lua,D:\clones\tarantool\test\box\alter-primary-index-tuple-leak-long.lua,2,0.0,6.0
+tarantool,Lua,D:\clones\tarantool\test\box\backup_test.lua,2,0.0,6.0
+tarantool,Lua,D:\clones\tarantool\test\box\box-cfg-unix-socket-del.lua,2,0.0,6.0
+tarantool,Lua,D:\clones\tarantool\test\box\ddl_collation_wrong_id.test.lua,0,1.0,6.0
+tarantool,Lua,D:\clones\tarantool\test\box\gh-4770-broken-pairs-for-space-objects.test.lua,0,7.0,6.0
+tarantool,Lua,D:\clones\tarantool\test\box\hash_iterate.test.lua,0,0.0,6.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_session_type_gh-2642.test.lua,2,3.0,6.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_yield_in_gc_gh-6617.test.lua,0,3.0,6.0
+tarantool,Lua,D:\clones\tarantool\test\engine\gh-5132-multikey-index-assert.test.lua,3,0.0,6.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5806-master.lua,2,0.0,6.0
+tarantool,INI,D:\clones\tarantool\test\unit\suite.ini,0,0.0,6.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\stat.lua,2,0.0,6.0
+tarantool,Lua,D:\clones\tarantool\test\vinyl\stress.test.lua,5,0.0,6.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\force_recovery.lua,2,0.0,6.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\gh1433.test.lua,0,0.0,6.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\upgrade.lua,2,0.0,6.0
+tarantool,Bourne Shell,D:\clones\tarantool\third_party\libev\update_ev_c,2,1.0,6.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\box-runtime-info-tuple.md,2,0.0,5.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\drop-net-box-console.md,3,0.0,5.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\fix-undeleted-unix-socket-path-and-multiple-socket-closing.md,1,0.0,5.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-3554-several-listening-sockets.md,1,0.0,5.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-4230-implicit-cast-for-comparison.md,1,0.0,5.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-4470-implicit-cast-for-assignment.md,1,0.0,5.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-4501-vinyl-disable-deferred-deletes.md,1,0.0,5.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-4617-fix-lua-stack-usage-while-results-encoding.md,1,0.0,5.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5430-promote-quorum-crash.md,1,0.0,5.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5447-downstream-lag.md,1,0.0,5.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5568-readonly-reason.md,1,0.0,5.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5613-bootstrap-prefer-booted.md,1,0.0,5.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5813-resolving-of-c-symbols.md,1,0.0,5.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6046-fiber-join-misuse.md,1,0.0,5.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6069-json-update-crash.md,1,0.0,5.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6094-rs-uuid-mismatch.md,1,0.0,5.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6177-implement-txn-timeout.md,1,0.0,5.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6253-net-box-iproto-id.md,1,0.0,5.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6293-implement-detailed-iproto-requests-stats.md,1,0.0,5.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6338-close-without-losing-requests.md,1,0.0,5.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6754-term-bump-before-promote.md,1,0.0,5.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6794-recover-1.6-xlogs.md,1,0.0,5.0
+tarantool,CMake,D:\clones\tarantool\src\lib\bit\CMakeLists.txt,1,0.0,5.0
+tarantool,CMake,D:\clones\tarantool\src\lib\csv\CMakeLists.txt,1,0.0,5.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\lua\require_mod.lua,2,0.0,5.0
+tarantool,Lua,D:\clones\tarantool\test\app\on_shutdown.lua,2,0.0,5.0
+tarantool,Lua,D:\clones\tarantool\test\app\strict.test.lua,0,0.0,5.0
+tarantool,INI,D:\clones\tarantool\test\box-luatest\suite.ini,0,0.0,5.0
+tarantool,Lua,D:\clones\tarantool\test\box\ddl_collation_types.test.lua,0,1.0,5.0
+tarantool,INI,D:\clones\tarantool\test\engine-luatest\suite.ini,0,0.0,5.0
+tarantool,INI,D:\clones\tarantool\test\replication-luatest\suite.ini,0,0.0,5.0
+tarantool,Lua,D:\clones\tarantool\test\sql\gh-4111-format-in-sysview.test.lua,3,5.0,5.0
+tarantool,SQL,D:\clones\tarantool\test\sql\gh-4256-do-not-change-order-during-insertion.test.sql,0,8.0,5.0
+tarantool,Lua,D:\clones\tarantool\test\sql\upgrade\upgrade.lua,2,0.0,5.0
+tarantool,Bourne Shell,D:\clones\tarantool\apk\tarantool.pre-install,2,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\election-timeout-cfg-crash.md,1,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\fiber-custom-stack-leak.md,1,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\fiber-parent-backtrace.md,1,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-4415-introduce-decimal.md,1,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-4669-applier-reconfig-reconnect.md,1,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5819-election-triggers.md,1,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5846-fiber-id.md,0,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6036-applier-fix-race.md,1,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6050-gc-global-buf-json.md,1,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6057-qsync-confirm-async-no-wal.md,1,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6105-built-in-functions-args.md,2,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6239-fix-double-for-quote.md,2,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6248-fix-lua-api-misuse-while-results-encoding.md,1,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6250-net-box-add-missing-broadcast-to-future-discard.md,1,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6253-iproto-id.md,1,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6259-static-buf-in-lua.md,1,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6266-fix-crash-in-lua-triggers.md,1,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6293-iproto-streams-stats.md,1,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6329-applier-in-thread.md,1,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6428-drop-error-marshaling-session-setting.md,1,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6433-msgpack-encode-error-cfg.md,1,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6780-before-replace-assertion-fail.md,1,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6842-qsync-assertions.md,1,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-7014-session-disconnect-peer.md,1,0.0,4.0
+tarantool,CMake,D:\clones\tarantool\doc\man\CMakeLists.txt,0,0.0,4.0
+tarantool,CMake,D:\clones\tarantool\src\lib\crypto\CMakeLists.txt,1,0.0,4.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\module_footer.h,1,0.0,4.0
+tarantool,Lua,D:\clones\tarantool\test\app-tap\logger_pipe.test.lua,1,0.0,4.0
+tarantool,Lua,D:\clones\tarantool\test\box-py\args.lua,1,0.0,4.0
+tarantool,Lua,D:\clones\tarantool\test\box\hash_gh-1467.test.lua,1,1.0,4.0
+tarantool,Lua,D:\clones\tarantool\test\box\hash_gh-616.test.lua,0,3.0,4.0
+tarantool,Lua,D:\clones\tarantool\test\box\hash_not_a_multikey.test.lua,1,1.0,4.0
+tarantool,Lua,D:\clones\tarantool\test\box\net.box_timeout_gh-1533.test.lua,1,1.0,4.0
+tarantool,INI,D:\clones\tarantool\test\vinyl-luatest\suite.ini,0,0.0,4.0
+tarantool,Bourne Shell,D:\clones\tarantool\third_party\libev\update_symbols,3,0.0,4.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\add-check-for-user-input-of-the-number-of-iproto-threads.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\add-http2-support-for-http-client.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\add-xxhash-to-digest-module.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\fiber-access-optimization.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\func-multikey-opt-without-sub-table.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-2717-noquit-on-sigint.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-3349-func-takes-raw-args.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-4040-invalid-msgpack.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-4675-move-info-messages-to-info-logging-level.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-4762-introduce-array-to-sql.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-4789-net-box-fetch-schema.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-4861-net-box-return-raw.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5118-fix-inconsistent-renames.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5316-msgpack-object.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5335-remove-wrong-double-to-int-cast.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5436-vylog-gc-during-compaction.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5679-memprof-report-jit-allocations-as-internal.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5747-crash-multiple-args.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5799-add-info-to-fiber-object.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5998-disallow-yields-ddl.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6018-election-boot-voter.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6045-missing-tuples-in-sk.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6074-add-fedora-34.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6092-invalid-listen-address-make-tarantool-blind.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6095-mvcc-ephemeral-spaces.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6113-fix-segfault-in-hex-func.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6127-election-join-new.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6132-mvcc-lost-tuple-after-conflict-exception.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6140-fix-mvcc-crash-in-ddl-rollback.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6144-incorrect-timeout-error.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6157-fix-error-on-copy-empty-str.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6176-type-mistmatch-description.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6198-max-cnt-of-tuple-fields-insert-overflow-error-msg.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6199-schema-priv-resolve-existence-check.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6217-fix-net-box-connect-error.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6225-cast-of-small-negative-double-to-int.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6227-fix-bytecode-register-allocator.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6241-net-box-rewrite-in-C.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6247-broken-error-message.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6257-box-watcher.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6260-add-builtin-events.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6292-fix-dropping-messages-in-case-when-connection-closing.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6293-iproto-thread-stats.md,2,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6295-assert-on-wrong-insert-into-_priv.md,2,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6299-do-not-lose-collate-in-trim.md,2,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6305-net-box-autocomplete.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6332-crash-on-replace-in-schema.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6356-literals-for-decimal.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6371-fix-string.char-recording-wo-args.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6375-fix-assert-on-unsupported-ext.md,2,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6390-resolve-lintian-warnings.md,2,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6393-bump-debian-compat.md,2,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6483-default-type-for-builtins.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6520-fix-box-session-push-crash.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6535-fix-error-in-listening-to-numerical-uri-after-listening-to-unix-socket.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6554-fix-gc-removing-inprogress-xlogs.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6568-replica-initial-join-removal-of-compacted-run-files.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6664-limit-in-oder-by.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6686-build-with-glibc-2-34.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6778-vinyl-recovery-crash.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6786-func-index-iterator-stable.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6920-fix-crash-in-on-replace-triggers.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6961-foreign-key-same-space.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6988-support-of-int-dec-to-round.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-7005-session-on-commit-rollback.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh_6344_mvcc_txm_story_gc_breaks_memtx_tree_iter.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\introduce-table-equals.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\luajit-fix-frame-traversal-for-__gc-handler-frames.md,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\doc\README.md,0,0.0,3.0
+tarantool,CMake,D:\clones\tarantool\src\lib\salad\CMakeLists.txt,0,0.0,3.0
+tarantool,C/C++ Header,D:\clones\tarantool\src\lua\swim.h,1,30.0,3.0
+tarantool,Lua,D:\clones\tarantool\test\box\ddl_collation_deleted_gh-3290.test.lua,0,4.0,3.0
+tarantool,Lua,D:\clones\tarantool\test\box\ddl_no_collation.test.lua,0,1.0,3.0
+tarantool,CMake,D:\clones\tarantool\test\sql-luatest\CMakeLists.txt,0,0.0,3.0
+tarantool,INI,D:\clones\tarantool\test\sql-luatest\suite.ini,0,0.0,3.0
+tarantool,C,D:\clones\tarantool\test\unit\core_test_utils.c,1,33.0,3.0
+tarantool,C/C++ Header,D:\clones\tarantool\third_party\lua-yaml\b64.h,1,0.0,3.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\bump-openssl-to-111n.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\debian-remove-binutils-dependency.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\drop-ubuntu-trusty.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\fix-error-on-return-bin-from-funcs.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-2579-introduce-custom-aggregates.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-3174-introduce-type-any-to-sql.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-4235-dont-show-idle-in-fiber-info.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-4717-binding-for-decimal.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-4909-update-libev.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5385-tiny-tuples-v3.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5389-fix-assertion-during-grant.md,2,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5515-some-mvcc-crash.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5756-remove-implicit-cast-in-arithmetic.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5799-set-csw-is-0-for-new-fibers.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5892-segmentaion-fault-in-mvcc.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5924-iproto-graceful-shutdown.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5956-remove-field-types-from-mem.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5958-rollbacked-replace-background-built-index.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-5977-build-index-in-background-with-hash-primary.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6025-box.on_commit-leak.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6031-relay-use-after-free.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6040-hash-select-not-tracked-by-mvcc.md,2,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6060-enable-backtrace-feature-on-aarch64.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6086-log-cfg-must-not-be-updated-on-box-cfg-error.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6101-httpc-reset-headers-on-redirect.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6131-fix-crash-update-conflict.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6137-index-creation-in-tx.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6150-memtx-mvcc-memory-monitoring.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6165-multibyte-fselect.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6167-select-with-dict.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6193-assertion-with-mass-replace.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6203-implement-fiber-join-with-timeout.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6206-repeat-read-violation.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6220-reduce-snapshot-verbosity.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6224-lj-dualnum-luajit-gdb.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6229-crash-in-snapshot-with-uncommitted-transaction.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6234-mvcc-suspicious-tuning.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6246-differen-behaviour-of-select.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6249-fix-console-connection-breakage-on-timeout.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6257-iproto-watcher.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6257-net-box-watcher.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6263-fix-dirty-read-after-alter.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6274-mvcc-crash-after-space-drop.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6290-background-alter-primary-key-memory-leak.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6310-grant-rw-access-on-_session_settings-space-to-public-role.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6325-not-serializable-read-before-rollback.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6355-introduce-decimal-to-builtins.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6376-fix-incorrect-dec-inf-cmp.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6386-fix-table-equals-for-booleans.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6396-transaction-public-id.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6405-discarding-arguments-in-box-func-call.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6421-wrong-count.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6431-fix-crash-while-encoding-error.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6436-implement-constraints.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6452-mvcc-crash-in-prepare.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6480-crash-if-box-cfg-listen-is-woken-up.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6501-attempt-to-index-local-opts.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6692-fedora-35-ci.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6766-fix-error-in-extension-via-netbox.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6773-datetime-sql-builtin-functions.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6773-introduce-field-type-interval.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6789-fix-memleak-in-vdbe.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6817-console-memory-leak.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6930-isolation-level.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6966-readonly-bootstrap.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\gh-6983-fix-command-in-help-messages.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\inherit-strict-mode-for-tap-subtests.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\introduce-uuid-to-sql.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\luajit-fix-ir-bufput.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\luajit-fix-maxirconst-limit.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\luarocks-disable-force-config.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\make-uuid-part-of-scalar.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\show-linking-in-tarantool-info.md,1,0.0,2.0
+tarantool,Markdown,D:\clones\tarantool\changelogs\unreleased\update-libicu-static-build.md,1,0.0,2.0
+tarantool,SVG,D:\clones\tarantool\doc\rfc\3328-wire_protocol_img1.svg,0,0.0,2.0
+tarantool,Bourne Shell,D:\clones\tarantool\extra\apigen,1,0.0,2.0
+tarantool,CMake,D:\clones\tarantool\src\lib\coll\CMakeLists.txt,0,0.0,2.0
+tarantool,C,D:\clones\tarantool\src\lib\core\assoc.c,0,30.0,2.0
+tarantool,CMake,D:\clones\tarantool\src\lib\mpstream\CMakeLists.txt,0,0.0,2.0
+tarantool,CMake,D:\clones\tarantool\src\lib\tzcode\CMakeLists.txt,0,0.0,2.0
+tarantool,CMake,D:\clones\tarantool\test\app\CMakeLists.txt,0,0.0,2.0
+tarantool,Lua,D:\clones\tarantool\test\app\gh-4775-crash-args-l-e.test.lua,0,6.0,2.0
+tarantool,CMake,D:\clones\tarantool\test\box-tap\CMakeLists.txt,1,1.0,2.0
+tarantool,Lua,D:\clones\tarantool\test\box\lua\simple_instance.lua,1,0.0,2.0
+tarantool,Lua,D:\clones\tarantool\test\engine\conflict.test.lua,2,0.0,2.0
+tarantool,C,D:\clones\tarantool\test\unit\mhash_bytemap.c,0,0.0,2.0
+tarantool,Bourne Shell,D:\clones\tarantool\third_party\libev\autogen.sh,1,0.0,2.0
+tarantool,C,D:\clones\tarantool\third_party\tarantool_eio.c,0,28.0,2.0
+tarantool,CMake,D:\clones\tarantool\doc\CMakeLists.txt,0,0.0,1.0
+tarantool,CMake,D:\clones\tarantool\src\lib\http_parser\CMakeLists.txt,0,0.0,1.0
+tarantool,C,D:\clones\tarantool\src\pickle.c,1,30.0,1.0
+tarantool,Lua,D:\clones\tarantool\test\app\loaders.lua,0,0.0,1.0
+tarantool,Lua,D:\clones\tarantool\test\replication\anon2.lua,0,0.0,1.0
+tarantool,Lua,D:\clones\tarantool\test\replication\autobootstrap3.lua,0,0.0,1.0
+tarantool,Lua,D:\clones\tarantool\test\replication\autobootstrap_anon2.lua,0,0.0,1.0
+tarantool,Lua,D:\clones\tarantool\test\replication\autobootstrap_guest3.lua,0,0.0,1.0
+tarantool,Lua,D:\clones\tarantool\test\replication\ddl4.lua,0,0.0,1.0
+tarantool,Lua,D:\clones\tarantool\test\replication\election_replica3.lua,0,0.0,1.0
+tarantool,Lua,D:\clones\tarantool\test\replication\er_load2.lua,0,0.0,1.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-5430-mvcc-replica2.lua,0,0.0,1.0
+tarantool,Lua,D:\clones\tarantool\test\replication\gh-6035-replica2.lua,0,0.0,1.0
+tarantool,Lua,D:\clones\tarantool\test\replication\master1.lua,0,0.0,1.0
+tarantool,Lua,D:\clones\tarantool\test\replication\master_quorum2.lua,0,0.0,1.0
+tarantool,Lua,D:\clones\tarantool\test\replication\on_replace2.lua,0,0.0,1.0
+tarantool,Lua,D:\clones\tarantool\test\replication\rebootstrap2.lua,0,0.0,1.0
+tarantool,Lua,D:\clones\tarantool\test\replication\replica2.lua,0,0.0,1.0
+tarantool,Lua,D:\clones\tarantool\test\replication\replica_uuid_ro3.lua,0,0.0,1.0
+tarantool,Lua,D:\clones\tarantool\test\replication\replica_uuid_rw3.lua,0,0.0,1.0
+tarantool,Python,D:\clones\tarantool\test\test-run.py,0,0.0,1.0
+tarantool,Lua,D:\clones\tarantool\test\xlog\upgrade\1.7.5\gh-5894-pre-1.7.7-upgrade\fill.lua,0,0.0,1.0

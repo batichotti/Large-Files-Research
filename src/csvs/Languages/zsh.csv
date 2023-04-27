@@ -1,0 +1,17 @@
+project,language,filename,blank,comment,code
+vscode,zsh,D:\clones\vscode\src\vs\workbench\contrib\terminal\browser\media\shellIntegration-rc.zsh,18,12.0,89.0
+fastlane,zsh,D:\clones\fastlane\fastlane\lib\assets\completions\completion.zsh,5,2.0,17.0
+Quick,zsh,D:\clones\Quick\script\build_docs.zsh,8,7.0,33.0
+vscode,zsh,D:\clones\vscode\src\vs\workbench\contrib\terminal\browser\media\shellIntegration-env.zsh,0,4.0,10.0
+mpv,zsh,D:\clones\mpv\etc\_mpv.zsh,50,54.0,146.0
+you-get,zsh,D:\clones\you-get\you-get.plugin.zsh,0,0.0,3.0
+ripgrep,zsh,D:\clones\ripgrep\ci\test-complete,16,14.0,67.0
+ruby,zsh,D:\clones\ruby\misc\rb_optparse.zsh,3,20.0,16.0
+vscode,zsh,D:\clones\vscode\src\vs\workbench\contrib\terminal\browser\media\shellIntegration-profile.zsh,0,4.0,6.0
+FiraCode,zsh,D:\clones\FiraCode\script\check_widths,1,0.0,2.0
+FiraCode,zsh,D:\clones\FiraCode\script\everything,1,1.0,7.0
+leiningen,zsh,D:\clones\leiningen\zsh_completion.zsh,9,6.0,55.0
+git,zsh,D:\clones\git\contrib\completion\git-completion.zsh,41,21.0,232.0
+fzf,zsh,D:\clones\fzf\shell\completion.zsh,36,67.0,226.0
+fzf,zsh,D:\clones\fzf\shell\key-bindings.zsh,11,19.0,90.0
+vscode,zsh,D:\clones\vscode\src\vs\workbench\contrib\terminal\browser\media\shellIntegration-login.zsh,0,4.0,5.0

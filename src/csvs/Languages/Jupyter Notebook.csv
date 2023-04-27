@@ -1,0 +1,168 @@
+project,language,filename,blank,comment,code
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\lite\g3doc\convert\metadata_writer_tutorial.ipynb,0,722.0,125.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\python\autograph\g3doc\reference\_control_flow_tutorial.ipynb,0,653.0,209.0
+caffe,Jupyter Notebook,D:\clones\caffe\examples\siamese\mnist_siamese.ipynb,0,1878.0,31.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_103A_MNIST_DataLoader.ipynb,0,228.0,91.0
+models,Jupyter Notebook,D:\clones\models\research\object_detection\colab_tutorials\inference_tf2_colab.ipynb,0,292.0,178.0
+models,Jupyter Notebook,D:\clones\models\research\slim\nets\mobilenet\mobilenet_example.ipynb,0,396.0,52.0
+models,Jupyter Notebook,D:\clones\models\research\object_detection\colab_tutorials\generate_ssd_anchor_box_aspect_ratios_using_k_means_clustering.ipynb,0,344.0,121.0
+models,Jupyter Notebook,D:\clones\models\research\audioset\yamnet\yamnet_visualization.ipynb,0,102.0,172.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\lite\examples\experimental_new_converter\Keras_LSTM_fusion_Codelab.ipynb,0,175.0,49.0
+spark,Jupyter Notebook,D:\clones\spark\python\docs\source\getting_started\quickstart_df.ipynb,0,1080.0,97.0
+models,Jupyter Notebook,D:\clones\models\official\projects\edgetpu\vision\serving\inference_visualization_tool.ipynb,0,126.0,183.0
+incubator-mxnet,Jupyter Notebook,D:\clones\incubator-mxnet\example\adversary\adversary_generation.ipynb,0,165.0,195.0
+models,Jupyter Notebook,D:\clones\models\research\object_detection\colab_tutorials\context_rcnn_tutorial.ipynb,0,724.0,776.0
+models,Jupyter Notebook,D:\clones\models\research\object_detection\colab_tutorials\deepmac_colab.ipynb,0,149.0,192.0
+models,Jupyter Notebook,D:\clones\models\research\object_detection\colab_tutorials\convert_odt_model_to_TFLite.ipynb,0,339.0,74.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\lite\g3doc\tutorials\model_maker_image_classification.ipynb,0,852.0,72.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\String Widgets.ipynb,0,828.0,81.0
+pandoc,Jupyter Notebook,D:\clones\pandoc\test\ipynb\mime.ipynb,0,157.0,30.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-juicypixels\test.ipynb,0,51.0,6.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Controller.ipynb,0,49.0,9.0
+pandoc,Jupyter Notebook,D:\clones\pandoc\test\ipynb\rank.ipynb,0,57.0,3.0
+models,Jupyter Notebook,D:\clones\models\research\object_detection\colab_tutorials\centernet_on_device.ipynb,0,225.0,537.0
+incubator-mxnet,Jupyter Notebook,D:\clones\incubator-mxnet\example\multi-task\multi-task-learning.ipynb,0,155.0,320.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_106B_LSTM_Timeseries_with_IOT_Data.ipynb,0,535.0,138.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_208_Speech_Connectionist_Temporal_Classification.ipynb,0,210.0,80.0
+spark,Jupyter Notebook,D:\clones\spark\python\docs\source\getting_started\quickstart_ps.ipynb,0,14414.0,75.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Layout and Style.ipynb,0,498.0,25.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Media Widgets.ipynb,0,297.0,26.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-charts\Test.ipynb,0,326.0,26.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\00 Introduction to Widgets.ipynb,0,381.0,27.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Picker Widgets.ipynb,0,309.0,29.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_207_Training_with_Sampled_Softmax.ipynb,0,430.0,199.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\python\ops\numpy_ops\g3doc\TensorFlow_NumPy_Keras_and_Distribution_Strategy.ipynb,0,263.0,55.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Widget List.ipynb,0,806.0,294.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Link Widgets.ipynb,0,611.0,32.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Bool Widgets.ipynb,0,637.0,80.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Numeric Widgets.ipynb,0,762.0,79.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\test\acceptance.nbconvert.in.ipynb,0,1196.0,69.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Selection Widgets.ipynb,0,409.0,57.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\notebooks\Gradient-Descent.ipynb,0,335.0,103.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\notebooks\Homophones.ipynb,0,498.0,127.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_302A_Evaluation_of_Pretrained_Super-resolution_Models.ipynb,0,497.0,195.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Box Widgets.ipynb,0,454.0,47.0
+xgboost,Jupyter Notebook,D:\clones\xgboost\demo\CLI\distributed-training\plot_model.ipynb,0,96.0,11.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\lite\g3doc\examples\super_resolution\overview.ipynb,0,308.0,45.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\notebooks\Static Canvas IHaskell Display.ipynb,0,276.0,38.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\notebooks\IHaskell.ipynb,0,1812.0,137.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Output Widget.ipynb,0,906.0,36.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Plotting UI.ipynb,0,654.0,180.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\notebooks\Conjugate Gradient.ipynb,0,405.0,135.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_103B_MNIST_LogisticRegression.ipynb,0,664.0,125.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_102_FeedForward.ipynb,0,775.0,118.0
+models,Jupyter Notebook,D:\clones\models\research\seq_flow_lite\demo\colab\emotion_colab.ipynb,0,365.0,465.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\python\ops\numpy_ops\g3doc\TensorFlow_NumPy_Text_Generation.ipynb,0,815.0,273.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_103C_MNIST_MultiLayerPerceptron.ipynb,0,661.0,130.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Manual\Manual_How_to_use_network_optimizations.ipynb,0,328.0,26.0
+incubator-mxnet,Jupyter Notebook,D:\clones\incubator-mxnet\example\recommenders\demo2-dssm.ipynb,0,207.0,343.0
+xgboost,Jupyter Notebook,D:\clones\xgboost\demo\gpu_acceleration\shap.ipynb,0,179.0,32.0
+incubator-mxnet,Jupyter Notebook,D:\clones\incubator-mxnet\example\recommenders\demo1-MF.ipynb,0,642.0,505.0
+models,Jupyter Notebook,D:\clones\models\official\colab\nlp\nlp_modeling_library_intro.ipynb,0,488.0,71.0
+incubator-mxnet,Jupyter Notebook,D:\clones\incubator-mxnet\example\MXNetTutorialTemplate.ipynb,0,457.0,0.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_106A_LSTM_Timeseries_with_Simulated_Data.ipynb,0,473.0,108.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\FunctionalAPI\CNTK_200_GuidedTour.ipynb,0,991.0,205.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_206A_Basic_GAN.ipynb,0,571.0,132.0
+pandoc,Jupyter Notebook,D:\clones\pandoc\test\ipynb\simple.ipynb,0,62.0,29.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\lite\g3doc\guide\signatures.ipynb,0,436.0,65.0
+models,Jupyter Notebook,D:\clones\models\research\object_detection\colab_tutorials\eager_few_shot_od_training_tflite.ipynb,0,438.0,292.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Manual\Manual_How_to_feed_data.ipynb,0,658.0,160.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Manual\Manual_How_to_create_user_minibatch_sources.ipynb,0,350.0,132.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\CNTK_FastRCNN_Eval.ipynb,0,389.0,163.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_303_Deep_Structured_Semantic_Modeling_with_LSTM_Networks.ipynb,0,504.0,180.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-gnuplot\GnuplotExample.ipynb,0,358.0,4.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_205_Artistic_Style_Transfer.ipynb,0,306.0,176.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-diagrams\DiagramsExample.ipynb,0,204.0,3.0
+models,Jupyter Notebook,D:\clones\models\research\deeplab\deeplab_demo.ipynb,0,214.0,155.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\python\ops\numpy_ops\g3doc\TensorFlow_Numpy_Distributed_Image_Classification.ipynb,0,346.0,206.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_206B_DCGAN.ipynb,0,507.0,181.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\lite\g3doc\guide\model_analyzer.ipynb,0,216.0,34.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Manual\Manual_How_to_train_using_declarative_and_imperative_API.ipynb,0,374.0,136.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Manual\Manual_How_to_use_learners.ipynb,0,696.0,135.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_103D_MNIST_ConvolutionalNeuralNetwork.ipynb,0,907.0,172.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\lite\g3doc\performance\quantization_debugger.ipynb,0,718.0,138.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\compiler\xla\g3doc\tutorials\autoclustering_xla.ipynb,0,210.0,62.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_101_LogisticRegression.ipynb,0,725.0,110.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\lite\g3doc\guide\authoring.ipynb,0,281.0,62.0
+gitlabhq,Jupyter Notebook,D:\clones\gitlabhq\workhorse\testdata\file.ipynb,0,33.0,5.0
+pandoc,Jupyter Notebook,D:\clones\pandoc\test\ipynb\mime.out.ipynb,0,79.0,90.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\lite\g3doc\performance\post_training_float16_quant.ipynb,0,459.0,85.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Manual\Manual_How_to_write_a_custom_deserializer.ipynb,0,301.0,152.0
+ipython,Jupyter Notebook,D:\clones\ipython\tools\tests\ANSI Test.ipynb,0,496.0,64.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_301_Image_Recognition_with_Deep_Transfer_Learning.ipynb,0,884.0,356.0
+models,Jupyter Notebook,D:\clones\models\official\colab\decoding_api_in_tf_nlp.ipynb,0,382.0,100.0
+pandas,Jupyter Notebook,D:\clones\pandas\doc\source\user_guide\style.ipynb,0,1678.0,370.0
+caffe,Jupyter Notebook,D:\clones\caffe\examples\detection.ipynb,0,8291.0,101.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_302B_Image_Super-resolution_Using_CNNs_and_GANs.ipynb,0,1231.0,395.0
+models,Jupyter Notebook,D:\clones\models\research\object_detection\colab_tutorials\inference_from_saved_model_tf2_colab.ipynb,0,65.0,248.0
+ipython,Jupyter Notebook,D:\clones\ipython\examples\IPython Kernel\Trapezoid Rule.ipynb,0,950.0,21.0
+caffe,Jupyter Notebook,D:\clones\caffe\examples\00-classification.ipynb,0,687.0,93.0
+ipython,Jupyter Notebook,D:\clones\ipython\tools\tests\mpl-switch\Matplotlib Switching.ipynb,0,647.0,7.0
+ipython,Jupyter Notebook,D:\clones\ipython\examples\IPython Kernel\nbpackage\mynotebook.ipynb,0,62.0,7.0
+ipython,Jupyter Notebook,D:\clones\ipython\tools\tests\CSS Reference.ipynb,0,8168.0,25.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\lite\g3doc\tutorials\model_maker_object_detection.ipynb,0,760.0,100.0
+models,Jupyter Notebook,D:\clones\models\research\slim\slim_walkthrough.ipynb,0,734.0,407.0
+ipython,Jupyter Notebook,D:\clones\ipython\examples\IPython Kernel\Third Party Rich Output.ipynb,0,500.0,40.0
+ipython,Jupyter Notebook,D:\clones\ipython\tools\tests\Confined Output.ipynb,0,299.0,8.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\lite\g3doc\tutorials\pose_classification.ipynb,0,870.0,492.0
+models,Jupyter Notebook,D:\clones\models\tensorflow_models\tensorflow_models_pypi.ipynb,0,301.0,38.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\python\autograph\g3doc\pyct_tutorial.ipynb,0,364.0,118.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\lite\g3doc\tutorials\model_maker_text_classification.ipynb,0,816.0,79.0
+ipython,Jupyter Notebook,D:\clones\ipython\examples\IPython Kernel\Custom Display Logic.ipynb,0,818.0,158.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_105_Basic_Autoencoder_for_Dimensionality_Reduction.ipynb,0,888.0,243.0
+ipython,Jupyter Notebook,D:\clones\ipython\examples\IPython Kernel\Raw Input in the Notebook.ipynb,0,142.0,9.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\lite\g3doc\examples\on_device_training\overview.ipynb,0,908.0,174.0
+incubator-mxnet,Jupyter Notebook,D:\clones\incubator-mxnet\example\bi-lstm-sort\bi-lstm-sort.ipynb,0,212.0,416.0
+caffe,Jupyter Notebook,D:\clones\caffe\examples\net_surgery.ipynb,0,6820.0,81.0
+models,Jupyter Notebook,D:\clones\models\official\projects\movinet\movinet_tutorial.ipynb,0,717.0,395.0
+ipython,Jupyter Notebook,D:\clones\ipython\examples\IPython Kernel\Importing Notebooks.ipynb,0,662.0,101.0
+caffe,Jupyter Notebook,D:\clones\caffe\examples\pascal-multilabel-with-datalayer.ipynb,0,371.0,108.0
+ipython,Jupyter Notebook,D:\clones\ipython\examples\IPython Kernel\Terminal Usage.ipynb,0,250.0,35.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_201A_CIFAR-10_DataLoader.ipynb,0,209.0,145.0
+models,Jupyter Notebook,D:\clones\models\official\projects\movinet\tools\plot_movinet_video_stream_predictions.ipynb,0,150.0,243.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\lite\g3doc\performance\post_training_quant.ipynb,0,487.0,85.0
+caffe,Jupyter Notebook,D:\clones\caffe\examples\02-fine-tuning.ipynb,0,916.0,259.0
+ipython,Jupyter Notebook,D:\clones\ipython\examples\IPython Kernel\Background Jobs.ipynb,0,370.0,34.0
+models,Jupyter Notebook,D:\clones\models\official\colab\nlp\customize_encoder.ipynb,0,486.0,112.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\compiler\xla\g3doc\tutorials\jit_compile.ipynb,0,235.0,36.0
+vscode,Jupyter Notebook,D:\clones\vscode\extensions\vscode-api-tests\testWorkspace\test.ipynb,0,43.0,10.0
+ipython,Jupyter Notebook,D:\clones\ipython\tools\tests\Markdown Pandoc Limitations.ipynb,0,2501.0,190.0
+models,Jupyter Notebook,D:\clones\models\research\nst_blogpost\4_Neural_Style_Transfer_with_Eager_Execution.ipynb,0,581.0,644.0
+ipython,Jupyter Notebook,D:\clones\ipython\examples\IPython Kernel\SymPy.ipynb,0,3897.0,83.0
+ipython,Jupyter Notebook,D:\clones\ipython\examples\Index.ipynb,0,61.0,0.0
+ipython,Jupyter Notebook,D:\clones\ipython\tools\tests\Test Output Callbacks.ipynb,0,255.0,36.0
+ipython,Jupyter Notebook,D:\clones\ipython\examples\IPython Kernel\Capturing Output.ipynb,0,475.0,30.0
+caffe,Jupyter Notebook,D:\clones\caffe\examples\01-learning-lenet.ipynb,0,1141.0,147.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_200_GuidedTour.ipynb,0,1015.0,219.0
+caffe,Jupyter Notebook,D:\clones\caffe\examples\brewing-logreg.ipynb,0,1033.0,131.0
+ILSpy,Jupyter Notebook,D:\clones\ILSpy\decompiler-nuget-demos.ipynb,0,281.0,24.0
+ipython,Jupyter Notebook,D:\clones\ipython\examples\Embedding\Index.ipynb,0,209.0,1.0
+ipython,Jupyter Notebook,D:\clones\ipython\examples\IPython Kernel\Beyond Plain Python.ipynb,0,2426.0,96.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\lite\examples\experimental_new_converter\keras_lstm.ipynb,0,196.0,38.0
+ipython,Jupyter Notebook,D:\clones\ipython\examples\IPython Kernel\Animations Using clear_output.ipynb,0,1333.0,26.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\lite\g3doc\performance\post_training_integer_quant.ipynb,0,598.0,106.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Manual\Manual_How_to_debug.ipynb,0,1781.0,149.0
+ipython,Jupyter Notebook,D:\clones\ipython\examples\IPython Kernel\nbpackage\nbs\other.ipynb,0,42.0,2.0
+ipython,Jupyter Notebook,D:\clones\ipython\examples\IPython Kernel\Index.ipynb,0,199.0,2.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\lite\g3doc\examples\jax_conversion\overview.ipynb,0,190.0,230.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_104_Finance_Timeseries_Basic_with_Pandas_Numpy.ipynb,0,849.0,248.0
+ipython,Jupyter Notebook,D:\clones\ipython\examples\IPython Kernel\Updating Displays.ipynb,0,316.0,21.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\lite\g3doc\tutorials\model_maker_question_answer.ipynb,0,605.0,26.0
+ipython,Jupyter Notebook,D:\clones\ipython\examples\IPython Kernel\Script Magics.ipynb,0,422.0,44.0
+ipython,Jupyter Notebook,D:\clones\ipython\examples\IPython Kernel\Cell Magics.ipynb,0,645.0,43.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_201B_CIFAR-10_ImageHandsOn.ipynb,0,1091.0,269.0
+ipython,Jupyter Notebook,D:\clones\ipython\examples\IPython Kernel\Working With External Code.ipynb,0,648.0,43.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_206C_WGAN_LSGAN.ipynb,0,700.0,266.0
+ipython,Jupyter Notebook,D:\clones\ipython\examples\IPython Kernel\Plotting in the Notebook.ipynb,0,2788.0,49.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_204_Sequence_To_Sequence.ipynb,0,1027.0,307.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_203_Reinforcement_Learning_Basics.ipynb,0,1043.0,271.0
+ipython,Jupyter Notebook,D:\clones\ipython\tools\tests\heartbeat\gilsleep.ipynb,0,58.0,14.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_202_Language_Understanding.ipynb,0,1264.0,262.0
+ipython,Jupyter Notebook,D:\clones\ipython\examples\IPython Kernel\Rich Output.ipynb,0,3169.0,144.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\lite\g3doc\examples\style_transfer\overview.ipynb,0,402.0,78.0
+models,Jupyter Notebook,D:\clones\models\research\object_detection\colab_tutorials\eager_few_shot_od_training_tf2_colab.ipynb,0,425.0,260.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\lite\g3doc\performance\post_training_integer_quant_16x8.ipynb,0,498.0,93.0
+models,Jupyter Notebook,D:\clones\models\research\object_detection\colab_tutorials\object_detection_tutorial.ipynb,0,543.0,92.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\lite\g3doc\tutorials\model_maker_speech_recognition.ipynb,0,717.0,192.0
+tensorflow,Jupyter Notebook,D:\clones\tensorflow\tensorflow\lite\g3doc\tutorials\model_maker_audio_classification.ipynb,0,526.0,119.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_599A_Sequence_To_Sequence.ipynb,0,934.0,273.0

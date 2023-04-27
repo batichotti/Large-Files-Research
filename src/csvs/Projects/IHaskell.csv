@@ -1,0 +1,186 @@
+project,language,filename,blank,comment,code
+IHaskell,JSON,D:\clones\IHaskell\jupyterlab-ihaskell\package-lock.json,0,0.0,6273.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskell\Eval\Evaluate.hs,222,167.0,1166.0
+IHaskell,Haskell,D:\clones\IHaskell\ipython-kernel\src\IHaskell\IPython\Types.hs,85,77.0,872.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Types.hs,126,122.0,752.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskell\Eval\Util.hs,58,60.0,414.0
+IHaskell,Haskell,D:\clones\IHaskell\main\Main.hs,68,74.0,325.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Widget List.ipynb,0,806.0,294.0
+IHaskell,Haskell,D:\clones\IHaskell\ghc-parser\generic-src\Language\Haskell\GHC\Parser.hs,47,49.0,293.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Singletons.hs,7,7.0,288.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskell\Eval\Completion.hs,56,28.0,248.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskell\Eval\Parser.hs,33,35.0,245.0
+IHaskell,Haskell,D:\clones\IHaskell\ipython-kernel\src\IHaskell\IPython\ZeroMQ.hs,42,73.0,234.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Common.hs,32,105.0,232.0
+IHaskell,Haskell,D:\clones\IHaskell\ipython-kernel\examples\Calc.hs,33,16.0,226.0
+IHaskell,Haskell,D:\clones\IHaskell\ipython-kernel\src\IHaskell\IPython\Message\Parser.hs,38,29.0,223.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskell\Types.hs,44,59.0,218.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskell\Eval\Hoogle.hs,46,12.0,216.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskell\Eval\Lint.hs,54,22.0,212.0
+IHaskell,Haskell,D:\clones\IHaskell\src\tests\IHaskell\Test\Parser.hs,51,0.0,190.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskell\Eval\Widgets.hs,45,27.0,187.0
+IHaskell,Haskell,D:\clones\IHaskell\src\tests\IHaskell\Test\Completion.hs,37,6.0,187.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskell\IPython.hs,33,22.0,186.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Plotting UI.ipynb,0,654.0,180.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Interactive.hs,49,14.0,180.0
+IHaskell,Haskell,D:\clones\IHaskell\ipython-kernel\src\IHaskell\IPython\EasyKernel.hs,35,48.0,179.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskell\Flags.hs,33,7.0,178.0
+IHaskell,Markdown,D:\clones\IHaskell\README.md,65,0.0,162.0
+IHaskell,Haskell,D:\clones\IHaskell\src\tests\IHaskell\Test\Eval.hs,31,4.0,160.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Layout\Types.hs,11,2.0,156.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\notebooks\IHaskell.ipynb,0,1812.0,137.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\notebooks\Conjugate Gradient.ipynb,0,405.0,135.0
+IHaskell,Haskell,D:\clones\IHaskell\ipython-kernel\examples\Simple.hs,19,1.0,134.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\notebooks\Homophones.ipynb,0,498.0,127.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskellPrelude.hs,32,2.0,125.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-gnuplot\IHaskell\Display\Gnuplot.hs,41,35.0,111.0
+IHaskell,Markdown,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\MsgSpec.md,42,0.0,109.0
+IHaskell,Nix,D:\clones\IHaskell\release-9.2.nix,3,3.0,108.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskell\Convert\LhsToIpynb.hs,19,3.0,108.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskell\Display.hs,36,55.0,104.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\notebooks\Gradient-Descent.ipynb,0,335.0,103.0
+IHaskell,Nix,D:\clones\IHaskell\release.nix,3,2.0,100.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-diagrams\IHaskell\Display\Diagrams\Animation.hs,31,8.0,98.0
+IHaskell,SVG,D:\clones\IHaskell\images\jupyterhaskell.svg,15,0.0,97.0
+IHaskell,YAML,D:\clones\IHaskell\.github\workflows\ci.yml,5,7.0,93.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskell\CSS.hs,2,4.0,92.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskell\Convert\Args.hs,10,6.0,91.0
+IHaskell,SVG,D:\clones\IHaskell\html\logo-64x64.svg,0,0.0,89.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-rlangqq\IHaskell\Display\Rlangqq.hs,13,4.0,89.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\String Widgets.ipynb,0,828.0,81.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Bool Widgets.ipynb,0,637.0,80.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Numeric Widgets.ipynb,0,762.0,79.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Output.hs,22,16.0,76.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskell\Publish.hs,14,13.0,72.0
+IHaskell,Markdown,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\README.md,16,0.0,69.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\test\acceptance.nbconvert.in.ipynb,0,1196.0,69.0
+IHaskell,Nix,D:\clones\IHaskell\flake.nix,20,1.0,68.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskell\IPython\Stdin.hs,15,31.0,65.0
+IHaskell,YAML,D:\clones\IHaskell\.github\workflows\docker.yml,1,0.0,61.0
+IHaskell,JavaScript,D:\clones\IHaskell\html\kernel.js,14,15.0,61.0
+IHaskell,Dockerfile,D:\clones\IHaskell\Dockerfile,19,17.0,59.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets.hs,14,9.0,59.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskell\Convert\IpynbToLhs.hs,12,2.0,59.0
+IHaskell,YAML,D:\clones\IHaskell\.github\workflows\nix.yml,1,1.0,57.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Selection Widgets.ipynb,0,409.0,57.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Controller\Controller.hs,15,7.0,57.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Layout\Common.hs,5,8.0,57.0
+IHaskell,Haskell,D:\clones\IHaskell\src\tests\IHaskell\Test\Hoogle.hs,5,2.0,56.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Float\BoundedFloatRange\FloatRangeSlider.hs,14,7.0,54.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Int\BoundedIntRange\IntRangeSlider.hs,14,7.0,54.0
+IHaskell,JSON,D:\clones\IHaskell\jupyterlab-ihaskell\labextension\package.json,0,0.0,54.0
+IHaskell,YAML,D:\clones\IHaskell\stack.yaml,4,7.0,52.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Float\BoundedFloat\FloatLogSlider.hs,14,7.0,51.0
+IHaskell,YAML,D:\clones\IHaskell\stack-8.2.yaml,5,1.0,51.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-diagrams\IHaskell\Display\Diagrams.hs,11,7.0,50.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Float\BoundedFloat\FloatSlider.hs,14,7.0,50.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Int\BoundedInt\IntSlider.hs,14,7.0,50.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Int\BoundedInt\Play.hs,14,7.0,50.0
+IHaskell,JSON,D:\clones\IHaskell\jupyterlab-ihaskell\package.json,0,0.0,50.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-magic\IHaskell\Display\Magic.hs,15,10.0,49.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Selection\SelectionRangeSlider.hs,14,6.0,49.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskell\Eval\ParseShell.hs,14,4.0,48.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Box Widgets.ipynb,0,454.0,47.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Float\BoundedFloat\BoundedFloatText.hs,14,7.0,47.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Float\FloatText.hs,14,7.0,47.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Int\BoundedInt\BoundedIntText.hs,14,7.0,47.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Int\IntText.hs,14,7.0,47.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Selection\SelectMultiple.hs,14,7.0,47.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Selection\SelectionSlider.hs,14,6.0,47.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Selection\ToggleButtons.hs,14,7.0,47.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\ColorPicker.hs,14,7.0,46.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\String\Combobox.hs,14,8.0,46.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\String\TextArea.hs,14,7.0,46.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Bool\ToggleButton.hs,14,7.0,45.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\DatePicker.hs,14,7.0,45.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Selection\Select.hs,14,7.0,45.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Bool\CheckBox.hs,14,7.0,44.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Button.hs,14,7.0,44.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Box\SelectionContainer\Accordion.hs,14,7.0,42.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Box\SelectionContainer\Tab.hs,15,7.0,42.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Media\Video.hs,14,7.0,41.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Selection\Dropdown.hs,14,7.0,41.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Selection\RadioButtons.hs,14,7.0,41.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\String\Password.hs,14,7.0,41.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\String\Text.hs,14,8.0,41.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskell\Eval\Inspect.hs,11,6.0,41.0
+IHaskell,YAML,D:\clones\IHaskell\stack-8.6.yaml,4,4.0,41.0
+IHaskell,YAML,D:\clones\IHaskell\stack-8.8.yaml,4,6.0,41.0
+IHaskell,YAML,D:\clones\IHaskell\stack-8.4.yaml,4,1.0,40.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Media\Audio.hs,14,7.0,39.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Float\BoundedFloat\FloatProgress.hs,14,7.0,38.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Int\BoundedInt\IntProgress.hs,14,7.0,38.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Media\Image.hs,14,7.0,38.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\notebooks\Static Canvas IHaskell Display.ipynb,0,276.0,38.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Controller\ControllerButton.hs,14,7.0,37.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Output Widget.ipynb,0,906.0,36.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Bool\Valid.hs,14,7.0,36.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Controller\ControllerAxis.hs,14,7.0,36.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Link\DirectionalLink.hs,15,9.0,36.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Link\Link.hs,15,9.0,36.0
+IHaskell,YAML,D:\clones\IHaskell\stack-8.0.yaml,4,1.0,36.0
+IHaskell,YAML,D:\clones\IHaskell\hie.yaml,0,0.0,34.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Style\ButtonStyle.hs,14,6.0,34.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Style\ToggleButtonsStyle.hs,14,6.0,34.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Style\ProgressStyle.hs,14,6.0,33.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Style\SliderStyle.hs,14,6.0,33.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Link Widgets.ipynb,0,611.0,32.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\String\HTML.hs,14,7.0,32.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\String\HTMLMath.hs,14,7.0,32.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\String\Label.hs,14,7.0,32.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-plot\IHaskell\Display\Plot.hs,9,3.0,31.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskell\Eval\Info.hs,5,1.0,31.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Box\Box.hs,14,7.0,30.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Box\GridBox.hs,14,7.0,30.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Box\HBox.hs,14,7.0,30.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Box\VBox.hs,14,7.0,30.0
+IHaskell,TypeScript,D:\clones\IHaskell\jupyterlab-ihaskell\src\codemirror-ihaskell.ts,3,4.0,30.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskell\Convert.hs,5,3.0,30.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Picker Widgets.ipynb,0,309.0,29.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Layout\LayoutWidget.hs,14,7.0,29.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Style\DescriptionStyle.hs,14,6.0,29.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-charts\IHaskell\Display\Charts.hs,10,4.0,28.0
+IHaskell,Markdown,D:\clones\IHaskell\ihaskell-display\ihaskell-magic\README.md,5,0.0,28.0
+IHaskell,Markdown,D:\clones\IHaskell\jupyterlab-ihaskell\README.md,14,0.0,28.0
+IHaskell,Haskell,D:\clones\IHaskell\src\IHaskell\BrokenPackages.hs,12,3.0,28.0
+IHaskell,Haskell,D:\clones\IHaskell\src\StringUtils.hs,7,0.0,28.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\00 Introduction to Widgets.ipynb,0,381.0,27.0
+IHaskell,Haskell,D:\clones\IHaskell\ghc-parser\src-8.0\Language\Haskell\GHC\HappyParser.hs,11,4.0,26.0
+IHaskell,Haskell,D:\clones\IHaskell\ghc-parser\src-8.10\Language\Haskell\GHC\HappyParser.hs,11,3.0,26.0
+IHaskell,Haskell,D:\clones\IHaskell\ghc-parser\src-9.0\Language\Haskell\GHC\HappyParser.hs,11,3.0,26.0
+IHaskell,Haskell,D:\clones\IHaskell\ghc-parser\src-9.2\Language\Haskell\GHC\HappyParser.hs,11,3.0,26.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-charts\Test.ipynb,0,326.0,26.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Media Widgets.ipynb,0,297.0,26.0
+IHaskell,JavaScript,D:\clones\IHaskell\jupyterlab-ihaskell\webpack.config.js,3,0.0,26.0
+IHaskell,Haskell,D:\clones\IHaskell\ghc-parser\src-8.4\Language\Haskell\GHC\HappyParser.hs,10,3.0,25.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-juicypixels\IHaskell\Display\Juicypixels.hs,11,0.0,25.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Layout and Style.ipynb,0,498.0,25.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-static-canvas\src\IHaskell\Display\StaticCanvas.hs,8,0.0,24.0
+IHaskell,Haskell,D:\clones\IHaskell\src\tests\IHaskell\Test\Util.hs,8,7.0,21.0
+IHaskell,XML,D:\clones\IHaskell\cabal.project,1,0.0,19.0
+IHaskell,Haskell,D:\clones\IHaskell\ipython-kernel\src\IHaskell\IPython\Message\UUID.hs,7,14.0,18.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-diagrams\IHaskell\Display\Diagrams\ImgSize.hs,7,0.0,17.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-graphviz\IHaskell\Display\Graphviz.hs,7,19.0,17.0
+IHaskell,Markdown,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\ChangeLog.md,12,0.0,17.0
+IHaskell,JSON,D:\clones\IHaskell\jupyterlab-ihaskell\tsconfig.json,0,0.0,16.0
+IHaskell,TypeScript,D:\clones\IHaskell\jupyterlab-ihaskell\src\index.ts,4,3.0,15.0
+IHaskell,Nix,D:\clones\IHaskell\release-9.0.nix,0,0.0,15.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-blaze\IHaskell\Display\Blaze.hs,4,0.0,14.0
+IHaskell,Haskell,D:\clones\IHaskell\src\tests\Hspec.hs,4,0.0,14.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-aeson\IHaskell\Display\Aeson.hs,5,0.0,13.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-hatex\IHaskell\Display\Hatex.hs,4,1.0,10.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\Examples\Controller.ipynb,0,49.0,9.0
+IHaskell,Nix,D:\clones\IHaskell\release-8.10.nix,0,0.0,9.0
+IHaskell,Bourne Shell,D:\clones\IHaskell\test\acceptance.nbconvert.sh,6,25.0,9.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-juicypixels\test.ipynb,0,51.0,6.0
+IHaskell,Haskell,D:\clones\IHaskell\ipython-kernel\src\IHaskell\IPython\Kernel.hs,1,2.0,5.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-gnuplot\GnuplotExample.ipynb,0,358.0,4.0
+IHaskell,Haskell,D:\clones\IHaskell\ihaskell-display\ihaskell-widgets\src\IHaskell\Display\Widgets\Layout.hs,1,0.0,4.0
+IHaskell,Jupyter Notebook,D:\clones\IHaskell\ihaskell-display\ihaskell-diagrams\DiagramsExample.ipynb,0,204.0,3.0
+IHaskell,Markdown,D:\clones\IHaskell\ihaskell-display\ihaskell-hatex\README.md,1,0.0,3.0
+IHaskell,JSON,D:\clones\IHaskell\jupyterlab-ihaskell\labextension\static\third-party-licenses.json,0,0.0,3.0
+IHaskell,Haskell,D:\clones\IHaskell\Setup.hs,1,0.0,2.0
+IHaskell,Nix,D:\clones\IHaskell\jupyterlab-ihaskell\shell.nix,0,0.0,2.0
+IHaskell,JavaScript,D:\clones\IHaskell\jupyterlab-ihaskell\labextension\static\568-1b6fb876268b3f3be3f4.js,0,0.0,1.0
+IHaskell,JavaScript,D:\clones\IHaskell\jupyterlab-ihaskell\labextension\static\remoteEntry-ddc4c9d791a676e50bb9.js,0,0.0,1.0
+IHaskell,JavaScript,D:\clones\IHaskell\jupyterlab-ihaskell\labextension\static\style.js,2,2.0,0.0

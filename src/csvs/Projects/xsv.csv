@@ -1,0 +1,62 @@
+project,language,filename,blank,comment,code
+xsv,Rust,D:\clones\xsv\src\cmd\stats.rs,53,14.0,544.0
+xsv,Rust,D:\clones\xsv\src\select.rs,41,3.0,396.0
+xsv,Rust,D:\clones\xsv\src\cmd\join.rs,36,18.0,382.0
+xsv,Markdown,D:\clones\xsv\README.md,63,0.0,322.0
+xsv,Rust,D:\clones\xsv\src\config.rs,31,13.0,268.0
+xsv,Rust,D:\clones\xsv\src\main.rs,25,0.0,239.0
+xsv,Rust,D:\clones\xsv\tests\test_split.rs,32,2.0,234.0
+xsv,Rust,D:\clones\xsv\tests\test_partition.rs,35,3.0,233.0
+xsv,Rust,D:\clones\xsv\tests\test_frequency.rs,32,17.0,213.0
+xsv,Rust,D:\clones\xsv\tests\test_stats.rs,29,4.0,182.0
+xsv,Rust,D:\clones\xsv\src\util.rs,19,22.0,181.0
+xsv,Rust,D:\clones\xsv\src\cmd\frequency.rs,26,0.0,179.0
+xsv,Rust,D:\clones\xsv\tests\test_join.rs,19,2.0,165.0
+xsv,Rust,D:\clones\xsv\src\cmd\partition.rs,20,20.0,160.0
+xsv,Rust,D:\clones\xsv\tests\tests.rs,29,1.0,158.0
+xsv,Rust,D:\clones\xsv\tests\workdir.rs,22,4.0,144.0
+xsv,Rust,D:\clones\xsv\src\cmd\split.rs,17,0.0,138.0
+xsv,Rust,D:\clones\xsv\src\cmd\sort.rs,21,2.0,136.0
+xsv,Rust,D:\clones\xsv\tests\test_search.rs,19,0.0,132.0
+xsv,Rust,D:\clones\xsv\tests\test_slice.rs,19,0.0,125.0
+xsv,Rust,D:\clones\xsv\tests\test_sort.rs,20,3.0,122.0
+xsv,Rust,D:\clones\xsv\src\cmd\sample.rs,17,4.0,121.0
+xsv,Rust,D:\clones\xsv\src\cmd\cat.rs,14,5.0,113.0
+xsv,Rust,D:\clones\xsv\tests\test_cat.rs,18,0.0,112.0
+xsv,Rust,D:\clones\xsv\tests\test_select.rs,17,0.0,99.0
+xsv,Rust,D:\clones\xsv\src\cmd\slice.rs,18,0.0,92.0
+xsv,Rust,D:\clones\xsv\src\cmd\fixlengths.rs,11,0.0,84.0
+xsv,Bourne Shell,D:\clones\xsv\scripts\benchmark-basic,9,8.0,75.0
+xsv,Rust,D:\clones\xsv\tests\test_fixlengths.rs,19,0.0,74.0
+xsv,Rust,D:\clones\xsv\tests\test_flatten.rs,12,0.0,72.0
+xsv,Rust,D:\clones\xsv\src\cmd\flatten.rs,10,0.0,70.0
+xsv,Rust,D:\clones\xsv\src\cmd\fmt.rs,12,0.0,69.0
+xsv,Rust,D:\clones\xsv\src\cmd\search.rs,11,0.0,69.0
+xsv,Rust,D:\clones\xsv\src\cmd\select.rs,17,0.0,65.0
+xsv,Rust,D:\clones\xsv\src\cmd\headers.rs,12,0.0,63.0
+xsv,Rust,D:\clones\xsv\src\cmd\table.rs,12,0.0,59.0
+xsv,Rust,D:\clones\xsv\tests\test_fmt.rs,13,0.0,58.0
+xsv,YAML,D:\clones\xsv\appveyor.yml,10,15.0,57.0
+xsv,Rust,D:\clones\xsv\src\cmd\input.rs,10,0.0,54.0
+xsv,Rust,D:\clones\xsv\tests\test_headers.rs,13,0.0,54.0
+xsv,Bourne Shell,D:\clones\xsv\ci\utils.sh,5,0.0,51.0
+xsv,Rust,D:\clones\xsv\tests\test_count.rs,8,4.0,50.0
+xsv,Rust,D:\clones\xsv\src\index.rs,8,5.0,48.0
+xsv,YAML,D:\clones\xsv\.travis.yml,8,10.0,47.0
+xsv,Rust,D:\clones\xsv\src\cmd\index.rs,11,0.0,47.0
+xsv,Rust,D:\clones\xsv\src\cmd\count.rs,8,0.0,43.0
+xsv,TOML,D:\clones\xsv\Cargo.toml,6,0.0,42.0
+xsv,Rust,D:\clones\xsv\src\cmd\reverse.rs,10,0.0,42.0
+xsv,Bourne Shell,D:\clones\xsv\ci\install.sh,12,5.0,41.0
+xsv,Markdown,D:\clones\xsv\BENCHMARKS.md,7,0.0,36.0
+xsv,Bourne Shell,D:\clones\xsv\ci\script.sh,10,10.0,33.0
+xsv,Rust,D:\clones\xsv\tests\test_reverse.rs,6,0.0,33.0
+xsv,make,D:\clones\xsv\Makefile,7,0.0,25.0
+xsv,Rust,D:\clones\xsv\tests\test_index.rs,6,0.0,21.0
+xsv,Rust,D:\clones\xsv\tests\test_table.rs,4,0.0,21.0
+xsv,Rust,D:\clones\xsv\src\cmd\mod.rs,0,0.0,20.0
+xsv,Bourne Shell,D:\clones\xsv\ci\before_deploy.sh,10,6.0,19.0
+xsv,Bourne Shell,D:\clones\xsv\scripts\build-release,3,0.0,11.0
+xsv,Bourne Shell,D:\clones\xsv\scripts\github-upload,2,0.0,7.0
+xsv,Bourne Shell,D:\clones\xsv\scripts\github-release,2,0.0,5.0
+xsv,vim script,D:\clones\xsv\session.vim,0,0.0,1.0

@@ -1,0 +1,58 @@
+project,language,filename,blank,comment,code
+shellcheck,Haskell,D:\clones\shellcheck\src\ShellCheck\Analytics.hs,515,136.0,4256.0
+shellcheck,Haskell,D:\clones\shellcheck\src\ShellCheck\Parser.hs,417,97.0,3064.0
+shellcheck,Haskell,D:\clones\shellcheck\src\ShellCheck\Checks\Commands.hs,179,53.0,1159.0
+shellcheck,Haskell,D:\clones\shellcheck\src\ShellCheck\AnalyzerLib.hs,149,105.0,778.0
+shellcheck,Haskell,D:\clones\shellcheck\src\ShellCheck\ASTLib.hs,96,111.0,582.0
+shellcheck,Haskell,D:\clones\shellcheck\shellcheck.hs,67,22.0,501.0
+shellcheck,Haskell,D:\clones\shellcheck\src\ShellCheck\Checks\ShellSupport.hs,44,27.0,487.0
+shellcheck,Markdown,D:\clones\shellcheck\CHANGELOG.md,84,0.0,405.0
+shellcheck,Haskell,D:\clones\shellcheck\src\ShellCheck\Checker.hs,81,22.0,385.0
+shellcheck,Markdown,D:\clones\shellcheck\README.md,170,0.0,381.0
+shellcheck,Haskell,D:\clones\shellcheck\src\ShellCheck\Fixer.hs,57,68.0,284.0
+shellcheck,Markdown,D:\clones\shellcheck\shellcheck.1.md,122,0.0,262.0
+shellcheck,Haskell,D:\clones\shellcheck\src\ShellCheck\AST.hs,17,16.0,252.0
+shellcheck,Haskell,D:\clones\shellcheck\src\ShellCheck\Interface.hs,43,35.0,251.0
+shellcheck,Haskell,D:\clones\shellcheck\src\ShellCheck\Formatter\Diff.hs,41,25.0,189.0
+shellcheck,Haskell,D:\clones\shellcheck\src\ShellCheck\Formatter\TTY.hs,22,24.0,150.0
+shellcheck,Haskell,D:\clones\shellcheck\src\ShellCheck\Data.hs,21,6.0,115.0
+shellcheck,YAML,D:\clones\shellcheck\.github\workflows\build.yml,20,1.0,110.0
+shellcheck,Haskell,D:\clones\shellcheck\src\ShellCheck\Formatter\JSON1.hs,16,15.0,96.0
+shellcheck,Bourne Again Shell,D:\clones\shellcheck\.multi_arch_docker,11,11.0,84.0
+shellcheck,Haskell,D:\clones\shellcheck\src\ShellCheck\Formatter\JSON.hs,14,15.0,81.0
+shellcheck,Haskell,D:\clones\shellcheck\src\ShellCheck\Formatter\CheckStyle.hs,17,15.0,63.0
+shellcheck,Bourne Again Shell,D:\clones\shellcheck\test\check_release,14,1.0,61.0
+shellcheck,Bourne Again Shell,D:\clones\shellcheck\test\distrotest,13,5.0,58.0
+shellcheck,Bourne Again Shell,D:\clones\shellcheck\striptests,15,6.0,57.0
+shellcheck,Haskell,D:\clones\shellcheck\src\ShellCheck\Formatter\Format.hs,12,17.0,53.0
+shellcheck,YAML,D:\clones\shellcheck\snap\snapcraft.yaml,10,2.0,44.0
+shellcheck,Haskell,D:\clones\shellcheck\src\ShellCheck\Regex.hs,13,23.0,44.0
+shellcheck,Haskell,D:\clones\shellcheck\src\ShellCheck\Formatter\GCC.hs,11,15.0,39.0
+shellcheck,Bourne Again Shell,D:\clones\shellcheck\.prepare_deploy,15,1.0,38.0
+shellcheck,Bourne Again Shell,D:\clones\shellcheck\test\buildtest,10,5.0,35.0
+shellcheck,Haskell,D:\clones\shellcheck\test\shellcheck.hs,2,0.0,30.0
+shellcheck,Haskell,D:\clones\shellcheck\src\ShellCheck\Analyzer.hs,9,16.0,27.0
+shellcheck,Dockerfile,D:\clones\shellcheck\build\linux.armv6hf\Dockerfile,7,27.0,25.0
+shellcheck,Bourne Again Shell,D:\clones\shellcheck\build\run_builder,5,0.0,25.0
+shellcheck,Bourne Again Shell,D:\clones\shellcheck\.github_deploy,4,1.0,23.0
+shellcheck,Bourne Again Shell,D:\clones\shellcheck\test\stacktest,6,3.0,19.0
+shellcheck,Bourne Shell,D:\clones\shellcheck\build\windows.x86_64\build,1,0.0,18.0
+shellcheck,Bourne Again Shell,D:\clones\shellcheck\quicktest,3,3.0,18.0
+shellcheck,Dockerfile,D:\clones\shellcheck\build\darwin.x86_64\Dockerfile,7,7.0,17.0
+shellcheck,Dockerfile,D:\clones\shellcheck\build\linux.aarch64\Dockerfile,7,6.0,17.0
+shellcheck,Dockerfile,D:\clones\shellcheck\build\windows.x86_64\Dockerfile,6,5.0,16.0
+shellcheck,Markdown,D:\clones\shellcheck\.github\ISSUE_TEMPLATE.md,12,0.0,15.0
+shellcheck,Bourne Shell,D:\clones\shellcheck\build\linux.aarch64\build,0,0.0,15.0
+shellcheck,Bourne Shell,D:\clones\shellcheck\build\linux.armv6hf\build,0,1.0,15.0
+shellcheck,Bourne Shell,D:\clones\shellcheck\build\linux.x86_64\build,0,0.0,15.0
+shellcheck,Bourne Shell,D:\clones\shellcheck\build\darwin.x86_64\build,0,0.0,14.0
+shellcheck,Haskell,D:\clones\shellcheck\src\ShellCheck\Formatter\Quiet.hs,7,15.0,14.0
+shellcheck,Haskell,D:\clones\shellcheck\src\ShellCheck\Checks\Custom.hs,5,4.0,12.0
+shellcheck,Bourne Shell,D:\clones\shellcheck\build\build_builder,1,0.0,11.0
+shellcheck,Bourne Again Shell,D:\clones\shellcheck\nextnumber,1,1.0,11.0
+shellcheck,Markdown,D:\clones\shellcheck\build\README.md,4,0.0,9.0
+shellcheck,Bourne Again Shell,D:\clones\shellcheck\quickrun,2,2.0,9.0
+shellcheck,Dockerfile,D:\clones\shellcheck\build\linux.x86_64\Dockerfile,6,6.0,8.0
+shellcheck,Bourne Shell,D:\clones\shellcheck\setgitversion,1,3.0,7.0
+shellcheck,YAML,D:\clones\shellcheck\stack.yaml,9,20.0,6.0
+shellcheck,Bourne Shell,D:\clones\shellcheck\manpage,0,0.0,4.0

@@ -1,0 +1,1660 @@
+project,language,filename,blank,comment,code
+h2o,Bourne Shell,D:\clones\h2o\deps\yaml\configure,2078,1722.0,10834.0
+h2o,m4,D:\clones\h2o\deps\yaml\aclocal.m4,977,100.0,9122.0
+h2o,Bourne Shell,D:\clones\h2o\deps\yaml\config\ltmain.sh,1289,2009.0,7858.0
+h2o,JavaScript,D:\clones\h2o\doc\search\oktavia-english-search.js,504,2067.0,6468.0
+h2o,yacc,D:\clones\h2o\deps\mruby\mrbgems\mruby-compiler\core\parse.y,589,132.0,6129.0
+h2o,C,D:\clones\h2o\deps\brotli\c\common\dictionary.c,11,8.0,5886.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\static_dict_lut.h,11,6.0,5847.0
+h2o,C,D:\clones\h2o\deps\quicly\lib\quicly.c,794,628.0,5086.0
+h2o,C/C++ Header,D:\clones\h2o\lib\http2\hpack_huffman_table.h,5,283.0,4666.0
+h2o,C,D:\clones\h2o\deps\picotls\lib\picotls.c,637,298.0,4647.0
+h2o,C++,D:\clones\h2o\src\h2olog\generated_raw_tracer.cc,356,489.0,4055.0
+h2o,Bourne Shell,D:\clones\h2o\deps\mruby-file-stat\configure,432,539.0,3349.0
+h2o,C,D:\clones\h2o\src\main.c,380,266.0,3270.0
+h2o,YAML,D:\clones\h2o\deps\mruby\.gitlab-ci.yml,0,0.0,3214.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-compiler\core\codegen.c,310,40.0,2887.0
+h2o,C,D:\clones\h2o\deps\mruby\src\vm.c,302,129.0,2610.0
+h2o,C,D:\clones\h2o\deps\mruby\src\string.c,275,555.0,2181.0
+h2o,C,D:\clones\h2o\deps\brotli\c\dec\decode.c,138,246.0,2000.0
+h2o,C,D:\clones\h2o\deps\mruby-json\src\parson.c,169,54.0,1916.0
+h2o,C,D:\clones\h2o\deps\mruby\src\class.c,267,199.0,1800.0
+h2o,C,D:\clones\h2o\deps\yaml\src\emitter.c,400,164.0,1794.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\dec\SynthTest.java,48,460.0,1775.0
+h2o,C,D:\clones\h2o\deps\yaml\src\scanner.c,825,1019.0,1754.0
+h2o,C,D:\clones\h2o\lib\common\socket.c,261,140.0,1750.0
+h2o,C#,D:\clones\h2o\deps\brotli\csharp\org\brotli\dec\SynthTest.cs,34,401.0,1739.0
+h2o,Bourne Shell,D:\clones\h2o\deps\yaml\config\config.sub,36,103.0,1662.0
+h2o,C,D:\clones\h2o\lib\http2\connection.c,248,165.0,1508.0
+h2o,C,D:\clones\h2o\lib\http3\server.c,235,259.0,1500.0
+h2o,C,D:\clones\h2o\deps\picotls\t\picotls.c,244,59.0,1454.0
+h2o,C,D:\clones\h2o\deps\brotli\c\enc\encode.c,132,192.0,1440.0
+h2o,C,D:\clones\h2o\deps\mruby\src\gc.c,299,183.0,1399.0
+h2o,C,D:\clones\h2o\deps\picotls\lib\openssl.c,214,53.0,1384.0
+h2o,JavaScript,D:\clones\h2o\deps\brotli\js\decode.js,18,334.0,1364.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\micro-ecc\uECC.c,219,91.0,1324.0
+h2o,C,D:\clones\h2o\deps\neverbleed\neverbleed.c,227,55.0,1294.0
+h2o,C,D:\clones\h2o\deps\quicly\src\cli.c,120,55.0,1277.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\structyaml__emitter__s.html,185,3.0,1263.0
+h2o,CSS,D:\clones\h2o\deps\yaml\doc\html\doxygen.css,261,75.0,1260.0
+h2o,Bourne Shell,D:\clones\h2o\deps\yaml\config\config.guess,46,181.0,1253.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\structyaml__parser__s.html,191,3.0,1223.0
+h2o,C,D:\clones\h2o\lib\core\configurator.c,156,53.0,1214.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-pack\src\pack.c,127,10.0,1194.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-io\src\io.c,174,8.0,1157.0
+h2o,Python,D:\clones\h2o\deps\brotli\research\brotlidump.py,194,1016.0,1151.0
+h2o,C,D:\clones\h2o\src\ssl.c,146,72.0,1138.0
+h2o,C,D:\clones\h2o\deps\brotli\c\enc\brotli_bit_stream.c,103,103.0,1124.0
+h2o,C,D:\clones\h2o\lib\http3\qpack.c,150,121.0,1118.0
+h2o,C,D:\clones\h2o\lib\http3\common.c,131,117.0,1111.0
+h2o,C,D:\clones\h2o\deps\brotli\c\enc\dictionary_hash.c,6,5.0,1109.0
+h2o,Assembly,D:\clones\h2o\deps\picotls\deps\cifra\src\arm\unacl\mul.s,1,16.0,1092.0
+h2o,HTML,D:\clones\h2o\doc\configure\base_directives.html,149,4.0,1076.0
+h2o,C,D:\clones\h2o\deps\mruby\src\numeric.c,188,375.0,1075.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o.h,196,1258.0,1033.0
+h2o,C,D:\clones\h2o\deps\libyrmcds\yc.c,65,4.0,1030.0
+h2o,C,D:\clones\h2o\deps\mruby\src\array.c,176,104.0,1024.0
+h2o,C,D:\clones\h2o\lib\http1.c,160,96.0,1023.0
+h2o,C,D:\clones\h2o\lib\common\http2client.c,203,62.0,1015.0
+h2o,C,D:\clones\h2o\deps\mruby-onig-regexp\src\mruby_onig_regexp.c,155,54.0,1012.0
+h2o,C,D:\clones\h2o\lib\handler\mruby.c,171,67.0,978.0
+h2o,C,D:\clones\h2o\deps\mruby\src\hash.c,160,291.0,977.0
+h2o,C,D:\clones\h2o\deps\yaml\src\parser.c,195,212.0,968.0
+h2o,C/C++ Header,D:\clones\h2o\lib\common\token_table.h,89,637.0,942.0
+h2o,C,D:\clones\h2o\deps\yaml\src\api.c,282,172.0,939.0
+h2o,CMake,D:\clones\h2o\CMakeLists.txt,102,52.0,909.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-string-ext\src\string.c,113,218.0,909.0
+h2o,C,D:\clones\h2o\deps\mruby\src\variable.c,138,71.0,907.0
+h2o,C,D:\clones\h2o\lib\http2\hpack.c,98,89.0,902.0
+h2o,C#,D:\clones\h2o\deps\brotli\csharp\org\brotli\dec\Decode.cs,49,46.0,897.0
+h2o,C,D:\clones\h2o\lib\handler\mruby\middleware.c,146,57.0,873.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\dec\Decode.java,85,57.0,860.0
+h2o,C,D:\clones\h2o\deps\mruby-digest\src\digest.c,149,19.0,841.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\include\picotls.h,97,659.0,841.0
+h2o,C,D:\clones\h2o\deps\hiredis\sds.c,113,321.0,838.0
+h2o,C,D:\clones\h2o\t\00unit\lib\handler\file.c,56,23.0,838.0
+h2o,C,D:\clones\h2o\deps\picotls\lib\fusion.c,132,98.0,836.0
+h2o,C,D:\clones\h2o\lib\handler\file.c,118,64.0,811.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\base_directives.mt,47,0.0,805.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\group__emitter.html,60,3.0,803.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-socket\src\socket.c,125,29.0,802.0
+h2o,C,D:\clones\h2o\lib\core\logconf.c,72,31.0,800.0
+h2o,C,D:\clones\h2o\lib\handler\connect.c,137,103.0,791.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\group__nodes.html,78,3.0,788.0
+h2o,C,D:\clones\h2o\deps\mruby\src\dump.c,176,19.0,786.0
+h2o,C++,D:\clones\h2o\deps\klib\test\ksort_test.cc,107,116.0,774.0
+h2o,C,D:\clones\h2o\lib\core\util.c,121,57.0,768.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-sprintf\src\sprintf.c,89,272.0,766.0
+h2o,C,D:\clones\h2o\deps\mruby-file-stat\src\file-stat.c,111,8.0,754.0
+h2o,C,D:\clones\h2o\deps\yaml\tests\example-deconstructor.c,260,113.0,754.0
+h2o,Assembly,D:\clones\h2o\deps\picotls\deps\cifra\src\arm\unacl\sqr.s,3,21.0,753.0
+h2o,C,D:\clones\h2o\deps\brotli\c\tools\brotli.c,77,43.0,741.0
+h2o,C,D:\clones\h2o\src\httpclient.c,76,41.0,739.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\testmodes.c,122,33.0,735.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\dec\prefix.h,9,9.0,733.0
+h2o,C,D:\clones\h2o\lib\core\request.c,136,61.0,722.0
+h2o,Perl,D:\clones\h2o\t\Util.pm,87,18.0,718.0
+h2o,C,D:\clones\h2o\deps\hiredis\hiredis.c,159,146.0,715.0
+h2o,C/C++ Header,D:\clones\h2o\lib\handler\mruby\embedded.c.h,6,10.0,694.0
+h2o,C,D:\clones\h2o\lib\handler\fastcgi.c,93,63.0,692.0
+h2o,C,D:\clones\h2o\lib\common\http3client.c,108,122.0,689.0
+h2o,C,D:\clones\h2o\deps\brotli\c\enc\backward_references_hq.c,63,61.0,681.0
+h2o,C/C++ Header,D:\clones\h2o\deps\quicly\include\quicly\frame.h,131,36.0,665.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\globals.html,1,3.0,665.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-time\src\time.c,125,100.0,663.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\group__events.html,42,3.0,657.0
+h2o,C,D:\clones\h2o\lib\common\http1client.c,104,59.0,654.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-debugger\tools\mrdb\mrdb.c,104,14.0,643.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\yaml_8h.html,1,3.0,643.0
+h2o,C++,D:\clones\h2o\deps\brotli\python\_brotli.cc,111,2.0,639.0
+h2o,C,D:\clones\h2o\deps\quicly\t\test.c,82,62.0,635.0
+h2o,HTML,D:\clones\h2o\doc\configure\proxy_directives.html,111,4.0,617.0
+h2o,C,D:\clones\h2o\deps\brotli\c\enc\compress_fragment.c,73,107.0,611.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-string-ext\test\string.rb,96,8.0,611.0
+h2o,C/C++ Header,D:\clones\h2o\deps\yaml\include\yaml.h,309,1054.0,610.0
+h2o,C,D:\clones\h2o\deps\picotls\lib\ptlsbcrypt.c,131,102.0,600.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\group__parser.html,36,3.0,595.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby-digest\src\picohash.h,101,58.0,592.0
+h2o,C,D:\clones\h2o\lib\handler\configurator\proxy.c,66,41.0,589.0
+h2o,C,D:\clones\h2o\deps\hiredis\test.c,113,127.0,583.0
+h2o,C,D:\clones\h2o\deps\picotls\t\cli.c,36,35.0,580.0
+h2o,C,D:\clones\h2o\lib\core\proxy.c,85,76.0,579.0
+h2o,C,D:\clones\h2o\deps\mruby\src\load.c,116,19.0,574.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\curve25519.donna.c,70,224.0,573.0
+h2o,C,D:\clones\h2o\deps\yaml\tests\example-deconstructor-alt.c,169,62.0,569.0
+h2o,C,D:\clones\h2o\t\00unit\lib\common\url.c,75,21.0,566.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-mirb\tools\mirb\mirb.c,71,52.0,555.0
+h2o,C,D:\clones\h2o\t\00unit\lib\http2\hpack.c,67,35.0,552.0
+h2o,C,D:\clones\h2o\deps\picotls\picotlsvs\picotlsvs\picotlsvs.c,124,26.0,549.0
+h2o,C,D:\clones\h2o\deps\quicly\t\simulator.c,79,54.0,543.0
+h2o,C/C++ Header,D:\clones\h2o\deps\quicly\include\quicly.h,63,766.0,542.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\string.rb,138,41.0,536.0
+h2o,C,D:\clones\h2o\lib\common\string.c,80,47.0,533.0
+h2o,C,D:\clones\h2o\deps\picohttpparser\picohttpparser.c,50,54.0,532.0
+h2o,C,D:\clones\h2o\deps\mruby\src\codedump.c,24,0.0,525.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\module.rb,116,94.0,519.0
+h2o,C,D:\clones\h2o\deps\klib\ksw.c,32,83.0,518.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\syntax.rb,97,42.0,517.0
+h2o,C/C++ Header,D:\clones\h2o\lib\common\socket\evloop.c.h,95,66.0,516.0
+h2o,C,D:\clones\h2o\lib\handler\mruby\http_request.c,121,47.0,516.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\entropy_encode_static.h,20,5.0,514.0
+h2o,HTML,D:\clones\h2o\doc\configure\http2_directives.html,104,4.0,513.0
+h2o,C,D:\clones\h2o\deps\klib\kurl.c,47,24.0,512.0
+h2o,C,D:\clones\h2o\deps\klib\knetfile.c,35,85.0,508.0
+h2o,C,D:\clones\h2o\lib\common\socketpool.c,83,40.0,504.0
+h2o,Bourne Shell,D:\clones\h2o\deps\yaml\config\depcomp,64,224.0,503.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-io\test\io.rb,76,31.0,502.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\structyaml__event__s.html,74,3.0,497.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-struct\src\struct.c,77,160.0,490.0
+h2o,C,D:\clones\h2o\deps\picotls\picotlsvs\bcrypt-test\bcrypt-test.c,114,28.0,490.0
+h2o,Lua,D:\clones\h2o\deps\klib\lua\klib.lua,49,139.0,489.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-enumerator\test\enumerator.rb,60,3.0,488.0
+h2o,C++,D:\clones\h2o\src\h2olog\h2olog.cc,48,32.0,486.0
+h2o,C,D:\clones\h2o\deps\brotli\c\enc\compress_fragment_two_pass.c,54,73.0,485.0
+h2o,C,D:\clones\h2o\deps\klib\bgzf.c,40,30.0,485.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-socket\mrblib\socket.rb,102,44.0,475.0
+h2o,C,D:\clones\h2o\lib\common\memory.c,64,56.0,472.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\arm\unacl\scalarmult.c,127,164.0,470.0
+h2o,C,D:\clones\h2o\deps\mruby\src\kernel.c,69,309.0,464.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-debugger\bintest\print.rb,121,117.0,463.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\minirake,77,67.0,461.0
+h2o,Ruby,D:\clones\h2o\misc\mruby-mtest\mrblib\mtest_unit.rb,143,95.0,460.0
+h2o,C,D:\clones\h2o\deps\libyrmcds\send.c,107,1.0,456.0
+h2o,C,D:\clones\h2o\deps\quicly\t\simple.c,110,42.0,456.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\bs_block.rb,64,2.0,455.0
+h2o,C,D:\clones\h2o\deps\hiredis\async.c,98,139.0,453.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-io\src\file.c,49,7.0,451.0
+h2o,C,D:\clones\h2o\deps\mruby\src\symbol.c,73,79.0,451.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\ext\cutest.h,95,80.0,445.0
+h2o,C,D:\clones\h2o\deps\brotli\c\enc\metablock.c,44,40.0,444.0
+h2o,C,D:\clones\h2o\deps\brotli\c\enc\static_dict.c,11,29.0,442.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby.h,131,714.0,440.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-debugger\tools\mrdb\cmdmisc.c,57,6.0,439.0
+h2o,C,D:\clones\h2o\deps\quicly\t\lossy.c,72,39.0,436.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-onig-regexp\test\mruby_onig_regexp.rb,104,6.0,434.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-array-ext\mrblib\array.rb,64,457.0,418.0
+h2o,C,D:\clones\h2o\deps\brotli\c\enc\entropy_encode.c,32,56.0,413.0
+h2o,C,D:\clones\h2o\deps\mruby\src\object.c,84,164.0,413.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-debugger\tools\mrdb\apibreak.c,90,5.0,410.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\structyaml__node__s.html,65,3.0,408.0
+h2o,C/C++ Header,D:\clones\h2o\deps\yaml\src\yaml_private.h,150,127.0,408.0
+h2o,Python,D:\clones\h2o\src\h2olog\misc\gen_raw_tracer.py,152,259.0,406.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\structyaml__token__s.html,62,3.0,405.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-enum-ext\mrblib\enum.rb,69,361.0,403.0
+h2o,C,D:\clones\h2o\deps\mruby\src\error.c,63,48.0,403.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-math\src\math.c,122,263.0,402.0
+h2o,C,D:\clones\h2o\t\00unit\lib\http2\scheduler.c,74,87.0,402.0
+h2o,Markdown,D:\clones\h2o\deps\mruby\doc\guides\compile.md,87,0.0,401.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\block_splitter_inc.h,19,19.0,393.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\arm\main.c,61,1.0,385.0
+h2o,C,D:\clones\h2o\deps\hiredis\read.c,70,71.0,384.0
+h2o,HTML,D:\clones\h2o\doc\configure\file_directives.html,82,4.0,384.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\kernel.rb,90,16.0,383.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-debugger\tools\mrdb\cmdbreak.c,49,5.0,382.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-method\test\method.rb,56,8.0,379.0
+h2o,Perl,D:\clones\h2o\misc\mk-ca-bundle.pl,57,64.0,378.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-metaprog\src\metaprog.c,71,254.0,377.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\lib\mruby\gem.rb,78,9.0,375.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\exception.rb,47,3.0,372.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\globals_eval.html,1,3.0,371.0
+h2o,C,D:\clones\h2o\deps\quicly\t\udpfw.c,27,28.0,368.0
+h2o,C,D:\clones\h2o\deps\yaml\src\loader.c,119,57.0,368.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\http2_directives.mt,35,0.0,367.0
+h2o,C/C++ Header,D:\clones\h2o\lib\common\socket\uv-binding.c.h,63,35.0,366.0
+h2o,Pascal,D:\clones\h2o\deps\picotls\deps\micro-ecc\curve-specific.inc,167,719.0,362.0
+h2o,C,D:\clones\h2o\fuzz\quicly_mock.c,77,35.0,362.0
+h2o,C,D:\clones\h2o\deps\klib\khmm.c,30,33.0,360.0
+h2o,C,D:\clones\h2o\lib\common\url.c,64,41.0,360.0
+h2o,C,D:\clones\h2o\deps\hiredis\net.c,64,54.0,359.0
+h2o,C,D:\clones\h2o\deps\klib\kmath.c,32,67.0,357.0
+h2o,HTML,D:\clones\h2o\doc\configure\access_control.html,83,4.0,357.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-method\src\method.c,60,4.0,354.0
+h2o,C,D:\clones\h2o\deps\libyrmcds\counter.c,52,3.0,353.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\lib\Net\FastCGI\Protocol\PP.pm,67,9.0,353.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\class.rb,77,10.0,352.0
+h2o,C,D:\clones\h2o\lib\common\memcached.c,46,32.0,352.0
+h2o,Perl,D:\clones\h2o\t\assets\upstream.psgi,2,0.0,351.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\hash.h,56,45.0,345.0
+h2o,C,D:\clones\h2o\lib\handler\mimemap.c,63,34.0,343.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\aes.c,59,22.0,338.0
+h2o,C,D:\clones\h2o\deps\libyrmcds\send_text.c,73,4.0,337.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-array-ext\test\array.rb,64,6.0,337.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-eval\src\eval.c,43,16.0,337.0
+h2o,C,D:\clones\h2o\deps\picohttpparser\test.c,63,28.0,337.0
+h2o,C/C++ Header,D:\clones\h2o\deps\klib\kbtree.h,23,26.0,335.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\memory.h,62,209.0,334.0
+h2o,Go,D:\clones\h2o\deps\brotli\go\cbrotli\cbrotli_test.go,22,13.0,332.0
+h2o,Markdown,D:\clones\h2o\deps\hiredis\README.md,81,0.0,330.0
+h2o,Bourne Shell,D:\clones\h2o\deps\yaml\config\install-sh,68,110.0,330.0
+h2o,C,D:\clones\h2o\lib\http2\stream.c,44,63.0,330.0
+h2o,C,D:\clones\h2o\deps\libgkc\gkc.c,61,50.0,328.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\lib\mruby\build.rb,64,11.0,327.0
+h2o,C,D:\clones\h2o\t\00unit\lib\http3\qpack.c,39,22.0,327.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-io\mrblib\io.rb,52,10.0,326.0
+h2o,C,D:\clones\h2o\lib\http2\scheduler.c,55,54.0,325.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\sha3.c,67,53.0,324.0
+h2o,Perl,D:\clones\h2o\deps\quicly\t\e2e.t,27,23.0,322.0
+h2o,C/C++ Header,D:\clones\h2o\deps\yoml\yoml-parser.h,43,27.0,321.0
+h2o,C,D:\clones\h2o\deps\quicly\lib\defaults.c,53,62.0,320.0
+h2o,C,D:\clones\h2o\examples\libh2o\latency-optimization.c,37,27.0,319.0
+h2o,C,D:\clones\h2o\lib\common\redis.c,61,31.0,319.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-mrbc\tools\mrbc\mrbc.c,27,0.0,318.0
+h2o,C,D:\clones\h2o\deps\mruby-json\src\mrb_json.c,24,9.0,317.0
+h2o,C,D:\clones\h2o\deps\yaml\tests\test-reader.c,32,6.0,316.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\array.rb,79,15.0,314.0
+h2o,C,D:\clones\h2o\deps\klib\kopen.c,21,9.0,313.0
+h2o,C,D:\clones\h2o\deps\quicly\examples\echo.c,35,52.0,312.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\group__basic.html,30,3.0,310.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-file-stat\test\file-stat.rb,60,0.0,309.0
+h2o,C,D:\clones\h2o\t\qif.c,19,30.0,309.0
+h2o,C,D:\clones\h2o\deps\mruby\src\fmt_fp.c,48,32.0,308.0
+h2o,CSS,D:\clones\h2o\doc\assets\style.css,60,0.0,307.0
+h2o,C,D:\clones\h2o\deps\brotli\c\dec\huffman.c,27,25.0,306.0
+h2o,C,D:\clones\h2o\deps\libyrmcds\recv.c,36,14.0,304.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\norx.c,59,47.0,304.0
+h2o,C,D:\clones\h2o\deps\picotls\t\openssl.c,52,33.0,303.0
+h2o,C,D:\clones\h2o\deps\mruby\src\range.c,65,91.0,300.0
+h2o,Python,D:\clones\h2o\deps\quicly\misc\qlog-adapter.py,44,25.0,299.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\http2_internal.h,27,93.0,298.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\proxy_directives.mt,23,0.0,298.0
+h2o,C,D:\clones\h2o\lib\common\multithread.c,52,33.0,297.0
+h2o,C,D:\clones\h2o\t\00unit\lib\common\string.c,58,23.0,296.0
+h2o,Ruby,D:\clones\h2o\lib\handler\mruby\embedded\redis.rb,42,21.0,295.0
+h2o,Bourne Shell,D:\clones\h2o\share\h2o\fastcgi-cgi,38,13.0,295.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\drbg.c,64,76.0,294.0
+h2o,C,D:\clones\h2o\lib\handler\configurator\fastcgi.c,39,38.0,291.0
+h2o,C,D:\clones\h2o\t\00unit\lib\common\timerwheel.c,51,28.0,288.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\hash.rb,82,8.0,286.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\literals.rb,34,17.0,286.0
+h2o,Perl,D:\clones\h2o\t\50reverse-proxy\test.pl,15,0.0,285.0
+h2o,C/C++ Header,D:\clones\h2o\deps\klib\khash.h,86,250.0,283.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\dec\bit_reader.h,37,42.0,281.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\t\util.h,59,28.0,281.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\lib\mruby\build\command.rb,42,2.0,280.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-mruby\tools\mruby\mruby.c,24,3.0,280.0
+h2o,C,D:\clones\h2o\deps\yaml\tests\run-emitter.c,41,6.0,280.0
+h2o,Python,D:\clones\h2o\misc\mkhufftbl.py,35,239.0,279.0
+h2o,C,D:\clones\h2o\deps\yaml\tests\run-dumper.c,36,0.0,278.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\http3_common.h,33,223.0,278.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\tasks\toolchains\android.rake,45,0.0,277.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-metaprog\test\metaprog.rb,47,8.0,275.0
+h2o,C,D:\clones\h2o\deps\picotls\t\fusion.c,44,22.0,275.0
+h2o,C,D:\clones\h2o\lib\common\serverutil.c,35,39.0,274.0
+h2o,C/C++ Header,D:\clones\h2o\deps\libyrmcds\yrmcds.h,126,672.0,273.0
+h2o,Markdown,D:\clones\h2o\deps\mruby\doc\guides\mrbgems.md,72,0.0,273.0
+h2o,C,D:\clones\h2o\deps\libyrmcds\yc-cnt.c,36,0.0,270.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\dec\transform.h,15,16.0,269.0
+h2o,CMake,D:\clones\h2o\deps\brotli\CMakeLists.txt,60,38.0,268.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\socket.h,38,205.0,268.0
+h2o,C,D:\clones\h2o\lib\core\config.c,46,31.0,266.0
+h2o,C,D:\clones\h2o\lib\common\timerwheel.c,52,52.0,265.0
+h2o,C,D:\clones\h2o\deps\mruby-dir\src\dir.c,36,6.0,262.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-fiber\src\fiber.c,49,113.0,261.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\ocb.c,81,62.0,261.0
+h2o,C,D:\clones\h2o\deps\picotls\lib\pembase64.c,48,62.0,260.0
+h2o,Bourne Again Shell,D:\clones\h2o\deps\brotli\configure-cmake,30,29.0,259.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\benchmark\bm_ao_render.rb,44,11.0,259.0
+h2o,Bourne Shell,D:\clones\h2o\deps\yaml\config\compile,26,62.0,259.0
+h2o,C,D:\clones\h2o\deps\yaml\tests\run-emitter-test-suite.c,28,3.0,259.0
+h2o,C,D:\clones\h2o\deps\picotls\t\ptlsbench.c,49,37.0,258.0
+h2o,C,D:\clones\h2o\deps\mruby\src\state.c,44,6.0,257.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\cluster_inc.h,21,40.0,256.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-random\src\random.c,62,32.0,255.0
+h2o,C,D:\clones\h2o\deps\yaml\src\reader.c,103,111.0,255.0
+h2o,Python,D:\clones\h2o\deps\picotls\deps\micro-ecc\scripts\square_avr.py,49,24.0,254.0
+h2o,C,D:\clones\h2o\deps\mruby\src\proc.c,42,20.0,253.0
+h2o,Perl,D:\clones\h2o\t\90h2olog-selective-tracing.t,66,5.0,253.0
+h2o,C,D:\clones\h2o\deps\picotls\lib\minicrypto-pem.c,49,49.0,252.0
+h2o,C,D:\clones\h2o\deps\yaml\src\dumper.c,98,45.0,251.0
+h2o,HTML,D:\clones\h2o\doc\configure\syntax_and_structure.html,46,4.0,251.0
+h2o,Perl,D:\clones\h2o\misc\fastcgi-cgi.pl,27,10.0,246.0
+h2o,Markdown,D:\clones\h2o\deps\mruby\doc\guides\debugger.md,126,0.0,244.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-io\src\file_test.c,68,69.0,244.0
+h2o,Perl,D:\clones\h2o\deps\quicly\misc\probe2trace.pl,23,16.0,244.0
+h2o,C,D:\clones\h2o\deps\yoml\test-yoml.c,15,21.0,242.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\group__tokens.html,12,3.0,241.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\value.h,33,36.0,240.0
+h2o,C,D:\clones\h2o\lib\handler\configurator\headers_util.c,33,0.0,240.0
+h2o,C,D:\clones\h2o\lib\http2\frame.c,40,22.0,239.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\access_control.mt,35,0.0,238.0
+h2o,Python,D:\clones\h2o\deps\brotli\setup.py,35,12.0,237.0
+h2o,C,D:\clones\h2o\lib\handler\mruby\redis.c,52,29.0,237.0
+h2o,C,D:\clones\h2o\deps\mruby-input-stream\src\mruby_input_stream.c,42,0.0,236.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\structyaml__document__s.html,32,3.0,236.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\curve25519.naclref.c,32,6.0,235.0
+h2o,HTML,D:\clones\h2o\doc\configure\mruby.html,45,4.0,235.0
+h2o,C,D:\clones\h2o\lib\handler\mruby\sender.c,49,25.0,234.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\hash_to_binary_tree_inc.h,29,64.0,233.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-hash-ext\test\hash.rb,59,2.0,233.0
+h2o,C,D:\clones\h2o\deps\mruby\src\backtrace.c,48,8.0,230.0
+h2o,HTML,D:\clones\h2o\doc\configure\access_log_directives.html,32,4.0,229.0
+h2o,C,D:\clones\h2o\lib\common\hostinfo.c,34,24.0,228.0
+h2o,C/C++ Header,D:\clones\h2o\deps\klib\ksort.h,31,40.0,227.0
+h2o,C,D:\clones\h2o\deps\libyrmcds\t\text.c,56,11.0,227.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-string-ext\mrblib\string.rb,26,190.0,227.0
+h2o,C,D:\clones\h2o\deps\picotls\lib\asn1.c,41,29.0,227.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\file_directives.mt,22,0.0,227.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\khash.h,24,24.0,226.0
+h2o,C++,D:\clones\h2o\deps\brotli\research\find_opt_references.cc,30,14.0,223.0
+h2o,C++,D:\clones\h2o\deps\brotli\research\deorummolae.cc,24,27.0,222.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\assert.rb,26,22.0,222.0
+h2o,C,D:\clones\h2o\deps\klib\kson.c,16,17.0,220.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-io\test\mruby_io_test.c,36,0.0,220.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\bitops.h,39,51.0,220.0
+h2o,HTML,D:\clones\h2o\share\h2o\status\index.html,11,0.0,218.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\group__styles.html,18,3.0,217.0
+h2o,HTML,D:\clones\h2o\doc\configure\fastcgi_directives.html,43,4.0,217.0
+h2o,C++,D:\clones\h2o\fuzz\driver.cc,42,73.0,217.0
+h2o,C/C++ Header,D:\clones\h2o\deps\hiredis\sds.h,19,40.0,214.0
+h2o,C,D:\clones\h2o\examples\libh2o\simple.c,52,23.0,213.0
+h2o,C,D:\clones\h2o\lib\common\httpclient.c,34,56.0,212.0
+h2o,Markdown,D:\clones\h2o\deps\klib\README.md,27,0.0,210.0
+h2o,C,D:\clones\h2o\deps\mruby\src\etc.c,28,9.0,210.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\http2_common.h,46,29.0,210.0
+h2o,HTML,D:\clones\h2o\doc\configure\headers_directives.html,54,4.0,208.0
+h2o,C,D:\clones\h2o\lib\handler\status.c,39,25.0,208.0
+h2o,C#,D:\clones\h2o\deps\brotli\csharp\org\brotli\dec\BitReader.cs,25,39.0,207.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\dec\BitReader.java,27,32.0,207.0
+h2o,C,D:\clones\h2o\deps\mruby-env\src\env.c,32,4.0,207.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-enumerator\mrblib\enumerator.rb,34,416.0,207.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\testaes.c,39,16.0,203.0
+h2o,C,D:\clones\h2o\deps\quicly\lib\streambuf.c,32,21.0,203.0
+h2o,C,D:\clones\h2o\t\00unit\lib\core\util.c,31,30.0,203.0
+h2o,C,D:\clones\h2o\deps\hiredis\dict.c,45,91.0,202.0
+h2o,C,D:\clones\h2o\deps\klib\kstring.c,15,12.0,202.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-debugger\bintest\mrdb.rb,51,33.0,202.0
+h2o,C,D:\clones\h2o\deps\picotls\src\esni.c,15,23.0,202.0
+h2o,Windows Module Definition,D:\clones\h2o\deps\mruby\mrbgems\mruby-compiler\core\lex.def,10,0.0,201.0
+h2o,C/C++ Header,D:\clones\h2o\deps\quicly\include\quicly\loss.h,35,134.0,201.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\syntax_and_structure.mt,30,0.0,201.0
+h2o,C,D:\clones\h2o\lib\common\cache.c,45,28.0,200.0
+h2o,C,D:\clones\h2o\lib\handler\headers_util.c,22,2.0,200.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrblib\string.rb,14,61.0,199.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\httpclient.h,44,173.0,199.0
+h2o,Python,D:\clones\h2o\deps\picotls\deps\cifra\src\arm\report.py,42,37.0,197.0
+h2o,C,D:\clones\h2o\t\00prop\prop.c,29,2.0,197.0
+h2o,CMake,D:\clones\h2o\deps\picotls\CMakeLists.txt,25,1.0,196.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\curve25519.tweetnacl.c,36,4.0,195.0
+h2o,C/C++ Header,D:\clones\h2o\deps\klib\kstring.h,28,37.0,194.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-hash-ext\mrblib\hash.rb,33,270.0,194.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\globals_func.html,1,3.0,194.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\lib\Net\FastCGI\IO.pm,33,0.0,194.0
+h2o,Markdown,D:\clones\h2o\deps\picotls\deps\cifra\README.md,53,0.0,193.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\hash_longest_match64_inc.h,26,48.0,192.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\sha512.c,28,29.0,192.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\float.rb,43,9.0,190.0
+h2o,C,D:\clones\h2o\t\00unit\src\ssl.c,30,36.0,190.0
+h2o,C++,D:\clones\h2o\deps\brotli\research\sieve.cc,10,12.0,189.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\cifra\cifra.vcxproj,0,0.0,188.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\dec\state.h,36,24.0,187.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-debugger\tools\mrdb\apilist.c,48,5.0,187.0
+h2o,C,D:\clones\h2o\deps\mruby-require\src\require.c,35,3.0,186.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-fiber\test\fiber.rb,22,0.0,186.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\hash_forgetful_chain_inc.h,26,42.0,185.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\hash_longest_match_inc.h,26,47.0,185.0
+h2o,C/C++ Header,D:\clones\h2o\deps\klib\kseq.h,24,26.0,185.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-io\test\file.rb,25,2.0,185.0
+h2o,Python,D:\clones\h2o\deps\picotls\deps\micro-ecc\scripts\square_arm.py,41,16.0,185.0
+h2o,C,D:\clones\h2o\deps\libyrmcds\connect.c,11,4.0,184.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\integer.rb,50,26.0,183.0
+h2o,C,D:\clones\h2o\lib\handler\status\durations.c,25,25.0,182.0
+h2o,HTML,D:\clones\h2o\doc\install.html,39,4.0,181.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\mruby_.h,33,68.0,180.0
+h2o,Assembly,D:\clones\h2o\deps\picotls\deps\cifra\src\arm\unacl\cortex_m0_mpy121666.s,9,11.0,179.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\lib\Net\FastCGI\Protocol.pm,23,1.0,179.0
+h2o,Markdown,D:\clones\h2o\deps\mruby\mrbgems\mruby-io\README.md,15,0.0,178.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-io\mrblib\file.rb,30,1.0,177.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\picotls\picotls.vcxproj,0,0.0,177.0
+h2o,C,D:\clones\h2o\lib\websocket.c,40,39.0,177.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\eg\runfcgi.pl,44,5.0,177.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\mruby.mt,25,0.0,177.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\hash_longest_match_quickly_inc.h,21,37.0,176.0
+h2o,C,D:\clones\h2o\deps\mruby\src\debug.c,32,7.0,176.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\picotls-minicrypto-deps\picotls-minicrypto-deps.vcxproj,0,0.0,176.0
+h2o,C,D:\clones\h2o\deps\yaml\tests\run-parser-test-suite.c,13,0.0,176.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-struct\test\struct.rb,28,2.0,175.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\picotls-esni\picotls-esni.vcxproj,0,0.0,175.0
+h2o,Visual Studio Solution,D:\clones\h2o\deps\picotls\picotlsvs\picotlsvs.sln,1,1.0,174.0
+h2o,C/C++ Header,D:\clones\h2o\deps\quicly\include\quicly\sentmap.h,31,142.0,174.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrblib\array.rb,22,70.0,173.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrblib\enum.rb,25,151.0,173.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\testsha2.c,37,14.0,173.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\token_table.h,6,22.0,173.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\gcm.c,40,38.0,171.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\bcrypt-test\bcrypt-test.vcxproj,0,0.0,171.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\picotls-minicrypto\picotls-minicrypto.vcxproj,0,0.0,171.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\ptlsbench\ptlsbench.vcxproj,0,0.0,171.0
+h2o,C++,D:\clones\h2o\src\h2olog\http_tracer.cc,20,24.0,170.0
+h2o,Markdown,D:\clones\h2o\deps\mruby\doc\limitations.md,80,0.0,169.0
+h2o,C,D:\clones\h2o\deps\mruby\src\pool.c,28,12.0,169.0
+h2o,Python,D:\clones\h2o\deps\picotls\deps\micro-ecc\scripts\mult_avr.py,23,12.0,168.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\testopenssl\testopenssl.vcxproj,0,0.0,168.0
+h2o,make,D:\clones\h2o\deps\hiredis\Makefile,40,10.0,167.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\shitlisp\sl-cifra.c,36,3.0,167.0
+h2o,C,D:\clones\h2o\deps\picotls\lib\cifra\chacha20.c,39,25.0,167.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-test\mrbgem.rake,21,4.0,166.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-time\test\time.rb,55,11.0,166.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\sha256.c,29,37.0,166.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\fusiontest\fusiontest.vcxproj,0,0.0,166.0
+h2o,Markdown,D:\clones\h2o\deps\libyrmcds\USAGE.md,56,0.0,165.0
+h2o,C/C++ Header,D:\clones\h2o\lib\common\socket\evloop\epoll.c.h,18,26.0,165.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\picotls-core\picotls-core.vcxproj,0,0.0,164.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\pioctls-core\pioctls-core.vcxproj,0,0.0,164.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\t\020_protocol\050_parse_record.t,15,1.0,164.0
+h2o,C,D:\clones\h2o\t\00unit\test.c,30,22.0,163.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\picotls-openssl\picotls-openssl.vcxproj,0,0.0,162.0
+h2o,C,D:\clones\h2o\deps\quicly\t\local_cid.c,25,48.0,162.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-digest\test\digest.rb,35,7.0,161.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\picotlsvs\picotlsvs.vcxproj,0,0.0,161.0
+h2o,Python,D:\clones\h2o\deps\quicly\misc\quictrace-adapter.py,23,28.0,161.0
+h2o,HTML,D:\clones\h2o\doc\configure\server_timing_directives.html,31,4.0,161.0
+h2o,Perl,D:\clones\h2o\misc\tokens.pl,25,229.0,161.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\access_log_directives.mt,11,0.0,161.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-enum-ext\test\enum.rb,30,3.0,160.0
+h2o,Assembly,D:\clones\h2o\deps\picotls\deps\cifra\src\arm\unacl\cortex_m0_reduce25519.s,7,9.0,160.0
+h2o,YAML,D:\clones\h2o\deps\brotli\.travis.yml,14,36.0,158.0
+h2o,C++,D:\clones\h2o\deps\brotli\research\draw_histogram.cc,29,11.0,157.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby-json\src\parson.h,40,73.0,157.0
+h2o,C,D:\clones\h2o\deps\klib\knhx.c,10,0.0,156.0
+h2o,make,D:\clones\h2o\deps\picotls\deps\cifra\src\arm\Makefile,28,0.0,156.0
+h2o,C,D:\clones\h2o\deps\brotli\c\enc\block_splitter.c,22,18.0,155.0
+h2o,C,D:\clones\h2o\lib\http2\http2_debug_state.c,22,26.0,155.0
+h2o,C,D:\clones\h2o\deps\mruby-errno\src\errno.c,20,1.0,154.0
+h2o,C,D:\clones\h2o\deps\yaml\tests\example-reformatter-alt.c,49,14.0,154.0
+h2o,Windows Module Definition,D:\clones\h2o\deps\mruby\mrbgems\mruby-socket\src\const.def,12,0.0,153.0
+h2o,Python,D:\clones\h2o\deps\picotls\deps\cifra\src\arm\analyse.py,46,8.0,153.0
+h2o,C,D:\clones\h2o\deps\klib\ksa.c,13,77.0,152.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-proc-ext\src\proc.c,26,10.0,152.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrblib\hash.rb,20,157.0,152.0
+h2o,Python,D:\clones\h2o\deps\picotls\deps\micro-ecc\scripts\mult_arm.py,25,11.0,152.0
+h2o,Bourne Shell,D:\clones\h2o\share\h2o\start_server,75,5.0,152.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-json\test\json.rb,2,0.0,151.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\testdrbg.c,31,24.0,151.0
+h2o,C,D:\clones\h2o\deps\quicly\lib\local_cid.c,36,42.0,151.0
+h2o,C,D:\clones\h2o\lib\handler\configurator\file.c,25,21.0,151.0
+h2o,Ruby,D:\clones\h2o\t\00unit.mruby\acl.rb,25,3.0,151.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\codegen.rb,29,18.0,150.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\poly1305.c,38,33.0,150.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\cifra\cifra.vcxproj.filters,0,0.0,150.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\picotls-fusion\picotls-fusion.vcxproj,0,0.0,150.0
+h2o,HTML,D:\clones\h2o\doc\configure\compress_directives.html,38,4.0,150.0
+h2o,C,D:\clones\h2o\lib\http2\cache_digests.c,25,27.0,149.0
+h2o,C,D:\clones\h2o\lib\http2\casper.c,27,29.0,149.0
+h2o,C,D:\clones\h2o\deps\picotls\lib\ffx.c,29,30.0,148.0
+h2o,C,D:\clones\h2o\deps\quicly\lib\ranges.c,25,30.0,148.0
+h2o,C/C++ Header,D:\clones\h2o\lib\handler\file\templates.c.h,10,27.0,148.0
+h2o,C,D:\clones\h2o\deps\brotli\c\enc\memory.c,26,8.0,147.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\wrapper\enc\Encoder.java,17,34.0,147.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\compile.h,31,17.0,147.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\proc.rb,31,2.0,147.0
+h2o,CMake,D:\clones\h2o\deps\quicly\CMakeLists.txt,22,2.0,146.0
+h2o,Windows Module Definition,D:\clones\h2o\deps\mruby-errno\src\known_errors.def,0,0.0,145.0
+h2o,Python,D:\clones\h2o\deps\picotls\deps\cifra\doc\build.py,58,71.0,145.0
+h2o,C,D:\clones\h2o\deps\picotls\lib\uecc.c,24,24.0,145.0
+h2o,HTML,D:\clones\h2o\doc\configure\dos_detection.html,24,4.0,145.0
+h2o,C,D:\clones\h2o\t\00unit\lib\handler\fastcgi.c,17,23.0,145.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\dump.h,34,18.0,144.0
+h2o,Bourne Shell,D:\clones\h2o\deps\yaml\config\missing,31,40.0,144.0
+h2o,C,D:\clones\h2o\examples\libh2o\websocket.c,35,27.0,144.0
+h2o,C++,D:\clones\h2o\fuzz\driver_h3.cc,35,33.0,144.0
+h2o,C/C++ Header,D:\clones\h2o\lib\common\socket\evloop\kqueue.c.h,23,26.0,144.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\lib\Net\FastCGI\Constant.pm,28,7.0,144.0
+h2o,C,D:\clones\h2o\deps\quicly\t\ranges.c,44,21.0,143.0
+h2o,C++,D:\clones\h2o\deps\brotli\research\dictionary_generator.cc,10,1.0,142.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-enum-lazy\mrblib\lazy.rb,15,21.0,142.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\picotls-bcrypt\picotls-bcrypt.vcxproj,0,0.0,142.0
+h2o,C,D:\clones\h2o\examples\libh2o\socket-client.c,18,26.0,142.0
+h2o,C,D:\clones\h2o\lib\handler\compress\gzip.c,29,27.0,142.0
+h2o,C,D:\clones\h2o\lib\handler\proxy.c,27,29.0,142.0
+h2o,C,D:\clones\h2o\deps\brotli\c\enc\literal_cost.c,14,20.0,141.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\blockwise.c,29,25.0,141.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\microecc\microecc.vcxproj,0,0.0,140.0
+h2o,C,D:\clones\h2o\deps\quicly\t\sentmap.c,27,30.0,140.0
+h2o,C,D:\clones\h2o\deps\yaml\tests\example-reformatter.c,48,14.0,140.0
+h2o,JavaScript,D:\clones\h2o\doc\search\oktavia-jquery-ui.js,12,23.0,140.0
+h2o,C,D:\clones\h2o\lib\core\context.c,26,26.0,140.0
+h2o,C#,D:\clones\h2o\deps\brotli\csharp\org\brotli\dec\BrotliInputStream.cs,14,70.0,139.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_s.html,1,3.0,139.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_vars_s.html,1,3.0,139.0
+h2o,C,D:\clones\h2o\deps\brotli\c\dec\state.c,27,7.0,138.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\metablock_inc.h,11,34.0,138.0
+h2o,C#,D:\clones\h2o\deps\brotli\csharp\org\brotli\dec\Transform.cs,7,9.0,138.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-kernel-ext\src\kernel.c,21,87.0,138.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\modes.h,47,402.0,138.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\lib\cifra\aes-common.h,28,22.0,138.0
+h2o,C#,D:\clones\h2o\deps\brotli\csharp\org\brotli\dec\DecodeTest.cs,13,21.0,137.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\dec\DecodeTest.java,16,7.0,137.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\arm\semihost.c,34,0.0,136.0
+h2o,C,D:\clones\h2o\deps\quicly\t\frame.c,17,25.0,136.0
+h2o,C/C++ Header,D:\clones\h2o\lib\common\socket\evloop\poll.c.h,17,30.0,135.0
+h2o,C++,D:\clones\h2o\src\h2olog\json.cc,21,2.0,135.0
+h2o,Python,D:\clones\h2o\deps\brotli\python\bro.py,15,11.0,134.0
+h2o,Markdown,D:\clones\h2o\deps\mruby\doc\guides\gc-arena-howto.md,43,0.0,134.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\chacha20.c,14,13.0,134.0
+h2o,C,D:\clones\h2o\lib\common\filecache.c,21,31.0,134.0
+h2o,C/C++ Header,D:\clones\h2o\lib\handler\mimemap\defaults.c.h,0,0.0,134.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-random\src\mt19937ar.c,30,61.0,133.0
+h2o,C,D:\clones\h2o\lib\handler\compress.c,20,32.0,133.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\install.mt,26,0.0,133.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\command.h,23,25.0,132.0
+h2o,Maven,D:\clones\h2o\deps\brotli\java\org\brotli\dec\pom.xml,5,0.0,132.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-test\driver.c,31,12.0,132.0
+h2o,C,D:\clones\h2o\deps\quicly\lib\remote_cid.c,23,46.0,132.0
+h2o,Lua,D:\clones\h2o\deps\klib\lua\bio.lua,5,13.0,131.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-pack\test\pack.rb,27,7.0,131.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\testsha.h,35,47.0,131.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\dec\context.h,27,94.0,130.0
+h2o,C++,D:\clones\h2o\deps\brotli\java\org\brotli\wrapper\enc\encoder_jni.cc,25,40.0,130.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-debugger\tools\mrdb\mrdb.h,27,8.0,130.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\globals_type.html,0,3.0,130.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\eg\server.pl,31,3.0,130.0
+h2o,C,D:\clones\h2o\deps\neverbleed\test.c,12,26.0,129.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\picotls\picotls.vcxproj.filters,0,0.0,129.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\Rakefile,30,9.0,128.0
+h2o,HTML,D:\clones\h2o\doc\configure\status_directives.html,29,4.0,128.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\t\020_protocol\085_dump_record_body.t,18,4.0,128.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\ccm.c,38,28.0,127.0
+h2o,C,D:\clones\h2o\lib\common\time.c,20,28.0,127.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-objectspace\src\mruby_objectspace.c,25,36.0,126.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-pack\packtest.rb,28,3.0,126.0
+h2o,C,D:\clones\h2o\deps\quicly\lib\sentmap.c,24,26.0,126.0
+h2o,C,D:\clones\h2o\deps\quicly\t\loss.c,34,32.0,126.0
+h2o,C,D:\clones\h2o\lib\handler\access_log.c,22,29.0,126.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\port.h,36,31.0,125.0
+h2o,C,D:\clones\h2o\lib\handler\configurator\compress.c,19,21.0,125.0
+h2o,C,D:\clones\h2o\t\00unit\lib\common\balancer\roundrobin.c,24,0.0,125.0
+h2o,C/C++ Header,D:\clones\h2o\deps\hiredis\adapters\glib.h,25,4.0,124.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\group__version.html,6,3.0,124.0
+h2o,C,D:\clones\h2o\t\00unit\lib\common\socket.c,20,27.0,124.0
+h2o,C++,D:\clones\h2o\deps\brotli\java\org\brotli\wrapper\dec\decoder_jni.cc,26,48.0,123.0
+h2o,C,D:\clones\h2o\deps\klib\test\khash_test.c,18,0.0,123.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\salsa20.c,16,25.0,123.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\testsalsa20.c,52,35.0,123.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-eval\test\eval.rb,10,0.0,122.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\dec\port.h,23,24.0,121.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\fast_log.h,13,11.0,121.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\boxing_word.h,18,5.0,121.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\wrapper\dec\Decoder.java,18,22.0,120.0
+h2o,C,D:\clones\h2o\deps\klib\test\kstring_bench2.c,7,4.0,120.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\numeric.h,25,16.0,120.0
+h2o,C,D:\clones\h2o\lib\core\headers.c,16,21.0,120.0
+h2o,C,D:\clones\h2o\lib\handler\configurator\mruby.c,26,30.0,120.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-math\test\math.rb,28,5.0,119.0
+h2o,C,D:\clones\h2o\deps\picotls\t\minicrypto.c,29,22.0,119.0
+h2o,C,D:\clones\h2o\deps\quicly\lib\cc-cubic.c,27,47.0,119.0
+h2o,C,D:\clones\h2o\lib\handler\status\events.c,13,23.0,119.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\fastcgi_directives.mt,9,0.0,118.0
+h2o,C,D:\clones\h2o\t\00unit\lib\common\balancer\least_conn.c,23,0.0,118.0
+h2o,Markdown,D:\clones\h2o\deps\mruby\doc\opcode.md,10,0.0,117.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-strip\tools\mruby-strip\mruby-strip.c,20,2.0,117.0
+h2o,HTML,D:\clones\h2o\doc\configure\mruby_directives.html,35,4.0,117.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\backward_references_inc.h,8,29.0,116.0
+h2o,C/C++ Header,D:\clones\h2o\deps\golombset\golombset.h,20,27.0,115.0
+h2o,CMake,D:\clones\h2o\deps\yaml\CMakeLists.txt,21,24.0,115.0
+h2o,C,D:\clones\h2o\t\00unit\lib\common\multithread.c,20,22.0,115.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\quality.h,21,26.0,114.0
+h2o,C,D:\clones\h2o\deps\klib\kthread.c,19,10.0,114.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\string.h,42,292.0,114.0
+h2o,Python,D:\clones\h2o\deps\picotls\deps\micro-ecc\scripts\mult_avr_extra.py,24,5.0,114.0
+h2o,C,D:\clones\h2o\deps\quicly\lib\sendstate.c,25,35.0,114.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\structyaml__alias__data__s.html,11,3.0,114.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\structyaml__mark__s.html,11,3.0,114.0
+h2o,Bourne Shell,D:\clones\h2o\share\h2o\fetch-ocsp-response,23,32.0,114.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-dir\test\dir.rb,21,2.0,113.0
+h2o,Markdown,D:\clones\h2o\deps\mruby\doc\guides\mrbconf.md,33,0.0,113.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-range-ext\src\range.c,20,42.0,113.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\arm\boot.c,26,5.0,113.0
+h2o,HTML,D:\clones\h2o\doc\configure\http1_directives.html,27,4.0,113.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-array-ext\src\array.c,27,64.0,112.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\tasks\gitlab.rake,6,0.0,112.0
+h2o,C,D:\clones\h2o\deps\quicly\lib\rate.c,16,29.0,112.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-onig-regexp\mrblib\onig_regexp.rb,24,9.0,111.0
+h2o,HTML,D:\clones\h2o\doc\configure\errordoc_directives.html,27,4.0,111.0
+h2o,Perl,D:\clones\h2o\t\run-tests,23,7.0,111.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-socket\test\unix.rb,17,3.0,110.0
+h2o,C++,D:\clones\h2o\deps\quicly\fuzz\packet.cc,6,0.0,110.0
+h2o,C,D:\clones\h2o\examples\libh2o\redis-client.c,18,24.0,110.0
+h2o,C,D:\clones\h2o\lib\handler\configurator\errordoc.c,20,31.0,110.0
+h2o,Perl,D:\clones\h2o\misc\cli2man.pl,9,1.0,110.0
+h2o,C/C++ Header,D:\clones\h2o\deps\hiredis\hiredis.h,33,81.0,109.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\server_timing_directives.mt,12,0.0,109.0
+h2o,Perl,D:\clones\h2o\deps\picotls\t\e2e.t,10,4.0,108.0
+h2o,C/C++ Header,D:\clones\h2o\deps\yoml\yoml.h,19,21.0,108.0
+h2o,C,D:\clones\h2o\lib\handler\status\requests.c,22,34.0,107.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\headers_directives.mt,15,0.0,107.0
+h2o,C#,D:\clones\h2o\deps\brotli\csharp\org\brotli\dec\Huffman.cs,6,37.0,106.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\cmac.c,23,21.0,106.0
+h2o,C,D:\clones\h2o\deps\ssl-conservatory\openssl\openssl_hostname_validation.c,25,50.0,106.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\structyaml__simple__key__s.html,8,3.0,106.0
+h2o,CSS,D:\clones\h2o\doc\assets\searchstyle.css,19,0.0,106.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\ringbuffer.h,16,39.0,105.0
+h2o,C#,D:\clones\h2o\deps\brotli\csharp\org\brotli\dec\State.cs,55,11.0,105.0
+h2o,C,D:\clones\h2o\deps\libgkc\test.c,15,21.0,105.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-require\test\test2.rb,30,4.0,105.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\enumerable.rb,27,2.0,105.0
+h2o,Python,D:\clones\h2o\deps\picotls\deps\cifra\src\poly1305.py,21,1.0,105.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\micro-ecc\uECC.h,70,187.0,105.0
+h2o,HTML,D:\clones\h2o\doc\configure\redirect_directives.html,25,4.0,105.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\ops.h,1,12.0,104.0
+h2o,Go,D:\clones\h2o\deps\brotli\go\cbrotli\reader.go,21,37.0,103.0
+h2o,C,D:\clones\h2o\deps\klib\test\kbit_test.c,26,8.0,103.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-env\test\env_test.rb,25,3.0,103.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-onig-regexp\mrbgem.rake,15,1.0,103.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\sha1.c,23,24.0,103.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\include\brotli\port.h,25,19.0,102.0
+h2o,C,D:\clones\h2o\deps\mruby-dir\test\dirtest.c,20,7.0,102.0
+h2o,C,D:\clones\h2o\deps\brotli\c\enc\backward_references.c,19,14.0,101.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\bit_cost_inc.h,6,20.0,101.0
+h2o,HTML,D:\clones\h2o\doc\configure\throttle_response_directives.html,26,4.0,101.0
+h2o,C,D:\clones\h2o\lib\handler\compress\brotli.c,19,23.0,101.0
+h2o,C,D:\clones\h2o\lib\handler\self_trace.c,27,26.0,101.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\wrapper\enc\BrotliEncoderChannelTest.java,14,3.0,100.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\wrapper\enc\BrotliOutputStreamTest.java,15,3.0,100.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\lib\mruby\build\load_gems.rb,21,3.0,100.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-io\test\file_test.rb,15,2.0,100.0
+h2o,HTML,D:\clones\h2o\doc\benchmarks.html,20,4.0,100.0
+h2o,C,D:\clones\h2o\lib\handler\errordoc.c,15,30.0,100.0
+h2o,C,D:\clones\h2o\deps\mruby-dir\src\Win\dirent.c,30,25.0,99.0
+h2o,Python,D:\clones\h2o\deps\picotls\deps\micro-ecc\emk_project.py,28,0.0,99.0
+h2o,C,D:\clones\h2o\deps\picotls\lib\certificate_compression.c,25,25.0,99.0
+h2o,HTML,D:\clones\h2o\doc\configure\quick_start.html,25,4.0,99.0
+h2o,C,D:\clones\h2o\lib\handler\throttle_resp.c,28,26.0,99.0
+h2o,Perl,D:\clones\h2o\t\90h2olog.t,28,4.0,99.0
+h2o,C,D:\clones\h2o\deps\quicly\lib\frame.c,18,23.0,98.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\structyaml__node__pair__s.html,8,3.0,98.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\structyaml__tag__directive__s.html,8,3.0,98.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\structyaml__version__directive__s.html,8,3.0,98.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\include\brotli\decode.h,25,218.0,97.0
+h2o,C/C++ Header,D:\clones\h2o\deps\hiredis\adapters\libev.h,17,33.0,97.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\structyaml__anchors__s.html,6,3.0,97.0
+h2o,HTML,D:\clones\h2o\doc\faq.html,25,4.0,97.0
+h2o,Ruby,D:\clones\h2o\lib\handler\mruby\embedded\core.rb,18,20.0,97.0
+h2o,C,D:\clones\h2o\t\00unit\lib\handler\headers.c,17,23.0,97.0
+h2o,C,D:\clones\h2o\t\injectaddr.c,11,50.0,97.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-input-stream\test\input_stream.rb,16,0.0,96.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\chacha20poly1305.c,21,31.0,96.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\micro-ecc\uECC_vli.h,36,40.0,96.0
+h2o,C,D:\clones\h2o\deps\quicly\lib\cc-pico.c,23,59.0,96.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\proc.h,23,13.0,95.0
+h2o,C,D:\clones\h2o\deps\picotls\fuzz\fuzz-asn1.c,11,2.0,95.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\snippets\wrapper.mt,14,0.0,95.0
+h2o,C,D:\clones\h2o\t\00unit\lib\http3\server.c,15,29.0,95.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\mrbgems\mruby-compiler\core\node.h,3,5.0,94.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-inline-struct\test\inline.rb,19,5.0,94.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_t.html,1,3.0,94.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_vars_t.html,1,3.0,94.0
+h2o,Maven,D:\clones\h2o\deps\brotli\java\org\brotli\pom.xml,8,0.0,93.0
+h2o,C,D:\clones\h2o\deps\klib\test\ksort_test.c,11,0.0,93.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-sprintf\test\sprintf.rb,18,2.0,93.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\include\picotls\openssl.h,19,24.0,93.0
+h2o,C,D:\clones\h2o\deps\quicly\t\remote_cid.c,14,48.0,93.0
+h2o,Objective-C,D:\clones\h2o\deps\ssl-conservatory\ios\SSLCertificatePinning\SSLCertificatePinningTests\NSURLConnectionTests.m,44,17.0,93.0
+h2o,HTML,D:\clones\h2o\doc\index.html,18,4.0,93.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\socketpool.h,22,112.0,93.0
+h2o,Ruby,D:\clones\h2o\share\h2o\mruby\dos_detector.rb,21,20.0,93.0
+h2o,Markdown,D:\clones\h2o\deps\hiredis\CHANGELOG.md,57,0.0,92.0
+h2o,C,D:\clones\h2o\deps\quicly\lib\cc-reno.c,17,32.0,92.0
+h2o,HTML,D:\clones\h2o\doc\configure.html,15,4.0,92.0
+h2o,C,D:\clones\h2o\lib\handler\headers.c,23,26.0,92.0
+h2o,Ruby,D:\clones\h2o\share\h2o\mruby\htpasswd.rb,15,22.0,92.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\dos_detection.mt,9,0.0,92.0
+h2o,C/C++ Header,D:\clones\h2o\deps\hiredis\adapters\qt.h,20,24.0,91.0
+h2o,Markdown,D:\clones\h2o\deps\picohttpparser\README.md,25,0.0,91.0
+h2o,C,D:\clones\h2o\t\00unit\lib\http2\casper.c,21,21.0,91.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\wrapper\dec\DecoderJNI.java,14,11.0,89.0
+h2o,C/C++ Header,D:\clones\h2o\deps\klib\klist.h,12,20.0,89.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-sleep\src\mrb_sleep.c,17,29.0,89.0
+h2o,HTML,D:\clones\h2o\doc\configure\expires_directives.html,25,4.0,89.0
+h2o,Perl,D:\clones\h2o\misc\makeman.pl,7,0.0,89.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\dec\Transform.java,15,12.0,88.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-proc-ext\test\proc.rb,24,2.0,88.0
+h2o,D,D:\clones\h2o\deps\quicly\quicly-probes.d,27,37.0,88.0
+h2o,Bourne Shell,D:\clones\h2o\deps\yaml\config\test-driver,19,41.0,88.0
+h2o,C,D:\clones\h2o\deps\yaml\src\writer.c,33,20.0,88.0
+h2o,HTML,D:\clones\h2o\doc\configure\cgi.html,22,4.0,88.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\multithread.h,16,69.0,88.0
+h2o,C/C++ Header,D:\clones\h2o\lib\probes_.h,17,30.0,88.0
+h2o,C,D:\clones\h2o\lib\tunnel.c,23,23.0,88.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\t\020_protocol\065_record_type.t,17,0.0,88.0
+h2o,C,D:\clones\h2o\t\quic-ndec-initial-gen.c,14,10.0,88.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\integration\BundleChecker.java,9,16.0,87.0
+h2o,C++,D:\clones\h2o\deps\brotli\research\draw_diff.cc,18,7.0,87.0
+h2o,C,D:\clones\h2o\deps\klib\test\kbtree_test.c,7,0.0,87.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\tasks\mrbgems.rake,9,3.0,87.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\range.rb,23,2.0,87.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\micro-ecc\types.h,20,1.0,87.0
+h2o,C/C++ Header,D:\clones\h2o\deps\quicly\include\quicly\streambuf.h,20,74.0,87.0
+h2o,C++,D:\clones\h2o\fuzz\driver_common.cc,8,29.0,87.0
+h2o,C,D:\clones\h2o\t\00unit\lib\handler\compress.c,21,21.0,87.0
+h2o,Markdown,D:\clones\h2o\deps\brotli\c\tools\brotli.md,21,0.0,86.0
+h2o,Objective-C,D:\clones\h2o\deps\ssl-conservatory\ios\SSLCertificatePinning\SSLCertificatePinningTests\NSURLSessionTests.m,43,16.0,86.0
+h2o,HTML,D:\clones\h2o\doc\configure\reproxy_directives.html,24,4.0,86.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\string_.h,18,131.0,86.0
+h2o,Ruby,D:\clones\h2o\share\h2o\mruby\acl.rb,24,20.0,86.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\dec\Huffman.java,15,32.0,85.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\wrapper\enc\EncoderJNI.java,16,11.0,85.0
+h2o,Python,D:\clones\h2o\deps\brotli\python\tests\_test_utils.py,22,5.0,85.0
+h2o,C/C++ Header,D:\clones\h2o\deps\hiredis\adapters\libuv.h,37,0.0,85.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-class-ext\test\module.rb,18,6.0,85.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\globals_defs.html,0,3.0,85.0
+h2o,C,D:\clones\h2o\fuzz\h3_header_generator.c,17,22.0,85.0
+h2o,make,D:\clones\h2o\misc\doc.mk,9,0.0,85.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\t\020_protocol\055_parse_record_body.t,11,2.0,85.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\context.h,24,76.0,84.0
+h2o,Go,D:\clones\h2o\deps\brotli\go\cbrotli\writer.go,17,58.0,84.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-error\src\exception.c,16,0.0,84.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrblib\numeric.rb,15,64.0,84.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\integration\BundleHelper.java,11,19.0,83.0
+h2o,C,D:\clones\h2o\deps\picotls\lib\cifra\random.c,13,26.0,83.0
+h2o,C/C++ Header,D:\clones\h2o\deps\quicly\include\quicly\maxsender.h,17,37.0,83.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\wrapper\common\BrotliCommon.java,15,33.0,82.0
+h2o,C,D:\clones\h2o\deps\klib\test\khash_keith.c,2,11.0,82.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\testnorx.c,22,14.0,82.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_e.html,1,3.0,82.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_vars_e.html,1,3.0,82.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\globals_enum.html,0,3.0,82.0
+h2o,C,D:\clones\h2o\lib\handler\configurator\access_log.c,18,26.0,82.0
+h2o,C,D:\clones\h2o\t\00unit\lib\handler\mimemap.c,19,26.0,82.0
+h2o,C,D:\clones\h2o\deps\brotli\c\enc\histogram.c,11,5.0,81.0
+h2o,C/C++ Header,D:\clones\h2o\deps\hiredis\adapters\macosx.h,26,7.0,81.0
+h2o,C,D:\clones\h2o\deps\picotls\lib\cifra\x25519.c,18,21.0,81.0
+h2o,HTML,D:\clones\h2o\doc\configure\command_options.html,17,4.0,81.0
+h2o,C,D:\clones\h2o\lib\handler\configurator\expires.c,12,30.0,81.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\dec\BrotliInputStream.java,15,55.0,80.0
+h2o,C,D:\clones\h2o\deps\ssl-conservatory\openssl\test_client.c,29,33.0,80.0
+h2o,JavaScript,D:\clones\h2o\deps\yaml\doc\html\dynsections.js,14,26.0,80.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_p.html,1,3.0,80.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_vars_p.html,1,3.0,80.0
+h2o,C/C++ Header,D:\clones\h2o\deps\hiredis\adapters\ae.h,16,32.0,79.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-mruby\bintest\mruby.rb,15,3.0,79.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\group__export.html,3,3.0,79.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\wrapper\common\SetRfcDictionaryTest.java,11,8.0,78.0
+h2o,YAML,D:\clones\h2o\deps\brotli\scripts\appveyor.yml,12,0.0,78.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-kernel-ext\test\kernel.rb,10,0.0,78.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\gf128.c,17,19.0,78.0
+h2o,C,D:\clones\h2o\deps\picotls\fuzz\fuzz-client-hello.c,17,13.0,78.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_m.html,1,3.0,78.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_vars_m.html,1,3.0,78.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\metablock.h,13,10.0,77.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\micro-ecc\test\test_ecdh.c,12,1.0,77.0
+h2o,HTML,D:\clones\h2o\doc\configure\basic_auth.html,20,4.0,77.0
+h2o,C/C++ Header,D:\clones\h2o\src\h2olog\h2olog.h,14,78.0,77.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\compress_directives.mt,10,0.0,76.0
+h2o,C,D:\clones\h2o\t\00unit\lib\common\serverutil.c,14,25.0,76.0
+h2o,C,D:\clones\h2o\t\00unit\lib\handler\connect.c,10,21.0,76.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\wrapper\dec\BrotliInputStream.java,13,14.0,75.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-inline-struct\test\inline.c,10,0.0,75.0
+h2o,C/C++ Header,D:\clones\h2o\deps\quicly\include\quicly\constants.h,16,38.0,75.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\t\020_protocol\027_begin_request.t,21,1.0,75.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\entropy_encode.h,20,28.0,74.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\boxing_nan.h,15,13.0,74.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\testpoly1305.c,14,14.0,74.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\testsha3.c,16,14.0,74.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions.html,1,3.0,74.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_i.html,1,3.0,74.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_vars.html,1,3.0,74.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_vars_i.html,1,3.0,74.0
+h2o,C,D:\clones\h2o\t\00unit\issues\293.c,18,26.0,74.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\dec\State.java,10,4.0,73.0
+h2o,Bourne Shell,D:\clones\h2o\deps\brotli\scripts\.travis.sh,3,0.0,73.0
+h2o,C/C++ Header,D:\clones\h2o\deps\klib\khmm.h,12,22.0,73.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\array.h,28,179.0,73.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\eax.c,21,22.0,73.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\t\test.h,11,23.0,73.0
+h2o,C,D:\clones\h2o\t\00unit\lib\common\httpclient.c,7,21.0,73.0
+h2o,C/C++ Header,D:\clones\h2o\deps\klib\kgraph.h,7,0.0,72.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\modes.c,12,15.0,72.0
+h2o,Python,D:\clones\h2o\deps\brotli\python\tests\bro_test.py,25,6.0,71.0
+h2o,C/C++ Header,D:\clones\h2o\deps\hiredis\dict.h,17,38.0,71.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-require\mrblib\require.rb,16,3.0,71.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\lib\mruby-core-ext.rb,9,5.0,71.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\comparable.rb,9,0.0,71.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\url.h,15,74.0,71.0
+h2o,C,D:\clones\h2o\lib\handler\mruby\channel.c,21,21.0,71.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-socket\test\sockettest.c,13,0.0,70.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\tasks\benchmark.rake,21,0.0,70.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\methods.rb,25,14.0,70.0
+h2o,C,D:\clones\h2o\deps\quicly\t\rate.c,17,26.0,70.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_l.html,1,3.0,70.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_vars_l.html,1,3.0,70.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\picotls-minicrypto-deps\picotls-minicrypto-deps.vcxproj.filters,0,0.0,69.0
+h2o,C,D:\clones\h2o\deps\quicly\t\stream-concurrency.c,12,27.0,69.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_c.html,1,3.0,69.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_r.html,1,3.0,69.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_vars_c.html,1,3.0,69.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_vars_r.html,1,3.0,69.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\wrapper\enc\EncoderTest.java,9,3.0,68.0
+h2o,C++,D:\clones\h2o\deps\klib\test\kvec_test.cc,1,0.0,68.0
+h2o,Markdown,D:\clones\h2o\deps\mruby-file-stat\README.md,14,0.0,68.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\class.h,13,16.0,68.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\annotated.html,0,3.0,68.0
+h2o,Perl,D:\clones\h2o\misc\makedoc.pl,7,0.0,68.0
+h2o,C,D:\clones\h2o\deps\klib\test\kseq_bench.c,2,0.0,67.0
+h2o,Arduino Sketch,D:\clones\h2o\deps\picotls\deps\micro-ecc\test\ecc_test\ecc_test.ino,14,4.0,67.0
+h2o,C,D:\clones\h2o\deps\quicly\lib\recvstate.c,16,28.0,67.0
+h2o,Objective-C,D:\clones\h2o\deps\ssl-conservatory\ios\SSLCertificatePinning\SSLCertificatePinning\ISPCertificatePinning.m,24,21.0,67.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\t\020_protocol\037_end_request.t,19,1.0,67.0
+h2o,C,D:\clones\h2o\deps\brotli\c\enc\utf8_util.c,8,11.0,66.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\wrapper\dec\BrotliDecoderChannelTest.java,11,7.0,66.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\micro-ecc\test\test_compute.c,14,1.0,66.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_b.html,1,3.0,66.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_vars_b.html,1,3.0,66.0
+h2o,make,D:\clones\h2o\misc\docker-ci\check.mk,10,3.0,66.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\examples\targets\build_config_IntelGalileo.rb,20,21.0,65.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\gc.h,16,10.0,65.0
+h2o,Markdown,D:\clones\h2o\deps\picotls\README.md,20,0.0,65.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_d.html,1,3.0,65.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_vars_d.html,1,3.0,65.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\configurator.h,11,119.0,65.0
+h2o,C,D:\clones\h2o\lib\http3\frame.c,12,22.0,65.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\t\020_protocol\070_names.t,15,0.0,65.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\wrapper\dec\BrotliInputStreamTest.java,11,7.0,64.0
+h2o,JavaScript,D:\clones\h2o\deps\brotli\js\decode_test.js,7,8.0,64.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-require\test\require.rb,21,15.0,64.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-socket\test\addrinfo.rb,10,17.0,64.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\modules.html,0,3.0,64.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\socket\evloop.h,16,30.0,64.0
+h2o,C,D:\clones\h2o\lib\handler\redirect.c,13,23.0,64.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\t\020_protocol\015_build_stream.t,17,1.0,64.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\h2olog.mt,15,0.0,64.0
+h2o,YAML,D:\clones\h2o\deps\picotls\.github\workflows\ci.yml,9,4.0,63.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\hmac.c,22,21.0,63.0
+h2o,C/C++ Header,D:\clones\h2o\deps\quicly\include\quicly\cc.h,14,123.0,63.0
+h2o,C#,D:\clones\h2o\deps\brotli\csharp\org\brotli\dec\Dictionary.cs,11,24.0,62.0
+h2o,Lua,D:\clones\h2o\deps\brotli\premake5.lua,15,1.0,62.0
+h2o,C,D:\clones\h2o\deps\klib\test\kthread_test.c,6,1.0,62.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-object-ext\src\object.c,15,35.0,62.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\micro-ecc\test\test_compress.c,14,3.0,62.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_h.html,1,3.0,62.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_o.html,1,3.0,62.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_v.html,1,3.0,62.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_vars_h.html,1,3.0,62.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_vars_o.html,1,3.0,62.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_vars_v.html,1,3.0,62.0
+h2o,JavaScript,D:\clones\h2o\deps\yaml\doc\html\menudata.js,5,18.0,62.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\t\020_protocol\060_params.t,16,1.0,62.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\brotli_bit_stream.h,15,27.0,61.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\find_match_length.h,9,10.0,61.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\include\brotli\encode.h,24,318.0,61.0
+h2o,Maven,D:\clones\h2o\deps\brotli\java\org\brotli\integration\pom.xml,4,0.0,61.0
+h2o,C,D:\clones\h2o\deps\cloexec\cloexec.c,11,24.0,61.0
+h2o,C/C++ Header,D:\clones\h2o\deps\hiredis\adapters\ivykis.h,16,4.0,61.0
+h2o,C/C++ Header,D:\clones\h2o\deps\hiredis\adapters\libevent.h,14,33.0,61.0
+h2o,Markdown,D:\clones\h2o\deps\mruby\README.md,31,0.0,61.0
+h2o,C,D:\clones\h2o\deps\picotest\picotest.c,17,21.0,61.0
+h2o,C,D:\clones\h2o\deps\quicly\lib\loss.c,11,31.0,61.0
+h2o,m4,D:\clones\h2o\deps\yaml\configure.ac,12,0.0,61.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_f.html,1,3.0,61.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_vars_f.html,1,3.0,61.0
+h2o,C/C++ Header,D:\clones\h2o\src\h2olog\raw_tracer.cc.h,14,21.0,61.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\status_directives.mt,6,0.0,61.0
+h2o,JavaScript,D:\clones\h2o\deps\brotli\js\polyfill.js,5,0.0,60.0
+h2o,C/C++ Header,D:\clones\h2o\deps\hiredis\async.h,20,49.0,60.0
+h2o,C,D:\clones\h2o\deps\hiredis\examples\example-glib.c,13,0.0,60.0
+h2o,C,D:\clones\h2o\deps\klib\test\kstring_test.c,16,0.0,60.0
+h2o,make,D:\clones\h2o\deps\libyrmcds\Makefile,21,6.0,60.0
+h2o,C/C++ Header,D:\clones\h2o\deps\libyrmcds\t\t.h,14,1.0,60.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\numeric.rb,11,3.0,60.0
+h2o,Bourne Shell,D:\clones\h2o\deps\quicly\misc\quic-interop-runner\run_endpoint.sh,9,10.0,60.0
+h2o,Markdown,D:\clones\h2o\deps\ssl-conservatory\ios\README.md,29,0.0,60.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\classes.html,0,3.0,60.0
+h2o,YAML,D:\clones\h2o\.github\workflows\ci.yml,9,5.0,59.0
+h2o,C/C++ Header,D:\clones\h2o\deps\hiredis\read.h,17,35.0,59.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-strip\bintest\mruby-strip.rb,11,3.0,59.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\tasks\toolchains\gcc.rake,7,0.0,59.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_vars_w.html,1,3.0,59.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_w.html,1,3.0,59.0
+h2o,Ruby,D:\clones\h2o\misc\mruby-mtest\test\mtest_unit_test.rb,12,3.0,59.0
+h2o,YAML,D:\clones\h2o\.github\workflows\daily_coverity.yml,9,4.0,58.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\wrapper\dec\DecoderTest.java,12,7.0,58.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\wrapper\enc\BrotliOutputStream.java,13,16.0,58.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-dir\mrblib\dir.rb,6,0.0,58.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\variable.h,15,67.0,58.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-enum-chain\test\enum_chain.rb,16,2.0,58.0
+h2o,C,D:\clones\h2o\deps\picotls\fuzz\fuzz-server-hello.c,16,13.0,58.0
+h2o,C,D:\clones\h2o\lib\handler\configurator\status.c,8,21.0,58.0
+h2o,C,D:\clones\h2o\lib\handler\expires.c,5,21.0,58.0
+h2o,C,D:\clones\h2o\deps\hiredis\examples\example.c,13,8.0,57.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-numeric-ext\src\numeric_ext.c,13,29.0,57.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\testchacha20poly1305.c,14,20.0,57.0
+h2o,C,D:\clones\h2o\deps\picotls\picotlsvs\picotls-esni\getopt.c,6,40.0,57.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\linklist.h,14,48.0,57.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\cbcmac.c,10,13.0,56.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\files.html,0,3.0,56.0
+h2o,C/C++ Header,D:\clones\h2o\lib\handler\file\_templates.c.h,10,27.0,56.0
+h2o,C,D:\clones\h2o\lib\handler\mruby\sleep.c,14,22.0,56.0
+h2o,Python,D:\clones\h2o\deps\brotli\python\tests\compressor_test.py,25,11.0,55.0
+h2o,Markdown,D:\clones\h2o\deps\mruby\mrbgems\mruby-pack\README.md,15,0.0,55.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-print\src\print.c,6,2.0,55.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-proc-ext\test\proc.c,7,0.0,55.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-random\test\random.rb,15,6.0,55.0
+h2o,C#,D:\clones\h2o\deps\brotli\csharp\org\brotli\dec\TransformTest.cs,4,16.0,54.0
+h2o,Bourne Shell,D:\clones\h2o\deps\brotli\csharp\transpile.sh,30,10.0,54.0
+h2o,C,D:\clones\h2o\deps\klib\test\khash_keith2.c,2,11.0,54.0
+h2o,Markdown,D:\clones\h2o\deps\libyrmcds\README.md,24,0.0,54.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\iterations.rb,7,0.0,54.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\picotls-minicrypto\picotls-minicrypto.vcxproj.filters,0,0.0,54.0
+h2o,diff,D:\clones\h2o\fuzz\gather-data.patch,2,34.0,54.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\http2_scheduler.h,13,87.0,54.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\quick_start.mt,12,0.0,54.0
+h2o,C,D:\clones\h2o\t\00unit\lib\handler\redirect.c,7,21.0,54.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-struct\mrblib\struct.rb,9,41.0,53.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_k.html,1,3.0,53.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_n.html,1,3.0,53.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_q.html,1,3.0,53.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_u.html,1,3.0,53.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_vars_k.html,1,3.0,53.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_vars_n.html,1,3.0,53.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_vars_q.html,1,3.0,53.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\functions_vars_u.html,1,3.0,53.0
+h2o,Markdown,D:\clones\h2o\deps\yoml\README.md,13,0.0,53.0
+h2o,Ruby,D:\clones\h2o\share\h2o\mruby\lru_cache.rb,8,20.0,53.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\write_bits.h,16,22.0,52.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\dec\TransformTest.java,9,10.0,52.0
+h2o,C/C++ Header,D:\clones\h2o\deps\klib\kson.h,12,0.0,52.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\common.h,11,14.0,52.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-error\test\exception.c,7,0.0,52.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\pbkdf2.c,12,20.0,52.0
+h2o,C,D:\clones\h2o\lib\handler\status\ssl.c,10,21.0,52.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\mruby_directives.mt,10,0.0,52.0
+h2o,Ruby,D:\clones\h2o\t\00unit.mruby\trie_addr.rb,11,1.0,52.0
+h2o,C,D:\clones\h2o\t\00unit\lib\common\absprio.c,10,23.0,52.0
+h2o,Markdown,D:\clones\h2o\deps\brotli\README.md,32,0.0,51.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\dec\SetDictionaryTest.java,12,13.0,51.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-json\example\jsonrpc.rb,4,0.0,51.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-debugger\tools\mrdb\cmdrun.c,9,4.0,51.0
+h2o,C/C++ Header,D:\clones\h2o\deps\quicly\include\quicly\linklist.h,12,22.0,51.0
+h2o,HTML,D:\clones\h2o\deps\yaml\doc\html\index.html,0,3.0,51.0
+h2o,C,D:\clones\h2o\lib\common\file.c,4,25.0,51.0
+h2o,Bourne Shell,D:\clones\h2o\share\h2o\kill-on-close,11,1.0,51.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\errordoc_directives.mt,5,0.0,51.0
+h2o,C/C++ Header,D:\clones\h2o\t\00unit\test.h,7,28.0,51.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\backward_references_hq.h,16,30.0,50.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\wrapper\enc\BrotliEncoderChannel.java,11,15.0,50.0
+h2o,C/C++ Header,D:\clones\h2o\deps\klib\bgzf.h,32,114.0,50.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\opcode.h,11,8.0,50.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-debugger\tools\mrdb\apiprint.c,14,14.0,50.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-hash-ext\src\hash-ext.c,10,25.0,50.0
+h2o,C,D:\clones\h2o\deps\quicly\t\retire_cid.c,12,35.0,50.0
+h2o,C,D:\clones\h2o\lib\common\balancer\roundrobin.c,9,22.0,50.0
+h2o,C,D:\clones\h2o\src\setuidgid.c,6,22.0,50.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\examples\targets\build_config_ArduinoDue.rb,17,24.0,49.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-objectspace\test\objectspace.rb,11,0.0,49.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\tasks\toolchains\visualcpp.rake,9,11.0,49.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\micro-ecc\test\test_ecdsa.c,9,1.0,49.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\redis.h,12,21.0,49.0
+h2o,Markdown,D:\clones\h2o\misc\mruby-mtest\README.md,14,0.0,49.0
+h2o,C,D:\clones\h2o\deps\klib\test\kstring_bench.c,3,0.0,48.0
+h2o,Markdown,D:\clones\h2o\deps\neverbleed\README.md,22,0.0,48.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\sha2.h,36,151.0,48.0
+h2o,C,D:\clones\h2o\t\00unit\lib\http2\cache_digests.c,9,21.0,48.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\bit_cost.h,10,6.0,47.0
+h2o,C,D:\clones\h2o\deps\hiredis\examples\example-ae.c,12,3.0,47.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-errno\test\errno.rb,12,1.0,47.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-object-ext\test\object.rb,6,0.0,47.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\hostinfo.h,15,41.0,47.0
+h2o,C,D:\clones\h2o\lib\common\rand.c,12,37.0,47.0
+h2o,C,D:\clones\h2o\lib\handler\configurator\redirect.c,6,21.0,47.0
+h2o,Ruby,D:\clones\h2o\share\h2o\mruby\trie_addr.rb,6,20.0,47.0
+h2o,C/C++ Header,D:\clones\h2o\deps\klib\kurl.h,11,0.0,46.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-file-stat\mrblib\file-stat.rb,6,0.0,46.0
+h2o,Markdown,D:\clones\h2o\deps\mruby\CONTRIBUTING.md,22,0.0,46.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\examples\targets\build_config_RX630.rb,18,17.0,46.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\examples\targets\build_config_chipKITMax32.rb,18,22.0,46.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\data.h,14,16.0,46.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\hash.h,25,158.0,46.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-enum-lazy\test\lazy.rb,7,0.0,46.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\ensure.rb,6,2.0,46.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\drbg.h,18,127.0,46.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\socket\uv-binding.h,13,22.0,46.0
+h2o,C,D:\clones\h2o\deps\hiredis\examples\example-macosx.c,15,6.0,45.0
+h2o,C/C++ Header,D:\clones\h2o\deps\klib\knetfile.h,16,14.0,45.0
+h2o,C,D:\clones\h2o\deps\klib\test\kmin_test.c,3,0.0,45.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-require\test\test_nest_loop.rb,9,4.0,45.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\examples\targets\build_config_IntelEdison.rb,15,9.0,45.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\irep.h,18,12.0,45.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-symbol-ext\test\symbol.rb,8,3.0,45.0
+h2o,make,D:\clones\h2o\deps\picotls\deps\cifra\src\Makefile,9,0.0,45.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\sha3.h,37,98.0,45.0
+h2o,C/C++ Header,D:\clones\h2o\deps\quicly\include\quicly\rate.h,11,60.0,45.0
+h2o,C,D:\clones\h2o\deps\yaml\tests\run-loader.c,18,0.0,45.0
+h2o,C,D:\clones\h2o\deps\yaml\tests\run-parser.c,18,0.0,45.0
+h2o,C,D:\clones\h2o\deps\yaml\tests\run-scanner.c,18,0.0,45.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\redirect_directives.mt,6,0.0,45.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\memory.h,14,5.0,44.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\wrapper\dec\BrotliDecoderChannel.java,10,15.0,44.0
+h2o,C,D:\clones\h2o\deps\hiredis\examples\example-ivykis.c,12,2.0,44.0
+h2o,Markdown,D:\clones\h2o\deps\mruby-require\README.md,16,0.0,44.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\range.h,11,18.0,44.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-enum-chain\mrblib\chain.rb,13,3.0,44.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-error\test\exception.rb,9,2.0,44.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-symbol-ext\src\symbol.c,6,21.0,44.0
+h2o,C,D:\clones\h2o\lib\common\balancer\least_conn.c,6,21.0,44.0
+h2o,Perl,D:\clones\h2o\misc\dump-github-repository.pl,7,1.0,44.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\faq.mt,12,0.0,44.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\histogram.h,12,5.0,43.0
+h2o,C,D:\clones\h2o\deps\hiredis\examples\example-libevent.c,8,2.0,43.0
+h2o,C,D:\clones\h2o\deps\hiredis\examples\example-libuv.c,8,2.0,43.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-digest\mrblib\digest.rb,3,0.0,43.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mrbconf.h,37,69.0,43.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\boxing_no.h,8,5.0,43.0
+h2o,Markdown,D:\clones\h2o\deps\mruby\mrbgems\mruby-method\README.md,16,0.0,43.0
+h2o,Markdown,D:\clones\h2o\deps\mruby\mrbgems\mruby-socket\README.md,12,0.0,43.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrblib\range.rb,10,14.0,43.0
+h2o,Markdown,D:\clones\h2o\deps\quicly\README.md,18,0.0,43.0
+h2o,C/C++ Header,D:\clones\h2o\deps\quicly\include\quicly\cid.h,13,62.0,43.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\header.h,10,73.0,43.0
+h2o,C,D:\clones\h2o\lib\handler\configurator\reproxy.c,14,24.0,43.0
+h2o,C,D:\clones\h2o\lib\handler\configurator\server_timing.c,15,24.0,43.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure.mt,2,0.0,43.0
+h2o,C,D:\clones\h2o\deps\hiredis\examples\example-libev.c,8,2.0,42.0
+h2o,make,D:\clones\h2o\deps\klib\test\Makefile,18,0.0,42.0
+h2o,Markdown,D:\clones\h2o\deps\mruby-dir\README.md,14,0.0,42.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-print\mrblib\print.rb,3,16.0,42.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-proc-ext\mrblib\proc.rb,8,0.0,42.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\lang.rb,7,25.0,42.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\extra_vecs\openssl-hash.c,9,9.0,42.0
+h2o,C/C++ Header,D:\clones\h2o\deps\quicly\include\quicly\ranges.h,10,40.0,42.0
+h2o,C,D:\clones\h2o\lib\handler\configurator\headers.c,11,21.0,42.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\throttle_response_directives.mt,6,0.0,42.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\dec\Context.java,7,10.0,41.0
+h2o,C,D:\clones\h2o\deps\klib\test\kseq_bench2.c,2,0.0,41.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-debugger\tools\mrdb\cmdprint.c,11,6.0,41.0
+h2o,C,D:\clones\h2o\deps\mruby\src\init.c,5,5.0,41.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\testopenssl\testopenssl.vcxproj.filters,0,0.0,41.0
+h2o,YAML,D:\clones\h2o\deps\quicly\.travis.yml,2,0.0,41.0
+h2o,C,D:\clones\h2o\lib\handler\configurator\throttle_resp.c,11,21.0,41.0
+h2o,make,D:\clones\h2o\misc\regen.mk,14,2.0,41.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\benchmarks.mt,7,0.0,41.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\index.mt,5,0.0,41.0
+h2o,YAML,D:\clones\h2o\.travis.yml,0,0.0,40.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\dec\DictionaryData.java,6,9.0,40.0
+h2o,Markdown,D:\clones\h2o\deps\mruby-digest\README.md,15,0.0,40.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-class-ext\src\class.c,10,18.0,40.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\arm\ext\cutest.h,11,4.0,40.0
+h2o,C/C++ Header,D:\clones\h2o\deps\quicly\include\quicly\local_cid.h,10,88.0,40.0
+h2o,Python,D:\clones\h2o\deps\quicly\parselog.py,10,3.0,40.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\token.h,13,36.0,40.0
+h2o,Ruby,D:\clones\h2o\share\h2o\mruby\prometheus.rb,10,21.0,40.0
+h2o,Perl,D:\clones\h2o\t\assets\50mruby-middleware.psgi,1,1.0,40.0
+h2o,C++,D:\clones\h2o\deps\brotli\c\fuzz\decode_fuzzer.cc,7,7.0,39.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\debug.h,12,16.0,39.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\gc.rb,5,1.0,39.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\travis_config.rb,11,3.0,39.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\testutil.h,9,13.0,39.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\filecache.h,7,23.0,39.0
+h2o,Ruby,D:\clones\h2o\lib\handler\mruby\embedded\middleware.rb,6,19.0,39.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\prefix.h,8,8.0,38.0
+h2o,CMake,D:\clones\h2o\deps\picotls\cmake\dtrace-utils.cmake,1,1.0,38.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\include\picotls\minicrypto.h,11,21.0,38.0
+h2o,C/C++ Header,D:\clones\h2o\deps\quicly\include\quicly\sendstate.h,10,36.0,38.0
+h2o,Markdown,D:\clones\h2o\deps\ssl-conservatory\openssl\README.md,23,0.0,38.0
+h2o,make,D:\clones\h2o\deps\yaml\Makefile.am,14,2.0,38.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\qpack.h,7,39.0,38.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\timerwheel.h,13,55.0,38.0
+h2o,C,D:\clones\h2o\lib\handler\http2_debug_state.c,9,22.0,38.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\t\020_protocol\001_header.t,12,1.0,38.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\t\020_protocol\080_dump_record.t,11,2.0,38.0
+h2o,C,D:\clones\h2o\deps\brotli\c\enc\cluster.c,13,6.0,37.0
+h2o,Markdown,D:\clones\h2o\deps\brotli\research\README.md,30,0.0,37.0
+h2o,C/C++ Header,D:\clones\h2o\deps\libyrmcds\yrmcds_portability.h,4,9.0,37.0
+h2o,C/C++ Header,D:\clones\h2o\deps\libyrmcds\yrmcds_text.h,6,4.0,37.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrblib\10error.rb,14,8.0,37.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrblib\compar.rb,6,41.0,37.0
+h2o,C/C++ Header,D:\clones\h2o\deps\quicly\t\test.h,6,21.0,37.0
+h2o,Ruby,D:\clones\h2o\misc\mruby-mtest\example\sample.rb,9,0.0,37.0
+h2o,C,D:\clones\h2o\t\00unit\lib\common\cache.c,16,31.0,37.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\dec\Utils.java,11,27.0,36.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\appveyor_config.rb,11,3.0,36.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\throw.h,14,5.0,36.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-class-ext\mrblib\module.rb,5,48.0,36.0
+h2o,C,D:\clones\h2o\deps\mruby\src\print.c,6,5.0,36.0
+h2o,C,D:\clones\h2o\deps\picohttpparser\bench.c,5,25.0,36.0
+h2o,C,D:\clones\h2o\deps\picotls\lib\cifra\aes128.c,6,21.0,36.0
+h2o,C,D:\clones\h2o\deps\picotls\lib\cifra\aes256.c,6,21.0,36.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\cache.h,10,68.0,36.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\hpack.h,8,53.0,36.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\openssl_backport.h,12,23.0,36.0
+h2o,make,D:\clones\h2o\deps\brotli\Makefile,8,0.0,35.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\dec\huffman.h,15,18.0,35.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\block_splitter.h,11,5.0,35.0
+h2o,C#,D:\clones\h2o\deps\brotli\csharp\org\brotli\dec\WordTransformType.cs,23,10.0,35.0
+h2o,C/C++ Header,D:\clones\h2o\deps\klib\kvec.h,18,37.0,35.0
+h2o,Markdown,D:\clones\h2o\deps\mruby-env\README.md,17,0.0,35.0
+h2o,DOS Batch,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-config\mruby-config.bat,7,0.0,35.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-socket\test\ipsocket.rb,8,1.0,35.0
+h2o,Python,D:\clones\h2o\deps\picotls\deps\cifra\doc\conf.py,69,159.0,35.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\testcurve25519.c,8,13.0,35.0
+h2o,C/C++ Header,D:\clones\h2o\deps\quicly\include\quicly\recvstate.h,9,36.0,35.0
+h2o,Ruby,D:\clones\h2o\share\h2o\mruby\bootstrap.rb,2,0.0,35.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\cgi.mt,7,0.0,35.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\histogram_inc.h,10,7.0,34.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\superclass.rb,0,13.0,34.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\blockwise.h,10,103.0,34.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\testsha1.c,8,13.0,34.0
+h2o,Perl,D:\clones\h2o\deps\picotls\misc\dump-github-repository.pl,7,0.0,34.0
+h2o,C#,D:\clones\h2o\deps\brotli\csharp\org\brotli\dec\Context.cs,2,22.0,33.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\wrapper\common\SetZeroDictionaryTest.java,7,8.0,33.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\tasks\toolchains\openwrt.rake,3,2.0,33.0
+h2o,Assembly,D:\clones\h2o\deps\picotls\deps\cifra\src\arm\memcpy.s,5,11.0,33.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\ext\handy.h,13,20.0,33.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\picotls-core\picotls-core.vcxproj.filters,0,0.0,33.0
+h2o,C,D:\clones\h2o\lib\handler\reproxy.c,7,26.0,33.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\dec\Dictionary.java,8,14.0,32.0
+h2o,make,D:\clones\h2o\deps\brotli\python\Makefile,14,11.0,32.0
+h2o,Markdown,D:\clones\h2o\deps\brotli\python\README.md,22,0.0,32.0
+h2o,C,D:\clones\h2o\deps\golombset\test.c,5,21.0,32.0
+h2o,YAML,D:\clones\h2o\deps\hiredis\.travis.yml,7,0.0,32.0
+h2o,C/C++ Header,D:\clones\h2o\deps\hiredis\win32.h,10,0.0,32.0
+h2o,C,D:\clones\h2o\deps\libyrmcds\example\counter.c,6,0.0,32.0
+h2o,C,D:\clones\h2o\deps\libyrmcds\example\memcache.c,6,0.0,32.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\error.h,14,29.0,32.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-compiler\mrbgem.rake,6,2.0,32.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picohttpparser\picohttpparser.h,14,43.0,32.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\aes.h,16,104.0,32.0
+h2o,Assembly,D:\clones\h2o\deps\picotls\deps\cifra\src\arm\memset.s,6,12.0,32.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\include\picotls\fusion.h,11,56.0,32.0
+h2o,C,D:\clones\h2o\lib\common\absprio.c,6,26.0,32.0
+h2o,Ruby,D:\clones\h2o\lib\handler\mruby\embedded\http_request.rb,5,19.0,32.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\t\020_protocol\005_record_length.t,11,1.0,32.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\t\020_protocol\010_build_record.t,10,2.0,32.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\command_options.mt,4,0.0,32.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\snippets\mruby_method.mt,1,0.0,32.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\include\brotli\types.h,12,47.0,31.0
+h2o,CMake,D:\clones\h2o\deps\brotli\tests\run-roundtrip-test.cmake,3,0.0,31.0
+h2o,C,D:\clones\h2o\deps\libyrmcds\strerror.c,2,1.0,31.0
+h2o,Markdown,D:\clones\h2o\deps\mruby-onig-regexp\README.md,14,0.0,31.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\version.h,20,59.0,31.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-mirb\mrbgem.rake,2,0.0,31.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-socket\test\socket.rb,5,2.0,31.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-test\init_mrbtest.c,8,0.0,31.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\bintest.rb,6,0.0,31.0
+h2o,Markdown,D:\clones\h2o\deps\yaml\ReadMe.md,15,0.0,31.0
+h2o,Bourne Shell,D:\clones\h2o\share\h2o\setuidgid,8,7.0,31.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\expires_directives.mt,5,0.0,31.0
+h2o,C,D:\clones\h2o\deps\brotli\c\dec\bit_reader.c,9,9.0,30.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\cluster.h,13,5.0,30.0
+h2o,C++,D:\clones\h2o\deps\brotli\c\fuzz\run_decode_fuzzer.cc,8,6.0,30.0
+h2o,C++,D:\clones\h2o\deps\hiredis\examples\example-qt.cpp,16,0.0,30.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\benchmark\bm_app_lc_fizzbuzz.rb,11,10.0,30.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\benchmark\bm_so_lists.rb,4,13.0,30.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\build_config.rb,24,98.0,30.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\salsa20.h,13,97.0,30.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\picotls-esni\picotls-esni.vcxproj.filters,0,0.0,30.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\picotlsvs\picotlsvs.vcxproj.filters,0,0.0,30.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\pioctls-core\pioctls-core.vcxproj.filters,0,0.0,30.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\websocket.h,8,22.0,30.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\t\020_protocol\020_begin_request_body.t,10,1.0,30.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\t\020_protocol\030_end_request_body.t,11,1.0,30.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\t\020_protocol\040_unknown_type_body.t,11,1.0,30.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\research\read_dist.h,7,14.0,29.0
+h2o,Python,D:\clones\h2o\deps\brotli\scripts\fix-win-bazel-build.py,2,0.0,29.0
+h2o,C/C++ Header,D:\clones\h2o\deps\klib\kmath.h,15,9.0,29.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-file-stat\mrbgem.rake,3,0.0,29.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\object.h,10,5.0,29.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-mirb\bintest\mirb.rb,5,0.0,29.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\nil.rb,8,2.0,29.0
+h2o,Markdown,D:\clones\h2o\deps\picotls\deps\micro-ecc\README.md,12,0.0,29.0
+h2o,Objective-C,D:\clones\h2o\deps\ssl-conservatory\ios\SSLCertificatePinning\SSLCertificatePinningTests\SSLPinsTestUtility.m,14,14.0,29.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\common\constants.h,11,18.0,28.0
+h2o,C#,D:\clones\h2o\deps\brotli\csharp\org\brotli\dec\Utils.cs,4,27.0,28.0
+h2o,C++,D:\clones\h2o\deps\brotli\java\org\brotli\wrapper\common\common_jni.cc,8,11.0,28.0
+h2o,Python,D:\clones\h2o\deps\brotli\python\tests\decompressor_test.py,14,5.0,28.0
+h2o,C/C++ Header,D:\clones\h2o\deps\klib\knhx.h,7,0.0,28.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\mrbgems\mruby-io\include\mruby\ext\io.h,7,3.0,28.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\picotlsvs\picotls\wincompat.h,9,0.0,28.0
+h2o,C,D:\clones\h2o\deps\quicly\t\maxsender.c,5,23.0,28.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\http3_server.h,8,31.0,28.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\time_.h,9,30.0,28.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\http1_directives.mt,7,0.0,28.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\reproxy_directives.mt,5,0.0,28.0
+h2o,C,D:\clones\h2o\deps\libyrmcds\socket.c,7,1.0,27.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-compiler\bintest\mrbc.rb,3,0.0,27.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-symbol-ext\mrblib\symbol.rb,14,31.0,27.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\bs_literal.rb,9,2.0,27.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\chash.h,14,96.0,27.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\picotls-bcrypt\picotls-bcrypt.vcxproj.filters,0,0.0,27.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\picotls-openssl\picotls-openssl.vcxproj.filters,0,0.0,27.0
+h2o,C/C++ Header,D:\clones\h2o\src\standalone.h,9,21.0,27.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\snippets\directive.mt,1,0.0,27.0
+h2o,Perl,D:\clones\h2o\t\udp-generator.pl,7,1.0,27.0
+h2o,make,D:\clones\h2o\deps\brotli\Makefile.am,10,2.0,26.0
+h2o,C#,D:\clones\h2o\deps\brotli\csharp\org\brotli\dec\HuffmanTreeGroup.cs,5,19.0,26.0
+h2o,CMake,D:\clones\h2o\deps\brotli\tests\run-compatibility-test.cmake,3,0.0,26.0
+h2o,C,D:\clones\h2o\deps\klib\test\kseq_test.c,1,0.0,26.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-env\mrblib\env.rb,4,0.0,26.0
+h2o,C,D:\clones\h2o\deps\mruby-file-stat\test\file-stat.c,4,0.0,26.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\istruct.h,11,10.0,26.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-range-ext\test\range.rb,4,2.0,26.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\include\picotls\ffx.h,6,106.0,26.0
+h2o,C,D:\clones\h2o\deps\picotls\picotlsvs\picotls\wintimeofday.c,9,38.0,26.0
+h2o,Markdown,D:\clones\h2o\fuzz\http3-test-inputs\README.md,2,0.0,26.0
+h2o,D,D:\clones\h2o\h2o-probes.d,8,98.0,26.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\cache_digests.h,7,33.0,26.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\man-snippets\h2o.conf.5\mruby_method.mt,2,0.0,26.0
+h2o,C,D:\clones\h2o\t\00unit\lib\core\headers.c,6,21.0,26.0
+h2o,Bourne Shell,D:\clones\h2o\deps\brotli\c\fuzz\test_fuzzer.sh,9,0.0,25.0
+h2o,C#,D:\clones\h2o\deps\brotli\csharp\org\brotli\dec\DictionaryTest.cs,2,9.0,25.0
+h2o,Python,D:\clones\h2o\deps\brotli\python\tests\compress_test.py,11,5.0,25.0
+h2o,Bourne Shell,D:\clones\h2o\deps\brotli\tests\roundtrip_test.sh,3,3.0,25.0
+h2o,C/C++ Header,D:\clones\h2o\deps\klib\ksw.h,9,38.0,25.0
+h2o,C,D:\clones\h2o\deps\mruby-class-new-fiber-safe\src\class-new-fiber-safe.c,5,1.0,25.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-io\mrblib\file_constants.rb,4,0.0,25.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\symbol.rb,7,2.0,25.0
+h2o,C/C++ Header,D:\clones\h2o\deps\neverbleed\neverbleed.h,7,34.0,25.0
+h2o,Python,D:\clones\h2o\deps\picotls\deps\cifra\extra_vecs\python-hash.py,8,5.0,25.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\fusiontest\fusiontest.vcxproj.filters,0,0.0,25.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\microecc\microecc.vcxproj.filters,0,0.0,25.0
+h2o,YAML,D:\clones\h2o\deps\quicly\.github\workflows\ci.yml,5,2.0,25.0
+h2o,C/C++ Header,D:\clones\h2o\deps\quicly\include\quicly\remote_cid.h,7,63.0,25.0
+h2o,C,D:\clones\h2o\deps\quicly\lib\retire_cid.c,6,24.0,25.0
+h2o,JavaScript,D:\clones\h2o\deps\yaml\doc\html\menu.js,6,19.0,25.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\basic_auth.mt,6,0.0,25.0
+h2o,C,D:\clones\h2o\t\00unit\lib\common\hostinfo.c,6,22.0,25.0
+h2o,C,D:\clones\h2o\t\00unit\lib\common\time.c,2,21.0,25.0
+h2o,Markdown,D:\clones\h2o\deps\brotli\CONTRIBUTING.md,3,0.0,24.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\dec\DictionaryTest.java,7,7.0,24.0
+h2o,C,D:\clones\h2o\deps\libyrmcds\text_mode.c,7,1.0,24.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-sleep\Rakefile,5,0.0,24.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-sleep\test\sleep_test.rb,5,0.0,24.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\include\picotls\certificate_compression.h,8,27.0,24.0
+h2o,C/C++ Header,D:\clones\h2o\deps\quicly\include\quicly\retire_cid.h,9,31.0,24.0
+h2o,Objective-C,D:\clones\h2o\deps\ssl-conservatory\ios\SSLCertificatePinning\SSLCertificatePinning\ISPPinnedNSURLConnectionDelegate.m,12,13.0,24.0
+h2o,Objective-C,D:\clones\h2o\deps\ssl-conservatory\ios\SSLCertificatePinning\SSLCertificatePinning\ISPPinnedNSURLSessionDelegate.m,10,13.0,24.0
+h2o,C++,D:\clones\h2o\fuzz\driver_url.cc,2,25.0,24.0
+h2o,Perl,D:\clones\h2o\misc\embed_mruby_code.pl,8,19.0,24.0
+h2o,Ruby,D:\clones\h2o\misc\mruby_config.rb,5,6.0,24.0
+h2o,Bourne Shell,D:\clones\h2o\share\h2o\annotate-backtrace-symbols,5,4.0,24.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\compress_fragment.h,12,26.0,23.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\compress_fragment_two_pass.h,11,20.0,23.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-method\mrblib\method.rb,5,0.0,23.0
+h2o,YAML,D:\clones\h2o\deps\mruby\mrbgems\mruby-sleep\.travis.yml,2,4.0,23.0
+h2o,C,D:\clones\h2o\deps\mruby\src\crc.c,5,11.0,23.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\src\value_array.h,3,1.0,23.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\false.rb,6,2.0,23.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\true.rb,6,2.0,23.0
+h2o,YAML,D:\clones\h2o\deps\picotls\deps\cifra\.travis.yml,6,0.0,23.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\include\picotls\ptlsbcrypt.h,9,21.0,23.0
+h2o,Markdown,D:\clones\h2o\fuzz\README.md,15,0.0,23.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\absprio.h,8,27.0,23.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\serverutil.h,10,55.0,23.0
+h2o,C,D:\clones\h2o\lib\handler\server_timing.c,6,23.0,23.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\configure\prometheus.mt,6,0.0,23.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\backward_references.h,8,9.0,22.0
+h2o,C#,D:\clones\h2o\deps\brotli\csharp\org\brotli\dec\BitReaderTest.cs,1,10.0,22.0
+h2o,C/C++ Header,D:\clones\h2o\deps\hiredis\examples\example-qt.h,10,0.0,22.0
+h2o,C/C++ Header,D:\clones\h2o\deps\klib\kbit.h,6,2.0,22.0
+h2o,C,D:\clones\h2o\deps\klib\test\kgraph_test.c,4,0.0,22.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-input-stream\Rakefile,6,0.0,22.0
+h2o,YAML,D:\clones\h2o\deps\mruby\appveyor.yml,13,3.0,22.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\mrbgems\mruby-random\src\mt19937ar.h,12,46.0,22.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrblib\kernel.rb,8,20.0,22.0
+h2o,Python,D:\clones\h2o\deps\picotls\deps\cifra\src\arm\merge.py,4,0.0,22.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\hmac.h,10,46.0,22.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\bcrypt-test\bcrypt-test.vcxproj.filters,0,0.0,22.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\picotls-fusion\picotls-fusion.vcxproj.filters,0,0.0,22.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\ptlsbench\ptlsbench.vcxproj.filters,0,0.0,22.0
+h2o,XML,D:\clones\h2o\deps\ssl-conservatory\ios\SSLCertificatePinning\SSLCertificatePinningTests\SSLCertificatePinningTests-Info.plist,0,0.0,22.0
+h2o,C,D:\clones\h2o\deps\yaml\tests\test-version.c,6,1.0,22.0
+h2o,Ruby,D:\clones\h2o\examples\h2o_mruby\hello.rb,6,4.0,22.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\balancer.h,10,23.0,22.0
+h2o,C,D:\clones\h2o\lib\handler\configurator\http2_debug_state.c,3,21.0,22.0
+h2o,Perl,D:\clones\h2o\misc\install-perl-module.pl,5,0.0,22.0
+h2o,C,D:\clones\h2o\t\00unit\lib\core\proxy.c,6,21.0,22.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\common\dictionary.h,14,29.0,21.0
+h2o,C,D:\clones\h2o\deps\brotli\c\enc\bit_cost.c,9,5.0,21.0
+h2o,C#,D:\clones\h2o\deps\brotli\csharp\org\brotli\dec\IntReader.cs,4,11.0,21.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\dec\BitReaderTest.java,6,8.0,21.0
+h2o,Python,D:\clones\h2o\deps\brotli\python\tests\decompress_test.py,12,5.0,21.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-require\run_test.rb,8,3.0,21.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\benchmark\build_config_boxing.rb,7,0.0,21.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-numeric-ext\mrblib\numeric_ext.rb,4,0.0,21.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrblib\00class.rb,2,6.0,21.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\unicode.rb,9,9.0,21.0
+h2o,Markdown,D:\clones\h2o\deps\picotls\WindowsPort.md,13,0.0,21.0
+h2o,YAML,D:\clones\h2o\deps\picotls\appveyor.yml,4,0.0,21.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\poly1305.h,8,62.0,21.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\include\picotls\asn1.h,13,30.0,21.0
+h2o,make,D:\clones\h2o\deps\picotls\misc\docker-ci.mk,3,0.0,21.0
+h2o,C/C++ Header,D:\clones\h2o\deps\quicly\include\quicly\defaults.h,7,39.0,21.0
+h2o,make,D:\clones\h2o\deps\quicly\misc\docker-ci.mk,3,0.0,21.0
+h2o,C/C++ Header,D:\clones\h2o\fuzz\quicly_mock.h,11,30.0,21.0
+h2o,Perl,D:\clones\h2o\misc\generate_gitrev.pl,4,0.0,21.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\t\020_protocol\025_begin_request_record.t,8,1.0,21.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\t\020_protocol\035_end_request_record.t,8,1.0,21.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\t\020_protocol\045_unknown_type_record.t,8,1.0,21.0
+h2o,C/C++ Header,D:\clones\h2o\deps\hiredis\fmacros.h,5,0.0,20.0
+h2o,Markdown,D:\clones\h2o\deps\mruby-errno\README.md,7,0.0,20.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\examples\targets\build_config_android_armeabi_v7a_neon_hard.rb,5,3.0,20.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\lib\mruby\source.rb,8,2.0,20.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-config\mrbgem.rake,2,0.0,20.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-numeric-ext\test\numeric.rb,6,3.0,20.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\tasks\libmruby.rake,5,0.0,20.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\sha1.h,13,58.0,20.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\ebpf.h,9,46.0,20.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\http2.h,7,22.0,20.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\t\000_load.t,9,0.0,20.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\block_encoder_inc.h,6,8.0,19.0
+h2o,C#,D:\clones\h2o\deps\brotli\csharp\org\brotli\dec\RunningState.cs,13,5.0,19.0
+h2o,C,D:\clones\h2o\deps\libyrmcds\close.c,4,1.0,19.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-digest\run_test.rb,6,3.0,19.0
+h2o,Bourne Shell,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-config\mruby-config,1,0.0,19.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-compar-ext\mrblib\compar.rb,0,12.0,19.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-exit\src\mruby-exit.c,4,1.0,19.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-socket\run_test.rb,6,3.0,19.0
+h2o,C,D:\clones\h2o\deps\mruby\src\enum.c,5,6.0,19.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\norx.h,5,60.0,19.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\memcached.h,10,21.0,19.0
+h2o,C,D:\clones\h2o\lib\handler\configurator\self_trace.c,3,21.0,19.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\xt\010_pod_coverage.t,10,0.0,19.0
+h2o,C,D:\clones\h2o\t\00unit\issues\percent-encode-zero-byte.c,5,22.0,19.0
+h2o,Markdown,D:\clones\h2o\CONTRIBUTING.md,3,0.0,18.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\static_dict.h,9,12.0,18.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-dir\run_test.rb,6,3.0,18.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-env\run_test.rb,6,3.0,18.0
+h2o,YAML,D:\clones\h2o\deps\mruby-file-stat\appveyor.yml,1,0.0,18.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-onig-regexp\.travis_config.rb,3,0.0,18.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\examples\targets\build_config_android_arm64-v8a.rb,5,3.0,18.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\examples\targets\build_config_android_armeabi.rb,5,3.0,18.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-debugger\tools\mrdb\apibreak.h,4,4.0,18.0
+h2o,Markdown,D:\clones\h2o\deps\mruby\mrbgems\mruby-sleep\README.md,9,0.0,18.0
+h2o,Markdown,D:\clones\h2o\deps\ssl-conservatory\README.md,10,0.0,18.0
+h2o,Ruby,D:\clones\h2o\lib\handler\mruby\embedded\sender.rb,3,19.0,18.0
+h2o,Ruby,D:\clones\h2o\misc\mruby-mtest\run_test.rb,5,3.0,18.0
+h2o,C/C++ Header,D:\clones\h2o\src\h2olog\json.h,4,2.0,18.0
+h2o,C,D:\clones\h2o\t\00unit\lib\common\rand.c,4,21.0,18.0
+h2o,Markdown,D:\clones\h2o\deps\golombset\README.md,9,0.0,17.0
+h2o,C,D:\clones\h2o\deps\klib\test\klist_test.c,2,0.0,17.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-require\test\load.rb,3,0.0,17.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-io\run_test.rb,6,3.0,17.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-pack\run_test.rb,6,3.0,17.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-sprintf\src\kernel.c,7,6.0,17.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\nameerror.rb,6,5.0,17.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\nomethoderror.rb,3,2.0,17.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\chacha20poly1305.h,6,50.0,17.0
+h2o,Markdown,D:\clones\h2o\deps\picotls\fuzz\README.md,12,0.0,17.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\include\picotls\pembase64.h,9,18.0,17.0
+h2o,JavaScript,D:\clones\h2o\deps\yaml\doc\html\jquery.js,5,93.0,17.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\version.h,5,21.0,17.0
+h2o,Perl,D:\clones\h2o\misc\picotemplate-conf.pl,4,0.0,17.0
+h2o,Markdown,D:\clones\h2o\README.md,6,0.0,16.0
+h2o,JSON,D:\clones\h2o\deps\brotli\scripts\.bintray.json,3,0.0,16.0
+h2o,YAML,D:\clones\h2o\deps\hiredis\appveyor.yml,4,3.0,16.0
+h2o,YAML,D:\clones\h2o\deps\libyrmcds\.travis.yml,0,0.0,16.0
+h2o,Markdown,D:\clones\h2o\deps\mruby-json\README.md,11,0.0,16.0
+h2o,C,D:\clones\h2o\deps\mruby\examples\mrbgems\c_and_ruby_extension_example\src\example.c,3,1.0,16.0
+h2o,C,D:\clones\h2o\deps\mruby\examples\mrbgems\c_extension_example\src\example.c,3,1.0,16.0
+h2o,C,D:\clones\h2o\deps\mruby\mrbgems\mruby-io\src\mruby_io_gem.c,4,0.0,16.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-range-ext\mrblib\range.rb,1,11.0,16.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-toplevel-ext\test\toplevel.rb,6,2.0,16.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrblib\mrblib.rake,2,0.0,16.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\src\mruby_core.rake,3,0.0,16.0
+h2o,D,D:\clones\h2o\deps\picotls\misc\dtrace\dtrace.d,1,26.0,16.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\man-snippets\h2o.conf.5\directive.mt,1,0.0,16.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\utf8_util.h,9,8.0,15.0
+h2o,C#,D:\clones\h2o\deps\brotli\csharp\org\brotli\dec\BrotliRuntimeException.cs,2,5.0,15.0
+h2o,Bourne Shell,D:\clones\h2o\deps\brotli\tests\compatibility_test.sh,3,4.0,15.0
+h2o,C/C++ Header,D:\clones\h2o\deps\hiredis\net.h,5,33.0,15.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-errno\src\gen.rb,5,5.0,15.0
+h2o,YAML,D:\clones\h2o\deps\mruby-file-stat\.travis.yml,0,0.0,15.0
+h2o,YAML,D:\clones\h2o\deps\mruby\.travis.yml,4,0.0,15.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-io\mrbgem.rake,2,1.0,15.0
+h2o,C,D:\clones\h2o\deps\mruby\src\version.c,2,0.0,15.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\arm\semihost.h,10,15.0,15.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\man-snippets\h2o.conf.5\wrapper.mt,4,0.0,15.0
+h2o,C#,D:\clones\h2o\deps\brotli\csharp\org\brotli\dec\Prefix.cs,8,11.0,14.0
+h2o,m4,D:\clones\h2o\deps\mruby-file-stat\configure.ac,6,0.0,14.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-socket\test\basicsocket.rb,3,0.0,14.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mruby-source.gemspec,3,1.0,14.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotest\picotest.h,4,21.0,14.0
+h2o,Markdown,D:\clones\h2o\deps\picotls\deps\cifra\curve25519-shootout.md,2,0.0,14.0
+h2o,D,D:\clones\h2o\deps\picotls\misc\dtrace\bpftrace.d,1,26.0,14.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\picotlsvs\picotls-esni\getopt.h,5,0.0,14.0
+h2o,Python,D:\clones\h2o\deps\quicly\misc\find-cids.py,3,0.0,14.0
+h2o,C/C++ Header,D:\clones\h2o\deps\ssl-conservatory\openssl\openssl_hostname_validation.h,4,22.0,14.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\rand.h,5,33.0,14.0
+h2o,Ruby,D:\clones\h2o\lib\handler\mruby\embedded\channel.rb,1,19.0,14.0
+h2o,Ruby,D:\clones\h2o\t\assets\50mruby-h2o-rtt.rb,0,0.0,14.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\literal_cost.h,8,9.0,13.0
+h2o,Python,D:\clones\h2o\deps\brotli\python\brotli.py,13,30.0,13.0
+h2o,make,D:\clones\h2o\deps\brotli\research\Makefile,4,0.0,13.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-class-new-fiber-safe\test\class-new-fiber-safe.rb,1,0.0,13.0
+h2o,Markdown,D:\clones\h2o\deps\mruby-input-stream\README.md,15,0.0,13.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-input-stream\build_config_sample.rb,4,0.0,13.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-input-stream\mrblib\input_stream.rb,1,2.0,13.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-json\example\example.rb,1,0.0,13.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-io\mrblib\kernel.rb,2,0.0,13.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\mrbgems\mruby-time\include\mruby\time.h,7,5.0,13.0
+h2o,make,D:\clones\h2o\deps\neverbleed\Makefile,5,0.0,13.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\curve25519.c,3,13.0,13.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\prp.h,7,44.0,13.0
+h2o,Markdown,D:\clones\h2o\deps\quicly\CONTRIBUTING.md,2,0.0,13.0
+h2o,Dockerfile,D:\clones\h2o\deps\quicly\misc\quic-interop-runner\Dockerfile,10,3.0,13.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\http1.h,6,21.0,13.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\http2_casper.h,4,39.0,13.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\Makefile.PL,6,0.0,13.0
+h2o,C/C++ Header,D:\clones\h2o\deps\libgkc\gkc.h,4,21.0,12.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-mrbc\mrbgem.rake,4,0.0,12.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-mruby\mrbgem.rake,1,0.0,12.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-socket\mrbgem.rake,3,3.0,12.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\cf_config.h,6,41.0,12.0
+h2o,C,D:\clones\h2o\deps\picotls\deps\cifra\src\chash.c,3,13.0,12.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\gf128.h,11,32.0,12.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\http3_internal.h,4,27.0,12.0
+h2o,YAML,D:\clones\h2o\t\assets\session_tickets.yaml,0,0.0,12.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\enc\dictionary_hash.h,8,5.0,11.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\research\deorummolae.h,6,10.0,11.0
+h2o,make,D:\clones\h2o\deps\brotli\tests\Makefile,5,1.0,11.0
+h2o,C/C++ Header,D:\clones\h2o\deps\cloexec\cloexec.h,4,21.0,11.0
+h2o,C,D:\clones\h2o\deps\libyrmcds\set_compression.c,2,1.0,11.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-require\mrbgem.rake,3,0.0,11.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\benchmark\build_config_cc.rb,2,0.0,11.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-debugger\tools\mrdb\mrdberror.h,5,4.0,11.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-socket\src\gen.rb,4,2.0,11.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\argumenterror.rb,2,3.0,11.0
+h2o,make,D:\clones\h2o\deps\picotls\deps\cifra\shitlisp\Makefile,6,0.0,11.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\pbkdf2.h,6,30.0,11.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\ptlsbench\ptlsbench.vcxproj.user,0,0.0,11.0
+h2o,make,D:\clones\h2o\deps\yaml\include\Makefile.am,6,0.0,11.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\xt\000_pod.t,6,0.0,11.0
+h2o,Bourne Again Shell,D:\clones\h2o\src\h2olog\misc\autopep8,4,0.0,11.0
+h2o,PHP,D:\clones\h2o\t\assets\doc_root\issues\951.php,0,0.0,11.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby-input-stream\src\mruby_input_stream.h,5,4.0,10.0
+h2o,YAML,D:\clones\h2o\deps\mruby-onig-regexp\.travis.yml,0,0.0,10.0
+h2o,make,D:\clones\h2o\deps\mruby\Makefile,4,3.0,10.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-method\mrblib\kernel.rb,0,0.0,10.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-object-ext\test\nil.rb,2,0.0,10.0
+h2o,make,D:\clones\h2o\deps\picohttpparser\Makefile,6,24.0,10.0
+h2o,Assembly,D:\clones\h2o\deps\picotls\deps\cifra\src\arm\semihost.s,2,3.0,10.0
+h2o,HTML,D:\clones\h2o\examples\doc_root\index.html,0,0.0,10.0
+h2o,C/C++ Header,D:\clones\h2o\fuzz\driver_common.h,5,21.0,10.0
+h2o,Mathematica,D:\clones\h2o\srcdoc\snippets\directive_list.mt,1,0.0,10.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\dec\BrotliRuntimeException.java,5,7.0,9.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\integration\BrotliJniTestBase.java,1,3.0,9.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\research\sieve.h,4,9.0,9.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-json\mrblib\json.rb,1,0.0,9.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-error\mrbgem.rake,1,0.0,9.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-socket\test\udpsocket.rb,2,5.0,9.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-sprintf\mrblib\string.rb,0,0.0,9.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-time\mrblib\time.rb,0,0.0,9.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-toplevel-ext\mrblib\toplevel.rb,2,0.0,9.0
+h2o,make,D:\clones\h2o\deps\picotls\deps\cifra\extra_vecs\Makefile,4,0.0,9.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\curve25519.h,6,27.0,9.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\deps\cifra\src\tassert.h,4,19.0,9.0
+h2o,Bourne Shell,D:\clones\h2o\deps\quicly\plot.sh,3,0.0,9.0
+h2o,Bourne Again Shell,D:\clones\h2o\misc\docker-ci\build,5,6.0,9.0
+h2o,HTML,D:\clones\h2o\t\assets\doc_root\cgi.html,4,0.0,9.0
+h2o,Perl,D:\clones\h2o\t\assets\doc_root\hello.cgi,4,0.0,9.0
+h2o,Perl,D:\clones\h2o\t\assets\doc_root\noextcgi,4,0.0,9.0
+h2o,Bourne Again Shell,D:\clones\h2o\deps\brotli\configure,0,0.0,8.0
+h2o,m4,D:\clones\h2o\deps\brotli\configure.ac,5,1.0,8.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-class-new-fiber-safe\.travis_config.rb,0,0.0,8.0
+h2o,Markdown,D:\clones\h2o\deps\mruby-class-new-fiber-safe\README.md,5,0.0,8.0
+h2o,make,D:\clones\h2o\deps\mruby-digest\Makefile,6,0.0,8.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-hash-ext\mrbgem.rake,0,0.0,8.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-method\mrblib\unbound_method.rb,1,0.0,8.0
+h2o,C,D:\clones\h2o\deps\mruby\mrblib\init_mrblib.c,3,0.0,8.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\tasks\toolchains\clang.rake,1,0.0,8.0
+h2o,PowerShell,D:\clones\h2o\deps\picotls\misc\build_picotls.ps1,1,2.0,8.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\picotls-esni\picotls-esni.vcxproj.user,0,0.0,8.0
+h2o,make,D:\clones\h2o\deps\ssl-conservatory\openssl\Makefile,3,1.0,8.0
+h2o,make,D:\clones\h2o\deps\yaml\tests\Makefile.am,0,1.0,8.0
+h2o,XML,D:\clones\h2o\h2o.xcodeproj\project.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist,0,0.0,8.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\send_state.h,2,21.0,8.0
+h2o,Perl,D:\clones\h2o\t\00unit\assets\read_command.pl,3,1.0,8.0
+h2o,Markdown,D:\clones\h2o\t\README.md,1,0.0,8.0
+h2o,Markdown,D:\clones\h2o\.github\ISSUE_TEMPLATE\custom.md,3,0.0,7.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-class-new-fiber-safe\mrbgem.rake,0,0.0,7.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-class-new-fiber-safe\mrblib\class-new-fiber-safe.rb,0,0.0,7.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-json\.travis_config.rb,1,0.0,7.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-debugger\mrbgem.rake,2,0.0,7.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-debugger\tools\mrdb\apilist.h,4,3.0,7.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-enum-lazy\mrbgem.rake,0,0.0,7.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-enumerator\mrbgem.rake,0,0.0,7.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-kernel-ext\mrblib\kernel.rb,0,8.0,7.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrblib\symbol.rb,0,0.0,7.0
+h2o,D,D:\clones\h2o\deps\picotls\picotls-probes.d,1,21.0,7.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotls.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\picotlsvs\picotlsvs.vcxproj.user,0,0.0,7.0
+h2o,XML,D:\clones\h2o\deps\quicly\quicly.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+h2o,Markdown,D:\clones\h2o\doc\README.md,4,0.0,7.0
+h2o,XML,D:\clones\h2o\h2o.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+h2o,Bourne Shell,D:\clones\h2o\misc\build_libFuzzer.sh,1,0.0,7.0
+h2o,Ruby,D:\clones\h2o\misc\mruby-mtest\mrbgem.rake,1,0.0,7.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\lib\Net\FastCGI.pm,5,0.0,7.0
+h2o,YAML,D:\clones\h2o\deps\mruby-class-new-fiber-safe\.travis.yml,0,0.0,6.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-file-stat\.travis_build_config.rb,1,0.0,6.0
+h2o,YAML,D:\clones\h2o\deps\mruby-input-stream\.travis.yml,0,0.0,6.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-input-stream\mrbgem.rake,0,0.0,6.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\examples\mrbgems\c_and_ruby_extension_example\test\example.rb,1,0.0,6.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\include\mruby\re.h,5,5.0,6.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-array-ext\mrbgem.rake,0,0.0,6.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-debugger\tools\mrdb\apiprint.h,4,3.0,6.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-strip\mrbgem.rake,0,0.0,6.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-enum-chain\mrbgem.rake,0,0.0,6.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-eval\mrbgem.rake,1,0.0,6.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-method\mrbgem.rake,1,0.0,6.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-object-ext\mrblib\object.rb,0,13.0,6.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-pack\mrbgem.rake,1,0.0,6.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-sleep\.travis_build_config.rb,0,0.0,6.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-string-ext\mrbgem.rake,0,0.0,6.0
+h2o,C,D:\clones\h2o\deps\mruby\src\compar.c,2,5.0,6.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\basicobject.rb,3,2.0,6.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\object.rb,3,2.0,6.0
+h2o,YAML,D:\clones\h2o\deps\picohttpparser\.travis.yml,0,0.0,6.0
+h2o,reStructuredText,D:\clones\h2o\deps\picotls\deps\cifra\doc\index.rst,6,21.0,6.0
+h2o,YAML,D:\clones\h2o\deps\quicly\.clang-format,0,1.0,6.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\file.h,4,27.0,6.0
+h2o,C/C++ Header,D:\clones\h2o\include\h2o\hiredis_.h,1,21.0,6.0
+h2o,C,D:\clones\h2o\lib\common\token.c,1,21.0,6.0
+h2o,Perl,D:\clones\h2o\misc\p5-net-fastcgi\t\lib\myconfig.pm,3,0.0,6.0
+h2o,Markdown,D:\clones\h2o\misc\test-ca\root\README.md,1,0.0,6.0
+h2o,C,D:\clones\h2o\t\00unit\lib\http3\frame.c,1,21.0,6.0
+h2o,YAML,D:\clones\h2o\t\40session-ticket\forever_ticket.yaml,0,0.0,6.0
+h2o,PHP,D:\clones\h2o\t\assets\doc_root\hello.php,0,0.0,6.0
+h2o,Bourne Shell,D:\clones\h2o\t\assets\doc_root\printenv.cgi,2,1.0,6.0
+h2o,C/C++ Header,D:\clones\h2o\deps\brotli\c\common\version.h,8,13.0,5.0
+h2o,Java,D:\clones\h2o\deps\brotli\java\org\brotli\wrapper\common\CommonJNI.java,4,7.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-dir\mrbgem.rake,1,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-errno\mrbgem.rake,1,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-file-stat\mrblib\ext.rb,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-file-stat\test\io.rb,0,2.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-json\mrbgem.rake,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\benchmark\bm_fib.rb,2,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\examples\mrbgems\c_and_ruby_extension_example\mrblib\example.rb,0,0.0,5.0
+h2o,C,D:\clones\h2o\deps\mruby\examples\mrbgems\c_extension_example\test\example.c,1,1.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\examples\mrbgems\ruby_extension_example\mrbgem.rake,6,14.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\examples\mrbgems\ruby_extension_example\mrblib\example.rb,0,0.0,5.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\mrbgems\mruby-bin-debugger\tools\mrdb\mrdbconf.h,4,7.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-class-ext\mrbgem.rake,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-compar-ext\mrbgem.rake,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-enum-ext\mrbgem.rake,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-exit\mrbgem.rake,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-fiber\mrbgem.rake,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-inline-struct\mrbgem.rake,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-kernel-ext\mrbgem.rake,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-math\mrbgem.rake,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-metaprog\mrbgem.rake,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-numeric-ext\mrbgem.rake,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-object-ext\mrbgem.rake,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-objectspace\mrbgem.rake,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-print\mrbgem.rake,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-proc-ext\mrbgem.rake,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-random\mrbgem.rake,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-range-ext\mrbgem.rake,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-sleep\mrbgem.rake,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-sprintf\mrbgem.rake,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-struct\mrbgem.rake,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-symbol-ext\mrbgem.rake,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-time\mrbgem.rake,0,0.0,5.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-toplevel-ext\mrbgem.rake,0,0.0,5.0
+h2o,Jam,D:\clones\h2o\deps\picohttpparser\Jamfile,2,0.0,5.0
+h2o,C,D:\clones\h2o\deps\picotls\lib\cifra.c,1,21.0,5.0
+h2o,Markdown,D:\clones\h2o\SECURITY.md,3,0.0,4.0
+h2o,CMake,D:\clones\h2o\cmake\FindLibUV.cmake,1,0.0,4.0
+h2o,CMake,D:\clones\h2o\cmake\FindLibYAML.cmake,1,0.0,4.0
+h2o,CMake,D:\clones\h2o\cmake\FindMruby.cmake,1,0.0,4.0
+h2o,CMake,D:\clones\h2o\cmake\FindWslay.cmake,1,0.0,4.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-digest\mrbgem.rake,0,0.0,4.0
+h2o,Ruby,D:\clones\h2o\deps\mruby-env\mrbgem.rake,0,0.0,4.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\examples\mrbgems\c_and_ruby_extension_example\mrbgem.rake,5,14.0,4.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\examples\mrbgems\c_extension_example\mrbgem.rake,5,14.0,4.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\mrbgems\mruby-random\src\random.h,3,5.0,4.0
+h2o,YAML,D:\clones\h2o\deps\mruby\mrbgems\mruby-socket\.travis.yml,0,0.0,4.0
+h2o,Markdown,D:\clones\h2o\deps\mruby\mrbgems\mruby-test\README.md,3,0.0,4.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\report.rb,0,0.0,4.0
+h2o,Python,D:\clones\h2o\deps\picotls\deps\micro-ecc\test\emk_rules.py,0,0.0,4.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\picotls-fusion\picotls-fusion.vcxproj.user,0,0.0,4.0
+h2o,XML,D:\clones\h2o\deps\picotls\picotlsvs\pioctls-core\pioctls-core.vcxproj.user,0,0.0,4.0
+h2o,Perl,D:\clones\h2o\deps\quicly\cpanfile,1,1.0,4.0
+h2o,Bourne Shell,D:\clones\h2o\deps\quicly\misc\build_libFuzzer.sh,1,1.0,4.0
+h2o,C/C++ Header,D:\clones\h2o\deps\ssl-conservatory\ios\SSLCertificatePinning\SSLCertificatePinning\ISPCertificatePinning.h,17,41.0,4.0
+h2o,C/C++ Header,D:\clones\h2o\deps\ssl-conservatory\ios\SSLCertificatePinning\SSLCertificatePinningTests\SSLPinsTestUtility.h,4,7.0,4.0
+h2o,make,D:\clones\h2o\deps\yaml\src\Makefile.am,0,0.0,4.0
+h2o,Ruby,D:\clones\h2o\t\assets\mruby\namespace.rb,0,0.0,4.0
+h2o,C/C++ Header,D:\clones\h2o\deps\hiredis\sdsalloc.h,2,37.0,3.0
+h2o,Markdown,D:\clones\h2o\deps\mruby\examples\mrbgems\c_and_ruby_extension_example\README.md,1,0.0,3.0
+h2o,Markdown,D:\clones\h2o\deps\mruby\examples\mrbgems\c_extension_example\README.md,1,0.0,3.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\examples\mrbgems\c_extension_example\test\example.rb,0,0.0,3.0
+h2o,Markdown,D:\clones\h2o\deps\mruby\examples\mrbgems\ruby_extension_example\README.md,1,0.0,3.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\examples\mrbgems\ruby_extension_example\test\example.rb,0,0.0,3.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\indexerror.rb,1,2.0,3.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\localjumperror.rb,2,8.0,3.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\rangeerror.rb,1,2.0,3.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\runtimeerror.rb,1,2.0,3.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\standarderror.rb,1,2.0,3.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\typeerror.rb,1,2.0,3.0
+h2o,make,D:\clones\h2o\deps\picotls\deps\cifra\doc\Makefile,0,0.0,3.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\picotlsvs\pioctls-core\stdafx.h,6,5.0,3.0
+h2o,C/C++ Header,D:\clones\h2o\deps\ssl-conservatory\ios\SSLCertificatePinning\SSLCertificatePinning\ISPPinnedNSURLConnectionDelegate.h,6,14.0,3.0
+h2o,C/C++ Header,D:\clones\h2o\deps\ssl-conservatory\ios\SSLCertificatePinning\SSLCertificatePinning\ISPPinnedNSURLSessionDelegate.h,6,14.0,3.0
+h2o,make,D:\clones\h2o\deps\yoml\Makefile,0,0.0,3.0
+h2o,JavaScript,D:\clones\h2o\doc\search\jquery-1.9.1.min.js,0,2.0,3.0
+h2o,Bourne Shell,D:\clones\h2o\misc\clang-format-all.sh,1,0.0,3.0
+h2o,Bourne Shell,D:\clones\h2o\misc\clang-format-diff.sh,1,0.0,3.0
+h2o,Bourne Again Shell,D:\clones\h2o\misc\h2o_valgrind\h2o,1,0.0,3.0
+h2o,Ruby,D:\clones\h2o\share\h2o\mruby\preloads.rb,0,0.0,3.0
+h2o,TOML,D:\clones\h2o\src\h2olog\pyproject.toml,0,0.0,3.0
+h2o,Ruby,D:\clones\h2o\t\50mruby\hello.rb,0,0.0,3.0
+h2o,Go,D:\clones\h2o\deps\brotli\go\cbrotli\cgo.go,3,8.0,2.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-sleep\example\sleep.rb,1,0.0,2.0
+h2o,Markdown,D:\clones\h2o\deps\picotls\deps\cifra\extra_vecs\README.md,0,0.0,2.0
+h2o,Python,D:\clones\h2o\deps\picotls\deps\micro-ecc\emk_rules.py,1,0.0,2.0
+h2o,C/C++ Header,D:\clones\h2o\deps\picotls\picotlsvs\pioctls-core\targetver.h,3,3.0,2.0
+h2o,Bourne Shell,D:\clones\h2o\deps\quicly\misc\quic-interop-runner\deploy.sh,0,0.0,2.0
+h2o,YAML,D:\clones\h2o\misc\mruby-mtest\.travis.yml,0,0.0,2.0
+h2o,JavaScript,D:\clones\h2o\deps\brotli\js\decode.min.js,0,0.0,1.0
+h2o,Bourne Shell,D:\clones\h2o\deps\brotli\scripts\.configure-custom.sh,0,0.0,1.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\src\error.h,0,2.0,1.0
+h2o,C/C++ Header,D:\clones\h2o\deps\mruby\src\opcode.h,0,1.0,1.0
+h2o,C++,D:\clones\h2o\deps\picotls\picotlsvs\pioctls-core\stdafx.cpp,0,0.0,1.0
+h2o,CSS,D:\clones\h2o\deps\yaml\doc\html\tabs.css,0,0.0,1.0
+h2o,JavaScript,D:\clones\h2o\doc\search\searchindex.js,0,1.0,1.0
+h2o,HTML,D:\clones\h2o\t\00unit\assets\index.html,0,0.0,1.0
+h2o,XHTML,D:\clones\h2o\t\50mimemap\doc_root\index.xhtml,0,0.0,1.0
+h2o,HTML,D:\clones\h2o\t\50mruby\index.html,0,0.0,1.0
+h2o,HTML,D:\clones\h2o\t\assets\doc_root\404.html,0,0.0,1.0
+h2o,HTML,D:\clones\h2o\t\assets\doc_root\esi.html,0,0.0,1.0
+h2o,JavaScript,D:\clones\h2o\t\assets\doc_root\index.js,0,0.0,1.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\mrbgems\mruby-socket\test\tcpsocket.rb,0,4.0,0.0
+h2o,Ruby,D:\clones\h2o\deps\mruby\test\t\regexperror.rb,1,3.0,0.0

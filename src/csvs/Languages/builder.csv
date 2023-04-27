@@ -1,0 +1,4 @@
+project,language,filename,blank,comment,code
+rails,builder,D:\clones\rails\actionpack\test\fixtures\functional_caching\xml_fragment_cached_with_html_partial.xml.builder,1,0.0,4.0
+rails,builder,D:\clones\rails\actionpack\test\fixtures\functional_caching\formatted_fragment_cached.xml.builder,0,0.0,5.0
+rails,builder,D:\clones\rails\actionpack\test\fixtures\respond_to\using_defaults_with_type_list.xml.builder,0,0.0,1.0

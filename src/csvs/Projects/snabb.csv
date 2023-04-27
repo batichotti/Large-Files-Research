@@ -1,0 +1,1311 @@
+project,language,filename,blank,comment,code
+snabb,Lua,D:\clones\snabb\src\lib\pmu_cpu.lua,2,67.0,10765.0
+snabb,C,D:\clones\snabb\lib\luajit\src\host\minilua.c,0,24.0,7746.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\constants.lua,270,183.0,3332.0
+snabb,Pascal,D:\clones\snabb\src\apps\ipfix\ipfix-information-elements.inc,771,0.0,2847.0
+snabb,Assembly,D:\clones\snabb\lib\luajit\src\reusevm\lj_vm.S,250,0.0,2524.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\test\test.lua,78,48.0,2390.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_parse.c,177,208.0,2276.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_asm_x86.h,120,228.0,2133.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_record.c,158,249.0,2125.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\reusevm\host\buildvm_arch.h,62,3611.0,2088.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_opt_fold.c,212,287.0,1971.0
+snabb,Lua,D:\clones\snabb\src\dasm_x86.lua,188,364.0,1917.0
+snabb,Lua,D:\clones\snabb\src\lib\yang\data.lua,105,93.0,1879.0
+snabb,Lua,D:\clones\snabb\src\apps\mellanox\connectx.lua,242,414.0,1788.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\test\linux.lua,53,206.0,1757.0
+snabb,Lua,D:\clones\snabb\lib\luajit\dynasm\dasm_x86.lua,172,358.0,1744.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_asm.c,186,231.0,1715.0
+snabb,Lua,D:\clones\snabb\src\apps\intel_mp\intel_mp.lua,208,227.0,1644.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_crecord.c,93,124.0,1598.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_cparse.c,111,128.0,1591.0
+snabb,Markdown,D:\clones\snabb\src\program\l2vpn\README.md,265,0.0,1430.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\netbsd\constants.lua,128,45.0,1387.0
+snabb,Lua,D:\clones\snabb\src\lib\yang\schema.lua,86,85.0,1209.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\freebsd\constants.lua,111,32.0,1204.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\reusevm\lj_folddef.h,4,1.0,1149.0
+snabb,HTML,D:\clones\snabb\lib\luajit\doc\ext_ffi_semantics.html,120,0.0,1139.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\types.lua,135,45.0,1100.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_api.c,108,24.0,1099.0
+snabb,Lua,D:\clones\snabb\lib\pflua\src\pf\expand.lua,94,78.0,1078.0
+snabb,Lua,D:\clones\snabb\lib\pflua\src\pf\parse.lua,112,32.0,1074.0
+snabb,Lua,D:\clones\snabb\src\program\top\top.lua,66,69.0,1053.0
+snabb,Lua,D:\clones\snabb\src\apps\intel\intel10g.lua,123,83.0,1041.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_alloc.c,176,140.0,1035.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\osx\constants.lua,77,35.0,1023.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\nl.lua,122,67.0,1022.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_ffrecord.c,86,89.0,1008.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\ffi.lua,47,9.0,997.0
+snabb,Lua,D:\clones\snabb\src\dynasm.lua,169,189.0,963.0
+snabb,Lua,D:\clones\snabb\src\lib\yang\path_data.lua,76,58.0,959.0
+snabb,Lua,D:\clones\snabb\src\apps\intel_avf\intel_avf.lua,147,152.0,923.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\openbsd\constants.lua,92,26.0,898.0
+snabb,Lua,D:\clones\snabb\src\apps\lwaftr\lwaftr.lua,95,174.0,842.0
+snabb,Lua,D:\clones\snabb\src\lib\ptree\ptree.lua,79,26.0,837.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\syscalls.lua,61,32.0,815.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\syscalls.lua,116,76.0,808.0
+snabb,HTML,D:\clones\snabb\lib\luajit\doc\changes.html,18,0.0,797.0
+snabb,Lua,D:\clones\snabb\lib\luajit\dynasm\dynasm.lua,143,156.0,795.0
+snabb,Lua,D:\clones\snabb\src\lib\yang\alarms.lua,85,74.0,786.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\setup.lua,97,11.0,777.0
+snabb,Markdown,D:\clones\snabb\src\program\lwaftr\doc\CHANGELOG.md,334,0.0,761.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lib_ffi.c,82,31.0,738.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_opt_mem.c,64,137.0,729.0
+snabb,Lua,D:\clones\snabb\lib\pflua\src\pf\optimize.lua,37,92.0,728.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\c.lua,63,53.0,718.0
+snabb,Markdown,D:\clones\snabb\src\README.md,390,0.0,716.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_snap.c,45,55.0,712.0
+snabb,Markdown,D:\clones\snabb\src\program\lwaftr\doc\filters-performance.md,56,0.0,705.0
+snabb,Lua,D:\clones\snabb\src\apps\xdp\xdp.lua,73,221.0,701.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_gc.c,61,74.0,686.0
+snabb,Lua,D:\clones\snabb\src\lib\ptree\support\snabb-softwire-v3.lua,53,47.0,677.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\netbsd\ffitypes.lua,24,5.0,672.0
+snabb,HTML,D:\clones\snabb\lib\luajit\doc\install.html,18,0.0,672.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_trace.c,73,107.0,665.0
+snabb,Lua,D:\clones\snabb\src\program\lisper\lisper.lua,107,40.0,665.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lib_string.c,51,22.0,664.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\ffi_convert.lua,61,71.0,655.0
+snabb,Markdown,D:\clones\snabb\src\program\snabbvmx\doc\README.troubleshooting.md,177,0.0,645.0
+snabb,Lua,D:\clones\snabb\src\core\app.lua,75,120.0,631.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_cconv.c,45,68.0,625.0
+snabb,Lua,D:\clones\snabb\src\lib\yang\binary.lua,41,22.0,623.0
+snabb,Lua,D:\clones\snabb\lib\luajit\src\jit\bcsave.lua,42,31.0,588.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_ctype.c,43,41.0,577.0
+snabb,Lua,D:\clones\snabb\src\apps\lwaftr\nh_fwd.lua,71,40.0,576.0
+snabb,Lua,D:\clones\snabb\src\lib\ctable.lua,81,79.0,575.0
+snabb,Lua,D:\clones\snabb\src\lib\protocol\dns\dns.lua,74,23.0,574.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\netbsd\types.lua,81,20.0,571.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\migrate_configuration\migrate_configuration.lua,70,35.0,559.0
+snabb,Lua,D:\clones\snabb\src\lib\xsd_regexp.lua,88,26.0,558.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lib_base.c,67,28.0,555.0
+snabb,Markdown,D:\clones\snabb\src\lib\protocol\README.md,271,0.0,554.0
+snabb,Python,D:\clones\snabb\src\program\lwaftr\tests\subcommands\config_test.py,80,119.0,554.0
+snabb,Lua,D:\clones\snabb\src\program\l2vpn\l2vpn.lua,44,201.0,548.0
+snabb,HTML,D:\clones\snabb\lib\luajit\doc\ext_ffi_tutorial.html,55,0.0,546.0
+snabb,Lua,D:\clones\snabb\src\program\snabbmark\snabbmark.lua,69,24.0,542.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_obj.h,116,162.0,536.0
+snabb,HTML,D:\clones\snabb\lib\luajit\doc\ext_ffi_api.html,33,0.0,535.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\types.lua,72,18.0,531.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_tab.c,44,62.0,530.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\test\ctest-linux.lua,74,58.0,525.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_debug.c,31,27.0,521.0
+snabb,C,D:\clones\snabb\lib\luajit\src\luajit.c,50,20.0,518.0
+snabb,Lua,D:\clones\snabb\src\core\lib.lua,65,75.0,504.0
+snabb,Lua,D:\clones\snabb\lib\ljndpi\ndpi\protocol_ids_2_3.lua,0,1.0,500.0
+snabb,Lua,D:\clones\snabb\src\lib\poptrie.lua,30,72.0,499.0
+snabb,Lua,D:\clones\snabb\src\lib\maxpc.lua,72,26.0,496.0
+snabb,Lua,D:\clones\snabb\lib\ljndpi\ndpi\protocol_ids_2_2.lua,2,1.0,494.0
+snabb,XML,D:\clones\snabb\src\program\snabbvmx\query\example2.xml,0,0.0,476.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_strfmt_num.c,25,88.0,474.0
+snabb,Lua,D:\clones\snabb\src\lib\rrd.lua,44,26.0,468.0
+snabb,Lua,D:\clones\snabb\lib\ljndpi\ndpi\protocol_ids_1_8.lua,0,1.0,465.0
+snabb,Lua,D:\clones\snabb\lib\ljndpi\ndpi\protocol_ids_2_0.lua,0,1.0,464.0
+snabb,Lua,D:\clones\snabb\lib\pflua\src\pf\selection.lua,62,77.0,464.0
+snabb,Lua,D:\clones\snabb\src\program\l2vpn\pseudowire.lua,37,198.0,458.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_lex.c,28,40.0,456.0
+snabb,HTML,D:\clones\snabb\lib\luajit\doc\extensions.html,21,0.0,454.0
+snabb,Lua,D:\clones\snabb\lib\ljndpi\ndpi\protocol_ids_1_7.lua,0,1.0,453.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\propbased\genyang.lua,52,40.0,448.0
+snabb,Lua,D:\clones\snabb\src\apps\intel\intel_app.lua,38,35.0,439.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\dynasm\dasm_x86.h,37,27.0,435.0
+snabb,Lua,D:\clones\snabb\src\lib\ipsec\aes_gcm.lua,23,14.0,435.0
+snabb,C/C++ Header,D:\clones\snabb\src\dasm_x86.h,37,27.0,434.0
+snabb,Lua,D:\clones\snabb\src\apps\lwaftr\ndp.lua,45,71.0,431.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_ir.h,71,72.0,428.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\netbsd\nr.lua,3,1.0,426.0
+snabb,Lua,D:\clones\snabb\src\apps\ipfix\ipfix.lua,76,73.0,426.0
+snabb,C,D:\clones\snabb\lib\luajit\src\host\buildvm_lib.c,25,7.0,425.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\mips\constants.lua,36,6.0,422.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lib_io.c,57,17.0,421.0
+snabb,Lua,D:\clones\snabb\src\program\snabbvmx\lwaftr\setup.lua,52,4.0,420.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\rump\c.lua,19,5.0,419.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\test\bsd.lua,20,4.0,417.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lib_package.c,48,18.0,415.0
+snabb,C,D:\clones\snabb\lib\ljsyscall\examples\dl.c,23,18.0,413.0
+snabb,Markdown,D:\clones\snabb\src\doc\performance-tuning.md,106,0.0,412.0
+snabb,Lua,D:\clones\snabb\src\program\packetblaster\lwaftr\lib.lua,64,19.0,412.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_emit_x86.h,48,49.0,410.0
+snabb,C,D:\clones\snabb\lib\luajit\src\host\buildvm.c,66,46.0,405.0
+snabb,Lua,D:\clones\snabb\lib\pflua\src\pf\bpf.lua,57,5.0,403.0
+snabb,Lua,D:\clones\snabb\src\apps\ipv6\reassemble.lua,48,50.0,397.0
+snabb,Markdown,D:\clones\snabb\src\program\lwaftr\doc\configuration.md,58,0.0,396.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_strscan.c,49,95.0,393.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\test\luaunit.lua,58,132.0,391.0
+snabb,Lua,D:\clones\snabb\lib\luajit\src\host\genminilua.lua,32,7.0,390.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\test.lua,21,5.0,390.0
+snabb,Lua,D:\clones\snabb\lib\pflua\src\pf\regalloc.lua,61,90.0,390.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_opt_narrow.c,44,216.0,389.0
+snabb,Markdown,D:\clones\snabb\src\program\snabbnfv\doc\getting-started.md,90,0.0,389.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_dispatch.c,32,42.0,387.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\reusevm\lj_libdef.h,18,1.0,382.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_err.c,35,39.0,380.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_strfmt.c,38,46.0,380.0
+snabb,Lua,D:\clones\snabb\src\lib\virtio\net_device.lua,88,71.0,380.0
+snabb,Lua,D:\clones\snabb\lib\pflua\src\pf\constants.lua,5,5.0,376.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_bcread.c,33,40.0,373.0
+snabb,Lua,D:\clones\snabb\src\apps\rss\rss.lua,36,15.0,367.0
+snabb,C/C++ Header,D:\clones\snabb\src\apps\solarflare\ef_vi.h,97,37.0,367.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\ppc\nr.lua,3,1.0,366.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\ppc64le\nr.lua,4,1.0,366.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\mips\nr.lua,6,2.0,360.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_meta.c,22,66.0,357.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\test\linux-constants.lua,50,34.0,356.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_carith.c,26,25.0,355.0
+snabb,Lua,D:\clones\snabb\src\apps\ipv4\reassemble.lua,46,37.0,355.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\x86\nr.lua,3,1.0,354.0
+snabb,Lua,D:\clones\snabb\src\apps\ipv6\fragment.lua,45,40.0,354.0
+snabb,Lua,D:\clones\snabb\src\lib\ipsec\esp.lua,76,77.0,353.0
+snabb,Lua,D:\clones\snabb\src\lib\stream.lua,53,59.0,352.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lib_debug.c,42,13.0,350.0
+snabb,Lua,D:\clones\snabb\src\program\packetblaster\lwaftr\lwaftr.lua,45,7.0,350.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\arm\nr.lua,4,2.0,348.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_ccall.c,47,36.0,347.0
+snabb,Lua,D:\clones\snabb\src\lib\yang\parser.lua,50,34.0,346.0
+snabb,Lua,D:\clones\snabb\lib\pflua\src\pf\backend.lua,25,29.0,345.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_ir.c,43,47.0,338.0
+snabb,Lua,D:\clones\snabb\lib\luajit\src\jit\vmdef.lua,10,1.0,337.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\x64\nr.lua,4,1.0,328.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\scimark-2010-12-20.lua,38,34.0,328.0
+snabb,Lua,D:\clones\snabb\src\apps\vhost\vhost_user.lua,68,78.0,328.0
+snabb,Lua,D:\clones\snabb\src\apps\bridge\mac_table.lua,29,256.0,323.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\bsd\syscalls.lua,41,14.0,317.0
+snabb,C,D:\clones\snabb\lib\luajit\src\host\buildvm_asm.c,19,18.0,317.0
+snabb,Lua,D:\clones\snabb\src\apps\ipfix\template.lua,45,21.0,317.0
+snabb,Lua,D:\clones\snabb\src\lib\lua\StackTracePlus.lua,41,59.0,311.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\osx\ffi.lua,25,2.0,310.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_ctype.h,62,68.0,310.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_jit.h,71,35.0,309.0
+snabb,Lua,D:\clones\snabb\lib\pflua\src\pf\match.lua,32,56.0,309.0
+snabb,C,D:\clones\snabb\lib\luajit\src\host\buildvm_peobj.c,40,44.0,308.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_ccallback.c,40,30.0,308.0
+snabb,CSS,D:\clones\snabb\lib\luajit\doc\bluequad.css,0,19.0,306.0
+snabb,Lua,D:\clones\snabb\src\program\loadtest\transient\transient.lua,29,27.0,306.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_opt_loop.c,28,106.0,305.0
+snabb,Markdown,D:\clones\snabb\src\program\config\README.md,84,0.0,305.0
+snabb,HTML,D:\clones\snabb\lib\luajit\doc\ext_ffi.html,26,0.0,304.0
+snabb,Lua,D:\clones\snabb\src\apps\ipv6\nd_light.lua,26,87.0,302.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\shared\types.lua,51,11.0,301.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\helpers.lua,40,17.0,300.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\openbsd\ffi.lua,16,2.0,299.0
+snabb,C,D:\clones\snabb\lib\luajit\testsuite\test\src\ctest.c,38,2.0,299.0
+snabb,Markdown,D:\clones\snabb\src\lib\yang\README.md,86,0.0,297.0
+snabb,Markdown,D:\clones\snabb\src\apps\rss\README.md,92,0.0,296.0
+snabb,Lua,D:\clones\snabb\src\lib\lpm\lpm4_trie.lua,21,34.0,296.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\freebsd\ffi.lua,17,3.0,295.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\util.lua,34,17.0,292.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\lwaftr\tests\end-to-end\test_env.sh,97,27.0,292.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_bcwrite.c,22,29.0,290.0
+snabb,Lua,D:\clones\snabb\src\apps\ipv4\arp.lua,32,34.0,290.0
+snabb,Markdown,D:\clones\snabb\src\program\ptree\README.md,68,0.0,287.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lib_aux.c,43,13.0,286.0
+snabb,Lua,D:\clones\snabb\src\lib\ptree\inotify.lua,21,41.0,286.0
+snabb,HTML,D:\clones\snabb\lib\luajit\doc\running.html,6,0.0,284.0
+snabb,Lua,D:\clones\snabb\src\core\packet.lua,50,41.0,283.0
+snabb,Lua,D:\clones\snabb\lib\pflua\src\pf\anf.lua,17,2.0,281.0
+snabb,Lua,D:\clones\snabb\src\apps\wall\scanner.lua,44,23.0,279.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lib_jit.c,38,20.0,275.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\migrate_configuration\conf_parser.lua,34,12.0,275.0
+snabb,Markdown,D:\clones\snabb\src\program\snabbvmx\doc\README.userguide.md,58,0.0,275.0
+snabb,Markdown,D:\clones\snabb\src\program\snabbvmx\doc\README.scapy.md,50,0.0,274.0
+snabb,Lua,D:\clones\snabb\src\apps\solarflare\solarflare.lua,50,15.0,273.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\arm64\nr.lua,3,3.0,271.0
+snabb,Lua,D:\clones\snabb\lib\pflua\src\pf\ssa.lua,23,35.0,269.0
+snabb,Lua,D:\clones\snabb\src\apps\xdp\pf_ebpf_codegen.lua,59,46.0,268.0
+snabb,Markdown,D:\clones\snabb\src\doc\getting-started.md,74,0.0,267.0
+snabb,Lua,D:\clones\snabb\src\apps\lwaftr\rangemap.lua,29,15.0,266.0
+snabb,Lua,D:\clones\snabb\src\apps\wall\l7fw.lua,53,40.0,266.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\compare.lua,60,0.0,263.0
+snabb,Lua,D:\clones\snabb\lib\pflua\tests\pfquickcheck\pflang.lua,52,42.0,262.0
+snabb,Lua,D:\clones\snabb\src\apps\mellanox\connectx_test.lua,36,47.0,260.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\reusevm\lj_recdef.h,3,1.0,259.0
+snabb,Lua,D:\clones\snabb\src\lib\lpm\lpm4.lua,19,2.0,259.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\ioctl.lua,34,18.0,256.0
+snabb,Lua,D:\clones\snabb\src\apps\xdp\bpf.lua,14,30.0,256.0
+snabb,Lua,D:\clones\snabb\src\lib\numa.lua,39,9.0,255.0
+snabb,Lua,D:\clones\snabb\src\apps\rss\metadata.lua,33,25.0,252.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\freebsd\types.lua,45,10.0,250.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\ffi_jit_conv.lua,27,0.0,250.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\util.lua,46,18.0,249.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_lib.c,25,11.0,248.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_state.c,20,36.0,248.0
+snabb,XML,D:\clones\snabb\src\program\snabbvmx\query\example1.xml,0,0.0,248.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\bsd\types.lua,37,7.0,246.0
+snabb,Lua,D:\clones\snabb\src\lib\ptree\json.lua,30,26.0,242.0
+snabb,Lua,D:\clones\snabb\src\program\loadtest\find-limit\find-limit.lua,26,6.0,242.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\snabbvmx\tests\disabled-selftest.sh,52,16.0,242.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\scimark_lib.lua,30,28.0,239.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\ppc64le\constants.lua,19,3.0,238.0
+snabb,Lua,D:\clones\snabb\src\apps\keyed_ipv6_tunnel\tunnel.lua,46,28.0,237.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\program\lwaftr\virt\lwaftrctl,39,26.0,237.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\methods.lua,33,35.0,236.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\rump\init.lua,41,10.0,235.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_cdata.c,31,27.0,232.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\ffi_parse_struct.lua,17,10.0,232.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\openbsd\types.lua,41,8.0,231.0
+snabb,HTML,D:\clones\snabb\lib\luajit\doc\luajit.html,3,0.0,231.0
+snabb,Lua,D:\clones\snabb\src\apps\lwaftr\binding_table.lua,31,88.0,229.0
+snabb,Markdown,D:\clones\snabb\src\lib\ptree\README.md,46,0.0,229.0
+snabb,Lua,D:\clones\snabb\src\lib\ptree\alarms.lua,33,2.0,229.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\portrange-0-6000.md,12,0.0,228.0
+snabb,Lua,D:\clones\snabb\src\apps\ipv4\fragment.lua,35,24.0,227.0
+snabb,Lua,D:\clones\snabb\src\lib\ptree\support.lua,19,20.0,227.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\netbsd\sysctl.lua,15,40.0,226.0
+snabb,Lua,D:\clones\snabb\src\lib\ipc\shmem\shmem.lua,32,251.0,226.0
+snabb,Lua,D:\clones\snabb\src\program\rrdcat\rrdcat.lua,27,26.0,225.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_auditlog.c,37,31.0,223.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_target_x86.h,41,39.0,223.0
+snabb,Lua,D:\clones\snabb\src\lib\ptree\action_codec.lua,12,3.0,222.0
+snabb,Lua,D:\clones\snabb\src\lib\protocol\datagram.lua,27,150.0,221.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\osx\types.lua,41,7.0,220.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\test\netbsd.lua,21,54.0,220.0
+snabb,Lua,D:\clones\snabb\src\program\lisper\dev-env\l2tp.lua,29,4.0,219.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\snabbnfv\selftest.sh,53,58.0,219.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lib_table.c,27,82.0,218.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lib_os.c,29,11.0,217.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\ffi_call.lua,45,4.0,217.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\reusevm\lj_bcdef.h,3,1.0,216.0
+snabb,Lua,D:\clones\snabb\src\apps\vlan\vlan.lua,27,13.0,215.0
+snabb,Lua,D:\clones\snabb\src\dasm.lua,41,20.0,213.0
+snabb,make,D:\clones\snabb\lib\luajit\src\Makefile,62,141.0,212.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_bc.h,18,35.0,212.0
+snabb,Lua,D:\clones\snabb\src\program\snabbnfv\neutron2snabb\neutron2snabb.lua,24,39.0,211.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\decnet-host-10.15.md,12,0.0,210.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\ffi_metatype.lua,31,5.0,209.0
+snabb,Lua,D:\clones\snabb\src\apps\tap\tap.lua,19,26.0,209.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\test\ctest-netbsd.lua,41,16.0,205.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\run\run.lua,18,16.0,205.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\generate_configuration\generate_configuration.lua,17,0.0,204.0
+snabb,Markdown,D:\clones\snabb\src\apps\ipv6\README.md,97,0.0,203.0
+snabb,Bourne Shell,D:\clones\snabb\src\scripts\snabb_bot.sh,30,6.0,203.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_opt_sink.c,15,29.0,199.0
+snabb,C,D:\clones\snabb\lib\luajit\src\host\buildvm_fold.c,14,17.0,198.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\reusevm\lj_ffdef.h,4,1.0,197.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\dst-portrange-80-90.md,12,0.0,197.0
+snabb,Lua,D:\clones\snabb\src\lib\protocol\ipv4.lua,37,12.0,196.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_mcode.c,45,51.0,195.0
+snabb,Lua,D:\clones\snabb\src\core\main.lua,24,40.0,195.0
+snabb,Lua,D:\clones\snabb\lib\pflua\src\pf\utils.lua,22,11.0,194.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\bsd\ffi.lua,22,4.0,193.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\technical\bpf-asm-explained.md,65,0.0,193.0
+snabb,Markdown,D:\clones\snabb\src\lib\README.ctable.md,53,0.0,193.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_ircall.h,27,11.0,192.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lua.h,107,104.0,191.0
+snabb,Markdown,D:\clones\snabb\src\apps\wall\README.md,63,0.0,190.0
+snabb,Lua,D:\clones\snabb\src\program\config\common.lua,21,2.0,190.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_buf.c,23,10.0,189.0
+snabb,Lua,D:\clones\snabb\src\lib\hardware\pci.lua,35,58.0,189.0
+snabb,Lua,D:\clones\snabb\src\program\wall\spy\spy.lua,32,5.0,189.0
+snabb,Lua,D:\clones\snabb\src\lib\lpm\lpm4_poptrie.lua,11,3.0,187.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\jit_struct.lua,16,0.0,185.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\pfmatch.md,40,0.0,183.0
+snabb,Lua,D:\clones\snabb\src\apps\lwaftr\V4V6.lua,28,3.0,183.0
+snabb,Lua,D:\clones\snabb\src\lib\hash\murmur.lua,32,15.0,183.0
+snabb,Lua,D:\clones\snabb\src\lib\stream\file.lua,29,38.0,182.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\src-port-80.md,12,0.0,181.0
+snabb,Lua,D:\clones\snabb\src\apps\ipsec\esp.lua,9,17.0,181.0
+snabb,Lua,D:\clones\snabb\src\core\shm.lua,28,24.0,181.0
+snabb,Markdown,D:\clones\snabb\src\doc\documentation-guide.md,57,0.0,181.0
+snabb,Lua,D:\clones\snabb\src\lib\hardware\register.lua,32,60.0,181.0
+snabb,Lua,D:\clones\snabb\src\lib\pmu.lua,20,27.0,181.0
+snabb,Markdown,D:\clones\snabb\src\program\lwaftr\doc\performance.md,40,0.0,181.0
+snabb,HTML,D:\clones\snabb\lib\luajit\doc\ext_c_api.html,7,0.0,180.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\meteor.lua,17,25.0,178.0
+snabb,HTML,D:\clones\snabb\lib\luajit\doc\ext_jit.html,11,0.0,177.0
+snabb,make,D:\clones\snabb\src\Makefile,44,14.0,177.0
+snabb,Lua,D:\clones\snabb\src\lib\yang\path.lua,24,28.0,177.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\test\linux-structures.lua,29,18.0,176.0
+snabb,Markdown,D:\clones\snabb\src\lib\hardware\README.md,67,0.0,176.0
+snabb,Markdown,D:\clones\snabb\src\program\alarms\README.md,40,0.0,174.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\netbsd\ioctl.lua,23,52.0,173.0
+snabb,HTML,D:\clones\snabb\lib\luajit\doc\faq.html,11,0.0,173.0
+snabb,Lua,D:\clones\snabb\lib\luajit\src\host\genlibbc.lua,16,8.0,173.0
+snabb,Markdown,D:\clones\snabb\src\lib\README.rrd.md,46,0.0,172.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\string\sub.lua,18,0.0,171.0
+snabb,Markdown,D:\clones\snabb\src\program\lwaftr\doc\counters.md,39,0.0,171.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_clib.c,28,16.0,170.0
+snabb,Lua,D:\clones\snabb\src\lib\protocol\ipv6.lua,31,11.0,170.0
+snabb,Lua,D:\clones\snabb\src\lib\fibers\file.lua,25,13.0,169.0
+snabb,Lua,D:\clones\snabb\src\program\snabbvmx\lwaftr\lwaftr.lua,18,1.0,169.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\test\ctest-freebsd.lua,34,10.0,167.0
+snabb,Lua,D:\clones\snabb\src\apps\rate_limiter\rate_limiter.lua,37,29.0,167.0
+snabb,Lua,D:\clones\snabb\src\core\memory.lua,25,61.0,167.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\string\format\num.lua,17,1.0,166.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_def.h,36,23.0,165.0
+snabb,Lua,D:\clones\snabb\src\lib\lpm\lpm4_dxr.lua,14,4.0,165.0
+snabb,Lua,D:\clones\snabb\src\program\ipfix\probe\probe.lua,27,7.0,165.0
+snabb,Lua,D:\clones\snabb\src\lib\protocol\dns\mdns.lua,19,3.0,164.0
+snabb,Lua,D:\clones\snabb\src\lib\protocol\tcp.lua,32,11.0,164.0
+snabb,Lua,D:\clones\snabb\src\apps\packet_filter\conntrack.lua,42,60.0,163.0
+snabb,Lua,D:\clones\snabb\src\lib\ipc\shmem\iftable_mib.lua,5,7.0,163.0
+snabb,CSV,D:\clones\snabb\src\program\lwaftr\doc\benchmarks-v1.0\lwaftr-1.csv,0,0.0,163.0
+snabb,CSV,D:\clones\snabb\src\program\lwaftr\doc\benchmarks-v1.0\lwaftr-10.csv,0,0.0,163.0
+snabb,CSV,D:\clones\snabb\src\program\lwaftr\doc\benchmarks-v1.0\lwaftr-3.csv,0,0.0,163.0
+snabb,CSV,D:\clones\snabb\src\program\lwaftr\doc\benchmarks-v1.0\lwaftr-4.csv,0,0.0,163.0
+snabb,CSV,D:\clones\snabb\src\program\lwaftr\doc\benchmarks-v1.0\lwaftr-5.csv,0,0.0,163.0
+snabb,CSV,D:\clones\snabb\src\program\lwaftr\doc\benchmarks-v1.0\lwaftr-6.csv,0,0.0,163.0
+snabb,CSV,D:\clones\snabb\src\program\lwaftr\doc\benchmarks-v1.0\lwaftr-7.csv,0,0.0,163.0
+snabb,CSV,D:\clones\snabb\src\program\lwaftr\doc\benchmarks-v1.0\lwaftr-8.csv,0,0.0,163.0
+snabb,CSV,D:\clones\snabb\src\program\lwaftr\doc\benchmarks-v1.0\lwaftr-9.csv,0,0.0,163.0
+snabb,Lua,D:\clones\snabb\src\lib\yang\util.lua,12,14.0,162.0
+snabb,CSV,D:\clones\snabb\src\program\lwaftr\doc\benchmarks-v1.0\lwaftr-2.csv,0,0.0,162.0
+snabb,CSS,D:\clones\snabb\lib\luajit\doc\bluequad-print.css,0,5.0,161.0
+snabb,Lua,D:\clones\snabb\src\apps\lwaftr\lwutil.lua,28,7.0,161.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\test\ctest-osx.lua,30,11.0,160.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\md5.lua,20,3.0,160.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\tcp-port-80.md,12,0.0,160.0
+snabb,Lua,D:\clones\snabb\src\lib\protocol\gre.lua,16,19.0,160.0
+snabb,Lua,D:\clones\snabb\src\lib\ptree\channel.lua,20,51.0,159.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\tonumber_scan.lua,8,14.0,158.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\opt\dse\array.lua,15,26.0,156.0
+snabb,Lua,D:\clones\snabb\src\apps\socket\unix.lua,32,13.0,156.0
+snabb,Lua,D:\clones\snabb\src\program\dnssd\dnssd.lua,17,2.0,155.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\snabbnfv\test_env\test_env.sh,28,7.0,155.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\test\ctest-openbsd.lua,31,11.0,154.0
+snabb,Lua,D:\clones\snabb\src\lib\yang\state.lua,17,8.0,152.0
+snabb,Lua,D:\clones\snabb\src\lib\fibers\timer.lua,28,20.0,151.0
+snabb,Lua,D:\clones\snabb\src\lib\yang\value.lua,23,8.0,151.0
+snabb,Lua,D:\clones\snabb\src\lib\json.lua,14,77.0,150.0
+snabb,Markdown,D:\clones\snabb\src\program\lwaftr\doc\virtualization.md,44,0.0,150.0
+snabb,Lua,D:\clones\snabb\src\program\l2vpn\control_channel.lua,15,113.0,149.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_vmprofile.c,23,22.0,148.0
+snabb,make,D:\clones\snabb\lib\pflua\doc\Makefile,48,4.0,148.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lib_math.c,27,19.0,147.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_func.c,17,23.0,147.0
+snabb,Markdown,D:\clones\snabb\lib\luajit\README.md,59,0.0,146.0
+snabb,C,D:\clones\snabb\src\apps\vhost\vhost_user.c,32,2.0,146.0
+snabb,Lua,D:\clones\snabb\src\core\histogram.lua,24,6.0,146.0
+snabb,Lua,D:\clones\snabb\src\lib\virtio\virtio_pci.lua,34,22.0,146.0
+snabb,Markdown,D:\clones\snabb\src\program\lisper\README.md,48,0.0,146.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\lwaftr\tests\release-benchmarks\release-benchmarks.sh,31,28.0,146.0
+snabb,Markdown,D:\clones\snabb\src\program\snabbvmx\doc\README.configuration.md,29,0.0,146.0
+snabb,Markdown,D:\clones\snabb\src\apps\intel_mp\README.md,70,0.0,144.0
+snabb,Markdown,D:\clones\snabb\src\doc\git-workflow.md,37,0.0,143.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\mips\ffi.lua,12,3.0,142.0
+snabb,Lua,D:\clones\snabb\src\program\wall\filter\filter.lua,19,1.0,142.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_errmsg.h,13,18.0,141.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_load.c,20,7.0,141.0
+snabb,Markdown,D:\clones\snabb\src\program\lwaftr\doc\rfccompliance.md,51,0.0,141.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\ffi_jit_arith.lua,14,2.0,139.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\decnet-src-10.15.md,12,0.0,139.0
+snabb,Lua,D:\clones\snabb\src\lib\yang\yang.lua,16,16.0,139.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\icmp-or-tcp-or-udp.md,12,0.0,138.0
+snabb,Lua,D:\clones\snabb\src\apps\socket\raw.lua,17,10.0,137.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\errors.lua,2,2.0,136.0
+snabb,Lua,D:\clones\snabb\src\apps\ipv4\echo.lua,27,14.0,135.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_str.c,11,19.0,134.0
+snabb,Lua,D:\clones\snabb\src\lib\buffer.lua,24,3.0,134.0
+snabb,Lua,D:\clones\snabb\src\program\snabbnfv\fuzz\fuzz.lua,15,10.0,134.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\ffi_jit_call.lua,20,1.0,133.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\trace\phi\rotate.lua,16,0.0,133.0
+snabb,Lua,D:\clones\snabb\src\program\config\listen\listen.lua,11,11.0,133.0
+snabb,Lua,D:\clones\snabb\src\program\snabbnfv\traffic\traffic.lua,12,6.0,133.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\query\query.lua,16,22.0,132.0
+snabb,Lua,D:\clones\snabb\src\apps\basic\basic_apps.lua,36,11.0,131.0
+snabb,Lua,D:\clones\snabb\src\apps\ipv6\echo.lua,25,12.0,131.0
+snabb,Lua,D:\clones\snabb\src\lib\interlink.lua,29,121.0,131.0
+snabb,Lua,D:\clones\snabb\src\lib\virtio\virtq_driver.lua,27,10.0,131.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\goto.lua,16,3.0,130.0
+snabb,Markdown,D:\clones\snabb\src\doc\in-a-nutshell.src.md,29,0.0,130.0
+snabb,Lua,D:\clones\snabb\src\lib\lpm\ip4.lua,8,0.0,130.0
+snabb,Lua,D:\clones\snabb\src\program\snabbnfv\nfvconfig.lua,6,13.0,130.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\ffi_callback.lua,26,4.0,128.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\net-ipv6-ee.cc.9954.0-mask-111.md,12,0.0,128.0
+snabb,Lua,D:\clones\snabb\src\lib\lpm\lpm.lua,12,0.0,128.0
+snabb,Lua,D:\clones\snabb\lib\luajit\src\jit\bc.lua,13,51.0,126.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\contents.lua,28,1.0,126.0
+snabb,Lua,D:\clones\snabb\src\apps\bridge\learning.lua,17,116.0,126.0
+snabb,Lua,D:\clones\snabb\src\lib\virtio\net_driver.lua,39,11.0,126.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\csv_stats.lua,11,41.0,125.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\include\lfs-tests\test.lua,34,22.0,123.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\type_punning.lua,15,0.0,123.0
+snabb,Lua,D:\clones\snabb\src\program\snabbvmx\query\query.lua,13,2.0,123.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\examples\epoll.lua,29,3.0,121.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\freebsd\ioctl.lua,18,4.0,121.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\program\lisper\dev-env\testnet,24,5.0,121.0
+snabb,HTML,D:\clones\snabb\lib\luajit\doc\status.html,1,0.0,120.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\host-ipv6-localhost.md,12,0.0,119.0
+snabb,Markdown,D:\clones\snabb\src\apps\ipv4\README.md,46,0.0,119.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\ffi_parse_basic.lua,10,3.0,118.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\ray.lua,18,0.0,117.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\bit64.lua,13,0.0,117.0
+snabb,Lua,D:\clones\snabb\src\program\config\bench\bench.lua,14,3.0,117.0
+snabb,Lua,D:\clones\snabb\src\program\config\data_format\data_format.lua,21,5.0,117.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\lwaftr\tests\data\add-vlan.sh,6,10.0,117.0
+snabb,Markdown,D:\clones\snabb\lib\ljndpi\README.md,40,0.0,116.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\trace\phi\ref.lua,15,0.0,116.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\README.md,31,0.0,116.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\test\freebsd.lua,18,2.0,115.0
+snabb,C++,D:\clones\snabb\lib\luajit\testsuite\test\src\cpptest.cpp,14,0.0,115.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\net-127.0.0.0-8.md,12,0.0,115.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\test\servetests.lua,34,8.0,114.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\tcp_port_80_asm.md,4,0.0,114.0
+snabb,Markdown,D:\clones\snabb\src\doc\branches.md,72,0.0,114.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\compat.lua,29,10.0,112.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\nbody.lua,7,0.0,112.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\opt\sink\alloc.lua,14,0.0,112.0
+snabb,Lua,D:\clones\snabb\src\lib\lua\alt_getopt.lua,32,20.0,112.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\osx\ioctl.lua,16,2.0,111.0
+snabb,Lua,D:\clones\snabb\src\apps\wall\scanner\ndpi.lua,19,8.0,111.0
+snabb,C,D:\clones\snabb\src\lib\checksum.c,20,21.0,111.0
+snabb,Lua,D:\clones\snabb\src\lib\ptree\worker.lua,16,3.0,111.0
+snabb,Lua,D:\clones\snabb\src\lib\stream\mem.lua,21,3.0,111.0
+snabb,Bourne Shell,D:\clones\snabb\src\scripts\snabb_doc.sh,23,7.0,111.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\opt\sink\ffi.lua,11,0.0,110.0
+snabb,Lua,D:\clones\snabb\src\lib\ipc\shmem\mib.lua,9,98.0,109.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\meta\arith.lua,10,0.0,108.0
+snabb,Lua,D:\clones\snabb\src\apps\packet_filter\pcap_filter.lua,22,23.0,108.0
+snabb,C/C++ Header,D:\clones\snabb\src\lib\virtio\virtio.h,22,20.0,108.0
+snabb,Markdown,D:\clones\snabb\src\program\snabbnfv\doc\neutron-api-extensions.md,35,0.0,108.0
+snabb,Markdown,D:\clones\snabb\src\apps\basic\README.md,25,0.0,107.0
+snabb,Lua,D:\clones\snabb\src\dasm_mm.lua,31,6.0,107.0
+snabb,Lua,D:\clones\snabb\src\lib\protocol\ethernet.lua,18,10.0,107.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\luaconf.h,17,29.0,106.0
+snabb,Markdown,D:\clones\snabb\README.md,41,0.0,105.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\lfs.lua,20,8.0,105.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\osx\errors.lua,2,1.0,105.0
+snabb,Lua,D:\clones\snabb\lib\pflua\src\pf\quickcheck.lua,14,3.0,105.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\openbsd\ioctl.lua,18,4.0,104.0
+snabb,Lua,D:\clones\snabb\src\lib\lpm\ip6.lua,9,3.0,104.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\freebsd\errors.lua,6,1.0,103.0
+snabb,Lua,D:\clones\snabb\src\core\link.lua,22,6.0,103.0
+snabb,Lua,D:\clones\snabb\src\lib\fibers\sched.lua,22,9.0,103.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\quickcheck\utils.lua,10,3.0,103.0
+snabb,Markdown,D:\clones\snabb\src\program\lwaftr\src\program\lwaftr\doc\alarms.md,38,0.0,103.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lib_bit.c,17,7.0,102.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_iropt.h,26,19.0,102.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\concat.lua,10,0.0,102.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\meta\comp_jit.lua,2,0.0,102.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\host-127.0.0.1.md,12,0.0,102.0
+snabb,Markdown,D:\clones\snabb\src\doc\testing.md,43,0.0,102.0
+snabb,Lua,D:\clones\snabb\src\lib\fibers\op.lua,16,41.0,101.0
+snabb,Lua,D:\clones\snabb\src\lib\tsc.lua,19,5.0,101.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\netbsd\util.lua,30,8.0,100.0
+snabb,CSS,D:\clones\snabb\src\doc\style.css,21,1.0,100.0
+snabb,Markdown,D:\clones\snabb\src\lib\README.logger.md,41,0.0,100.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\netbsd\syscalls.lua,25,9.0,99.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\jit_complex.lua,10,0.0,99.0
+snabb,Lua,D:\clones\snabb\src\lib\cpuset.lua,12,2.0,99.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\netbsd\errors.lua,2,1.0,98.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lauxlib.h,42,21.0,98.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\meta\comp.lua,19,3.0,98.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\ffi_bitfield.lua,7,3.0,98.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\jit_misc.lua,11,0.0,98.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\src-host-192.68.1.1-and-less-100.md,12,0.0,98.0
+snabb,Markdown,D:\clones\snabb\src\apps\intel\README.md,44,0.0,98.0
+snabb,Lua,D:\clones\snabb\src\program\firehose\firehose.lua,21,29.0,98.0
+snabb,make,D:\clones\snabb\lib\luajit\Makefile,23,23.0,97.0
+snabb,HTML,D:\clones\snabb\lib\luajit\doc\contact.html,4,8.0,97.0
+snabb,Lua,D:\clones\snabb\src\lib\protocol\header.lua,18,194.0,97.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\openbsd\errors.lua,5,1.0,96.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\coroutine\yield.lua,13,0.0,96.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\coro_yield.lua,14,1.0,96.0
+snabb,Lua,D:\clones\snabb\src\lib\token_bucket.lua,17,8.0,96.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\computations.lua,18,0.0,95.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\base\select.lua,8,2.0,95.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\opt\sink\nosink.lua,13,1.0,95.0
+snabb,Lua,D:\clones\snabb\src\lib\timers\ingress_drop_monitor.lua,14,4.0,95.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_arch.h,30,18.0,94.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\l1.md,12,0.0,94.0
+snabb,Lua,D:\clones\snabb\src\apps\bridge\base.lua,10,78.0,94.0
+snabb,Lua,D:\clones\snabb\src\lib\io\virtual_ether_mux.lua,4,2.0,94.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_gc.h,19,14.0,93.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\ffi_arith_ptr.lua,10,3.0,93.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\proto-47.md,12,0.0,93.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\proto-sctp.md,12,0.0,93.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\quickcheck\quickcheck.lua,11,3.0,93.0
+snabb,Lua,D:\clones\snabb\src\program\snsh\snsh.lua,10,9.0,93.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\ffi_new.lua,13,1.0,92.0
+snabb,Lua,D:\clones\snabb\src\lib\protocol\dns\mdns_query.lua,10,6.0,92.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\lwaftr\tests\hw\test_ping_on_a_stick.sh,22,7.0,92.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\jit_array.lua,13,0.0,91.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\sysdep\ffi_lib_z.lua,16,0.0,91.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\sctp.md,12,0.0,91.0
+snabb,Lua,D:\clones\snabb\lib\pflua\src\pf.lua,8,1.0,91.0
+snabb,Markdown,D:\clones\snabb\src\program\lwaftr\doc\README.md,37,0.0,91.0
+snabb,Lua,D:\clones\snabb\src\program\ps\ps.lua,11,4.0,91.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\pflang.md,43,0.0,90.0
+snabb,Lua,D:\clones\snabb\src\core\timer.lua,14,10.0,90.0
+snabb,Lua,D:\clones\snabb\src\lib\logger.lua,12,4.0,90.0
+snabb,Lua,D:\clones\snabb\src\lib\stream\socket.lua,20,3.0,90.0
+snabb,Lua,D:\clones\snabb\lib\ljndpi\ndpi\wrap.lua,26,12.0,89.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\ffitypes.lua,18,5.0,89.0
+snabb,Markdown,D:\clones\snabb\lib\luajit\testsuite\test\README.md,21,0.0,89.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\ffi_const.lua,16,8.0,89.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\fail-fail.md,12,0.0,89.0
+snabb,Markdown,D:\clones\snabb\src\lib\ipsec\README.md,27,0.0,89.0
+snabb,Markdown,D:\clones\snabb\src\program\snabbnfv\README.md,23,0.0,89.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\bit.lua,19,5.0,88.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\lwaftr\tests\end-to-end\core-end-to-end.sh,12,1.0,88.0
+snabb,Markdown,D:\clones\snabb\src\program\snabbvmx\doc\README.md,24,0.0,88.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\vararg_jit.lua,8,0.0,87.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\packet-access-igmp.md,12,0.0,87.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\packet-access-igrp.md,12,0.0,87.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\packet-access-pim.md,12,0.0,87.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\packet-access-sctp.md,12,0.0,87.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\packet-access-vrrp.md,12,0.0,87.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\fasta.lua,9,0.0,86.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\compare_nan.lua,13,0.0,86.0
+snabb,Lua,D:\clones\snabb\src\apps\test\match.lua,12,0.0,86.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_strfmt.h,19,17.0,85.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\bit.lua,13,0.0,85.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\string\byte.lua,7,0.0,85.0
+snabb,Markdown,D:\clones\snabb\src\doc\in-a-nutshell.md,28,0.0,85.0
+snabb,Markdown,D:\clones\snabb\src\lib\README.pmu.md,30,0.0,85.0
+snabb,Lua,D:\clones\snabb\src\lib\protocol\keyed_ipv6_tunnel.lua,13,20.0,85.0
+snabb,Lua,D:\clones\snabb\lib\ljndpi\ndpi\c.lua,25,12.0,84.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\dst-host-192.68.1.1-and-greater-100.md,12,0.0,84.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\icmp6-or-ip.md,12,0.0,84.0
+snabb,Lua,D:\clones\snabb\src\lib\fibers\channel.lua,14,31.0,84.0
+snabb,Markdown,D:\clones\snabb\src\program\snabbvmx\README.md,23,0.0,84.0
+snabb,Lua,D:\clones\snabb\src\apps\ipv6\ns_responder.lua,9,21.0,83.0
+snabb,Python,D:\clones\snabb\src\program\lwaftr\tests\test_env.py,15,17.0,83.0
+snabb,CSV,D:\clones\snabb\src\program\lwaftr\doc\benchmarks-v1.0\transient-self-test.csv,0,0.0,82.0
+snabb,Markdown,D:\clones\snabb\lib\ljsyscall\README.md,77,0.0,81.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\api_call.lua,17,0.0,81.0
+snabb,Lua,D:\clones\snabb\src\apps\test\synth.lua,7,2.0,81.0
+snabb,Lua,D:\clones\snabb\src\program\pci_bind\pci_bind.lua,8,1.0,81.0
+snabb,Nix,D:\clones\snabb\lib\luajit\testsuite\bench\default.nix,7,16.0,80.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\uclo.lua,10,1.0,80.0
+snabb,Lua,D:\clones\snabb\src\lib\checksum.lua,25,8.0,80.0
+snabb,Markdown,D:\clones\snabb\src\program\lwaftr\doc\running.md,23,0.0,80.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\libc.lua,24,16.0,79.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\life.lua,14,18.0,79.0
+snabb,Lua,D:\clones\snabb\src\apps\intel_mp\testrecv.lua,10,1.0,79.0
+snabb,Lua,D:\clones\snabb\src\lib\lpm\lpm4_248.lua,10,2.0,79.0
+snabb,C,D:\clones\snabb\src\apps\bridge\mac_table.c,8,31.0,78.0
+snabb,Lua,D:\clones\snabb\src\apps\wall\util.lua,13,23.0,78.0
+snabb,Markdown,D:\clones\snabb\src\lib\README.tsc.md,34,0.0,78.0
+snabb,Markdown,D:\clones\snabb\src\program\lwaftr\doc\benchmarking.md,28,0.0,78.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_buf.h,17,9.0,77.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\upvalue\closure.lua,7,0.0,77.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\hook_active.lua,10,8.0,77.0
+snabb,Markdown,D:\clones\snabb\src\apps\ipfix\README.md,44,0.0,77.0
+snabb,Lua,D:\clones\snabb\src\lib\ptree\trace.lua,10,1.0,77.0
+snabb,Lua,D:\clones\snabb\src\program\lisper\dev-env-perftest\gen_pcap.lua,12,0.0,77.0
+snabb,Python,D:\clones\snabb\src\program\lwaftr\tests\subcommands\query_test.py,16,6.0,77.0
+snabb,Markdown,D:\clones\snabb\src\program\snabbvmx\doc\README.install.md,19,0.0,77.0
+snabb,Lua,D:\clones\snabb\src\program\unhexdump\unhexdump.lua,8,6.0,77.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\pidigits-nogmp.lua,13,11.0,76.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\base\xpcall_jit.lua,6,1.0,76.0
+snabb,Lua,D:\clones\snabb\src\apps\intel_mp\loadgen.lua,11,9.0,76.0
+snabb,Markdown,D:\clones\snabb\src\lib\README.poptrie.md,23,0.0,76.0
+snabb,Lua,D:\clones\snabb\src\lib\fibers\queue.lua,10,23.0,76.0
+snabb,Lua,D:\clones\snabb\src\lib\pcap\pcap.lua,10,4.0,76.0
+snabb,Lua,D:\clones\snabb\src\lib\yang\rpc.lua,8,2.0,76.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\examples\lxc.lua,23,21.0,75.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\istype.lua,13,0.0,75.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\unordered_jit.lua,21,0.0,75.0
+snabb,Lua,D:\clones\snabb\src\lib\fibers\fiber.lua,20,6.0,75.0
+snabb,Lua,D:\clones\snabb\src\lib\index_set.lua,16,13.0,75.0
+snabb,Lua,D:\clones\snabb\src\lib\scheduling.lua,16,1.0,75.0
+snabb,Lua,D:\clones\snabb\src\lib\virtio\virtq_device.lua,27,11.0,75.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\opt\fold\kfold.lua,7,0.0,74.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\src-net-ffff.ffff.eeee.eeee.1.0.0.0-82.md,12,0.0,74.0
+snabb,Lua,D:\clones\snabb\src\lib\protocol\icmp\nd\options\tlv.lua,15,3.0,74.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\monitor\monitor.lua,12,2.0,74.0
+snabb,Lua,D:\clones\snabb\src\program\ptree\ptree.lua,13,1.0,74.0
+snabb,Lua,D:\clones\snabb\lib\ljndpi\ndpi\protocol_bitmask.lua,16,30.0,73.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\lightud.lua,9,6.0,73.0
+snabb,Lua,D:\clones\snabb\src\program\l2vpn\tunnels\gre.lua,6,11.0,73.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\snabbnfv\neutron_sync_master\neutron_sync_master.sh,13,5.0,73.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\freebsd\syscalls.lua,18,3.0,72.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\netbsd\ffifunctions.lua,11,1.0,72.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\host\buildvm.h,16,17.0,72.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\sysdep\ffi_lib_c.lua,15,0.0,72.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\src-net-ffff.ffff.eeee.eeee.0.0.0.0-72.md,12,0.0,72.0
+snabb,Lua,D:\clones\snabb\src\lib\fibers\epoll.lua,11,13.0,72.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_lex.h,11,8.0,71.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_vmmath.c,15,7.0,71.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\meta\debuginfo.lua,10,0.0,71.0
+snabb,Lua,D:\clones\snabb\src\apps\lwaftr\constants.lua,20,14.0,71.0
+snabb,C,D:\clones\snabb\src\core\memory.c,10,30.0,71.0
+snabb,Lua,D:\clones\snabb\src\lib\protocol\udp.lua,12,9.0,71.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\base\tonumber_tostring.lua,11,0.0,70.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\ffi_parse_array.lua,8,0.0,70.0
+snabb,Markdown,D:\clones\snabb\src\apps\test\README.md,34,0.0,70.0
+snabb,Lua,D:\clones\snabb\src\lib\stream\compat.lua,19,2.0,70.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\ppc\ffi.lua,2,1.0,69.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\netbsd\c.lua,14,7.0,69.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_frame.h,17,32.0,69.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\icmp6.md,12,0.0,69.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\ip6-proto-47.md,12,0.0,69.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\ip6-proto-ah.md,12,0.0,69.0
+snabb,Lua,D:\clones\snabb\src\apps\lwaftr\ctable_wrapper.lua,9,8.0,69.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\mips\ioctl.lua,3,1.0,68.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\meta\call.lua,13,0.0,68.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\base\pairs.lua,5,0.0,68.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\base\pcall_jit.lua,5,1.0,68.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\packetblaster\selftest.sh,10,4.0,68.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\ffi_parse_cdef.lua,10,0.0,67.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\trace\exit_frame.lua,10,2.0,67.0
+snabb,Lua,D:\clones\snabb\src\apps\intel\loadgen.lua,11,7.0,67.0
+snabb,Lua,D:\clones\snabb\src\core\counter.lua,15,34.0,67.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\bench\bench.lua,10,2.0,67.0
+snabb,Lua,D:\clones\snabb\src\program\packetblaster\packetblaster.lua,8,1.0,67.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\netbsd\init.lua,18,6.0,66.0
+snabb,Lua,D:\clones\snabb\lib\pflua\src\pf\savefile.lua,11,0.0,66.0
+snabb,Lua,D:\clones\snabb\lib\pflua\tests\properties\opt_eq_unopt.lua,9,4.0,66.0
+snabb,Markdown,D:\clones\snabb\src\apps\bridge\README.md,32,0.0,66.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_mp\test_10g_counters.sh,14,0.0,66.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\x86\ffi.lua,2,1.0,65.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\test\rump.lua,12,2.0,65.0
+snabb,Lua,D:\clones\snabb\src\apps\pcap\tap.lua,16,6.0,65.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\test\helpers.lua,14,3.0,64.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\meta\arith_jit.lua,4,0.0,64.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\opt\dse\field.lua,5,1.0,64.0
+snabb,Lua,D:\clones\snabb\src\core\worker.lua,12,27.0,64.0
+snabb,Lua,D:\clones\snabb\src\lib\protocol\icmp\header.lua,13,10.0,64.0
+snabb,Lua,D:\clones\snabb\src\program\l2vpn\dispatch.lua,7,27.0,64.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\opt\fwd\tnew_tdup.lua,6,0.0,63.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\iso-proto-47.md,12,0.0,63.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\iso-proto-clnp.md,12,0.0,63.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\net-ipv6-0-mask-16.md,12,0.0,63.0
+snabb,Markdown,D:\clones\snabb\src\apps\ipsec\README.md,32,0.0,63.0
+snabb,Markdown,D:\clones\snabb\src\lib\README.numa.md,15,0.0,63.0
+snabb,Lua,D:\clones\snabb\src\program\loadtest\promise.lua,10,2.0,63.0
+snabb,Lua,D:\clones\snabb\lib\ljndpi\examples\pcap.lua,13,6.0,62.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\ppc64le\ffi.lua,2,1.0,62.0
+snabb,C/C++ Header,D:\clones\snabb\src\apps\vhost\vhost_user.h,7,3.0,62.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\snabbvmx\tests\end-to-end\core-end-to-end.sh,10,0.0,62.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\snabbvmx\tests\nexthop\selftest-disabled.sh,15,6.0,62.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\arm\ffi.lua,2,1.0,61.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\string\rep.lua,7,0.0,61.0
+snabb,Markdown,D:\clones\snabb\src\program\lwaftr\doc\troubleshooting.md,19,0.0,61.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\snabbvmx\tests\test_env\test_env.sh,20,13.0,61.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\sysdep\catch_cpp.lua,11,0.0,60.0
+snabb,Lua,D:\clones\snabb\src\apps\lwaftr\loadgen.lua,11,5.0,60.0
+snabb,Markdown,D:\clones\snabb\src\apps\vlan\README.md,28,0.0,60.0
+snabb,Markdown,D:\clones\snabb\src\program\snabbnfv\doc\installation.md,27,0.0,60.0
+snabb,Lua,D:\clones\snabb\lib\pflua\src\pf\libpcap.lua,15,13.0,59.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\check\check.lua,6,0.0,59.0
+snabb,CSV,D:\clones\snabb\src\program\lwaftr\doc\benchmarks-v2.0\lwaftr-small.csv,0,0.0,59.0
+snabb,CSV,D:\clones\snabb\src\program\lwaftr\doc\benchmarks-v2.0\lwaftr.csv,0,0.0,59.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\arm64\ffi.lua,2,1.0,58.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\x64\ffi.lua,3,1.0,58.0
+snabb,Markdown,D:\clones\snabb\src\apps\tap\README.md,21,0.0,58.0
+snabb,Bourne Shell,D:\clones\snabb\src\doc\genbook.sh,51,16.0,58.0
+snabb,Lua,D:\clones\snabb\src\lib\cltable.lua,13,2.0,58.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_lib.h,15,24.0,57.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\chameneos.lua,7,4.0,57.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\meta\newindex.lua,12,0.0,57.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_ccall.h,21,9.0,56.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_cdata.h,12,8.0,56.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_vm.h,12,13.0,56.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\ipsec\test-linux-compat.sh,17,3.0,56.0
+snabb,C,D:\clones\snabb\src\apps\solarflare\poll.c,16,6.0,56.0
+snabb,C,D:\clones\snabb\src\core\lib.c,12,13.0,56.0
+snabb,Lua,D:\clones\snabb\src\program\alarms\listen\listen.lua,8,1.0,56.0
+snabb,Lua,D:\clones\snabb\src\program\alarms\purge\purge.lua,5,1.0,56.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_target.h,25,63.0,55.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\meta\cat.lua,6,0.0,55.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\tcp-address.md,12,0.0,55.0
+snabb,Lua,D:\clones\snabb\src\apps\virtio_net\virtio_net.lua,16,8.0,55.0
+snabb,Markdown,D:\clones\snabb\src\lib\virtio\README.md,10,0.0,55.0
+snabb,Lua,D:\clones\snabb\src\program\l2vpn\tunnels\l2tpv3.lua,5,3.0,55.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\program\wall\tests\spy-pcaps.test,6,0.0,55.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_dispatch.h,15,13.0,54.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\ether-proto-255.md,12,0.0,54.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\check\util.lua,6,0.0,54.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\propbased\prop_sameval.lua,16,5.0,54.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_opt_dce.c,10,13.0,53.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\array3d.lua,6,0.0,53.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\k-nucleotide.lua,5,0.0,53.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\unportable\ffi_arith_int64.lua,15,0.0,53.0
+snabb,Markdown,D:\clones\snabb\src\apps\intel_avf\README.md,26,0.0,53.0
+snabb,Lua,D:\clones\snabb\src\apps\lwaftr\lwdebug.lua,10,11.0,53.0
+snabb,C,D:\clones\snabb\src\lib\ipsec\track_seq_no.c,17,36.0,53.0
+snabb,Markdown,D:\clones\snabb\src\program\lwaftr\doc\continuous-integration.md,19,0.0,53.0
+snabb,Markdown,D:\clones\snabb\src\program\snabbnfv\doc\architecture.md,18,0.0,52.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\snabbnfv\neutron_sync_agent\neutron_sync_agent.sh,10,5.0,52.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\test\osx.lua,17,2.0,51.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\host\buildvm_libbc.h,4,1.0,51.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\copy_fill.lua,12,1.0,51.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\table\concat.lua,4,0.0,51.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\ether-broadcast.md,12,0.0,51.0
+snabb,Markdown,D:\clones\snabb\src\apps\mellanox\README.md,28,0.0,51.0
+snabb,Markdown,D:\clones\snabb\src\apps\xdp\README.md,24,0.0,51.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\meta\index.lua,10,0.0,50.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\ffi_gcstep_recursive.lua,14,2.0,50.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\trace\phi\copyspill.lua,3,0.0,50.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\ip-multicast.md,12,0.0,50.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\ip-proto-47.md,12,0.0,50.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\ip-proto-ah.md,12,0.0,50.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\ip-proto-sctp.md,12,0.0,50.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\ip6-multicast.md,12,0.0,50.0
+snabb,Markdown,D:\clones\snabb\src\apps\interlink\README.md,15,0.0,50.0
+snabb,Lua,D:\clones\snabb\src\core\config.lua,12,19.0,50.0
+snabb,Markdown,D:\clones\snabb\src\doc\core-data-structures.md,19,0.0,50.0
+snabb,Lua,D:\clones\snabb\src\lib\fibers\cond.lua,11,4.0,50.0
+snabb,Markdown,D:\clones\snabb\src\program\snabbnfv\test_env\README.md,17,0.0,50.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\andor.lua,5,8.0,48.0
+snabb,Lua,D:\clones\snabb\lib\pflua\tests\pfquickcheck\pflua_ir.lua,3,5.0,48.0
+snabb,Markdown,D:\clones\snabb\src\lib\README.token_bucket.md,22,0.0,48.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\dynasm\dasm_proto.h,21,15.0,47.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_debug.h,7,7.0,47.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\meta_tostring.lua,8,0.0,47.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\string\lower_upper.lua,4,0.0,47.0
+snabb,Markdown,D:\clones\snabb\src\apps\pcap\README.md,18,0.0,47.0
+snabb,C/C++ Header,D:\clones\snabb\src\dasm_proto.h,21,15.0,47.0
+snabb,Markdown,D:\clones\snabb\src\lib\README.cltable.md,18,0.0,47.0
+snabb,Lua,D:\clones\snabb\src\lib\fibers\sleep.lua,9,2.0,47.0
+snabb,Lua,D:\clones\snabb\src\lib\macaddress.lua,7,4.0,47.0
+snabb,Lua,D:\clones\snabb\src\program\snabbnfv\neutron_sync_master\neutron_sync_master.lua,4,1.0,47.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\osx\syscalls.lua,17,4.0,46.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\rump\ffirump.lua,8,1.0,46.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\ffi_lex_number.lua,5,0.0,46.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\alias_alloc.lua,6,2.0,46.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\hook_top.lua,9,0.0,46.0
+snabb,Lua,D:\clones\snabb\src\apps\pcap\pcap.lua,10,2.0,46.0
+snabb,Markdown,D:\clones\snabb\src\doc\statistics.md,8,0.0,46.0
+snabb,Lua,D:\clones\snabb\src\lib\hash\base.lua,7,40.0,46.0
+snabb,Lua,D:\clones\snabb\src\program\lisper\dev-env-docker\lisp.lua,9,1.0,46.0
+snabb,Lua,D:\clones\snabb\src\program\lisper\dev-env\lisp.lua,9,1.0,46.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_cconv.h,12,7.0,45.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\cdata_var.lua,2,0.0,45.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\ffi_enum.lua,12,0.0,45.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\unportable\math_special.lua,8,2.0,45.0
+snabb,Lua,D:\clones\snabb\lib\pflua\src\pf\types.lua,7,5.0,45.0
+snabb,Lua,D:\clones\snabb\lib\pflua\tests\pfquickcheck\pflang_math.lua,7,18.0,45.0
+snabb,Markdown,D:\clones\snabb\src\lib\lpm\README.md,8,0.0,45.0
+snabb,Lua,D:\clones\snabb\src\lib\protocol\icmp\nd\na.lua,12,4.0,45.0
+snabb,Lua,D:\clones\snabb\src\program\packetblaster\replay\replay.lua,7,1.0,45.0
+snabb,Lua,D:\clones\snabb\src\program\snabbvmx\check\check.lua,5,0.0,45.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall.lua,18,8.0,44.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\test\openbsd.lua,14,1.0,44.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_cparse.h,11,8.0,44.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\fannkuch.lua,2,4.0,44.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\math\random.lua,3,0.0,44.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\opt\fwd\upval.lua,4,2.0,44.0
+snabb,Nix,D:\clones\snabb\release.nix,13,9.0,44.0
+snabb,Markdown,D:\clones\snabb\src\program\lwaftr\doc\testing.md,8,0.0,44.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\abi.lua,12,10.0,43.0
+snabb,Lua,D:\clones\snabb\src\apps\csv.lua,7,3.0,43.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_avf\tests\setup.sh,6,0.0,43.0
+snabb,Lua,D:\clones\snabb\src\apps\interlink\receiver.lua,9,6.0,43.0
+snabb,Lua,D:\clones\snabb\src\apps\interlink\transmitter.lua,9,6.0,43.0
+snabb,Lua,D:\clones\snabb\src\lib\lua\class.lua,11,56.0,43.0
+snabb,Lua,D:\clones\snabb\src\program\packetblaster\synth\synth.lua,8,1.0,43.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\snabbvmx\tests\end-to-end\test_env.sh,8,9.0,43.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\assignment.lua,4,0.0,42.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\for.lua,3,0.0,42.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\ether-multicast.md,12,0.0,42.0
+snabb,C,D:\clones\snabb\src\lib\ipc\shmem\shmem.c,6,3.0,42.0
+snabb,Python,D:\clones\snabb\src\program\lwaftr\tests\subcommands\monitor_test.py,12,11.0,42.0
+snabb,make,D:\clones\snabb\Makefile,7,3.0,41.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\modulo.lua,5,0.0,41.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\ether-proto-1501.md,12,0.0,41.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\ether-proto-decnet.md,12,0.0,41.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\extensions.md,11,0.0,41.0
+snabb,Lua,D:\clones\snabb\src\apps\wall\constants.lua,8,5.0,41.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\soaktest\soaktest.lua,8,0.0,41.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_tab.h,13,9.0,40.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\binary-trees.lua,7,0.0,40.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\table\misc.lua,11,7.0,40.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\phi_conv.lua,12,1.0,40.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\trace\snap.lua,5,2.0,40.0
+snabb,make,D:\clones\snabb\lib\pflua\tests\Makefile,11,2.0,40.0
+snabb,Lua,D:\clones\snabb\lib\pflua\tests\properties\pipecmp_proto_or_proto.lua,9,1.0,40.0
+snabb,Lua,D:\clones\snabb\src\program\alarms\set_operator_state\set_operator_state.lua,5,1.0,40.0
+snabb,Lua,D:\clones\snabb\src\program\shm\shm.lua,12,9.0,40.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\snabbnfv\dpdk_bench.sh,10,0.0,40.0
+snabb,Nix,D:\clones\snabb\tarball.nix,9,17.0,40.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lib_init.c,7,7.0,39.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\base\error.lua,4,0.0,39.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\dualnum.lua,5,3.0,39.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\opt\sink\ffi_nosink.lua,6,0.0,39.0
+snabb,C/C++ Header,D:\clones\snabb\src\apps\intel\intel.h,6,5.0,39.0
+snabb,Lua,D:\clones\snabb\src\lib\protocol\esp.lua,8,3.0,39.0
+snabb,Lua,D:\clones\snabb\src\program\alarms\compress\compress.lua,5,1.0,39.0
+snabb,Lua,D:\clones\snabb\src\program\lisper\dev-env-perftest\count.lua,11,0.0,39.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\propbased\common.lua,7,2.0,39.0
+snabb,Lua,D:\clones\snabb\src\program\snabbnfv\neutron_sync_agent\neutron_sync_agent.lua,4,1.0,39.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\examples\event.lua,13,2.0,38.0
+snabb,R,D:\clones\snabb\lib\luajit\testsuite\bench\bench.R,5,6.0,38.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\base\ipairs.lua,3,0.0,38.0
+snabb,Lua,D:\clones\snabb\lib\pflua\tools\helpers\pflua_asm.lua,12,19.0,38.0
+snabb,C/C++ Header,D:\clones\snabb\src\apps\bridge\learning.h,9,23.0,38.0
+snabb,Markdown,D:\clones\snabb\src\doc\kvm.md,9,0.0,38.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\meta\len.lua,5,0.0,37.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\table\remove.lua,5,0.0,37.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\catch_wrap.lua,8,0.0,37.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\ether-proto-1500.md,12,0.0,37.0
+snabb,Bourne Again Shell,D:\clones\snabb\lib\pflua\tools\pflua-asm,10,6.0,37.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_mp\selftest.sh,0,0.0,37.0
+snabb,Lua,D:\clones\snabb\src\lib\protocol\esp_tail.lua,8,3.0,37.0
+snabb,Bourne Shell,D:\clones\snabb\src\scripts\generate-pmu.sh,4,18.0,37.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\cgroup.lua,15,3.0,36.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_obj.c,7,7.0,36.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_traceerr.h,10,15.0,36.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\debug_gc.lua,6,5.0,36.0
+snabb,make,D:\clones\snabb\lib\pflua\Makefile,9,0.0,36.0
+snabb,Lua,D:\clones\snabb\src\apps\test\npackets.lua,5,0.0,36.0
+snabb,Lua,D:\clones\snabb\src\lib\gauge.lua,10,2.0,36.0
+snabb,Pascal,D:\clones\snabb\src\program\firehose\example.inc,13,0.0,36.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\fcntl.lua,10,1.0,35.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\netbsd\fcntl.lua,12,1.0,35.0
+snabb,Lua,D:\clones\snabb\lib\pflua\tests\properties\pflua_pipelines_match.lua,8,4.0,35.0
+snabb,Nix,D:\clones\snabb\src\program\lwaftr\tests\release-benchmarks\release-benchmarks.nix,4,3.0,35.0
+snabb,Lua,D:\clones\snabb\src\program\snabbnfv\neutron2snabb\neutron2snabb_schema.lua,8,20.0,35.0
+snabb,SQL,D:\clones\snabb\src\program\snabbnfv\test_fixtures\neutron_csv\securitygrouprules.sql,6,9.0,35.0
+snabb,Lua,D:\clones\snabb\lib\ljndpi\tools\update-protocol-ids,7,12.0,34.0
+snabb,Bourne Shell,D:\clones\snabb\lib\ljsyscall\examples\cbuild.sh,19,6.0,34.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\openbsd\c.lua,12,10.0,34.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\osx\fcntl.lua,12,2.0,34.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\revcomp.lua,3,0.0,34.0
+snabb,Pascal,D:\clones\snabb\lib\luajit\testsuite\test\common\ffi_util.inc,7,0.0,34.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\jit_flush.lua,16,0.0,34.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\ipfix\tests\collector-test.sh,13,10.0,34.0
+snabb,Markdown,D:\clones\snabb\src\program\snabbnfv\doc\compute-node-requirements.md,14,0.0,34.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\netfilter.lua,8,3.0,33.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\osx\c.lua,16,17.0,33.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\spectral-norm.lua,7,0.0,33.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\meta\eq_jit.lua,2,0.0,33.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\hook_line.lua,6,2.0,33.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\program\wall\tests\filter-pcaps.test,9,7.0,33.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\freebsd\c.lua,12,3.0,32.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\freebsd\fcntl.lua,12,2.0,32.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\nr.lua,5,0.0,32.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\ppc\ioctl.lua,3,1.0,32.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\ppc64le\ioctl.lua,3,1.0,32.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\openbsd\fcntl.lua,12,2.0,32.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\mandelbrot-bit.lua,1,0.0,32.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\nsieve-bit-fp.lua,5,0.0,32.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\sysdep\ffi_include_std.lua,4,0.0,32.0
+snabb,Markdown,D:\clones\snabb\src\apps\rate_limiter\README.md,16,0.0,32.0
+snabb,Markdown,D:\clones\snabb\src\doc\snabblab.md,19,0.0,32.0
+snabb,Lua,D:\clones\snabb\src\lib\protocol\icmp\nd\ns.lua,9,4.0,32.0
+snabb,Lua,D:\clones\snabb\src\lib\protocol\icmp\nd\options\lladdr.lua,10,4.0,32.0
+snabb,SQL,D:\clones\snabb\src\program\snabbnfv\test_fixtures\neutron_csv\ports.sql,6,9.0,32.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\examples\init.lua,26,10.0,31.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\arm\constants.lua,7,1.0,31.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\arm64\constants.lua,6,1.0,31.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lualib.h,8,4.0,31.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\gc.lua,11,0.0,31.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\table.lua,1,0.0,31.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\err.lua,4,0.0,31.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\gc_trace.lua,4,2.0,31.0
+snabb,C/C++ Header,D:\clones\snabb\src\apps\vhost\vhost.h,10,29.0,31.0
+snabb,Lua,D:\clones\snabb\src\lib\timers\memory_info.lua,11,6.0,31.0
+snabb,Lua,D:\clones\snabb\src\program\lisper\dev-env-docker\watch_punt.lua,6,0.0,31.0
+snabb,Bourne Shell,D:\clones\snabb\src\scripts\dock.sh,6,1.0,31.0
+snabb,Nix,D:\clones\snabb\lib\luajit\default.nix,4,10.0,30.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_char.h,7,5.0,30.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_err.h,7,4.0,30.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_record.h,8,5.0,30.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\base\assert.lua,3,0.0,30.0
+snabb,Lua,D:\clones\snabb\src\apps\bridge\flooding.lua,6,5.0,30.0
+snabb,Markdown,D:\clones\snabb\src\apps\packet_filter\README.md,11,0.0,30.0
+snabb,Lua,D:\clones\snabb\src\lib\watchdog\watchdog.lua,7,9.0,30.0
+snabb,Markdown,D:\clones\snabb\src\program\dnssd\README.md,6,0.0,30.0
+snabb,Nix,D:\clones\snabb\default.nix,9,5.0,29.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\netbsd\version.lua,7,4.0,29.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\luajit.h,16,32.0,29.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\base\getsetmetatable.lua,4,0.0,29.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\fori_coerce.lua,4,0.0,29.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\opt\loop\unroll.lua,3,0.0,29.0
+snabb,Markdown,D:\clones\snabb\src\apps\socket\README.md,11,0.0,29.0
+snabb,Nix,D:\clones\snabb\src\doc\default.nix,9,5.0,29.0
+snabb,Markdown,D:\clones\snabb\src\lib\README.checksum.md,9,0.0,29.0
+snabb,C,D:\clones\snabb\src\lib\lpm\lpm4_dxr.c,2,0.0,29.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\series.lua,6,0.0,28.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\string\dump.lua,3,0.0,28.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\raptorjit\vmprofile.lua,4,2.0,28.0
+snabb,Markdown,D:\clones\snabb\src\apps\solarflare\README.md,12,0.0,28.0
+snabb,C/C++ Header,D:\clones\snabb\src\lib\virtio\virtio_vring.h,7,6.0,28.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\ipfix\tests\bench.sh,5,10.0,28.0
+snabb,Python,D:\clones\snabb\src\program\lwaftr\tests\subcommands\run_test.py,11,5.0,28.0
+snabb,SQL,D:\clones\snabb\src\program\snabbnfv\test_fixtures\neutron_csv\ml2_network_segments.sql,6,9.0,28.0
+snabb,SQL,D:\clones\snabb\src\program\snabbnfv\test_fixtures\neutron_csv\ml2_port_bindings.sql,6,9.0,28.0
+snabb,YAML,D:\clones\snabb\lib\ljsyscall\.travis.yml,5,0.0,27.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\x64\constants.lua,5,1.0,27.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\test\strict.lua,7,6.0,27.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_trace.h,10,8.0,27.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\partialsums.lua,2,0.0,27.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\gcstep.lua,6,0.0,27.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\loop_unroll.lua,5,3.0,27.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\trace\exit_growstack.lua,1,0.0,27.0
+snabb,Markdown,D:\clones\snabb\src\apps\vhost\README.md,9,0.0,27.0
+snabb,Lua,D:\clones\snabb\src\apps\wall\l7spy.lua,9,0.0,27.0
+snabb,Lua,D:\clones\snabb\src\lib\lua\strict.lua,7,7.0,27.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\lwaftr\doc\genbook.sh,19,6.0,27.0
+snabb,Python,D:\clones\snabb\src\program\lwaftr\tests\data\add-dot1q.py,5,2.0,27.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\lwaftr\tests\soaktest\core-soaktest.sh,7,0.0,27.0
+snabb,Python,D:\clones\snabb\src\program\lwaftr\tests\subcommands\loadtest_test.py,10,8.0,27.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\program\lwaftr\virt\lwaftrctl.conf.example,13,3.0,27.0
+snabb,SQL,D:\clones\snabb\src\program\snabbnfv\test_fixtures\neutron_csv\networks.sql,6,9.0,27.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_bcdump.h,13,29.0,26.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_crecord.h,6,4.0,26.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\coroutine-ring.lua,8,8.0,26.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\string\char.lua,3,0.0,26.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\opt\fwd\hrefk_rollback.lua,6,0.0,26.0
+snabb,C/C++ Header,D:\clones\snabb\src\core\clib.h,20,21.0,26.0
+snabb,C/C++ Header,D:\clones\snabb\src\program\firehose\firehose.h,7,18.0,26.0
+snabb,SQL,D:\clones\snabb\src\program\snabbnfv\test_fixtures\neutron_csv\securitygroupportbindings.sql,6,9.0,26.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\scripts\process-markdown,4,12.0,26.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\recurse_deep.lua,4,0.0,25.0
+snabb,make,D:\clones\snabb\lib\pflua\src\Makefile,6,0.0,25.0
+snabb,Markdown,D:\clones\snabb\src\doc\porting.md,10,0.0,25.0
+snabb,Lua,D:\clones\snabb\src\program\l2vpn\transports\ipv6.lua,4,0.0,25.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\counters.lua,3,0.0,25.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\openbsd\syscalls.lua,14,2.0,24.0
+snabb,Bourne Shell,D:\clones\snabb\lib\ljsyscall\test\globals.sh,12,6.0,24.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_meta.h,6,6.0,24.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\meta\eq.lua,5,1.0,24.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\parse_misc.lua,5,2.0,24.0
+snabb,Markdown,D:\clones\snabb\CONTRIBUTING.md,7,0.0,23.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\doc\constants.lua,5,2.0,23.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\examples\sigint.lua,8,2.0,23.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\x86\constants.lua,4,2.0,23.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_udata.c,5,6.0,23.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\nsieve-bit.lua,4,0.0,23.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\table\sort.lua,3,1.0,23.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\tests\pfquickcheck\README.md,7,0.0,23.0
+snabb,Markdown,D:\clones\snabb\src\doc\trademark.md,11,0.0,23.0
+snabb,Lua,D:\clones\snabb\src\lib\protocol\icmp\ptb.lua,6,8.0,23.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\compile_configuration\compile_configuration.lua,4,0.0,23.0
+snabb,Markdown,D:\clones\snabb\src\program\lwaftr\doc\ndp.md,9,0.0,23.0
+snabb,Markdown,D:\clones\snabb\lib\ljndpi\CHANGELOG.md,6,0.0,22.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\examples\vlan.lua,16,7.0,22.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_char.c,4,17.0,22.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_dwarf.c,2,3.0,22.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\mandelbrot.lua,1,0.0,22.0
+snabb,Lua,D:\clones\snabb\src\program\example_spray\sprayer.lua,7,2.0,22.0
+snabb,Python,D:\clones\snabb\src\program\ipfix\tests\generate_packets.py,8,3.0,22.0
+snabb,Lua,D:\clones\snabb\src\program\lisper\dev-env-perftest\baseline.lua,7,0.0,22.0
+snabb,Lua,D:\clones\snabb\src\program\loadtest\loadtest.lua,4,0.0,22.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\lwaftr.lua,4,0.0,22.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\snabbvmx\tests\end-to-end\data\add-vlan.sh,7,10.0,22.0
+snabb,C,D:\clones\snabb\lib\ljsyscall\examples\cstub.c,8,1.0,21.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_strscan.h,7,7.0,21.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\meta\framegap.lua,2,1.0,21.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\stackov.lua,11,8.0,21.0
+snabb,Markdown,D:\clones\snabb\src\apps\virtio_net\README.md,9,0.0,21.0
+snabb,make,D:\clones\snabb\src\program\lwaftr\Makefile,10,3.0,21.0
+snabb,make,D:\clones\snabb\src\program\lwaftr\doc\benchmarks-v1.0\Makefile,8,4.0,21.0
+snabb,Python,D:\clones\snabb\src\program\lwaftr\tests\subcommands\generate_binding_table_test.py,12,14.0,21.0
+snabb,make,D:\clones\snabb\src\program\snabbvmx\Makefile,9,0.0,21.0
+snabb,Bourne Shell,D:\clones\snabb\generate-version-lua.sh,5,0.0,20.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_state.h,8,4.0,20.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\euler14-bit.lua,2,0.0,20.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\length.lua,3,0.0,20.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\gc_rechain.lua,12,0.0,20.0
+snabb,Bourne Again Shell,D:\clones\snabb\lib\pflua\env,4,0.0,20.0
+snabb,Lua,D:\clones\snabb\lib\pflua\tests\pfquickcheck\pfcompile.lua,5,6.0,20.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_mp\bench.sh,2,3.0,20.0
+snabb,Python,D:\clones\snabb\src\program\lwaftr\tests\subcommands\check_test.py,9,4.0,20.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\meta\nomm.lua,2,0.0,19.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\tail_recursion.lua,1,0.0,19.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\recurse_tail.lua,3,0.0,19.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\stack_purge.lua,5,1.0,19.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\trace\exit_jfuncf.lua,6,5.0,19.0
+snabb,Perl,D:\clones\snabb\src\lib\lpm\build_fixtures.pl,5,3.0,19.0
+snabb,Lua,D:\clones\snabb\src\lib\protocol\icmp\nd\header.lua,5,6.0,19.0
+snabb,Lua,D:\clones\snabb\src\program\alarms\alarms.lua,4,1.0,19.0
+snabb,Lua,D:\clones\snabb\src\program\config\config.lua,4,1.0,19.0
+snabb,Lua,D:\clones\snabb\src\program\example_spray\example_spray.lua,6,1.0,19.0
+snabb,Markdown,D:\clones\snabb\src\program\ipfix\README.md,6,0.0,19.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\alarms.lua,1,0.0,19.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\ndp-no-na-next-hop6-mac-not-set-3pkts.lua,0,0.0,19.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\propbased\prop_nocrash.lua,5,0.0,19.0
+snabb,Python,D:\clones\snabb\src\program\lwaftr\tests\subcommands\bench_test.py,7,3.0,19.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\wall\tests\bench.sh,5,6.0,19.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\examples\rump\fstest2.lua,14,0.0,18.0
+snabb,Markdown,D:\clones\snabb\lib\luajit\CONTRIBUTING.md,3,0.0,18.0
+snabb,Nix,D:\clones\snabb\lib\luajit\raptorjit.nix,5,1.0,18.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\nsieve.lua,3,0.0,18.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\trace\stitch.lua,1,0.0,18.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\ipsec\selftest.sh,4,1.0,18.0
+snabb,C,D:\clones\snabb\src\core\snabbswitch.c,7,2.0,18.0
+snabb,Lua,D:\clones\snabb\src\program\alarms\get_state\get_state.lua,3,0.0,18.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-ipv4-ipv6-out-icmpv4-ipv6-hairpin-1.lua,0,0.0,18.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\propbased\prop_nocrash_state.lua,6,1.0,18.0
+snabb,Lua,D:\clones\snabb\src\program\wall\common.lua,7,2.0,18.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\freebsd\sysctl.lua,5,1.0,17.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\freebsd\util.lua,13,1.0,17.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\openbsd\sysctl.lua,5,1.0,17.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\openbsd\util.lua,13,1.0,17.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\osx\sysctl.lua,6,1.0,17.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\osx\util.lua,13,1.0,17.0
+snabb,Nix,D:\clones\snabb\lib\luajit\test.nix,2,0.0,17.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\wbarrier_obar.lua,4,1.0,17.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\trace\gc64_slot_revival.lua,1,0.0,17.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_mp\test_10g_linkup.sh,4,0.0,17.0
+snabb,Markdown,D:\clones\snabb\src\lib\watchdog\README.md,9,0.0,17.0
+snabb,Lua,D:\clones\snabb\src\program\example_replay\example_replay.lua,6,1.0,17.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\ndp-no-na-next-hop6-mac-not-set-2pkts.lua,0,0.0,17.0
+snabb,Bourne Shell,D:\clones\snabb\src\scripts\bench.sh,3,0.0,17.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\examples\rump\fstest3.lua,13,2.0,16.0
+snabb,Nix,D:\clones\snabb\lib\luajit\check-generated-code.nix,2,2.0,16.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\common\expect_error.lua,0,0.0,16.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\base\next.lua,1,0.0,16.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\string\multiple_functions.lua,0,0.0,16.0
+snabb,Lua,D:\clones\snabb\src\lib\ipsec\seq_no_t.lua,8,2.0,16.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\from-inet-ipv4-in-binding-big-packet-df-set-allow.lua,0,0.0,16.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv4-out-1p-icmpv4.lua,0,0.0,16.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv6-out-1p-icmpv6-1.lua,0,0.0,16.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv6-out-1p-icmpv6-2.lua,0,0.0,16.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\tcp-frominet-bound-ttl1.lua,0,0.0,16.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\lwaftr\virt\setup_networks\lwaftr1.sh,2,0.0,16.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\wall\tests\selftest.sh,2,0.0,16.0
+snabb,Lua,D:\clones\snabb\src\program\wall\wall.lua,4,1.0,16.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\examples\rump\fstest4.lua,12,1.0,15.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_vmprofile.h,8,17.0,15.0
+snabb,R,D:\clones\snabb\lib\luajit\testsuite\bench\generate.R,7,3.0,15.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\self.lua,4,0.0,15.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\redir.lua,4,0.0,15.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\tcall_base.lua,4,1.0,15.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\wbarrier_jit.lua,3,0.0,15.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_mp\test_1g_linkup.sh,4,0.0,15.0
+snabb,Lua,D:\clones\snabb\src\program\ipfix\ipfix.lua,3,0.0,15.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\lwaftr\tests\config-migrations\selftest.sh,5,2.0,15.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\from-to-b4-tunneled-icmpv4-ping-hairpin-unbound.lua,0,0.0,15.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv4-out-1p-ipv6-echo.lua,0,0.0,15.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv6-out-1p-ipv4-4-and-echo.lua,0,0.0,15.0
+snabb,Lua,D:\clones\snabb\src\program\snabbvmx\snabbvmx.lua,3,0.0,15.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\freebsd\version.lua,9,2.0,14.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\openbsd\version.lua,11,9.0,14.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_str.h,7,6.0,14.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\bc\constov.lua,2,0.0,14.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\math\abs.lua,2,0.0,14.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\table\insert.lua,3,0.0,14.0
+snabb,Lua,D:\clones\snabb\lib\pflua\tests\properties\repeatable_randomization.lua,3,3.0,14.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_avf\selftest.sh,6,0.0,14.0
+snabb,Lua,D:\clones\snabb\src\apps\test\delayed_start.lua,3,5.0,14.0
+snabb,C/C++ Header,D:\clones\snabb\src\lib\pcap\filter.h,3,2.0,14.0
+snabb,Lua,D:\clones\snabb\src\program\config\add\add.lua,2,2.0,14.0
+snabb,Lua,D:\clones\snabb\src\program\config\set\set.lua,2,2.0,14.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\program\lisper\dev-env-docker\node-eth,3,0.0,14.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\program\lisper\dev-env-docker\node-lisper,3,2.0,14.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-ipv4-ipv6-out-icmpv4-ipv6-hairpin-1-drop.lua,0,0.0,14.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\program\lwaftr\tests\qemu-b4\tap-b4,0,0.0,14.0
+snabb,Lua,D:\clones\snabb\src\program\snabbnfv\snabbnfv.lua,4,1.0,14.0
+snabb,Assembly,D:\clones\snabb\src\program\snabbvmx\tests\end-to-end\data\vlan\binding_table.txt.s,0,0.0,14.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_auditlog.h,5,3.0,13.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_carith.h,8,4.0,13.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_clib.h,8,6.0,13.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_mcode.h,9,4.0,13.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\constant\table.lua,2,0.0,13.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\base\getfenv.lua,0,0.0,13.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\stack_gc.lua,2,0.0,13.0
+snabb,Lua,D:\clones\snabb\lib\pflua\tests\properties\pflua_math_eq_libpcap_math.lua,2,1.0,13.0
+snabb,make,D:\clones\snabb\lib\pflua\tools\Makefile,4,3.0,13.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_mp\test_10g_come_and_go.sh,2,0.0,13.0
+snabb,Lua,D:\clones\snabb\src\lib\pcap\filter.lua,6,3.0,13.0
+snabb,Bourne Shell,D:\clones\snabb\src\lib\watchdog\selftest.sh,6,0.0,13.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv4-out-none-4.lua,0,0.0,13.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\regressiontest-signedntohl-frags-counters.lua,0,0.0,13.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_ffrecord.h,5,5.0,12.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\string\len.lua,2,0.0,12.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\string\reverse.lua,1,0.0,12.0
+snabb,Markdown,D:\clones\snabb\lib\pflua\doc\README.md,12,0.0,12.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_mp\test_10g_2q_blast_vlan.sh,4,3.0,12.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_mp\test_10g_2q_blast_vmdq.sh,5,3.0,12.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_mp\test_10g_2q_blast_vmdq_auto.sh,5,3.0,12.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_mp\test_1g_2q_blast_vlan.sh,4,3.0,12.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_mp\test_1g_2q_blast_vmdq.sh,5,3.0,12.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_mp\test_1g_2q_blast_vmdq_auto.sh,6,6.0,12.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\tap\selftest.sh,3,0.0,12.0
+snabb,Lua,D:\clones\snabb\src\apps\xdp\test_filter.lua,2,0.0,12.0
+snabb,Lua,D:\clones\snabb\src\apps\xdp\test_filter_pass.lua,2,0.0,12.0
+snabb,Lua,D:\clones\snabb\src\apps\xdp\test_share.lua,2,0.0,12.0
+snabb,C/C++ Header,D:\clones\snabb\src\lib\checksum_lib.h,2,10.0,12.0
+snabb,Lua,D:\clones\snabb\src\program\config\get\get.lua,2,1.0,12.0
+snabb,Lua,D:\clones\snabb\src\program\config\get_state\get_state.lua,2,1.0,12.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\from-inet-ipv4-in-binding-big-packet-df-set-drop.lua,0,0.0,12.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\from-to-b4-ipv6-hairpin-n64.lua,0,0.0,12.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\from-to-b4-ipv6-hairpin.lua,0,0.0,12.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\from-to-b4-tunneled-icmpv4-ping-hairpin.lua,0,0.0,12.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv4-out-none-1.lua,0,0.0,12.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv6-out-1p-icmpv4-1.lua,0,0.0,12.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv6-out-1p-ipv4-hoplimhair.lua,0,0.0,12.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv6-out-none-1.lua,0,0.0,12.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\lwaftr\tests\selftest.sh,4,8.0,12.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\snabbnfv\neutron2snabb\selftest.sh,10,1.0,12.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_ccallback.h,7,5.0,11.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_func.h,6,7.0,11.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_gdbjit.c,5,7.0,11.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_snap.h,4,4.0,11.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\roulette.lua,4,6.0,11.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\constant\number.lua,1,0.0,11.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\for_dir.lua,2,0.0,11.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\parse_comp.lua,2,0.0,11.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_mp\test_1g_come_and_go.sh,2,0.0,11.0
+snabb,Lua,D:\clones\snabb\src\apps\interlink\test_source.lua,3,1.0,11.0
+snabb,Lua,D:\clones\snabb\src\apps\xdp\test_rxtx.lua,2,0.0,11.0
+snabb,Lua,D:\clones\snabb\src\program\config\load\load.lua,2,2.0,11.0
+snabb,Lua,D:\clones\snabb\src\program\config\remove\remove.lua,2,2.0,11.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv4-infrags-out-1p-ipv6-6-outfrags.lua,0,0.0,11.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv4-out-1p-ipv6-2.lua,0,0.0,11.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv4-out-none-2.lua,0,0.0,11.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv4-out-none-3.lua,0,0.0,11.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv6-out-1p-ipv4-3.lua,0,0.0,11.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv6-out-1p-ipv4-5-frags.lua,0,0.0,11.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv6-out-1p-ipv4-5.lua,0,0.0,11.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv6-out-none-2.lua,0,0.0,11.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\snabbvmx\doc\genbook.sh,11,6.0,11.0
+snabb,Bourne Shell,D:\clones\snabb\src\selftest.sh,0,0.0,11.0
+snabb,Dockerfile,D:\clones\snabb\Dockerfile,3,0.0,10.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\examples\rump\fstest.lua,8,1.0,10.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_ff.h,3,5.0,10.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\table\new.lua,1,0.0,10.0
+snabb,C/C++ Header,D:\clones\snabb\src\core\link.h,3,6.0,10.0
+snabb,C/C++ Header,D:\clones\snabb\src\lib\checksum.h,6,9.0,10.0
+snabb,C,D:\clones\snabb\src\lib\lpm\lpm4_248.c,2,0.0,10.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\program\lisper\dev-env\testnet-up-intel10g,3,3.0,10.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\icmpv6-ping-and-reply.lua,0,0.0,10.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv4-out-1p-ipv6-1.lua,0,0.0,10.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv4-out-1p-ipv6-3.lua,0,0.0,10.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv4-out-1p-ipv6-4.lua,0,0.0,10.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv4-out-1p-ipv6-6-outfrags.lua,0,0.0,10.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv4-out-1p-ipv6-6.lua,0,0.0,10.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv4-out-1p-ipv6-7.lua,0,0.0,10.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv4-out-1p-ipv6-8.lua,0,0.0,10.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv6-out-1p-ipv4-1.lua,0,0.0,10.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv6-out-1p-ipv4-2.lua,0,0.0,10.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv6-out-1p-ipv4-4.lua,0,0.0,10.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\nofrag4-echo.lua,0,0.0,10.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\nofrag4.lua,0,0.0,10.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\nofrag6-sol.lua,0,0.0,10.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\regressiontest-endaddr.lua,0,0.0,10.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\lwaftr\tests\qemu-b4\run-b4-tap,1,0.0,10.0
+snabb,Python,D:\clones\snabb\src\program\lwaftr\tests\subcommands\quickcheck_test.py,8,3.0,10.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_alloc.h,4,4.0,9.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\ffi\ffi_tabov.lua,3,0.0,9.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_mp\test_10g_2q_blast.sh,2,0.0,9.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_mp\test_1g_2q_blast.sh,2,0.0,9.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\program\lisper\dev-env-perftest\lisper,0,0.0,9.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\non-ipv4-traffic-to-ipv4-interface.lua,0,0.0,9.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\non-ipv6-traffic-to-ipv6-interface.lua,0,0.0,9.0
+snabb,YAML,D:\clones\snabb\lib\luajit\.travis.yml,0,0.0,8.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_parse.h,4,4.0,8.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lang\coroutine.lua,0,0.0,8.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\hook_norecord.lua,3,1.0,8.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\bench\packetblaster-64,1,1.0,8.0
+snabb,C/C++ Header,D:\clones\snabb\src\core\lib.h,1,1.0,8.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\program\lisper\dev-env-docker\lisp,2,0.0,8.0
+snabb,make,D:\clones\snabb\src\program\lwaftr\tests\data\Makefile,4,0.0,8.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\lwaftr\tests\propbased\selftest.sh,5,1.0,8.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\program\lwaftr\virt\start-lwaftr.sh.example,2,0.0,8.0
+snabb,C/C++ Header,D:\clones\snabb\gcc-preinclude.h,3,3.0,7.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_asm.h,4,4.0,7.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_gdbjit.h,4,4.0,7.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\recursive-ack.lua,1,0.0,7.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\math\constants.lua,1,0.0,7.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\table\pack.lua,0,0.0,7.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\tcall_loop.lua,1,0.0,7.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\wbarrier.lua,0,0.0,7.0
+snabb,Lua,D:\clones\snabb\lib\pflua\tests\properties\fail.lua,2,3.0,7.0
+snabb,Lua,D:\clones\snabb\lib\pflua\tests\properties\trivial.lua,2,2.0,7.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_mp\test_10g_1q_blast.sh,2,0.0,7.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_mp\test_10g_1q_blast_vmdq.sh,2,0.0,7.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_mp\test_1g_1q_blast.sh,2,0.0,7.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_mp\test_1g_1q_blast_vmdq.sh,2,0.0,7.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\bench\packetblaster-synth-64,2,1.0,7.0
+snabb,Lua,D:\clones\snabb\src\dasm_x64.lua,5,10.0,7.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\program\lisper\dev-env-docker\lisper,0,0.0,7.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\program\lisper\dev-env-perftest\baseline,0,0.0,7.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\program\lisper\dev-env-perftest\lisp,0,0.0,7.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\program\lisper\dev-env\dataplane,1,0.0,7.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\arp-for-next-hop.lua,0,0.0,7.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\ndp-ns-for-next-hop.lua,0,0.0,7.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\nofrag6.lua,0,0.0,7.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\program\lwaftr\tests\qemu-b4\tap-b4-down,0,0.0,7.0
+snabb,Markdown,D:\clones\snabb\src\program\snabbvmx\query\README.md,4,0.0,7.0
+snabb,Lua,D:\clones\snabb\src\program\snabbvmx\tests\end-to-end\data\counters\drop-all-ipv6-fragments.lua,0,0.0,7.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\arm\ioctl.lua,3,1.0,6.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\sockopt.lua,18,33.0,6.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_udata.h,4,4.0,6.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lua.hpp,2,1.0,6.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\recursive-fib.lua,1,0.0,6.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\coro_traceback.lua,2,0.0,6.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\parse_esc.lua,1,0.0,6.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\sysdep\ffi_include_gtk.lua,3,0.0,6.0
+snabb,Bourne Shell,D:\clones\snabb\lib\pflua\tests\ir-reg\opt-bug120-rangecheck.sh,1,0.0,6.0
+snabb,Lua,D:\clones\snabb\src\core\startup.lua,1,1.0,6.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\program\lisper\dev-env\lisp,0,0.0,6.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\program\lisper\dev-env\lisper,0,0.0,6.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv6-out-0p-ipv4.lua,0,0.0,6.0
+snabb,YAML,D:\clones\snabb\lib\ljsyscall\docker-compose.test.yml,0,0.0,5.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\arm64\ioctl.lua,3,1.0,5.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\x64\ioctl.lua,3,1.0,5.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\syscall\linux\x86\ioctl.lua,3,1.0,5.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_bc.c,4,5.0,5.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\sum-file.lua,1,0.0,5.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\hook_record.lua,3,0.0,5.0
+snabb,make,D:\clones\snabb\lib\pflua\common.mk,0,0.0,5.0
+snabb,Bourne Shell,D:\clones\snabb\lib\pflua\tests\ir-reg\opt-bug126-invalidopt.sh,1,0.0,5.0
+snabb,Markdown,D:\clones\snabb\src\apps\nh_fwd\README.md,3,0.0,5.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\bench\snabbnfv-iperf-1500-crypto,0,1.0,5.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\bench\snabbnfv-iperf-1500-tunnel+crypto,0,1.0,5.0
+snabb,C/C++ Header,D:\clones\snabb\src\core\packet.h,3,3.0,5.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\in-1p-ipv4-out-0p-drop.lua,0,0.0,5.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\nofrag6-no-icmp.lua,0,0.0,5.0
+snabb,Dockerfile,D:\clones\snabb\lib\ljsyscall\Dockerfile,0,0.0,4.0
+snabb,Markdown,D:\clones\snabb\lib\ljsyscall\doc\README.md,4,0.0,4.0
+snabb,Bourne Shell,D:\clones\snabb\lib\ljsyscall\test\check-rockspec.sh,1,0.0,4.0
+snabb,Markdown,D:\clones\snabb\lib\luajit\CONDUCT.md,3,0.0,4.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\misc\stackovc.lua,0,0.0,4.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\opt\fuse.lua,0,1.0,4.0
+snabb,YAML,D:\clones\snabb\lib\pflua\.travis.yml,3,2.0,4.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\bench\basic1-100e6,0,1.0,4.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\bench\snabbnfv-iperf-1500,0,1.0,4.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\bench\snabbnfv-iperf-jumbo,0,1.0,4.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\bench\snabbnfv-loadgen-dpdk,0,1.0,4.0
+snabb,Lua,D:\clones\snabb\src\core\selftest.lua,4,1.0,4.0
+snabb,C,D:\clones\snabb\src\dasm_x86.c,1,0.0,4.0
+snabb,Markdown,D:\clones\snabb\src\doc\code-of-conduct.md,3,0.0,4.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\program\lisper\dev-env-docker\node-04,2,0.0,4.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\program\lisper\dev-env-docker\node-08,2,0.0,4.0
+snabb,Lua,D:\clones\snabb\src\program\lwaftr\tests\data\counters\empty.lua,0,0.0,4.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\lwaftr\tests\soaktest\selftest.sh,0,0.0,4.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\snabbvmx\tests\end-to-end\selftest.sh,0,0.0,4.0
+snabb,make,D:\clones\snabb\lib\ljsyscall\debian\rules,1,0.0,3.0
+snabb,Lua,D:\clones\snabb\lib\ljsyscall\test\ctest.lua,3,1.0,3.0
+snabb,C,D:\clones\snabb\lib\luajit\src\lj_opt_split.c,3,4.0,3.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\lib\string\metatable.lua,0,0.0,3.0
+snabb,Bourne Shell,D:\clones\snabb\lib\pflua\tests\pflang-reg\pl-bug129-flipportrange.sh,0,0.0,3.0
+snabb,Bourne Again Shell,D:\clones\snabb\lib\pflua\tests\pflang-reg\pl-bug130-allreject,0,0.0,3.0
+snabb,Bourne Again Shell,D:\clones\snabb\lib\pflua\tests\pflang-reg\pl-bug131-notlen-igrp,0,0.0,3.0
+snabb,Bourne Again Shell,D:\clones\snabb\lib\pflua\tests\pflang-reg\pl-bug131-notlen-rarp,0,0.0,3.0
+snabb,Bourne Again Shell,D:\clones\snabb\lib\pflua\tests\pflang-reg\pl-bug131-notlen-tcpport,0,0.0,3.0
+snabb,Bourne Again Shell,D:\clones\snabb\lib\pflua\tests\pflang-reg\pl-bug132-icmp6_or_ip,0,0.0,3.0
+snabb,Bourne Again Shell,D:\clones\snabb\lib\pflua\tests\pflang-reg\pl-bug132-icmp6_or_portrange,0,0.0,3.0
+snabb,Bourne Again Shell,D:\clones\snabb\lib\pflua\tests\pflang-reg\pl-bug132-not_icmp6,0,0.0,3.0
+snabb,Bourne Shell,D:\clones\snabb\lib\pflua\tests\pflang-reg\pl-bug139-multioctet.sh,0,0.0,3.0
+snabb,Bourne Again Shell,D:\clones\snabb\lib\pflua\tests\pflang-reg\pl-bug171-arpindexing_or_tcp,0,0.0,3.0
+snabb,Bourne Again Shell,D:\clones\snabb\lib\pflua\tests\pflang-reg\pl-bug182-icmp_or_arp,0,0.0,3.0
+snabb,Bourne Again Shell,D:\clones\snabb\lib\pflua\tests\pflang-reg\pl-bug205-greater1_or_less1,0,0.0,3.0
+snabb,C/C++ Header,D:\clones\snabb\src\dasm_extern.h,0,2.0,3.0
+snabb,C/C++ Header,D:\clones\snabb\src\lib\ipc\shmem\shmem.h,1,1.0,3.0
+snabb,Markdown,D:\clones\snabb\src\program\wall\COPYRIGHT.md,1,0.0,3.0
+snabb,Lua,D:\clones\snabb\lib\ljndpi\ndpi.lua,0,6.0,2.0
+snabb,Lua,D:\clones\snabb\lib\luajit\dynasm\dasm_x64.lua,1,9.0,2.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_mp\test_10g_vlan.sh,1,2.0,2.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_mp\test_10g_vmdq_tx.sh,1,2.0,2.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\intel_mp\test_1g_vmdq_tx.sh,1,2.0,2.0
+snabb,Bourne Shell,D:\clones\snabb\src\apps\solarflare\selftest.sh,1,0.0,2.0
+snabb,C/C++ Header,D:\clones\snabb\src\core\memory.h,0,0.0,2.0
+snabb,Markdown,D:\clones\snabb\src\doc\openstack.md,1,0.0,2.0
+snabb,C/C++ Header,D:\clones\snabb\src\lib\ipsec\track_seq_no.h,1,1.0,2.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\lwaftr\tests\end-to-end\end-to-end-vlan.sh,1,0.0,2.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\lwaftr\tests\end-to-end\end-to-end.sh,1,0.0,2.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\lwaftr\tests\soaktest\soaktest-vlan.sh,1,0.0,2.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\lwaftr\tests\soaktest\soaktest.sh,1,0.0,2.0
+snabb,Bourne Again Shell,D:\clones\snabb\src\program\lwaftr\virt\stop-lwaftr.sh.example,1,0.0,2.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\snabbvmx\tests\end-to-end\end-to-end-vlan.sh,1,0.0,2.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\snabbvmx\tests\end-to-end\end-to-end.sh,1,0.0,2.0
+snabb,Nix,D:\clones\snabb\lib\luajit\pkgs.nix,0,0.0,1.0
+snabb,Nix,D:\clones\snabb\lib\luajit\shell.nix,1,0.0,1.0
+snabb,C/C++ Header,D:\clones\snabb\lib\luajit\src\lj_debuginfo.h,2,3.0,1.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\scimark-fft.lua,0,0.0,1.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\scimark-lu.lua,0,0.0,1.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\scimark-sor.lua,0,0.0,1.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\bench\scimark-sparse.lua,0,0.0,1.0
+snabb,Lua,D:\clones\snabb\lib\luajit\testsuite\test\common\test_runner_canary.lua,0,0.0,1.0
+snabb,C/C++ Header,D:\clones\snabb\src\core\counter.h,1,1.0,1.0
+snabb,Lua,D:\clones\snabb\src\jit\bc.lua,0,0.0,1.0
+snabb,Lua,D:\clones\snabb\src\jit\bcsave.lua,0,0.0,1.0
+snabb,Lua,D:\clones\snabb\src\program\lisper\dev-env-perftest\lisp.lua,0,0.0,1.0
+snabb,Lua,D:\clones\snabb\src\program\lisper\dev-env-perftest\lisper.lua,0,0.0,1.0
+snabb,Lua,D:\clones\snabb\src\program\lisper\dev-env\syscall.lua,0,0.0,1.0
+snabb,Bourne Shell,D:\clones\snabb\src\program\snabbnfv\packetblaster_bench.sh,0,0.0,1.0

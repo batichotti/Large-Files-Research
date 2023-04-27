@@ -1,0 +1,141 @@
+project,language,filename,blank,comment,code
+Carp,Haskell,D:\clones\Carp\src\Eval.hs,44,84.0,1056.0
+Carp,Haskell,D:\clones\Carp\src\Emit.hs,35,54.0,1031.0
+Carp,Haskell,D:\clones\Carp\src\Obj.hs,166,78.0,934.0
+Carp,Haskell,D:\clones\Carp\src\Primitives.hs,46,41.0,865.0
+Carp,Haskell,D:\clones\Carp\src\Concretize.hs,64,136.0,796.0
+Carp,Haskell,D:\clones\Carp\src\Commands.hs,82,27.0,751.0
+Carp,Haskell,D:\clones\Carp\src\ArrayTemplates.hs,34,11.0,623.0
+Carp,C/C++ Header,D:\clones\Carp\core\carp_pattern.h,48,19.0,613.0
+Carp,Haskell,D:\clones\Carp\src\Memory.hs,32,79.0,592.0
+Carp,Haskell,D:\clones\Carp\src\Parsing.hs,67,8.0,575.0
+Carp,Haskell,D:\clones\Carp\src\StartingEnv.hs,23,22.0,534.0
+Carp,Haskell,D:\clones\Carp\src\TypeError.hs,14,8.0,526.0
+Carp,C/C++ Header,D:\clones\Carp\core\carp_stdint.h,26,0.0,517.0
+Carp,Markdown,D:\clones\Carp\docs\CInterop.md,142,0.0,493.0
+Carp,Haskell,D:\clones\Carp\src\InitialTypes.hs,8,41.0,493.0
+Carp,Haskell,D:\clones\Carp\src\Deftype.hs,60,63.0,475.0
+Carp,Markdown,D:\clones\Carp\docs\LanguageGuide.md,111,0.0,408.0
+Carp,Haskell,D:\clones\Carp\src\Env.hs,87,187.0,398.0
+Carp,Haskell,D:\clones\Carp\src\Expand.hs,8,24.0,383.0
+Carp,Haskell,D:\clones\Carp\src\Forms.hs,50,31.0,371.0
+Carp,Haskell,D:\clones\Carp\src\Sumtypes.hs,53,40.0,361.0
+Carp,Haskell,D:\clones\Carp\src\Qualify.hs,33,87.0,328.0
+Carp,C/C++ Header,D:\clones\Carp\core\carp_string.h,46,42.0,303.0
+Carp,Haskell,D:\clones\Carp\src\Types.hs,29,51.0,301.0
+Carp,Haskell,D:\clones\Carp\src\GenerateConstraints.hs,5,34.0,293.0
+Carp,Markdown,D:\clones\Carp\docs\hacking.md,74,0.0,251.0
+Carp,Haskell,D:\clones\Carp\src\Constraints.hs,18,24.0,246.0
+Carp,Haskell,D:\clones\Carp\src\BoxTemplates.hs,10,9.0,229.0
+Carp,Haskell,D:\clones\Carp\headerparse\Main.hs,15,2.0,220.0
+Carp,Haskell,D:\clones\Carp\src\Context.hs,40,95.0,211.0
+Carp,Haskell,D:\clones\Carp\src\RenderDocs.hs,15,5.0,201.0
+Carp,Haskell,D:\clones\Carp\test\TestConstraints.hs,37,25.0,196.0
+Carp,Haskell,D:\clones\Carp\app\Main.hs,9,4.0,194.0
+Carp,Haskell,D:\clones\Carp\src\ProjectConfig.hs,56,110.0,182.0
+Carp,Markdown,D:\clones\Carp\docs\Macros.md,51,0.0,164.0
+Carp,Markdown,D:\clones\Carp\docs\Memory.md,39,0.0,151.0
+Carp,Haskell,D:\clones\Carp\src\StaticArrayTemplates.hs,9,3.0,147.0
+Carp,Haskell,D:\clones\Carp\src\EvalError.hs,12,12.0,137.0
+Carp,Haskell,D:\clones\Carp\src\Interfaces.hs,9,20.0,136.0
+Carp,Haskell,D:\clones\Carp\src\Repl.hs,10,0.0,136.0
+Carp,Markdown,D:\clones\Carp\docs\DynamicSemantics.md,36,0.0,133.0
+Carp,Haskell,D:\clones\Carp\src\TypeCandidate.hs,28,17.0,132.0
+Carp,CSS,D:\clones\Carp\docs\sdl\carp_style.css,26,2.0,121.0
+Carp,Haskell,D:\clones\Carp\src\Scoring.hs,6,40.0,116.0
+Carp,C/C++ Header,D:\clones\Carp\core\carp_double.h,30,1.0,114.0
+Carp,YAML,D:\clones\Carp\.github\workflows\release.yml,24,1.0,112.0
+Carp,Markdown,D:\clones\Carp\docs\Manual.md,48,0.0,111.0
+Carp,C/C++ Header,D:\clones\Carp\core\carp_float.h,28,0.0,108.0
+Carp,Haskell,D:\clones\Carp\src\Util.hs,28,8.0,103.0
+Carp,Haskell,D:\clones\Carp\src\Project.hs,12,12.0,99.0
+Carp,Haskell,D:\clones\Carp\src\Polymorphism.hs,7,25.0,98.0
+Carp,C/C++ Header,D:\clones\Carp\core\carp_long.h,7,0.0,96.0
+Carp,Haskell,D:\clones\Carp\src\Info.hs,17,21.0,96.0
+Carp,Haskell,D:\clones\Carp\src\Validate.hs,8,30.0,96.0
+Carp,Markdown,D:\clones\Carp\docs\Embedded.md,39,0.0,94.0
+Carp,Haskell,D:\clones\Carp\src\ToTemplate.hs,7,5.0,92.0
+Carp,Markdown,D:\clones\Carp\CHANGELOG.md,3,0.0,90.0
+Carp,Haskell,D:\clones\Carp\src\PrimitiveError.hs,6,0.0,90.0
+Carp,Markdown,D:\clones\Carp\docs\Derive.md,24,0.0,89.0
+Carp,Haskell,D:\clones\Carp\src\SymPath.hs,9,3.0,86.0
+Carp,Haskell,D:\clones\Carp\src\TemplateGenerator.hs,13,5.0,85.0
+Carp,C/C++ Header,D:\clones\Carp\core\SDLHelper.h,18,3.0,82.0
+Carp,Haskell,D:\clones\Carp\src\Template.hs,12,21.0,81.0
+Carp,Bourne Shell,D:\clones\Carp\scripts\run_carp_tests.sh,16,4.0,73.0
+Carp,C/C++ Header,D:\clones\Carp\core\carp_utf8.h,5,7.0,71.0
+Carp,Haskell,D:\clones\Carp\src\Meta.hs,18,18.0,70.0
+Carp,C/C++ Header,D:\clones\Carp\core\carp_memory.h,14,7.0,67.0
+Carp,C/C++ Header,D:\clones\Carp\core\carp_bench.h,9,3.0,63.0
+Carp,C/C++ Header,D:\clones\Carp\core\carp_int.h,5,0.0,62.0
+Carp,C/C++ Header,D:\clones\Carp\core\carp_byte.h,7,0.0,61.0
+Carp,Haskell,D:\clones\Carp\src\StructUtils.hs,5,8.0,60.0
+Carp,Haskell,D:\clones\Carp\src\AssignTypes.hs,5,3.0,59.0
+Carp,Markdown,D:\clones\Carp\README.md,25,0.0,58.0
+Carp,Haskell,D:\clones\Carp\src\Infer.hs,5,8.0,57.0
+Carp,Markdown,D:\clones\Carp\docs\Libraries.md,24,0.0,55.0
+Carp,Haskell,D:\clones\Carp\src\TypesToC.hs,5,0.0,55.0
+Carp,Markdown,D:\clones\Carp\docs\Install.md,25,0.0,54.0
+Carp,C/C++ Header,D:\clones\Carp\core\core.h,10,3.0,53.0
+Carp,Python,D:\clones\Carp\docs-html\zConvertMd2Html.py,12,32.0,53.0
+Carp,C/C++ Header,D:\clones\Carp\core\carp_io.h,5,0.0,50.0
+Carp,Bourne Shell,D:\clones\Carp\scripts\release.sh,11,0.0,45.0
+Carp,YAML,D:\clones\Carp\.github\workflows\linux.yml,11,0.0,44.0
+Carp,Markdown,D:\clones\Carp\docs\Format_Strings.md,19,0.0,44.0
+Carp,YAML,D:\clones\Carp\.github\workflows\windows.yml,11,0.0,43.0
+Carp,Haskell,D:\clones\Carp\src\Reify.hs,15,7.0,41.0
+Carp,Haskell,D:\clones\Carp\src\Path.hs,17,0.0,40.0
+Carp,Markdown,D:\clones\Carp\docs\HowToRunCode.md,20,0.0,39.0
+Carp,Markdown,D:\clones\Carp\docs\patterns.md,10,0.0,39.0
+Carp,Haskell,D:\clones\Carp\src\ColorText.hs,11,0.0,39.0
+Carp,Haskell,D:\clones\Carp\src\Map.hs,19,0.0,39.0
+Carp,Haskell,D:\clones\Carp\src\Set.hs,19,0.0,37.0
+Carp,Nix,D:\clones\Carp\default.nix,0,0.0,36.0
+Carp,Bourne Shell,D:\clones\Carp\scripts\format.sh,6,0.0,32.0
+Carp,C/C++ Header,D:\clones\Carp\core\carp_system.h,8,2.0,31.0
+Carp,Markdown,D:\clones\Carp\docs\Quasiquotation.md,12,0.0,30.0
+Carp,C/C++ Header,D:\clones\Carp\core\carp_char.h,8,0.0,29.0
+Carp,C/C++ Header,D:\clones\Carp\core\carp_safe_int.h,0,0.0,28.0
+Carp,YAML,D:\clones\Carp\.github\workflows\osx.yml,10,6.0,26.0
+Carp,C/C++ Header,D:\clones\Carp\core\carp_binary.h,7,9.0,26.0
+Carp,Markdown,D:\clones\Carp\docs\index.md,5,0.0,24.0
+Carp,PowerShell,D:\clones\Carp\scripts\run_carp_tests.ps1,8,7.0,24.0
+Carp,Haskell,D:\clones\Carp\src\TypePredicates.hs,6,2.0,23.0
+Carp,YAML,D:\clones\Carp\.travis.yml,5,10.0,20.0
+Carp,Markdown,D:\clones\Carp\docs\ReleaseChecklist.md,13,0.0,20.0
+Carp,Haskell,D:\clones\Carp\src\Managed.hs,3,8.0,20.0
+Carp,YAML,D:\clones\Carp\.clang-format,0,0.0,19.0
+Carp,YAML,D:\clones\Carp\.github\workflows\nixpkgs.yml,0,0.0,18.0
+Carp,Markdown,D:\clones\Carp\docs\Drop.md,5,0.0,18.0
+Carp,Haskell,D:\clones\Carp\test\TestLookup.hs,6,0.0,18.0
+Carp,Markdown,D:\clones\Carp\docs\Terminology.md,9,0.0,17.0
+Carp,Markdown,D:\clones\Carp\docs\Contributing.md,6,0.0,16.0
+Carp,Bourne Shell,D:\clones\Carp\scripts\git-hooks\commit-msg.sh,2,0.0,16.0
+Carp,C/C++ Header,D:\clones\Carp\core\carp_bool.h,4,1.0,15.0
+Carp,YAML,D:\clones\Carp\.build.yml,0,0.0,14.0
+Carp,Bourne Shell,D:\clones\Carp\scripts\carp.sh,0,0.0,13.0
+Carp,Haskell,D:\clones\Carp\test\Spec.hs,3,0.0,12.0
+Carp,Bourne Shell,D:\clones\Carp\scripts\build.sh,0,0.0,11.0
+Carp,Bourne Shell,D:\clones\Carp\test\execute.sh,2,1.0,11.0
+Carp,Markdown,D:\clones\Carp\docs\Tooling.md,4,0.0,10.0
+Carp,C/C++ Header,D:\clones\Carp\examples\headers\banana.h,3,2.0,10.0
+Carp,Markdown,D:\clones\Carp\docs\Multimedia.md,6,0.0,8.0
+Carp,Bourne Shell,D:\clones\Carp\test\check.sh,2,1.0,8.0
+Carp,Markdown,D:\clones\Carp\docs\core\README.md,2,0.0,7.0
+Carp,Bourne Shell,D:\clones\Carp\scripts\benchmarks.sh,2,1.0,7.0
+Carp,Bourne Shell,D:\clones\Carp\scripts\flamegraph.sh,1,19.0,7.0
+Carp,Bourne Shell,D:\clones\Carp\scripts\git-hooks\pre-commit.sh,3,0.0,7.0
+Carp,C/C++ Header,D:\clones\Carp\test\interop.h,2,0.0,7.0
+Carp,Bourne Shell,D:\clones\Carp\scripts\git-hooks\setup.sh,3,0.0,6.0
+Carp,YAML,D:\clones\Carp\stack.yaml,5,55.0,6.0
+Carp,C/C++ Header,D:\clones\Carp\core\carp_stdbool.h,1,1.0,4.0
+Carp,Bourne Shell,D:\clones\Carp\scripts\haskell-flamegraph.sh,0,3.0,4.0
+Carp,SVG,D:\clones\Carp\docs\compiler-passes.svg,0,0.0,3.0
+Carp,C,D:\clones\Carp\test\csquare.c,0,0.0,3.0
+Carp,C/C++ Header,D:\clones\Carp\test\fixture_foo.h,0,0.0,3.0
+Carp,Haskell,D:\clones\Carp\Setup.hs,1,0.0,2.0
+Carp,C/C++ Header,D:\clones\Carp\core\carp_debug.h,0,1.0,2.0
+Carp,Bourne Shell,D:\clones\Carp\test\record.sh,1,0.0,2.0
+Carp,Lisp,D:\clones\Carp\.dir-locals.el,0,0.0,1.0
+Carp,Bourne Shell,D:\clones\Carp\scripts\lines_of_code.sh,0,0.0,1.0
+Carp,C/C++ Header,D:\clones\Carp\test\csquare.h,0,0.0,1.0

@@ -1,0 +1,6 @@
+project,language,filename,blank,comment,code
+opencv,Prolog,D:\clones\opencv\modules\java\generator\templates\java_module.prolog,2,0.0,7.0
+opencv,Prolog,D:\clones\opencv\modules\java\generator\templates\java_class.prolog,5,0.0,12.0
+vim,Prolog,D:\clones\vim\runtime\tutor\tutor.pl,386,0.0,609.0
+cgrep,Prolog,D:\clones\cgrep\test\test.pl,3,0.0,12.0
+opencv,Prolog,D:\clones\opencv\modules\java\generator\templates\java_class_inherited.prolog,4,0.0,10.0

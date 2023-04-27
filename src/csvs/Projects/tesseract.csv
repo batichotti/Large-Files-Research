@@ -1,0 +1,662 @@
+project,language,filename,blank,comment,code
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\universalambigs.h,6,18.0,19017.0
+tesseract,C++,D:\clones\tesseract\src\lstm\functions.cpp,0,1.0,8199.0
+tesseract,C++,D:\clones\tesseract\src\classify\cluster.cpp,232,747.0,2374.0
+tesseract,C++,D:\clones\tesseract\src\textord\makerow.cpp,93,419.0,2088.0
+tesseract,C++,D:\clones\tesseract\src\textord\colpartition.cpp,108,488.0,2087.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\paragraphs.cpp,218,466.0,1944.0
+tesseract,C++,D:\clones\tesseract\src\opencl\openclwrapper.cpp,316,233.0,1917.0
+tesseract,C++,D:\clones\tesseract\src\api\baseapi.cpp,181,469.0,1755.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\control.cpp,121,321.0,1656.0
+tesseract,C++,D:\clones\tesseract\src\textord\strokewidth.cpp,72,384.0,1581.0
+tesseract,C++,D:\clones\tesseract\src\textord\topitch.cpp,91,182.0,1476.0
+tesseract,C++,D:\clones\tesseract\src\textord\tablefind.cpp,144,563.0,1438.0
+tesseract,C++,D:\clones\tesseract\src\classify\adaptmatch.cpp,200,596.0,1401.0
+tesseract,make,D:\clones\tesseract\Makefile.am,226,56.0,1391.0
+tesseract,C++,D:\clones\tesseract\src\textord\tospace.cpp,96,288.0,1385.0
+tesseract,C++,D:\clones\tesseract\src\textord\colpartitiongrid.cpp,51,392.0,1360.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\pageres.cpp,105,330.0,1306.0
+tesseract,C++,D:\clones\tesseract\src\textord\oldbasel.cpp,116,250.0,1279.0
+tesseract,C++,D:\clones\tesseract\src\training\unicharset\lstmtrainer.cpp,56,211.0,1233.0
+tesseract,C++,D:\clones\tesseract\src\textord\colfind.cpp,64,358.0,1220.0
+tesseract,C++,D:\clones\tesseract\src\lstm\recodebeam.cpp,43,152.0,1189.0
+tesseract,C++,D:\clones\tesseract\src\wordrec\language_model.cpp,71,239.0,1159.0
+tesseract,C++,D:\clones\tesseract\src\textord\tabfind.cpp,66,269.0,1122.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\equationdetect.cpp,174,171.0,1107.0
+tesseract,C++,D:\clones\tesseract\src\classify\intproto.cpp,184,404.0,1039.0
+tesseract,C++,D:\clones\tesseract\src\ccutil\unicharset.cpp,70,161.0,955.0
+tesseract,C++,D:\clones\tesseract\src\textord\imagefind.cpp,49,296.0,869.0
+tesseract,C++,D:\clones\tesseract\src\textord\cjkpitch.cpp,149,156.0,839.0
+tesseract,C++,D:\clones\tesseract\src\training\common\mastertrainer.cpp,42,169.0,835.0
+tesseract,C++,D:\clones\tesseract\src\classify\intmatcher.cpp,115,235.0,815.0
+tesseract,C++,D:\clones\tesseract\src\lstm\networkio.cpp,53,143.0,804.0
+tesseract,C++,D:\clones\tesseract\src\textord\tabvector.cpp,46,158.0,794.0
+tesseract,C++,D:\clones\tesseract\src\dict\dict.cpp,56,86.0,784.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\blobbox.cpp,87,215.0,780.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\docqual.cpp,72,101.0,759.0
+tesseract,C++,D:\clones\tesseract\src\lstm\tfnetwork.pb.cc,94,79.0,756.0
+tesseract,C++,D:\clones\tesseract\src\textord\tordmain.cpp,47,156.0,753.0
+tesseract,CMake,D:\clones\tesseract\CMakeLists.txt,96,82.0,738.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\coutln.cpp,74,255.0,733.0
+tesseract,C++,D:\clones\tesseract\src\textord\tablerecog.cpp,93,263.0,728.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\blobs.cpp,65,221.0,725.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\pgedit.cpp,84,154.0,713.0
+tesseract,C++,D:\clones\tesseract\src\lstm\lstm.cpp,43,105.0,709.0
+tesseract,C++,D:\clones\tesseract\src\training\pango\stringrenderer.cpp,74,136.0,685.0
+tesseract,C++,D:\clones\tesseract\src\tesseract.cpp,81,66.0,684.0
+tesseract,C++,D:\clones\tesseract\src\textord\baselinedetect.cpp,43,191.0,683.0
+tesseract,C++,D:\clones\tesseract\src\api\pdfrenderer.cpp,91,196.0,682.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\blobbox.h,61,113.0,681.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccmain\tesseractclass.h,50,294.0,678.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\fixspace.cpp,81,126.0,662.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\unicharset.h,115,324.0,661.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\bbgrid.h,95,265.0,659.0
+tesseract,C++,D:\clones\tesseract\unittest\paragraphs_test.cc,52,25.0,653.0
+tesseract,C++,D:\clones\tesseract\src\training\common\trainingsampleset.cpp,43,136.0,641.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\resultiterator.cpp,51,100.0,640.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\opencl\oclkernels.h,163,131.0,632.0
+tesseract,C++,D:\clones\tesseract\src\textord\fpchop.cpp,61,121.0,631.0
+tesseract,C++,D:\clones\tesseract\src\dict\trie.cpp,41,66.0,626.0
+tesseract,C++,D:\clones\tesseract\src\viewer\scrollview.cpp,93,134.0,623.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\ratngs.cpp,56,159.0,610.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\imagedata.cpp,46,127.0,589.0
+tesseract,C++,D:\clones\tesseract\src\classify\shapetable.cpp,57,109.0,583.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\reject.cpp,71,129.0,577.0
+tesseract,C++,D:\clones\tesseract\src\textord\pithsync.cpp,31,83.0,577.0
+tesseract,C++,D:\clones\tesseract\src\training\pango\pango_font_info.cpp,60,99.0,573.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\applybox.cpp,27,185.0,569.0
+tesseract,m4,D:\clones\tesseract\configure.ac,89,3.0,563.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\genericvector.h,68,173.0,563.0
+tesseract,C++,D:\clones\tesseract\src\training\text2image.cpp,71,125.0,543.0
+tesseract,C++,D:\clones\tesseract\src\training\common\commontraining.cpp,64,142.0,538.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\elst2.h,118,180.0,537.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\lstm\tfnetwork.pb.h,70,99.0,534.0
+tesseract,C++,D:\clones\tesseract\src\textord\textlineprojection.cpp,36,205.0,532.0
+tesseract,C++,D:\clones\tesseract\src\textord\linefind.cpp,28,203.0,531.0
+tesseract,C++,D:\clones\tesseract\unittest\loadlang_test.cc,16,24.0,531.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\tesseractclass.cpp,18,67.0,529.0
+tesseract,C++,D:\clones\tesseract\src\api\capi.cpp,142,16.0,525.0
+tesseract,C++,D:\clones\tesseract\src\textord\colpartitionset.cpp,30,133.0,523.0
+tesseract,C++,D:\clones\tesseract\src\lstm\lstmrecognizer.cpp,33,78.0,518.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\matrix.h,51,163.0,514.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\colpartition.h,80,329.0,514.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\elst.h,115,200.0,498.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\pageiterator.cpp,41,152.0,496.0
+tesseract,C++,D:\clones\tesseract\src\textord\wordseg.cpp,36,86.0,482.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\blamer.cpp,29,75.0,472.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\polyaprx.cpp,48,75.0,454.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\ratngs.h,60,128.0,454.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\statistc.cpp,36,157.0,445.0
+tesseract,C++,D:\clones\tesseract\src\api\hocrrenderer.cpp,31,73.0,442.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\clst.h,109,168.0,438.0
+tesseract,C++,D:\clones\tesseract\unittest\resultiterator_test.cc,39,125.0,438.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\osdetect.cpp,56,90.0,435.0
+tesseract,C++,D:\clones\tesseract\src\ccutil\scanutils.cpp,57,24.0,433.0
+tesseract,C++,D:\clones\tesseract\src\wordrec\chopper.cpp,45,141.0,431.0
+tesseract,C++,D:\clones\tesseract\unittest\stringrenderer_test.cc,61,41.0,428.0
+tesseract,C++,D:\clones\tesseract\src\lstm\weightmatrix.cpp,32,90.0,424.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\superscript.cpp,43,128.0,421.0
+tesseract,C++,D:\clones\tesseract\src\training\common\networkbuilder.cpp,20,56.0,419.0
+tesseract,C++,D:\clones\tesseract\src\dict\stopper.cpp,36,70.0,413.0
+tesseract,C++,D:\clones\tesseract\src\textord\alignedblob.cpp,23,123.0,399.0
+tesseract,C++,D:\clones\tesseract\src\arch\intsimdmatrixavx2.cpp,35,164.0,395.0
+tesseract,C++,D:\clones\tesseract\unittest\recodebeam_test.cc,24,71.0,391.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\points.h,109,237.0,381.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\ltrresultiterator.cpp,39,81.0,380.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\normalis.cpp,32,166.0,379.0
+tesseract,C/C++ Header,D:\clones\tesseract\include\tesseract\capi.h,80,22.0,376.0
+tesseract,C++,D:\clones\tesseract\src\training\common\errorcounter.cpp,19,109.0,374.0
+tesseract,C++,D:\clones\tesseract\unittest\equationdetect_test.cc,75,74.0,373.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\pageres.h,118,320.0,372.0
+tesseract,Java,D:\clones\tesseract\java\com\google\scrollview\ui\SVWindow.java,76,209.0,363.0
+tesseract,C++,D:\clones\tesseract\src\dict\dawg.cpp,56,41.0,361.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\werd.cpp,58,167.0,359.0
+tesseract,C++,D:\clones\tesseract\unittest\util\utf8\unicodetext.cc,79,78.0,352.0
+tesseract,C++,D:\clones\tesseract\unittest\normstrngs_test.cc,33,36.0,346.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\dict\dawg.h,60,175.0,339.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\dict\dict.h,40,202.0,335.0
+tesseract,C++,D:\clones\tesseract\src\textord\edgblob.cpp,43,92.0,335.0
+tesseract,C++,D:\clones\tesseract\src\ccutil\unicharcompress.cpp,22,95.0,333.0
+tesseract,C++,D:\clones\tesseract\src\textord\devanagari_processing.cpp,35,120.0,331.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\stepblob.cpp,51,160.0,329.0
+tesseract,C++,D:\clones\tesseract\src\ccutil\ambigs.cpp,24,61.0,327.0
+tesseract,C++,D:\clones\tesseract\src\training\common\ctc.cpp,20,97.0,320.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\tessedit.cpp,39,113.0,314.0
+tesseract,C++,D:\clones\tesseract\unittest\baseapi_test.cc,35,54.0,314.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\thresholder.cpp,43,80.0,311.0
+tesseract,C++,D:\clones\tesseract\src\classify\kdtree.cpp,54,125.0,308.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\rect.h,81,116.0,307.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\output.cpp,43,66.0,306.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\blobs.h,49,121.0,306.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\ocrblock.cpp,47,165.0,303.0
+tesseract,C++,D:\clones\tesseract\src\classify\intfx.cpp,21,158.0,303.0
+tesseract,C++,D:\clones\tesseract\src\textord\pitsync1.cpp,19,87.0,303.0
+tesseract,C++,D:\clones\tesseract\src\lstm\network.cpp,26,60.0,300.0
+tesseract,C++,D:\clones\tesseract\sw.cpp,43,11.0,299.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\polyblk.cpp,53,67.0,297.0
+tesseract,C++,D:\clones\tesseract\src\textord\drawtord.cpp,39,79.0,295.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\pagesegmain.cpp,26,100.0,288.0
+tesseract,C++,D:\clones\tesseract\src\ccutil\elst2.cpp,68,121.0,287.0
+tesseract,C++,D:\clones\tesseract\src\classify\trainingsample.cpp,26,47.0,287.0
+tesseract,C++,D:\clones\tesseract\src\training\unicharset\validate_indic.cpp,9,53.0,287.0
+tesseract,Java,D:\clones\tesseract\java\com\google\scrollview\ScrollView.java,21,96.0,286.0
+tesseract,CMake,D:\clones\tesseract\src\training\CMakeLists.txt,57,63.0,285.0
+tesseract,C++,D:\clones\tesseract\src\training\common\commandlineflags.cpp,21,31.0,282.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\params.h,45,63.0,278.0
+tesseract,C++,D:\clones\tesseract\unittest\tablerecog_test.cc,43,12.0,277.0
+tesseract,C++,D:\clones\tesseract\src\textord\scanedg.cpp,44,69.0,273.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\quspline.cpp,45,87.0,270.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\classify.h,50,171.0,270.0
+tesseract,C++,D:\clones\tesseract\src\ccutil\tessdatamanager.cpp,29,43.0,268.0
+tesseract,C++,D:\clones\tesseract\src\viewer\svutil.cpp,40,53.0,263.0
+tesseract,C++,D:\clones\tesseract\src\lstm\fullyconnected.cpp,27,50.0,260.0
+tesseract,C++,D:\clones\tesseract\src\training\pango\boxchar.cpp,22,65.0,260.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\paramsd.cpp,39,58.0,257.0
+tesseract,C++,D:\clones\tesseract\src\ccutil\elst.cpp,61,124.0,255.0
+tesseract,C++,D:\clones\tesseract\src\ccutil\clst.cpp,58,133.0,253.0
+tesseract,C++,D:\clones\tesseract\unittest\pango_font_info_test.cc,40,38.0,252.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\unicharset\lstmtrainer.h,49,192.0,251.0
+tesseract,C++,D:\clones\tesseract\src\dict\permdawg.cpp,18,100.0,249.0
+tesseract,C++,D:\clones\tesseract\src\training\unicharset\validate_javanese.cpp,11,66.0,246.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\rejctmap.h,81,50.0,245.0
+tesseract,C++,D:\clones\tesseract\src\training\unicharset\normstrngs.cpp,23,43.0,244.0
+tesseract,C++,D:\clones\tesseract\src\arch\simddetect.cpp,26,71.0,240.0
+tesseract,C++,D:\clones\tesseract\src\textord\textord.cpp,9,48.0,239.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\wordrec\wordrec.h,51,163.0,238.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\pdblock.cpp,43,112.0,234.0
+tesseract,C++,D:\clones\tesseract\src\ccutil\serialis.cpp,27,30.0,229.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\textord.h,23,68.0,228.0
+tesseract,C++,D:\clones\tesseract\unittest\tablefind_test.cc,29,20.0,227.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\linerec.cpp,14,67.0,224.0
+tesseract,C++,D:\clones\tesseract\src\wordrec\findseam.cpp,33,94.0,223.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\tabvector.h,61,141.0,221.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\makerow.h,16,18.0,219.0
+tesseract,C++,D:\clones\tesseract\src\wordrec\segsearch.cpp,25,60.0,219.0
+tesseract,C++,D:\clones\tesseract\src\classify\mfoutline.cpp,49,150.0,218.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\lstm\functions.h,21,40.0,218.0
+tesseract,C/C++ Header,D:\clones\tesseract\unittest\util\utf8\unicodetext.h,66,208.0,216.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\split.cpp,33,76.0,215.0
+tesseract,C/C++ Header,D:\clones\tesseract\include\tesseract\baseapi.h,97,501.0,214.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\lstm\lstmrecognizer.h,39,119.0,212.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\blamer.h,28,113.0,209.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\lstm\recodebeam.h,33,189.0,207.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\boxread.cpp,17,63.0,202.0
+tesseract,C++,D:\clones\tesseract\src\classify\clusttool.cpp,26,85.0,201.0
+tesseract,C++,D:\clones\tesseract\src\textord\bbgrid.cpp,21,58.0,201.0
+tesseract,C++,D:\clones\tesseract\src\textord\underlin.cpp,19,41.0,201.0
+tesseract,C++,D:\clones\tesseract\src\api\altorenderer.cpp,43,39.0,200.0
+tesseract,C++,D:\clones\tesseract\src\training\combine_tessdata.cpp,10,66.0,200.0
+tesseract,C,D:\clones\tesseract\unittest\third_party\utf\rune.c,35,106.0,200.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\detlinefit.cpp,18,85.0,199.0
+tesseract,C++,D:\clones\tesseract\src\ccutil\unichar.cpp,21,33.0,197.0
+tesseract,C++,D:\clones\tesseract\src\classify\adaptive.cpp,60,143.0,196.0
+tesseract,C++,D:\clones\tesseract\src\textord\ccnontextdetect.cpp,12,103.0,195.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\imagedata.h,35,133.0,194.0
+tesseract,C++,D:\clones\tesseract\unittest\textlineprojection_test.cc,20,41.0,193.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\tfacepp.cpp,22,85.0,192.0
+tesseract,C++,D:\clones\tesseract\src\training\common\sampleiterator.cpp,24,54.0,192.0
+tesseract,C++,D:\clones\tesseract\src\training\degradeimage.cpp,13,106.0,192.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\viewer\scrollview.h,75,161.0,192.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\dict\trie.h,42,189.0,190.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\lstm\networkio.h,18,135.0,190.0
+tesseract,C++,D:\clones\tesseract\unittest\unicharcompress_test.cc,17,42.0,189.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\rect.cpp,38,52.0,187.0
+tesseract,C++,D:\clones\tesseract\src\training\lstmtraining.cpp,13,33.0,187.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\seam.cpp,28,61.0,186.0
+tesseract,C++,D:\clones\tesseract\src\lstm\plumbing.cpp,22,59.0,186.0
+tesseract,C++,D:\clones\tesseract\src\wordrec\chop.cpp,37,92.0,184.0
+tesseract,C++,D:\clones\tesseract\unittest\mastertrainer_test.cc,23,80.0,184.0
+tesseract,C++,D:\clones\tesseract\src\ccutil\indexmapbidi.cpp,19,80.0,181.0
+tesseract,C++,D:\clones\tesseract\unittest\tfile_test.cc,12,24.0,179.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\helpers.h,24,53.0,178.0
+tesseract,C++,D:\clones\tesseract\unittest\networkio_test.cc,9,28.0,178.0
+tesseract,Java,D:\clones\tesseract\java\com\google\scrollview\events\SVEventHandler.java,38,87.0,176.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\fontinfo.cpp,17,34.0,176.0
+tesseract,C++,D:\clones\tesseract\src\training\unicharset\lang_model_helpers.cpp,16,53.0,176.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\rejctmap.cpp,27,17.0,175.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\lstm\networkscratch.h,25,79.0,175.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\wordrec\language_model.h,44,157.0,175.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\coutln.h,36,87.0,174.0
+tesseract,C++,D:\clones\tesseract\src\ccutil\bitvector.cpp,15,41.0,174.0
+tesseract,C++,D:\clones\tesseract\src\training\mftraining.cpp,14,85.0,174.0
+tesseract,C++,D:\clones\tesseract\unittest\layout_test.cc,17,44.0,174.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\shapetable.h,37,165.0,172.0
+tesseract,YAML,D:\clones\tesseract\.github\workflows\autotools-macos.yml,32,6.0,170.0
+tesseract,C++,D:\clones\tesseract\unittest\baseapi_thread_test.cc,25,37.0,170.0
+tesseract,C++,D:\clones\tesseract\src\classify\shapeclassifier.cpp,15,50.0,168.0
+tesseract,C++,D:\clones\tesseract\src\ccutil\params.cpp,17,26.0,167.0
+tesseract,C++,D:\clones\tesseract\unittest\stridemap_test.cc,15,23.0,167.0
+tesseract,C++,D:\clones\tesseract\src\api\renderer.cpp,40,35.0,166.0
+tesseract,C++,D:\clones\tesseract\src\training\common\intfeaturemap.cpp,16,62.0,163.0
+tesseract,C++,D:\clones\tesseract\src\training\mergenf.cpp,43,116.0,163.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\trainingsample.h,23,76.0,161.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\recogtraining.cpp,20,48.0,160.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\ocrrow.cpp,25,67.0,153.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\lstm\network.h,35,129.0,153.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\tablefind.h,65,194.0,153.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\topitch.h,8,17.0,153.0
+tesseract,C++,D:\clones\tesseract\unittest\validate_indic_test.cc,16,55.0,152.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\boxword.cpp,18,43.0,150.0
+tesseract,C++,D:\clones\tesseract\src\classify\classify.cpp,21,28.0,149.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\otsuthr.cpp,12,52.0,148.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\serialis.h,19,67.0,148.0
+tesseract,C++,D:\clones\tesseract\src\textord\gap_map.cpp,14,36.0,148.0
+tesseract,C++,D:\clones\tesseract\src\training\unicharset\validator.cpp,17,41.0,148.0
+tesseract,C++,D:\clones\tesseract\unittest\lang_model_test.cc,10,43.0,148.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\ambigs.h,29,59.0,147.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\intproto.h,45,43.0,147.0
+tesseract,C++,D:\clones\tesseract\src\training\unicharset\unicharset_training_utils.cpp,20,43.0,147.0
+tesseract,C++,D:\clones\tesseract\src\training\pango\ligature_table.cpp,15,29.0,145.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\wordrec\lm_state.h,25,83.0,145.0
+tesseract,YAML,D:\clones\tesseract\.github\workflows\cmake.yml,22,3.0,143.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\ocrblock.h,25,59.0,143.0
+tesseract,C/C++ Header,D:\clones\tesseract\unittest\lstm_test.h,13,30.0,142.0
+tesseract,C++,D:\clones\tesseract\unittest\validate_grapheme_test.cc,13,14.0,142.0
+tesseract,C++,D:\clones\tesseract\src\training\unicharset\fileio.cpp,24,24.0,140.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccmain\paragraphs_internal.h,59,108.0,139.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\pango\stringrenderer.h,20,70.0,139.0
+tesseract,C++,D:\clones\tesseract\src\viewer\svpaint.cpp,31,81.0,139.0
+tesseract,C++,D:\clones\tesseract\src\wordrec\lm_pain_points.cpp,14,59.0,139.0
+tesseract,C/C++ Header,D:\clones\tesseract\include\tesseract\renderer.h,50,122.0,138.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\tessdatamanager.h,29,89.0,137.0
+tesseract,C++,D:\clones\tesseract\src\lstm\series.cpp,15,51.0,136.0
+tesseract,C++,D:\clones\tesseract\src\training\unicharset\validate_myanmar.cpp,8,44.0,136.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\genericheap.h,19,95.0,135.0
+tesseract,C++,D:\clones\tesseract\src\training\unicharset\validate_grapheme.cpp,11,48.0,134.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\fixxht.cpp,8,76.0,132.0
+tesseract,C++,D:\clones\tesseract\unittest\shapetable_test.cc,16,33.0,132.0
+tesseract,C++,D:\clones\tesseract\src\lstm\stridemap.cpp,16,40.0,131.0
+tesseract,C++,D:\clones\tesseract\src\classify\picofeat.cpp,33,93.0,130.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\oldbasel.h,12,17.0,130.0
+tesseract,C++,D:\clones\tesseract\unittest\lstm_test.cc,17,67.0,130.0
+tesseract,C++,D:\clones\tesseract\src\lstm\parallel.cpp,10,42.0,129.0
+tesseract,C++,D:\clones\tesseract\src\classify\normmatch.cpp,22,64.0,127.0
+tesseract,C++,D:\clones\tesseract\unittest\heap_test.cc,15,58.0,127.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\blkocc.h,39,83.0,126.0
+tesseract,C++,D:\clones\tesseract\unittest\list_test.cc,11,13.0,126.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\ocrrow.h,25,26.0,125.0
+tesseract,YAML,D:\clones\tesseract\.github\workflows\cmake-win64.yml,15,3.0,124.0
+tesseract,C++,D:\clones\tesseract\src\wordrec\params_model.cpp,14,28.0,124.0
+tesseract,C++,D:\clones\tesseract\src\training\common\intfeaturedist.cpp,10,29.0,123.0
+tesseract,C++,D:\clones\tesseract\unittest\bitvector_test.cc,15,35.0,123.0
+tesseract,C++,D:\clones\tesseract\unittest\rect_test.cc,30,17.0,123.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\matrix.cpp,10,38.0,122.0
+tesseract,C++,D:\clones\tesseract\src\training\cntraining.cpp,19,100.0,122.0
+tesseract,C++,D:\clones\tesseract\src\training\unicharset\validate_khmer.cpp,4,17.0,122.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\kdpair.h,15,66.0,120.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\unicharcompress.h,20,109.0,120.0
+tesseract,C/C++ Header,D:\clones\tesseract\include\tesseract\publictypes.h,18,144.0,119.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\seam.h,24,65.0,117.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\opencl\openclwrapper.h,28,34.0,117.0
+tesseract,C++,D:\clones\tesseract\src\wordrec\associate.cpp,12,40.0,116.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\common\mastertrainer.h,39,140.0,115.0
+tesseract,C++,D:\clones\tesseract\unittest\unicharset_test.cc,9,33.0,115.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\unicharset\validator.h,23,103.0,114.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\linlsq.cpp,25,122.0,112.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\colfind.h,32,213.0,112.0
+tesseract,C++,D:\clones\tesseract\src\arch\intsimdmatrixneon.cpp,18,76.0,111.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\werd.h,39,62.0,111.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\common\trainingsampleset.h,41,123.0,111.0
+tesseract,C++,D:\clones\tesseract\src\training\unicharset\lstmtester.cpp,11,33.0,111.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\fontinfo.h,26,68.0,110.0
+tesseract,C++,D:\clones\tesseract\unittest\progress_test.cc,30,16.0,110.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\tabfind.h,48,206.0,109.0
+tesseract,C++,D:\clones\tesseract\unittest\commandlineflags_test.cc,26,18.0,109.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\strokewidth.h,43,183.0,107.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\devanagari_processing.h,42,54.0,106.0
+tesseract,C++,D:\clones\tesseract\unittest\intsimdmatrix_test.cc,9,23.0,106.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\pithsync.h,12,17.0,104.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\baselinedetect.h,37,134.0,103.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\wordrec\lm_consistency.h,13,28.0,103.0
+tesseract,Markdown,D:\clones\tesseract\README.md,44,0.0,102.0
+tesseract,C++,D:\clones\tesseract\src\classify\featdefs.cpp,24,87.0,102.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\common\commontraining.h,41,43.0,102.0
+tesseract,C++,D:\clones\tesseract\src\arch\dotproductsse.cpp,6,39.0,101.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\params_training_featdef.h,14,41.0,99.0
+tesseract,YAML,D:\clones\tesseract\.github\workflows\autotools.yml,20,3.0,98.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\normalis.h,24,188.0,98.0
+tesseract,C++,D:\clones\tesseract\src\textord\edgloop.cpp,17,44.0,96.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\pdblock.h,30,59.0,95.0
+tesseract,C++,D:\clones\tesseract\unittest\intfeaturemap_test.cc,10,21.0,95.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\points.cpp,18,46.0,94.0
+tesseract,C++,D:\clones\tesseract\src\lstm\tfnetwork.cpp,13,36.0,94.0
+tesseract,C++,D:\clones\tesseract\src\textord\blkocc.cpp,18,47.0,94.0
+tesseract,C++,D:\clones\tesseract\unittest\tabvector_test.cc,20,17.0,93.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\tablerecog.h,43,232.0,92.0
+tesseract,YAML,D:\clones\tesseract\.github\workflows\vcpkg-4.1.1.yml,14,4.0,91.0
+tesseract,C++,D:\clones\tesseract\unittest\linlsq_test.cc,10,17.0,90.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\lstm\weightmatrix.h,14,86.0,89.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\pitsync1.h,11,18.0,89.0
+tesseract,C++,D:\clones\tesseract\unittest\applybox_test.cc,14,26.0,89.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\cluster.h,28,29.0,87.0
+tesseract,C++,D:\clones\tesseract\src\cutil\oldlist.cpp,30,103.0,87.0
+tesseract,C++,D:\clones\tesseract\src\lstm\input.cpp,14,45.0,87.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\pango\pango_font_info.h,26,96.0,87.0
+tesseract,C++,D:\clones\tesseract\unittest\osd_test.cc,17,20.0,87.0
+tesseract,C++,D:\clones\tesseract\src\ccutil\unicharmap.cpp,18,31.0,86.0
+tesseract,C++,D:\clones\tesseract\src\textord\workingpartset.cpp,8,43.0,86.0
+tesseract,C++,D:\clones\tesseract\unittest\indexmapbidi_test.cc,11,24.0,86.0
+tesseract,C/C++ Header,D:\clones\tesseract\include\tesseract\osdetect.h,23,31.0,85.0
+tesseract,C++,D:\clones\tesseract\unittest\scanutils_test.cc,6,24.0,85.0
+tesseract,C++,D:\clones\tesseract\unittest\tatweel_test.cc,11,16.0,84.0
+tesseract,YAML,D:\clones\tesseract\.github\workflows\vcpkg.yml,14,3.0,83.0
+tesseract,CMake,D:\clones\tesseract\cmake\Configure.cmake,14,37.0,83.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\adaptions.cpp,15,22.0,83.0
+tesseract,C++,D:\clones\tesseract\src\lstm\convolve.cpp,10,28.0,83.0
+tesseract,C++,D:\clones\tesseract\src\viewer\svmnode.cpp,19,45.0,83.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccmain\thresholder.h,32,88.0,81.0
+tesseract,C++,D:\clones\tesseract\unittest\ligature_table_test.cc,15,14.0,81.0
+tesseract,C/C++ Header,D:\clones\tesseract\include\tesseract\pageiterator.h,36,248.0,80.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\linlsq.h,15,47.0,80.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\quadlsq.cpp,17,47.0,80.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\object_cache.h,11,29.0,80.0
+tesseract,C++,D:\clones\tesseract\src\classify\intfeaturespace.cpp,11,30.0,80.0
+tesseract,C++,D:\clones\tesseract\src\training\unicharset_extractor.cpp,9,25.0,80.0
+tesseract,C++,D:\clones\tesseract\src\wordrec\wordrec.cpp,13,17.0,80.0
+tesseract,C++,D:\clones\tesseract\unittest\pagesegmode_test.cc,11,24.0,80.0
+tesseract,C++,D:\clones\tesseract\unittest\imagedata_test.cc,11,34.0,79.0
+tesseract,Markdown,D:\clones\tesseract\unittest\README.md,10,0.0,78.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\bitvector.h,20,52.0,77.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\pango\boxchar.h,21,47.0,77.0
+tesseract,C++,D:\clones\tesseract\unittest\dawg_test.cc,13,20.0,77.0
+tesseract,C++,D:\clones\tesseract\src\classify\outfeat.cpp,19,65.0,76.0
+tesseract,C++,D:\clones\tesseract\src\classify\protos.cpp,21,62.0,76.0
+tesseract,C++,D:\clones\tesseract\unittest\matrix_test.cc,9,54.0,76.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccmain\equationdetect.h,56,119.0,75.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\ocrpara.h,22,106.0,75.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\lstm\static_shape.h,11,29.0,75.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\colpartitiongrid.h,36,133.0,75.0
+tesseract,C++,D:\clones\tesseract\src\training\wordlist2dawg.cpp,5,21.0,75.0
+tesseract,C++,D:\clones\tesseract\unittest\denorm_test.cc,12,14.0,75.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\drawtord.h,7,18.0,74.0
+tesseract,C++,D:\clones\tesseract\unittest\fuzzers\fuzzer-api.cpp,25,1.0,74.0
+tesseract,C++,D:\clones\tesseract\src\lstm\reconfig.cpp,10,33.0,73.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\lstm\stridemap.h,12,59.0,73.0
+tesseract,C++,D:\clones\tesseract\src\training\classifier_tester.cpp,14,40.0,73.0
+tesseract,C++,D:\clones\tesseract\src\training\dawg2wordlist.cpp,9,18.0,73.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\lstm\lstm.h,21,68.0,72.0
+tesseract,C++,D:\clones\tesseract\src\dict\dawg_cache.cpp,9,17.0,71.0
+tesseract,C++,D:\clones\tesseract\unittest\lstmtrainer_test.cc,9,22.0,71.0
+tesseract,C++,D:\clones\tesseract\src\api\lstmboxrenderer.cpp,11,26.0,70.0
+tesseract,C++,D:\clones\tesseract\unittest\apiexample_test.cc,14,30.0,70.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\intmatcher.h,25,30.0,69.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\common\errorcounter.h,19,126.0,69.0
+tesseract,C++,D:\clones\tesseract\src\wordrec\tface.cpp,16,63.0,69.0
+tesseract,C/C++ Header,D:\clones\tesseract\unittest\normstrngs_test.h,9,10.0,69.0
+tesseract,C/C++ Header,D:\clones\tesseract\include\tesseract\ltrresultiterator.h,46,121.0,68.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\statistc.h,18,63.0,68.0
+tesseract,C++,D:\clones\tesseract\unittest\nthitem_test.cc,12,39.0,68.0
+tesseract,C/C++ Header,D:\clones\tesseract\include\tesseract\unichar.h,31,76.0,67.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\stepblob.h,24,45.0,67.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\sorthelper.h,11,38.0,67.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\adaptive.h,26,20.0,67.0
+tesseract,C++,D:\clones\tesseract\src\classify\mfx.cpp,22,55.0,67.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\ocrfeatures.h,23,42.0,67.0
+tesseract,YAML,D:\clones\tesseract\.github\workflows\autotools-openmp.yml,13,4.0,66.0
+tesseract,C++,D:\clones\tesseract\src\api\wordstrboxrenderer.cpp,14,26.0,66.0
+tesseract,C++,D:\clones\tesseract\src\arch\dotproductfma.cpp,6,18.0,66.0
+tesseract,C++,D:\clones\tesseract\src\arch\intsimdmatrixsse.cpp,11,30.0,66.0
+tesseract,TeX,D:\clones\tesseract\doc\tesseract.bib,4,0.0,65.0
+tesseract,C/C++ Header,D:\clones\tesseract\include\tesseract\ocrclass.h,15,78.0,65.0
+tesseract,Java,D:\clones\tesseract\java\com\google\scrollview\ui\SVPopupMenu.java,15,64.0,65.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\dppoint.cpp,7,27.0,65.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\lstm\fullyconnected.h,18,49.0,65.0
+tesseract,YAML,D:\clones\tesseract\.github\workflows\unittest-macos.yml,12,2.0,64.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\lstm\plumbing.h,24,67.0,64.0
+tesseract,C++,D:\clones\tesseract\src\wordrec\lm_consistency.cpp,10,38.0,64.0
+tesseract,YAML,D:\clones\tesseract\.github\workflows\unittest.yml,11,4.0,63.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\ocrpara.cpp,11,19.0,63.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\quspline.h,16,20.0,63.0
+tesseract,C++,D:\clones\tesseract\src\arch\dotproductavx.cpp,6,18.0,62.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\indexmapbidi.h,23,96.0,62.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\colpartitionset.h,30,80.0,62.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\wordrec\lm_pain_points.h,21,50.0,62.0
+tesseract,YAML,D:\clones\tesseract\.github\workflows\msys2.yml,5,2.0,61.0
+tesseract,C/C++ Header,D:\clones\tesseract\include\tesseract\resultiterator.h,38,151.0,61.0
+tesseract,Java,D:\clones\tesseract\java\com\google\scrollview\ui\SVMenuBar.java,13,56.0,61.0
+tesseract,YAML,D:\clones\tesseract\.github\workflows\unittest-disablelegacy.yml,13,5.0,60.0
+tesseract,make,D:\clones\tesseract\java\Makefile.am,12,1.0,60.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccmain\paramsd.h,23,47.0,60.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\polyblk.h,25,33.0,59.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\common\intfeaturemap.h,20,82.0,59.0
+tesseract,C/C++ Header,D:\clones\tesseract\unittest\include_gunit.h,15,13.0,59.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\mod128.h,12,18.0,58.0
+tesseract,C++,D:\clones\tesseract\src\ccutil\errcode.cpp,10,34.0,58.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\mfoutline.h,35,31.0,56.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\common\sampleiterator.h,18,118.0,56.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\wordrec\associate.h,15,49.0,56.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\split.h,17,53.0,55.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\unicity_table.h,19,45.0,55.0
+tesseract,YAML,D:\clones\tesseract\.github\workflows\sw.yml,13,6.0,54.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\kdtree.h,28,47.0,54.0
+tesseract,C++,D:\clones\tesseract\src\wordrec\render.cpp,19,53.0,54.0
+tesseract,C++,D:\clones\tesseract\src\arch\intsimdmatrix.cpp,6,35.0,53.0
+tesseract,C++,D:\clones\tesseract\src\ccutil\ccutil.cpp,12,29.0,53.0
+tesseract,C/C++ Header,D:\clones\tesseract\unittest\third_party\utf\utf.h,55,118.0,53.0
+tesseract,C++,D:\clones\tesseract\src\classify\ocrfeatures.cpp,13,67.0,52.0
+tesseract,C++,D:\clones\tesseract\src\dict\context.cpp,7,20.0,52.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\unicharset\fileio.h,22,38.0,52.0
+tesseract,C++,D:\clones\tesseract\src\wordrec\lm_state.cpp,7,19.0,52.0
+tesseract,C++,D:\clones\tesseract\src\wordrec\plotedges.cpp,17,43.0,52.0
+tesseract,m4,D:\clones\tesseract\m4\ax_check_compile_flag.m4,2,0.0,51.0
+tesseract,C++,D:\clones\tesseract\src\lstm\reversed.cpp,11,24.0,51.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\lstm\tfnetwork.h,18,37.0,51.0
+tesseract,C++,D:\clones\tesseract\src\training\lstmeval.cpp,4,16.0,51.0
+tesseract,C++,D:\clones\tesseract\unittest\colpartition_test.cc,15,10.0,51.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\wordseg.h,7,17.0,50.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\common\ctc.h,11,68.0,50.0
+tesseract,C++,D:\clones\tesseract\unittest\params_model_test.cc,10,15.0,50.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\textlineprojection.h,28,123.0,49.0
+tesseract,C++,D:\clones\tesseract\src\training\ambiguous_words.cpp,6,26.0,49.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\wordrec\params_model.h,14,30.0,49.0
+tesseract,Bourne Shell,D:\clones\tesseract\autogen.sh,19,59.0,48.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\ccutil.h,12,21.0,48.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\lstm\input.h,15,46.0,48.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\unicharset\normstrngs.h,22,46.0,48.0
+tesseract,C++,D:\clones\tesseract\unittest\qrsequence_test.cc,8,15.0,48.0
+tesseract,Markdown,D:\clones\tesseract\CONTRIBUTING.md,33,0.0,47.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\mod128.cpp,8,22.0,47.0
+tesseract,C++,D:\clones\tesseract\src\lstm\maxpool.cpp,8,23.0,46.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\viewer\svutil.h,18,45.0,46.0
+tesseract,YAML,D:\clones\tesseract\snap\snapcraft.yaml,5,0.0,45.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\arch\simddetect.h,9,34.0,45.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\list.h,11,14.0,45.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\intfeaturespace.h,14,41.0,45.0
+tesseract,C++,D:\clones\tesseract\src\classify\tessclassifier.cpp,7,32.0,45.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\fpchop.h,12,20.0,45.0
+tesseract,C++,D:\clones\tesseract\unittest\fileio_test.cc,10,10.0,45.0
+tesseract,Markdown,D:\clones\tesseract\INSTALL.GIT.md,23,0.0,44.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\quadlsq.h,9,17.0,44.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\featdefs.h,18,32.0,44.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\protos.h,19,34.0,44.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\edgblob.h,11,19.0,44.0
+tesseract,C++,D:\clones\tesseract\src\wordrec\pieces.cpp,12,33.0,44.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\par_control.cpp,6,21.0,43.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\dppoint.h,13,49.0,43.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\lstm\reversed.h,12,35.0,43.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\alignedblob.h,16,59.0,43.0
+tesseract,C++,D:\clones\tesseract\src\training\combine_lang_model.cpp,7,28.0,43.0
+tesseract,C/C++ Header,D:\clones\tesseract\unittest\doubleptr.h,8,42.0,42.0
+tesseract,YAML,D:\clones\tesseract\.github\workflows\codeql-analysis.yml,8,20.0,41.0
+tesseract,Java,D:\clones\tesseract\java\com\google\scrollview\ui\SVImageHandler.java,5,28.0,41.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\api\pdf_ttf.h,4,18.0,41.0
+tesseract,C++,D:\clones\tesseract\src\arch\dotproductneon.cpp,11,19.0,41.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccmain\paragraphs.h,14,49.0,41.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\boxword.h,21,36.0,41.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\qrsequence.h,7,34.0,41.0
+tesseract,C/C++ Header,D:\clones\tesseract\unittest\cycletimer.h,10,13.0,41.0
+tesseract,C/C++ Header,D:\clones\tesseract\unittest\syntaxnet\base.h,13,12.0,41.0
+tesseract,C++,D:\clones\tesseract\unittest\validator_test.cc,7,19.0,41.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\blread.cpp,10,24.0,40.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\detlinefit.h,21,96.0,40.0
+tesseract,C++,D:\clones\tesseract\src\ccutil\tprintf.cpp,14,21.0,40.0
+tesseract,C++,D:\clones\tesseract\src\classify\cutoffs.cpp,7,27.0,40.0
+tesseract,C++,D:\clones\tesseract\src\classify\float2int.cpp,12,53.0,40.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\cutil\oldlist.h,27,85.0,40.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\lstm\parallel.h,11,33.0,40.0
+tesseract,C++,D:\clones\tesseract\unittest\stats_test.cc,11,15.0,40.0
+tesseract,Java,D:\clones\tesseract\java\com\google\scrollview\events\SVEvent.java,7,41.0,39.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\debugpixa.h,9,11.0,38.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\shapeclassifier.h,19,61.0,38.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\common\commandlineflags.h,8,28.0,38.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\arch\intsimdmatrix.h,15,73.0,37.0
+tesseract,C++,D:\clones\tesseract\src\classify\blobclass.cpp,9,27.0,37.0
+tesseract,C++,D:\clones\tesseract\src\textord\sortflts.cpp,9,32.0,37.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\pango\ligature_table.h,14,29.0,37.0
+tesseract,m4,D:\clones\tesseract\m4\ax_split_version.m4,2,0.0,36.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\tovars.h,6,18.0,36.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\mergenf.h,16,25.0,36.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\werdit.cpp,7,26.0,35.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\image.cpp,13,12.0,35.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\errcode.h,12,18.0,35.0
+tesseract,C++,D:\clones\tesseract\src\textord\equationdetectbase.cpp,9,24.0,35.0
+tesseract,Bourne Shell,D:\clones\tesseract\unittest\fuzzers\oss-fuzz-build.sh,8,19.0,35.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\cutil\bitvec.h,16,38.0,34.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\lstm\series.h,16,45.0,34.0
+tesseract,C++,D:\clones\tesseract\src\textord\tovars.cpp,4,18.0,34.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\common\networkbuilder.h,12,110.0,34.0
+tesseract,C++,D:\clones\tesseract\src\training\shapeclustering.cpp,12,24.0,34.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\tessbox.cpp,6,37.0,33.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\sortflts.h,10,31.0,33.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\workingpartset.h,13,41.0,33.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\unicharset\lstmtester.h,12,48.0,33.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\viewer\svmnode.h,20,49.0,33.0
+tesseract,C++,D:\clones\tesseract\unittest\validate_myanmar_test.cc,5,14.0,33.0
+tesseract,YAML,D:\clones\tesseract\.travis.yml,6,2.0,32.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\quadratc.h,10,23.0,32.0
+tesseract,C++,D:\clones\tesseract\src\classify\mf.cpp,8,32.0,32.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\lstm\reconfig.h,14,37.0,32.0
+tesseract,C++,D:\clones\tesseract\src\training\merge_unicharsets.cpp,5,20.0,32.0
+tesseract,C++,D:\clones\tesseract\src\wordrec\drawfx.cpp,15,33.0,32.0
+tesseract,C++,D:\clones\tesseract\src\wordrec\wordclass.cpp,7,40.0,32.0
+tesseract,YAML,D:\clones\tesseract\.github\workflows\cifuzz.yml,0,2.0,31.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\host.h,9,18.0,31.0
+tesseract,C++,D:\clones\tesseract\src\dict\hyphen.cpp,4,25.0,31.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\underlin.h,6,17.0,31.0
+tesseract,C++,D:\clones\tesseract\src\wordrec\outlines.cpp,7,35.0,31.0
+tesseract,C/C++ Header,D:\clones\tesseract\unittest\log.h,10,22.0,31.0
+tesseract,YAML,D:\clones\tesseract\.github\workflows\msys2-4.1.1.yml,0,1.0,30.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccmain\pgedit.h,10,19.0,30.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\boxread.h,14,45.0,30.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\lstm\convolve.h,12,30.0,29.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\gap_map.h,11,10.0,29.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\imagefind.h,14,59.0,29.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\image.h,11,17.0,28.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\intfx.h,12,28.0,28.0
+tesseract,C++,D:\clones\tesseract\src\wordrec\gradechop.cpp,14,41.0,28.0
+tesseract,YAML,D:\clones\tesseract\appveyor.yml,8,12.0,27.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\unicharset\lang_model_helpers.h,10,47.0,27.0
+tesseract,C++,D:\clones\tesseract\unittest\validate_khmer_test.cc,5,15.0,27.0
+tesseract,XML,D:\clones\tesseract\doc\tesseract.natvis,4,0.0,26.0
+tesseract,Java,D:\clones\tesseract\java\com\google\scrollview\ui\SVCheckboxMenuItem.java,8,23.0,26.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\dict\stopper.h,9,16.0,26.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\wordrec\outlines.h,19,71.0,25.0
+tesseract,Java,D:\clones\tesseract\java\com\google\scrollview\ui\SVMenuItem.java,8,28.0,24.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\unicharmap.h,15,35.0,24.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\common\intfeaturedist.h,12,42.0,24.0
+tesseract,C/C++ Header,D:\clones\tesseract\unittest\util\utf8\unilib_utf8_utils.h,10,32.0,24.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\picofeat.h,14,28.0,23.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\tessclassifier.h,10,36.0,23.0
+tesseract,C++,D:\clones\tesseract\unittest\util\utf8\unilib.cc,7,26.0,23.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\lstm\maxpool.h,11,27.0,22.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\unicharset\unicharset_training_utils.h,10,28.0,22.0
+tesseract,CMake,D:\clones\tesseract\cmake\SourceGroups.cmake,6,10.0,21.0
+tesseract,C++,D:\clones\tesseract\src\classify\fpoint.cpp,4,31.0,21.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\dict\dawg_cache.h,9,22.0,21.0
+tesseract,C++,D:\clones\tesseract\src\training\set_unicharset_properties.cpp,7,14.0,21.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\unicharset\icuerrorcode.h,6,36.0,21.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\unicharset\validate_indic.h,8,14.0,21.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\unicharset\validate_javanese.h,10,30.0,21.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\unicharset\validate_myanmar.h,8,17.0,21.0
+tesseract,C++,D:\clones\tesseract\unittest\unichar_test.cc,5,17.0,21.0
+tesseract,CMake,D:\clones\tesseract\cmake\templates\cmake_uninstall.cmake.in,1,1.0,20.0
+tesseract,C/C++ Header,D:\clones\tesseract\include\tesseract\export.h,3,14.0,20.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\params_training_featdef.cpp,5,18.0,20.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\ccnontextdetect.h,10,55.0,20.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\edgloop.h,7,17.0,20.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\equationdetectbase.h,11,30.0,20.0
+tesseract,C++,D:\clones\tesseract\unittest\lstm_recode_test.cc,8,17.0,20.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccmain\mutableiterator.h,11,32.0,19.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\tesstypes.h,8,17.0,19.0
+tesseract,C++,D:\clones\tesseract\src\classify\normfeat.cpp,9,42.0,19.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\wordrec\render.h,13,24.0,19.0
+tesseract,YAML,D:\clones\tesseract\.lgtm.yml,0,0.0,18.0
+tesseract,Java,D:\clones\tesseract\java\com\google\scrollview\ui\SVAbstractMenuItem.java,10,29.0,18.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\mfdefs.h,7,16.0,18.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\outfeat.h,10,19.0,18.0
+tesseract,Protocol Buffers,D:\clones\tesseract\src\lstm\tfnetwork.proto,8,48.0,18.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\unicharset\validate_grapheme.h,7,9.0,18.0
+tesseract,C/C++ Header,D:\clones\tesseract\unittest\util\utf8\unilib.h,9,36.0,18.0
+tesseract,Bourne Shell,D:\clones\tesseract\doc\generate_manpages.sh,1,16.0,17.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\crakedge.h,7,18.0,17.0
+tesseract,Java,D:\clones\tesseract\java\com\google\scrollview\ui\SVEmptyMenuItem.java,5,25.0,16.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\pagewalk.cpp,2,24.0,16.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\lsterr.h,8,17.0,16.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\fpoint.h,9,28.0,16.0
+tesseract,Python,D:\clones\tesseract\src\lstm\generate_lut.py,7,4.0,16.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\degradeimage.h,6,35.0,16.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\pango\tlog.h,6,23.0,16.0
+tesseract,Java,D:\clones\tesseract\java\com\google\scrollview\ui\SVSubMenuItem.java,4,20.0,15.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccmain\reject.h,6,18.0,15.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\blread.h,8,17.0,15.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\otsuthr.h,11,32.0,15.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\clusttool.h,12,16.0,15.0
+tesseract,C++,D:\clones\tesseract\src\textord\blobgrid.cpp,6,24.0,15.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\blobgrid.h,9,21.0,15.0
+tesseract,Markdown,D:\clones\tesseract\.github\ISSUE_TEMPLATE.md,9,0.0,14.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\tprintf.h,8,19.0,14.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\dict\matchdefs.h,10,26.0,14.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\tordmain.h,9,17.0,14.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\unicharset\validate_khmer.h,6,6.0,14.0
+tesseract,Java,D:\clones\tesseract\java\com\google\scrollview\events\SVEventType.java,2,16.0,13.0
+tesseract,C++,D:\clones\tesseract\src\arch\dotproduct.cpp,4,16.0,13.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\ccstruct.h,6,21.0,13.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\scanedg.h,8,17.0,13.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\wordrec\drawfx.h,6,17.0,13.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\wordrec\findseam.h,7,18.0,13.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\wordrec\plotedges.h,11,24.0,13.0
+tesseract,Dockerfile,D:\clones\tesseract\Dockerfile,4,1.0,12.0
+tesseract,CMake,D:\clones\tesseract\cmake\templates\TesseractConfig.cmake.in,6,21.0,12.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccmain\docqual.h,8,17.0,12.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccmain\output.h,6,19.0,12.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\mfx.h,9,23.0,12.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\linefind.h,6,42.0,12.0
+tesseract,C/C++ Header,D:\clones\tesseract\unittest\third_party\utf\utfdef.h,2,0.0,12.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\arch\dotproduct.h,10,20.0,11.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccmain\control.h,4,22.0,11.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\normfeat.h,10,17.0,11.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\wordrec\chop.h,7,18.0,11.0
+tesseract,CMake,D:\clones\tesseract\tesseract.pc.cmake,1,0.0,11.0
+tesseract,C++,D:\clones\tesseract\unittest\lstm_squashed_test.cc,4,16.0,11.0
+tesseract,YAML,D:\clones\tesseract\.clang-format,4,5.0,10.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccmain\fixspace.h,6,20.0,10.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\normmatch.h,6,17.0,10.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccmain\werdit.h,7,18.0,9.0
+tesseract,C++,D:\clones\tesseract\src\ccstruct\ccstruct.cpp,4,19.0,8.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccstruct\polyaprx.h,6,18.0,8.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\mf.h,6,16.0,8.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\textord\cjkpitch.h,5,62.0,8.0
+tesseract,C++,D:\clones\tesseract\src\training\unicharset\icuerrorcode.cpp,4,16.0,8.0
+tesseract,make,D:\clones\tesseract\tessdata\Makefile.am,4,0.0,8.0
+tesseract,C++,D:\clones\tesseract\unittest\cleanapi_test.cc,6,16.0,8.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\fileerr.h,6,17.0,7.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccutil\scanutils.h,5,23.0,7.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\classify\float2int.h,4,19.0,7.0
+tesseract,make,D:\clones\tesseract\tessdata\configs\Makefile.am,0,1.0,7.0
+tesseract,make,D:\clones\tesseract\java\com\google\scrollview\ui\Makefile.am,1,0.0,6.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\ccmain\tessvars.h,4,18.0,5.0
+tesseract,C,D:\clones\tesseract\unittest\capiexample_c_test.c,2,13.0,5.0
+tesseract,C++,D:\clones\tesseract\unittest\capiexample_test.cc,3,13.0,5.0
+tesseract,make,D:\clones\tesseract\java\com\google\scrollview\events\Makefile.am,1,0.0,4.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\mutableiterator.cpp,4,16.0,4.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\common\export.h,1,0.0,4.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\pango\export.h,1,0.0,4.0
+tesseract,C/C++ Header,D:\clones\tesseract\src\training\unicharset\export.h,1,0.0,4.0
+tesseract,CMake,D:\clones\tesseract\cmake\BuildFunctions.cmake,2,18.0,3.0
+tesseract,make,D:\clones\tesseract\java\com\google\scrollview\Makefile.am,1,0.0,3.0
+tesseract,C++,D:\clones\tesseract\src\ccmain\tessvars.cpp,3,18.0,3.0
+tesseract,C++,D:\clones\tesseract\src\training\pango\tlog.cpp,3,19.0,3.0
+tesseract,make,D:\clones\tesseract\tessdata\tessconfigs\Makefile.am,0,0.0,3.0
+tesseract,YAML,D:\clones\tesseract\docker-compose.yml,0,0.0,2.0
+tesseract,make,D:\clones\tesseract\java\com\Makefile.am,0,0.0,1.0
+tesseract,make,D:\clones\tesseract\java\com\google\Makefile.am,0,0.0,1.0

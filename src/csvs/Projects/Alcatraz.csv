@@ -1,0 +1,94 @@
+project,language,filename,blank,comment,code
+Alcatraz,XML,D:\clones\Alcatraz\TestProject\TestProject\Base.lproj\MainMenu.xib,0,0.0,467.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Controllers\ATZPluginWindowController.m,62,22.0,266.0
+Alcatraz,XML,D:\clones\Alcatraz\Alcatraz\ATZPluginWindowController.xib,0,0.0,258.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Controllers\ATZPackageTableViewDelegate.m,31,22.0,152.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Installers\ATZPluginInstaller.m,35,23.0,128.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Specs\Packages\ATZPackageTests.m,30,7.0,102.0
+Alcatraz,XML,D:\clones\Alcatraz\Alcatraz\Views\ATZPackageListTableCellView.xib,0,0.0,96.0
+Alcatraz,XML,D:\clones\Alcatraz\TestProject\TestProject.xcodeproj\xcshareddata\xcschemes\TestProject.xcscheme,0,0.0,96.0
+Alcatraz,XML,D:\clones\Alcatraz\Alcatraz.xcodeproj\xcshareddata\xcschemes\Alcatraz.xcscheme,0,0.0,92.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\ATZSegmentedCell.m,28,22.0,92.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Specs\AlcatrazSpec.m,31,22.0,92.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Installers\ATZInstaller.m,36,21.0,88.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Helpers\ATZDownloader.m,43,24.0,83.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Helpers\ATZGit.m,26,22.0,83.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Helpers\ATZStyleKit.m,24,31.0,81.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Alcatraz.m,20,21.0,75.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Packages\ATZPackage.m,23,21.0,71.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Specs\Packages\ATZPackageFactoryTests.m,19,22.0,69.0
+Alcatraz,Markdown,D:\clones\Alcatraz\CHANGELOG.md,60,0.0,63.0
+Alcatraz,XML,D:\clones\Alcatraz\Alcatraz\Alcatraz-Info.plist,0,0.0,62.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Installers\ATZColorSchemeInstaller.m,23,21.0,62.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Helpers\ATZShell.m,20,21.0,61.0
+Alcatraz,JSON,D:\clones\Alcatraz\TestProject\TestProject\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,58.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Helpers\ATZXcodePrefsManager.m,21,7.0,53.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Installers\ATZTemplateInstaller.m,20,21.0,52.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Views\ATZFillableButton.m,15,20.0,51.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Views\ATZPreviewImageButton.m,10,20.0,44.0
+Alcatraz,make,D:\clones\Alcatraz\Makefile,13,5.0,43.0
+Alcatraz,Markdown,D:\clones\Alcatraz\README.md,25,0.0,39.0
+Alcatraz,XML,D:\clones\Alcatraz\TestProject\TestProject\TestProject-Info.plist,0,0.0,34.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Packages\ATZPackageFactory.m,10,21.0,33.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Packages\ATZPackage.h,15,21.0,30.0
+Alcatraz,Bourne Shell,D:\clones\Alcatraz\Scripts\install.sh,7,10.0,30.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Installers\ATZInstaller.h,16,21.0,28.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Views\ATZSegmentedControl.m,11,26.0,24.0
+Alcatraz,XML,D:\clones\Alcatraz\TestProject\TestProjectTests\TestProjectTests-Info.plist,0,0.0,22.0
+Alcatraz,Markdown,D:\clones\Alcatraz\CONTRIBUTING.md,15,0.0,21.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Helpers\ATZGit.h,9,21.0,20.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Specs\ATZDownloaderSpec.m,13,9.0,20.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Packages\ATZAlcatrazPackage.m,6,22.0,19.0
+Alcatraz,YAML,D:\clones\Alcatraz\.pullapprove.yml,0,0.0,18.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Controllers\ATZPluginWindowController.h,10,21.0,18.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Packages\ATZColorScheme.m,9,21.0,18.0
+Alcatraz,YAML,D:\clones\Alcatraz\.travis.yml,3,0.0,17.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Categories\NSFileManager+Alcatraz.m,11,21.0,17.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Views\ATZFilterBarView.m,5,20.0,17.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Packages\ATZPlugin.m,7,21.0,16.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Packages\ATZTemplate.m,9,21.0,16.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Helpers\ATZPBXProjParser.m,9,22.0,15.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Installers\ATZFileTemplateInstaller.m,7,21.0,14.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Installers\ATZProjectTemplateInstaller.m,7,21.0,14.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Categories\NSImage+Alcatraz.m,4,22.0,13.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Helpers\ATZDownloader.h,8,21.0,13.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Helpers\ATZShell.h,6,21.0,13.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Packages\ATZFileTemplate.m,6,21.0,11.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Packages\ATZProjectTemplate.m,6,21.0,11.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Views\ATZFillableButton.h,6,20.0,11.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Controllers\ATZPackageTableViewDelegate.h,7,22.0,9.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Views\ATZPackageListTableCellView.h,4,20.0,9.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Alcatraz.h,6,21.0,8.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Helpers\ATZStyleKit.h,6,24.0,8.0
+Alcatraz,XML,D:\clones\Alcatraz\Alcatraz.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Helpers\ATZXcodePrefsManager.h,6,7.0,7.0
+Alcatraz,XML,D:\clones\Alcatraz\TestProject\TestProject.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Categories\NSColor+Alcatraz.m,4,21.0,6.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Specs\ATZInstallerSpec.m,7,12.0,6.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\TestProject\TestProject\ATZAppDelegate.m,4,8.0,6.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Categories\NSFileManager+Alcatraz.h,5,21.0,5.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Installers\ATZPluginInstaller.h,4,21.0,5.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Views\ATZPreviewImageButton.h,4,25.0,5.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\TestProject\TestProject\main.m,2,7.0,5.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Categories\NSColor+Alcatraz.h,4,21.0,4.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Categories\NSImage+Alcatraz.h,2,21.0,4.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Helpers\ATZPBXProjParser.h,4,21.0,4.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Installers\ATZColorSchemeInstaller.h,4,21.0,4.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Installers\ATZTemplateInstaller.h,3,21.0,4.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Packages\ATZAlcatrazPackage.h,4,22.0,4.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Packages\ATZColorScheme.h,3,21.0,4.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Packages\ATZPackageFactory.h,4,21.0,4.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Packages\ATZPlugin.h,3,21.0,4.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Packages\ATZTemplate.h,4,21.0,4.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\TestProject\TestProject\ATZAppDelegate.h,4,7.0,4.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\ATZSegmentedCell.h,3,20.0,3.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Installers\ATZFileTemplateInstaller.h,3,21.0,3.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Installers\ATZProjectTemplateInstaller.h,3,21.0,3.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Packages\ATZFileTemplate.h,3,21.0,3.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Packages\ATZProjectTemplate.h,3,21.0,3.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Views\ATZFilterBarView.h,3,20.0,3.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Alcatraz\Views\ATZPackageListTableCellView.m,3,20.0,3.0
+Alcatraz,C/C++ Header,D:\clones\Alcatraz\Alcatraz\Views\ATZSegmentedControl.h,2,20.0,3.0
+Alcatraz,Markdown,D:\clones\Alcatraz\.github\ISSUE_TEMPLATE.md,0,0.0,1.0
+Alcatraz,XML,D:\clones\Alcatraz\TestProject\TestProject.xcworkspace\contents.xcworkspacedata,0,0.0,1.0
+Alcatraz,Objective-C,D:\clones\Alcatraz\Specs\ATZPluginInstallerSpec.m,1,23.0,0.0

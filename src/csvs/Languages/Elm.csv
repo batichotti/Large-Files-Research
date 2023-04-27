@@ -1,0 +1,9 @@
+project,language,filename,blank,comment,code
+elm-compiler,Elm,D:\clones\elm-compiler\reactor\src\Errors.elm,56,5.0,146.0
+elm-compiler,Elm,D:\clones\elm-compiler\reactor\src\Index\Navigator.elm,16,1.0,46.0
+elm-compiler,Elm,D:\clones\elm-compiler\reactor\src\NotFound.elm,7,0.0,22.0
+elm-compiler,Elm,D:\clones\elm-compiler\reactor\src\Index\Skeleton.elm,16,1.0,44.0
+elm-compiler,Elm,D:\clones\elm-compiler\reactor\src\Deps.elm,279,23.0,908.0
+elm-compiler,Elm,D:\clones\elm-compiler\reactor\src\Index.elm,77,10.0,193.0
+elm-compiler,Elm,D:\clones\elm-compiler\worker\src\Errors.elm,62,6.0,149.0
+elm-compiler,Elm,D:\clones\elm-compiler\reactor\src\Index\Icon.elm,36,3.0,72.0

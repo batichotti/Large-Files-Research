@@ -1,0 +1,161 @@
+project,language,filename,blank,comment,code
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\DetailViewController.m,101,7.0,840.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\Source\UIScrollView+EmptyDataSet.m,229,61.0,785.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\DataSource\colors.json,0,0.0,667.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\iOSSnapshotTestCase\FBSnapshotTestCase\FBSnapshotTestController.m,52,8.0,344.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\SearchViewController.m,91,9.0,249.0
+DZNEmptyDataSet,XML,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\Storyboard.storyboard,0,7.0,248.0
+DZNEmptyDataSet,Markdown,D:\clones\DZNEmptyDataSet\README.md,69,0.0,238.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\iOSSnapshotTestCase\FBSnapshotTestCase\FBSnapshotTestCase.m,35,8.0,237.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\CollectionViewController.m,76,8.0,215.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\MainViewController.m,78,17.0,199.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\TableViewController.m,66,7.0,176.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\Assets.xcassets\AppIcon.appiconset\Contents.json,0,0.0,153.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\AppIcon.appiconset\Contents.json,0,0.0,152.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\LaunchImage.launchimage\Contents.json,0,0.0,149.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\Colors\System.xcassets\LaunchImage.launchimage\Contents.json,0,0.0,146.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\applications.json,0,0.0,137.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\Colors\System.xcassets\AppIcon.appiconset\Contents.json,0,0.0,128.0
+DZNEmptyDataSet,Bourne Shell,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\Target Support Files\Pods-EmptyDataSetTests\Pods-EmptyDataSetTests-frameworks.sh,25,23.0,123.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\iOSSnapshotTestCase\FBSnapshotTestCase\Categories\UIImage+Compare.m,23,35.0,121.0
+DZNEmptyDataSet,XML,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Supporting Files\Storyboard.storyboard,0,2.0,100.0
+DZNEmptyDataSet,XML,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\DZNEmptyDataSet.xcodeproj\xcshareddata\xcschemes\DZNEmptyDataSet.xcscheme,0,0.0,95.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\iOSSnapshotTestCase\FBSnapshotTestCase\FBSnapshotTestCase.h,49,175.0,89.0
+DZNEmptyDataSet,XML,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\DZNEmptyDataSet.xcodeproj\xcshareddata\xcschemes\DZNEmptyDataSetTests.xcscheme,0,0.0,86.0
+DZNEmptyDataSet,Markdown,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\iOSSnapshotTestCase\README.md,35,0.0,73.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Application.m,13,7.0,67.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\iOSSnapshotTestCase\FBSnapshotTestCase\FBSnapshotTestController.h,30,122.0,62.0
+DZNEmptyDataSet,XML,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\Target Support Files\Pods-EmptyDataSetTests\Pods-EmptyDataSetTests-acknowledgements.plist,4,0.0,57.0
+DZNEmptyDataSet,Swift,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\iOSSnapshotTestCase\FBSnapshotTestCase\SwiftSupport.swift,10,8.0,53.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\iOSSnapshotTestCase\FBSnapshotTestCase\Categories\UIImage+Snapshot.m,15,9.0,48.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\DZNEmptyDataSetTests\ApplicationsSnapshotTests.m,17,10.0,47.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\Source\UIScrollView+EmptyDataSet.h,69,168.0,46.0
+DZNEmptyDataSet,XML,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Supporting Files\Info.plist,0,0.0,45.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\DataSource\Palette.m,13,8.0,45.0
+DZNEmptyDataSet,XML,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\Colors\Colors-Info.plist,0,0.0,44.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\iOSSnapshotTestCase\FBSnapshotTestCase\FBSnapshotTestCasePlatform.m,9,8.0,44.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Application.h,9,7.0,42.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\DataSource\Color.m,13,11.0,39.0
+DZNEmptyDataSet,XML,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\Info.plist,0,0.0,38.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\LaunchImage-3.launchimage\Contents.json,0,0.0,36.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\DataSource\UIColor+Hex.m,13,7.0,36.0
+DZNEmptyDataSet,XML,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\DZNEmptyDataSet.xcworkspace\contents.xcworkspacedata,0,0.0,29.0
+DZNEmptyDataSet,XML,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\Base.lproj\LaunchScreen.storyboard,0,1.0,26.0
+DZNEmptyDataSet,XML,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\Target Support Files\Pods-EmptyDataSetTests\Pods-EmptyDataSetTests-Info.plist,0,0.0,26.0
+DZNEmptyDataSet,XML,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\Target Support Files\iOSSnapshotTestCase\iOSSnapshotTestCase-Info.plist,0,0.0,26.0
+DZNEmptyDataSet,XML,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\DZNEmptyDataSet\Info.plist,0,0.0,24.0
+DZNEmptyDataSet,XML,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\DZNEmptyDataSetTests\Info.plist,0,0.0,24.0
+DZNEmptyDataSet,Swift,D:\clones\DZNEmptyDataSet\Package.swift,2,7.0,24.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\iOSSnapshotTestCase\FBSnapshotTestCase\Categories\UIImage+Diff.m,4,29.0,23.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\button_background_foursquare_highlight.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\button_background_foursquare_normal.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\button_background_icloud_highlight.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\button_background_icloud_normal.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\button_background_kickstarter_highlight.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\button_background_kickstarter_normal.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\header_pinterest.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\header_podcasts.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_500px.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_airbnb.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_appstore.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_camera.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_dropbox.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_facebook.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_fancy.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_foursquare.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_icloud.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_instagram.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_itunes_connect.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_kickstarter.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_path.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_photos.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_pinterest.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_podcasts.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_remote.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_safari.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_skype.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_slack.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_tumblr.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_twitter.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_vesper.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_videos.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_vine.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_whatsapp.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\icon_wwdc.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\loading_imgBlue_78x78.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\logo_500px.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\logo_airbnb.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\logo_dropbox.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\logo_facebook.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\logo_fancy.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\logo_foursquare.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\logo_instagram.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\logo_kickstarter.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\logo_path.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\logo_pinterest.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\logo_skype.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\logo_slack.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\logo_tumblr.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\logo_twitter.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\logo_vesper.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\logo_vine.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\placeholder_500px.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\placeholder_airbnb.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\placeholder_appstore.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\placeholder_dropbox.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\placeholder_facebook.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\placeholder_fancy.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\placeholder_foursquare.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\placeholder_instagram.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\placeholder_itunes_connect.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\placeholder_kickstarter.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\placeholder_path.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\placeholder_remote.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\placeholder_skype.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\placeholder_slack.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\placeholder_tumblr.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\placeholder_vesper.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\placeholder_videos.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\placeholder_vine.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\placeholder_whatsapp.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\UIColor+Hexadecimal.m,7,7.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\Images.xcassets\empty_placeholder.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\Images.xcassets\search_icon.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\Images.xcassets\tab_collection.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\Images.xcassets\tab_search.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\Images.xcassets\tab_table.imageset\Contents.json,0,0.0,22.0
+DZNEmptyDataSet,Markdown,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\Target Support Files\Pods-EmptyDataSetTests\Pods-EmptyDataSetTests-acknowledgements.markdown,7,0.0,22.0
+DZNEmptyDataSet,YAML,D:\clones\DZNEmptyDataSet\.travis.yml,7,1.0,20.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\iOSSnapshotTestCase\FBSnapshotTestCase\FBSnapshotTestCasePlatform.h,13,33.0,19.0
+DZNEmptyDataSet,YAML,D:\clones\DZNEmptyDataSet\.codecov.yml,3,0.0,16.0
+DZNEmptyDataSet,Ruby,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet.podspec,1,0.0,16.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\Target Support Files\iOSSnapshotTestCase\iOSSnapshotTestCase-umbrella.h,3,0.0,16.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\Target Support Files\Pods-DZNEmptyDataSetTests\Pods-DZNEmptyDataSetTests-umbrella.h,3,0.0,13.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\Target Support Files\Pods-EmptyDataSetTests\Pods-EmptyDataSetTests-umbrella.h,3,0.0,13.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\SearchViewController.h,6,7.0,11.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\DataSource\Color.h,7,7.0,10.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\AppDelegate.m,5,7.0,9.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\DataSource\Palette.h,7,7.0,9.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\AppDelegate.m,5,7.0,8.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\Colors\main.m,3,7.0,8.0
+DZNEmptyDataSet,XML,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\DZNEmptyDataSet.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist,0,0.0,8.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\iOSSnapshotTestCase\FBSnapshotTestCase\Categories\UIImage+Snapshot.h,8,11.0,8.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\DetailViewController.h,5,7.0,7.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Supporting Files\main.m,2,7.0,7.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\main.m,2,7.0,7.0
+DZNEmptyDataSet,XML,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\DZNEmptyDataSet.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+DZNEmptyDataSet,JSON,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\Assets.xcassets\Contents.json,0,0.0,6.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\iOSSnapshotTestCase\FBSnapshotTestCase\Categories\UIImage+Compare.h,7,36.0,6.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\iOSSnapshotTestCase\FBSnapshotTestCase\Categories\UIImage+Diff.h,6,29.0,6.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\MainViewController.h,3,7.0,5.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\CollectionViewController.h,4,7.0,5.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\TableViewController.h,4,7.0,5.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\Target Support Files\Pods-DZNEmptyDataSetTests\Pods-DZNEmptyDataSetTests-dummy.m,0,0.0,5.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\Target Support Files\Pods-EmptyDataSetTests\Pods-EmptyDataSetTests-dummy.m,0,0.0,5.0
+DZNEmptyDataSet,Objective-C,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Pods\Target Support Files\iOSSnapshotTestCase\iOSSnapshotTestCase-dummy.m,0,0.0,5.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\AppDelegate.h,4,7.0,4.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Applications\UIColor+Hexadecimal.h,4,7.0,4.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\AppDelegate.h,4,7.0,4.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\Colors\DataSource\UIColor+Hex.h,4,7.0,4.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\DZNEmptyDataSet\DZNEmptyDataSet.h,4,9.0,4.0
+DZNEmptyDataSet,C/C++ Header,D:\clones\DZNEmptyDataSet\DZNEmptyDataSet\EmptyDataSetTests\DZNEmptyDataSetTests-Bridging-Header.h,1,4.0,0.0

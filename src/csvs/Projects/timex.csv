@@ -1,0 +1,366 @@
+project,language,filename,blank,comment,code
+timex,Elixir,D:\clones\timex\lib\timex.ex,406,769.0,796.0
+timex,Elixir,D:\clones\timex\test\timex_test.exs,184,29.0,713.0
+timex,Elixir,D:\clones\timex\lib\format\datetime\formatter.ex,153,72.0,670.0
+timex,Elixir,D:\clones\timex\lib\timezone\timezone.ex,123,66.0,555.0
+timex,Elixir,D:\clones\timex\lib\parse\datetime\parsers.ex,86,89.0,549.0
+timex,Elixir,D:\clones\timex\lib\datetime\datetime.ex,121,32.0,521.0
+timex,Elixir,D:\clones\timex\lib\parse\zoneinfo\parser.ex,124,106.0,476.0
+timex,Elixir,D:\clones\timex\priv\olson_to_win.exs,0,0.0,435.0
+timex,Elixir,D:\clones\timex\lib\datetime\erlang.ex,120,0.0,407.0
+timex,Elixir,D:\clones\timex\test\format_strftime_test.exs,69,1.0,401.0
+timex,Elixir,D:\clones\timex\test\format_default_test.exs,116,4.0,392.0
+timex,Markdown,D:\clones\timex\CHANGELOG.md,142,0.0,389.0
+timex,Elixir,D:\clones\timex\lib\parse\datetime\parser.ex,107,57.0,377.0
+timex,Elixir,D:\clones\timex\test\parse_default_test.exs,96,23.0,360.0
+timex,Elixir,D:\clones\timex\test\interval_test.exs,84,0.0,350.0
+timex,Elixir,D:\clones\timex\lib\time\duration.ex,150,293.0,302.0
+timex,Elixir,D:\clones\timex\lib\l10n\translator.ex,37,64.0,289.0
+timex,Elixir,D:\clones\timex\lib\format\datetime\formatters\relative.ex,52,30.0,285.0
+timex,Elixir,D:\clones\timex\lib\parse\posix\parser.ex,90,47.0,268.0
+timex,Elixir,D:\clones\timex\lib\parse\datetime\tokenizers\strftime.ex,61,25.0,233.0
+timex,Elixir,D:\clones\timex\lib\interval\interval.ex,122,208.0,230.0
+timex,Elixir,D:\clones\timex\lib\parse\datetime\parsers\iso8601_extended.ex,50,8.0,209.0
+timex,Elixir,D:\clones\timex\test\conversion_test.exs,60,4.0,202.0
+timex,Elixir,D:\clones\timex\lib\datetime\naivedatetime.ex,48,3.0,201.0
+timex,Elixir,D:\clones\timex\lib\parse\datetime\tokenizers\default.ex,18,24.0,200.0
+timex,Elixir,D:\clones\timex\lib\timezone\local.ex,44,64.0,199.0
+timex,Elixir,D:\clones\timex\test\shift_test.exs,37,0.0,195.0
+timex,Markdown,D:\clones\timex\CONTRIBUTING.md,57,0.0,182.0
+timex,Elixir,D:\clones\timex\lib\date\date.ex,60,3.0,171.0
+timex,PO File,D:\clones\timex\priv\translations\cs\LC_MESSAGES\relative_time.po,48,56.0,154.0
+timex,PO File,D:\clones\timex\priv\translations\bs_cyrillic\LC_MESSAGES\relative_time.po,48,57.0,151.0
+timex,PO File,D:\clones\timex\priv\translations\bs_latin\LC_MESSAGES\relative_time.po,48,57.0,151.0
+timex,PO File,D:\clones\timex\priv\translations\pl\LC_MESSAGES\relative_time.po,48,56.0,151.0
+timex,PO File,D:\clones\timex\priv\translations\ro\LC_MESSAGES\relative_time.po,48,56.0,151.0
+timex,PO File,D:\clones\timex\priv\translations\ru\LC_MESSAGES\relative_time.po,48,56.0,151.0
+timex,PO File,D:\clones\timex\priv\translations\sr_Latn\LC_MESSAGES\relative_time.po,48,57.0,151.0
+timex,PO File,D:\clones\timex\priv\translations\uk\LC_MESSAGES\relative_time.po,48,56.0,151.0
+timex,Elixir,D:\clones\timex\lib\timex\macros.ex,39,108.0,150.0
+timex,Elixir,D:\clones\timex\test\timezone_test.exs,38,13.0,147.0
+timex,Elixir,D:\clones\timex\lib\protocol.ex,70,102.0,146.0
+timex,Markdown,D:\clones\timex\docs\Custom Parsers.md,35,0.0,140.0
+timex,Markdown,D:\clones\timex\docs\Using with Ecto.md,42,0.0,137.0
+timex,Elixir,D:\clones\timex\lib\timex\datetime.ex,20,0.0,137.0
+timex,PO File,D:\clones\timex\priv\translations\af\LC_MESSAGES\relative_time.po,48,56.0,137.0
+timex,PO File,D:\clones\timex\priv\translations\da\LC_MESSAGES\relative_time.po,48,56.0,137.0
+timex,PO File,D:\clones\timex\priv\translations\de\LC_MESSAGES\relative_time.po,48,56.0,137.0
+timex,PO File,D:\clones\timex\priv\translations\en\LC_MESSAGES\relative_time.po,48,56.0,137.0
+timex,PO File,D:\clones\timex\priv\translations\et\LC_MESSAGES\relative_time.po,48,56.0,137.0
+timex,PO File,D:\clones\timex\priv\translations\hu\LC_MESSAGES\relative_time.po,48,57.0,137.0
+timex,PO File,D:\clones\timex\priv\translations\id\LC_MESSAGES\relative_time.po,48,56.0,137.0
+timex,PO File,D:\clones\timex\priv\translations\it\LC_MESSAGES\relative_time.po,48,56.0,137.0
+timex,PO File,D:\clones\timex\priv\translations\pt\LC_MESSAGES\relative_time.po,48,56.0,137.0
+timex,PO File,D:\clones\timex\priv\translations\pt_BR\LC_MESSAGES\relative_time.po,48,56.0,137.0
+timex,PO File,D:\clones\timex\priv\translations\tr\LC_MESSAGES\relative_time.po,48,56.0,137.0
+timex,PO File,D:\clones\timex\priv\translations\zh_CN\LC_MESSAGES\relative_time.po,48,56.0,137.0
+timex,Elixir,D:\clones\timex\lib\parse\datetime\helpers.ex,35,0.0,136.0
+timex,Elixir,D:\clones\timex\lib\parse\datetime\tokenizers\directive.ex,11,10.0,134.0
+timex,Elixir,D:\clones\timex\lib\timezone\posix_timezone.ex,28,24.0,132.0
+timex,Elixir,D:\clones\timex\test\duration_test.exs,25,1.0,130.0
+timex,PO File,D:\clones\timex\priv\translations\bg\LC_MESSAGES\relative_time.po,48,56.0,128.0
+timex,PO File,D:\clones\timex\priv\translations\he\LC_MESSAGES\relative_time.po,48,56.0,128.0
+timex,PO File,D:\clones\timex\priv\translations\es\LC_MESSAGES\relative_time.po,48,57.0,127.0
+timex,PO File,D:\clones\timex\priv\translations\fi\LC_MESSAGES\relative_time.po,48,57.0,127.0
+timex,PO File,D:\clones\timex\priv\translations\fr\LC_MESSAGES\relative_time.po,48,57.0,127.0
+timex,PO File,D:\clones\timex\priv\translations\nb_NO\LC_MESSAGES\relative_time.po,48,56.0,127.0
+timex,PO File,D:\clones\timex\priv\translations\nl\LC_MESSAGES\relative_time.po,48,56.0,127.0
+timex,PO File,D:\clones\timex\priv\translations\sv\LC_MESSAGES\relative_time.po,48,55.0,127.0
+timex,PO File,D:\clones\timex\priv\translations\vi\LC_MESSAGES\relative_time.po,48,57.0,127.0
+timex,Elixir,D:\clones\timex\lib\convert\convert.ex,26,4.0,125.0
+timex,PO File,D:\clones\timex\priv\translations\ja\LC_MESSAGES\relative_time.po,48,56.0,123.0
+timex,PO File,D:\clones\timex\priv\translations\ko\LC_MESSAGES\relative_time.po,48,56.0,123.0
+timex,Elixir,D:\clones\timex\lib\datetime\helpers.ex,25,10.0,113.0
+timex,Elixir,D:\clones\timex\lib\comparable\diff.ex,25,1.0,111.0
+timex,Elixir,D:\clones\timex\lib\parse\duration\parsers\iso8601.ex,40,22.0,107.0
+timex,Markdown,D:\clones\timex\docs\Parsing.md,36,0.0,106.0
+timex,Elixir,D:\clones\timex\test\set_test.exs,22,0.0,106.0
+timex,Elixir,D:\clones\timex\priv\standard_to_olson.exs,0,0.0,102.0
+timex,Elixir,D:\clones\timex\lib\timezone\timezone_info.ex,29,35.0,99.0
+timex,Markdown,D:\clones\timex\README.md,48,0.0,98.0
+timex,Elixir,D:\clones\timex\lib\timex\date.ex,27,0.0,98.0
+timex,Elixir,D:\clones\timex\mix.exs,8,1.0,84.0
+timex,Elixir,D:\clones\timex\lib\calendar\julian.ex,27,38.0,83.0
+timex,Elixir,D:\clones\timex\lib\timex\constants.ex,4,1.0,81.0
+timex,Elixir,D:\clones\timex\examples\tokenizer\humanized.exs,14,27.0,80.0
+timex,Elixir,D:\clones\timex\lib\timex\naivedatetime.ex,10,0.0,77.0
+timex,Elixir,D:\clones\timex\lib\timezone\database.ex,18,5.0,77.0
+timex,Elixir,D:\clones\timex\lib\format\duration\formatters\default.ex,32,40.0,75.0
+timex,Markdown,D:\clones\timex\docs\Custom Formatters.md,20,0.0,73.0
+timex,Elixir,D:\clones\timex\lib\format\duration\formatters\humanized.ex,34,35.0,73.0
+timex,Elixir,D:\clones\timex\test\parse_posix_timezone_test.exs,19,0.0,72.0
+timex,Elixir,D:\clones\timex\test\parser_test.exs,10,0.0,69.0
+timex,Elixir,D:\clones\timex\test\helpers_test.exs,19,0.0,67.0
+timex,PO File,D:\clones\timex\priv\translations\cs\LC_MESSAGES\units.po,10,18.0,66.0
+timex,PO File,D:\clones\timex\priv\translations\bs_cyrillic\LC_MESSAGES\units.po,10,19.0,63.0
+timex,PO File,D:\clones\timex\priv\translations\bs_latin\LC_MESSAGES\units.po,10,19.0,63.0
+timex,PO File,D:\clones\timex\priv\translations\pl\LC_MESSAGES\units.po,10,18.0,63.0
+timex,PO File,D:\clones\timex\priv\translations\ro\LC_MESSAGES\units.po,10,18.0,63.0
+timex,PO File,D:\clones\timex\priv\translations\ru\LC_MESSAGES\units.po,10,18.0,63.0
+timex,PO File,D:\clones\timex\priv\translations\sr_Latn\LC_MESSAGES\units.po,10,19.0,63.0
+timex,PO File,D:\clones\timex\priv\translations\uk\LC_MESSAGES\units.po,10,18.0,63.0
+timex,Elixir,D:\clones\timex\lib\timex\types.ex,0,4.0,62.0
+timex,Markdown,D:\clones\timex\docs\Basic Usage.md,22,0.0,60.0
+timex,Elixir,D:\clones\timex\lib\format\datetime\formatters\default.ex,65,110.0,59.0
+timex,Elixir,D:\clones\timex\test\parse_strftime_test.exs,12,0.0,56.0
+timex,Elixir,D:\clones\timex\test\comparable_test.exs,10,0.0,54.0
+timex,PO File,D:\clones\timex\priv\translations\af\LC_MESSAGES\units.po,10,18.0,53.0
+timex,PO File,D:\clones\timex\priv\translations\da\LC_MESSAGES\units.po,10,18.0,53.0
+timex,PO File,D:\clones\timex\priv\translations\de\LC_MESSAGES\units.po,10,18.0,53.0
+timex,PO File,D:\clones\timex\priv\translations\en\LC_MESSAGES\units.po,10,18.0,53.0
+timex,PO File,D:\clones\timex\priv\translations\et\LC_MESSAGES\units.po,10,18.0,53.0
+timex,PO File,D:\clones\timex\priv\translations\hu\LC_MESSAGES\units.po,10,19.0,53.0
+timex,PO File,D:\clones\timex\priv\translations\it\LC_MESSAGES\units.po,10,18.0,53.0
+timex,PO File,D:\clones\timex\priv\translations\pt\LC_MESSAGES\units.po,10,18.0,53.0
+timex,PO File,D:\clones\timex\priv\translations\pt_BR\LC_MESSAGES\units.po,10,18.0,53.0
+timex,PO File,D:\clones\timex\priv\translations\tr\LC_MESSAGES\units.po,10,18.0,53.0
+timex,Elixir,D:\clones\timex\lib\datetime\map.ex,3,8.0,49.0
+timex,Elixir,D:\clones\timex\lib\time\time.ex,12,15.0,49.0
+timex,Elixir,D:\clones\timex\lib\timex\helpers.ex,23,26.0,49.0
+timex,Elixir,D:\clones\timex\examples\formatter\humanized.exs,9,8.0,48.0
+timex,Elixir,D:\clones\timex\bench\dateformat_bench.exs,9,0.0,46.0
+timex,Elixir,D:\clones\timex\test\zoneinfo_parser_test.exs,10,4.0,46.0
+timex,Markdown,D:\clones\timex\docs\Getting Started.md,10,0.0,45.0
+timex,Elixir,D:\clones\timex\test\format_test.exs,10,0.0,45.0
+timex,Elixir,D:\clones\timex\lib\timezone\inspect.ex,10,0.0,44.0
+timex,PO File,D:\clones\timex\priv\translations\bg\LC_MESSAGES\units.po,10,18.0,44.0
+timex,PO File,D:\clones\timex\priv\translations\he\LC_MESSAGES\units.po,10,18.0,44.0
+timex,Elixir,D:\clones\timex\test\helpers\property_helpers.ex,4,3.0,44.0
+timex,PO File,D:\clones\timex\priv\translations\es\LC_MESSAGES\units.po,10,19.0,43.0
+timex,PO File,D:\clones\timex\priv\translations\fi\LC_MESSAGES\units.po,10,19.0,43.0
+timex,PO File,D:\clones\timex\priv\translations\fr\LC_MESSAGES\units.po,10,19.0,43.0
+timex,PO File,D:\clones\timex\priv\translations\id\LC_MESSAGES\units.po,10,18.0,43.0
+timex,PO File,D:\clones\timex\priv\translations\ja\LC_MESSAGES\units.po,10,18.0,43.0
+timex,PO File,D:\clones\timex\priv\translations\ko\LC_MESSAGES\units.po,10,18.0,43.0
+timex,PO File,D:\clones\timex\priv\translations\nb_NO\LC_MESSAGES\units.po,10,18.0,43.0
+timex,PO File,D:\clones\timex\priv\translations\nl\LC_MESSAGES\units.po,10,18.0,43.0
+timex,PO File,D:\clones\timex\priv\translations\sv\LC_MESSAGES\units.po,10,17.0,43.0
+timex,PO File,D:\clones\timex\priv\translations\vi\LC_MESSAGES\units.po,10,19.0,43.0
+timex,PO File,D:\clones\timex\priv\translations\zh_CN\LC_MESSAGES\units.po,10,18.0,43.0
+timex,PO File,D:\clones\timex\priv\translations\bs_cyrillic\LC_MESSAGES\weekdays.po,14,23.0,41.0
+timex,PO File,D:\clones\timex\priv\translations\bs_latin\LC_MESSAGES\weekdays.po,14,23.0,41.0
+timex,PO File,D:\clones\timex\priv\translations\cs\LC_MESSAGES\weekdays.po,14,22.0,41.0
+timex,PO File,D:\clones\timex\priv\translations\hu\LC_MESSAGES\weekdays.po,14,23.0,41.0
+timex,PO File,D:\clones\timex\priv\translations\sr_Latn\LC_MESSAGES\weekdays.po,14,23.0,41.0
+timex,PO File,D:\clones\timex\priv\translations\tr\LC_MESSAGES\weekdays.po,14,22.0,41.0
+timex,PO File,D:\clones\timex\priv\translations\af\LC_MESSAGES\weekdays.po,14,22.0,40.0
+timex,PO File,D:\clones\timex\priv\translations\da\LC_MESSAGES\weekdays.po,14,22.0,40.0
+timex,PO File,D:\clones\timex\priv\translations\de\LC_MESSAGES\weekdays.po,14,22.0,40.0
+timex,PO File,D:\clones\timex\priv\translations\en\LC_MESSAGES\weekdays.po,14,22.0,40.0
+timex,PO File,D:\clones\timex\priv\translations\et\LC_MESSAGES\weekdays.po,14,22.0,40.0
+timex,PO File,D:\clones\timex\priv\translations\id\LC_MESSAGES\weekdays.po,14,22.0,40.0
+timex,PO File,D:\clones\timex\priv\translations\it\LC_MESSAGES\weekdays.po,14,22.0,40.0
+timex,PO File,D:\clones\timex\priv\translations\ja\LC_MESSAGES\weekdays.po,14,22.0,40.0
+timex,PO File,D:\clones\timex\priv\translations\ko\LC_MESSAGES\weekdays.po,14,22.0,40.0
+timex,PO File,D:\clones\timex\priv\translations\pl\LC_MESSAGES\weekdays.po,14,22.0,40.0
+timex,PO File,D:\clones\timex\priv\translations\pt\LC_MESSAGES\weekdays.po,14,22.0,40.0
+timex,PO File,D:\clones\timex\priv\translations\pt_BR\LC_MESSAGES\weekdays.po,14,22.0,40.0
+timex,PO File,D:\clones\timex\priv\translations\ro\LC_MESSAGES\weekdays.po,14,22.0,40.0
+timex,PO File,D:\clones\timex\priv\translations\ru\LC_MESSAGES\weekdays.po,14,22.0,40.0
+timex,PO File,D:\clones\timex\priv\translations\uk\LC_MESSAGES\weekdays.po,14,22.0,40.0
+timex,PO File,D:\clones\timex\priv\translations\zh_CN\LC_MESSAGES\weekdays.po,14,22.0,40.0
+timex,PO File,D:\clones\timex\priv\translations\bs_cyrillic\LC_MESSAGES\months.po,12,21.0,37.0
+timex,PO File,D:\clones\timex\priv\translations\bs_cyrillic\LC_MESSAGES\months_abbr.po,12,21.0,37.0
+timex,PO File,D:\clones\timex\priv\translations\bs_latin\LC_MESSAGES\months.po,12,21.0,37.0
+timex,PO File,D:\clones\timex\priv\translations\bs_latin\LC_MESSAGES\months_abbr.po,12,21.0,37.0
+timex,PO File,D:\clones\timex\priv\translations\cs\LC_MESSAGES\months.po,12,20.0,37.0
+timex,PO File,D:\clones\timex\priv\translations\cs\LC_MESSAGES\months_abbr.po,12,20.0,37.0
+timex,PO File,D:\clones\timex\priv\translations\hu\LC_MESSAGES\months.po,12,21.0,37.0
+timex,PO File,D:\clones\timex\priv\translations\hu\LC_MESSAGES\months_abbr.po,12,21.0,37.0
+timex,PO File,D:\clones\timex\priv\translations\ja\LC_MESSAGES\months.po,12,21.0,37.0
+timex,PO File,D:\clones\timex\priv\translations\ko\LC_MESSAGES\months.po,12,21.0,37.0
+timex,PO File,D:\clones\timex\priv\translations\ro\LC_MESSAGES\months_abbr.po,12,20.0,37.0
+timex,PO File,D:\clones\timex\priv\translations\sr_Latn\LC_MESSAGES\months.po,12,21.0,37.0
+timex,PO File,D:\clones\timex\priv\translations\sr_Latn\LC_MESSAGES\months_abbr.po,12,21.0,37.0
+timex,PO File,D:\clones\timex\priv\translations\tr\LC_MESSAGES\months.po,12,20.0,37.0
+timex,PO File,D:\clones\timex\priv\translations\tr\LC_MESSAGES\months_abbr.po,12,20.0,37.0
+timex,PO File,D:\clones\timex\priv\translations\zh_CN\LC_MESSAGES\months.po,12,21.0,37.0
+timex,Markdown,D:\clones\timex\docs\Erlang Interop.md,13,0.0,36.0
+timex,Markdown,D:\clones\timex\docs\Formatting.md,11,0.0,36.0
+timex,Elixir,D:\clones\timex\lib\parse\duration\parser.ex,6,21.0,36.0
+timex,PO File,D:\clones\timex\priv\translations\af\LC_MESSAGES\months.po,12,20.0,36.0
+timex,PO File,D:\clones\timex\priv\translations\da\LC_MESSAGES\months.po,12,20.0,36.0
+timex,PO File,D:\clones\timex\priv\translations\da\LC_MESSAGES\months_abbr.po,12,20.0,36.0
+timex,PO File,D:\clones\timex\priv\translations\de\LC_MESSAGES\months.po,12,20.0,36.0
+timex,PO File,D:\clones\timex\priv\translations\en\LC_MESSAGES\months.po,12,20.0,36.0
+timex,PO File,D:\clones\timex\priv\translations\et\LC_MESSAGES\months.po,12,20.0,36.0
+timex,PO File,D:\clones\timex\priv\translations\id\LC_MESSAGES\months.po,12,20.0,36.0
+timex,PO File,D:\clones\timex\priv\translations\it\LC_MESSAGES\months.po,12,20.0,36.0
+timex,PO File,D:\clones\timex\priv\translations\pl\LC_MESSAGES\months.po,12,20.0,36.0
+timex,PO File,D:\clones\timex\priv\translations\pl\LC_MESSAGES\months_abbr.po,12,20.0,36.0
+timex,PO File,D:\clones\timex\priv\translations\pt\LC_MESSAGES\months.po,12,20.0,36.0
+timex,PO File,D:\clones\timex\priv\translations\pt_BR\LC_MESSAGES\months.po,12,20.0,36.0
+timex,PO File,D:\clones\timex\priv\translations\ro\LC_MESSAGES\months.po,12,20.0,36.0
+timex,PO File,D:\clones\timex\priv\translations\ru\LC_MESSAGES\months.po,12,20.0,36.0
+timex,PO File,D:\clones\timex\priv\translations\uk\LC_MESSAGES\months.po,12,20.0,36.0
+timex,Elixir,D:\clones\timex\lib\comparable\comparable.ex,16,90.0,34.0
+timex,PO File,D:\clones\timex\priv\translations\bg\LC_MESSAGES\weekdays.po,14,22.0,32.0
+timex,PO File,D:\clones\timex\priv\translations\he\LC_MESSAGES\weekdays.po,14,22.0,32.0
+timex,PO File,D:\clones\timex\priv\translations\es\LC_MESSAGES\weekdays.po,14,23.0,31.0
+timex,PO File,D:\clones\timex\priv\translations\fi\LC_MESSAGES\weekdays.po,14,23.0,31.0
+timex,PO File,D:\clones\timex\priv\translations\fr\LC_MESSAGES\weekdays.po,14,23.0,31.0
+timex,PO File,D:\clones\timex\priv\translations\nb_NO\LC_MESSAGES\weekdays.po,14,22.0,31.0
+timex,PO File,D:\clones\timex\priv\translations\nl\LC_MESSAGES\weekdays.po,14,22.0,31.0
+timex,PO File,D:\clones\timex\priv\translations\sv\LC_MESSAGES\weekdays.po,14,21.0,31.0
+timex,PO File,D:\clones\timex\priv\translations\vi\LC_MESSAGES\weekdays.po,14,23.0,31.0
+timex,Elixir,D:\clones\timex\lib\format\duration\formatter.ex,11,27.0,30.0
+timex,Elixir,D:\clones\timex\test\calendar_test.exs,6,2.0,30.0
+timex,Elixir,D:\clones\timex\test\diff_test.exs,5,0.0,30.0
+timex,PO File,D:\clones\timex\priv\translations\bg\LC_MESSAGES\months.po,12,20.0,28.0
+timex,PO File,D:\clones\timex\priv\translations\bg\LC_MESSAGES\months_abbr.po,12,20.0,28.0
+timex,PO File,D:\clones\timex\priv\translations\he\LC_MESSAGES\months.po,12,20.0,28.0
+timex,PO File,D:\clones\timex\priv\translations\he\LC_MESSAGES\months_abbr.po,12,20.0,28.0
+timex,PO File,D:\clones\timex\priv\translations\af\LC_MESSAGES\months_abbr.po,12,20.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\bs_cyrillic\LC_MESSAGES\symbols.po,7,16.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\bs_latin\LC_MESSAGES\symbols.po,7,16.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\cs\LC_MESSAGES\symbols.po,7,15.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\de\LC_MESSAGES\months_abbr.po,12,20.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\en\LC_MESSAGES\months_abbr.po,12,20.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\es\LC_MESSAGES\months.po,12,21.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\es\LC_MESSAGES\months_abbr.po,12,21.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\et\LC_MESSAGES\months_abbr.po,12,20.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\fi\LC_MESSAGES\months.po,12,21.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\fi\LC_MESSAGES\months_abbr.po,12,21.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\fr\LC_MESSAGES\months.po,12,21.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\fr\LC_MESSAGES\months_abbr.po,12,21.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\hu\LC_MESSAGES\symbols.po,7,16.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\id\LC_MESSAGES\months_abbr.po,12,20.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\it\LC_MESSAGES\months_abbr.po,12,20.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\ja\LC_MESSAGES\months_abbr.po,12,20.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\ko\LC_MESSAGES\months_abbr.po,12,20.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\nb_NO\LC_MESSAGES\months.po,12,20.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\nb_NO\LC_MESSAGES\months_abbr.po,12,20.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\nl\LC_MESSAGES\months.po,12,20.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\nl\LC_MESSAGES\months_abbr.po,12,20.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\pt\LC_MESSAGES\months_abbr.po,12,20.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\pt_BR\LC_MESSAGES\months_abbr.po,12,20.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\ru\LC_MESSAGES\months_abbr.po,12,20.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\sr_Latn\LC_MESSAGES\symbols.po,7,16.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\sv\LC_MESSAGES\months.po,12,20.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\sv\LC_MESSAGES\months_abbr.po,12,19.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\tr\LC_MESSAGES\symbols.po,7,15.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\uk\LC_MESSAGES\months_abbr.po,12,20.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\vi\LC_MESSAGES\months.po,12,21.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\vi\LC_MESSAGES\months_abbr.po,12,21.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\zh_CN\LC_MESSAGES\months_abbr.po,12,20.0,27.0
+timex,PO File,D:\clones\timex\priv\translations\af\LC_MESSAGES\symbols.po,7,15.0,26.0
+timex,PO File,D:\clones\timex\priv\translations\da\LC_MESSAGES\symbols.po,7,15.0,26.0
+timex,PO File,D:\clones\timex\priv\translations\de\LC_MESSAGES\symbols.po,7,15.0,26.0
+timex,PO File,D:\clones\timex\priv\translations\en\LC_MESSAGES\symbols.po,7,15.0,26.0
+timex,PO File,D:\clones\timex\priv\translations\et\LC_MESSAGES\symbols.po,7,15.0,26.0
+timex,PO File,D:\clones\timex\priv\translations\id\LC_MESSAGES\symbols.po,7,15.0,26.0
+timex,PO File,D:\clones\timex\priv\translations\it\LC_MESSAGES\symbols.po,7,15.0,26.0
+timex,PO File,D:\clones\timex\priv\translations\pl\LC_MESSAGES\symbols.po,7,15.0,26.0
+timex,PO File,D:\clones\timex\priv\translations\pt\LC_MESSAGES\symbols.po,7,15.0,26.0
+timex,PO File,D:\clones\timex\priv\translations\pt_BR\LC_MESSAGES\symbols.po,7,15.0,26.0
+timex,PO File,D:\clones\timex\priv\translations\ro\LC_MESSAGES\symbols.po,7,15.0,26.0
+timex,PO File,D:\clones\timex\priv\translations\ru\LC_MESSAGES\symbols.po,7,15.0,26.0
+timex,PO File,D:\clones\timex\priv\translations\uk\LC_MESSAGES\symbols.po,7,15.0,26.0
+timex,Elixir,D:\clones\timex\lib\format\datetime\formatters\strftime.ex,31,72.0,23.0
+timex,Elixir,D:\clones\timex\lib\comparable\date.ex,5,0.0,22.0
+timex,Elixir,D:\clones\timex\lib\datetime\ambiguous.ex,12,31.0,22.0
+timex,Elixir,D:\clones\timex\lib\timezone\utils.ex,13,12.0,21.0
+timex,PO File,D:\clones\timex\priv\translations\bs_cyrillic\LC_MESSAGES\day_periods.po,4,13.0,21.0
+timex,PO File,D:\clones\timex\priv\translations\bs_latin\LC_MESSAGES\day_periods.po,4,13.0,21.0
+timex,PO File,D:\clones\timex\priv\translations\cs\LC_MESSAGES\day_periods.po,4,12.0,21.0
+timex,PO File,D:\clones\timex\priv\translations\hu\LC_MESSAGES\day_periods.po,4,13.0,21.0
+timex,PO File,D:\clones\timex\priv\translations\ja\LC_MESSAGES\day_periods.po,4,13.0,21.0
+timex,PO File,D:\clones\timex\priv\translations\ko\LC_MESSAGES\day_periods.po,4,13.0,21.0
+timex,PO File,D:\clones\timex\priv\translations\sr_Latn\LC_MESSAGES\day_periods.po,4,13.0,21.0
+timex,PO File,D:\clones\timex\priv\translations\tr\LC_MESSAGES\day_periods.po,4,12.0,21.0
+timex,PO File,D:\clones\timex\priv\translations\zh_CN\LC_MESSAGES\day_periods.po,4,13.0,21.0
+timex,PO File,D:\clones\timex\priv\translations\af\LC_MESSAGES\day_periods.po,4,12.0,20.0
+timex,PO File,D:\clones\timex\priv\translations\da\LC_MESSAGES\day_periods.po,4,12.0,20.0
+timex,PO File,D:\clones\timex\priv\translations\de\LC_MESSAGES\day_periods.po,4,12.0,20.0
+timex,PO File,D:\clones\timex\priv\translations\en\LC_MESSAGES\day_periods.po,4,12.0,20.0
+timex,PO File,D:\clones\timex\priv\translations\et\LC_MESSAGES\day_periods.po,4,12.0,20.0
+timex,PO File,D:\clones\timex\priv\translations\id\LC_MESSAGES\day_periods.po,4,12.0,20.0
+timex,PO File,D:\clones\timex\priv\translations\it\LC_MESSAGES\day_periods.po,4,12.0,20.0
+timex,PO File,D:\clones\timex\priv\translations\pt\LC_MESSAGES\day_periods.po,4,12.0,20.0
+timex,PO File,D:\clones\timex\priv\translations\pt_BR\LC_MESSAGES\day_periods.po,4,12.0,20.0
+timex,PO File,D:\clones\timex\priv\translations\ro\LC_MESSAGES\day_periods.po,4,12.0,20.0
+timex,PO File,D:\clones\timex\priv\translations\ru\LC_MESSAGES\day_periods.po,4,12.0,20.0
+timex,PO File,D:\clones\timex\priv\translations\uk\LC_MESSAGES\day_periods.po,4,12.0,20.0
+timex,YAML,D:\clones\timex\.github\workflows\elixir.yml,3,0.0,19.0
+timex,Elixir,D:\clones\timex\test\format_duration_humanized_test.exs,6,0.0,19.0
+timex,Elixir,D:\clones\timex\test\timex\calendar\julian_test.exs,6,2.0,19.0
+timex,Elixir,D:\clones\timex\test\validate_default_test.exs,3,0.0,19.0
+timex,Elixir,D:\clones\timex\lib\comparable\naivedatetime.ex,5,0.0,18.0
+timex,Elixir,D:\clones\timex\lib\comparable\tuple.ex,5,0.0,18.0
+timex,PO File,D:\clones\timex\priv\translations\bg\LC_MESSAGES\symbols.po,7,15.0,18.0
+timex,PO File,D:\clones\timex\priv\translations\he\LC_MESSAGES\symbols.po,7,15.0,18.0
+timex,Markdown,D:\clones\timex\LICENSE.md,4,0.0,17.0
+timex,Elixir,D:\clones\timex\lib\comparable\ambiguous_datetime.ex,5,3.0,17.0
+timex,Elixir,D:\clones\timex\lib\comparable\datetime.ex,5,0.0,17.0
+timex,Elixir,D:\clones\timex\lib\convert\convert_error.ex,4,0.0,17.0
+timex,PO File,D:\clones\timex\priv\translations\es\LC_MESSAGES\symbols.po,7,16.0,17.0
+timex,PO File,D:\clones\timex\priv\translations\fi\LC_MESSAGES\symbols.po,7,16.0,17.0
+timex,PO File,D:\clones\timex\priv\translations\fr\LC_MESSAGES\symbols.po,7,16.0,17.0
+timex,PO File,D:\clones\timex\priv\translations\ja\LC_MESSAGES\symbols.po,7,15.0,17.0
+timex,PO File,D:\clones\timex\priv\translations\ko\LC_MESSAGES\symbols.po,7,15.0,17.0
+timex,PO File,D:\clones\timex\priv\translations\nb_NO\LC_MESSAGES\symbols.po,7,15.0,17.0
+timex,PO File,D:\clones\timex\priv\translations\nl\LC_MESSAGES\symbols.po,7,15.0,17.0
+timex,PO File,D:\clones\timex\priv\translations\sv\LC_MESSAGES\symbols.po,7,14.0,17.0
+timex,PO File,D:\clones\timex\priv\translations\vi\LC_MESSAGES\symbols.po,7,16.0,17.0
+timex,PO File,D:\clones\timex\priv\translations\zh_CN\LC_MESSAGES\symbols.po,7,15.0,17.0
+timex,Elixir,D:\clones\timex\test\validate_strftime_test.exs,4,0.0,17.0
+timex,Elixir,D:\clones\timex\lib\format\format_error.ex,4,3.0,15.0
+timex,PO File,D:\clones\timex\priv\translations\bs_cyrillic\LC_MESSAGES\numbers.po,1,10.0,15.0
+timex,PO File,D:\clones\timex\priv\translations\bs_latin\LC_MESSAGES\numbers.po,1,10.0,15.0
+timex,PO File,D:\clones\timex\priv\translations\cs\LC_MESSAGES\numbers.po,1,9.0,15.0
+timex,PO File,D:\clones\timex\priv\translations\hu\LC_MESSAGES\numbers.po,1,10.0,15.0
+timex,PO File,D:\clones\timex\priv\translations\ja\LC_MESSAGES\numbers.po,1,10.0,15.0
+timex,PO File,D:\clones\timex\priv\translations\ko\LC_MESSAGES\numbers.po,1,10.0,15.0
+timex,PO File,D:\clones\timex\priv\translations\sr_Latn\LC_MESSAGES\numbers.po,1,10.0,15.0
+timex,PO File,D:\clones\timex\priv\translations\tr\LC_MESSAGES\numbers.po,1,9.0,15.0
+timex,PO File,D:\clones\timex\priv\translations\zh_CN\LC_MESSAGES\numbers.po,1,10.0,15.0
+timex,Elixir,D:\clones\timex\test\format_duration_default_test.exs,4,0.0,15.0
+timex,Markdown,D:\clones\timex\docs\FAQ.md,12,0.0,14.0
+timex,PO File,D:\clones\timex\priv\translations\af\LC_MESSAGES\numbers.po,1,9.0,14.0
+timex,PO File,D:\clones\timex\priv\translations\da\LC_MESSAGES\numbers.po,1,9.0,14.0
+timex,PO File,D:\clones\timex\priv\translations\de\LC_MESSAGES\numbers.po,1,9.0,14.0
+timex,PO File,D:\clones\timex\priv\translations\en\LC_MESSAGES\numbers.po,1,9.0,14.0
+timex,PO File,D:\clones\timex\priv\translations\et\LC_MESSAGES\numbers.po,1,9.0,14.0
+timex,PO File,D:\clones\timex\priv\translations\id\LC_MESSAGES\numbers.po,1,9.0,14.0
+timex,PO File,D:\clones\timex\priv\translations\it\LC_MESSAGES\numbers.po,1,9.0,14.0
+timex,PO File,D:\clones\timex\priv\translations\ro\LC_MESSAGES\numbers.po,1,9.0,14.0
+timex,Elixir,D:\clones\timex\lib\parse\datetime\tokenizer.ex,3,3.0,13.0
+timex,Elixir,D:\clones\timex\test\translator_test.exs,3,0.0,13.0
+timex,Elixir,D:\clones\timex\lib\comparable\utils.ex,4,2.0,12.0
+timex,PO File,D:\clones\timex\priv\translations\bg\LC_MESSAGES\day_periods.po,4,12.0,12.0
+timex,PO File,D:\clones\timex\priv\translations\he\LC_MESSAGES\day_periods.po,4,12.0,12.0
+timex,PO File,D:\clones\timex\priv\translations\es\LC_MESSAGES\day_periods.po,4,13.0,11.0
+timex,PO File,D:\clones\timex\priv\translations\fr\LC_MESSAGES\day_periods.po,4,13.0,11.0
+timex,PO File,D:\clones\timex\priv\translations\nb_NO\LC_MESSAGES\day_periods.po,4,12.0,11.0
+timex,PO File,D:\clones\timex\priv\translations\nl\LC_MESSAGES\day_periods.po,4,12.0,11.0
+timex,PO File,D:\clones\timex\priv\translations\pl\LC_MESSAGES\day_periods.po,4,12.0,11.0
+timex,PO File,D:\clones\timex\priv\translations\sv\LC_MESSAGES\day_periods.po,4,11.0,11.0
+timex,PO File,D:\clones\timex\priv\translations\vi\LC_MESSAGES\day_periods.po,4,13.0,11.0
+timex,Markdown,D:\clones\timex\.github\ISSUE_TEMPLATE.md,3,0.0,10.0
+timex,Elixir,D:\clones\timex\lib\timezone\ambiguous_timezone_info.ex,3,4.0,10.0
+timex,JSON,D:\clones\timex\coveralls.json,0,0.0,9.0
+timex,Elixir,D:\clones\timex\lib\time\inspect.ex,2,0.0,9.0
+timex,Markdown,D:\clones\timex\.github\PULL_REQUEST_TEMPLATE.md,3,0.0,8.0
+timex,PO File,D:\clones\timex\priv\translations\fi\LC_MESSAGES\day_periods.po,3,4.0,8.0
+timex,Elixir,D:\clones\timex\lib\parse\parse_error.ex,2,3.0,7.0
+timex,PO File,D:\clones\timex\priv\translations\bg\LC_MESSAGES\numbers.po,1,9.0,6.0
+timex,PO File,D:\clones\timex\priv\translations\he\LC_MESSAGES\numbers.po,1,9.0,6.0
+timex,PO File,D:\clones\timex\priv\translations\es\LC_MESSAGES\numbers.po,1,10.0,5.0
+timex,PO File,D:\clones\timex\priv\translations\fi\LC_MESSAGES\numbers.po,1,10.0,5.0
+timex,PO File,D:\clones\timex\priv\translations\fr\LC_MESSAGES\numbers.po,1,10.0,5.0
+timex,PO File,D:\clones\timex\priv\translations\nb_NO\LC_MESSAGES\numbers.po,1,9.0,5.0
+timex,PO File,D:\clones\timex\priv\translations\nl\LC_MESSAGES\numbers.po,1,9.0,5.0
+timex,PO File,D:\clones\timex\priv\translations\pl\LC_MESSAGES\numbers.po,1,9.0,5.0
+timex,PO File,D:\clones\timex\priv\translations\pt\LC_MESSAGES\numbers.po,1,9.0,5.0
+timex,PO File,D:\clones\timex\priv\translations\pt_BR\LC_MESSAGES\numbers.po,1,9.0,5.0
+timex,PO File,D:\clones\timex\priv\translations\ru\LC_MESSAGES\numbers.po,1,9.0,5.0
+timex,PO File,D:\clones\timex\priv\translations\sv\LC_MESSAGES\numbers.po,1,9.0,5.0
+timex,PO File,D:\clones\timex\priv\translations\uk\LC_MESSAGES\numbers.po,1,9.0,5.0
+timex,PO File,D:\clones\timex\priv\translations\vi\LC_MESSAGES\numbers.po,1,10.0,5.0
+timex,Elixir,D:\clones\timex\test\test_helper.exs,0,1.0,5.0
+timex,Elixir,D:\clones\timex\test\timex\format\date_time\formatters\relative_test.exs,0,0.0,5.0
+timex,Elixir,D:\clones\timex\test\macros_test.exs,0,0.0,4.0
+timex,Elixir,D:\clones\timex\test\utils_test.exs,0,0.0,4.0
+timex,Elixir,D:\clones\timex\.formatter.exs,0,1.0,3.0
+timex,Elixir,D:\clones\timex\lib\l10n\gettext.ex,0,0.0,3.0
+timex,Elixir,D:\clones\timex\config\config.exs,1,0.0,2.0

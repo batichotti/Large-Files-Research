@@ -1,0 +1,125 @@
+project,language,filename,blank,comment,code
+spectacle,XML,D:\clones\spectacle\Spectacle\Resources\Localizations\Base.lproj\SpectaclePreferencesWindow.xib,0,0.0,457.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleAppDelegate.m,41,3.0,371.0
+spectacle,JSON,D:\clones\spectacle\Spectacle\Resources\Images.xcassets\10.9 Crash Fix.imageset\Contents.json,0,0.0,368.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleShortcutRecorder.m,33,0.0,316.0
+spectacle,Objective-C,D:\clones\spectacle\SpectacleSpecs\Sources\SpectacleShortcutKeyBindingsSpec.m,23,0.0,306.0
+spectacle,XML,D:\clones\spectacle\Spectacle\Resources\Localizations\Base.lproj\Spectacle.xib,0,0.0,272.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleShortcutKeyBindings.m,19,0.0,250.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleShortcutTranslations.m,15,0.0,224.0
+spectacle,Objective-C,D:\clones\spectacle\SpectacleSpecs\Sources\SpectacleSmallerWindowCalculationSpec.m,15,0.0,217.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleShortcutManager.m,22,0.0,216.0
+spectacle,Objective-C,D:\clones\spectacle\SpectacleSpecs\Sources\SpectacleLargerWindowCalculationSpec.m,13,0.0,200.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleWindowPositionManager.m,12,0.0,189.0
+spectacle,Objective-C,D:\clones\spectacle\SpectacleSpecs\Sources\SpectacleShortcutTranslationsSpec.m,18,0.0,188.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectaclePreferencesController.m,14,0.0,173.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleShortcut.m,22,0.0,156.0
+spectacle,Objective-C,D:\clones\spectacle\SpectacleSpecs\Sources\SpectacleWindowPositionManagerSpec.m,47,0.0,155.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleAccessibilityElement.m,18,0.0,141.0
+spectacle,XML,D:\clones\spectacle\Spectacle.xcodeproj\xcshareddata\xcschemes\Spectacle.xcscheme,0,0.0,111.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleScreenDetector.m,9,0.0,106.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleShortcutJSONStorage.m,9,0.0,94.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleShortcutValidation.m,9,0.0,89.0
+spectacle,JavaScript,D:\clones\spectacle\Spectacle\Resources\Window Position Calculations\SpectacleWindowSizeAdjuster.js,0,0.0,87.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleUtilities.m,7,0.0,78.0
+spectacle,Objective-C,D:\clones\spectacle\SpectacleSpecs\Sources\SpectacleShortcutSpec.m,9,0.0,77.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleLoginItemHelper.m,5,0.0,74.0
+spectacle,JSON,D:\clones\spectacle\Spectacle\Resources\Images.xcassets\Spectacle.appiconset\Contents.json,0,0.0,68.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleShortcutUserDefaultsStorage.m,8,0.0,66.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleWindowPositionCalculator.m,6,0.0,66.0
+spectacle,Markdown,D:\clones\spectacle\README.md,45,0.0,63.0
+spectacle,Objective-C,D:\clones\spectacle\SpectacleSpecs\Sources\SpectacleNextThirdWindowCalculationSpec.m,9,0.0,55.0
+spectacle,Objective-C,D:\clones\spectacle\SpectacleSpecs\Sources\SpectaclePreviousThirdWindowCalculationSpec.m,8,0.0,55.0
+spectacle,JavaScript,D:\clones\spectacle\Spectacle\Resources\Window Position Calculations\SpectacleNextOrPreviousThirds.js,0,0.0,54.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleBestEffortWindowMover.m,7,0.0,54.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleQuantizedWindowMover.m,7,0.0,54.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleHistory.m,7,0.0,51.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleAppDelegate.h,7,0.0,48.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleShortcutHolder.m,9,0.0,45.0
+spectacle,XML,D:\clones\spectacle\Spectacle\Supporting Files\Info.plist,0,0.0,42.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleJavaScriptEnvironment.m,7,0.0,40.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectaclePreferencesController.h,13,0.0,40.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleWindowAction.m,6,0.0,40.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleStandardWindowMover.m,7,0.0,39.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleDefaultShortcutHelpers.m,4,0.0,35.0
+spectacle,Objective-C,D:\clones\spectacle\SpectacleSpecs\Sources\SpectacleBottomHalfWindowCalculationSpec.m,5,0.0,34.0
+spectacle,Objective-C,D:\clones\spectacle\SpectacleSpecs\Sources\SpectacleLeftHalfWindowCalculationSpec.m,5,0.0,34.0
+spectacle,Objective-C,D:\clones\spectacle\SpectacleSpecs\Sources\SpectacleRightHalfWindowCalculationSpec.m,5,0.0,34.0
+spectacle,Objective-C,D:\clones\spectacle\SpectacleSpecs\Sources\SpectacleTopHalfWindowCalculationSpec.m,5,0.0,34.0
+spectacle,Objective-C,D:\clones\spectacle\SpectacleSpecs\Sources\SpectacleUpperLeftWindowCalculationSpec.m,7,0.0,34.0
+spectacle,Objective-C,D:\clones\spectacle\SpectacleSpecs\Sources\SpectacleUpperRightWindowCalculationSpec.m,6,0.0,34.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleShortcut.h,18,0.0,33.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleWindowPositionManager.h,12,0.0,28.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleWindowAction.h,4,0.0,26.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleWindowPositionCalculationRegistry.m,9,0.0,26.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleMigratingShortcutStorage.m,6,0.0,25.0
+spectacle,XML,D:\clones\spectacle\SpectacleSpecs\Supporting Files\Info.plist,0,0.0,24.0
+spectacle,JavaScript,D:\clones\spectacle\Spectacle\Resources\Window Position Calculations\SpectacleWindowCalculationHelpers.js,0,0.0,23.0
+spectacle,Markdown,D:\clones\spectacle\CONTRIBUTING.md,14,0.0,22.0
+spectacle,JavaScript,D:\clones\spectacle\Spectacle\Resources\Window Position Calculations\SpectacleUpperRightWindowCalculation.js,0,0.0,22.0
+spectacle,JavaScript,D:\clones\spectacle\Spectacle\Resources\Window Position Calculations\SpectacleLowerRightWindowCalculation.js,0,0.0,21.0
+spectacle,XML,D:\clones\spectacle\Spectacle\Resources\Property Lists\Defaults.plist,0,0.0,20.0
+spectacle,JavaScript,D:\clones\spectacle\Spectacle\Resources\Window Position Calculations\SpectacleRightHalfWindowCalculation.js,0,0.0,20.0
+spectacle,JavaScript,D:\clones\spectacle\Spectacle\Resources\Window Position Calculations\SpectacleTopHalfWindowCalculation.js,0,0.0,20.0
+spectacle,Objective-C,D:\clones\spectacle\SpectacleSpecs\Sources\SpectacleCenterWindowCalculationSpec.m,3,0.0,20.0
+spectacle,Objective-C,D:\clones\spectacle\SpectacleSpecs\Sources\SpectacleFullscreenWindowCalculationSpec.m,3,0.0,20.0
+spectacle,Objective-C,D:\clones\spectacle\SpectacleSpecs\Sources\SpectacleLowerLeftWindowCalculationSpec.m,3,0.0,20.0
+spectacle,Objective-C,D:\clones\spectacle\SpectacleSpecs\Sources\SpectacleLowerRightWindowCalculationSpec.m,4,0.0,20.0
+spectacle,Objective-C,D:\clones\spectacle\SpectacleSpecs\Sources\SpectacleNextDisplayWindowCalculationSpec.m,3,0.0,20.0
+spectacle,Objective-C,D:\clones\spectacle\SpectacleSpecs\Sources\SpectaclePreviousDisplayWindowCalculationSpec.m,3,0.0,20.0
+spectacle,JavaScript,D:\clones\spectacle\Spectacle\Resources\Window Position Calculations\SpectacleUpperLeftWindowCalculation.js,0,0.0,19.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleScreenDetectionResult.m,5,0.0,19.0
+spectacle,Markdown,D:\clones\spectacle\LICENSE.md,5,0.0,18.0
+spectacle,JSON,D:\clones\spectacle\Spectacle\Resources\Images.xcassets\Security & Privacy.imageset\Contents.json,0,0.0,18.0
+spectacle,JSON,D:\clones\spectacle\Spectacle\Resources\Images.xcassets\Spectacle Status Item.imageset\Contents.json,0,0.0,18.0
+spectacle,JavaScript,D:\clones\spectacle\Spectacle\Resources\Window Position Calculations\SpectacleLowerLeftWindowCalculation.js,0,0.0,18.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleShortcutHolder.h,10,0.0,18.0
+spectacle,JavaScript,D:\clones\spectacle\Spectacle\Resources\Window Position Calculations\SpectacleBottomHalfWindowCalculation.js,0,0.0,17.0
+spectacle,JavaScript,D:\clones\spectacle\Spectacle\Resources\Window Position Calculations\SpectacleLeftHalfWindowCalculation.js,0,0.0,17.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleShortcutManager.h,13,0.0,17.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleWindowPositionCalculationResult.m,5,0.0,17.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleHistoryItem.m,4,0.0,16.0
+spectacle,JavaScript,D:\clones\spectacle\Spectacle\Resources\Window Position Calculations\SpectacleCenterWindowCalculation.js,1,0.0,14.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleAccessibilityElement.h,9,0.0,14.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleHistoryItem.h,8,0.0,14.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleWindowPositionCalculationRegistry.h,9,0.0,13.0
+spectacle,JavaScript,D:\clones\spectacle\Spectacle\Resources\Window Position Calculations\SpectacleNextOrPreviousDisplay.js,0,0.0,12.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleScreenDetectionResult.h,8,0.0,12.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleWindowMover.h,7,0.0,12.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleWindowPositionCalculator.h,7,0.0,12.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleShortcutValidation.h,8,0.0,11.0
+spectacle,YAML,D:\clones\spectacle\.travis.yml,2,0.0,10.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleJavaScriptEnvironment.h,7,0.0,10.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleScreenDetector.h,5,0.0,10.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleShortcutRecorder.h,5,0.0,10.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleWindowPositionCalculationResult.h,7,0.0,10.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleMigratingShortcutStorage.h,6,0.0,9.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleShortcutRecorderDelegate.h,5,0.0,9.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleShortcutTranslations.h,3,0.0,9.0
+spectacle,XML,D:\clones\spectacle\Spectacle.xcodeproj\project.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist,0,0.0,8.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleHistory.h,6,0.0,8.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Sources\SpectacleRegisteredShortcutValidator.m,4,0.0,8.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleUtilities.h,6,0.0,8.0
+spectacle,XML,D:\clones\spectacle\Spectacle.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+spectacle,JSON,D:\clones\spectacle\Spectacle\Resources\Images.xcassets\Contents.json,0,0.0,6.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleLoginItemHelper.h,4,0.0,6.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleMacros.h,1,0.0,6.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleShortcutStorage.h,5,0.0,6.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleShortcutValidator.h,4,0.0,6.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleBestEffortWindowMover.h,4,0.0,5.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleQuantizedWindowMover.h,4,0.0,5.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleShortcutKeyBindings.h,3,0.0,5.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleShortcutStorageMigrationDestination.h,4,0.0,5.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleStandardWindowMover.h,4,0.0,5.0
+spectacle,Objective-C,D:\clones\spectacle\Spectacle\Supporting Files\main.m,1,0.0,5.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleRegisteredShortcutValidator.h,2,0.0,4.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleShortcutJSONStorage.h,2,0.0,4.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleShortcutUserDefaultsStorage.h,2,0.0,4.0
+spectacle,JavaScript,D:\clones\spectacle\Spectacle\Resources\Window Position Calculations\SpectacleFullscreenWindowCalculation.js,0,0.0,3.0
+spectacle,JavaScript,D:\clones\spectacle\Spectacle\Resources\Window Position Calculations\SpectacleLargerWindowCalculation.js,0,0.0,3.0
+spectacle,JavaScript,D:\clones\spectacle\Spectacle\Resources\Window Position Calculations\SpectacleNextDisplayWindowCalculation.js,0,0.0,3.0
+spectacle,JavaScript,D:\clones\spectacle\Spectacle\Resources\Window Position Calculations\SpectacleNextThirdWindowCalculation.js,0,0.0,3.0
+spectacle,JavaScript,D:\clones\spectacle\Spectacle\Resources\Window Position Calculations\SpectaclePreviousDisplayWindowCalculation.js,0,0.0,3.0
+spectacle,JavaScript,D:\clones\spectacle\Spectacle\Resources\Window Position Calculations\SpectaclePreviousThirdWindowCalculation.js,0,0.0,3.0
+spectacle,JavaScript,D:\clones\spectacle\Spectacle\Resources\Window Position Calculations\SpectacleSmallerWindowCalculation.js,0,0.0,3.0
+spectacle,C/C++ Header,D:\clones\spectacle\Spectacle\Sources\SpectacleDefaultShortcutHelpers.h,2,0.0,3.0

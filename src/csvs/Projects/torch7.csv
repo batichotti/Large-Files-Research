@@ -1,0 +1,162 @@
+project,language,filename,blank,comment,code
+torch7,Lua,D:\clones\torch7\test\test.lua,499,179.0,3314.0
+torch7,C,D:\clones\torch7\lib\TH\generic\THTensorMath.c,411,100.0,2807.0
+torch7,Markdown,D:\clones\torch7\doc\maths.md,951,0.0,2235.0
+torch7,C,D:\clones\torch7\lib\TH\vector\VSX.c,364,170.0,1986.0
+torch7,Markdown,D:\clones\torch7\doc\tensor.md,445,0.0,1984.0
+torch7,C,D:\clones\torch7\lib\TH\generic\THTensorConv.c,225,209.0,1523.0
+torch7,Lua,D:\clones\torch7\TensorMath.lua,155,11.0,1377.0
+torch7,C,D:\clones\torch7\generic\Tensor.c,148,23.0,1189.0
+torch7,C,D:\clones\torch7\lib\luaT\luaT.c,206,84.0,1083.0
+torch7,C,D:\clones\torch7\lib\TH\generic\THTensorLapack.c,183,140.0,798.0
+torch7,C,D:\clones\torch7\lib\TH\generic\THTensor.c,145,12.0,786.0
+torch7,C,D:\clones\torch7\lib\TH\THDiskFile.c,91,12.0,694.0
+torch7,Lua,D:\clones\torch7\Tester.lua,109,116.0,654.0
+torch7,C,D:\clones\torch7\lib\TH\THMemoryFile.c,75,7.0,603.0
+torch7,Lua,D:\clones\torch7\Tensor.lua,43,25.0,505.0
+torch7,Lua,D:\clones\torch7\test\test_Tester.lua,102,23.0,501.0
+torch7,Lua,D:\clones\torch7\torchcwrap.lua,82,14.0,419.0
+torch7,C,D:\clones\torch7\lib\TH\THAllocator.c,79,11.0,410.0
+torch7,CMake,D:\clones\torch7\lib\TH\CMakeLists.txt,52,37.0,398.0
+torch7,C,D:\clones\torch7\lib\TH\generic\THBlas.c,35,0.0,388.0
+torch7,Lua,D:\clones\torch7\File.lua,30,38.0,386.0
+torch7,C,D:\clones\torch7\lib\TH\generic\THTensorRandom.c,48,21.0,324.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\generic\simd\common_simd.h,72,11.0,312.0
+torch7,C,D:\clones\torch7\lib\TH\generic\simd\convolve5x5_sse.c,21,3.0,296.0
+torch7,C,D:\clones\torch7\lib\TH\THGeneral.c,59,33.0,291.0
+torch7,Markdown,D:\clones\torch7\doc\tester.md,88,0.0,275.0
+torch7,Markdown,D:\clones\torch7\doc\file.md,98,0.0,266.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THTensorDimApply.h,4,56.0,264.0
+torch7,C,D:\clones\torch7\generic\Storage.c,29,1.0,261.0
+torch7,C,D:\clones\torch7\lib\TH\vector\AVX.c,18,0.0,256.0
+torch7,CMake,D:\clones\torch7\lib\TH\cmake\FindBLAS.cmake,23,38.0,254.0
+torch7,C,D:\clones\torch7\lib\TH\vector\SSE.c,15,0.0,253.0
+torch7,C,D:\clones\torch7\lib\TH\THAtomic.c,18,4.0,245.0
+torch7,Lua,D:\clones\torch7\CmdLine.lua,27,2.0,240.0
+torch7,Markdown,D:\clones\torch7\doc\storage.md,60,0.0,240.0
+torch7,C,D:\clones\torch7\utils.c,23,0.0,232.0
+torch7,Markdown,D:\clones\torch7\doc\utility.md,97,0.0,230.0
+torch7,C,D:\clones\torch7\lib\TH\generic\THLapack.c,21,19.0,230.0
+torch7,Lua,D:\clones\torch7\test\test_qr.lua,17,32.0,225.0
+torch7,CMake,D:\clones\torch7\lib\TH\cmake\FindMKL.cmake,23,42.0,220.0
+torch7,C,D:\clones\torch7\lib\TH\generic\THVectorDispatch.c,36,17.0,209.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THTensorApply.h,9,28.0,201.0
+torch7,C,D:\clones\torch7\lib\TH\generic\THStorage.c,29,2.0,195.0
+torch7,Markdown,D:\clones\torch7\lib\luaT\README.md,77,0.0,189.0
+torch7,Lua,D:\clones\torch7\test\test_writeObject.lua,34,16.0,188.0
+torch7,C,D:\clones\torch7\lib\TH\generic\simd\convolve5x5_avx.c,25,3.0,184.0
+torch7,C,D:\clones\torch7\File.c,24,2.0,181.0
+torch7,Lua,D:\clones\torch7\FFInterface.lua,27,15.0,180.0
+torch7,Lua,D:\clones\torch7\init.lua,22,14.0,170.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\generic\THTensorMath.h,33,0.0,167.0
+torch7,C,D:\clones\torch7\generic\TensorOperator.c,27,0.0,166.0
+torch7,C,D:\clones\torch7\lib\TH\THRandom.c,49,61.0,162.0
+torch7,C,D:\clones\torch7\Timer.c,21,4.0,160.0
+torch7,C,D:\clones\torch7\lib\TH\THStorage.c,17,1.0,145.0
+torch7,CMake,D:\clones\torch7\lib\TH\cmake\FindLAPACK.cmake,19,32.0,139.0
+torch7,Markdown,D:\clones\torch7\doc\random.md,39,0.0,137.0
+torch7,C,D:\clones\torch7\lib\TH\THFile.c,24,0.0,133.0
+torch7,Markdown,D:\clones\torch7\ROADMAP.md,15,0.0,129.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\generic\simd\simd.h,32,4.0,129.0
+torch7,Lua,D:\clones\torch7\test\timeSort.lua,18,10.0,125.0
+torch7,C,D:\clones\torch7\lib\TH\generic\THTensorCopy.c,17,6.0,113.0
+torch7,C,D:\clones\torch7\lib\TH\generic\simd\convolve.c,15,0.0,112.0
+torch7,Markdown,D:\clones\torch7\doc\cmdline.md,37,0.0,111.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\generic\THTensor.h,24,7.0,107.0
+torch7,C,D:\clones\torch7\lib\TH\generic\THVectorDefault.c,25,0.0,106.0
+torch7,C/C++ Header,D:\clones\torch7\lib\luaT\luaT.h,25,7.0,103.0
+torch7,CMake,D:\clones\torch7\lib\TH\cmake\FindSSE.cmake,21,7.0,97.0
+torch7,Markdown,D:\clones\torch7\CONTRIBUTING.md,36,0.0,94.0
+torch7,C,D:\clones\torch7\DiskFile.c,14,0.0,89.0
+torch7,Markdown,D:\clones\torch7\doc\serialization.md,24,0.0,88.0
+torch7,C,D:\clones\torch7\lib\TH\vector\NEON.c,21,0.0,84.0
+torch7,C,D:\clones\torch7\lib\TH\THHalf.c,15,5.0,80.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THFile.h,13,3.0,75.0
+torch7,C,D:\clones\torch7\lib\TH\THLogAdd.c,10,3.0,75.0
+torch7,C,D:\clones\torch7\init.c,19,1.0,73.0
+torch7,Lua,D:\clones\torch7\test\test_sharedmem.lua,15,7.0,70.0
+torch7,CMake,D:\clones\torch7\CMakeLists.txt,15,7.0,69.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\generic\THTensorConv.h,13,0.0,66.0
+torch7,C,D:\clones\torch7\lib\TH\generic\THStorageCopy.c,9,1.0,65.0
+torch7,YAML,D:\clones\torch7\.travis.yml,0,0.0,62.0
+torch7,C,D:\clones\torch7\MemoryFile.c,9,0.0,61.0
+torch7,CMake,D:\clones\torch7\lib\TH\cmake\FindARM.cmake,9,8.0,59.0
+torch7,C/C++ Header,D:\clones\torch7\generic\luaG.h,8,0.0,54.0
+torch7,Lua,D:\clones\torch7\test\longSize.lua,7,0.0,54.0
+torch7,Markdown,D:\clones\torch7\doc\diskfile.md,23,0.0,51.0
+torch7,Lua,D:\clones\torch7\test\test_half.lua,7,1.0,47.0
+torch7,CMake,D:\clones\torch7\cmake\TorchPackage.cmake,11,5.0,44.0
+torch7,C,D:\clones\torch7\lib\TH\vector\AVX2.c,3,0.0,44.0
+torch7,Lua,D:\clones\torch7\test\test_timer.lua,8,0.0,44.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\generic\THStorage.h,14,14.0,43.0
+torch7,Lua,D:\clones\torch7\random.lua,11,0.0,42.0
+torch7,C,D:\clones\torch7\Generator.c,10,0.0,40.0
+torch7,Markdown,D:\clones\torch7\README.md,13,0.0,40.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THFilePrivate.h,9,1.0,40.0
+torch7,CMake,D:\clones\torch7\lib\luaT\CMakeLists.txt,9,2.0,39.0
+torch7,C,D:\clones\torch7\PipeFile.c,6,0.0,37.0
+torch7,Markdown,D:\clones\torch7\doc\timer.md,13,0.0,34.0
+torch7,Lua,D:\clones\torch7\test\test_aliasMultinomial.lua,6,0.0,34.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THRandom.h,17,31.0,33.0
+torch7,CMake,D:\clones\torch7\cmake\TorchPathsInit.cmake,5,5.0,32.0
+torch7,Markdown,D:\clones\torch7\doc\memoryfile.md,12,0.0,30.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THHalf.h,10,1.0,30.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THAllocator.h,7,7.0,29.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\generic\THTensorRandom.h,4,0.0,28.0
+torch7,C/C++ Header,D:\clones\torch7\utils.h,8,0.0,28.0
+torch7,Markdown,D:\clones\torch7\doc\index.md,5,0.0,27.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THMath.h,9,0.0,27.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THStorage.h,11,2.0,26.0
+torch7,Lua,D:\clones\torch7\TestSuite.lua,5,0.0,25.0
+torch7,C,D:\clones\torch7\lib\TH\THTensor.c,9,0.0,25.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THTensor.h,12,5.0,25.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THAtomic.h,28,73.0,24.0
+torch7,C,D:\clones\torch7\lib\TH\THSize.c,2,0.0,24.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THGenerateHalfType.h,2,0.0,23.0
+torch7,CMake,D:\clones\torch7\cmake\TorchConfig.cmake.in,8,5.0,22.0
+torch7,CMake,D:\clones\torch7\cmake\TorchPaths.cmake,7,3.0,22.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THGenerateByteType.h,2,0.0,22.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THGenerateCharType.h,2,0.0,22.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THGenerateDoubleType.h,2,0.0,22.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THGenerateFloatType.h,2,0.0,22.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THGenerateIntType.h,2,0.0,22.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THGenerateLongType.h,2,0.0,22.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THGenerateShortType.h,2,0.0,22.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THLapack.h,5,0.0,22.0
+torch7,C,D:\clones\torch7\lib\TH\THVector.c,8,0.0,22.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\generic\THTensorLapack.h,3,0.0,22.0
+torch7,YAML,D:\clones\torch7\mkdocs.yml,0,0.0,21.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\TH.h,5,0.0,20.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\generic\THLapack.h,4,16.0,20.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\vector\AVX.h,3,0.0,20.0
+torch7,Lua,D:\clones\torch7\test\test_Multinomial.lua,3,2.0,20.0
+torch7,CMake,D:\clones\torch7\cmake\TorchWrap.cmake.in,0,0.0,19.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THTensorMacros.h,10,1.0,19.0
+torch7,CMake,D:\clones\torch7\cmake\TorchWrap.cmake,0,0.0,18.0
+torch7,C/C++ Header,D:\clones\torch7\general.h,7,4.0,18.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THGenerateIntTypes.h,3,0.0,17.0
+torch7,Markdown,D:\clones\torch7\doc\pipefile.md,7,0.0,15.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THDiskFile.h,5,0.0,14.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THGenerateAllTypes.h,3,0.0,14.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THGenerateFloatTypes.h,3,0.0,14.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\generic\THStorageCopy.h,3,1.0,14.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\generic\THTensorCopy.h,3,1.0,13.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\generic\THVector.h,3,1.0,13.0
+torch7,CMake,D:\clones\torch7\cmake\TorchExports.cmake,2,0.0,12.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\generic\THBlas.h,4,3.0,12.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THLogAdd.h,4,0.0,10.0
+torch7,C,D:\clones\torch7\Storage.c,3,0.0,9.0
+torch7,C,D:\clones\torch7\Tensor.c,3,0.0,9.0
+torch7,Markdown,D:\clones\torch7\lib\TH\README.md,2,0.0,9.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THMemoryFile.h,4,0.0,9.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THBlas.h,4,0.0,7.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THSize.h,4,2.0,7.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\THVector.h,4,2.0,7.0
+torch7,C,D:\clones\torch7\TensorOperator.c,2,0.0,6.0
+torch7,CMake,D:\clones\torch7\lib\CMakeLists.txt,1,0.0,6.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\vector\AVX2.h,3,0.0,6.0
+torch7,C,D:\clones\torch7\lib\TH\THBlas.c,1,0.0,3.0
+torch7,CMake,D:\clones\torch7\lib\TH\THConfig.cmake.in,1,5.0,3.0
+torch7,C,D:\clones\torch7\lib\TH\THLapack.c,1,0.0,3.0
+torch7,CMake,D:\clones\torch7\lib\luaT\luaTConfig.cmake.in,1,5.0,3.0
+torch7,C/C++ Header,D:\clones\torch7\lib\TH\generic\simd\convolve.h,0,0.0,1.0

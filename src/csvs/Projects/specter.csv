@@ -1,0 +1,26 @@
+project,language,filename,blank,comment,code
+specter,ClojureC,D:\clones\specter\test\com\rpl\specter\core_test.cljc,304,17.0,1383.0
+specter,ClojureC,D:\clones\specter\src\clj\com\rpl\specter.cljc,223,24.0,1259.0
+specter,ClojureC,D:\clones\specter\src\clj\com\rpl\specter\impl.cljc,190,36.0,778.0
+specter,ClojureC,D:\clones\specter\src\clj\com\rpl\specter\navs.cljc,132,5.0,642.0
+specter,Clojure,D:\clones\specter\scripts\benchmarks.clj,67,1.0,289.0
+specter,Markdown,D:\clones\specter\README.md,94,0.0,249.0
+specter,Markdown,D:\clones\specter\CHANGES.md,74,0.0,238.0
+specter,ClojureC,D:\clones\specter\src\clj\com\rpl\specter\zipper.cljc,32,5.0,101.0
+specter,ClojureC,D:\clones\specter\test\com\rpl\specter\zipper_test.cljc,26,0.0,96.0
+specter,ClojureC,D:\clones\specter\src\clj\com\rpl\specter\transients.cljc,15,1.0,84.0
+specter,Clojure,D:\clones\specter\src\clj\com\rpl\specter\util_macros.clj,12,1.0,55.0
+specter,Clojure,D:\clones\specter\src\clj\com\rpl\specter\macros.clj,9,1.0,44.0
+specter,Clojure,D:\clones\specter\project.clj,7,1.0,35.0
+specter,Clojure,D:\clones\specter\test\com\rpl\specter\test_helpers.clj,5,2.0,29.0
+specter,YAML,D:\clones\specter\.github\workflows\ci.yml,9,0.0,28.0
+specter,ClojureC,D:\clones\specter\src\clj\com\rpl\specter\protocols.cljc,5,0.0,22.0
+specter,Markdown,D:\clones\specter\DEVELOPER.md,5,0.0,20.0
+specter,Java,D:\clones\specter\src\java\com\rpl\specter\MutableCell.java,4,0.0,13.0
+specter,Clojure,D:\clones\specter\test\com\rpl\specter\cljs_test_helpers.clj,1,1.0,11.0
+specter,Bourne Again Shell,D:\clones\specter\scripts\run-benchmarks,1,0.0,7.0
+specter,Markdown,D:\clones\specter\CONTRIBUTING.md,3,0.0,6.0
+specter,Java,D:\clones\specter\src\java\com\rpl\specter\Util.java,1,0.0,6.0
+specter,ClojureScript,D:\clones\specter\test\com\rpl\specter\cljs_test_runner.cljs,1,0.0,6.0
+specter,Clojure,D:\clones\specter\scripts\repl.clj,1,0.0,4.0
+specter,Bourne Shell,D:\clones\specter\scripts\cljs-repl.sh,2,0.0,2.0

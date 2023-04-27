@@ -1,0 +1,1244 @@
+project,language,filename,blank,comment,code
+Idris-dev,C,D:\clones\Idris-dev\rts\mini-gmp.c,750,237.0,3425.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Elab\Term.hs,195,293.0,2299.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\AbsSyntax.hs,329,193.0,2080.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\AbsSyntaxTree.hs,266,276.0,1953.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\REPL.hs,96,64.0,1426.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Core\TT.hs,248,228.0,1425.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\parserModules.svg,1,1.0,1249.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Parser.hs,187,444.0,1234.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Reflection.hs,112,38.0,1080.0
+Idris-dev,Markdown,D:\clones\Idris-dev\CHANGELOG.md,234,0.0,1063.0
+Idris-dev,JavaScript,D:\clones\Idris-dev\jsrts\jsbn\jsbn-browser.js,137,167.0,1049.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\IBC.hs,109,35.0,980.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Parser\Expr.hs,133,477.0,970.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Core\Evaluate.hs,159,144.0,965.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Language\Reflection.idr,213,129.0,945.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Elab\Clause.hs,139,177.0,935.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Core\ProofState.hs,99,50.0,923.0
+Idris-dev,C,D:\clones\Idris-dev\rts\idris_rts.c,194,61.0,909.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\IRTS\CodegenC.hs,85,40.0,792.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Core\Elaborate.hs,147,79.0,772.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\tokenise.svg,1,1.0,738.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Delaborate.hs,57,44.0,646.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Core\Execute.hs,76,26.0,637.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Elab\Utils.hs,91,96.0,637.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Core\CaseTree.hs,137,103.0,627.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\tutorial\typesfuns.rst,393,353.0,621.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\generateFunction.svg,1,1.0,586.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\elabOverview.svg,1,1.0,583.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Core\Unify.hs,75,69.0,571.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\IRTS\Compiler.hs,123,111.0,570.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\IRTS\JavaScript\Codegen.hs,62,21.0,551.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\generateDatatype.svg,1,1.0,538.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Nat.idr,159,103.0,527.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\IdrisDoc.hs,90,87.0,524.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\idrisTopLevel.svg,1,1.0,522.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Control\ST.idr,112,27.0,521.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Prover.hs,48,18.0,487.0
+Idris-dev,C,D:\clones\Idris-dev\rts\idris_bitstring.c,111,0.0,480.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\List.idr,141,359.0,477.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\recogniser.svg,1,1.0,475.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Termination.hs,56,109.0,474.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\REPL\Parser.hs,74,7.0,459.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Output.hs,69,16.0,438.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Primitives.hs,54,8.0,432.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\generateFunction2.svg,1,1.0,428.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Interactive.hs,59,27.0,418.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\TypeSearch.hs,81,65.0,416.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\ProofSearch.hs,52,53.0,413.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Data\Vect.idr,144,500.0,412.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Language\Reflection\Elab.idr,127,249.0,399.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\IRTS\Lang.hs,62,22.0,398.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Package.hs,65,60.0,398.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\CaseSplit.hs,54,44.0,387.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\reference\repl.rst,155,6.0,385.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Elab\Implementation.hs,79,27.0,383.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Coverage.hs,47,54.0,379.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Parser\Helpers.hs,80,101.0,378.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Erasure.hs,105,149.0,377.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Data\Bits.idr,73,70.0,370.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\elabProofState.svg,1,1.0,354.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Core\Binary.hs,12,9.0,346.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Docs.hs,57,25.0,345.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\plusReducesProof.svg,1,1.0,337.0
+Idris-dev,C/C++ Header,D:\clones\Idris-dev\rts\idris_rts.h,112,95.0,335.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Elab\Interface.hs,65,54.0,330.0
+Idris-dev,Haskell,D:\clones\Idris-dev\test\TestData.hs,7,16.0,327.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\binders.svg,1,1.0,324.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Language\Reflection\Utils.idr,57,15.0,321.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Elab\Record.hs,69,57.0,320.0
+Idris-dev,C,D:\clones\Idris-dev\rts\idris_gmp.c,51,10.0,316.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Core\Typecheck.hs,31,34.0,314.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\proofsearch002\Process.idr,80,52.0,312.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\elabProofStateEx1_1.svg,1,1.0,310.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\IRTS\Portable.hs,46,7.0,310.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\effects\Effects.idr,86,87.0,294.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\parserTopLevel.svg,1,1.0,292.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Interfaces\Verified.idr,56,6.0,292.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\File.idr,62,43.0,286.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\tutorial\miscellany.rst,178,127.0,284.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\reference\erasure.rst,141,78.0,283.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\IdeMode.hs,50,11.0,281.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\elabProofStateEx1_2.svg,1,1.0,279.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Interfaces.idr,109,28.0,279.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Core\ProofTerm.hs,40,47.0,276.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\PartialEval.hs,42,79.0,274.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\ZZ.idr,63,19.0,273.0
+Idris-dev,C,D:\clones\Idris-dev\rts\idris_net.c,57,27.0,267.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\IRTS\JavaScript\AST.hs,17,6.0,262.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\SortedMap.idr,35,15.0,261.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\IRTS\LangOpts.hs,34,30.0,260.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\compareToProofAssist.svg,1,1.0,258.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\IRTS\Defunctionalise.hs,38,30.0,257.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\reference\type-directed-search.rst,79,3.0,254.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\st\state.rst,167,238.0,249.0
+Idris-dev,C,D:\clones\Idris-dev\rts\idris_stdfgn.c,48,6.0,248.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\effects\Effect\File.idr,84,97.0,247.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Main.hs,41,22.0,246.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\IO.idr,79,52.0,245.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\ElabDecls.hs,34,29.0,244.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\elabProofStateEx1_3.svg,1,1.0,242.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\tutorial\interfaces.rst,188,207.0,240.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\st\composing.rst,189,346.0,239.0
+Idris-dev,Haskell,D:\clones\Idris-dev\Setup.hs,53,37.0,237.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Docstrings.hs,39,24.0,236.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Control\Isomorphism.idr,50,34.0,235.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\CmdOptions.hs,52,17.0,235.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Elab\Data.hs,33,42.0,233.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude.idr,65,22.0,232.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\IRTS\JavaScript\PrimOp.hs,9,6.0,231.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Parser\Data.hs,24,48.0,231.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\reference\syntax-guide.rst,167,94.0,228.0
+Idris-dev,DOS Batch,D:\clones\Idris-dev\docs\make.bat,34,2.0,227.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Options.hs,51,13.0,227.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\primitives006\Data\Bytes.idr,47,16.0,223.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Control\Algebra\Laws.idr,26,29.0,222.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\meta002\AgdaStyleReflection.idr,52,46.0,222.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\meta002\Tacs.idr,47,37.0,220.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\reference\ffi.rst,126,192.0,216.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\reference\partial-evaluation.rst,89,1.0,215.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\tree.svg,1,1.0,210.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\effects\simpleeff.rst,165,223.0,207.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\faq\faq.rst,95,28.0,206.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\pruviloj\Pruviloj\Derive\Eliminators.idr,46,15.0,204.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\DSL.hs,21,8.0,200.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\effects\state.rst,154,176.0,199.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\st\machines.rst,143,194.0,199.0
+Idris-dev,C/C++ Header,D:\clones\Idris-dev\rts\mini-gmp.h,67,32.0,199.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Elab\Type.hs,32,27.0,198.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\attack.svg,1,1.0,197.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\pruviloj\Pruviloj\Core.idr,34,100.0,197.0
+Idris-dev,CSS,D:\clones\Idris-dev\idrisdoc\styles.css,118,8.0,194.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Core\Constraints.hs,35,28.0,193.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\IRTS\Simplified.hs,21,17.0,190.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Chaser.hs,27,30.0,190.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Core\WHNF.hs,30,37.0,189.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Text\Parser\Core.idr,29,49.0,187.0
+Idris-dev,C,D:\clones\Idris-dev\rts\idris_heap.c,38,18.0,186.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Elab\Rewrite.hs,23,51.0,185.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\tutorial\theorems.rst,126,125.0,179.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\elaboratorReflection\tactics.rst,123,129.0,178.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Strings.idr,56,182.0,175.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\guides\theorem-prover.rst,42,4.0,171.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Data\List\Views.idr,32,27.0,164.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Elab\Quasiquote.hs,10,6.0,164.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Completion.hs,28,20.0,162.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\fill.svg,1,1.0,161.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\solve.svg,1,1.0,161.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\effects\Effect\Memory.idr,22,0.0,161.0
+Idris-dev,Idris,D:\clones\Idris-dev\benchmarks\quasigroups\Solver.idr,40,6.0,158.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\reference\tactics.rst,44,3.0,157.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\st\examples.rst,110,172.0,157.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\effects\Effect\Perf.idr,49,26.0,155.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg001.idr,53,2.0,154.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Text\Parser.idr,29,45.0,152.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Parser\Ops.hs,36,61.0,152.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Control\ST\File.idr,38,58.0,151.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Network\Socket.idr,26,69.0,151.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\pruviloj\Pruviloj\Derive\DecEq.idr,23,24.0,149.0
+Idris-dev,make,D:\clones\Idris-dev\docs\Makefile,29,6.0,148.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Data\Fin.idr,37,36.0,148.0
+Idris-dev,SVG,D:\clones\Idris-dev\logos\logo-text.svg,1,1.0,148.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Util\DynamicLinker.hs,20,24.0,146.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\meta001\Finite.idr,34,8.0,146.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\reference\ide-protocol.rst,68,0.0,145.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Text\Lexer.idr,56,123.0,145.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\effects\hangman.rst,84,101.0,144.0
+Idris-dev,C,D:\clones\Idris-dev\rts\idris_utf8.c,22,14.0,144.0
+Idris-dev,YAML,D:\clones\Idris-dev\.travis.yml,9,17.0,142.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Decidable\Equality.idr,46,54.0,141.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\ModeCommon.hs,23,25.0,139.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\elab.svg,1,1.0,137.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\tutorial\interactive.rst,80,40.0,137.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Nat\Parity.idr,41,39.0,137.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Text\Lexer\Core.idr,28,30.0,135.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\dsl002\Resimp.idr,38,6.0,135.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Error.hs,20,10.0,134.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\reference\misc.rst,73,22.0,133.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Text\PrettyPrint\WL\Core.idr,45,48.0,133.0
+Idris-dev,YAML,D:\clones\Idris-dev\azure-pipelines.yml,0,11.0,132.0
+Idris-dev,C,D:\clones\Idris-dev\rts\idris_gc.c,19,6.0,131.0
+Idris-dev,Markdown,D:\clones\Idris-dev\CONTRIBUTING.md,57,0.0,127.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\effects\depeff.rst,88,127.0,127.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\CFFI\Types.idr,23,12.0,126.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\pruviloj\Pruviloj\Induction.idr,22,11.0,126.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\reference\internals.rst,54,0.0,125.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\proofs\patterns.rst,105,122.0,124.0
+Idris-dev,C,D:\clones\Idris-dev\rts\idris_buffer.c,21,2.0,123.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Imports.hs,28,12.0,123.0
+Idris-dev,Markdown,D:\clones\Idris-dev\test\README.md,37,0.0,123.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\effects003\hangman.idr,51,55.0,123.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\proof002\Reflect.idr,48,39.0,123.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\reference\uniqueness-types.rst,62,68.0,122.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Show.idr,36,38.0,122.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\elaboratorReflection\elaborator-reflection.rst,61,27.0,121.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\tutorial\modules.rst,81,72.0,121.0
+Idris-dev,C/C++ Header,D:\clones\Idris-dev\rts\idris_bitstring.h,12,1.0,121.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Network\Socket\Raw.idr,29,54.0,116.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\parserLibrary\parser.rst,200,385.0,115.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Network\Cgi.idr,32,0.0,114.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\effects\impleff.rst,89,131.0,113.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Info\Show.hs,29,1.0,113.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Package\Parser.hs,18,17.0,113.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Util\System.hs,18,17.0,113.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\tutorial\interp.rst,91,97.0,112.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Text\PrettyPrint\WL\Combinators.idr,51,97.0,111.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\elabLogicEx1_2.svg,1,1.0,110.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\elabLogicEx1_3.svg,1,1.0,110.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\tutorial\provisional.rst,79,91.0,107.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\ST\Net\RandServer.idr,25,24.0,107.0
+Idris-dev,Markdown,D:\clones\Idris-dev\INSTALL.md,48,0.0,105.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Data\Buffer.idr,19,47.0,104.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Parser\Stack.hs,27,35.0,103.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Interactive.idr,25,54.0,101.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Directives.hs,22,7.0,101.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\guides\type-providers-ffi.rst,64,84.0,99.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\IRTS\Bytecode.hs,43,50.0,98.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\elabLogicEx1_1.svg,1,1.0,97.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Builtins.idr,40,97.0,97.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\proofs\definitional.rst,88,51.0,96.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\reference\packages.rst,51,3.0,96.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\ST\Graphics\Turtle.idr,17,3.0,96.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\proofs\pluscomm.rst,56,39.0,94.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\tutorial\packages.rst,63,29.0,93.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Control\Isomorphism\Vect.idr,14,48.0,93.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\effects\Effect\Logging\Category.idr,30,58.0,93.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\IRTS\Exports.hs,15,6.0,93.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Network\Socket\Data.idr,41,39.0,92.0
+Idris-dev,Haskell,D:\clones\Idris-dev\test\TestRun.hs,19,16.0,92.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\reference\compilation.rst,33,7.0,91.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Decidable\Order.idr,29,12.0,91.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\misc\reflection.idr,34,26.0,91.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Colours.hs,22,13.0,91.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Heap.idr,36,47.0,90.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Language\JSON\Data.idr,12,6.0,90.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\IRTS\System.hs,19,6.0,90.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\proof003\test015.idr,26,32.0,89.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\pruviloj\Pruviloj\Injective.idr,19,15.0,88.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Elab\Value.hs,20,16.0,88.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Logic\Propositional.idr,40,34.0,87.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\pruviloj\Pruviloj\Disjoint.idr,11,27.0,87.0
+Idris-dev,C,D:\clones\Idris-dev\rts\idris_opts.c,22,0.0,87.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\pruviloj\Pruviloj\Internals.idr,23,29.0,84.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\tutorial\syntax.rst,56,72.0,83.0
+Idris-dev,SVG,D:\clones\Idris-dev\icons\text-x-idris.svg,1,1.0,83.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\pruviloj\Pruviloj\Internals\TyConInfo.idr,13,12.0,83.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\parserLibrary\lexer.rst,82,124.0,82.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\reference\codegen.rst,60,5.0,82.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Nat\DivMod\IteratedSubtraction.idr,23,60.0,82.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\primitives006\Data\ByteArray.idr,18,1.0,81.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg051-disabled\reg051.idr,17,1.0,81.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\IRTS\JavaScript\Specialize.hs,15,14.0,80.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Control\Algebra\NumericImplementations.idr,47,8.0,79.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\DeepSeq.hs,10,8.0,79.0
+Idris-dev,SVG,D:\clones\Idris-dev\docs\image\elabLogicEx1_4.svg,1,1.0,78.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Data\String.idr,9,27.0,78.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Matrix\Algebraic.idr,35,36.0,78.0
+Idris-dev,SVG,D:\clones\Idris-dev\logos\logo.svg,1,1.0,78.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Transforms.hs,13,18.0,78.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Maybe.idr,29,32.0,77.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\DataOpts.hs,20,15.0,77.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\REPL\Commands.hs,2,2.0,77.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\IRTS\JavaScript\LangTransforms.hs,17,6.0,76.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\ASTUtils.hs,34,56.0,76.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Bool\Algebra.idr,20,3.0,75.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Matrix\Numeric.idr,28,32.0,75.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\System\Concurrency\Raw.idr,14,25.0,74.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\ST\Net\Network.idr,16,16.0,74.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Elab\Transform.hs,15,11.0,74.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\WhoCalls.hs,16,8.0,74.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality002\test017.idr,17,9.0,74.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\st\introduction.rst,18,2.0,73.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Control\Arrow.idr,27,0.0,73.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\misc\interp.idr,27,0.0,73.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Apropos.hs,16,17.0,73.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic013\basic013.idr,5,0.0,73.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\dsl001\test001.idr,27,5.0,73.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\sourceLocation001\SourceLoc.idr,23,7.0,73.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality019\totality019a.idr,8,0.0,73.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\tutorial\views.rst,39,45.0,72.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\misc\binary.idr,21,2.0,71.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\System.idr,18,27.0,70.0
+Idris-dev,Idris,D:\clones\Idris-dev\benchmarks\quasigroups\Parser.idr,13,0.0,69.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\effects\introduction.rst,24,17.0,69.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\proofs\interactive.rst,88,139.0,69.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Bits.idr,19,25.0,69.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Text\Literate.idr,20,82.0,68.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Text\PrettyPrint\WL\Characters.idr,34,1.0,68.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\IRTS\DumpBC.hs,10,7.0,68.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Elab\Provider.hs,15,17.0,67.0
+Idris-dev,Python,D:\clones\Idris-dev\docs\conf.py,100,271.0,66.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\reference\syntax-reference.rst,46,310.0,66.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\CFFI\Memory.idr,20,13.0,66.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\SortedBag.idr,28,33.0,66.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\List\Reverse.idr,16,18.0,65.0
+Idris-dev,Haskell,D:\clones\Idris-dev\main\Main.hs,12,5.0,64.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\ST\LoginCount.idr,13,0.0,64.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Info.hs,21,9.0,64.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\ST\Graphics\Draw.idr,25,0.0,63.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\IRTS\CodegenJavaScript.hs,9,6.0,63.0
+Idris-dev,Idris,D:\clones\Idris-dev\benchmarks\fasta\fasta.idr,20,6.0,62.0
+Idris-dev,C,D:\clones\Idris-dev\rts\idris_main.c,15,1.0,62.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg025\reg025.idr,16,0.0,61.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Data\Vect\Views.idr,11,12.0,60.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\coverage001.idr,15,4.0,60.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\parserLibrary\whitespace.rst,68,123.0,59.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Data\HVect.idr,22,8.0,59.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Stream.idr,26,33.0,59.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\WellFounded.idr,22,54.0,59.0
+Idris-dev,C/C++ Header,D:\clones\Idris-dev\rts\idris_stats.h,16,1.0,59.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\disambig002\disambig002.idr,17,8.0,59.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\st001\test001.idr,6,1.0,59.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\st002\test002.idr,6,1.0,59.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\BoundedList.idr,29,38.0,58.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Language\JSON\Parser.idr,13,0.0,58.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Language\JSON\Tokens.idr,14,0.0,58.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Either.idr,25,35.0,58.0
+Idris-dev,make,D:\clones\Idris-dev\Makefile,24,1.0,57.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\tutorial\starting.rst,28,8.0,57.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Bool\Extra.idr,22,3.0,57.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Fin\Extra.idr,16,13.0,57.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\List\Zipper.idr,25,78.0,57.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\System\Concurrency\Process.idr,17,12.0,57.0
+Idris-dev,C,D:\clones\Idris-dev\rts\windows\win_utils.c,8,3.0,56.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\pruviloj001\pruviloj001.idr,19,9.0,56.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality015\totality015.idr,14,0.0,56.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Data\Primitives\Views.idr,11,15.0,55.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\misc\interp-alt.idr,20,6.0,55.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\effects\Effect\Logging\Default.idr,23,41.0,54.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\proofs\inductive.rst,24,25.0,52.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\reference\language-features.rst,2,0.0,52.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\tutorial\introduction.rst,16,6.0,52.0
+Idris-dev,C/C++ Header,D:\clones\Idris-dev\rts\idris_net.h,22,17.0,52.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\meta002\DataDef.idr,16,7.0,52.0
+Idris-dev,Literate Idris,D:\clones\Idris-dev\test\regression002\reg035a.lidr,15,0.0,52.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\proofs\interactiveOld.rst,49,69.0,51.0
+Idris-dev,C,D:\clones\Idris-dev\rts\idris_stats.c,17,0.0,51.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\tutorial\Interp.idr,18,2.0,51.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\primitives003\test038.idr,4,11.0,51.0
+Idris-dev,C,D:\clones\Idris-dev\test\primitives006\array.c,10,1.0,51.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Hash.idr,25,12.0,50.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Language\JSON\String\Tokens.idr,10,0.0,50.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\mkpkg.sh,16,1.0,50.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Elab\AsPat.hs,12,11.0,50.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Data\Morphisms.idr,20,1.0,49.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Chars.idr,17,22.0,49.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\ST\Intro.idr,12,14.0,49.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Core\DeepSeq.hs,8,8.0,49.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality015\totality015a.idr,14,0.0,49.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Control\Isomorphism\Fin.idr,4,2.0,48.0
+Idris-dev,C/C++ Header,D:\clones\Idris-dev\rts\idris_heap.h,27,36.0,48.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Help.hs,5,7.0,48.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Control\Monad\Writer.idr,14,8.0,47.0
+Idris-dev,C,D:\clones\Idris-dev\rts\getline.c,6,29.0,47.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\ErrReverse.hs,13,13.0,47.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\error003\ErrorReflection.idr,18,4.0,47.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg007.idr,18,4.0,47.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Control\Monad\State.idr,17,10.0,46.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Data\IORef.idr,10,5.0,46.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\SortedSet.idr,16,4.0,46.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\ffi007\ffi007.idr,16,1.0,46.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\primitives002\run.sh,7,1.0,46.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Data\List\Quantifiers.idr,13,24.0,45.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Data\Mod2.idr,16,1.0,45.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\tutorial002\tutorial002.idr,15,1.0,45.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\parserLibrary\introduction.rst,19,13.0,44.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic012\basic012.idr,18,1.0,44.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic015\basic015.idr,22,7.0,44.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\ffi008\ffi008.idr,14,0.0,44.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\unique004\unique001a.idr,14,6.0,44.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\reference\documenting.rst,26,73.0,43.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Doubles.idr,21,0.0,43.0
+Idris-dev,C/C++ Header,D:\clones\Idris-dev\rts\idris_gmp.h,13,1.0,43.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Control\Monad\RWS.idr,13,4.0,42.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Data\Vect\Quantifiers.idr,12,23.0,42.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Language\Reflection\Errors.idr,7,4.0,42.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic024\basic024.idr,9,0.0,42.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Data\Complex.idr,24,10.0,41.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\effects001\test021.idr,7,0.0,41.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\tutorial004\tutorial004.idr,15,1.0,41.0
+Idris-dev,Markdown,D:\clones\Idris-dev\README.md,16,0.0,40.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression003\regression003.idr,16,0.0,40.0
+Idris-dev,Haskell,D:\clones\Idris-dev\codegen\idris-codegen-c\Main.hs,10,0.0,39.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\elaboratorReflection\holes.rst,70,87.0,39.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Elab\RunElab.hs,8,6.0,39.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\meta004\meta004.idr,10,1.0,39.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\primitives001\substring.idr,9,10.0,39.0
+Idris-dev,Literate Idris,D:\clones\Idris-dev\test\regression001\reg004.lidr,4,0.0,39.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\regression002\run.sh,2,0.0,39.0
+Idris-dev,Haskell,D:\clones\Idris-dev\codegen\idris-codegen-node\Main.hs,8,0.0,38.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Control\Catchable.idr,14,5.0,38.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\System\Concurrency\Channels.idr,9,23.0,38.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\String\Extra.idr,16,34.0,38.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\ST\Login.idr,13,4.0,38.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality017\totality017.idr,11,0.0,38.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Nat\Fact.idr,10,9.0,37.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Interfaces\Correlative.idr,17,9.0,37.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\effects\Effect\StdIO.idr,18,18.0,37.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Applicative.idr,16,27.0,37.0
+Idris-dev,C/C++ Header,D:\clones\Idris-dev\rts\idris_stdfgn.h,17,11.0,37.0
+Idris-dev,CMake,D:\clones\Idris-dev\rts\seL4\CMakeLists.txt,4,2.0,37.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\IRTS\JavaScript\Name.hs,14,6.0,37.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic001\reg005.idr,11,6.0,37.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\dsl002\test014.idr,31,1.0,37.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interfaces005\interfaces005a.idr,13,0.0,37.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interfaces005\interfaces005b.idr,13,0.0,37.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interfaces007\interfaces007.idr,13,2.0,37.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Data\List.idr,11,27.0,36.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\effects\Effect\System.idr,13,3.0,36.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\records003\records003.idr,10,0.0,36.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality016\totality016.idr,12,0.0,36.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\proofs\propositional.rst,52,46.0,35.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\reference\semantic-highlighting.rst,15,0.0,35.0
+Idris-dev,JavaScript,D:\clones\Idris-dev\jsrts\Runtime-node.js,5,0.0,35.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Control\Monad\Reader.idr,13,7.0,35.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Nat\Fib.idr,8,7.0,35.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Storable.idr,6,0.0,35.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interfaces005\interfaces005.idr,14,4.0,35.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\proofsearch002\proofsearch002.idr,12,1.0,35.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\quasiquote004\Quasiquote004.idr,12,4.0,35.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\eff001.idr,4,0.0,35.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\unique004\unique001c.idr,12,0.0,35.0
+Idris-dev,Haskell,D:\clones\Idris-dev\codegen\idris-codegen-javascript\Main.hs,8,0.0,34.0
+Idris-dev,make,D:\clones\Idris-dev\config.mk,8,8.0,34.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\reference\language-extensions.rst,7,0.0,34.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Language\JSON\Lexer.idr,6,0.0,34.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\effects\vadd.idr,7,0.0,34.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Providers.hs,8,8.0,34.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\dsl003\DSLPi.idr,15,0.0,34.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\ffi010\ffi010.idr,9,0.0,34.0
+Idris-dev,Scheme,D:\clones\Idris-dev\guix.scm,7,25.0,33.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Control\Algebra\Lattice.idr,19,88.0,33.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Control\Isomorphism\Extra.idr,4,5.0,33.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\REPL\Browse.hs,7,12.0,33.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive001\interactive001.idr,12,0.0,33.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\primitives006\load-test.idr,8,7.0,33.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg041\ott.idr,8,0.0,33.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Control\ST\Exception.idr,6,0.0,32.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\CoList.idr,9,13.0,32.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\effects\Effect\Default.idr,15,0.0,32.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\effects\Effect\Logging\Level.idr,16,33.0,32.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\effects\TreeTag.idr,8,0.0,32.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\stylize.sh,7,1.0,32.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic020\basic020.idr,10,0.0,32.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\error004\FunErrTest.idr,10,0.0,32.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\sugar001\test007.idr,9,0.0,32.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\universes002\universes002.idr,13,0.0,32.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\views001\views001.idr,8,3.0,32.0
+Idris-dev,Markdown,D:\clones\Idris-dev\RELEASE-CHECKS.md,13,0.0,31.0
+Idris-dev,Markdown,D:\clones\Idris-dev\docs\README.md,20,0.0,31.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\elaboratorReflection\generatingData.rst,111,243.0,31.0
+Idris-dev,make,D:\clones\Idris-dev\libs\Makefile,6,0.0,31.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Matrix.idr,15,13.0,31.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\effects\Effect\Random.idr,12,23.0,31.0
+Idris-dev,make,D:\clones\Idris-dev\rts\Makefile,10,0.0,31.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\effects\Random.idr,6,0.0,31.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic014\basic014.idr,12,1.0,31.0
+Idris-dev,C,D:\clones\Idris-dev\test\ffi009\ffi009.c,13,0.0,31.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\io003\test018a.idr,7,0.0,31.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\proof006\DefaultArgSubstitutionSyntax.idr,18,0.0,31.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg020\reg020.idr,12,0.0,31.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\st006\test006.idr,5,1.0,31.0
+Idris-dev,Idris,D:\clones\Idris-dev\benchmarks\pidigits\pidigits.idr,12,10.0,30.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Text\Quantity.idr,8,0.0,30.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Cast.idr,20,9.0,30.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Package\Common.hs,3,8.0,30.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Util\Net.hs,3,8.0,30.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\effects001\test021a.idr,10,3.0,30.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\PosNat.idr,14,14.0,29.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Sign.idr,8,2.0,29.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Language\JSON\String\Lexer.idr,9,0.0,29.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\base001\base001.idr,6,0.0,29.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic002\test006.idr,8,1.0,29.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic023\sections.idr,5,0.0,29.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\dsl004\Door2.idr,10,0.0,29.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interfaces001\InterfaceName.idr,13,7.0,29.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\proof005\DefaultArgSubstitutionSuccess.idr,15,0.0,29.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg054.idr,12,1.0,29.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Control\Algebra.idr,14,105.0,28.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Control\ST\Random.idr,8,6.0,28.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Foldable.idr,13,36.0,28.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Monad.idr,13,10.0,28.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\tutorial\Idiom.idr,10,0.0,28.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\IRTS\CodegenCommon.hs,7,11.0,28.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\proof010\proof010.idr,9,0.0,28.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\records005\records005.idr,10,1.0,28.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\tactics001\Tactics.idr,10,5.0,28.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\tutorial003\tutorial003.idr,10,0.0,28.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Data\Nat\Views.idr,4,3.0,27.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\effects\Effect\State.idr,12,1.0,27.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Basics.idr,16,17.0,27.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\tutorial\Theorems.idr,10,0.0,27.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic010\Main.idr,9,7.0,27.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\buffer002\buffer002.idr,7,0.0,27.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\effects002\test025.idr,8,0.0,27.0
+Idris-dev,C,D:\clones\Idris-dev\test\ffi007\ffi007.c,7,0.0,27.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\st005\test005.idr,5,1.0,27.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Control\Monad\Identity.idr,11,0.0,26.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Chain.idr,10,10.0,26.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Pairs.idr,14,5.0,26.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\pruviloj\Pruviloj\Renamers.idr,8,10.0,26.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic001\basic001a.idr,7,1.0,26.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\buffer001\buffer001.idr,6,1.0,26.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\io001\test004.idr,4,0.0,26.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\io003\test018.idr,7,0.0,26.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\sugar005\As.idr,6,4.0,26.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\views003\views003.idr,5,0.0,26.0
+Idris-dev,Idris,D:\clones\Idris-dev\benchmarks\quasigroups\Main.idr,2,0.0,25.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\IOArray.idr,7,15.0,25.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Test\Unit\Generic.idr,5,13.0,25.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\effects\TreeTagCount.idr,4,0.0,25.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\ffi009\Good.idr,9,3.0,25.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interfaces002\interfaces002.idr,12,1.0,25.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\proof001\test029.idr,10,6.0,25.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg024\reg024.idr,6,0.0,25.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality012\totality012.idr,5,0.0,25.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\unique001\unique001.idr,9,0.0,25.0
+Idris-dev,Markdown,D:\clones\Idris-dev\CITATION.md,5,0.0,24.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\effects\conclusions.rst,20,32.0,24.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\ffi009\Bad.idr,9,3.0,24.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interfaces004\interfaces004.idr,11,0.0,24.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg001\TestEx.idr,7,0.0,24.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg002\reg012.idr,9,0.0,24.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Bool.idr,12,12.0,23.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\dsl004\Door1.idr,14,2.0,23.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\dsl004\Door3.idr,9,0.0,23.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\proof003\Parity.idr,7,0.0,23.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\quasiquote002\GoalQQuote.idr,8,0.0,23.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\records001\test011.idr,7,0.0,23.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg075\reg075.idr,10,0.0,23.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\unique004\unique001b.idr,9,0.0,23.0
+Idris-dev,JavaScript,D:\clones\Idris-dev\jsrts\Runtime-common.js,0,0.0,22.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Nat\DivMod.idr,8,31.0,22.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\effects\Effect\Exception.idr,10,0.0,22.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\effects\Effect\Monad.idr,8,0.0,22.0
+Idris-dev,C,D:\clones\Idris-dev\rts\arduino\idris_main.c,7,2.0,22.0
+Idris-dev,C,D:\clones\Idris-dev\rts\seL4\idris_main.c,7,2.0,22.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\ST\TreeTag.idr,7,0.0,22.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Unlit.hs,8,12.0,22.0
+Idris-dev,Nix,D:\clones\Idris-dev\stack-shell.nix,2,0.0,22.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\io002\test008.idr,6,0.0,22.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg006.idr,5,1.0,22.0
+Idris-dev,Literate Idris,D:\clones\Idris-dev\test\totality011\totality011.lidr,8,1.0,22.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\views001\views001a.idr,6,1.0,22.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Providers.idr,7,5.0,21.0
+Idris-dev,C/C++ Header,D:\clones\Idris-dev\rts\idris_buffer.h,8,0.0,21.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic025\basic025.idr,3,4.0,21.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\bignum003\bignum003.idr,2,0.0,21.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\ffi011\ffi011.idr,6,0.0,21.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive009\interactive009.idr,6,0.0,21.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg048\reg048.idr,3,0.0,21.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality010\totality010.idr,9,1.0,21.0
+Idris-dev,Idris,D:\clones\Idris-dev\benchmarks\trivial\sortvec.idr,5,0.0,20.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\tutorial\conclusions.rst,13,21.0,20.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Control\IOExcept.idr,10,1.0,20.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Control\Isomorphism\Primitives.idr,11,4.0,20.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Nat\Ack.idr,12,28.0,20.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Interfaces\Proposition.idr,9,3.0,20.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Language\JSON\String\Parser.idr,5,0.0,20.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Test\Unit\Runners.idr,7,9.0,20.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\ST\Net\EchoSimple.idr,4,0.0,20.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\dsl004\Door0.idr,14,1.0,20.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\ffi006\ffi006.idr,7,3.0,20.0
+Idris-dev,C,D:\clones\Idris-dev\test\ffi008\ffi008.c,7,0.0,20.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive012\interactive012.idr,6,0.0,20.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\layout001\run.sh,2,0.0,20.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\quasiquote001\QuasiquoteBasics.idr,7,0.0,20.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality009\TestLambdaImpossible.idr,6,0.0,20.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\tutorial007\Providers.idr,7,0.0,20.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\views002\views002.idr,5,1.0,20.0
+Idris-dev,YAML,D:\clones\Idris-dev\appveyor.yml,8,0.0,19.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\effects\summary.rst,54,79.0,19.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Nat.idr,6,0.0,19.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Test\Unit\Assertions.idr,11,7.0,19.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Traversable.idr,9,8.0,19.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\effects\ReadInt.idr,3,0.0,19.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\tutorial\Views.idr,6,0.0,19.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic003\test027.idr,6,0.0,19.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\corecords001\corecords001.idr,5,0.0,19.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\corecords002\corecords002.idr,5,0.0,19.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\effects005\categoryLogger.idr,4,0.0,19.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\error007\error007.idr,6,4.0,19.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\ffi004\test026.idr,9,2.0,19.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\layout001\layout001n.idr,4,10.0,19.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\meta002\Deriving.idr,11,5.0,19.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\primitives005\primitives005.idr,4,1.0,19.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\proof011\proof011.idr,2,0.0,19.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\st003\test003.idr,5,1.0,19.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\st004\test004.idr,4,1.0,19.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\tutorial006\tutorial006c.idr,1,0.0,19.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\unique004\unique003.idr,5,0.0,19.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\scripts\runidris,3,4.0,18.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\scripts\runidris-node,3,4.0,18.0
+Idris-dev,Nix,D:\clones\Idris-dev\shell.nix,4,1.0,18.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Util\Pretty.hs,9,8.0,18.0
+Idris-dev,C,D:\clones\Idris-dev\test\base001\exit1.c,3,0.0,18.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic006\test020.idr,9,0.0,18.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic017\basic017.idr,7,0.0,18.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\folding001\folding001.idr,6,1.0,18.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\proofsearch003\proofsearch003.idr,10,6.0,18.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg041\showu.idr,5,0.0,18.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg067\reg067.idr,3,2.0,18.0
+Idris-dev,Literate Idris,D:\clones\Idris-dev\test\regression001\reg073.lidr,6,0.0,18.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\st007\test007.idr,5,1.0,18.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\unique004\unique002.idr,4,0.0,18.0
+Idris-dev,Perl,D:\clones\Idris-dev\benchmarks\run.pl,5,2.0,17.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Data\So.idr,7,12.0,17.0
+Idris-dev,make,D:\clones\Idris-dev\libs\base\Makefile,8,0.0,17.0
+Idris-dev,make,D:\clones\Idris-dev\libs\contrib\Makefile,8,0.0,17.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\effects\Effect\Select.idr,8,0.0,17.0
+Idris-dev,make,D:\clones\Idris-dev\libs\prelude\Makefile,8,0.0,17.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\effects\Exception.idr,4,0.0,17.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\effects\TreeTag-noeff.idr,4,0.0,17.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\tutorial\BTree.idr,5,0.0,17.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic011\basic011.idr,3,0.0,17.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\directives001\directives001.idr,11,0.0,17.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\ffi013\run.sh,0,0.0,17.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interfaces003\interfaces003.idr,5,0.0,17.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\quasiquote005\Quasiquote005.idr,4,1.0,17.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg028a.idr,7,1.0,17.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg055.idr,7,2.0,17.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality004\totality004.idr,8,0.0,17.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality004\totality004a.idr,7,0.0,17.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\elaboratorReflection\elabReflection.rst,19,25.0,16.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Control\Delayed.idr,5,5.0,16.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\ST\Net\Threads.idr,3,4.0,16.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\tutorial\BTreeMod.idr,4,0.0,16.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\IRTS\Inliner.hs,5,6.0,16.0
+Idris-dev,YAML,D:\clones\Idris-dev\stack-11.22.yaml,4,1.0,16.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\error005\error005.idr,10,1.0,16.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\idrisdoc006\run.sh,0,1.0,16.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\idrisdoc009\Test.idr,6,25.0,16.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interfaces009\interfaces009.idr,8,0.0,16.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg046.idr,3,0.0,16.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\unique004\unique002a.idr,4,0.0,16.0
+Idris-dev,YAML,D:\clones\Idris-dev\.stylish-haskell.yaml,14,125.0,15.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Control\Category.idr,6,2.0,15.0
+Idris-dev,make,D:\clones\Idris-dev\libs\effects\Makefile,7,0.0,15.0
+Idris-dev,make,D:\clones\Idris-dev\libs\pruviloj\Makefile,7,0.0,15.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\tutorial\Record.idr,6,0.0,15.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\tutorial\UsefulTypes.idr,6,0.0,15.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Idris\Inliner.hs,6,15.0,15.0
+Idris-dev,YAML,D:\clones\Idris-dev\stack-12.26.yaml,4,1.0,15.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\effects004\effects004.idr,4,0.0,15.0
+Idris-dev,Perl,D:\clones\Idris-dev\test\mktest.pl,6,0.0,15.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\pkg008\src\Test.idr,6,0.0,15.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg077\reg077.idr,2,0.0,15.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg063.idr,3,1.0,15.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg065.idr,7,4.0,15.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Data\Erased.idr,7,8.0,14.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\effects\Select.idr,3,0.0,14.0
+Idris-dev,Bourne Again Shell,D:\clones\Idris-dev\scripts\generate-multi-ghc-travis-template,6,0.0,14.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic006\test020a.idr,6,0.0,14.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\error006\WithPatsNoWith.idr,3,0.0,14.0
+Idris-dev,C/C++ Header,D:\clones\Idris-dev\test\ffi008\ffi008.h,5,0.0,14.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive002\interactive002.idr,7,0.0,14.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interfaces006\interfaces006.idr,5,0.0,14.0
+Idris-dev,C/C++ Header,D:\clones\Idris-dev\test\primitives006\array.h,4,0.0,14.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\quasiquote006\quasiquote006.idr,7,0.0,14.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg004\reg004.idr,2,0.0,14.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg029\run.sh,3,0.0,14.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg045\reg045.idr,5,0.0,14.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg047a.idr,10,0.0,14.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg058a.idr,5,0.0,14.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg071.idr,5,0.0,14.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\regression001\run.sh,4,0.0,14.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg018a.idr,6,1.0,14.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg035.idr,1,0.0,14.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\syntax002\syntax002.idr,8,0.0,14.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality012\totality012b.idr,4,0.0,14.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality013\totality013a.idr,3,0.0,14.0
+Idris-dev,Perl,D:\clones\Idris-dev\benchmarks\build.pl,2,0.0,13.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Functor.idr,7,11.0,13.0
+Idris-dev,YAML,D:\clones\Idris-dev\stack-15.12.yaml,4,1.0,13.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic008\test036.idr,4,0.0,13.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\bignum001\bignum001.idr,4,0.0,13.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\delab001\delab001.idr,3,0.0,13.0
+Idris-dev,C/C++ Header,D:\clones\Idris-dev\test\ffi009\ffi009.h,7,0.0,13.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\layout001\mplus1.idr,4,0.0,13.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\layout001\mplus2.idr,4,0.0,13.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\layout001\mplus3.idr,4,0.0,13.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\prelude001\prelude001.idr,1,0.0,13.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\proof011\proof011a.idr,1,0.0,13.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg042\reg042.idr,6,5.0,13.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg074.idr,7,1.0,13.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality013\totality013.idr,3,0.0,13.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality021\totality021.idr,5,0.0,13.0
+Idris-dev,JavaScript,D:\clones\Idris-dev\jsrts\Runtime-javascript.js,3,0.0,12.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Combinators.idr,7,19.0,12.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Combinators\Applicative.idr,6,9.0,12.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Fun.idr,5,1.0,12.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Language\JSON\String.idr,4,0.0,12.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Test\Unit\Display.idr,8,7.0,12.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Text\Token.idr,5,21.0,12.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\effects\Effect\Trans.idr,7,1.0,12.0
+Idris-dev,C/C++ Header,D:\clones\Idris-dev\rts\idris_opts.h,5,2.0,12.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\effects\ConsoleIO.idr,3,0.0,12.0
+Idris-dev,Literate Idris,D:\clones\Idris-dev\samples\misc\named_implementation.lidr,13,11.0,12.0
+Idris-dev,YAML,D:\clones\Idris-dev\stack-15.3.yaml,4,1.0,12.0
+Idris-dev,Literate Idris,D:\clones\Idris-dev\test\basic005\test019.lidr,6,0.0,12.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\dsl004\IOu.idr,8,1.0,12.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\effects005\defaultLogger.idr,2,0.0,12.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\ffi012\ffi012.idr,2,0.0,12.0
+Idris-dev,Literate Idris,D:\clones\Idris-dev\test\literate001\Lit.lidr,5,2.0,12.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\meta003\Catch.idr,5,0.0,12.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\proof008\ClaimAndUnfocus.idr,4,1.0,12.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg006.idr,2,0.0,12.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg038.idr,5,0.0,12.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg047.idr,6,0.0,12.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg018c.idr,5,5.0,12.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\working.idr,8,1.0,12.0
+Idris-dev,Perl,D:\clones\Idris-dev\test\scripts\timeout,5,0.0,12.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality025\totality025.idr,4,1.0,12.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\unique004\run.sh,2,0.0,12.0
+Idris-dev,Markdown,D:\clones\Idris-dev\docs\image\README.md,5,0.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Debug\Error.idr,2,4.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Monoid.idr,6,4.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\tutorial\LetBind.idr,5,0.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\tutorial\Wheres.idr,3,0.0,11.0
+Idris-dev,C,D:\clones\Idris-dev\test\base001\sys.c,4,0.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic004\test016.idr,6,0.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic009\Main.idr,5,0.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic021\basic021.idr,2,0.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic021\basic021_2.idr,2,0.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic022\basic022.idr,2,0.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\bignum002\bignum002.idr,2,1.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\directives002\directives002.idr,3,0.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interfaces008\interfaces008.idr,6,3.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\primitives001\test005.idr,3,0.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg017\reg017.idr,2,0.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg027\reg027.idr,6,0.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg018d.idr,3,1.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg055a.idr,4,0.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\sugar003\test013.idr,4,0.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\sugar004\sugar004.idr,16,20.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality001\test010.idr,6,0.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality009\TestLambdaPossible2.idr,4,1.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\tutorial005\tutorial005.idr,3,0.0,11.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Data\String\Views.idr,3,2.0,10.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Syntax\PreorderReasoning.idr,4,3.0,10.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\System\Info.idr,3,3.0,10.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Control\Algebra\VectorSpace.idr,7,15.0,10.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Control\Monad\Syntax.idr,5,3.0,10.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Combinators\Arrow.idr,4,1.0,10.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Fuel.idr,4,4.0,10.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\List\Group.idr,3,14.0,10.0
+Idris-dev,C/C++ Header,D:\clones\Idris-dev\rts\idris_utf8.h,2,14.0,10.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\base001\run.sh,2,0.0,10.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic017\basic017a.idr,5,0.0,10.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\error001\test002.idr,11,8.0,10.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\ffi002\test023.idr,8,3.0,10.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive003\interactive003.idr,5,0.0,10.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg001\Area.idr,2,0.0,10.0
+Idris-dev,Java,D:\clones\Idris-dev\test\reg029\Reg029Wrapper.java,1,6.0,10.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg003.idr,3,0.0,10.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality018\totality018.idr,3,2.0,10.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality019\totality019.idr,4,0.0,10.0
+Idris-dev,C,D:\clones\Idris-dev\test\tutorial007\nativetypes.c,3,0.0,10.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\tutorial007\tutorial007.idr,2,0.0,10.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\List\Permutations.idr,2,1.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Decidable\Decidable.idr,6,8.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Uninhabited.idr,5,10.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\misc\javaffi.idr,3,0.0,9.0
+Idris-dev,make,D:\clones\Idris-dev\samples\tutorial\Makefile,2,0.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\tutorial\Prims.idr,5,0.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic018\basic018.idr,5,0.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic019\basic019.idr,1,0.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\contrib001\contrib001.idr,5,0.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\docs005\docs005.idr,3,7.0,9.0
+Idris-dev,C,D:\clones\Idris-dev\test\ffi006\ffi006.c,5,0.0,9.0
+Idris-dev,C/C++ Header,D:\clones\Idris-dev\test\ffi007\ffi007.h,6,0.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive011\src\Main.idr,5,0.0,9.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interactive017\run.sh,0,0.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interfaces010\interfaces010.idr,3,0.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\meta003\BadDef.idr,5,0.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\proof002\test030.idr,3,0.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\proof002\test030a.idr,4,0.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\records002\record002.idr,3,0.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\records004\records004.idr,3,1.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg058.idr,5,0.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\Canonicity.idr,4,0.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg018b.idr,5,0.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg056.idr,5,0.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality006\totality006a.idr,3,0.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality009\TestLambdaPossible.idr,4,1.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality022\totality022.idr,2,0.0,9.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\tutorial006\tutorial006b.idr,3,0.0,9.0
+Idris-dev,CSS,D:\clones\Idris-dev\docs\_static\theme_overrides.css,2,3.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Control\Pipeline.idr,6,12.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Rel.idr,4,1.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Language\JSON.idr,4,2.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\prelude\Prelude\Algebra.idr,6,17.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\tutorial\Interfaces.idr,2,0.0,8.0
+Idris-dev,make,D:\clones\Idris-dev\test\base001\Makefile,3,0.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\bounded001\bounded001.idr,1,1.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\directives003\directives003.idr,2,1.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\docs001\docs001.idr,4,8.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\docs002\docs002.idr,5,4.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\effects003\VectMissing.idr,4,0.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive014\interactive014.idr,2,0.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive018\Top.idr,3,0.0,8.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\pkg001\run.sh,0,0.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\quasiquote003\NoInfer.idr,3,0.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg039\reg039.idr,3,1.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg076\reg076.idr,3,0.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg003.idr,3,0.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg036.idr,4,0.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg064.idr,0,0.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\badbangop.idr,6,1.0,8.0
+Idris-dev,Literate Idris,D:\clones\Idris-dev\test\regression002\reg007.lidr,4,0.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality006\totality006.idr,4,1.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality012\totality012a.idr,4,0.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality021\totality021a.idr,3,1.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality023\totality023.idr,3,0.0,8.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\tutorial001\tutorial001.idr,1,0.0,8.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\tutorial\index.rst,7,23.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Control\ST\ImplicitCall.idr,3,3.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Pairs\Implicit.idr,3,3.0,7.0
+Idris-dev,C/C++ Header,D:\clones\Idris-dev\rts\getline.h,0,0.0,7.0
+Idris-dev,C/C++ Header,D:\clones\Idris-dev\rts\windows\win_utils.h,2,0.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\ST\Composite.idr,1,0.0,7.0
+Idris-dev,make,D:\clones\Idris-dev\samples\effects\Makefile,1,0.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\effects\hworld.idr,3,0.0,7.0
+Idris-dev,make,D:\clones\Idris-dev\samples\misc\Makefile,1,0.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\tutorial\Foo.idr,3,0.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\tutorial\VBroken.idr,3,0.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic012\basic012a.idr,3,0.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic026\basic026.idr,3,2.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\ffi005\Postulate.idr,5,0.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive018\Imported1.idr,3,0.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive018\Public1.idr,3,0.0,7.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\pkg007\run.sh,0,0.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\primitives004-disabled\primitives004.idr,1,0.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\proof004\test035.idr,2,0.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\proofsearch001\proofsearch001.idr,4,0.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg027\reg027a.idr,3,0.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg029\reg029.idr,3,1.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg060.idr,5,0.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\Mod.idr,4,1.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg003a.idr,3,0.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg034.idr,3,0.0,7.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\sugar004\run.sh,0,0.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality005\totality005.idr,3,0.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality008\totality008.idr,1,0.0,7.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality020\totality020.idr,4,0.0,7.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\elaboratorReflection\primitive.rst,212,300.0,6.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\reference\index.rst,7,28.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Control\Partial.idr,2,6.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Polyhedra.idr,3,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Text\PrettyPrint\WL.idr,2,10.0,6.0
+Idris-dev,C/C++ Header,D:\clones\Idris-dev\rts\idris_gc.h,3,0.0,6.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic001\run.sh,0,0.0,6.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic010\run.sh,4,0.0,6.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic021\run.sh,0,0.0,6.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\directives003\run.sh,3,4.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\docs003\docs003.idr,2,1.0,6.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\effects001\run.sh,0,0.0,6.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\effects005\run.sh,0,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\ffi001\test022.idr,3,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive004\interactive004.idr,3,0.0,6.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interactive005\run.sh,0,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive018\Imported2.idr,2,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive018\Public2.idr,2,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\layout001\layout001e.idr,0,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\layout001\layout001f.idr,0,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\layout001\layout001h.idr,0,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\layout001\layout001i.idr,0,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\layout001\layout001j.idr,0,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\layout001\layout001k.idr,0,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\layout001\layout001l.idr,0,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\pkg008\src\NumOps.idr,3,0.0,6.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\primitives001\run.sh,0,0.0,6.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\primitives006\run.sh,0,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg005\reg005.idr,3,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg013\reg013.idr,2,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg031\reg031.idr,1,1.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg052\reg052.idr,2,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg002.idr,2,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg005.idr,2,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg053.idr,3,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg059.idr,2,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg062.idr,2,5.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg066.idr,1,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg028.idr,2,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg035b.idr,4,2.0,6.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\st005\run.sh,1,0.0,6.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\st006\run.sh,0,0.0,6.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\st007\run.sh,0,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\sugar002\test009.idr,3,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality001\test010b.idr,3,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality002\test017a.idr,3,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality003\totality003.idr,1,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality003\totality003a.idr,1,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality006\totality006b.idr,4,4.0,6.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality009\run.sh,0,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality024\totality023.idr,1,0.0,6.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\universes001\universes001.idr,2,0.0,6.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\views001\run.sh,0,0.0,6.0
+Idris-dev,Markdown,D:\clones\Idris-dev\.github\ISSUE_TEMPLATE.md,4,0.0,5.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\st\index.rst,8,14.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Graph.idr,3,0.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Data\Stream\Extra.idr,2,3.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\Test\Unit.idr,2,7.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\pruviloj\Pruviloj.idr,1,2.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\tutorial\BMain.idr,3,0.0,5.0
+Idris-dev,C/C++ Header,D:\clones\Idris-dev\test\base001\sys.h,2,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic006\run.sh,1,0.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic009\Faulty.idr,2,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic009\run.sh,3,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic012\run.sh,0,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic024\run.sh,3,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic025\run.sh,2,0.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\docs004\docs004.idr,1,5.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\dsl001\run.sh,0,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\dsl004\run.sh,0,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\ffi006\run.sh,0,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\ffi009\run.sh,0,0.0,5.0
+Idris-dev,JavaScript,D:\clones\Idris-dev\test\ffi011\ffi011.js,2,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\idrisdoc005\run.sh,0,1.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\idrisdoc007\run.sh,0,1.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\idrisdoc008\run.sh,0,1.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interactive015\run.sh,3,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interactive016\run.sh,3,0.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive016\src\interactive016.idr,2,0.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive017\shebang-args.idr,1,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interfaces005\run.sh,0,0.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interpret001\double-echo.idr,1,0.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interpret002\file-error.idr,1,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\io003\run.sh,0,1.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\layout001\layout001a.idr,0,0.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\layout001\layout001b.idr,0,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\literate001\run.sh,0,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\meta002\run.sh,0,2.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\meta003\run.sh,0,0.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\pkg001\Main.idr,3,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\pkg008\run.sh,4,2.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\proof007\DefaultArgUnknownName.idr,3,2.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg027\run.sh,0,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg039\run.sh,3,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg041\run.sh,0,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg067\run.sh,0,0.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg057.idr,3,0.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg061.idr,3,1.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg023.idr,3,0.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg044.idr,1,0.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg070.idr,6,4.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg076.idr,2,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\st001\run.sh,1,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\st002\run.sh,1,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\st003\run.sh,1,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\st004\run.sh,1,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality001\run.sh,1,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality002\run.sh,0,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality004\run.sh,0,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality005\run.sh,0,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality006\run.sh,0,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality012\run.sh,0,0.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality014\totality014.idr,2,0.0,5.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality026\totality026.idr,2,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\tutorial006\run.sh,0,0.0,5.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\tutorial007\run.sh,0,0.0,5.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\effects\index.rst,10,26.0,4.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\elaboratorReflection\index.rst,7,16.0,4.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\guides\index.rst,7,11.0,4.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\parserLibrary\index.rst,7,13.0,4.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\proofs\index.rst,8,16.0,4.0
+Idris-dev,XML,D:\clones\Idris-dev\icons\x-idris-bytecode.xml,0,0.0,4.0
+Idris-dev,XML,D:\clones\Idris-dev\icons\x-idris-literate.xml,0,0.0,4.0
+Idris-dev,XML,D:\clones\Idris-dev\icons\x-idris.xml,0,0.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Control\Monad\Trans.idr,2,0.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\base\Debug\Trace.idr,3,3.0,4.0
+Idris-dev,Markdown,D:\clones\Idris-dev\rts\seL4\README.md,1,0.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\tutorial\Universe.idr,3,0.0,4.0
+Idris-dev,Haskell,D:\clones\Idris-dev\src\Util\ScreenSize.hs,3,6.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic002\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic003\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic004\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic005\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic007\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic008\run.sh,0,0.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic009\A.idr,1,0.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic009\B\C.idr,1,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic011\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic013\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic015\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic017\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic019\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic020\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic022\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic023\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic026\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\bignum001\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\bignum002\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\bignum003\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\bounded001\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\buffer001\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\buffer002\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\contrib001\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\corecords001\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\corecords002\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\dsl002\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\effects002\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\effects003\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\effects004\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\error002\run.sh,0,0.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\error002\test031.idr,3,1.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\error008\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\ffi005\run.sh,1,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\ffi007\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\ffi008\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\ffi010\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\ffi011\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\ffi012\run.sh,0,0.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\ffi013\ffi013.idr,1,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\folding001\run.sh,0,0.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\idrisdoc001\TestPrivate.idr,1,0.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\idrisdoc002\TestFunctions.idr,1,1.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\idrisdoc002\run.sh,0,1.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\idrisdoc003\TestDatatypes.idr,1,2.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\idrisdoc003\run.sh,0,1.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\idrisdoc004\TestInterfaces.idr,1,4.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\idrisdoc004\run.sh,0,1.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\idrisdoc005\TestTracing.idr,1,0.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\idrisdoc006\B.idr,1,1.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\idrisdoc008\Abstract.idr,1,0.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\idrisdoc008\Visible.idr,1,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interactive011\run.sh,2,0.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive011\src\Foo.idr,1,0.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive017\TestMod.idr,1,0.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive017\shebang-import.idr,2,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interfaces002\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interfaces003\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interfaces004\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interfaces007\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\io001\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\io002\run.sh,0,0.0,4.0
+Idris-dev,Literate Idris,D:\clones\Idris-dev\test\literate001\test003.lidr,3,1.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\pkg002\run.sh,0,1.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\pkg003\run.sh,0,2.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\pkg009\run.sh,3,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\prelude001\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\primitives003\run.sh,1,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\primitives004-disabled\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\primitives005\run.sh,1,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\proof002\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\proof003\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\proof010\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\proof011\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\quasiquote001\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\quasiquote002\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\records001\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\records002\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\records003\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\records004\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\records005\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg001\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg002\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg004\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg005\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg013\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg016\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg017\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg020\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg024\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg025\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg031\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg032\run.sh,0,0.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg040\reg040.idr,2,1.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg040\run.sh,2,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg042\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg045\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg048\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg052\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg076\run.sh,0,0.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression001\reg037.idr,4,1.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg010.idr,1,0.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg049.idr,1,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\regression003\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\sourceLocation001\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\sugar001\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\sugar002\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\sugar003\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\sugar005\run.sh,0,0.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\syntax001\Syntax.idr,4,0.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\syntax001\SyntaxTest.idr,1,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\syntax001\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\syntax002\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality003\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality013\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality015\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality019\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality021\run.sh,0,0.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\tutorial006\tutorial006a.idr,3,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\unique001\run.sh,2,0.0,4.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\unique004\unique001e.idr,1,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\views002\run.sh,0,0.0,4.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\views003\run.sh,0,0.0,4.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\elaboratorReflection\example1.rst,56,133.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\libs\contrib\CFFI.idr,1,0.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\samples\tutorial\Hello.idr,2,0.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic007\test033.idr,1,0.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic009\Multiple.idr,1,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic014\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic016\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\basic018\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\delab001\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\directives001\run.sh,1,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\directives002\run.sh,1,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\disambig002\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\docs001\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\docs002\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\docs003\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\docs004\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\docs005\run.sh,0,0.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\docs006\docs006.idr,1,3.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\docs006\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\dsl003\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\error001\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\error003\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\error004\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\error005\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\error006\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\error007\run.sh,0,0.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\error008\error008.idr,2,0.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\error008\error008a.idr,2,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\ffi001\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\ffi002\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\ffi003\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\ffi004\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\idrisdoc001\run.sh,0,1.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\idrisdoc006\A\fully\Qualified\NAME.idr,1,2.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\idrisdoc007\A.idr,1,2.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\idrisdoc009\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interactive001\run.sh,2,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interactive002\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interactive003\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interactive004\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interactive006\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interactive009\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interactive012\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interactive013\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interactive014\run.sh,0,0.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive017\shebang-node.idr,1,0.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive017\shebang.idr,1,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interactive018\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interfaces001\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interfaces006\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interfaces008\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interfaces009\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interfaces010\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interpret001\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interpret002\run.sh,0,0.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interpret003\interpret003.idr,1,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interpret003\run.sh,0,0.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\layout001\layout001c.idr,0,0.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\layout001\layout001d.idr,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\meta001\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\meta004\run.sh,0,0.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\pkg004\Main.idr,1,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\pkg004\run.sh,0,3.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\pkg007\toy\Toy.idr,1,0.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\pkg007\toy\Toy\Vehicle.idr,1,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\proof001\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\proof004\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\proof005\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\proof006\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\proof007\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\proof008\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\proof009\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\proofsearch001\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\proofsearch002\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\proofsearch003\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\pruviloj001\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\quasiquote003\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\quasiquote004\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\quasiquote005\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\quasiquote006\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg007\run.sh,0,0.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg016\reg016.idr,3,5.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\reg032\test028.idr,0,2.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg051-disabled\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg075\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\reg077\run.sh,0,0.0,3.0
+Idris-dev,Literate Idris,D:\clones\Idris-dev\test\regression002\A.lidr,2,0.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\DoubleEquality.idr,2,0.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\baddoublebang.idr,3,1.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg002.idr,0,0.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg068.idr,1,0.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg069.idr,2,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\tactics001\run.sh,0,0.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality002\test017b.idr,2,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality007\run.sh,0,0.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\totality007\src\Totality.idr,1,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality008\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality010\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality011\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality014\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality016\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality017\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality018\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality020\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality022\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality024\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality025\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\totality026\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\tutorial001\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\tutorial002\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\tutorial003\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\tutorial004\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\tutorial005\run.sh,0,0.0,3.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\unique004\unique001d.idr,1,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\universes001\run.sh,0,0.0,3.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\universes002\run.sh,0,0.0,3.0
+Idris-dev,YAML,D:\clones\Idris-dev\.hlint.yaml,14,45.0,2.0
+Idris-dev,reStructuredText,D:\clones\Idris-dev\docs\index.rst,7,21.0,2.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic016\CycleA.idr,2,0.0,2.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic016\CycleB.idr,3,0.0,2.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\basic016\CycleC.idr,2,0.0,2.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\error009\run.sh,0,0.0,2.0
+Idris-dev,JavaScript,D:\clones\Idris-dev\test\ffi012\ffi012.js,1,0.0,2.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive005\interactive005.idr,0,1.0,2.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive006\interactive006.idr,1,0.0,2.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interactive007\run.sh,0,0.0,2.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interactive008\run.sh,0,0.0,2.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\interactive010\run.sh,0,0.0,2.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive013\interactive013.idr,2,0.0,2.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\interactive015\src\interactive015.idr,2,0.0,2.0
+Idris-dev,Literate Idris,D:\clones\Idris-dev\test\literate001\test003a.lidr,0,1.0,2.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\pkg005\run.sh,0,1.0,2.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\pkg006\run.sh,0,1.0,2.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\pkg007\toy\Toy\Vehicle\Car.idr,1,0.0,2.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\pkg009\src\Data\Type.idr,1,0.0,2.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\test\pkg010\run.sh,0,0.0,2.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\proof009\proof009.idr,2,5.0,2.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\Negation.idr,0,0.0,2.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg001.idr,0,0.0,2.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\syntax001\SyntaxOk.idr,4,0.0,2.0
+Idris-dev,Windows Resource File,D:\clones\Idris-dev\icons\idris_icon.rc,0,0.0,1.0
+Idris-dev,JavaScript,D:\clones\Idris-dev\jsrts\jsbn\jsbn-node.js,0,0.0,1.0
+Idris-dev,C,D:\clones\Idris-dev\rts\libtest.c,0,0.0,1.0
+Idris-dev,YAML,D:\clones\Idris-dev\stack.yaml,0,0.0,1.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\idrisdoc001\TestEmpty.idr,0,0.0,1.0
+Idris-dev,Idris,D:\clones\Idris-dev\test\regression002\reg077.idr,1,0.0,1.0
+Idris-dev,Bourne Shell,D:\clones\Idris-dev\win-release.sh,1,0.0,1.0

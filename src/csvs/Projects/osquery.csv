@@ -1,0 +1,1960 @@
+project,language,filename,blank,comment,code
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\aws-sdk-cpp\CMakeLists.txt,254,6.0,3809.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libgcrypt\generated\x86_64\cipher\gost-sb.h,8,32.0,2087.0
+osquery,C++,D:\clones\osquery\osquery\extensions\thrift\gen\ExtensionManager.cpp,405,54.0,2019.0
+osquery,C,D:\clones\osquery\libraries\cmake\source\augeas\generated\macos\x86_64\code\parser.c,384,383.0,1976.0
+osquery,C,D:\clones\osquery\libraries\cmake\source\augeas\generated\linux\x86_64\code\parser.c,429,380.0,1822.0
+osquery,C,D:\clones\osquery\libraries\cmake\source\augeas\generated\linux\aarch64\code\parser.c,357,340.0,1796.0
+osquery,C,D:\clones\osquery\libraries\cmake\source\augeas\generated\macos\x86_64\code\lexer.c,431,415.0,1727.0
+osquery,C++,D:\clones\osquery\osquery\devtools\shell.cpp,155,206.0,1573.0
+osquery,C,D:\clones\osquery\libraries\cmake\source\augeas\generated\linux\aarch64\code\lexer.c,413,416.0,1533.0
+osquery,C,D:\clones\osquery\libraries\cmake\source\augeas\generated\linux\x86_64\code\lexer.c,405,411.0,1496.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\linux\aarch64\lib\unistd.h,188,486.0,1477.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\linux\x86_64\lib\unistd.h,188,486.0,1477.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\aarch64\lib\unistd.h,188,486.0,1477.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\unistd.h,188,486.0,1477.0
+osquery,C++,D:\clones\osquery\osquery\filesystem\windows\fileops.cpp,256,197.0,1364.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\linux\aarch64\lib\stdio.h,134,410.0,1314.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\aarch64\lib\stdio.h,134,410.0,1314.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\stdio.h,134,410.0,1314.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libgpg-error\generated\x86_64\code-to-errno.h,9,16.0,1275.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\linux\process_file_events.cpp,303,103.0,1180.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libgpg-error\generated\aarch64\gpgrt.h,162,159.0,1142.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libgpg-error\generated\x86_64\gpgrt.h,162,159.0,1141.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\linux\x86_64\lib\stdlib.h,123,398.0,1074.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\aarch64\lib\stdlib.h,123,398.0,1074.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\stdlib.h,123,398.0,1074.0
+osquery,C++,D:\clones\osquery\osquery\events\tests\linux\bpf\bpfeventpublisher.cpp,419,245.0,1038.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\linux\x86_64\lib\wchar.h,149,361.0,1036.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\aarch64\lib\wchar.h,149,361.0,1036.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\wchar.h,149,361.0,1036.0
+osquery,CSS,D:\clones\osquery\docs\doxygen\osquery.css,232,43.0,1016.0
+osquery,C++,D:\clones\osquery\osquery\events\tests\linux\bpf\systemstatetracker.cpp,320,73.0,994.0
+osquery,C++,D:\clones\osquery\osquery\events\linux\bpf\systemstatetracker.cpp,258,22.0,991.0
+osquery,C++,D:\clones\osquery\osquery\sql\tests\virtual_table.cpp,178,76.0,988.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\linux\md_tables_tests.cpp,150,23.0,979.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\glog\generated\macos\x86_64\public\glog\logging.h,269,669.0,962.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\glog\generated\windows\x86_64\public\glog\logging.h,269,669.0,962.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\linux\aarch64\lib\string.h,123,453.0,961.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\linux\x86_64\lib\string.h,123,453.0,961.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\aarch64\lib\string.h,123,453.0,961.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\string.h,123,453.0,961.0
+osquery,Markdown,D:\clones\osquery\CHANGELOG.md,239,0.0,942.0
+osquery,C++,D:\clones\osquery\osquery\tables\applications\posix\docker.cpp,118,210.0,938.0
+osquery,YAML,D:\clones\osquery\.github\workflows\hosted_runners.yml,257,81.0,908.0
+osquery,C++,D:\clones\osquery\osquery\extensions\thrift\gen\Extension.cpp,206,27.0,905.0
+osquery,C++,D:\clones\osquery\osquery\tables\applications\chrome\utils.cpp,280,71.0,894.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libgcrypt\generated\x86_64\src\gcrypt.h,346,567.0,885.0
+osquery,C++,D:\clones\osquery\osquery\config\config.cpp,169,183.0,877.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\aarch64\lib\stdlib.in.h,77,156.0,855.0
+osquery,C++,D:\clones\osquery\osquery\sql\virtual_table.cpp,184,134.0,849.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\linux\x86_64\lib\stat.h,136,319.0,842.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\aarch64\lib\stat.h,136,319.0,842.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\stat.h,136,319.0,842.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libgpg-error\generated\x86_64\err-codes-sym.h,10,18.0,832.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libgpg-error\generated\x86_64\err-codes.h,10,18.0,832.0
+osquery,C++,D:\clones\osquery\osquery\events\linux\bpf\bpfeventpublisher.cpp,220,48.0,822.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\boost\CMakeLists.txt,124,7.0,737.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\intel_me.cpp,196,36.0,711.0
+osquery,C++,D:\clones\osquery\osquery\extensions\thrift\gen\osquery_types.cpp,107,6.0,708.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\extensions\thrift\gen\ExtensionManager.h,200,9.0,699.0
+osquery,C++,D:\clones\osquery\osquery\events\linux\auditdnetlink.cpp,189,66.0,659.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\processes.cpp,89,36.0,653.0
+osquery,C++,D:\clones\osquery\osquery\events\windows\usn_journal_reader.cpp,161,94.0,644.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\deployment\configuration.md,165,0.0,626.0
+osquery,diff,D:\clones\osquery\libraries\cmake\source\librpm\build-patches\centos6-support-and-remove-lua.patch,40,168.0,605.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\processes.cpp,108,85.0,601.0
+osquery,C++,D:\clones\osquery\osquery\sql\sqlite_util.cpp,116,76.0,599.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\wctype.h,98,291.0,592.0
+osquery,C++,D:\clones\osquery\osquery\database\database.cpp,114,49.0,580.0
+osquery,C++,D:\clones\osquery\osquery\config\tests\config_tests.cpp,152,70.0,577.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\smc_keys.cpp,98,46.0,577.0
+osquery,C++,D:\clones\osquery\osquery\filesystem\tests\fileops.cpp,150,49.0,573.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\md_tables.cpp,127,93.0,567.0
+osquery,C++,D:\clones\osquery\osquery\events\eventsubscriberplugin.cpp,156,31.0,566.0
+osquery,C++,D:\clones\osquery\osquery\extensions\extensions.cpp,111,114.0,564.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\certificates.cpp,111,123.0,559.0
+osquery,C++,D:\clones\osquery\osquery\core\watcher.cpp,122,99.0,554.0
+osquery,diff,D:\clones\osquery\libraries\cmake\source\librpm\patches\src\remove-lua.patch,23,83.0,546.0
+osquery,Python,D:\clones\osquery\tools\tests\test_base.py,111,79.0,543.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\windows_crashes.cpp,73,38.0,542.0
+osquery,C++,D:\clones\osquery\osquery\core\init.cpp,117,111.0,519.0
+osquery,C++,D:\clones\osquery\osquery\events\tests\linux\socket_events.cpp,99,29.0,506.0
+osquery,PowerShell,D:\clones\osquery\tools\deployment\make_windows_package.ps1,114,63.0,506.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\linux\seccomp_events.cpp,23,12.0,501.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\registry.cpp,67,25.0,501.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\posix\smbios_utils.cpp,88,47.0,498.0
+osquery,C++,D:\clones\osquery\osquery\tables\applications\posix\lxd.cpp,82,128.0,495.0
+osquery,C++,D:\clones\osquery\osquery\core\tables.cpp,89,50.0,494.0
+osquery,C++,D:\clones\osquery\osquery\core\system.cpp,91,52.0,487.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\stdint.h,101,141.0,485.0
+osquery,C++,D:\clones\osquery\osquery\utils\windows\shelllnk.cpp,21,22.0,471.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\aarch64\lib\time.h,75,282.0,467.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\time.h,75,282.0,467.0
+osquery,C++,D:\clones\osquery\osquery\filesystem\tests\filesystem.cpp,103,39.0,459.0
+osquery,C++,D:\clones\osquery\osquery\utils\aws\aws_util.cpp,84,43.0,454.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\linux\x86_64\config\config.h,416,709.0,448.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\linux\aarch64\config\config.h,416,709.0,447.0
+osquery,C++,D:\clones\osquery\osquery\core\windows\wmi.cpp,80,19.0,446.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\aarch64\config\config.h,413,704.0,445.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\rocksdb\CMakeLists.txt,29,16.0,444.0
+osquery,C++,D:\clones\osquery\osquery\filesystem\filesystem.cpp,89,86.0,444.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\config\config.h,413,708.0,441.0
+osquery,C++,D:\clones\osquery\osquery\extensions\impl_thrift.cpp,82,28.0,441.0
+osquery,C++,D:\clones\osquery\osquery\events\windows\ntfs_event_publisher.cpp,135,44.0,437.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmtag.h,30,78.0,436.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\linux\x86_64\lib\fcntl.h,108,297.0,435.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\aarch64\lib\fcntl.h,108,297.0,435.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\fcntl.h,108,297.0,435.0
+osquery,C++,D:\clones\osquery\osquery\remote\http_client.cpp,78,13.0,424.0
+osquery,C++,D:\clones\osquery\osquery\utils\windows\shellitem.cpp,38,30.0,422.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\extensions\thrift\gen\Extension.h,112,9.0,421.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\authenticode.cpp,96,31.0,413.0
+osquery,C++,D:\clones\osquery\osquery\events\tests\events_tests.cpp,124,68.0,409.0
+osquery,CMake,D:\clones\osquery\cmake\utilities.cmake,116,21.0,403.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\system\darwin\disk_encryption.mm,65,43.0,388.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\core\tables.h,133,425.0,378.0
+osquery,C++,D:\clones\osquery\osquery\events\linux\inotify.cpp,69,41.0,378.0
+osquery,C++,D:\clones\osquery\osquery\sql\tests\sql.cpp,71,38.0,376.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\system\darwin\packages.mm,67,65.0,376.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\processes.cpp,76,79.0,376.0
+osquery,C++,D:\clones\osquery\osquery\events\linux\auditeventpublisher.cpp,99,36.0,375.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\locale.h,74,298.0,374.0
+osquery,C++,D:\clones\osquery\osquery\tables\sleuthkit\sleuthkit.cpp,65,51.0,369.0
+osquery,C++,D:\clones\osquery\osquery\tables\applications\posix\tests\prometheus_metrics_tests.cpp,31,19.0,365.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\shellbags.cpp,20,26.0,365.0
+osquery,C++,D:\clones\osquery\osquery\logger\logger.cpp,88,108.0,362.0
+osquery,C++,D:\clones\osquery\osquery\sql\tests\sqlite_util_tests.cpp,78,27.0,362.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\curl_certificate.cpp,75,27.0,359.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\langinfo.h,67,245.0,358.0
+osquery,CMake,D:\clones\osquery\osquery\tables\system\CMakeLists.txt,32,6.0,357.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\pci_devices.cpp,79,26.0,356.0
+osquery,CMake,D:\clones\osquery\cmake\flags.cmake,66,15.0,355.0
+osquery,C++,D:\clones\osquery\osquery\logger\tests\logger.cpp,89,59.0,351.0
+osquery,CMake,D:\clones\osquery\specs\CMakeLists.txt,22,7.0,349.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\introduction\sql.md,142,0.0,345.0
+osquery,C++,D:\clones\osquery\osquery\tables\applications\chrome\tests\utils.cpp,95,16.0,344.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\windows\windows_firewall_rules.cpp,62,11.0,344.0
+osquery,Python,D:\clones\osquery\tools\tests\test_http_server.py,79,59.0,344.0
+osquery,Python,D:\clones\osquery\tools\formatting\git-clang-format.py,78,102.0,342.0
+osquery,CMake,D:\clones\osquery\tests\integration\tables\CMakeLists.txt,25,6.0,341.0
+osquery,C++,D:\clones\osquery\osquery\events\eventfactory.cpp,72,61.0,339.0
+osquery,Python,D:\clones\osquery\tools\codegen\gentable.py,86,65.0,338.0
+osquery,C++,D:\clones\osquery\osquery\worker\ipc\linux\linux_table_container_ipc.cpp,94,28.0,336.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\prefetch.cpp,51,23.0,335.0
+osquery,C++,D:\clones\osquery\osquery\events\tests\linux\process_file_events_tests.cpp,25,18.0,330.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmpgp.h,77,894.0,329.0
+osquery,C++,D:\clones\osquery\osquery\events\tests\darwin\fsevents_tests.cpp,83,46.0,327.0
+osquery,C++,D:\clones\osquery\plugins\database\rocksdb.cpp,65,45.0,326.0
+osquery,C++,D:\clones\osquery\osquery\utils\json\json.cpp,64,8.0,322.0
+osquery,C++,D:\clones\osquery\osquery\tables\lldpd\lldp_neighbors.cpp,60,35.0,321.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\system\darwin\apps.mm,40,33.0,319.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\remote\http_client.h,87,124.0,318.0
+osquery,Python,D:\clones\osquery\tools\analysis\profile.py,39,21.0,318.0
+osquery,C++,D:\clones\osquery\osquery\filesystem\linux\proc.cpp,62,22.0,315.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libarchive\config\macos\x86_64\config.h,402,629.0,314.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\installation\cli-flags.md,276,0.0,313.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libarchive\config\linux\x86_64\config.h,402,632.0,311.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\sleuthkit\CMakeLists.txt,49,14.0,309.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\development\building.md,144,0.0,308.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\tests\windows\powershell_events_tests.cpp,72,16.0,307.0
+osquery,C++,D:\clones\osquery\plugins\logger\tests\kafka_producer_tests.cpp,46,17.0,307.0
+osquery,C++,D:\clones\osquery\osquery\tables\yara\yara.cpp,59,48.0,306.0
+osquery,C++,D:\clones\osquery\osquery\core\query.cpp,48,24.0,305.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\util-linux\CMakeLists.txt,27,8.0,304.0
+osquery,C++,D:\clones\osquery\osquery\distributed\distributed.cpp,59,12.0,304.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\deployment\process-auditing.md,91,0.0,300.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libarchive\config\linux\aarch64\config.h,402,644.0,299.0
+osquery,C++,D:\clones\osquery\osquery\tables\yara\yara_utils.cpp,62,64.0,298.0
+osquery,C++,D:\clones\osquery\osquery\filesystem\posix\fileops.cpp,64,19.0,297.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\tests\linux\process_events_tests.cpp,75,25.0,297.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libgpg-error\generated\x86_64\errnos-sym.h,12,18.0,293.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\drivers.cpp,45,24.0,293.0
+osquery,CMake,D:\clones\osquery\cmake\install_directives.cmake,69,12.0,290.0
+osquery,C++,D:\clones\osquery\plugins\logger\tests\buffered_tests.cpp,58,26.0,289.0
+osquery,YAML,D:\clones\osquery\.github\workflows\self_hosted_runners.yml,82,50.0,288.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\system_tables_tests.cpp,61,34.0,288.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\keychain_acl.cpp,40,12.0,287.0
+osquery,C++,D:\clones\osquery\osquery\utils\conversions\tests\tryto.cpp,32,11.0,287.0
+osquery,C++,D:\clones\osquery\osquery\registry\registry_interface.cpp,73,37.0,286.0
+osquery,C++,D:\clones\osquery\osquery\main\windows\main.cpp,50,34.0,283.0
+osquery,C++,D:\clones\osquery\osquery\events\tests\eventsubscriberplugin.cpp,90,25.0,279.0
+osquery,C++,D:\clones\osquery\osquery\events\darwin\fsevents.cpp,56,48.0,278.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\darwin\openbsm_events.cpp,33,27.0,274.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\linux\process_events.cpp,73,43.0,274.0
+osquery,C++,D:\clones\osquery\osquery\utils\expected\tests\expected.cpp,37,8.0,273.0
+osquery,C++,D:\clones\osquery\osquery\carver\carver.cpp,52,32.0,268.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\windows\powershell_events.cpp,84,16.0,268.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\helper.cpp,42,19.0,265.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\fnmatch.h,64,257.0,263.0
+osquery,C++,D:\clones\osquery\osquery\process\windows\process.cpp,62,49.0,263.0
+osquery,Python,D:\clones\osquery\tools\tests\test_extensions.py,71,62.0,263.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\preferences.cpp,45,34.0,262.0
+osquery,C++,D:\clones\osquery\plugins\logger\kafka_producer.cpp,58,51.0,261.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\windows\ntfs_journal_events.cpp,64,55.0,260.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\windows\process_open_sockets.cpp,25,10.0,259.0
+osquery,C++,D:\clones\osquery\osquery\config\packs.cpp,60,24.0,258.0
+osquery,C++,D:\clones\osquery\osquery\sql\sqlite_hashing.cpp,32,12.0,257.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\posix\interfaces.cpp,39,21.0,255.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\keychain_utils.cpp,53,31.0,255.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\wait.h,72,251.0,254.0
+osquery,C,D:\clones\osquery\libraries\cmake\source\librpm\generated\lib\rpmhash.C,39,18.0,252.0
+osquery,C++,D:\clones\osquery\osquery\events\linux\bpf\serializers.cpp,62,8.0,252.0
+osquery,C++,D:\clones\osquery\osquery\sql\sqlite_string.cpp,44,61.0,251.0
+osquery,C,D:\clones\osquery\libraries\cmake\source\librpm\generated\lib\tagtbl.C,0,0.0,249.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\portage.cpp,38,37.0,249.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\extensions\thrift\gen\osquery_types.h,92,6.0,247.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\linux\socket_events.cpp,55,23.0,247.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\windows\interfaces.cpp,33,16.0,247.0
+osquery,C++,D:\clones\osquery\osquery\core\tests\process_tests.cpp,56,12.0,246.0
+osquery,PowerShell,D:\clones\osquery\tools\deployment\windows_packaging\osquery_utils.ps1,29,31.0,242.0
+osquery,C++,D:\clones\osquery\osquery\process\windows\process_ops.cpp,41,22.0,239.0
+osquery,C++,D:\clones\osquery\osquery\sql\benchmarks\sql_benchmarks.cpp,57,18.0,238.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\hash.cpp,49,59.0,238.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\posix\ssh_keys_tests.cpp,39,14.0,238.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\windows_eventlog.cpp,43,26.0,236.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\libdevmapper\CMakeLists.txt,11,6.0,233.0
+osquery,Objective-C++,D:\clones\osquery\osquery\utils\darwin\plist.mm,37,35.0,233.0
+osquery,C++,D:\clones\osquery\osquery\extensions\interface.cpp,50,26.0,231.0
+osquery,C++,D:\clones\osquery\plugins\logger\filesystem_logger.cpp,58,34.0,230.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\deployment\logging.md,62,0.0,229.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libarchive\config\windows\x86_64\config.h,402,714.0,229.0
+osquery,C++,D:\clones\osquery\osquery\tables\utility\osquery.cpp,38,14.0,229.0
+osquery,C++,D:\clones\osquery\plugins\database\sqlite.cpp,48,18.0,229.0
+osquery,Python,D:\clones\osquery\tools\codegen\genapi.py,41,30.0,229.0
+osquery,Python,D:\clones\osquery\tools\tests\test_windows_service.py,85,61.0,229.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\extended_attributes.cpp,37,18.0,228.0
+osquery,C++,D:\clones\osquery\osquery\dispatcher\scheduler.cpp,40,31.0,227.0
+osquery,Python,D:\clones\osquery\tools\tests\test_osqueryd.py,47,35.0,227.0
+osquery,C++,D:\clones\osquery\osquery\events\linux\syslog.cpp,45,28.0,225.0
+osquery,C++,D:\clones\osquery\osquery\carver\tests\carver_tests.cpp,51,18.0,224.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\cpuid.cpp,42,15.0,224.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\smbios_tables.cpp,49,22.0,224.0
+osquery,C++,D:\clones\osquery\plugins\config\parsers\decorators.cpp,49,62.0,223.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\logger\aws_log_forwarder.h,74,46.0,222.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\windows\registry_tests.cpp,35,9.0,221.0
+osquery,C++,D:\clones\osquery\osquery\utils\schemer\json\tests\schemer_json.cpp,35,9.0,220.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\librdkafka\CMakeLists.txt,32,6.0,219.0
+osquery,CMake,D:\clones\osquery\osquery\utils\system\CMakeLists.txt,65,6.0,219.0
+osquery,C++,D:\clones\osquery\plugins\logger\buffered.cpp,42,30.0,219.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmts.h,85,419.0,218.0
+osquery,C++,D:\clones\osquery\osquery\registry\registry_factory.cpp,38,20.0,218.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\users.cpp,35,36.0,218.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\ctype.h,52,236.0,217.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\smbios_tables.cpp,51,17.0,217.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\sysctl_utils.cpp,31,34.0,217.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\deployment\yara.md,54,0.0,215.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\deployment\remote.md,74,0.0,214.0
+osquery,CMake,D:\clones\osquery\plugins\logger\CMakeLists.txt,62,6.0,212.0
+osquery,C++,D:\clones\osquery\osquery\events\darwin\diskarbitration.cpp,38,20.0,211.0
+osquery,C++,D:\clones\osquery\osquery\database\tests\database.cpp,67,20.0,210.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\libgcrypt\CMakeLists.txt,25,13.0,209.0
+osquery,C++,D:\clones\osquery\plugins\config\parsers\auto_constructed_tables.cpp,32,14.0,209.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\linux\bpf\systemstatetracker.h,54,8.0,208.0
+osquery,C++,D:\clones\osquery\osquery\remote\transports\tls.cpp,49,23.0,208.0
+osquery,Python,D:\clones\osquery\tools\tests\test_osqueryi.py,28,22.0,208.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libdevmapper\config\config.h,37,69.0,206.0
+osquery,C++,D:\clones\osquery\osquery\core\tests\posix\permissions_tests.cpp,61,28.0,206.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\selinux_settings.cpp,56,12.0,206.0
+osquery,C++,D:\clones\osquery\osquery\events\linux\bpf\processcontextfactory.cpp,66,15.0,205.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\system\darwin\signature.mm,30,31.0,205.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\rpm_packages.cpp,40,33.0,203.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\gflags\generated\windows\x86_64\public\gflags\gflags.h,88,336.0,202.0
+osquery,C++,D:\clones\osquery\osquery\database\tests\test_utils.cpp,53,17.0,202.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\darwin\socket_events.cpp,20,8.0,201.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\schemer\json\schemer_json_impl.h,28,9.0,201.0
+osquery,C++,D:\clones\osquery\osquery\events\darwin\iokit.cpp,33,34.0,200.0
+osquery,C++,D:\clones\osquery\osquery\config\tests\packs.cpp,53,27.0,199.0
+osquery,C++,D:\clones\osquery\osquery\dispatcher\tests\scheduler.cpp,51,47.0,199.0
+osquery,C++,D:\clones\osquery\external\examples\writable_table\main.cpp,65,47.0,198.0
+osquery,C++,D:\clones\osquery\osquery\events\darwin\openbsm.cpp,45,19.0,198.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\process_open_descriptors.cpp,33,25.0,198.0
+osquery,C++,D:\clones\osquery\osquery\utils\json\tests\json.cpp,63,14.0,198.0
+osquery,C++,D:\clones\osquery\osquery\extensions\tests\extensions.cpp,53,41.0,196.0
+osquery,C++,D:\clones\osquery\osquery\utils\tests\windows\shellitems.cpp,20,8.0,195.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\linux\routes.cpp,34,23.0,194.0
+osquery,C++,D:\clones\osquery\osquery\core\tests\watcher_tests.cpp,66,85.0,193.0
+osquery,C++,D:\clones\osquery\osquery\events\darwin\endpointsecurity.cpp,38,8.0,193.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmfiles.h,70,303.0,191.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\process_open_pipes.cpp,35,10.0,191.0
+osquery,CMake,D:\clones\osquery\osquery\events\CMakeLists.txt,31,6.0,189.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\sql\sqlite_util.h,89,263.0,189.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\windows_security_products.cpp,27,27.0,189.0
+osquery,C++,D:\clones\osquery\osquery\events\tests\linux\bpf\utils.cpp,38,8.0,188.0
+osquery,C++,D:\clones\osquery\osquery\sql\sqlite_math.cpp,35,24.0,188.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\process_open_pipes.cpp,23,9.0,188.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\shortcut_files.cpp,15,18.0,188.0
+osquery,Markdown,D:\clones\osquery\CONTRIBUTING.md,53,0.0,187.0
+osquery,CMake,D:\clones\osquery\osquery\events\tests\CMakeLists.txt,26,6.0,186.0
+osquery,C++,D:\clones\osquery\osquery\events\windows\windowseventlogpublisher.cpp,56,9.0,186.0
+osquery,C++,D:\clones\osquery\osquery\utils\aws\tests\aws_util_tests.cpp,48,36.0,186.0
+osquery,C++,D:\clones\osquery\osquery\sql\sqlite_filesystem.cpp,11,16.0,185.0
+osquery,C++,D:\clones\osquery\osquery\tables\applications\darwin\browser_plugins.cpp,40,27.0,185.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\posix\augeas.cpp,40,68.0,185.0
+osquery,C++,D:\clones\osquery\osquery\numeric_monitoring\tests\pre_aggregation_cache.cpp,19,8.0,184.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\sharing_preferences.cpp,30,8.0,184.0
+osquery,XML,D:\clones\osquery\docs\doxygen\DoxygenLayout.xml,5,7.0,182.0
+osquery,CMake,D:\clones\osquery\osquery\tables\system\tests\CMakeLists.txt,27,8.0,182.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\system\darwin\user_groups.mm,24,31.0,181.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\services.cpp,28,9.0,181.0
+osquery,C++,D:\clones\osquery\osquery\worker\ipc\tests\worker_json_conversions_test.cpp,63,9.0,181.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\scheduled_tasks.cpp,34,14.0,179.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\xprotect.cpp,36,24.0,178.0
+osquery,C++,D:\clones\osquery\osquery\sql\sql.cpp,32,19.0,176.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\development\creating-tables.md,80,0.0,174.0
+osquery,C++,D:\clones\osquery\osquery\events\tests\linux\inotify_tests.cpp,104,276.0,174.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\apt_sources.cpp,32,27.0,174.0
+osquery,C++,D:\clones\osquery\plugins\config\parsers\file_paths.cpp,41,17.0,174.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\libxml2\README.md,27,0.0,173.0
+osquery,C++,D:\clones\osquery\osquery\core\tests\query_tests.cpp,42,29.0,173.0
+osquery,C++,D:\clones\osquery\osquery\numeric_monitoring\numeric_monitoring.cpp,29,8.0,173.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\libarchive\CMakeLists.txt,13,6.0,172.0
+osquery,C++,D:\clones\osquery\osquery\process\posix\process.cpp,49,12.0,172.0
+osquery,C++,D:\clones\osquery\osquery\tables\utility\file.cpp,34,19.0,172.0
+osquery,C++,D:\clones\osquery\osquery\tables\cloud\aws\ec2_instance_metadata.cpp,36,52.0,171.0
+osquery,CMake,D:\clones\osquery\tools\codegen\CMakeLists.txt,51,36.0,171.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\formula\openssl\CMakeLists.txt,42,3.0,170.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\util-linux\config\config.h,226,321.0,170.0
+osquery,C++,D:\clones\osquery\osquery\filesystem\file_compression.cpp,23,10.0,169.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\remote\utility.h,37,98.0,169.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\development\osquery-sdk.md,57,0.0,168.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libaudit\generated\arm_tables.h,0,1.0,168.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libgcrypt\config\x86_64\config.h,209,297.0,168.0
+osquery,C++,D:\clones\osquery\osquery\core\flags.cpp,32,21.0,168.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\darwin\routes.cpp,39,15.0,168.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\shimcache.cpp,31,27.0,168.0
+osquery,C++,D:\clones\osquery\osquery\events\tests\windows\usn_journal_reader_tests.cpp,41,10.0,167.0
+osquery,C++,D:\clones\osquery\osquery\registry\tests\registry.cpp,46,37.0,167.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\linux\rpm_packages_tests.cpp,49,9.0,167.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libaudit\generated\ppc_tables.h,0,1.0,166.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\system\darwin\battery.mm,20,18.0,166.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\freebsd\processes.cpp,40,21.0,166.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libaudit\generated\i386_tables.h,0,1.0,165.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\freebsd\routes.cpp,40,16.0,165.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libxml2\generated\version\linux\aarch64\libxml\xmlversion.h,56,265.0,164.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libxml2\generated\version\linux\x86_64\libxml\xmlversion.h,55,265.0,164.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libxml2\generated\version\macos\x86_64\libxml\xmlversion.h,56,265.0,164.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libxml2\generated\version\windows\x86_64\libxml\xmlversion.h,56,265.0,164.0
+osquery,C++,D:\clones\osquery\osquery\distributed\tests\distributed_tests.cpp,35,10.0,164.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libdevmapper\config\configure.h,269,417.0,163.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\librpm\CMakeLists.txt,14,17.0,163.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libgcrypt\config\aarch64\config.h,209,303.0,162.0
+osquery,C,D:\clones\osquery\osquery\tables\networking\linux\iptc_proxy.c,31,11.0,162.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\windows\usn_journal_reader.h,59,59.0,161.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\extensions\interface.h,64,185.0,161.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\filesystem\fileops.h,68,211.0,161.0
+osquery,C++,D:\clones\osquery\osquery\sql\tests\sql_test_utils.cpp,29,8.0,161.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\darwin\asl_tests.cpp,40,23.0,161.0
+osquery,CMake,D:\clones\osquery\CMakeLists.txt,37,22.0,160.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\lldpd\CMakeLists.txt,25,6.0,159.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\python_packages.cpp,26,14.0,159.0
+osquery,C++,D:\clones\osquery\osquery\utils\tests\windows\shelllnk.cpp,9,8.0,159.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libaudit\generated\s390_tables.h,0,1.0,156.0
+osquery,C++,D:\clones\osquery\osquery\tables\smart\smart_drives.cpp,29,31.0,156.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\linux\pci_devices_tests.cpp,31,8.0,156.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\ntfs_acl_permissions.cpp,24,16.0,156.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\core\watcher.h,69,120.0,155.0
+osquery,C++,D:\clones\osquery\osquery\database\ephemeral.cpp,33,14.0,155.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmcli.h,60,203.0,154.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\events\linux\process_file_events.h,75,80.0,154.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\expected\expected.h,44,55.0,154.0
+osquery,XML,D:\clones\osquery\tools\tests\configs\test_alf.plist,0,0.0,154.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libaudit\generated\x86_64_tables.h,0,1.0,153.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\config\config.h,61,375.0,153.0
+osquery,C++,D:\clones\osquery\osquery\events\windows\windowseventlogparser.cpp,40,17.0,153.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\posix\sudoers_tests.cpp,58,13.0,153.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\wmi_bios_info.cpp,35,14.0,153.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\crashes.cpp,26,24.0,151.0
+osquery,C++,D:\clones\osquery\osquery\events\tests\linux\syslog_tests.cpp,37,20.0,150.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libaudit\generated\ia64_tables.h,0,1.0,149.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libmagic\config\macos\x86_64\config.h,122,208.0,149.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmds.h,71,325.0,149.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libmagic\config\macos\aarch64\config.h,122,209.0,148.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\networking\darwin\wifi.mm,23,17.0,148.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\tests\windows\windows_firewall_rules_tests.cpp,34,8.0,148.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\gatekeeper.cpp,28,12.0,148.0
+osquery,Python,D:\clones\osquery\tools\tests\utils.py,37,15.0,148.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libaudit\generated\s390x_tables.h,0,1.0,147.0
+osquery,C++,D:\clones\osquery\osquery\events\tests\mockedosquerydatabase.cpp,37,9.0,147.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\registry\registry_factory.h,58,83.0,147.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\ssh_keys.cpp,20,30.0,147.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\yara\CMakeLists.txt,23,6.0,145.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\dbus\config\config.h,80,104.0,144.0
+osquery,C++,D:\clones\osquery\osquery\numeric_monitoring\tests\numeric_monitoring.cpp,36,10.0,144.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\deployment\debugging.md,65,0.0,143.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\thrift\CMakeLists.txt,25,6.0,143.0
+osquery,C++,D:\clones\osquery\osquery\remote\tests\test_utils.cpp,31,17.0,143.0
+osquery,C++,D:\clones\osquery\osquery\remote\transports\tests\tls_transports_tests.cpp,45,28.0,143.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\deb_packages.cpp,35,34.0,143.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\startup_items.cpp,25,10.0,143.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\utils.cmake,42,16.0,142.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\npm_packages.cpp,22,18.0,142.0
+osquery,C++,D:\clones\osquery\osquery\main\main.cpp,31,23.0,141.0
+osquery,C++,D:\clones\osquery\osquery\sql\tests\sqlite_hashing_tests.cpp,29,8.0,141.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\block_devices.cpp,24,10.0,141.0
+osquery,XML,D:\clones\osquery\tools\tests\configs\test_airport.plist,0,0.0,141.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\deployment\file-integrity-monitoring.md,48,0.0,140.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\iokit_registry.cpp,31,26.0,140.0
+osquery,Bourne Again Shell,D:\clones\osquery\tools\deployment\osqueryctl,18,7.0,140.0
+osquery,Markdown,D:\clones\osquery\ASSURANCE.md,62,0.0,139.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\lzma\config\macos\x86_64\config.h,146,289.0,139.0
+osquery,C++,D:\clones\osquery\osquery\devtools\printer.cpp,20,13.0,139.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\filesystem\linux\proc.h,45,90.0,139.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\tests\windows\windows_events_tests.cpp,46,25.0,139.0
+osquery,C++,D:\clones\osquery\osquery\profiler\posix\code_profiler.cpp,30,9.0,138.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\dns_cache.cpp,13,8.0,138.0
+osquery,C++,D:\clones\osquery\osquery\utils\debug\tests\debug_only.cpp,24,17.0,138.0
+osquery,CMake,D:\clones\osquery\plugins\logger\tests\CMakeLists.txt,15,6.0,137.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libgpg-error\generated\x86_64\code-from-errno.h,6,16.0,136.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\lzma\config\macos\aarch64\config.h,146,292.0,136.0
+osquery,C++,D:\clones\osquery\osquery\events\darwin\scnetwork.cpp,31,18.0,136.0
+osquery,C++,D:\clones\osquery\osquery\events\linux\udev.cpp,31,15.0,135.0
+osquery,PowerShell,D:\clones\osquery\tools\deployment\windows_packaging\manage-osqueryd.ps1,24,8.0,135.0
+osquery,C++,D:\clones\osquery\osquery\events\benchmarks\events_benchmarks.cpp,44,15.0,134.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\tests\networking_tables_tests.cpp,25,17.0,134.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libgpg-error\generated\x86_64\mkerrcodes.h,1,1.0,133.0
+osquery,C++,D:\clones\osquery\osquery\database\benchmarks\database_benchmarks.cpp,30,18.0,132.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\linux\iptables.cpp,26,13.0,132.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\apparmor_profiles.cpp,43,8.0,132.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libaudit\generated\aarch64_tables.h,0,1.0,131.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\system\darwin\certificates.mm,26,25.0,131.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\registry\registry_interface.h,70,151.0,130.0
+osquery,C++,D:\clones\osquery\osquery\sql\dynamic_table_row.cpp,23,12.0,130.0
+osquery,C++,D:\clones\osquery\osquery\tables\smart\tests\smart_drives_tests.cpp,31,28.0,130.0
+osquery,C++,D:\clones\osquery\plugins\logger\tests\logrotate_tests.cpp,34,12.0,130.0
+osquery,C++,D:\clones\osquery\osquery\core\tests\tables_tests.cpp,36,27.0,129.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\linux\auditeventpublisher.h,42,32.0,129.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\os_version.cpp,27,17.0,129.0
+osquery,C++,D:\clones\osquery\osquery\tables\yara\yara_events.cpp,27,40.0,129.0
+osquery,CMake,D:\clones\osquery\osquery\tables\events\tests\CMakeLists.txt,20,6.0,128.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\launchd.cpp,29,20.0,128.0
+osquery,C++,D:\clones\osquery\osquery\hashing\hashing.cpp,19,9.0,127.0
+osquery,C++,D:\clones\osquery\osquery\remote\tests\requests_tests.cpp,33,20.0,127.0
+osquery,C++,D:\clones\osquery\osquery\sql\virtual_sqlite_table.cpp,19,9.0,127.0
+osquery,C++,D:\clones\osquery\osquery\utils\conversions\windows\strings.cpp,30,14.0,127.0
+osquery,C++,D:\clones\osquery\plugins\logger\tests\aws_kinesis_logger_tests.cpp,42,20.0,127.0
+osquery,C++,D:\clones\osquery\osquery\events\linux\bpf\filesystem.cpp,39,8.0,126.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\system\darwin\mdls.mm,19,11.0,126.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\extended_attributes.cpp,39,15.0,126.0
+osquery,C++,D:\clones\osquery\osquery\tables\yara\tests\yara_tests.cpp,39,20.0,126.0
+osquery,C++,D:\clones\osquery\osquery\core\sql\query_data.cpp,24,8.0,125.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\linux\extended_attributes_tests.cpp,32,18.0,125.0
+osquery,C++,D:\clones\osquery\plugins\logger\tests\filesystem_logger_tests.cpp,40,15.0,125.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\model_specific_register.cpp,21,13.0,124.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\posix\shell_history.cpp,23,13.0,124.0
+osquery,C++,D:\clones\osquery\plugins\config\tests\tls_config_tests.cpp,41,40.0,123.0
+osquery,CMake,D:\clones\osquery\osquery\tables\networking\CMakeLists.txt,25,6.0,122.0
+osquery,C++,D:\clones\osquery\osquery\events\windows\evtsubscription.cpp,34,9.0,121.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\posix\shell_history_tests.cpp,24,12.0,121.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\conversions\tryto.h,22,22.0,121.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\librdkafka\README.md,21,0.0,120.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\linux\bpf\bpfeventpublisher.h,40,8.0,120.0
+osquery,CMake,D:\clones\osquery\osquery\filesystem\CMakeLists.txt,28,6.0,120.0
+osquery,C++,D:\clones\osquery\osquery\tables\applications\windows\carbon_black.cpp,10,11.0,120.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\asl_utils.cpp,21,44.0,120.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\glog\generated\windows\x86_64\public\glog\stl_logging.h,28,73.0,119.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\lzma\CMakeLists.txt,9,6.0,119.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\system\tests\darwin\signature_tests.mm,38,50.0,119.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\error\error.h,28,8.0,119.0
+osquery,C++,D:\clones\osquery\osquery\utils\system\linux\cpu.cpp,18,8.0,119.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\windows\routes.cpp,29,19.0,118.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\system\darwin\system_extensions.mm,23,30.0,118.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\logged_in_users.cpp,26,16.0,118.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\startup_items.cpp,21,13.0,118.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\linux\syslog.h,42,120.0,117.0
+osquery,CMake,D:\clones\osquery\external\cmake\cmakelibs.cmake,29,21.0,116.0
+osquery,C++,D:\clones\osquery\osquery\core\sql\row.cpp,20,10.0,116.0
+osquery,C++,D:\clones\osquery\osquery\database\tests\results.cpp,27,12.0,116.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\linux\inotify.h,61,118.0,116.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\system_info.cpp,33,20.0,116.0
+osquery,C++,D:\clones\osquery\osquery\worker\ipc\posix\pipe_channel.cpp,30,8.0,116.0
+osquery,CMake,D:\clones\osquery\plugins\config\parsers\tests\CMakeLists.txt,14,6.0,116.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libdpkg\config\aarch64\config.h,134,194.0,115.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libdpkg\config\x86_64\config.h,134,195.0,115.0
+osquery,CMake,D:\clones\osquery\osquery\utils\CMakeLists.txt,24,6.0,115.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libxml2\generated\version\windows\x86_64\libxml\xmlwin32version.h,37,171.0,114.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\lldpd\config\x86_64\linux\libevent\event2\event-config.h,146,195.0,114.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\lldpd\config\x86_64\macos\libevent\event2\event-config.h,145,194.0,114.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\eventsubscriberplugin.h,63,160.0,114.0
+osquery,C++,D:\clones\osquery\plugins\remote\enroll\tls_enroll.cpp,32,21.0,114.0
+osquery,C++,D:\clones\osquery\osquery\core\tests\flags_tests.cpp,36,22.0,113.0
+osquery,C++,D:\clones\osquery\osquery\dispatcher\dispatcher.cpp,23,23.0,113.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\nvram.cpp,21,16.0,113.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\lldpd\config\aarch64\linux\libevent\event2\event-config.h,146,196.0,112.0
+osquery,C++,D:\clones\osquery\osquery\remote\uri.cpp,25,14.0,112.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\freebsd\sysctl_utils.cpp,30,25.0,112.0
+osquery,Bourne Shell,D:\clones\osquery\tools\deployment\linux_packaging\deb\osquery.initd,17,34.0,112.0
+osquery,Bourne Shell,D:\clones\osquery\tools\deployment\linux_packaging\rpm\osquery.initd,17,34.0,112.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libmagic\config\linux\aarch64\config.h,125,187.0,111.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libmagic\include\magic.h,19,31.0,111.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\lldpd\config\x86_64\linux\libevent\config.h,143,186.0,111.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\lldpd\config\x86_64\macos\libevent\config.h,143,185.0,111.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\firewall.cpp,23,16.0,111.0
+osquery,C++,D:\clones\osquery\osquery\worker\ipc\posix\tests\worker_ipc_channels_test.cpp,40,20.0,111.0
+osquery,C++,D:\clones\osquery\plugins\config\parsers\tests\decorators_tests.cpp,28,25.0,111.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libmagic\config\linux\x86_64\config.h,125,189.0,110.0
+osquery,CMake,D:\clones\osquery\osquery\core\CMakeLists.txt,25,6.0,110.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\posix\sudoers.cpp,32,27.0,110.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\lldpd\config\aarch64\linux\libevent\config.h,143,187.0,109.0
+osquery,CMake,D:\clones\osquery\osquery\core\tests\CMakeLists.txt,20,6.0,109.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\linux\dbus\methods\dbusmethod.h,32,8.0,109.0
+osquery,C++,D:\clones\osquery\osquery\utils\caches\tests\lru.cpp,17,10.0,109.0
+osquery,C++,D:\clones\osquery\osquery\utils\system\linux\tests\cpu.cpp,27,8.0,109.0
+osquery,C++,D:\clones\osquery\plugins\logger\aws_kinesis.cpp,32,11.0,109.0
+osquery,C++,D:\clones\osquery\plugins\logger\windows_event_log.cpp,26,8.0,109.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\rocksdb\README.md,13,0.0,108.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\pathset.h,26,24.0,108.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\system\darwin\authorizations.mm,21,10.0,108.0
+osquery,CMake,D:\clones\osquery\osquery\utils\conversions\CMakeLists.txt,26,6.0,108.0
+osquery,C++,D:\clones\osquery\osquery\utils\schemer\tests\schemer.cpp,24,10.0,108.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\sleuthkit\README.md,41,0.0,107.0
+osquery,C++,D:\clones\osquery\osquery\events\tests\linux\bpf\mockedfilesystem.cpp,40,10.0,107.0
+osquery,C++,D:\clones\osquery\osquery\events\windows\windowseventlogparserservice.cpp,35,8.0,107.0
+osquery,C++,D:\clones\osquery\osquery\tables\applications\posix\carbon_black.cpp,14,16.0,107.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\linux\bpf_process_events.cpp,35,10.0,107.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\linux\process_open_sockets.cpp,17,51.0,107.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\posix\utils.cpp,26,10.0,107.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\kernel_panics.cpp,18,12.0,107.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\disk_encryption.cpp,27,16.0,107.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\chassis_info.cpp,20,15.0,107.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\deployment\performance-safety.md,39,0.0,106.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\posix\augeas_tests.cpp,20,14.0,106.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\kernel_info.cpp,24,22.0,105.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\darwin\extended_attributes_tests.cpp,18,9.0,105.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\darwin\firewall_tests.cpp,16,8.0,105.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\system_info.cpp,12,13.0,105.0
+osquery,Markdown,D:\clones\osquery\README.md,35,0.0,104.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\libarchive\README.md,13,0.0,104.0
+osquery,C++,D:\clones\osquery\osquery\filesystem\posix\xattrs.cpp,30,8.0,104.0
+osquery,C++,D:\clones\osquery\osquery\remote\enroll\enroll.cpp,23,29.0,104.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\darwin\system_extensions_test.cpp,15,9.0,104.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\worker\ipc\include\table_ipc_base.h,31,8.0,104.0
+osquery,XML,D:\clones\osquery\tools\tests\configs\test_airport_pre_macOS_10.15.plist,0,0.0,104.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libaudit\generated\msg_typetabs.h,0,1.0,103.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmutil.h,24,35.0,103.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\remote\requests.h,39,140.0,103.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\applications\chrome\utils.h,56,58.0,103.0
+osquery,C++,D:\clones\osquery\osquery\tables\applications\windows\office_mru.cpp,21,24.0,103.0
+osquery,CMake,D:\clones\osquery\osquery\tables\events\CMakeLists.txt,23,6.0,103.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\linux\apt_sources_tests.cpp,28,19.0,103.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\CMakeLists.txt,14,6.0,102.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\libxml2\CMakeLists.txt,16,6.0,102.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\linux\bpf\isystemstatetracker.h,43,72.0,102.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\sip_config.cpp,18,24.0,102.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\system_info.cpp,20,11.0,102.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\interface_details.cpp,9,10.0,102.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\generated\macos\x86_64\code\parser.h,25,35.0,101.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\aws\aws_util.h,36,137.0,101.0
+osquery,C++,D:\clones\osquery\tests\test_util.cpp,31,21.0,101.0
+osquery,Bourne Shell,D:\clones\osquery\tools\ci\scripts\macos\package_tests.sh,37,8.0,101.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\augeas\README.md,39,0.0,100.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\config\config.h,130,193.0,100.0
+osquery,C++,D:\clones\osquery\osquery\main\tests.cpp,25,16.0,100.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\posix\crontab.cpp,22,13.0,100.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\lzma\config\linux\x86_64\config.h,149,271.0,99.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\system\darwin\mdfind.mm,18,18.0,99.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\ibridge.cpp,22,10.0,98.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\tests\linux\bpf_socket_events_tests.cpp,26,8.0,97.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\darwin\packages.h,22,25.0,97.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\objects.cpp,30,93.0,97.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\userassist.cpp,18,15.0,97.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\glog\generated\macos\x86_64\public\glog\raw_logging.h,21,63.0,96.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\glog\generated\windows\x86_64\public\glog\raw_logging.h,21,63.0,96.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libxml2\generated\config\windows\x86_64\config.h,11,15.0,96.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\lzma\config\linux\aarch64\config.h,148,271.0,96.0
+osquery,C++,D:\clones\osquery\osquery\dispatcher\tests\dispatcher.cpp,33,18.0,96.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\networking\linux\inet_diag.h,27,21.0,96.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\quicklook_cache.cpp,17,27.0,96.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\debug\debug_only.h,16,26.0,96.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\posix\suid_bin.cpp,26,12.0,95.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\selinux\selinux.h,23,39.0,94.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\filesystem\filesystem.h,40,263.0,94.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\process\process.h,41,138.0,94.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\tests\linux\bpf_process_events_tests.cpp,28,18.0,94.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\appcompat_shims.cpp,11,10.0,94.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\libdpkg\CMakeLists.txt,8,6.0,93.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\json\json.h,56,232.0,93.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\windows\shelllnk.h,15,33.0,93.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\generated\linux\aarch64\code\parser.h,23,31.0,92.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libcryptsetup\config\config.h,98,147.0,92.0
+osquery,C++,D:\clones\osquery\osquery\filesystem\tests\posix\xattrs.cpp,27,8.0,92.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\networking\darwin\wifi_utils.mm,9,8.0,92.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\kernel_extensions.cpp,20,15.0,92.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\posix\system_controls.cpp,16,17.0,92.0
+osquery,C++,D:\clones\osquery\osquery\utils\system\windows\env.cpp,32,25.0,92.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\introduction\using-osqueryi.md,22,0.0,91.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\core\windows\wmi.h,41,133.0,91.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\darwin\endpointsecurity.h,30,11.0,91.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\networking\tests\darwin\wifi_tests.mm,14,18.0,91.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\smbios_utils.h,23,52.0,91.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\windows\windows_eventlog_tests.cpp,18,10.0,91.0
+osquery,C++,D:\clones\osquery\osquery\utils\ycloud\ycloud_util.cpp,31,9.0,91.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\worker\ipc\posix\pipe_channel_factory.h,26,8.0,91.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmtd.h,44,256.0,90.0
+osquery,C++,D:\clones\osquery\osquery\events\eventpublisherplugin.cpp,26,14.0,90.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\windows\windows_events.cpp,26,8.0,90.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\homebrew_packages.cpp,18,18.0,90.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\programs.cpp,14,12.0,90.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\windows_security_center.cpp,20,17.0,90.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmlog.h,33,103.0,89.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\database\database.h,46,157.0,89.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\windows\ntfs_event_publisher.h,50,70.0,89.0
+osquery,C++,D:\clones\osquery\osquery\filesystem\tests\linux\proc_tests.cpp,25,13.0,89.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\windows\arp_cache.cpp,15,8.0,89.0
+osquery,Python,D:\clones\osquery\tools\codegen\templite.py,7,34.0,89.0
+osquery,C++,D:\clones\osquery\osquery\events\darwin\event_taps.cpp,20,11.0,88.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\darwin\fsevents.h,42,63.0,88.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\tests\linux\seccomp_events_tests.cpp,18,8.0,88.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\freebsd\process_open_sockets.cpp,20,10.0,88.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\system\darwin\account_policy_data.mm,20,13.0,88.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\kva_speculative_info.cpp,14,10.0,88.0
+osquery,C++,D:\clones\osquery\plugins\config\parsers\tests\options_tests.cpp,24,13.0,88.0
+osquery,C++,D:\clones\osquery\plugins\logger\aws_firehose.cpp,28,9.0,88.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\logger\buffered.h,31,96.0,88.0
+osquery,C++,D:\clones\osquery\plugins\logger\tls_logger.cpp,26,21.0,88.0
+osquery,C++,D:\clones\osquery\osquery\tables\applications\browser_firefox.cpp,20,17.0,87.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\header.h,48,252.0,86.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\linux\auditdnetlink.h,44,47.0,86.0
+osquery,CMake,D:\clones\osquery\osquery\tables\networking\tests\CMakeLists.txt,11,6.0,86.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\keychain_items.cpp,18,16.0,86.0
+osquery,C++,D:\clones\osquery\osquery\worker\ipc\table_ipc_json_converter.cpp,28,8.0,86.0
+osquery,C++,D:\clones\osquery\plugins\config\filesystem_config.cpp,21,12.0,86.0
+osquery,Python,D:\clones\osquery\tools\codegen\genwebsitejson.py,22,42.0,86.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\sysctl_utils.cpp,18,17.0,84.0
+osquery,C++,D:\clones\osquery\plugins\config\parsers\options.cpp,17,18.0,84.0
+osquery,CMake,D:\clones\osquery\cmake\options.cmake,31,20.0,83.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libgpg-error\config\aarch64\config.h,83,116.0,83.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libgpg-error\config\x86_64\config.h,83,116.0,83.0
+osquery,C++,D:\clones\osquery\osquery\sql\sqlite_encoding.cpp,13,8.0,83.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\linux\bpf_socket_events.cpp,22,8.0,83.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\block_devices.cpp,17,14.0,83.0
+osquery,C++,D:\clones\osquery\osquery\utils\conversions\darwin\iokit.cpp,21,15.0,83.0
+osquery,Python,D:\clones\osquery\tools\formatting\format-check.py,16,6.0,83.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\linux\file_events.cpp,14,35.0,82.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\yum_sources.cpp,14,11.0,82.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\linux\pcidb_tests.cpp,22,11.0,82.0
+osquery,C++,D:\clones\osquery\plugins\config\parsers\tests\file_paths_tests.cpp,21,14.0,82.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\processes.cpp,14,15.0,82.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\README.md,36,0.0,81.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\generated\linux\x86_64\code\parser.h,32,35.0,81.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\dispatcher\dispatcher.h,39,77.0,81.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\tests\file_events_tests.cpp,24,18.0,81.0
+osquery,C++,D:\clones\osquery\osquery\tables\forensic\carves.cpp,18,13.0,81.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\startup_items.cpp,18,16.0,81.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\bitlocker_info.cpp,12,8.0,81.0
+osquery,CMake,D:\clones\osquery\osquery\worker\ipc\CMakeLists.txt,26,6.0,81.0
+osquery,C++,D:\clones\osquery\plugins\config\parsers\views.cpp,17,19.0,81.0
+osquery,C,D:\clones\osquery\libraries\cmake\source\lldpd\generated\linux\src\lib\atom-glue.c,0,0.0,80.0
+osquery,C,D:\clones\osquery\libraries\cmake\source\lldpd\generated\macos\src\lib\atom-glue.c,0,0.0,80.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findboost.cmake,5,6.0,80.0
+osquery,C++,D:\clones\osquery\osquery\filesystem\linux\mounts.cpp,26,8.0,80.0
+osquery,C++,D:\clones\osquery\osquery\tables\applications\posix\prometheus_metrics.cpp,18,19.0,80.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\users.cpp,13,8.0,80.0
+osquery,C++,D:\clones\osquery\plugins\remote\enroll\tests\tls_enroll_tests.cpp,24,14.0,80.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmstring.h,26,88.0,79.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libxml2\generated\config\macos\x86_64\config.h,93,116.0,79.0
+osquery,C++,D:\clones\osquery\osquery\devtools\tests\printer_tests.cpp,15,10.0,79.0
+osquery,C++,D:\clones\osquery\osquery\worker\ipc\linux\linux_table_ipc.cpp,27,8.0,79.0
+osquery,Bourne Shell,D:\clones\osquery\tools\deployment\macos_packaging\pkg\productbuild.sh,14,11.0,79.0
+osquery,XML,D:\clones\osquery\tools\tests\configs\test_info.plist,0,0.0,79.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\gflags\generated\macos\x86_64\public\gflags\gflags_declare.h,27,51.0,78.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\gflags\generated\windows\x86_64\public\gflags\gflags_declare.h,27,51.0,78.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libxml2\generated\config\macos\aarch64\config.h,93,117.0,78.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\lzma\README.md,28,0.0,78.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\smartmontools\CMakeLists.txt,13,6.0,78.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\core\windows\ntapi.h,18,8.0,78.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\posix\ulimit_info.cpp,8,8.0,78.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\ie_extensions.cpp,13,8.0,78.0
+osquery,C++,D:\clones\osquery\osquery\utils\azure\azure_util.cpp,26,13.0,78.0
+osquery,C++,D:\clones\osquery\osquery\utils\error\tests\error.cpp,18,8.0,78.0
+osquery,PowerShell,D:\clones\osquery\tools\deployment\windows_packaging\chocolatey\tools\chocolateyinstall.ps1,20,26.0,78.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libaudit\generated\errtabs.h,0,1.0,77.0
+osquery,C++,D:\clones\osquery\osquery\config\tests\test_utils.cpp,21,13.0,77.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\core\query.h,38,160.0,77.0
+osquery,C++,D:\clones\osquery\osquery\core\windows\handle.cpp,18,18.0,77.0
+osquery,CMake,D:\clones\osquery\osquery\main\CMakeLists.txt,12,6.0,77.0
+osquery,C++,D:\clones\osquery\osquery\numeric_monitoring\pre_aggregation_cache.cpp,10,9.0,77.0
+osquery,C++,D:\clones\osquery\plugins\numeric_monitoring\tests\filesystem.cpp,14,8.0,77.0
+osquery,XML,D:\clones\osquery\tools\vsdeploy.xml,0,0.0,77.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\deployment\syslog.md,42,0.0,76.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\thrift\README.md,9,0.0,76.0
+osquery,C++,D:\clones\osquery\osquery\filesystem\linux\mem.cpp,20,16.0,76.0
+osquery,CMake,D:\clones\osquery\osquery\sql\tests\CMakeLists.txt,14,6.0,76.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\windows\certificates_tests.cpp,22,8.0,76.0
+osquery,C++,D:\clones\osquery\osquery\utils\status\tests\status.cpp,21,8.0,76.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\glog\CMakeLists.txt,16,6.0,75.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\etc_hosts.cpp,14,8.0,75.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\freebsd\interface_ip.cpp,10,12.0,75.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\usb_devices.cpp,17,16.0,75.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\ssh_configs.cpp,10,14.0,75.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\distributed\distributed.h,33,176.0,74.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\time_machine.cpp,11,8.0,74.0
+osquery,C++,D:\clones\osquery\plugins\numeric_monitoring\filesystem.cpp,13,9.0,74.0
+osquery,C/C++ Header,D:\clones\osquery\tests\integration\tables\helper.h,20,8.0,74.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\development\pubsub-framework.md,32,0.0,73.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\lldpd\config\x86_64\macos\liblldpd\config.h,111,154.0,73.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\linux\apparmor_events.cpp,21,9.0,73.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\darwin\apps_tests.cpp,15,15.0,73.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\kernel_info.cpp,17,8.0,73.0
+osquery,C++,D:\clones\osquery\osquery\utils\tests\map_take.cpp,14,8.0,73.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\dbus\CMakeLists.txt,7,6.0,72.0
+osquery,C++,D:\clones\osquery\osquery\sql\sqlite_operations.cpp,17,10.0,72.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\linux\md_tables.h,26,107.0,72.0
+osquery,C++,D:\clones\osquery\osquery\carver\carver_utils.cpp,17,9.0,71.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\sql\dynamic_table_row.h,9,21.0,71.0
+osquery,C++,D:\clones\osquery\osquery\tables\applications\chrome\chrome_extensions.cpp,33,12.0,71.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\darwin\interface_ip.cpp,10,12.0,71.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\freebsd\os_version.cpp,21,8.0,71.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\darwin\processes_tests.cpp,12,8.0,71.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\libmagic\README.md,27,0.0,70.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\lldpd\config\aarch64\linux\liblldpd\config.h,111,157.0,70.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\lldpd\config\x86_64\linux\liblldpd\config.h,111,158.0,70.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\user_groups.h,15,13.0,70.0
+osquery,C++,D:\clones\osquery\osquery\utils\conversions\windows\windows_time.cpp,15,12.0,70.0
+osquery,C++,D:\clones\osquery\osquery\utils\windows\lzxpress.cpp,14,9.0,70.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\file.cpp,15,10.0,70.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\installation\install-windows.md,43,0.0,69.0
+osquery,Assembly,D:\clones\osquery\libraries\cmake\source\libgcrypt\generated\aarch64\mpi\mpih-mul3-asm.S,22,30.0,69.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\eventfactory.h,36,126.0,69.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\extensions\extensions.h,25,73.0,69.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\usb_devices.cpp,18,14.0,69.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\argz.h,41,52.0,68.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\libmagic\CMakeLists.txt,13,6.0,68.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\zstd\README.md,12,0.0,68.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\carver\carver.h,29,101.0,68.0
+osquery,C++,D:\clones\osquery\osquery\filesystem\tests\darwin\plist_tests.cpp,21,15.0,68.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\systemd_units.cpp,18,8.0,68.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\posix\last.cpp,13,8.0,68.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\logon_sessions.cpp,7,11.0,68.0
+osquery,C++,D:\clones\osquery\osquery\utils\versioning\tests\semantic.cpp,16,8.0,68.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\deployment\extensions.md,30,0.0,67.0
+osquery,CMake,D:\clones\osquery\external\CMakeLists.txt,13,16.0,67.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\limits.h,15,23.0,67.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libaudit\generated\gen_tables.h,12,23.0,67.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\database\tests\test_utils.h,17,15.0,67.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\darwin\diskarbitration.h,25,11.0,67.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\linux\user_events.cpp,24,11.0,67.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\libcryptsetup\CMakeLists.txt,9,6.0,66.0
+osquery,C++,D:\clones\osquery\osquery\events\tests\linux\bpf\mockedprocesscontextfactory.cpp,27,8.0,66.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\freebsd\users.cpp,13,8.0,66.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\posix\authorized_keys.cpp,12,14.0,66.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\user_groups.cpp,17,10.0,66.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\database\rocksdb.h,34,55.0,66.0
+osquery,Bourne Shell,D:\clones\osquery\tools\harnesses\osqueryfuzz_sqlquery_corpus.sh,12,27.0,66.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmmacro.h,37,144.0,65.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\config\packs.h,41,80.0,65.0
+osquery,C++,D:\clones\osquery\osquery\core\tests\windows\wmi_tests.cpp,34,23.0,65.0
+osquery,C++,D:\clones\osquery\osquery\events\tests\linux\audit_tests.cpp,24,14.0,65.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\posix\dns_resolvers.cpp,11,13.0,65.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\freenux\cpu_time.cpp,16,11.0,65.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\groups.cpp,10,8.0,65.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\shadow.cpp,11,8.0,65.0
+osquery,XML,D:\clones\osquery\tools\tests\configs\test_startup_items.plist,0,0.0,65.0
+osquery,CMake,D:\clones\osquery\cmake\globals.cmake,17,21.0,64.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmtypes.h,25,30.0,64.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\tests\linux\bpf\utils.h,12,8.0,64.0
+osquery,Thrift,D:\clones\osquery\osquery\extensions\thrift\osquery.thrift,12,29.0,64.0
+osquery,CMake,D:\clones\osquery\osquery\main\harnesses\CMakeLists.txt,10,8.0,64.0
+osquery,CMake,D:\clones\osquery\osquery\tables\applications\CMakeLists.txt,13,6.0,64.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\ad_config.cpp,11,18.0,64.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\darwin\certificates_tests.cpp,21,9.0,64.0
+osquery,Python,D:\clones\osquery\tools\tests\winexpect.py,16,22.0,64.0
+osquery,YAML,D:\clones\osquery\.clang-format,0,2.0,63.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\deployment\log-aggregation.md,33,0.0,63.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmfi.h,56,287.0,63.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\darwin\iokit.h,25,22.0,63.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\system\darwin\event_taps.mm,5,8.0,63.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\groups.cpp,18,15.0,63.0
+osquery,C++,D:\clones\osquery\plugins\config\tls_config.cpp,15,18.0,63.0
+osquery,Python,D:\clones\osquery\tools\codegen\gentargets.py,13,64.0,63.0
+osquery,CMake,D:\clones\osquery\osquery\remote\CMakeLists.txt,17,6.0,62.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\darwin\file_events.cpp,15,34.0,62.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\etc_services.cpp,15,22.0,62.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\managed_policies.cpp,12,15.0,62.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\posix\magic.cpp,18,12.0,62.0
+osquery,C++,D:\clones\osquery\plugins\config\parsers\tests\views_tests.cpp,10,8.0,62.0
+osquery,Dockerfile,D:\clones\osquery\tools\ci\osquery-ubuntu18.04-toolchain.dockerfile,8,3.0,62.0
+osquery,Assembly,D:\clones\osquery\libraries\cmake\source\libgcrypt\generated\aarch64\mpi\mpih-mul2-asm.S,17,30.0,61.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmdb.h,34,163.0,61.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\libudev\README.md,16,0.0,61.0
+osquery,CMake,D:\clones\osquery\osquery\remote\enroll\CMakeLists.txt,15,6.0,61.0
+osquery,C++,D:\clones\osquery\osquery\tables\applications\atom_packages.cpp,13,11.0,61.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\system\darwin\screenlock.mm,17,11.0,61.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\worker\ipc\linux\linux_table_container_ipc.h,16,13.0,61.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\augeas\CMakeLists.txt,13,8.0,60.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\darwin\scnetwork.h,30,28.0,60.0
+osquery,CMake,D:\clones\osquery\osquery\sql\CMakeLists.txt,13,6.0,60.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\darwin\es_process_events.cpp,24,8.0,60.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\chocolatey_packages.cpp,17,8.0,60.0
+osquery,C++,D:\clones\osquery\osquery\tables\utility\time.cpp,17,9.0,60.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\libgcrypt\README.md,16,0.0,59.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libgpg-error\generated\x86_64\err-sources-sym.h,10,18.0,59.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libgpg-error\generated\x86_64\err-sources.h,10,18.0,59.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\core\flags.h,30,106.0,59.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\core\plugins\logger.h,25,141.0,59.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\nfs_shares.cpp,13,10.0,59.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\schemer\json\schemer_json.h,12,40.0,59.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\deployment\aws-logging.md,18,0.0,58.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\librpm\README.md,18,0.0,58.0
+osquery,C++,D:\clones\osquery\osquery\remote\enroll\tests\enroll_tests.cpp,17,23.0,58.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\linux\selinux_events.cpp,18,8.0,58.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\curl.cpp,19,15.0,58.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\pipes.cpp,14,8.0,58.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\status\status.h,24,90.0,58.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\logger\aws_firehose.h,20,9.0,58.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmarchive.h,17,76.0,57.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\sleuthkit\config\macos\aarch64\tsk\tsk_config.h,88,134.0,57.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\core\system.h,44,174.0,57.0
+osquery,C++,D:\clones\osquery\osquery\filesystem\darwin\bsd_file_flags.cpp,19,11.0,57.0
+osquery,C++,D:\clones\osquery\osquery\logger\benchmarks\logger_benchmarks.cpp,18,11.0,57.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\etc_protocols.cpp,13,18.0,57.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\sandboxes.cpp,13,11.0,57.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\dbus\methods\listunitsmethodhandler.cpp,20,9.0,57.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\shared_memory.cpp,16,13.0,57.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\secureboot.cpp,14,12.0,57.0
+osquery,C++,D:\clones\osquery\osquery\utils\versioning\semantic.cpp,6,8.0,57.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\worker\ipc\linux\linux_table_ipc.h,16,14.0,57.0
+osquery,C++,D:\clones\osquery\osquery\worker\ipc\posix\pipe_channel_factory.cpp,16,8.0,57.0
+osquery,C++,D:\clones\osquery\plugins\logger\tests\tls_logger_tests.cpp,15,14.0,57.0
+osquery,Python,D:\clones\osquery\tools\codegen\amalgamate.py,13,8.0,57.0
+osquery,Python,D:\clones\osquery\tools\tests\test_release.py,11,10.0,57.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\libdpkg\README.md,17,0.0,56.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\sleuthkit\config\macos\x86_64\tsk\tsk_config.h,88,135.0,56.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\zstd\CMakeLists.txt,8,18.0,56.0
+osquery,CMake,D:\clones\osquery\osquery\extensions\CMakeLists.txt,18,6.0,56.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\remote\transports\tls.h,27,68.0,56.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\system\darwin\shared_folders.mm,10,9.0,56.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\freebsd\pkg_packages.cpp,14,9.0,56.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\linux\selinux_settings_tests.cpp,16,8.0,56.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\linux\yum_sources_tests.cpp,15,9.0,56.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\physical_disk_performance.cpp,14,8.0,56.0
+osquery,CMake,D:\clones\osquery\plugins\config\CMakeLists.txt,18,6.0,56.0
+osquery,CMake,D:\clones\osquery\plugins\config\parsers\CMakeLists.txt,10,6.0,56.0
+osquery,C++,D:\clones\osquery\plugins\distributed\tls_distributed.cpp,19,12.0,56.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\logger\aws_kinesis.h,20,10.0,56.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\prefetch.cpp,10,9.0,56.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\process_open_files.cpp,16,11.0,56.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmbuild.h,18,51.0,55.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmprob.h,21,74.0,55.0
+osquery,C++,D:\clones\osquery\osquery\events\linux\bpf\bpferrorstate.cpp,18,8.0,55.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\linux\udev.h,28,47.0,55.0
+osquery,C++,D:\clones\osquery\osquery\events\tests\linux\bpf\processcontextfactory.cpp,23,8.0,55.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\linux\interface_ip.cpp,8,16.0,55.0
+osquery,CMake,D:\clones\osquery\osquery\worker\ipc\linux\CMakeLists.txt,21,6.0,55.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\gflags\CMakeLists.txt,15,6.0,54.0
+osquery,C++,D:\clones\osquery\osquery\core\plugins\logger.cpp,11,8.0,54.0
+osquery,CMake,D:\clones\osquery\osquery\dispatcher\CMakeLists.txt,14,6.0,54.0
+osquery,CMake,D:\clones\osquery\osquery\remote\transports\CMakeLists.txt,15,6.0,54.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\linux\hardware_events.cpp,15,14.0,54.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\listening_ports.cpp,14,13.0,54.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\tests\linux\iptables_tests.cpp,11,8.0,54.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\user_groups.cpp,6,8.0,54.0
+osquery,C++,D:\clones\osquery\libraries\cmake\source\rocksdb\version\build_version.cc,8,9.0,53.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\smartmontools\README.md,11,0.0,53.0
+osquery,CMake,D:\clones\osquery\osquery\config\tests\CMakeLists.txt,12,6.0,53.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\numeric_monitoring\numeric_monitoring.h,19,44.0,53.0
+osquery,C++,D:\clones\osquery\osquery\utils\conversions\windows\tests\strings.cpp,14,8.0,53.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\hash.cpp,17,10.0,53.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\users.cpp,10,12.0,53.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\installation\custom-packages.md,27,0.0,52.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\types.h,25,30.0,52.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\sleuthkit\config\linux\aarch64\tsk\tsk_config.h,88,139.0,52.0
+osquery,CMake,D:\clones\osquery\osquery\CMakeLists.txt,9,8.0,52.0
+osquery,C++,D:\clones\osquery\osquery\core\shutdown.cpp,18,13.0,52.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\eventpublisherplugin.h,34,94.0,52.0
+osquery,C++,D:\clones\osquery\osquery\events\events.cpp,14,13.0,52.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\sdk\sdk.h,9,59.0,52.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\networking\linux\iptc_proxy.h,12,9.0,52.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\freebsd\procstat.cpp,12,12.0,52.0
+osquery,C++,D:\clones\osquery\osquery\utils\chars.cpp,10,12.0,52.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmte.h,41,187.0,51.0
+osquery,diff,D:\clones\osquery\libraries\cmake\source\librpm\patches\src\0001-Revert-Always-open-and-initialize-the-entire-databas.patch,11,37.0,51.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\sleuthkit\config\linux\x86_64\tsk\tsk_config.h,88,140.0,51.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\remote\uri.h,10,61.0,51.0
+osquery,CMake,D:\clones\osquery\osquery\tables\CMakeLists.txt,9,6.0,51.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Security\4738.xml,0,0.0,51.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\darwin\keychain.h,15,16.0,51.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\darwin\launchd_tests.cpp,10,13.0,51.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\cpu_info.cpp,6,8.0,51.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\system\posix\errno.h,10,8.0,51.0
+osquery,C++,D:\clones\osquery\plugins\logger\syslog_logger.cpp,13,10.0,51.0
+osquery,CMake,D:\clones\osquery\tools\tests\CMakeLists.txt,16,10.0,51.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\deployment\anomaly-detection.md,17,0.0,50.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\libiptables\CMakeLists.txt,13,7.0,50.0
+osquery,C++,D:\clones\osquery\osquery\tables\cloud\ycloud\ycloud_instance_metadata.cpp,13,9.0,50.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Security\4624.xml,0,0.0,50.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\networking\darwin\wifi_status.mm,4,8.0,50.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\windows\connectivity.cpp,12,8.0,50.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\freebsd\process_open_files.cpp,16,9.0,50.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\intel_me.cpp,18,13.0,50.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\kernel_info.cpp,9,12.0,50.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\posix\known_hosts.cpp,12,10.0,50.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\smbios_tables.cpp,13,8.0,50.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\worker\ipc\include\table_channel_factory_base.h,13,8.0,50.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\certificates.cpp,12,10.0,50.0
+osquery,C++,D:\clones\osquery\tools\tests\plist_benchmark.cpp,11,11.0,50.0
+osquery,Python,D:\clones\osquery\tools\tests\test_additional.py,12,17.0,50.0
+osquery,CMake,D:\clones\osquery\cmake\modules\Findcppcheck.cmake,13,9.0,49.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\glog\generated\linux\x86_64\private\config.h,74,99.0,49.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmlib.h,26,100.0,49.0
+osquery,CMake,D:\clones\osquery\osquery\database\tests\CMakeLists.txt,10,6.0,49.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\networking\windows\windows_firewall_rules.h,9,8.0,49.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\os_version.cpp,11,10.0,49.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\acpi_tables.cpp,15,11.0,49.0
+osquery,C++,D:\clones\osquery\osquery\worker\ipc\linux\tests\worker_table_container_tests.cpp,17,8.0,49.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\installation\install-macos.md,23,0.0,48.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\aws-sdk-cpp\README.md,10,0.0,48.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\glog\generated\macos\x86_64\private\config.h,74,100.0,48.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libaudit\generated\fieldtabs.h,0,1.0,48.0
+osquery,Assembly,D:\clones\osquery\libraries\cmake\source\libgcrypt\generated\aarch64\mpi\mpih-mul1-asm.S,18,30.0,48.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\libgpg-error\README.md,13,0.0,48.0
+osquery,CMake,D:\clones\osquery\osquery\carver\CMakeLists.txt,14,6.0,48.0
+osquery,C++,D:\clones\osquery\osquery\core\sql\diff_results.cpp,12,12.0,48.0
+osquery,C++,D:\clones\osquery\osquery\extensions\thrift\gen\ExtensionManager_server.skeleton.cpp,14,9.0,48.0
+osquery,C++,D:\clones\osquery\osquery\tables\networking\linux\arp_cache.cpp,16,14.0,48.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\yara\yara_utils.h,24,25.0,48.0
+osquery,C++,D:\clones\osquery\osquery\utils\system\time.cpp,17,8.0,48.0
+osquery,C++,D:\clones\osquery\osquery\utils\tests\scope_guard.cpp,11,9.0,48.0
+osquery,CMake,D:\clones\osquery\plugins\database\CMakeLists.txt,16,6.0,48.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\database\sqlite.h,19,19.0,48.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\development\config-plugins.md,20,0.0,47.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\googletest\CMakeLists.txt,12,6.0,47.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libcap\generated\cap_names.h,3,6.0,47.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\smartmontools\config\aarch64\linux\config.h,60,84.0,47.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\smartmontools\config\x86_64\linux\config.h,60,84.0,47.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\ssdeep-cpp\README.md,18,0.0,47.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\eventpublisher.h,16,69.0,47.0
+osquery,C++,D:\clones\osquery\osquery\process\posix\process_ops.cpp,18,9.0,47.0
+osquery,C++,D:\clones\osquery\osquery\tables\cloud\aws\ec2_instance_tags.cpp,12,8.0,47.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\events\windows\powershell_events.h,19,8.0,47.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\networking\darwin\wifi_survey.mm,6,8.0,47.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\linux\dbus\uniqueresource.h,16,8.0,47.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\posix\logged_in_users.cpp,8,8.0,47.0
+osquery,C++,D:\clones\osquery\osquery\utils\base64.cpp,15,8.0,47.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\curl_certificate.cpp,5,8.0,47.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\startup_items.cpp,9,14.0,47.0
+osquery,CMake,D:\clones\osquery\cmake\modules\Findclang-tidy.cmake,14,9.0,46.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libaudit\config\aarch64\config.h,57,76.0,46.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\lzma\config\windows\x86_64\config.h,44,58.0,46.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\smartmontools\config\x86_64\macos\config.h,60,85.0,46.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\eventsubscriber.h,10,43.0,46.0
+osquery,CMake,D:\clones\osquery\osquery\sdk\CMakeLists.txt,10,6.0,46.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\105.xml,0,0.0,46.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\kernel_modules.cpp,13,11.0,46.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\memory_info.cpp,8,10.0,46.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\linux\pci_devices.h,20,64.0,46.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\secureboot.cpp,12,27.0,46.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\hvci_status.cpp,10,8.0,46.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\os_version.cpp,14,8.0,46.0
+osquery,Python,D:\clones\osquery\tools\ci\scripts\check_copyright_headers.py,21,9.0,46.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\selinux\context.h,11,27.0,45.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librdkafka\config\linux\aarch64\config.h,5,0.0,45.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librdkafka\config\linux\x86_64\config.h,5,0.0,45.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librdkafka\config\macos\aarch64\config.h,5,0.0,45.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librdkafka\config\macos\x86_64\config.h,5,0.0,45.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librdkafka\config\windows\x86_64\config.h,5,0.0,45.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\argv.h,29,116.0,45.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmio.h,31,67.0,45.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmspec.h,20,31.0,45.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\popt\config\linux\config.h,47,58.0,45.0
+osquery,C++,D:\clones\osquery\libraries\cmake\source\yara\patches\strutils.cpp,16,0.0,45.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\zlib\CMakeLists.txt,9,6.0,45.0
+osquery,YAML,D:\clones\osquery\mkdocs.yml,3,0.0,45.0
+osquery,C++,D:\clones\osquery\osquery\dispatcher\distributed_runner.cpp,10,8.0,45.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\linux\selinux_events.h,6,18.0,45.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\cpu_time.cpp,10,13.0,45.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\virtual_memory_info.cpp,9,8.0,45.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\freebsd\groups.cpp,8,8.0,45.0
+osquery,C++,D:\clones\osquery\plugins\config\parsers\tests\events_parser_tests.cpp,11,13.0,45.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\crontab.cpp,6,10.0,45.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\routes.cpp,8,10.0,45.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\system_controls.cpp,6,10.0,45.0
+osquery,Python,D:\clones\osquery\tools\cmake\downloader.py,15,0.0,45.0
+osquery,XML,D:\clones\osquery\tools\tests\configs\test_launchd.plist,0,0.0,45.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libaudit\config\x86_64\config.h,57,79.0,44.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\darwin\openbsm.h,20,17.0,44.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\linux\bpf\iprocesscontextfactory.h,27,37.0,44.0
+osquery,C++,D:\clones\osquery\osquery\sdk\tests\registry_tests.cpp,11,9.0,44.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\sql\sql.h,23,148.0,44.0
+osquery,CMake,D:\clones\osquery\osquery\tables\cloud\CMakeLists.txt,9,6.0,44.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\cups_destinations.cpp,11,8.0,44.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\windows_optional_features.cpp,18,22.0,44.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\info\platform_type.h,13,33.0,44.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\chrome_extensions.cpp,7,10.0,44.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\deb_packages.cpp,11,10.0,44.0
+osquery,CMake,D:\clones\osquery\libraries\CMakeLists.txt,14,6.0,43.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmcallback.h,7,22.0,43.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmfc.h,28,98.0,43.0
+osquery,CMake,D:\clones\osquery\osquery\remote\tests\CMakeLists.txt,8,6.0,43.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\darwin\disk_events.cpp,11,10.0,43.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\posix\known_hosts_tests.cpp,18,8.0,43.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\logical_drives.cpp,12,12.0,43.0
+osquery,CMake,D:\clones\osquery\osquery\tables\yara\CMakeLists.txt,15,6.0,43.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\map_take.h,14,54.0,43.0
+osquery,Python,D:\clones\osquery\tools\codegen\substitute.py,11,9.0,43.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmfileutil.h,19,99.0,42.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\core\plugins\plugin.h,22,55.0,42.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\database\idatabaseinterface.h,16,8.0,42.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\mounts.cpp,12,10.0,42.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\posix\last_tests.cpp,14,8.0,42.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\background_activities_moderator.cpp,10,10.0,42.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\tpm_info.cpp,7,8.0,42.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\process_envs.cpp,13,10.0,42.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libcap\generated\cap_names.list.h,0,0.0,41.0
+osquery,C++,D:\clones\osquery\osquery\numeric_monitoring\plugin_interface.cpp,15,9.0,41.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\acpi_tables.cpp,13,9.0,41.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\pci_devices.cpp,12,10.0,41.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\system\darwin\running_apps.mm,7,10.0,41.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\process_open_files.cpp,9,9.0,41.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\darwin\smc_tests.cpp,11,14.0,41.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\caches\lru.h,14,57.0,41.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\apps.cpp,8,11.0,41.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libudev\config\config.h,36,54.0,40.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\popt\config\macos\config.h,47,62.0,40.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\ssdeep-cpp\config\aarch64\linux\config.h,37,47.0,40.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\ssdeep-cpp\config\x86_64\linux\config.h,37,48.0,40.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\core\sql\scheduled_query.h,20,41.0,40.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\dispatcher\scheduler.h,22,25.0,40.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\linux\process_file_events.h,4,11.0,40.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\windows\windowseventlogpublisher.h,14,8.0,40.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\cups_jobs.cpp,11,10.0,40.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\logger\kafka_producer.h,25,59.0,40.0
+osquery,CMake,D:\clones\osquery\tests\cppcheck\CMakeLists.txt,10,11.0,40.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\browser_plugins.cpp,10,10.0,40.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\development\reading-files.md,8,0.0,39.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\core\flagalias.h,13,28.0,39.0
+osquery,CMake,D:\clones\osquery\osquery\database\CMakeLists.txt,12,6.0,39.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\darwin\event_taps.h,17,12.0,39.0
+osquery,CMake,D:\clones\osquery\osquery\logger\CMakeLists.txt,11,6.0,39.0
+osquery,C++,D:\clones\osquery\osquery\remote\requests.cpp,12,8.0,39.0
+osquery,C++,D:\clones\osquery\osquery\tables\applications\chrome\chrome_extension_content_scripts.cpp,16,8.0,39.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Security\4672.xml,0,0.0,39.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\disk_info.cpp,6,8.0,39.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\caches\lru-impl.h,4,8.0,39.0
+osquery,C++,D:\clones\osquery\osquery\utils\conversions\tryto.cpp,8,10.0,39.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\logger\generated_wel.h,4,23.0,39.0
+osquery,Bourne Shell,D:\clones\osquery\tools\ci\scripts\macos\build_universal_package_data.sh,16,0.0,39.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\gflags\README.md,22,0.0,38.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\tests\mockedosquerydatabase.h,16,8.0,38.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\hashing\hashing.h,20,97.0,38.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\sql\virtual_table.h,22,49.0,38.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\darwin\hardware_events.cpp,10,11.0,38.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\linux\syslog_events.cpp,11,9.0,38.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Security\4688.xml,0,0.0,38.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\system_utils.cpp,5,8.0,38.0
+osquery,C++,D:\clones\osquery\osquery\utils\conversions\tests\to.cpp,10,8.0,38.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\system\posix\system.h,21,40.0,38.0
+osquery,C++,D:\clones\osquery\osquery\utils\system\windows\errno.cpp,13,8.0,38.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\windows_firewall_rules.cpp,11,10.0,38.0
+osquery,XML,D:\clones\osquery\tools\tests\configs\test.plist,0,0.0,38.0
+osquery,Python,D:\clones\osquery\tools\tests\test_example_queries.py,12,10.0,38.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\ssdeep-cpp\config\x86_64\macos\config.h,36,48.0,37.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\zlib\README.md,15,0.0,37.0
+osquery,C++,D:\clones\osquery\osquery\extensions\thrift\gen\Extension_server.skeleton.cpp,11,6.0,37.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\video_info.cpp,7,8.0,37.0
+osquery,C++,D:\clones\osquery\osquery\utils\system\posix\errno.cpp,9,8.0,37.0
+osquery,CMake,D:\clones\osquery\plugins\database\tests\CMakeLists.txt,6,6.0,37.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\crashes.cpp,7,11.0,37.0
+osquery,diff,D:\clones\osquery\libraries\cmake\source\util-linux\patches\src\glibc-228.patch,5,43.0,36.0
+osquery,CMake,D:\clones\osquery\osquery\distributed\CMakeLists.txt,10,6.0,36.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\linux\bpf\ifilesystem.h,16,20.0,36.0
+osquery,CMake,D:\clones\osquery\osquery\process\CMakeLists.txt,10,6.0,36.0
+osquery,C++,D:\clones\osquery\osquery\profiler\windows\code_profiler.cpp,12,8.0,36.0
+osquery,C++,D:\clones\osquery\osquery\tables\cloud\azure\azure_instance_metadata.cpp,9,8.0,36.0
+osquery,C++,D:\clones\osquery\osquery\tables\cloud\azure\azure_instance_tags.cpp,15,9.0,36.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Security\5382.xml,0,0.0,36.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\ntdomains.cpp,5,8.0,36.0
+osquery,C++,D:\clones\osquery\osquery\utils\conversions\split.cpp,6,11.0,36.0
+osquery,CMake,D:\clones\osquery\osquery\utils\json\CMakeLists.txt,13,6.0,36.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\system\windows\system.h,19,30.0,36.0
+osquery,C++,D:\clones\osquery\osquery\worker\logging\glog\glog_logger.cpp,8,8.0,36.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\groups.cpp,11,15.0,36.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\rpm_packages.cpp,8,10.0,36.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\getopt-cdefs.h,10,23.0,35.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\libcap\CMakeLists.txt,9,6.0,35.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\thrift\config\linux\x86_64\thrift\config.h,48,74.0,35.0
+osquery,CMake,D:\clones\osquery\osquery\config\CMakeLists.txt,12,6.0,35.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\core\sql\column.h,17,58.0,35.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\freebsd\mounts.cpp,7,9.0,35.0
+osquery,C++,D:\clones\osquery\osquery\utils\conversions\tests\split.cpp,13,8.0,35.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\windows\shellitem.h,21,88.0,35.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\os_version.cpp,10,11.0,35.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\system_info.cpp,6,10.0,35.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\time.cpp,9,10.0,35.0
+osquery,CMake,D:\clones\osquery\tools\CMakeLists.txt,8,6.0,35.0
+osquery,Python,D:\clones\osquery\tools\deployment\getfiles.py,8,6.0,35.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\development\unit-tests.md,21,0.0,34.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\libgpg-error\CMakeLists.txt,7,6.0,34.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmsw.h,17,55.0,34.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\libudev\CMakeLists.txt,9,7.0,34.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\popt\CMakeLists.txt,8,6.0,34.0
+osquery,CMake,D:\clones\osquery\osquery\experimental\events_stream\CMakeLists.txt,11,7.0,34.0
+osquery,C++,D:\clones\osquery\osquery\filesystem\mock_file_structure.cpp,8,8.0,34.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\remote\tests\test_utils.h,16,31.0,34.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Security\5379.xml,0,0.0,34.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\System\10016.xml,0,0.0,34.0
+osquery,CMake,D:\clones\osquery\osquery\tables\smart\CMakeLists.txt,8,7.0,34.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\efi_misc.h,8,12.0,34.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\memory_map.cpp,10,8.0,34.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\linux\portage_tests.cpp,13,8.0,34.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\shared_resources.cpp,8,8.0,34.0
+osquery,C++,D:\clones\osquery\osquery\utils\conversions\darwin\cfnumber.cpp,7,11.0,34.0
+osquery,C++,D:\clones\osquery\osquery\utils\info\version.cpp,8,9.0,34.0
+osquery,C++,D:\clones\osquery\osquery\utils\system\uptime.cpp,11,8.0,34.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\config\parsers\auto_constructed_tables.h,10,14.0,34.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\azure_instance_metadata.cpp,5,8.0,34.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\interface_addresses.cpp,8,10.0,34.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\iptables.cpp,8,10.0,34.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\introduction\using-osqueryd.md,12,0.0,33.0
+osquery,C++,D:\clones\osquery\external\examples\read_only_table\main.cpp,10,9.0,33.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\alloca.h,8,31.0,33.0
+osquery,Assembly,D:\clones\osquery\libraries\cmake\source\libgcrypt\generated\aarch64\mpi\mpih-add1-asm.S,8,30.0,33.0
+osquery,Assembly,D:\clones\osquery\libraries\cmake\source\libgcrypt\generated\aarch64\mpi\mpih-sub1-asm.S,8,30.0,33.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\1066.xml,0,0.0,33.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Security\4731.xml,0,0.0,33.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Security\4732.xml,0,0.0,33.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Security\4735.xml,0,0.0,33.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Security\4737.xml,0,0.0,33.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\freebsd\fbsd_kmods.cpp,6,10.0,33.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\autoexec.cpp,8,8.0,33.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\apt_sources.cpp,6,10.0,33.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\process_open_sockets.cpp,8,10.0,33.0
+osquery,Python,D:\clones\osquery\tools\tests\test_docker_container_fs_changes_table.py,10,6.0,33.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\installation\install-linux.md,12,0.0,32.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\glog\README.md,18,0.0,32.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\glog\generated\macos\x86_64\public\glog\export.h,8,2.0,32.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\glog\generated\windows\x86_64\public\glog\export.h,8,2.0,32.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\thrift\config\macos\x86_64\thrift\config.h,48,77.0,32.0
+osquery,CMake,D:\clones\osquery\osquery\core\sql\CMakeLists.txt,6,6.0,32.0
+osquery,CMake,D:\clones\osquery\osquery\dispatcher\tests\CMakeLists.txt,6,6.0,32.0
+osquery,C++,D:\clones\osquery\osquery\events\linux\bpf\setrlimit.cpp,12,8.0,32.0
+osquery,C++,D:\clones\osquery\osquery\main\harnesses\fuzz_utils.cpp,13,11.0,32.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\numeric_monitoring\pre_aggregation_cache.h,14,31.0,32.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Security\4781.xml,0,0.0,32.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\linux\dbus\methods\listunitsmethodhandler.h,12,8.0,32.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\schemer\schemer.h,11,58.0,32.0
+osquery,C++,D:\clones\osquery\osquery\utils\system\linux\proc\proc.cpp,12,11.0,32.0
+osquery,C++,D:\clones\osquery\osquery\utils\tests\chars.cpp,10,8.0,32.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\logger\tls_logger.h,15,29.0,32.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\shellbags.cpp,4,8.0,32.0
+osquery,C/C++ Header,D:\clones\osquery\tests\test_util.h,17,25.0,32.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\libaudit\CMakeLists.txt,7,6.0,31.0
+osquery,CMake,D:\clones\osquery\osquery\devtools\CMakeLists.txt,9,6.0,31.0
+osquery,C++,D:\clones\osquery\osquery\main\benchmarks.cpp,14,9.0,31.0
+osquery,CMake,D:\clones\osquery\osquery\numeric_monitoring\tests\CMakeLists.txt,6,6.0,31.0
+osquery,CMake,D:\clones\osquery\osquery\remote\serializers\CMakeLists.txt,11,6.0,31.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\events\linux\seccomp_events.h,15,22.0,31.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\102.xml,0,0.0,31.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\11707.xml,0,0.0,31.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\17708.xml,0,0.0,31.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\301.xml,0,0.0,31.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Security\4616.xml,0,0.0,31.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Setup\1.xml,0,0.0,31.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\System\20003.xml,0,0.0,31.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\System\6013.xml,0,0.0,31.0
+osquery,CMake,D:\clones\osquery\osquery\worker\ipc\posix\CMakeLists.txt,12,6.0,31.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\worker\ipc\posix\pipe_channel.h,10,8.0,31.0
+osquery,CMake,D:\clones\osquery\plugins\remote\enroll\CMakeLists.txt,12,6.0,31.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\asl.cpp,7,10.0,31.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\chassis_info.cpp,5,10.0,31.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\shortcut_files.cpp,5,8.0,31.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\systemd_units.cpp,9,10.0,31.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\windows_eventlog.cpp,7,11.0,31.0
+osquery,XML,D:\clones\osquery\tools\deployment\windows_packaging\msi\osquery_wix_patch.xml,0,0.0,31.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\gnulib\generated\macos\x86_64\lib\getopt.h,16,42.0,30.0
+osquery,C,D:\clones\osquery\libraries\cmake\source\libgcrypt\generated\x86_64\mpi\mpih-mul2.c,10,28.0,30.0
+osquery,C,D:\clones\osquery\libraries\cmake\source\libgcrypt\generated\x86_64\mpi\mpih-mul3.c,10,28.0,30.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\lldpd\README.md,10,0.0,30.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\windows\evtsubscription.h,12,8.0,30.0
+osquery,C++,D:\clones\osquery\osquery\filesystem\tests\darwin\bsd_file_flags_tests.cpp,11,12.0,30.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\1042.xml,0,0.0,30.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Security\4797.xml,0,0.0,30.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Setup\2.xml,0,0.0,30.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Setup\4.xml,0,0.0,30.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\linux\smbios_utils.h,13,24.0,30.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\wmi_script_event_consumers.cpp,9,8.0,30.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\config\default_paths.h,3,18.0,30.0
+osquery,C++,D:\clones\osquery\osquery\utils\conversions\windows\tests\windows_time.cpp,13,8.0,30.0
+osquery,CMake,D:\clones\osquery\osquery\utils\status\CMakeLists.txt,12,6.0,30.0
+osquery,C++,D:\clones\osquery\plugins\config\parsers\events_parser.cpp,8,11.0,30.0
+osquery,CMake,D:\clones\osquery\tests\CMakeLists.txt,7,6.0,30.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\atom_packages.cpp,7,10.0,30.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\keychain_items.cpp,7,10.0,30.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\preferences.cpp,8,10.0,30.0
+osquery,Markdown,D:\clones\osquery\SECURITY.md,7,0.0,29.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\formula\modules\utils.cmake,15,6.0,29.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\expat\config\linux\expat_config.h,36,50.0,29.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\glog\generated\windows\x86_64\public\glog\vlog_is_on.h,8,85.0,29.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libaudit\generated\machinetabs.h,0,1.0,29.0
+osquery,C,D:\clones\osquery\libraries\cmake\source\libgcrypt\generated\x86_64\mpi\mpih-add1.c,7,29.0,29.0
+osquery,C,D:\clones\osquery\libraries\cmake\source\libgcrypt\generated\x86_64\mpi\mpih-sub1.c,8,29.0,29.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\ssdeep-cpp\CMakeLists.txt,8,6.0,29.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\core\sql\diff_results.h,13,57.0,29.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\core\sql\query_data.h,20,90.0,29.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\core\sql\row.h,19,100.0,29.0
+osquery,CMake,D:\clones\osquery\osquery\registry\CMakeLists.txt,9,6.0,29.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\event_utils.cpp,6,10.0,29.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\642.xml,0,0.0,29.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Setup\10.xml,0,0.0,29.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Setup\8.xml,0,0.0,29.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\wmi_cli_event_consumers.cpp,9,8.0,29.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\wmi_event_filters.cpp,9,8.0,29.0
+osquery,CMake,D:\clones\osquery\osquery\utils\aws\CMakeLists.txt,10,6.0,29.0
+osquery,CMake,D:\clones\osquery\osquery\utils\expected\CMakeLists.txt,11,6.0,29.0
+osquery,C++,D:\clones\osquery\plugins\database\tests\rocksdb.cpp,11,14.0,29.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\logger\windows_event_log.h,11,13.0,29.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\last.cpp,6,14.0,29.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\mounts.cpp,7,10.0,29.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\npm_packages.cpp,9,10.0,29.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\sandboxes.cpp,8,10.0,29.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libaudit\generated\ftypetabs.h,0,1.0,28.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\libdevmapper\README.md,10,0.0,28.0
+osquery,C,D:\clones\osquery\libraries\cmake\source\libgcrypt\generated\x86_64\mpi\mpih-lshift.c,7,33.0,28.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\devtools\devtools.h,16,96.0,28.0
+osquery,CMake,D:\clones\osquery\osquery\distributed\tests\CMakeLists.txt,4,6.0,28.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\linux\bpf\filesystem.h,13,8.0,28.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\linux\bpf\processcontextfactory.h,14,8.0,28.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\types.h,13,32.0,28.0
+osquery,C++,D:\clones\osquery\osquery\experimental\events_stream\events_stream.cpp,8,8.0,28.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\logger\data_logger.h,18,106.0,28.0
+osquery,CMake,D:\clones\osquery\osquery\numeric_monitoring\CMakeLists.txt,8,6.0,28.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\darwin\user_interaction_events.cpp,8,8.0,28.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\System\7045.xml,0,0.0,28.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\wmi_filter_consumer_binding.cpp,9,8.0,28.0
+osquery,C++,D:\clones\osquery\osquery\utils\conversions\darwin\cfdata.cpp,9,9.0,28.0
+osquery,CMake,D:\clones\osquery\osquery\utils\error\CMakeLists.txt,12,6.0,28.0
+osquery,CMake,D:\clones\osquery\osquery\utils\ycloud\CMakeLists.txt,9,6.0,28.0
+osquery,C++,D:\clones\osquery\plugins\config\parsers\feature_vectors.cpp,8,10.0,28.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\alf_services.cpp,8,11.0,28.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\cpu_info.cpp,6,10.0,28.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\disk_info.cpp,8,10.0,28.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\known_hosts.cpp,6,10.0,28.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\sharing_preferences.cpp,7,10.0,28.0
+osquery,Bourne Shell,D:\clones\osquery\tools\ci\scripts\macos\install_cmake.sh,12,0.0,28.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\glog\generated\windows\x86_64\private\config.h,74,121.0,27.0
+osquery,C++,D:\clones\osquery\osquery\events\audit_flags.cpp,9,14.0,27.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\subscription.h,15,36.0,27.0
+osquery,CMake,D:\clones\osquery\osquery\profiler\CMakeLists.txt,8,6.0,27.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\10000.xml,0,0.0,27.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\10001.xml,0,0.0,27.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\System\7040.xml,0,0.0,27.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\intel_me.hpp,7,14.0,27.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\darwin\mdfind_tests.cpp,10,8.0,27.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\default_environment.cpp,6,8.0,27.0
+osquery,CMake,D:\clones\osquery\osquery\utils\debug\CMakeLists.txt,12,6.0,27.0
+osquery,CMake,D:\clones\osquery\osquery\utils\info\CMakeLists.txt,8,6.0,27.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\logger\filesystem_logger.h,13,19.0,27.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\logger\logrotate.h,12,15.0,27.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\connectivity.cpp,9,10.0,27.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\docker_image_history.cpp,6,11.0,27.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\ibridge.cpp,6,10.0,27.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\logged_in_users.cpp,6,10.0,27.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\mdfind.cpp,7,11.0,27.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\memory_map.cpp,8,10.0,27.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\tpm_info.cpp,8,10.0,27.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\ycloud_instance_metadata.cpp,5,8.0,27.0
+osquery,C++,D:\clones\osquery\external\examples\config_plugin\main.cpp,8,9.0,26.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\libaudit\README.md,9,0.0,26.0
+osquery,C,D:\clones\osquery\libraries\cmake\source\libgcrypt\generated\x86_64\mpi\mpih-mul1.c,7,29.0,26.0
+osquery,C,D:\clones\osquery\libraries\cmake\source\libgcrypt\generated\x86_64\mpi\mpih-rshift.c,7,34.0,26.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libiptables\config\config.h,29,36.0,26.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmsign.h,11,23.0,26.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\tests\linux\bpf\mockedfilesystem.h,11,8.0,26.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\windows\windowseventlogparser.h,12,10.0,26.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\events\linux\process_events.h,11,17.0,26.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\16.xml,0,0.0,26.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\258.xml,0,0.0,26.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\300.xml,0,0.0,26.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\302.xml,0,0.0,26.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\4625.xml,0,0.0,26.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\8195.xml,0,0.0,26.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Security\1101.xml,0,0.0,26.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\System\16977.xml,0,0.0,26.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\System\7023.xml,0,0.0,26.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\System\7038.xml,0,0.0,26.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\networking\windows\win_sockets.h,11,15.0,26.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\windows\patches.cpp,9,8.0,26.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\windows\registry.h,15,95.0,26.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\conversions\castvariant.h,7,10.0,26.0
+osquery,C++,D:\clones\osquery\plugins\config\parsers\prometheus_targets.cpp,8,8.0,26.0
+osquery,C++,D:\clones\osquery\plugins\logger\stdout.cpp,8,10.0,26.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\numeric_monitoring\filesystem.h,12,8.0,26.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\ntdomains.cpp,8,10.0,26.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\registry.cpp,6,10.0,26.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\shimcache.cpp,5,8.0,26.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\suid_bin.cpp,8,10.0,26.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\userassist.cpp,5,8.0,26.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\bzip2\CMakeLists.txt,7,6.0,25.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libaudit\generated\actiontabs.h,0,1.0,25.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libaudit\generated\flagtabs.h,0,1.0,25.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmkeyring.h,18,79.0,25.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmps.h,18,67.0,25.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\core\plugins\sql.h,11,37.0,25.0
+osquery,C++,D:\clones\osquery\osquery\filesystem\darwin\benchmarks\plist_benchmarks.cpp,10,9.0,25.0
+osquery,C++,D:\clones\osquery\osquery\system\network\tests\host_identity.cpp,11,9.0,25.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\1061.xml,0,0.0,25.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\15.xml,0,0.0,25.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\16384.xml,0,0.0,25.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\5.xml,0,0.0,25.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\6000.xml,0,0.0,25.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\6003.xml,0,0.0,25.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\8198.xml,0,0.0,25.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\System\6011.xml,0,0.0,25.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\System\7001.xml,0,0.0,25.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\System\7026.xml,0,0.0,25.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\darwin\asl_utils.h,13,40.0,25.0
+osquery,C++,D:\clones\osquery\osquery\utils\system\posix\filepath.cpp,6,16.0,25.0
+osquery,C++,D:\clones\osquery\plugins\config\parsers\kafka_topics.cpp,7,9.0,25.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\logical_drives.cpp,8,10.0,25.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\programs.cpp,6,10.0,25.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\python_packages.cpp,7,10.0,25.0
+osquery,Markdown,D:\clones\osquery\.github\PULL_REQUEST_TEMPLATE.md,6,0.0,24.0
+osquery,Markdown,D:\clones\osquery\docs\README.md,14,0.0,24.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\development\logger-plugins.md,13,0.0,24.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\expat\CMakeLists.txt,7,6.0,24.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\filesystem\linux\mounts.h,16,23.0,24.0
+osquery,C++,D:\clones\osquery\osquery\remote\serializers\tests\json_serializers_tests.cpp,9,8.0,24.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\4112.xml,0,0.0,24.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\4113.xml,0,0.0,24.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\8320.xml,0,0.0,24.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Security\1100.xml,0,0.0,24.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\System\16962.xml,0,0.0,24.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\System\50037.xml,0,0.0,24.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\System\51047.xml,0,0.0,24.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\System\7030.xml,0,0.0,24.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\dbus\uniquedbusconnection.cpp,9,8.0,24.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\posix\load_average.cpp,11,8.0,24.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\darwin\startup_items_tests.cpp,10,10.0,24.0
+osquery,CMake,D:\clones\osquery\osquery\tables\utility\CMakeLists.txt,4,6.0,24.0
+osquery,CMake,D:\clones\osquery\osquery\utils\schemer\json\CMakeLists.txt,9,6.0,24.0
+osquery,CMake,D:\clones\osquery\osquery\worker\ipc\linux\tests\CMakeLists.txt,5,6.0,24.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\worker\ipc\table_ipc_json_converter.h,5,8.0,24.0
+osquery,CMake,D:\clones\osquery\osquery\worker\ipc\tests\CMakeLists.txt,5,6.0,24.0
+osquery,C++,D:\clones\osquery\plugins\config\parsers\logger.cpp,10,8.0,24.0
+osquery,CMake,D:\clones\osquery\plugins\config\tests\CMakeLists.txt,4,6.0,24.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\background_activities_moderator.cpp,4,8.0,24.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\docker_image_layers.cpp,6,11.0,24.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\ntfs_acl_permissions.cpp,7,10.0,24.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\system_extensions.cpp,6,10.0,24.0
+osquery,JSON,D:\clones\osquery\tools\vsinstall.json,0,0.0,24.0
+osquery,Markdown,D:\clones\osquery\.github\ISSUE_TEMPLATE\Bug_Report.md,13,0.0,23.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\dbus\config\dbus\dbus-arch-deps.h,12,26.0,23.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\popt\README.md,10,0.0,23.0
+osquery,CMake,D:\clones\osquery\osquery\core\plugins\CMakeLists.txt,6,6.0,23.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\core\sql\table_row.h,12,29.0,23.0
+osquery,C++,D:\clones\osquery\osquery\core\sql\table_rows.cpp,7,8.0,23.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\windows\windowseventlogparserservice.h,10,8.0,23.0
+osquery,CMake,D:\clones\osquery\osquery\extensions\thrift\CMakeLists.txt,6,6.0,23.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\applications\posix\prometheus_metrics.h,8,25.0,23.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\dbus\methods\getstringproperty.cpp,9,8.0,23.0
+osquery,CMake,D:\clones\osquery\osquery\tables\yara\tests\CMakeLists.txt,7,7.0,23.0
+osquery,C++,D:\clones\osquery\osquery\utils\rot13.cpp,5,8.0,23.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\system\linux\cpu.h,13,31.0,23.0
+osquery,CMake,D:\clones\osquery\osquery\utils\system\linux\proc\CMakeLists.txt,10,6.0,23.0
+osquery,CMake,D:\clones\osquery\osquery\utils\system\linux\proc\tests\CMakeLists.txt,8,7.0,23.0
+osquery,C++,D:\clones\osquery\osquery\utils\system\linux\proc\tests\proc.cpp,9,8.0,23.0
+osquery,C++,D:\clones\osquery\osquery\utils\tests\windows\env.cpp,10,10.0,23.0
+osquery,CMake,D:\clones\osquery\plugins\numeric_monitoring\CMakeLists.txt,10,7.0,23.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\chocolatey_packages.cpp,7,10.0,23.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\cpuid.cpp,7,10.0,23.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\hvci_status.cpp,8,10.0,23.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\kernel_modules.cpp,6,10.0,23.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\office_mru.cpp,6,8.0,23.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\running_apps.cpp,8,10.0,23.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\windows_security_products.cpp,7,10.0,23.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\libcryptsetup\README.md,12,0.0,22.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\libiptables\README.md,8,0.0,22.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmstrpool.h,16,85.0,22.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmver.h,15,62.0,22.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libxml2\generated\config\linux\aarch64\config.h,93,173.0,22.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libxml2\generated\config\linux\x86_64\config.h,93,173.0,22.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\1.xml,0,0.0,22.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\1532.xml,0,0.0,22.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\16394.xml,0,0.0,22.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\5611.xml,0,0.0,22.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\5615.xml,0,0.0,22.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\5617.xml,0,0.0,22.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Application\9027.xml,0,0.0,22.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\Security\4608.xml,0,0.0,22.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\System\50036.xml,0,0.0,22.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\System\50103.xml,0,0.0,22.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\System\50104.xml,0,0.0,22.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\System\50106.xml,0,0.0,22.0
+osquery,XML,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\input\System\51046.xml,0,0.0,22.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\events\windows\ntfs_journal_events.h,12,19.0,22.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\darwin\asl.cpp,8,9.0,22.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\linux\dbus\uniquedbusmessage.cpp,7,8.0,22.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\linux\dbus\uniquedbusmessage.h,9,8.0,22.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\posix\sysctl_utils.h,10,11.0,22.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\conversions\darwin\iokit.h,9,9.0,22.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\versioning\semantic.h,8,8.0,22.0
+osquery,CMake,D:\clones\osquery\osquery\worker\ipc\posix\tests\CMakeLists.txt,6,6.0,22.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\azure_instance_tags.cpp,5,8.0,22.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\chrome_extension_content_scripts.cpp,5,10.0,22.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\interface_ipv6.cpp,6,10.0,22.0
+osquery,Bourne Shell,D:\clones\osquery\tools\formatting\format-test.sh,12,8.0,22.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmsq.h,12,42.0,21.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmurl.h,8,25.0,21.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\util-linux\README.md,8,0.0,21.0
+osquery,CMake,D:\clones\osquery\osquery\devtools\tests\CMakeLists.txt,4,6.0,21.0
+osquery,CMake,D:\clones\osquery\osquery\logger\tests\CMakeLists.txt,4,6.0,21.0
+osquery,CMake,D:\clones\osquery\osquery\system\network\CMakeLists.txt,9,6.0,21.0
+osquery,CMake,D:\clones\osquery\osquery\tables\applications\chrome\tests\CMakeLists.txt,5,6.0,21.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\events\linux\socket_events.h,9,13.0,21.0
+osquery,CMake,D:\clones\osquery\osquery\tables\smart\tests\CMakeLists.txt,4,7.0,21.0
+osquery,Objective-C++,D:\clones\osquery\osquery\tables\system\darwin\location_services.mm,6,8.0,21.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\darwin\smbios_utils.h,7,17.0,21.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\linux\dbus\methods\getstringproperty.h,10,8.0,21.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\darwin\packages_tests.cpp,7,9.0,21.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\chars.h,10,25.0,21.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\scope_guard.h,9,28.0,21.0
+osquery,C++,D:\clones\osquery\osquery\utils\system\posix\env.cpp,9,8.0,21.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\worker\ipc\include\table_channel_base.h,7,8.0,21.0
+osquery,CMake,D:\clones\osquery\plugins\distributed\CMakeLists.txt,5,6.0,21.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\arp_cache.cpp,7,10.0,21.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\default_environment.cpp,9,10.0,21.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\etc_protocols.cpp,6,10.0,21.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\nvram.cpp,6,10.0,21.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\secureboot.cpp,8,8.0,21.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\uptime.cpp,6,8.0,21.0
+osquery,XML,D:\clones\osquery\tools\deployment\macos_packaging\pkg\io.osquery.agent.plist,0,0.0,21.0
+osquery,Markdown,D:\clones\osquery\.github\ISSUE_TEMPLATE\New_Release.md,7,0.0,20.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findaws-sdk-cpp.cmake,5,6.0,20.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findebpfpub.cmake,6,8.0,20.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\carver\carver_utils.h,13,40.0,20.0
+osquery,C++,D:\clones\osquery\osquery\events\linux\socket_events.cpp,11,8.0,20.0
+osquery,CMake,D:\clones\osquery\osquery\hashing\CMakeLists.txt,6,6.0,20.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\remote\enroll\enroll.h,12,76.0,20.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\uptime.cpp,5,8.0,20.0
+osquery,CMake,D:\clones\osquery\osquery\utils\azure\CMakeLists.txt,6,6.0,20.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\info\version.h,12,21.0,20.0
+osquery,C++,D:\clones\osquery\osquery\utils\system\windows\time.cpp,7,8.0,20.0
+osquery,CMake,D:\clones\osquery\osquery\utils\versioning\CMakeLists.txt,9,6.0,20.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\logger\syslog_logger.h,10,8.0,20.0
+osquery,C++,D:\clones\osquery\plugins\logger\tests\syslog_logger_tests.cpp,6,8.0,20.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\alf_exceptions.cpp,9,10.0,20.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\sudoers.cpp,6,10.0,20.0
+osquery,PowerShell,D:\clones\osquery\tools\deployment\windows_packaging\chocolatey\tools\chocolateyuninstall.ps1,8,11.0,20.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\index.md,18,0.0,19.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\linenoise-ng\CMakeLists.txt,6,6.0,19.0
+osquery,CMake,D:\clones\osquery\osquery\carver\tests\CMakeLists.txt,4,6.0,19.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\core\sql\query_performance.h,16,25.0,19.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\eventer.h,9,33.0,19.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\sql\tests\sql_test_utils.h,11,30.0,19.0
+osquery,CMake,D:\clones\osquery\osquery\system\network\tests\CMakeLists.txt,4,6.0,19.0
+osquery,CMake,D:\clones\osquery\osquery\tables\applications\posix\tests\CMakeLists.txt,4,6.0,19.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\events\linux\bpf_process_events.h,9,8.0,19.0
+osquery,CMake,D:\clones\osquery\osquery\tables\lldpd\CMakeLists.txt,5,7.0,19.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\windows\windows_optional_features_tests.cpp,8,13.0,19.0
+osquery,CMake,D:\clones\osquery\osquery\utils\aws\tests\CMakeLists.txt,4,6.0,19.0
+osquery,C++,D:\clones\osquery\osquery\utils\ycloud\tests\ycloud.cpp,6,8.0,19.0
+osquery,CMake,D:\clones\osquery\osquery\worker\logging\glog\CMakeLists.txt,7,6.0,19.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\kernel_info.cpp,6,10.0,19.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\location_services.cpp,6,10.0,19.0
+osquery,Bourne Shell,D:\clones\osquery\tools\harnesses\osqueryfuzz_config_dict.sh,9,7.0,19.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\tests\linux\bpf\mockedprocesscontextfactory.h,9,8.0,18.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\system\network\hostname.h,9,8.0,18.0
+osquery,CMake,D:\clones\osquery\osquery\tables\forensic\CMakeLists.txt,4,6.0,18.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\networking\posix\utils.h,6,10.0,18.0
+osquery,C++,D:\clones\osquery\osquery\utils\conversions\darwin\tests\cfstring.cpp,7,8.0,18.0
+osquery,C++,D:\clones\osquery\osquery\utils\info\tool_type.cpp,9,9.0,18.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\macros\macros.h,4,10.0,18.0
+osquery,C++,D:\clones\osquery\osquery\utils\system\posix\tests\errno.cpp,8,8.0,18.0
+osquery,CMake,D:\clones\osquery\osquery\utils\ycloud\tests\CMakeLists.txt,4,6.0,18.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\worker\ipc\include\platform_table_container_ipc.h,8,8.0,18.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\config\parsers\decorators.h,9,32.0,18.0
+osquery,Markdown,D:\clones\osquery\docs\wiki\development\options-arguments.md,10,0.0,17.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\ebpfpub\CMakeLists.txt,6,6.0,17.0
+osquery,C++,D:\clones\osquery\osquery\core\plugins\plugin.cpp,6,8.0,17.0
+osquery,C++,D:\clones\osquery\osquery\main\posix\main.cpp,5,10.0,17.0
+osquery,CMake,D:\clones\osquery\osquery\registry\tests\CMakeLists.txt,4,6.0,17.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\events\linux\apparmor_events.h,7,12.0,17.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\darwin\firewall.h,12,19.0,17.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\windows\certificates.h,7,8.0,17.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\conversions\to.h,5,20.0,17.0
+osquery,C++,D:\clones\osquery\osquery\utils\system\tests\time.cpp,10,8.0,17.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\logger\stdout.h,11,8.0,17.0
+osquery,CMake,D:\clones\osquery\plugins\numeric_monitoring\tests\CMakeLists.txt,4,7.0,17.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\user_groups.cpp,6,10.0,17.0
+osquery,XML,D:\clones\osquery\tools\tests\configs\test_alf_nested_path.plist,0,0.0,17.0
+osquery,Markdown,D:\clones\osquery\.github\ISSUE_TEMPLATE\Feature_Request.md,9,0.0,16.0
+osquery,CMake,D:\clones\osquery\cmake\toolchain.cmake,2,0.0,16.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\expat\README.md,5,0.0,16.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmpol.h,8,4.0,16.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\config\tests\test_utils.h,9,9.0,16.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\core\windows\handle.h,10,10.0,16.0
+osquery,C++,D:\clones\osquery\osquery\core\windows\platform.cpp,6,11.0,16.0
+osquery,C++,D:\clones\osquery\osquery\events\subscription.cpp,6,8.0,16.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\tests\linux\bpf\bpftestsmain.h,7,8.0,16.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\profiler\code_profiler.h,8,8.0,16.0
+osquery,C++,D:\clones\osquery\osquery\tables\events\tests\linux\selinux_events_tests.cpp,6,8.0,16.0
+osquery,CMake,D:\clones\osquery\osquery\tables\sleuthkit\CMakeLists.txt,4,6.0,16.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\posix\shell_history.h,6,10.0,16.0
+osquery,CMake,D:\clones\osquery\osquery\utils\caches\CMakeLists.txt,8,6.0,16.0
+osquery,C++,D:\clones\osquery\osquery\utils\conversions\darwin\cfstring.cpp,4,12.0,16.0
+osquery,CMake,D:\clones\osquery\osquery\utils\schemer\CMakeLists.txt,9,6.0,16.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\config\tls_config.h,7,9.0,16.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\device_hash.cpp,6,28.0,16.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\linux\process_events.h,7,8.0,15.0
+osquery,C++,D:\clones\osquery\osquery\experimental\events_stream\events_stream_registry.cpp,9,9.0,15.0
+osquery,C++,D:\clones\osquery\osquery\tables\applications\posix\browser_opera.cpp,5,9.0,15.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\events\linux\bpf_socket_events.h,7,8.0,15.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\events\linux\selinux_events.h,7,12.0,15.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\events\windows\windows_events.h,6,8.0,15.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\smart\smart_drives.h,6,24.0,15.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\linux\apt_sources.h,8,9.0,15.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\linux\dbus\uniquedbusconnection.h,9,8.0,15.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\posix\ssh_keys.h,7,8.0,15.0
+osquery,C++,D:\clones\osquery\osquery\utils\conversions\darwin\cftime.cpp,7,10.0,15.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\info\tool_type.h,7,18.0,15.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\system\errno.h,8,10.0,15.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\worker\ipc\include\table_ipc_message_handler.h,6,8.0,15.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\device_file.cpp,6,37.0,15.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\device_partitions.cpp,6,31.0,15.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\docker_container_processes.cpp,6,45.0,15.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\docker_container_stats.cpp,6,46.0,15.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\extended_attributes.cpp,6,27.0,15.0
+osquery,Markdown,D:\clones\osquery\tools\ci\README.md,5,0.0,15.0
+osquery,PowerShell,D:\clones\osquery\tools\deployment\windows_packaging\chocolatey\tools\chocolateyBeforeModify.ps1,5,11.0,15.0
+osquery,diff,D:\clones\osquery\libraries\cmake\source\libdpkg\patches\src\fix-memory-leak.patch,1,19.0,14.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\core\shutdown.h,11,67.0,14.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\linux\bpf\bpferrorstate.h,10,18.0,14.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\experimental\events_stream\events_stream_registry.h,8,8.0,14.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\numeric_monitoring\plugin_interface.h,6,13.0,14.0
+osquery,C++,D:\clones\osquery\osquery\remote\serializers\json.cpp,6,11.0,14.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\posix\known_hosts.h,8,8.0,14.0
+osquery,CMake,D:\clones\osquery\osquery\utils\config\CMakeLists.txt,6,6.0,14.0
+osquery,CMake,D:\clones\osquery\osquery\utils\macros\CMakeLists.txt,6,6.0,14.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\mutex.h,12,16.0,14.0
+osquery,C++,D:\clones\osquery\osquery\utils\status\status.cpp,7,8.0,14.0
+osquery,CMake,D:\clones\osquery\plugins\remote\enroll\tests\CMakeLists.txt,3,6.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\account_policy_data.cpp,6,27.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\acpi_tables.cpp,6,25.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\ad_config.cpp,6,26.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\alf.cpp,6,29.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\alf_explicit_auths.cpp,6,23.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\app_schemes.cpp,6,27.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\appcompat_shims.cpp,6,28.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\augeas.cpp,6,26.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\authenticode.cpp,6,28.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\authorization_mechanisms.cpp,6,27.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\authorizations.cpp,6,34.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\authorized_keys.cpp,6,26.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\autoexec.cpp,6,25.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\battery.cpp,6,40.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\bitlocker_info.cpp,6,28.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\block_devices.cpp,6,31.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\carbon_black_info.cpp,6,43.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\carves.cpp,6,29.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\cpu_time.cpp,6,33.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\cups_destinations.cpp,6,25.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\cups_jobs.cpp,6,30.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\curl.cpp,6,29.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\device_firmware.cpp,6,25.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\disk_encryption.cpp,6,29.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\disk_events.cpp,6,38.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\dns_resolvers.cpp,6,27.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\docker_container_envs.cpp,6,25.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\docker_container_labels.cpp,6,25.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\docker_container_mounts.cpp,6,31.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\docker_container_networks.cpp,6,33.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\docker_container_ports.cpp,6,27.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\docker_containers.cpp,6,46.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\docker_image_labels.cpp,6,25.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\docker_images.cpp,6,26.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\docker_info.cpp,6,54.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\docker_network_labels.cpp,6,25.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\docker_networks.cpp,6,29.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\docker_version.cpp,6,31.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\docker_volume_labels.cpp,6,25.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\docker_volumes.cpp,6,26.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\drivers.cpp,6,36.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\ec2_instance_metadata.cpp,6,36.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\ec2_instance_tags.cpp,6,25.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\etc_hosts.cpp,6,24.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\etc_services.cpp,6,27.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\event_taps.cpp,6,27.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\example.cpp,6,28.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\fan_speed_sensors.cpp,6,28.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\fbsd_kmods.cpp,6,26.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\file_events.cpp,6,40.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\firefox_addons.cpp,6,37.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\gatekeeper.cpp,6,26.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\gatekeeper_approved_apps.cpp,6,26.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\hardware_events.cpp,6,34.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\homebrew_packages.cpp,6,25.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\ie_extensions.cpp,6,26.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\intel_me_info.cpp,6,23.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\iokit_devicetree.cpp,6,31.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\iokit_registry.cpp,6,29.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\kernel_extensions.cpp,6,29.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\kernel_panics.cpp,6,35.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\kva_speculative_info.cpp,6,33.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\launchd.cpp,6,43.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\launchd_overrides.cpp,6,27.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\listening_ports.cpp,6,31.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\lldp_neighbors.cpp,6,91.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\load_average.cpp,6,24.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\logon_sessions.cpp,6,37.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\magic.cpp,6,26.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\managed_policies.cpp,6,28.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\md_devices.cpp,6,53.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\md_drives.cpp,6,26.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\md_personalities.cpp,6,23.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\memory_array_mapped_addresses.cpp,6,27.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\memory_arrays.cpp,6,29.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\memory_device_mapped_addresses.cpp,6,30.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\memory_devices.cpp,6,42.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\memory_error_info.cpp,6,30.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\memory_info.cpp,6,31.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\msr.cpp,6,32.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\nfs_shares.cpp,6,25.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\oem_strings.cpp,6,25.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\osquery_events.cpp,6,29.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\osquery_extensions.cpp,6,28.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\osquery_flags.cpp,7,28.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\osquery_info.cpp,6,33.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\osquery_packs.cpp,6,29.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\osquery_registry.cpp,6,27.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\osquery_schedule.cpp,6,33.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\package_bom.cpp,6,29.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\package_install_history.cpp,6,28.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\package_receipts.cpp,6,29.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\patches.cpp,6,30.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\pci_devices.cpp,6,33.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\physical_disk_performance.cpp,6,34.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\pipes.cpp,6,27.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\pkg_packages.cpp,6,26.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\platform_info.cpp,6,30.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\plist.cpp,6,26.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\portage_keywords.cpp,6,27.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\portage_packages.cpp,6,30.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\portage_use.cpp,6,25.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\power_sensors.cpp,6,26.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\powershell_events.cpp,6,30.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\process_events.cpp,6,48.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\process_file_events.cpp,6,37.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\process_memory_map.cpp,6,31.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\process_namespaces.cpp,6,30.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\prometheus_metrics.cpp,6,26.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\quicklook_cache.cpp,6,34.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\rpm_package_files.cpp,6,29.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\safari_extensions.cpp,6,32.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\scheduled_tasks.cpp,6,32.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\selinux_events.cpp,6,27.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\services.cpp,6,34.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\shadow.cpp,6,32.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\shared_folders.cpp,6,24.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\shared_memory.cpp,6,35.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\shared_resources.cpp,6,30.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\shell_history.cpp,6,26.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\signature.cpp,6,30.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\sip_config.cpp,6,25.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\smart_drive_info.cpp,6,45.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\smbios_tables.cpp,6,29.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\smc_keys.cpp,6,27.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\socket_events.cpp,6,38.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\ssh_configs.cpp,6,26.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\syslog_events.cpp,6,30.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\temperature_sensors.cpp,6,26.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\time_machine_backups.cpp,6,24.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\time_machine_destinations.cpp,6,29.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\ulimit_info.cpp,6,25.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\usb_devices.cpp,6,34.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\user_events.cpp,6,33.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\user_interaction_events.cpp,6,23.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\user_ssh_keys.cpp,6,25.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\video_info.cpp,6,30.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\virtual_memory_info.cpp,6,44.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\wifi_networks.cpp,6,34.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\wifi_status.cpp,6,35.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\wifi_survey.cpp,6,32.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\winbaseobj.cpp,6,25.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\windows_crashes.cpp,6,43.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\windows_events.cpp,6,34.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\wmi_bios_info.cpp,6,24.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\wmi_cli_event_consumers.cpp,6,27.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\wmi_event_filters.cpp,6,27.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\wmi_filter_consumer_binding.cpp,6,26.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\wmi_script_event_consumers.cpp,6,28.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\xprotect_entries.cpp,6,29.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\xprotect_meta.cpp,6,26.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\xprotect_reports.cpp,6,25.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\yara.cpp,6,29.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\yara_events.cpp,6,32.0,14.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\yum_sources.cpp,6,27.0,14.0
+osquery,Bourne Shell,D:\clones\osquery\tools\harnesses\osqueryfuzz_config_corpus.sh,7,6.0,14.0
+osquery,Markdown,D:\clones\osquery\.github\ISSUE_TEMPLATE\Question.md,10,0.0,13.0
+osquery,Markdown,D:\clones\osquery\SUPPORT.md,7,0.0,13.0
+osquery,diff,D:\clones\osquery\libraries\cmake\source\libudev\patches\src\glibc-228.patch,2,14.0,13.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\sqlite\CMakeLists.txt,4,7.0,13.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\thrift\config\windows\x86_64\thrift\config.h,48,96.0,13.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\core\sql\table_rows.h,10,27.0,13.0
+osquery,C++,D:\clones\osquery\osquery\core\tests\system_test.cpp,9,8.0,13.0
+osquery,CMake,D:\clones\osquery\osquery\extensions\tests\CMakeLists.txt,4,6.0,13.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\filesystem\posix\xattrs.h,6,8.0,13.0
+osquery,CMake,D:\clones\osquery\osquery\sdk\tests\CMakeLists.txt,4,6.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\1.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\10000.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\10001.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\102.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\1042.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\105.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\1061.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\1066.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\11707.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\15.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\1532.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\16.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\16384.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\16394.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\17708.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\258.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\300.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\301.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\302.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\4112.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\4113.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\4625.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\5.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\5611.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\5615.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\5617.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\6000.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\6003.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\642.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\8195.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\8198.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\8320.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Application\9027.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Security\1100.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Security\1101.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Security\4608.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Security\4616.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Security\4624.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Security\4672.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Security\4688.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Security\4731.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Security\4732.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Security\4735.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Security\4737.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Security\4738.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Security\4781.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Security\4797.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Security\5379.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Security\5382.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Setup\1.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Setup\10.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Setup\2.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Setup\4.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\Setup\8.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\System\10016.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\System\16962.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\System\16977.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\System\20003.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\System\50036.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\System\50037.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\System\50103.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\System\50104.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\System\50106.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\System\51046.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\System\51047.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\System\6011.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\System\6013.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\System\7001.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\System\7023.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\System\7026.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\System\7030.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\System\7038.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\System\7040.json,0,0.0,13.0
+osquery,JSON,D:\clones\osquery\osquery\tables\events\tests\windows\data\windows_events\output\System\7045.json,0,0.0,13.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\freebsd\procstat.h,7,21.0,13.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\conversions\windows\strings.h,12,44.0,13.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\darwin\plist.h,9,40.0,13.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\only_movable.h,9,20.0,13.0
+osquery,CMake,D:\clones\osquery\osquery\utils\schemer\tests\CMakeLists.txt,4,6.0,13.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\system\env.h,9,26.0,13.0
+osquery,CMake,D:\clones\osquery\osquery\worker\logging\CMakeLists.txt,10,6.0,13.0
+osquery,C++,D:\clones\osquery\tests\integration\tables\keychain_acls.cpp,7,30.0,13.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\gflags\generated\macos\x86_64\private\defines.h,17,19.0,12.0
+osquery,C++,D:\clones\osquery\osquery\core\sql\column.cpp,4,8.0,12.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\dispatcher\distributed_runner.h,6,10.0,12.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\process\windows\process_ops.h,9,26.0,12.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\networking\darwin\wifi_utils.h,9,14.0,12.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\attribute.h,2,8.0,12.0
+osquery,CMake,D:\clones\osquery\osquery\utils\caches\tests\CMakeLists.txt,4,6.0,12.0
+osquery,C++,D:\clones\osquery\osquery\utils\conversions\tests\join.cpp,7,8.0,12.0
+osquery,CMake,D:\clones\osquery\osquery\utils\schemer\json\tests\CMakeLists.txt,4,6.0,12.0
+osquery,C++,D:\clones\osquery\osquery\utils\tests\base64.cpp,7,8.0,12.0
+osquery,CMake,D:\clones\osquery\osquery\utils\versioning\tests\CMakeLists.txt,4,6.0,12.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\config\parsers\feature_vectors.h,7,11.0,12.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\config\parsers\kafka_topics.h,6,11.0,12.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\config\parsers\logger.h,6,11.0,12.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\config\parsers\prometheus_targets.h,6,8.0,12.0
+osquery,C/C++ Header,D:\clones\osquery\plugins\remote\enroll\tls_enroll.h,6,10.0,12.0
+osquery,Bourne Shell,D:\clones\osquery\tools\deployment\linux_packaging\postinst,2,9.0,12.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\linux\apparmor_events.h,5,9.0,11.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\extensions\thrift\gen\osquery_constants.h,7,6.0,11.0
+osquery,C++,D:\clones\osquery\osquery\main\harnesses\fuzz_sqlquery.cpp,5,8.0,11.0
+osquery,C++,D:\clones\osquery\osquery\system\network\hostname.cpp,5,8.0,11.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\posix\last.h,8,8.0,11.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\posix\sudoers.h,6,8.0,11.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\enum_class_hash.h,5,13.0,11.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\schemer\json\schemer_json_error.h,4,8.0,11.0
+osquery,C++,D:\clones\osquery\osquery\utils\system\posix\time.cpp,6,9.0,11.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\system\time.h,10,42.0,11.0
+osquery,C++,D:\clones\osquery\osquery\utils\tests\rot13.cpp,6,8.0,11.0
+osquery,C++,D:\clones\osquery\osquery\utils\tests\windows\filetime.cpp,3,8.0,11.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\ycloud\ycloud_util.h,3,8.0,11.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\worker\logging\glog\glog_logger.h,4,8.0,11.0
+osquery,C++,D:\clones\osquery\plugins\config\update.cpp,4,24.0,11.0
+osquery,make,D:\clones\osquery\tools\ci\Makefile,3,8.0,11.0
+osquery,Markdown,D:\clones\osquery\.github\ISSUE_TEMPLATE\Free_Form.md,4,0.0,10.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libaudit\generated\optabs.h,0,1.0,10.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\librpm\include\rpm\rpmbase64.h,7,26.0,10.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findaugeas.cmake,6,6.0,10.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\sleuthkit\config\linux\x86_64\tsk\tsk_incs.h,2,2.0,10.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\sleuthkit\config\macos\x86_64\tsk\tsk_incs.h,2,2.0,10.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\thrift\patches\random_shuffle.h,3,8.0,10.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\linux\bpf\serializers.h,7,8.0,10.0
+osquery,C++,D:\clones\osquery\osquery\main\harnesses\fuzz_config.cpp,5,8.0,10.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\remote\serializers\json.h,6,22.0,10.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\conversions\split.h,6,27.0,10.0
+osquery,C++,D:\clones\osquery\osquery\utils\info\platform_type.cpp,6,9.0,10.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\windows\lzxpress.h,6,16.0,10.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\worker\logging\include\logger.h,3,8.0,10.0
+osquery,C++,D:\clones\osquery\plugins\database\tests\sqlite.cpp,4,9.0,10.0
+osquery,PowerShell,D:\clones\osquery\tools\ci\scripts\install_openssl_formula_dependencies.ps1,5,10.0,10.0
+osquery,XML,D:\clones\osquery\tools\deployment\macos_packaging\osquery.entitlements,0,0.0,10.0
+osquery,XML,D:\clones\osquery\tools\tests\configs\test_array.plist,0,0.0,10.0
+osquery,Markdown,D:\clones\osquery\.github\ISSUE_TEMPLATE\Blueprint.md,3,0.0,9.0
+osquery,YAML,D:\clones\osquery\.readthedocs.yml,3,4.0,9.0
+osquery,JSON,D:\clones\osquery\.watchmanconfig,0,0.0,9.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\gflags\generated\windows\x86_64\private\defines.h,17,22.0,9.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libdevmapper\include\lvm-version.h,2,19.0,9.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libgcrypt\generated\aarch64\mpi\mod-source-info.h,0,2.0,9.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libgcrypt\generated\x86_64\mpi\mod-source-info.h,0,2.0,9.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Finddbus.cmake,4,6.0,9.0
+osquery,C++,D:\clones\osquery\osquery\events\eventer.cpp,6,8.0,9.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\secureboot.hpp,5,20.0,9.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\windows\windows_eventlog.h,6,28.0,9.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\conversions\join.h,6,16.0,9.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\conversions\windows\windows_time.h,9,30.0,9.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findlibdpkg.cmake,4,6.0,8.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findlibelfin.cmake,4,6.0,8.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findlibrpm.cmake,4,6.0,8.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findlibudev.cmake,4,6.0,8.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findutil-linux.cmake,4,6.0,8.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\rapidjson\CMakeLists.txt,3,6.0,8.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\main\main.h,7,20.0,8.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\events\event_utils.h,6,19.0,8.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\networking\posix\interfaces.h,3,8.0,8.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\networking\windows\interfaces.h,3,8.0,8.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\system_utils.h,5,26.0,8.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\tables\system\windows\users.h,5,8.0,8.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\base64.h,8,20.0,8.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\system\linux\proc\proc.h,6,8.0,8.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\aws-sdk-cpp\config\aws-c-common\linux\x86_64\include\aws\common\config.h,3,12.0,7.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\aws-sdk-cpp\config\aws-c-common\macos\x86_64\include\aws\common\config.h,3,12.0,7.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findexpat.cmake,3,6.0,7.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findrapidjson.cmake,4,6.0,7.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\core\core.h,7,10.0,7.0
+osquery,C++,D:\clones\osquery\osquery\core\posix\platform.cpp,4,10.0,7.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\linux\bpf\uniquedir.h,6,8.0,7.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\experimental\events_stream\events_stream.h,5,8.0,7.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\azure\azure_util.h,6,8.0,7.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\conversions\darwin\cfnumber.h,5,11.0,7.0
+osquery,C++,D:\clones\osquery\tools\tests\test.cpp,2,8.0,7.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\aws-sdk-cpp\config\aws-c-common\macos\aarch64\include\aws\common\config.h,3,13.0,6.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\gflags\generated\gflags\gflags_completions.h,9,106.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findberkeley-db.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findbzip2.cmake,3,7.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findgflags.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findglog.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findgoogletest.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findlibarchive.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findlibaudit.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findlibcap.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findlibcryptsetup.cmake,3,8.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findlibdevmapper.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findlibgcrypt.cmake,3,8.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findlibgpg-error.cmake,3,8.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findlibiptables.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findlibmagic.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findlibrdkafka.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findlibxml2.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findlinenoise-ng.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findlldpd.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findlzma.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findpopt.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findrocksdb.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findsleuthkit.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findsmartmontools.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findsqlite.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findssdeep.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findthrift.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findyara.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findzlib.cmake,3,6.0,6.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\source\modules\Findzstd.cmake,3,6.0,6.0
+osquery,C++,D:\clones\osquery\osquery\extensions\thrift\gen\osquery_constants.cpp,5,6.0,6.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\logger\logger.h,6,23.0,6.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\conversions\darwin\cfdata.h,5,8.0,6.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\conversions\darwin\cfstring.h,4,11.0,6.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\conversions\darwin\cftime.h,6,11.0,6.0
+osquery,CMake,D:\clones\osquery\plugins\CMakeLists.txt,1,6.0,6.0
+osquery,XML,D:\clones\osquery\tests\cppcheck\libraries\googletest.cfg,0,0.0,6.0
+osquery,CMake,D:\clones\osquery\external\examples\config_plugin\CMakeLists.txt,2,6.0,5.0
+osquery,CMake,D:\clones\osquery\external\examples\read_only_table\CMakeLists.txt,2,6.0,5.0
+osquery,CMake,D:\clones\osquery\external\examples\writable_table\CMakeLists.txt,2,6.0,5.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libgcrypt\generated\x86_64\mpi\mpi-asm-defs.h,0,3.0,5.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\rocksdb\patches\env_win.h,3,8.0,5.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\events.h,5,12.0,5.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\linux\socket_events.h,5,8.0,5.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\filesystem\mock_file_structure.h,5,9.0,5.0
+osquery,C++,D:\clones\osquery\osquery\tables\system\tests\darwin\unsigned_test.cpp,3,13.0,5.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\rot13.h,5,14.0,5.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\system\filepath.h,5,9.0,5.0
+osquery,CMake,D:\clones\osquery\osquery\worker\CMakeLists.txt,2,6.0,5.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\aws-sdk-cpp\config\aws-c-common\windows\x86_64\include\aws\common\config.h,3,15.0,4.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\aws-sdk-cpp\config\aws-cpp-sdk-core\linux\aarch64\aws\core\VersionConfig.h,1,4.0,4.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\aws-sdk-cpp\config\aws-cpp-sdk-core\windows\x86_64\aws\core\VersionConfig.h,1,4.0,4.0
+osquery,C++,D:\clones\osquery\osquery\events\file_events_flags.cpp,4,8.0,4.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\events\linux\bpf\setrlimit.h,4,8.0,4.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\registry\registry.h,2,8.0,4.0
+osquery,C++,D:\clones\osquery\osquery\sdk\empty_register_foreign_tables.cpp,3,9.0,4.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\utils\system\uptime.h,4,8.0,4.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\worker\logging\include\glog_logger_types.h,2,8.0,4.0
+osquery,Markdown,D:\clones\osquery\docs\doxygen\mainpage.md,1,0.0,3.0
+osquery,CSS,D:\clones\osquery\docs\wiki\theme\osquery.css,1,1.0,3.0
+osquery,Markdown,D:\clones\osquery\osquery\experimental\README.md,2,0.0,3.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\main\harnesses\fuzz_utils.h,3,14.0,3.0
+osquery,XML,D:\clones\osquery\tools\tests\configs\db.plist,0,0.0,3.0
+osquery,Markdown,D:\clones\osquery\CODE_OF_CONDUCT.md,1,0.0,2.0
+osquery,C/C++ Header,D:\clones\osquery\docs\doxygen\documentation.h,2,14.0,2.0
+osquery,CMake,D:\clones\osquery\libraries\cmake\formula\modules\Findopenssl.cmake,2,6.0,2.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\aws-sdk-cpp\config\aws-crt-cpp\macos\x86_64\aws\crt\Config.h,0,4.0,2.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\aws-sdk-cpp\config\aws-crt-cpp\windows\x86_64\aws\crt\Config.h,0,4.0,2.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libiptables\include\xtables-version.h,0,0.0,2.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\worker\ipc\linux\platform_table_container_ipc.h,2,8.0,2.0
+osquery,YAML,D:\clones\osquery\.github\FUNDING.yml,1,1.0,1.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\augeas\generated\macos\x86_64\config\datadir.h,0,0.0,1.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libgcrypt\generated\aarch64\mpi\mpi-asm-defs.h,0,3.0,1.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libgcrypt\generated\aarch64\mpi\sysdep.h,0,1.0,1.0
+osquery,Markdown,D:\clones\osquery\libraries\cmake\source\librdkafka\config\windows\x86_64\dummy\README.md,0,0.0,1.0
+osquery,C++,D:\clones\osquery\osquery\core\plugins\sql.cpp,2,24.0,1.0
+osquery,C++,D:\clones\osquery\osquery\core\sql\query_performance.cpp,1,8.0,1.0
+osquery,C++,D:\clones\osquery\osquery\core\sql\scheduled_query.cpp,1,8.0,1.0
+osquery,CMake,D:\clones\osquery\osquery\experimental\CMakeLists.txt,1,6.0,1.0
+osquery,C/C++ Header,D:\clones\osquery\osquery\sdk\plugin_sdk.h,1,8.0,1.0
+osquery,CMake,D:\clones\osquery\osquery\system\CMakeLists.txt,1,6.0,1.0
+osquery,C++,D:\clones\osquery\osquery\utils\config\default_paths.cpp,1,8.0,1.0
+osquery,C++,D:\clones\osquery\osquery\utils\only_movable.cpp,1,8.0,1.0
+osquery,CMake,D:\clones\osquery\osquery\utils\system\linux\CMakeLists.txt,1,6.0,1.0
+osquery,C++,D:\clones\osquery\osquery\utils\system\posix\system.cpp,1,8.0,1.0
+osquery,C++,D:\clones\osquery\osquery\utils\system\windows\system.cpp,1,8.0,1.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\aws-sdk-cpp\config\aws-cpp-sdk-core\linux\aarch64\aws\core\SDKConfig.h,1,5.0,0.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\aws-sdk-cpp\config\aws-cpp-sdk-core\macos\x86_64\aws\core\SDKConfig.h,1,5.0,0.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\aws-sdk-cpp\config\aws-cpp-sdk-core\windows\x86_64\aws\core\SDKConfig.h,2,5.0,0.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\libgcrypt\generated\aarch64\mpi\asm-syntax.h,0,3.0,0.0
+osquery,C/C++ Header,D:\clones\osquery\libraries\cmake\source\smartmontools\config\x86_64\macos\svnversion.h,0,1.0,0.0
+osquery,C++,D:\clones\osquery\osquery\utils\system\tests\errno.cpp,0,8.0,0.0

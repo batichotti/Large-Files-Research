@@ -1,0 +1,22 @@
+project,language,filename,blank,comment,code
+corrode,Markdown,D:\clones\corrode\src\Language\Rust\Corrode\C.md,656,0.0,3256.0
+corrode,Markdown,D:\clones\corrode\src\Language\Rust\Corrode\CFG.md,160,0.0,720.0
+corrode,Haskell,D:\clones\corrode\src\Language\Rust\AST.hs,36,36.0,341.0
+corrode,Haskell,D:\clones\corrode\tests\test.hs,25,0.0,217.0
+corrode,Markdown,D:\clones\corrode\Main.md,31,0.0,155.0
+corrode,Python,D:\clones\corrode\scripts\csmith-test,35,70.0,143.0
+corrode,Markdown,D:\clones\corrode\README.md,42,0.0,136.0
+corrode,Markdown,D:\clones\corrode\CONTRIBUTING.md,24,0.0,78.0
+corrode,DOS Batch,D:\clones\corrode\fixGitSymlinksForWindows.bat,11,8.0,72.0
+corrode,Python,D:\clones\corrode\scripts\corrode-cc,12,0.0,67.0
+corrode,Haskell,D:\clones\corrode\src\Language\Rust\Corrode\CrateMap.hs,11,0.0,55.0
+corrode,YAML,D:\clones\corrode\.travis.yml,5,5.0,24.0
+corrode,Haskell,D:\clones\corrode\src\Language\Rust\Idiomatic.hs,6,14.0,22.0
+corrode,make,D:\clones\corrode\Makefile,3,0.0,7.0
+corrode,YAML,D:\clones\corrode\stack.yaml,0,0.0,7.0
+corrode,Dockerfile,D:\clones\corrode\Dockerfile,0,0.0,5.0
+corrode,Haskell,D:\clones\corrode\src\Language\Rust.hs,1,0.0,4.0
+corrode,Haskell,D:\clones\corrode\Setup.hs,0,0.0,2.0
+corrode,Haskell,D:\clones\corrode\Main.lhs,0,0.0,1.0
+corrode,Haskell,D:\clones\corrode\src\Language\Rust\Corrode\C.lhs,0,0.0,1.0
+corrode,Haskell,D:\clones\corrode\src\Language\Rust\Corrode\CFG.lhs,0,0.0,1.0

@@ -1,0 +1,25 @@
+project,language,filename,blank,comment,code
+pix2pix,Lua,D:\clones\pix2pix\train.lua,76,34.0,336.0
+pix2pix,Lua,D:\clones\pix2pix\data\dataset.lua,32,33.0,318.0
+pix2pix,Lua,D:\clones\pix2pix\util\util.lua,56,19.0,154.0
+pix2pix,Lua,D:\clones\pix2pix\data\donkey_folder.lua,35,26.0,147.0
+pix2pix,Markdown,D:\clones\pix2pix\README.md,38,0.0,139.0
+pix2pix,Lua,D:\clones\pix2pix\test.lua,26,9.0,129.0
+pix2pix,Lua,D:\clones\pix2pix\models.lua,28,70.0,116.0
+pix2pix,Python,D:\clones\pix2pix\scripts\eval_cityscapes\cityscapes.py,12,43.0,85.0
+pix2pix,Lua,D:\clones\pix2pix\data\data.lua,19,5.0,74.0
+pix2pix,Python,D:\clones\pix2pix\scripts\eval_cityscapes\evaluate.py,4,2.0,61.0
+pix2pix,Lua,D:\clones\pix2pix\util\cudnn_convert_custom.lua,4,10.0,58.0
+pix2pix,MATLAB,D:\clones\pix2pix\scripts\edges\PostprocessHED.m,14,10.0,53.0
+pix2pix,Python,D:\clones\pix2pix\scripts\edges\batch_hed.py,12,17.0,50.0
+pix2pix,Python,D:\clones\pix2pix\scripts\combine_A_and_B.py,6,0.0,45.0
+pix2pix,MATLAB,D:\clones\pix2pix\scripts\receptive_field_sizes.m,23,37.0,37.0
+pix2pix,Python,D:\clones\pix2pix\scripts\eval_cityscapes\util.py,9,10.0,22.0
+pix2pix,TeX,D:\clones\pix2pix\datasets\bibtex\shoes.tex,1,0.0,13.0
+pix2pix,Bourne Shell,D:\clones\pix2pix\datasets\download_dataset.sh,3,0.0,13.0
+pix2pix,TeX,D:\clones\pix2pix\datasets\bibtex\handbags.tex,1,0.0,12.0
+pix2pix,TeX,D:\clones\pix2pix\datasets\bibtex\transattr.tex,0,0.0,8.0
+pix2pix,TeX,D:\clones\pix2pix\datasets\bibtex\facades.tex,0,0.0,7.0
+pix2pix,TeX,D:\clones\pix2pix\datasets\bibtex\cityscapes.tex,0,0.0,6.0
+pix2pix,Bourne Shell,D:\clones\pix2pix\models\download_model.sh,0,0.0,4.0
+pix2pix,Bourne Shell,D:\clones\pix2pix\scripts\eval_cityscapes\download_fcn8s.sh,0,0.0,3.0

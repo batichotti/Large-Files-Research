@@ -1,0 +1,316 @@
+project,language,filename,blank,comment,code
+Charts,Markdown,D:\clones\Charts\CHANGELOG.md,293,0.0,3627.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Charts\BarLineChartViewBase.swift,294,306.0,1358.0
+Charts,XML,D:\clones\Charts\ChartsDemo-macOS\ChartsDemo-macOS\Base.lproj\Main.storyboard,0,7.0,815.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\PieChartRenderer.swift,174,49.0,714.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\LineChartRenderer.swift,182,64.0,663.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Charts\PieRadarChartViewBase.swift,163,76.0,615.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\BarChartRenderer.swift,142,105.0,588.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Charts\ChartViewBase.swift,155,236.0,499.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\HorizontalBarChartRenderer.swift,114,29.0,484.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Charts\PieChartView.swift,114,89.0,472.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\LegendRenderer.swift,99,27.0,427.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\ChartData.swift,88,85.0,401.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\XAxisRenderer.swift,95,26.0,367.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\YAxisRenderer.swift,84,28.0,344.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Animation\ChartAnimationEasing.swift,44,10.0,340.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\RadarChartRenderer.swift,100,34.0,335.0
+Charts,Swift,D:\clones\Charts\Tests\ChartsTests\BarChartTests.swift,46,5.0,319.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\CandleStickChartRenderer.swift,83,22.0,312.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\ChartDataSet.swift,74,108.0,299.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Utils\ViewPortHandler.swift,95,86.0,290.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\DemoBaseViewController.swift,64,23.0,285.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Components\Legend.swift,82,67.0,269.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\ChartBaseDataSet.swift,69,88.0,256.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\BubbleChartRenderer.swift,82,23.0,255.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\DemoBaseViewController.m,70,14.0,245.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\CombinedChartViewController.m,71,14.0,239.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Utils\Platform.swift,44,9.0,232.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\LineChart2ViewController.m,52,13.0,231.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\CombinedChartData.swift,40,24.0,228.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\YAxisRendererHorizontalBarChart.swift,54,17.0,223.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Utils\ChartUtils.swift,57,21.0,220.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\XAxisRendererHorizontalBarChart.swift,55,16.0,219.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\RadarChartViewController.m,51,12.0,211.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\LineChart1ViewController.m,55,15.0,209.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Components\AxisBase.swift,66,92.0,200.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Charts\HorizontalBarChartView.swift,52,19.0,198.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\DemoListViewController.m,25,12.0,190.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\LineChartTimeViewController.m,47,11.0,186.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\CubicLineChartViewController.m,47,11.0,180.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\CombinedChartViewController.swift,48,11.0,179.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\MultipleBarChartViewController.m,52,15.0,174.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\LineChart1ViewController.swift,35,11.0,170.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Components\BalloonMarker.swift,29,12.0,168.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\ScatterChartRenderer.swift,55,18.0,167.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Utils\ChartColorTemplates.swift,17,10.0,167.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Animation\Animator.swift,45,72.0,164.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Charts\CombinedChartView.swift,45,37.0,164.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Utils\Fill.swift,35,11.0,164.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\PieChartViewController.m,50,13.0,161.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\LineChart2ViewController.swift,31,13.0,160.0
+Charts,Markdown,D:\clones\Charts\README.md,80,0.0,159.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\RadarChartViewController.swift,40,9.0,158.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\MultipleLinesChartViewController.m,41,11.0,154.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\PiePolylineChartViewController.m,48,10.0,154.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\BarChartViewController.m,38,11.0,151.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\YAxisRendererRadarChart.swift,46,23.0,151.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Utils\Platform+Accessibility.swift,36,23.0,151.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\NegativeStackedBarChartViewController.m,37,12.0,146.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\BarChartDataEntry.swift,32,39.0,143.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\HalfPieChartViewController.m,47,13.0,142.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\PositiveNegativeBarChartViewController.m,40,14.0,140.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\CombinedChartRenderer.swift,38,25.0,138.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Charts\RadarChartView.swift,54,29.0,137.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Utils\Platform+Gestures.swift,20,16.0,136.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Formatters\DayAxisValueFormatter.m,28,6.0,132.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\LineChartFilledViewController.m,36,11.0,131.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\StackedBarChartViewController.m,38,11.0,131.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\HorizontalBarChartViewController.m,38,11.0,129.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\CandleStickChartViewController.m,37,11.0,126.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\BubbleChartViewController.m,37,11.0,125.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\LineChartTimeViewController.swift,32,8.0,125.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Utils\Platform+Graphics.swift,28,12.0,123.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\SinusBarChartViewController.m,34,11.0,121.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\ScatterChartViewController.m,36,11.0,120.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\CubicLineChartViewController.swift,30,9.0,120.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\BarChartViewController.swift,27,11.0,119.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Components\YAxis.swift,42,46.0,118.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\PiePolylineChartViewController.xib,0,0.0,115.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\PieChartViewController.swift,34,12.0,114.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Highlight\Highlight.swift,29,61.0,113.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Utils\Transformer.swift,25,33.0,112.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Highlight\ChartHighlighter.swift,31,33.0,111.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Charts\BarChartView.swift,34,42.0,110.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\DemoListViewController.swift,14,8.0,109.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-macOS\PlaygroundChart.playground\Pages\LineChart.xcplaygroundpage\Contents.swift,18,30.0,109.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\MultipleBarChartViewController.swift,35,14.0,107.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\MultipleLinesChartViewController.swift,26,10.0,106.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\PiePolylineChartViewController.swift,33,11.0,106.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\LineChartDataSet.swift,32,39.0,106.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\AnotherBarChartViewController.m,33,11.0,105.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\NegativeStackedBarChartViewController.swift,22,9.0,103.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\BarLineScatterCandleBubbleRenderer.swift,34,19.0,103.0
+Charts,Swift,D:\clones\Charts\Tests\ChartsTests\HorizontalBarChartTests.swift,18,10.0,103.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\HalfPieChartViewController.swift,32,11.0,101.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\AnotherBarChartViewController.xib,0,0.0,101.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\BarChartViewController.xib,0,0.0,101.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\BubbleChartViewController.xib,0,0.0,101.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\CandleStickChartViewController.xib,0,0.0,101.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\CubicLineChartViewController.xib,0,0.0,101.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\HorizontalBarChartViewController.xib,0,0.0,101.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\LineChart1ViewController.xib,0,0.0,101.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\LineChart2ViewController.xib,0,0.0,101.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\MultipleLinesChartViewController.xib,0,0.0,101.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\PieChartViewController.xib,0,0.0,101.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\ScatterChartViewController.xib,0,0.0,101.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\StackedBarChartViewController.xib,0,0.0,101.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\CandleStickChartViewController.swift,22,9.0,100.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\MultipleBarChartViewController.xib,0,0.0,100.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Utils\Platform+Touch Handling.swift,23,11.0,100.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Filters\DataApproximator+N.swift,34,20.0,99.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\BubbleChartViewController.swift,24,9.0,96.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\ScatterChartViewController.swift,26,8.0,92.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\StackedBarChartViewController.swift,27,9.0,91.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Jobs\AnimatedViewPortJob.swift,24,12.0,91.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\HorizontalBarChartViewController.swift,26,10.0,90.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\PositiveNegativeBarChartViewController.swift,25,8.0,89.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\LineChartFilledViewController.xib,0,0.0,88.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-macOS\PlaygroundChart.playground\Pages\CombinedChart.xcplaygroundpage\Contents.swift,14,48.0,88.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\LineChartFilledViewController.swift,24,8.0,87.0
+Charts,XML,D:\clones\Charts\Charts.xcodeproj\xcshareddata\xcschemes\ChartsTests.xcscheme,0,0.0,85.0
+Charts,XML,D:\clones\Charts\Charts.xcodeproj\xcshareddata\xcschemes\Charts.xcscheme,0,0.0,84.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\PieChartData.swift,11,12.0,84.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Formatters\DayAxisValueFormatter.swift,20,8.0,81.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\BarChartDataSet.swift,26,27.0,81.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Formatters\DefaultValueFormatter.swift,17,13.0,81.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\SinusBarChartViewController.swift,22,9.0,79.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\LineChartTimeViewController.xib,0,0.0,79.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\SinusBarChartViewController.xib,0,0.0,79.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\PieChartDataSet.swift,24,27.0,79.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-macOS\PlaygroundChart.playground\Pages\StackedBarChart.xcplaygroundpage\Contents.swift,9,31.0,76.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\ColoredLineChartViewController.m,28,11.0,75.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Highlight\BarHighlighter.swift,13,23.0,73.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\AnotherBarChartViewController.swift,21,9.0,72.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Components\MarkerImage.swift,21,13.0,72.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Filters\DataApproximator.swift,18,25.0,72.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Formatters\DefaultAxisValueFormatter.swift,17,11.0,72.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Components\MarkerView.swift,19,11.0,69.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Jobs\AnimatedZoomViewJob.swift,11,10.0,69.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\RadarChartViewController.xib,0,0.0,67.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-macOS\PlaygroundChart.playground\Pages\RadarChart.xcplaygroundpage\Contents.swift,11,33.0,67.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\ColoredLineChartViewController.xib,0,0.0,66.0
+Charts,Swift,D:\clones\Charts\Tests\ChartsTests\CombinedChartTests.swift,18,9.0,66.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\CandleChartDataEntry.swift,16,18.0,64.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Interfaces\ChartDataSetProtocol.swift,53,153.0,64.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\BarChartData.swift,18,27.0,63.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\PieChartDataEntry.swift,16,40.0,63.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-macOS\PlaygroundChart.playground\Pages\HorizontalBarChart.xcplaygroundpage\Contents.swift,9,31.0,62.0
+Charts,Swift,D:\clones\Charts\Tests\ChartsTests\ChartDataTests.swift,14,6.0,61.0
+Charts,JSON,D:\clones\Charts\ChartsDemo-iOS\Resources\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,60.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-macOS\PlaygroundChart.playground\Pages\ScatterChart.xcplaygroundpage\Contents.swift,13,31.0,60.0
+Charts,YAML,D:\clones\Charts\.github\workflows\swift.yml,6,0.0,59.0
+Charts,JSON,D:\clones\Charts\ChartsDemo-macOS\ChartsDemo-macOS\Assets.xcassets\AppIcon.appiconset\Contents.json,0,0.0,58.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\CombinedChartViewController.xib,0,0.0,57.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\HalfPieChartViewController.xib,0,0.0,57.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\NegativeStackedBarChartViewController.xib,0,0.0,57.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\PositiveNegativeBarChartViewController.xib,0,0.0,57.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\XAxisRendererRadarChart.swift,13,12.0,57.0
+Charts,Swift,D:\clones\Charts\Tests\ChartsTests\PieChartTests.swift,18,4.0,57.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\CandleChartDataSet.swift,27,36.0,54.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Demos\ColoredLineChartViewController.swift,19,7.0,53.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\RadarMarkerView.xib,0,0.0,53.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\ChartDataEntry.swift,19,38.0,53.0
+Charts,Swift,D:\clones\Charts\Tests\ChartsTests\LineChartTests.swift,16,3.0,53.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-macOS\PlaygroundChart.playground\Pages\CandleChart.xcplaygroundpage\Contents.swift,13,31.0,52.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\Resources\Launch Screen.storyboard,0,1.0,51.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-macOS\ChartsDemo-macOS\Demos\BarDemoViewController.swift,14,11.0,51.0
+Charts,Swift,D:\clones\Charts\Tests\ChartsTests\Utilities.swift,5,0.0,51.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\Scatter\CircleShapeRenderer.swift,3,10.0,50.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\Scatter\SquareShapeRenderer.swift,3,10.0,50.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Components\ChartLimitLine.swift,11,14.0,49.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\Demos\RealmDemosViewController.xib,1,0.0,48.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\ChartDataEntryBase.swift,21,29.0,46.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\ScatterChartDataSet.swift,11,21.0,46.0
+Charts,Swift,D:\clones\Charts\Tests\ChartsTests\ChartUtilsTests.swift,20,2.0,46.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Formatters\LargeValueFormatter.swift,14,9.0,45.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Jobs\ZoomViewJob.swift,11,10.0,45.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\LineRadarChartDataSet.swift,15,26.0,44.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\Scatter\TriangleShapeRenderer.swift,10,12.0,44.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Highlight\CombinedHighlighter.swift,9,13.0,43.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Highlight\HorizontalBarHighlighter.swift,9,11.0,43.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\Supporting Files\Info.plist,0,0.0,42.0
+Charts,XML,D:\clones\Charts\ChartsDemo-iOS\XIBs\DemoListViewController.xib,0,0.0,42.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-macOS\PlaygroundChart.playground\Pages\BubbleChart.xcplaygroundpage\Contents.swift,7,33.0,42.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Utils\Platform+Color.swift,7,10.0,40.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Highlight\RadarHighlighter.swift,14,14.0,39.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\BubbleChartDataEntry.swift,10,32.0,37.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Formatters\DefaultFillFormatter.swift,10,11.0,37.0
+Charts,Markdown,D:\clones\Charts\CONTRIBUTING.md,13,0.0,36.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Formatters\LargeValueFormatter.swift,14,9.0,35.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Components\XAxis.swift,15,26.0,34.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Highlight\PieRadarHighlighter.swift,10,18.0,33.0
+Charts,XML,D:\clones\Charts\ChartsDemo-macOS\ChartsDemo-macOS\Info.plist,0,0.0,32.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Highlight\Range.swift,7,13.0,32.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\DataRenderer.swift,13,30.0,32.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-macOS\ChartsDemo-macOS\Demos\PieDemoViewController.swift,13,10.0,31.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\RadarChartData.swift,9,12.0,30.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Jobs\ViewPortJob.swift,5,11.0,30.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-macOS\ChartsDemo-macOS\Demos\LineDemoViewController.swift,10,10.0,29.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\LineRadarRenderer.swift,11,14.0,29.0
+Charts,Swift,D:\clones\Charts\Tests\ChartsTests\EquatableTests.swift,9,6.0,29.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-macOS\ChartsDemo-macOS\Demos\RadarDemoViewController.swift,9,10.0,28.0
+Charts,Swift,D:\clones\Charts\Package.swift,1,2.0,28.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Components\Description.swift,10,16.0,28.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\RadarChartDataEntry.swift,9,17.0,28.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-macOS\PlaygroundChart.playground\Pages\BarChart.xcplaygroundpage\Contents.swift,8,28.0,27.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\BubbleChartDataSet.swift,12,14.0,27.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\RadarChartDataSet.swift,15,17.0,27.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\LineScatterCandleRadarRenderer.swift,5,17.0,27.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Formatters\IndexAxisValueFormatter.swift,8,11.0,26.0
+Charts,XML,D:\clones\Charts\Source\Supporting Files\Info.plist,0,0.0,26.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\AppDelegate.m,14,17.0,25.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\AppDelegate.swift,16,15.0,25.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Interfaces\LineChartDataSetProtocol.swift,23,38.0,25.0
+Charts,XML,D:\clones\Charts\Tests\ChartsTests\Resources\Info.plist,0,0.0,24.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Components\XYMarkerView.swift,5,7.0,23.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-macOS\PlaygroundChart.playground\Pages\PieChart.xcplaygroundpage\Contents.swift,8,26.0,23.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\ScatterChartData.swift,5,11.0,23.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\Scatter\ChevronDownShapeRenderer.swift,3,10.0,23.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\Scatter\ChevronUpShapeRenderer.swift,3,10.0,23.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\Scatter\CrossShapeRenderer.swift,3,10.0,23.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\Scatter\XShapeRenderer.swift,3,10.0,23.0
+Charts,JSON,D:\clones\Charts\Tests\ChartsTests\Resources\Media.xcassets\icon.imageset\Contents.json,0,0.0,23.0
+Charts,Markdown,D:\clones\Charts\.github\ISSUE_TEMPLATE.md,11,0.0,22.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Components\XYMarkerView.swift,5,5.0,22.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Formatters\DateValueFormatter.m,7,10.0,22.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Components\LegendEntry.swift,11,40.0,22.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\BubbleChartData.swift,5,11.0,21.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Interfaces\PieChartDataSetProtocol.swift,17,26.0,21.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\LineScatterCandleRadarChartDataSet.swift,12,19.0,20.0
+Charts,Ruby,D:\clones\Charts\Charts.podspec,1,0.0,19.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Components\RadarMarkerView.swift,4,10.0,19.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Interfaces\CandleChartDataSetProtocol.swift,16,31.0,19.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Utils\TransformerHorizontalBarChart.swift,2,11.0,19.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\BarLineScatterCandleBubbleChartDataSet.swift,7,13.0,18.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\DemoBaseViewController.h,8,10.0,16.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Components\RadarMarkerView.swift,4,10.0,16.0
+Charts,XML,D:\clones\Charts\ChartsDemo-macOS\PlaygroundChart.playground\contents.xcplayground,0,0.0,16.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Charts\CandleStickChartView.swift,6,12.0,16.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\BarLineScatterCandleBubbleChartData.swift,4,10.0,16.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\CandleChartData.swift,4,10.0,16.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Implementations\Standard\LineChartData.swift,4,11.0,16.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Interfaces\ChartDataProvider.swift,10,14.0,15.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Jobs\MoveViewJob.swift,3,10.0,15.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Components\ComponentBase.swift,7,16.0,14.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Interfaces\RadarChartDataSetProtocol.swift,11,15.0,14.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Highlight\PieHighlighter.swift,3,10.0,14.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Jobs\AnimatedMoveViewJob.swift,3,10.0,14.0
+Charts,XML,D:\clones\Charts\Charts.xcworkspace\contents.xcworkspacedata,0,0.0,13.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Charts\ScatterChartView.swift,6,12.0,13.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Interfaces\BarChartDataSetProtocol.swift,10,19.0,13.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\AxisRenderer.swift,12,20.0,13.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Formatters\DateValueFormatter.swift,4,7.0,12.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Interfaces\LineRadarChartDataSetProtocol.swift,9,24.0,12.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\Scatter\ShapeRenderer.swift,2,18.0,12.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Charts\BubbleChartView.swift,5,11.0,11.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Charts\LineChartView.swift,5,12.0,11.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Utils\Sequence+KeyPath.swift,2,6.0,11.0
+Charts,YAML,D:\clones\Charts\.github\FUNDING.yml,1,1.0,10.0
+Charts,Markdown,D:\clones\Charts\.github\PULL_REQUEST_TEMPLATE.md,3,0.0,10.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Formatters\IntAxisValueFormatter.m,4,5.0,10.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Components\Marker.swift,5,24.0,10.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Interfaces\BarLineScatterCandleBubbleChartDataSetProtocol.swift,4,12.0,10.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Interfaces\LineScatterCandleRadarChartDataSetProtocol.swift,8,18.0,10.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Interfaces\ScatterChartDataSetProtocol.swift,7,19.0,10.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Interfaces\BarChartDataProvider.swift,3,10.0,10.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Interfaces\BarLineScatterCandleBubbleChartDataProvider.swift,3,10.0,10.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Data\Interfaces\BubbleChartDataSetProtocol.swift,5,13.0,9.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Formatters\ValueFormatter.swift,4,23.0,9.0
+Charts,XML,D:\clones\Charts\Charts.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist,0,0.0,8.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Interfaces\LineChartDataProvider.swift,3,10.0,8.0
+Charts,C/C++ Header,D:\clones\Charts\Source\Supporting Files\Charts.h,7,13.0,8.0
+Charts,Bourne Shell,D:\clones\Charts\carthage.sh,5,4.0,8.0
+Charts,Objective-C,D:\clones\Charts\ChartsDemo-iOS\Supporting Files\main.m,2,10.0,7.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-iOS\Swift\Formatters\IntAxisValueFormatter.swift,2,7.0,7.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Formatters\AxisValueFormatter.swift,4,19.0,7.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Formatters\FillFormatter.swift,2,12.0,7.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Highlight\Highlighter.swift,2,14.0,7.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Interfaces\BubbleChartDataProvider.swift,2,10.0,7.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Interfaces\CandleChartDataProvider.swift,2,10.0,7.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Interfaces\CombinedChartDataProvider.swift,2,10.0,7.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Interfaces\ScatterChartDataProvider.swift,2,10.0,7.0
+Charts,JSON,D:\clones\Charts\ChartsDemo-iOS\Resources\Images.xcassets\Contents.json,0,0.0,6.0
+Charts,Swift,D:\clones\Charts\Source\Charts\Renderers\Renderer.swift,3,11.0,6.0
+Charts,JSON,D:\clones\Charts\Tests\ChartsTests\Resources\Media.xcassets\Contents.json,0,0.0,6.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\AnotherBarChartViewController.h,3,10.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\BarChartViewController.h,3,10.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\BubbleChartViewController.h,3,10.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\CandleStickChartViewController.h,3,10.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\ColoredLineChartViewController.h,3,10.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\CombinedChartViewController.h,3,10.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\CubicLineChartViewController.h,3,10.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\HalfPieChartViewController.h,3,10.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\HorizontalBarChartViewController.h,3,10.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\LineChart1ViewController.h,3,10.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\LineChart2ViewController.h,3,10.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\LineChartFilledViewController.h,3,10.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\LineChartTimeViewController.h,3,10.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\MultipleBarChartViewController.h,3,10.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\MultipleLinesChartViewController.h,3,10.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\NegativeStackedBarChartViewController.h,3,10.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\PieChartViewController.h,3,10.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\PositiveNegativeBarChartViewController.h,3,10.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\RadarChartViewController.h,3,10.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\ScatterChartViewController.h,3,10.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\SinusBarChartViewController.h,3,10.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\StackedBarChartViewController.h,3,10.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Formatters\DayAxisValueFormatter.h,4,5.0,5.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-macOS\ChartsDemo-macOS\AppDelegate.swift,2,0.0,5.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\AppDelegate.h,6,10.0,4.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Formatters\DateValueFormatter.h,3,10.0,4.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Formatters\IntAxisValueFormatter.h,3,5.0,4.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\DemoListViewController.h,5,10.0,3.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Objective-C\Demos\PiePolylineChartViewController.h,3,7.0,3.0
+Charts,C/C++ Header,D:\clones\Charts\ChartsDemo-iOS\Supporting Files\ChartsDemo-Bridging-Header.h,1,3.0,0.0
+Charts,Swift,D:\clones\Charts\ChartsDemo-macOS\PlaygroundChart.playground\Pages\Menu.xcplaygroundpage\Contents.swift,16,24.0,0.0

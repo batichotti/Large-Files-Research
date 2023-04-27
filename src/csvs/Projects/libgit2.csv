@@ -1,0 +1,1143 @@
+project,language,filename,blank,comment,code
+libgit2,C,D:\clones\libgit2\deps\pcre\pcre_jit_compile.c,1306,603.0,10004.0
+libgit2,C,D:\clones\libgit2\deps\pcre\pcre_compile.c,1565,2085.0,6162.0
+libgit2,C,D:\clones\libgit2\deps\pcre\pcre_exec.c,920,1010.0,5243.0
+libgit2,C,D:\clones\libgit2\deps\pcre\pcre_ucd.c,248,261.0,3135.0
+libgit2,C,D:\clones\libgit2\src\index.c,797,184.0,2784.0
+libgit2,C,D:\clones\libgit2\deps\pcre\pcre_dfa_exec.c,465,500.0,2711.0
+libgit2,C,D:\clones\libgit2\src\merge.c,696,177.0,2562.0
+libgit2,C,D:\clones\libgit2\src\repository.c,647,162.0,2444.0
+libgit2,C,D:\clones\libgit2\src\remote.c,690,239.0,2155.0
+libgit2,C,D:\clones\libgit2\src\checkout.c,537,151.0,2125.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\pcre\pcre_internal.h,475,510.0,1802.0
+libgit2,C,D:\clones\libgit2\src\refdb_fs.c,501,205.0,1758.0
+libgit2,C,D:\clones\libgit2\src\submodule.c,464,165.0,1751.0
+libgit2,C,D:\clones\libgit2\src\iterator.c,546,199.0,1694.0
+libgit2,C,D:\clones\libgit2\deps\http-parser\http_parser.c,366,196.0,1620.0
+libgit2,C,D:\clones\libgit2\src\hash\sha1\sha1dc\sha1.c,255,59.0,1595.0
+libgit2,Markdown,D:\clones\libgit2\docs\changelog.md,532,0.0,1531.0
+libgit2,C,D:\clones\libgit2\tests\diff\workdir.c,532,212.0,1498.0
+libgit2,C,D:\clones\libgit2\tests\diff\rename.c,390,194.0,1450.0
+libgit2,C,D:\clones\libgit2\deps\zlib\deflate.c,218,503.0,1443.0
+libgit2,C,D:\clones\libgit2\src\odb.c,380,64.0,1387.0
+libgit2,C,D:\clones\libgit2\src\fs_path.c,407,161.0,1344.0
+libgit2,C,D:\clones\libgit2\src\pack-objects.c,348,166.0,1307.0
+libgit2,C,D:\clones\libgit2\src\diff_generate.c,313,151.0,1260.0
+libgit2,C,D:\clones\libgit2\src\transports\winhttp.c,327,108.0,1251.0
+libgit2,C,D:\clones\libgit2\deps\zlib\inflate.c,99,262.0,1200.0
+libgit2,C,D:\clones\libgit2\src\pack.c,286,158.0,1185.0
+libgit2,C,D:\clones\libgit2\src\config.c,364,48.0,1154.0
+libgit2,C,D:\clones\libgit2\tests\iterator\workdir.c,293,78.0,1152.0
+libgit2,C,D:\clones\libgit2\src\rebase.c,316,14.0,1140.0
+libgit2,C,D:\clones\libgit2\deps\pcre\pcre_study.c,240,308.0,1138.0
+libgit2,C,D:\clones\libgit2\deps\ntlmclient\ntlm.c,277,50.0,1124.0
+libgit2,C,D:\clones\libgit2\tests\checkout\tree.c,490,89.0,1106.0
+libgit2,C,D:\clones\libgit2\tests\iterator\index.c,265,62.0,1058.0
+libgit2,C,D:\clones\libgit2\src\transports\httpclient.c,331,192.0,1056.0
+libgit2,C,D:\clones\libgit2\src\refs.c,298,44.0,1053.0
+libgit2,C,D:\clones\libgit2\src\str.c,270,68.0,1034.0
+libgit2,C,D:\clones\libgit2\src\indexer.c,299,100.0,1014.0
+libgit2,C,D:\clones\libgit2\tests\status\worktree.c,290,68.0,998.0
+libgit2,C,D:\clones\libgit2\src\commit_graph.c,183,58.0,983.0
+libgit2,C,D:\clones\libgit2\src\tree.c,269,104.0,958.0
+libgit2,C,D:\clones\libgit2\src\filter.c,237,19.0,935.0
+libgit2,C,D:\clones\libgit2\src\patch_parse.c,269,53.0,909.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\patch\patch_common.h,100,14.0,891.0
+libgit2,C,D:\clones\libgit2\tests\core\gitstr.c,259,77.0,889.0
+libgit2,C,D:\clones\libgit2\src\futils.c,238,69.0,887.0
+libgit2,C,D:\clones\libgit2\tests\checkout\conflict.c,255,8.0,882.0
+libgit2,C,D:\clones\libgit2\tests\iterator\tree.c,186,26.0,868.0
+libgit2,C,D:\clones\libgit2\src\stash.c,217,31.0,862.0
+libgit2,C,D:\clones\libgit2\src\config_file.c,245,88.0,861.0
+libgit2,C,D:\clones\libgit2\src\odb_loose.c,256,87.0,839.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\ntlmclient\utf8.h,196,240.0,821.0
+libgit2,C,D:\clones\libgit2\src\transports\smart_protocol.c,204,76.0,814.0
+libgit2,C,D:\clones\libgit2\src\commit.c,194,36.0,812.0
+libgit2,C,D:\clones\libgit2\tests\merge\workdir\setup.c,276,21.0,799.0
+libgit2,C,D:\clones\libgit2\src\diff_tform.c,220,112.0,789.0
+libgit2,C,D:\clones\libgit2\tests\index\tests.c,290,97.0,786.0
+libgit2,C,D:\clones\libgit2\src\win32\posix_w32.c,198,69.0,780.0
+libgit2,C,D:\clones\libgit2\tests\config\read.c,228,53.0,759.0
+libgit2,C,D:\clones\libgit2\tests\diff\blob.c,220,85.0,758.0
+libgit2,C,D:\clones\libgit2\deps\zlib\trees.c,151,307.0,745.0
+libgit2,C,D:\clones\libgit2\src\midx.c,139,26.0,731.0
+libgit2,C,D:\clones\libgit2\tests\ignore\status.c,241,367.0,729.0
+libgit2,C,D:\clones\libgit2\src\attr_file.c,189,128.0,710.0
+libgit2,C,D:\clones\libgit2\src\patch_generate.c,175,35.0,705.0
+libgit2,C,D:\clones\libgit2\tests\online\clone.c,228,75.0,701.0
+libgit2,C,D:\clones\libgit2\src\date.c,113,97.0,688.0
+libgit2,C,D:\clones\libgit2\src\transports\ssh.c,194,38.0,683.0
+libgit2,C,D:\clones\libgit2\src\describe.c,176,67.0,666.0
+libgit2,C,D:\clones\libgit2\tests\online\push.c,165,88.0,664.0
+libgit2,C,D:\clones\libgit2\src\diff_print.c,156,11.0,658.0
+libgit2,C,D:\clones\libgit2\tests\status\renames.c,171,16.0,657.0
+libgit2,C,D:\clones\libgit2\src\apply.c,159,85.0,654.0
+libgit2,C,D:\clones\libgit2\tests\rebase\merge.c,193,11.0,651.0
+libgit2,C,D:\clones\libgit2\src\notes.c,162,14.0,633.0
+libgit2,C,D:\clones\libgit2\src\branch.c,159,32.0,627.0
+libgit2,C,D:\clones\libgit2\tests\clar.c,146,16.0,626.0
+libgit2,C,D:\clones\libgit2\tests\checkout\index.c,228,36.0,617.0
+libgit2,C,D:\clones\libgit2\src\xdiff\xdiffi.c,157,315.0,616.0
+libgit2,C,D:\clones\libgit2\tests\merge\workdir\simple.c,175,5.0,598.0
+libgit2,C,D:\clones\libgit2\deps\pcre\pcre_printint.c,122,121.0,591.0
+libgit2,C,D:\clones\libgit2\src\util.c,152,84.0,583.0
+libgit2,C,D:\clones\libgit2\deps\pcre\pcre_tables.c,61,89.0,577.0
+libgit2,C,D:\clones\libgit2\tests\core\path.c,149,14.0,576.0
+libgit2,C,D:\clones\libgit2\src\net.c,144,31.0,575.0
+libgit2,C,D:\clones\libgit2\tests\apply\both.c,157,16.0,574.0
+libgit2,C,D:\clones\libgit2\tests\refs\revparse.c,152,169.0,569.0
+libgit2,C,D:\clones\libgit2\src\xdiff\xmerge.c,57,113.0,567.0
+libgit2,C,D:\clones\libgit2\src\odb_pack.c,150,206.0,565.0
+libgit2,C,D:\clones\libgit2\tests\config\write.c,150,51.0,563.0
+libgit2,C,D:\clones\libgit2\src\streams\openssl.c,146,40.0,561.0
+libgit2,C,D:\clones\libgit2\src\transports\http.c,136,66.0,558.0
+libgit2,C,D:\clones\libgit2\src\transports\local.c,155,46.0,553.0
+libgit2,C,D:\clones\libgit2\src\pathspec.c,143,39.0,540.0
+libgit2,C,D:\clones\libgit2\src\attr.c,144,22.0,534.0
+libgit2,C,D:\clones\libgit2\tests\diff\patch.c,158,25.0,520.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\winhttp\winhttp.h,58,26.0,510.0
+libgit2,C,D:\clones\libgit2\src\revwalk.c,182,135.0,503.0
+libgit2,C,D:\clones\libgit2\tests\network\url\parse.c,45,11.0,501.0
+libgit2,C,D:\clones\libgit2\src\worktree.c,139,18.0,495.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\odb\loose_data.h,22,7.0,493.0
+libgit2,C,D:\clones\libgit2\deps\zlib\infback.c,51,97.0,492.0
+libgit2,C,D:\clones\libgit2\src\delta.c,81,55.0,492.0
+libgit2,C,D:\clones\libgit2\src\revparse.c,242,215.0,492.0
+libgit2,C,D:\clones\libgit2\tests\worktree\worktree.c,147,8.0,492.0
+libgit2,C,D:\clones\libgit2\src\clone.c,135,30.0,490.0
+libgit2,C,D:\clones\libgit2\src\blame_git.c,98,100.0,487.0
+libgit2,C,D:\clones\libgit2\tests\repo\init.c,166,87.0,485.0
+libgit2,C,D:\clones\libgit2\tests\diff\format_email.c,50,0.0,473.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\apply\apply_helpers.h,25,1.0,471.0
+libgit2,C,D:\clones\libgit2\src\status.c,105,13.0,466.0
+libgit2,C,D:\clones\libgit2\tests\merge\trees\treediff.c,87,3.0,465.0
+libgit2,C,D:\clones\libgit2\tests\core\link.c,163,13.0,454.0
+libgit2,C,D:\clones\libgit2\src\transports\smart_pkt.c,137,51.0,449.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\pcre\pcre.h,80,113.0,448.0
+libgit2,C,D:\clones\libgit2\tests\notes\notes.c,162,48.0,448.0
+libgit2,C,D:\clones\libgit2\tests\rebase\setup.c,132,16.0,448.0
+libgit2,C,D:\clones\libgit2\tests\commit\parse.c,70,34.0,447.0
+libgit2,C,D:\clones\libgit2\tests\clar_libgit2.c,134,45.0,444.0
+libgit2,C,D:\clones\libgit2\tests\diff\binary.c,102,0.0,443.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\zlib\crc32.h,1,3.0,437.0
+libgit2,C,D:\clones\libgit2\src\filebuf.c,137,24.0,434.0
+libgit2,C,D:\clones\libgit2\src\ignore.c,123,96.0,433.0
+libgit2,C,D:\clones\libgit2\src\win32\path_w32.c,132,79.0,431.0
+libgit2,C,D:\clones\libgit2\tests\status\submodules.c,111,21.0,431.0
+libgit2,C,D:\clones\libgit2\src\object.c,125,47.0,429.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\zlib\zconf.h,46,61.0,427.0
+libgit2,C,D:\clones\libgit2\src\tag.c,125,20.0,425.0
+libgit2,C,D:\clones\libgit2\src\blame.c,105,32.0,420.0
+libgit2,C,D:\clones\libgit2\tests\revert\workdir.c,118,41.0,417.0
+libgit2,C,D:\clones\libgit2\tests\diff\submodules.c,116,14.0,413.0
+libgit2,C,D:\clones\libgit2\tests\object\raw\write.c,50,2.0,410.0
+libgit2,C,D:\clones\libgit2\src\push.c,122,29.0,407.0
+libgit2,C,D:\clones\libgit2\tests\rebase\sign.c,79,7.0,405.0
+libgit2,C,D:\clones\libgit2\tests\fetchhead\nonetwork.c,131,11.0,400.0
+libgit2,C,D:\clones\libgit2\src\config_parse.c,126,67.0,387.0
+libgit2,C,D:\clones\libgit2\src\blob.c,112,30.0,386.0
+libgit2,C,D:\clones\libgit2\src\diff_driver.c,104,33.0,385.0
+libgit2,C,D:\clones\libgit2\tests\apply\fromfile.c,68,1.0,380.0
+libgit2,C,D:\clones\libgit2\tests\diff\tree.c,125,70.0,380.0
+libgit2,C,D:\clones\libgit2\tests\revwalk\basic.c,157,90.0,380.0
+libgit2,C,D:\clones\libgit2\src\transports\credential.c,95,12.0,379.0
+libgit2,C,D:\clones\libgit2\tests\object\tree\write.c,119,30.0,377.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\clar\fs.h,109,39.0,372.0
+libgit2,C,D:\clones\libgit2\deps\pcre\pcre_get.c,100,199.0,370.0
+libgit2,C,D:\clones\libgit2\tests\submodule\lookup.c,121,26.0,369.0
+libgit2,C,D:\clones\libgit2\tests\diff\parse.c,80,3.0,367.0
+libgit2,C,D:\clones\libgit2\src\diff_file.c,94,21.0,366.0
+libgit2,C,D:\clones\libgit2\tests\index\addall.c,109,21.0,366.0
+libgit2,C,D:\clones\libgit2\src\mwindow.c,100,76.0,365.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\diff.h,148,930.0,361.0
+libgit2,C,D:\clones\libgit2\tests\checkout\crlf.c,127,8.0,361.0
+libgit2,C,D:\clones\libgit2\src\mailmap.c,88,52.0,360.0
+libgit2,C,D:\clones\libgit2\tests\merge\files.c,106,2.0,357.0
+libgit2,C,D:\clones\libgit2\src\streams\mbedtls.c,105,25.0,352.0
+libgit2,C,D:\clones\libgit2\src\win32\w32_leakcheck.c,104,127.0,350.0
+libgit2,C,D:\clones\libgit2\tests\network\remote\local.c,106,27.0,350.0
+libgit2,C,D:\clones\libgit2\examples\log.c,79,59.0,345.0
+libgit2,C,D:\clones\libgit2\tests\stash\apply.c,101,4.0,344.0
+libgit2,C,D:\clones\libgit2\src\libgit2.c,68,7.0,342.0
+libgit2,C,D:\clones\libgit2\src\hash\sha1\sha1dc\ubc_check.c,7,24.0,341.0
+libgit2,C,D:\clones\libgit2\examples\status.c,81,77.0,340.0
+libgit2,C,D:\clones\libgit2\tests\repo\open.c,100,16.0,339.0
+libgit2,C,D:\clones\libgit2\src\attrcache.c,98,42.0,338.0
+libgit2,Markdown,D:\clones\libgit2\README.md,98,0.0,337.0
+libgit2,C,D:\clones\libgit2\tests\cherrypick\workdir.c,99,33.0,337.0
+libgit2,C,D:\clones\libgit2\tests\ignore\path.c,106,143.0,336.0
+libgit2,C,D:\clones\libgit2\src\transports\smart.c,112,27.0,333.0
+libgit2,C,D:\clones\libgit2\tests\index\conflicts.c,123,6.0,333.0
+libgit2,C,D:\clones\libgit2\tests\refs\reflog\reflog.c,112,24.0,333.0
+libgit2,YAML,D:\clones\libgit2\.github\workflows\nightly.yml,5,4.0,331.0
+libgit2,C,D:\clones\libgit2\src\xdiff\xprepare.c,92,59.0,327.0
+libgit2,C,D:\clones\libgit2\tests\commit\write.c,77,21.0,326.0
+libgit2,C,D:\clones\libgit2\tests\core\vector.c,97,8.0,325.0
+libgit2,C,D:\clones\libgit2\src\merge_driver.c,92,16.0,324.0
+libgit2,C,D:\clones\libgit2\tests\diff\diffiter.c,101,28.0,324.0
+libgit2,C,D:\clones\libgit2\tests\network\remote\remotes.c,142,109.0,324.0
+libgit2,C,D:\clones\libgit2\tests\merge\trees\recursive.c,101,35.0,322.0
+libgit2,C,D:\clones\libgit2\tests\refs\reflog\messages.c,95,5.0,321.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\deprecated.h,123,488.0,320.0
+libgit2,C,D:\clones\libgit2\src\oid.c,95,50.0,318.0
+libgit2,C,D:\clones\libgit2\tests\email\create.c,46,0.0,318.0
+libgit2,C,D:\clones\libgit2\src\crlf.c,74,35.0,317.0
+libgit2,C,D:\clones\libgit2\src\refdb.c,96,13.0,315.0
+libgit2,C,D:\clones\libgit2\src\vector.c,105,15.0,311.0
+libgit2,C,D:\clones\libgit2\deps\ntlmclient\unicode_builtin.c,53,71.0,310.0
+libgit2,C,D:\clones\libgit2\examples\general.c,100,360.0,309.0
+libgit2,C,D:\clones\libgit2\src\xdiff\xutils.c,71,54.0,309.0
+libgit2,C,D:\clones\libgit2\tests\path\core.c,74,22.0,309.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\zlib\zlib.h,289,1316.0,307.0
+libgit2,C,D:\clones\libgit2\tests\apply\fromdiff.c,65,9.0,304.0
+libgit2,C,D:\clones\libgit2\tests\diff\stats.c,74,0.0,304.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\thread.h,67,109.0,303.0
+libgit2,C,D:\clones\libgit2\tests\index\crlf.c,98,1.0,303.0
+libgit2,C,D:\clones\libgit2\src\diff.c,80,8.0,301.0
+libgit2,C,D:\clones\libgit2\src\trailer.c,61,68.0,301.0
+libgit2,C,D:\clones\libgit2\src\diff_stats.c,72,9.0,295.0
+libgit2,C,D:\clones\libgit2\tests\merge\driver.c,91,10.0,295.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\fs_path.h,112,346.0,294.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\object\raw\data.h,17,12.0,294.0
+libgit2,C,D:\clones\libgit2\tests\remote\create.c,94,0.0,294.0
+libgit2,C,D:\clones\libgit2\tests\repo\pathspec.c,73,18.0,294.0
+libgit2,C,D:\clones\libgit2\src\tsort.c,57,32.0,293.0
+libgit2,C,D:\clones\libgit2\src\transaction.c,94,10.0,291.0
+libgit2,C,D:\clones\libgit2\tests\stash\save.c,116,83.0,291.0
+libgit2,C,D:\clones\libgit2\src\refspec.c,77,53.0,290.0
+libgit2,C,D:\clones\libgit2\tests\submodule\update.c,100,53.0,287.0
+libgit2,C,D:\clones\libgit2\tests\index\reuc.c,88,3.0,285.0
+libgit2,C,D:\clones\libgit2\examples\diff.c,40,46.0,283.0
+libgit2,Markdown,D:\clones\libgit2\docs\coding-style.md,82,0.0,282.0
+libgit2,C,D:\clones\libgit2\tests\network\url\scp.c,31,8.0,282.0
+libgit2,C,D:\clones\libgit2\deps\zlib\crc32.c,60,94.0,281.0
+libgit2,C,D:\clones\libgit2\tests\clone\nonetwork.c,75,5.0,281.0
+libgit2,C,D:\clones\libgit2\tests\refs\normalize.c,46,74.0,281.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\khash.h,85,250.0,280.0
+libgit2,YAML,D:\clones\libgit2\.github\workflows\main.yml,6,18.0,279.0
+libgit2,C,D:\clones\libgit2\tests\core\sortedcache.c,75,9.0,279.0
+libgit2,C,D:\clones\libgit2\tests\merge\trees\renames.c,47,26.0,279.0
+libgit2,C,D:\clones\libgit2\tests\transports\smart\packet.c,55,7.0,278.0
+libgit2,C,D:\clones\libgit2\tests\apply\workdir.c,74,7.0,277.0
+libgit2,C,D:\clones\libgit2\src\hashsig.c,78,21.0,276.0
+libgit2,C,D:\clones\libgit2\src\path.c,62,37.0,275.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\status\status_data.h,35,17.0,274.0
+libgit2,C,D:\clones\libgit2\tests\merge\merge_helpers.c,84,9.0,272.0
+libgit2,Bourne Shell,D:\clones\libgit2\ci\test.sh,65,14.0,270.0
+libgit2,C,D:\clones\libgit2\src\sysdir.c,71,25.0,267.0
+libgit2,C,D:\clones\libgit2\src\sortedcache.c,79,35.0,266.0
+libgit2,C,D:\clones\libgit2\tests\win32\systemdir.c,72,0.0,266.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\util.h,80,44.0,263.0
+libgit2,C,D:\clones\libgit2\tests\submodule\status.c,77,14.0,263.0
+libgit2,C,D:\clones\libgit2\src\transports\git.c,88,11.0,262.0
+libgit2,C,D:\clones\libgit2\src\xdiff\xhistogram.c,59,60.0,262.0
+libgit2,C,D:\clones\libgit2\tests\merge\workdir\dirty.c,73,17.0,261.0
+libgit2,C,D:\clones\libgit2\src\fetchhead.c,71,8.0,259.0
+libgit2,C,D:\clones\libgit2\examples\merge.c,64,40.0,257.0
+libgit2,C,D:\clones\libgit2\deps\zlib\inffast.c,16,51.0,256.0
+libgit2,C,D:\clones\libgit2\tests\index\bypath.c,103,1.0,255.0
+libgit2,C,D:\clones\libgit2\tests\checkout\nasty.c,59,73.0,254.0
+libgit2,C,D:\clones\libgit2\tests\attr\repo.c,90,62.0,253.0
+libgit2,C,D:\clones\libgit2\src\merge_file.c,66,9.0,252.0
+libgit2,C,D:\clones\libgit2\tests\revwalk\mergebase.c,83,180.0,251.0
+libgit2,C,D:\clones\libgit2\deps\pcre\pcreposix.c,66,104.0,250.0
+libgit2,C,D:\clones\libgit2\tests\core\integer.c,3,0.0,250.0
+libgit2,C,D:\clones\libgit2\src\wildmatch.c,16,55.0,249.0
+libgit2,C,D:\clones\libgit2\src\streams\openssl_dynamic.c,55,8.0,246.0
+libgit2,C,D:\clones\libgit2\tests\online\fetch.c,74,3.0,246.0
+libgit2,C,D:\clones\libgit2\deps\zlib\zutil.c,49,31.0,245.0
+libgit2,C,D:\clones\libgit2\tests\apply\index.c,68,8.0,245.0
+libgit2,C,D:\clones\libgit2\tests\checkout\typechange.c,63,28.0,244.0
+libgit2,C,D:\clones\libgit2\tests\diff\diff_helpers.c,63,11.0,242.0
+libgit2,C,D:\clones\libgit2\src\signature.c,78,21.0,240.0
+libgit2,C,D:\clones\libgit2\src\transports\auth_negotiate.c,66,8.0,240.0
+libgit2,C,D:\clones\libgit2\src\email.c,67,10.0,238.0
+libgit2,C,D:\clones\libgit2\tests\refs\create.c,93,34.0,235.0
+libgit2,C,D:\clones\libgit2\src\xdiff\xpatience.c,39,110.0,233.0
+libgit2,C,D:\clones\libgit2\src\streams\stransport.c,67,27.0,232.0
+libgit2,C,D:\clones\libgit2\src\posix.c,61,11.0,231.0
+libgit2,C,D:\clones\libgit2\tests\status\worktree_init.c,95,12.0,231.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\remote.h,110,815.0,230.0
+libgit2,CMake,D:\clones\libgit2\src\CMakeLists.txt,55,23.0,229.0
+libgit2,C,D:\clones\libgit2\tests\path\win32.c,49,4.0,229.0
+libgit2,C,D:\clones\libgit2\src\hash\sha1\win32.c,79,26.0,228.0
+libgit2,C,D:\clones\libgit2\tests\odb\loose.c,59,4.0,228.0
+libgit2,C,D:\clones\libgit2\tests\pack\indexer.c,59,33.0,228.0
+libgit2,C,D:\clones\libgit2\tests\refs\iterator.c,47,0.0,227.0
+libgit2,Markdown,D:\clones\libgit2\docs\error-handling.md,58,0.0,226.0
+libgit2,C,D:\clones\libgit2\tests\core\env.c,68,26.0,226.0
+libgit2,C,D:\clones\libgit2\tests\refs\read.c,65,9.0,225.0
+libgit2,C,D:\clones\libgit2\tests\repo\template.c,77,6.0,222.0
+libgit2,C,D:\clones\libgit2\tests\reset\hard.c,62,9.0,222.0
+libgit2,C,D:\clones\libgit2\tests\object\tree\update.c,68,13.0,221.0
+libgit2,Python,D:\clones\libgit2\tests\generate.py,82,14.0,220.0
+libgit2,C,D:\clones\libgit2\tests\object\cache.c,54,4.0,218.0
+libgit2,C,D:\clones\libgit2\tests\repo\env.c,45,14.0,218.0
+libgit2,C,D:\clones\libgit2\tests\core\dirent.c,79,11.0,216.0
+libgit2,C,D:\clones\libgit2\tests\diff\index.c,70,16.0,216.0
+libgit2,C,D:\clones\libgit2\deps\pcre\pcre_byte_order.c,39,65.0,215.0
+libgit2,C,D:\clones\libgit2\src\xdiff\xemit.c,51,64.0,215.0
+libgit2,C,D:\clones\libgit2\tests\diff\notify.c,46,0.0,212.0
+libgit2,C,D:\clones\libgit2\tests\refs\rename.c,92,64.0,212.0
+libgit2,C,D:\clones\libgit2\tests\checkout\icase.c,81,0.0,211.0
+libgit2,C,D:\clones\libgit2\tests\merge\trees\trivial.c,81,14.0,211.0
+libgit2,C,D:\clones\libgit2\tests\index\racy.c,84,31.0,208.0
+libgit2,C,D:\clones\libgit2\tests\object\commit\parse.c,20,4.0,208.0
+libgit2,C,D:\clones\libgit2\tests\index\filemodes.c,79,33.0,207.0
+libgit2,C,D:\clones\libgit2\examples\tag.c,62,42.0,206.0
+libgit2,C,D:\clones\libgit2\src\win32\findfile.c,60,20.0,206.0
+libgit2,C,D:\clones\libgit2\tests\pack\packbuilder.c,51,19.0,206.0
+libgit2,C,D:\clones\libgit2\src\hash\sha1\generic.c,42,53.0,205.0
+libgit2,C,D:\clones\libgit2\tests\core\wildmatch.c,12,31.0,205.0
+libgit2,C,D:\clones\libgit2\tests\odb\mixed.c,62,21.0,203.0
+libgit2,C,D:\clones\libgit2\tests\refs\branches\create.c,47,30.0,202.0
+libgit2,C,D:\clones\libgit2\tests\attr\lookup.c,37,25.0,201.0
+libgit2,C,D:\clones\libgit2\deps\ntlmclient\crypt_openssl.c,49,8.0,200.0
+libgit2,Markdown,D:\clones\libgit2\docs\checkout-internals.md,32,0.0,199.0
+libgit2,C,D:\clones\libgit2\src\pool.c,54,7.0,199.0
+libgit2,C,D:\clones\libgit2\tests\checkout\head.c,76,18.0,198.0
+libgit2,C,D:\clones\libgit2\src\reader.c,57,15.0,197.0
+libgit2,C,D:\clones\libgit2\tests\core\mkdir.c,69,25.0,197.0
+libgit2,C,D:\clones\libgit2\tests\diff\drivers.c,73,9.0,197.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\zlib\zutil.h,45,30.0,196.0
+libgit2,C,D:\clones\libgit2\tests\config\multivar.c,85,7.0,196.0
+libgit2,C,D:\clones\libgit2\tests\config\include.c,62,2.0,195.0
+libgit2,C,D:\clones\libgit2\tests\graph\reachable_from_any.c,34,7.0,195.0
+libgit2,C,D:\clones\libgit2\tests\mailmap\parsing.c,51,23.0,195.0
+libgit2,C,D:\clones\libgit2\tests\odb\backend\simple.c,55,0.0,195.0
+libgit2,C,D:\clones\libgit2\examples\common.c,53,13.0,194.0
+libgit2,C,D:\clones\libgit2\src\diff_xdiff.c,45,21.0,194.0
+libgit2,C,D:\clones\libgit2\tests\attr\file.c,43,6.0,194.0
+libgit2,C,D:\clones\libgit2\src\cache.c,48,13.0,192.0
+libgit2,C,D:\clones\libgit2\tests\object\tag\parse.c,21,5.0,192.0
+libgit2,Markdown,D:\clones\libgit2\docs\conventions.md,76,0.0,190.0
+libgit2,C,D:\clones\libgit2\tests\filter\custom.c,55,23.0,190.0
+libgit2,C,D:\clones\libgit2\src\graph.c,49,11.0,189.0
+libgit2,C,D:\clones\libgit2\tests\apply\partial.c,42,0.0,189.0
+libgit2,C,D:\clones\libgit2\src\win32\thread.c,57,17.0,188.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\http-parser\http_parser.h,46,72.0,187.0
+libgit2,C,D:\clones\libgit2\src\tree-cache.c,73,17.0,187.0
+libgit2,C,D:\clones\libgit2\tests\object\tag\write.c,62,11.0,187.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\pcre\ucp.h,14,24.0,186.0
+libgit2,C,D:\clones\libgit2\src\cherrypick.c,50,6.0,186.0
+libgit2,C,D:\clones\libgit2\src\revert.c,51,6.0,186.0
+libgit2,C,D:\clones\libgit2\tests\patch\parse.c,37,0.0,184.0
+libgit2,C,D:\clones\libgit2\examples\remote.c,51,22.0,183.0
+libgit2,C,D:\clones\libgit2\src\streams\socket.c,46,10.0,183.0
+libgit2,C,D:\clones\libgit2\tests\core\filebuf.c,77,8.0,182.0
+libgit2,C,D:\clones\libgit2\src\annotated_commit.c,53,6.0,181.0
+libgit2,C,D:\clones\libgit2\tests\index\read_index.c,45,6.0,181.0
+libgit2,C,D:\clones\libgit2\tests\blame\simple.c,39,143.0,180.0
+libgit2,C,D:\clones\libgit2\tests\merge\workdir\trivial.c,68,14.0,180.0
+libgit2,C,D:\clones\libgit2\examples\checkout.c,41,70.0,179.0
+libgit2,C,D:\clones\libgit2\src\config_entries.c,47,12.0,178.0
+libgit2,C,D:\clones\libgit2\tests\rebase\abort.c,69,3.0,178.0
+libgit2,C,D:\clones\libgit2\tests\network\fetchlocal.c,125,250.0,177.0
+libgit2,C,D:\clones\libgit2\src\errors.c,51,11.0,176.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\iterator.h,46,100.0,176.0
+libgit2,C,D:\clones\libgit2\tests\index\cache.c,55,7.0,176.0
+libgit2,C,D:\clones\libgit2\tests\submodule\submodule_helpers.c,62,7.0,176.0
+libgit2,C,D:\clones\libgit2\tests\submodule\modify.c,45,13.0,175.0
+libgit2,C,D:\clones\libgit2\deps\zlib\inftrees.c,32,98.0,174.0
+libgit2,C,D:\clones\libgit2\examples\cat-file.c,41,24.0,174.0
+libgit2,C,D:\clones\libgit2\src\patch.c,47,9.0,174.0
+libgit2,C,D:\clones\libgit2\tests\threads\diff.c,39,5.0,174.0
+libgit2,C,D:\clones\libgit2\tests\threads\refdb.c,44,3.0,173.0
+libgit2,C,D:\clones\libgit2\tests\core\posix.c,49,18.0,171.0
+libgit2,C,D:\clones\libgit2\tests\core\regexp.c,42,0.0,171.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\attr_file.h,46,25.0,170.0
+libgit2,C,D:\clones\libgit2\src\config_mem.c,39,11.0,170.0
+libgit2,C,D:\clones\libgit2\src\regexp.c,44,7.0,170.0
+libgit2,C,D:\clones\libgit2\tests\clar_libgit2_trace.c,40,53.0,170.0
+libgit2,C,D:\clones\libgit2\tests\submodule\add.c,68,13.0,170.0
+libgit2,C,D:\clones\libgit2\fuzzers\download_refs_fuzzer.c,48,8.0,169.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\merge.h,77,381.0,168.0
+libgit2,C,D:\clones\libgit2\tests\path\dotgit.c,34,4.0,168.0
+libgit2,C,D:\clones\libgit2\tests\blame\buffer.c,21,4.0,167.0
+libgit2,C,D:\clones\libgit2\tests\filter\crlf.c,70,16.0,167.0
+libgit2,C,D:\clones\libgit2\src\transports\auth_ntlm.c,50,11.0,166.0
+libgit2,C,D:\clones\libgit2\tests\object\message.c,29,2.0,166.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\repository.h,75,718.0,161.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\streams\openssl_dynamic.h,39,148.0,161.0
+libgit2,C,D:\clones\libgit2\tests\core\errors.c,61,1.0,160.0
+libgit2,C,D:\clones\libgit2\tests\repo\discover.c,44,6.0,160.0
+libgit2,Python,D:\clones\libgit2\script\release.py,30,2.0,159.0
+libgit2,C,D:\clones\libgit2\src\reflog.c,59,14.0,159.0
+libgit2,C,D:\clones\libgit2\tests\filter\stream.c,49,7.0,159.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\zlib\deflate.h,64,127.0,158.0
+libgit2,C,D:\clones\libgit2\examples\args.c,39,0.0,158.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\zlib\gzguts.h,25,36.0,157.0
+libgit2,C,D:\clones\libgit2\src\reset.c,38,9.0,157.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\clar\print.h,40,3.0,157.0
+libgit2,C,D:\clones\libgit2\src\commit_list.c,44,8.0,156.0
+libgit2,C,D:\clones\libgit2\src\config_snapshot.c,43,9.0,155.0
+libgit2,C,D:\clones\libgit2\tests\merge\trees\automerge.c,38,3.0,154.0
+libgit2,C,D:\clones\libgit2\tests\network\url\joinpath.c,40,0.0,154.0
+libgit2,C,D:\clones\libgit2\src\transport.c,48,21.0,153.0
+libgit2,C,D:\clones\libgit2\src\zstream.c,44,13.0,153.0
+libgit2,C,D:\clones\libgit2\tests\refs\branches\upstream.c,58,7.0,153.0
+libgit2,C,D:\clones\libgit2\tests\repo\config.c,51,7.0,153.0
+libgit2,C,D:\clones\libgit2\tests\worktree\refs.c,45,0.0,153.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\transports\smart.h,28,13.0,152.0
+libgit2,C,D:\clones\libgit2\deps\pcre\pcre_valid_utf8.c,46,104.0,151.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\index.h,78,610.0,151.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\stdint.h,41,55.0,151.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\clar_libgit2.h,40,45.0,151.0
+libgit2,C,D:\clones\libgit2\tests\rebase\inmemory.c,54,5.0,151.0
+libgit2,C,D:\clones\libgit2\tests\refs\branches\move.c,57,4.0,151.0
+libgit2,C,D:\clones\libgit2\tests\revwalk\hidecb.c,55,24.0,151.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\integer.h,25,43.0,150.0
+libgit2,C,D:\clones\libgit2\tests\clone\local.c,51,11.0,150.0
+libgit2,C,D:\clones\libgit2\deps\pcre\pcre_xclass.c,49,70.0,149.0
+libgit2,C,D:\clones\libgit2\tests\commit\commit.c,39,1.0,149.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\odb\pack_data.h,2,0.0,149.0
+libgit2,C,D:\clones\libgit2\tests\patch\print.c,34,3.0,149.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\repository.h,41,69.0,148.0
+libgit2,C,D:\clones\libgit2\tests\core\strmap.c,42,1.0,147.0
+libgit2,C,D:\clones\libgit2\tests\filter\wildcard.c,41,0.0,147.0
+libgit2,C,D:\clones\libgit2\src\streams\openssl_legacy.c,41,17.0,145.0
+libgit2,C,D:\clones\libgit2\src\rand.c,56,26.0,144.0
+libgit2,C,D:\clones\libgit2\tests\config\stress.c,49,13.0,144.0
+libgit2,CMake,D:\clones\libgit2\cmake\FindGSSAPI.cmake,38,29.0,141.0
+libgit2,C,D:\clones\libgit2\deps\pcre\pcre_chartables.c,24,33.0,141.0
+libgit2,Markdown,D:\clones\libgit2\docs\contributing.md,43,0.0,141.0
+libgit2,C,D:\clones\libgit2\src\odb_mempack.c,42,6.0,141.0
+libgit2,C,D:\clones\libgit2\tests\index\names.c,42,4.0,141.0
+libgit2,C,D:\clones\libgit2\tests\odb\largefiles.c,48,0.0,141.0
+libgit2,C,D:\clones\libgit2\tests\refs\branches\delete.c,41,6.0,141.0
+libgit2,C,D:\clones\libgit2\examples\blame.c,24,34.0,140.0
+libgit2,C,D:\clones\libgit2\tests\config\conditionals.c,35,0.0,140.0
+libgit2,C,D:\clones\libgit2\tests\message\trailer.c,24,0.0,140.0
+libgit2,C,D:\clones\libgit2\tests\merge\analysis.c,41,4.0,139.0
+libgit2,C,D:\clones\libgit2\src\fetch.c,44,29.0,138.0
+libgit2,C,D:\clones\libgit2\tests\win32\forbidden.c,41,4.0,137.0
+libgit2,C,D:\clones\libgit2\deps\zlib\adler32.c,20,23.0,136.0
+libgit2,C,D:\clones\libgit2\examples\init.c,44,68.0,136.0
+libgit2,C,D:\clones\libgit2\tests\remote\httpproxy.c,38,14.0,136.0
+libgit2,C,D:\clones\libgit2\deps\pcre\pcre_fullinfo.c,55,55.0,135.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\types.h,72,165.0,134.0
+libgit2,C,D:\clones\libgit2\tests\network\url\redirect.c,14,0.0,133.0
+libgit2,C,D:\clones\libgit2\tests\odb\freshen.c,44,6.0,133.0
+libgit2,C,D:\clones\libgit2\tests\object\tree\walk.c,44,1.0,132.0
+libgit2,C,D:\clones\libgit2\tests\reset\soft.c,51,6.0,132.0
+libgit2,C,D:\clones\libgit2\tests\config\global.c,40,2.0,130.0
+libgit2,C,D:\clones\libgit2\tests\object\tree\parse.c,29,5.0,130.0
+libgit2,C,D:\clones\libgit2\tests\online\fetchhead.c,39,0.0,130.0
+libgit2,C,D:\clones\libgit2\tests\remote\insteadof.c,24,0.0,130.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\common.h,40,45.0,129.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\str.h,47,181.0,129.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\posix.h,33,35.0,128.0
+libgit2,C,D:\clones\libgit2\tests\object\tag\read.c,45,6.0,128.0
+libgit2,C,D:\clones\libgit2\tests\odb\backend\refreshing.c,48,0.0,128.0
+libgit2,C,D:\clones\libgit2\deps\ntlmclient\unicode_iconv.c,33,17.0,127.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\submodule.h,49,492.0,127.0
+libgit2,C,D:\clones\libgit2\tests\merge\workdir\renames.c,21,7.0,127.0
+libgit2,C,D:\clones\libgit2\tests\reset\default.c,51,34.0,127.0
+libgit2,C,D:\clones\libgit2\tests\stash\drop.c,47,0.0,127.0
+libgit2,C,D:\clones\libgit2\tests\attr\macro.c,41,30.0,126.0
+libgit2,C,D:\clones\libgit2\tests\filter\bare.c,55,7.0,126.0
+libgit2,C,D:\clones\libgit2\tests\filter\custom_helpers.c,35,2.0,126.0
+libgit2,C,D:\clones\libgit2\tests\checkout\checkout_helpers.c,26,0.0,125.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\transport.h,48,259.0,124.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\userdiff.h,25,61.0,124.0
+libgit2,C,D:\clones\libgit2\tests\core\structinit.c,31,47.0,123.0
+libgit2,C,D:\clones\libgit2\tests\object\raw\hash.c,42,4.0,123.0
+libgit2,C,D:\clones\libgit2\tests\repo\head.c,58,1.0,123.0
+libgit2,C,D:\clones\libgit2\tests\odb\backend\backend_helpers.c,50,0.0,122.0
+libgit2,C,D:\clones\libgit2\tests\trace\windows\stacktrace.c,24,6.0,122.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\pack.h,34,44.0,121.0
+libgit2,C,D:\clones\libgit2\tests\core\zstream.c,39,7.0,121.0
+libgit2,C,D:\clones\libgit2\tests\refs\races.c,42,7.0,121.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\zlib\trees.h,7,1.0,120.0
+libgit2,C,D:\clones\libgit2\src\idxmap.c,30,7.0,120.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\clar\sandbox.h,33,2.0,119.0
+libgit2,C,D:\clones\libgit2\tests\merge\trees\commits.c,29,0.0,119.0
+libgit2,C,D:\clones\libgit2\tests\core\string.c,13,5.0,118.0
+libgit2,C,D:\clones\libgit2\tests\describe\t6120.c,35,3.0,118.0
+libgit2,C,D:\clones\libgit2\tests\object\blob\filter.c,29,2.0,118.0
+libgit2,C,D:\clones\libgit2\tests\object\commit\commitstagedfile.c,40,60.0,118.0
+libgit2,C,D:\clones\libgit2\tests\remote\fetch.c,30,22.0,117.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\futils.h,42,244.0,116.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\index.h,41,37.0,116.0
+libgit2,C,D:\clones\libgit2\tests\config\memory.c,23,0.0,116.0
+libgit2,C,D:\clones\libgit2\tests\core\copy.c,35,3.0,115.0
+libgit2,C,D:\clones\libgit2\tests\refs\transactions.c,38,4.0,115.0
+libgit2,C,D:\clones\libgit2\tests\commit\signature.c,29,5.0,114.0
+libgit2,C,D:\clones\libgit2\tests\refs\branches\iterator.c,32,5.0,114.0
+libgit2,C,D:\clones\libgit2\tests\index\collision.c,26,10.0,113.0
+libgit2,C,D:\clones\libgit2\tests\repo\hashfile.c,37,21.0,113.0
+libgit2,C,D:\clones\libgit2\tests\repo\state.c,18,0.0,113.0
+libgit2,C,D:\clones\libgit2\examples\stash.c,32,13.0,112.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\config.h,59,611.0,112.0
+libgit2,C,D:\clones\libgit2\tests\stress\diff.c,34,0.0,112.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\ntlmclient\ntlm.h,42,25.0,111.0
+libgit2,C,D:\clones\libgit2\deps\pcre\pcre_config.c,35,44.0,111.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\common.h,23,341.0,111.0
+libgit2,C,D:\clones\libgit2\deps\ntlmclient\crypt_mbedtls.c,29,7.0,110.0
+libgit2,C,D:\clones\libgit2\tests\rebase\iterator.c,29,1.0,110.0
+libgit2,C,D:\clones\libgit2\tests\refs\peel.c,21,0.0,110.0
+libgit2,C,D:\clones\libgit2\src\hash.c,27,6.0,109.0
+libgit2,C,D:\clones\libgit2\tests\filter\ident.c,24,0.0,109.0
+libgit2,C,D:\clones\libgit2\examples\rev-list.c,29,15.0,108.0
+libgit2,C,D:\clones\libgit2\src\win32\map.c,28,6.0,107.0
+libgit2,C,D:\clones\libgit2\tests\core\strtol.c,21,0.0,107.0
+libgit2,C,D:\clones\libgit2\tests\iterator\iterator_helpers.c,35,1.0,107.0
+libgit2,CMake,D:\clones\libgit2\cmake\SelectHTTPSBackend.cmake,10,8.0,106.0
+libgit2,C,D:\clones\libgit2\tests\core\pqueue.c,38,6.0,106.0
+libgit2,C,D:\clones\libgit2\tests\online\push_util.c,32,3.0,106.0
+libgit2,C,D:\clones\libgit2\deps\pcre\pcre_string_utils.c,42,64.0,105.0
+libgit2,C,D:\clones\libgit2\src\allocators\stdalloc.c,39,6.0,105.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\merge.h,48,51.0,105.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\merge\conflict_data.h,7,0.0,105.0
+libgit2,C,D:\clones\libgit2\tests\odb\backend\nonrefreshing.c,42,0.0,105.0
+libgit2,Bourne Shell,D:\clones\libgit2\tests\resources\generate_crlf.sh,30,12.0,105.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\commit.h,36,406.0,104.0
+libgit2,C,D:\clones\libgit2\src\parse.c,24,6.0,104.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\clar\summary.h,30,0.0,104.0
+libgit2,C,D:\clones\libgit2\src\object_api.c,27,18.0,103.0
+libgit2,C,D:\clones\libgit2\tests\filter\blob.c,38,4.0,103.0
+libgit2,C,D:\clones\libgit2\examples\describe.c,24,36.0,102.0
+libgit2,C,D:\clones\libgit2\src\runtime.c,40,20.0,102.0
+libgit2,C,D:\clones\libgit2\tests\graph\commitgraph.c,23,1.0,102.0
+libgit2,C,D:\clones\libgit2\tests\object\raw\compare.c,17,4.0,102.0
+libgit2,C,D:\clones\libgit2\tests\threads\atomic.c,19,4.0,102.0
+libgit2,CMake,D:\clones\libgit2\deps\pcre\CMakeLists.txt,29,10.0,101.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\checkout.h,58,258.0,101.0
+libgit2,C,D:\clones\libgit2\tests\merge\workdir\submodules.c,28,1.0,101.0
+libgit2,C,D:\clones\libgit2\tests\refs\reflog\reflog_helpers.c,19,0.0,101.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\status.h,46,303.0,100.0
+libgit2,C,D:\clones\libgit2\src\ident.c,31,8.0,100.0
+libgit2,C,D:\clones\libgit2\tests\apply\apply_helpers.c,35,0.0,100.0
+libgit2,C,D:\clones\libgit2\tests\object\tree\duplicateentries.c,37,20.0,100.0
+libgit2,C,D:\clones\libgit2\deps\pcre\pcre_newline.c,42,69.0,99.0
+libgit2,C,D:\clones\libgit2\tests\core\oidmap.c,27,1.0,99.0
+libgit2,C,D:\clones\libgit2\tests\pack\filelimit.c,23,14.0,99.0
+libgit2,C,D:\clones\libgit2\examples\add.c,23,37.0,97.0
+libgit2,C,D:\clones\libgit2\src\thread.c,37,6.0,97.0
+libgit2,C,D:\clones\libgit2\tests\apply\callbacks.c,31,0.0,97.0
+libgit2,C,D:\clones\libgit2\tests\online\remotes.c,30,0.0,97.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\refs.h,50,625.0,96.0
+libgit2,C,D:\clones\libgit2\tests\config\snapshot.c,37,6.0,96.0
+libgit2,C,D:\clones\libgit2\tests\object\peel.c,20,2.0,96.0
+libgit2,C,D:\clones\libgit2\tests\odb\foreach.c,34,10.0,96.0
+libgit2,C,D:\clones\libgit2\src\utf8.c,25,30.0,95.0
+libgit2,C,D:\clones\libgit2\tests\worktree\merge.c,26,0.0,95.0
+libgit2,C,D:\clones\libgit2\tests\worktree\open.c,31,0.0,95.0
+libgit2,C,D:\clones\libgit2\examples\lg2.c,22,8.0,94.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\clar.h,30,49.0,94.0
+libgit2,C,D:\clones\libgit2\deps\ntlmclient\crypt_commoncrypto.c,20,7.0,93.0
+libgit2,C,D:\clones\libgit2\src\config_cache.c,22,27.0,93.0
+libgit2,C,D:\clones\libgit2\tests\apply\check.c,27,1.0,93.0
+libgit2,C,D:\clones\libgit2\tests\refs\overwrite.c,28,15.0,93.0
+libgit2,C,D:\clones\libgit2\tests\stash\foreach.c,31,2.0,93.0
+libgit2,C,D:\clones\libgit2\tests\win32\longpath.c,28,9.0,93.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\xdiff\xdiff.h,30,28.0,92.0
+libgit2,C,D:\clones\libgit2\tests\object\lookup.c,25,5.0,92.0
+libgit2,C,D:\clones\libgit2\tests\index\version.c,24,25.0,91.0
+libgit2,C,D:\clones\libgit2\src\buf.c,30,6.0,90.0
+libgit2,C,D:\clones\libgit2\tests\network\remote\rename.c,59,96.0,90.0
+libgit2,C,D:\clones\libgit2\tests\object\raw\short.c,30,17.0,90.0
+libgit2,C,D:\clones\libgit2\tests\stream\registration.c,26,3.0,90.0
+libgit2,C,D:\clones\libgit2\tests\submodule\nosubs.c,34,6.0,90.0
+libgit2,CMake,D:\clones\libgit2\cmake\DefaultCFlags.cmake,26,39.0,89.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\diff_generate.h,27,14.0,89.0
+libgit2,C,D:\clones\libgit2\src\streams\registry.c,24,6.0,89.0
+libgit2,C,D:\clones\libgit2\tests\network\remote\push.c,24,1.0,89.0
+libgit2,C,D:\clones\libgit2\tests\object\tree\attributes.c,29,0.0,89.0
+libgit2,C,D:\clones\libgit2\examples\clone.c,13,3.0,88.0
+libgit2,C,D:\clones\libgit2\fuzzers\packfile_fuzzer.c,18,13.0,88.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\tree.h,40,347.0,88.0
+libgit2,C,D:\clones\libgit2\tests\diff\racediffiter.c,27,14.0,88.0
+libgit2,C,D:\clones\libgit2\tests\index\nsec.c,33,8.0,88.0
+libgit2,C,D:\clones\libgit2\tests\repo\reservedname.c,26,18.0,88.0
+libgit2,C,D:\clones\libgit2\src\allocators\win32_leakcheck.c,25,6.0,87.0
+libgit2,C,D:\clones\libgit2\src\netops.c,23,15.0,87.0
+libgit2,C,D:\clones\libgit2\tests\diff\externalmodifications.c,30,16.0,87.0
+libgit2,C,D:\clones\libgit2\tests\pack\midx.c,24,0.0,87.0
+libgit2,Markdown,D:\clones\libgit2\docs\threading.md,24,0.0,86.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\rebase.h,39,274.0,86.0
+libgit2,C,D:\clones\libgit2\src\win32\dir.c,29,7.0,86.0
+libgit2,C,D:\clones\libgit2\tests\trace\trace.c,18,2.0,86.0
+libgit2,C,D:\clones\libgit2\tests\core\futils.c,26,4.0,85.0
+libgit2,C,D:\clones\libgit2\tests\core\stat.c,28,0.0,85.0
+libgit2,C,D:\clones\libgit2\tests\object\tree\read.c,30,4.0,85.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\zlib\inffixed.h,3,7.0,84.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\errors.h,14,66.0,84.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\hash\sha1\win32.h,25,19.0,84.0
+libgit2,C,D:\clones\libgit2\tests\odb\backend\multiple.c,33,4.0,84.0
+libgit2,C,D:\clones\libgit2\src\pqueue.c,28,14.0,83.0
+libgit2,C,D:\clones\libgit2\tests\mailmap\basic.c,16,2.0,83.0
+libgit2,C,D:\clones\libgit2\tests\network\remote\defaultbranch.c,24,0.0,83.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\filter.h,29,165.0,82.0
+libgit2,C,D:\clones\libgit2\tests\attr\flags.c,22,4.0,82.0
+libgit2,CMake,D:\clones\libgit2\deps\chromium-zlib\CMakeLists.txt,9,11.0,81.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\attr.h,26,263.0,81.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\credential.h,33,201.0,81.0
+libgit2,Markdown,D:\clones\libgit2\docs\projects.md,13,0.0,80.0
+libgit2,C,D:\clones\libgit2\examples\ls-files.c,24,27.0,80.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\vector.h,28,20.0,80.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\win32\w32_util.h,21,43.0,80.0
+libgit2,C,D:\clones\libgit2\tests\cherrypick\bare.c,25,0.0,80.0
+libgit2,C,D:\clones\libgit2\tests\core\rmdir.c,38,2.0,80.0
+libgit2,C,D:\clones\libgit2\tests\network\refspecs.c,41,70.0,80.0
+libgit2,C,D:\clones\libgit2\tests\odb\sorting.c,19,0.0,80.0
+libgit2,C,D:\clones\libgit2\tests\refs\reflog\drop.c,35,0.0,80.0
+libgit2,C,D:\clones\libgit2\tests\revert\bare.c,25,1.0,80.0
+libgit2,Markdown,D:\clones\libgit2\docs\diff-internals.md,13,0.0,79.0
+libgit2,C,D:\clones\libgit2\tests\status\status_helpers.c,18,0.0,79.0
+libgit2,CMake,D:\clones\libgit2\CMakeLists.txt,30,25.0,78.0
+libgit2,C,D:\clones\libgit2\src\oidmap.c,23,6.0,78.0
+libgit2,C,D:\clones\libgit2\tests\object\raw\convert.c,22,12.0,78.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\ntlmclient\ntlmclient.h,33,223.0,77.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\cc-compat.h,13,16.0,77.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\refs.h,23,30.0,77.0
+libgit2,C,D:\clones\libgit2\tests\diff\patchid.c,16,0.0,77.0
+libgit2,C/C++ Header,D:\clones\libgit2\examples\common.h,16,44.0,76.0
+libgit2,C,D:\clones\libgit2\tests\diff\pathspec.c,17,0.0,76.0
+libgit2,C,D:\clones\libgit2\tests\network\url\pattern.c,15,12.0,76.0
+libgit2,C,D:\clones\libgit2\script\user_model.c,17,6.0,75.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\array.h,28,21.0,75.0
+libgit2,C,D:\clones\libgit2\src\diff_parse.c,26,6.0,75.0
+libgit2,C,D:\clones\libgit2\tests\object\tag\list.c,25,17.0,75.0
+libgit2,C,D:\clones\libgit2\tests\submodule\init.c,32,8.0,75.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\zlib\inflate.h,7,44.0,74.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\notes.h,26,206.0,74.0
+libgit2,C,D:\clones\libgit2\tests\core\assert.c,20,0.0,74.0
+libgit2,C,D:\clones\libgit2\tests\filter\file.c,24,0.0,74.0
+libgit2,C,D:\clones\libgit2\tests\repo\setters.c,28,6.0,74.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\transports\httpclient.h,26,91.0,73.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\unix\posix.h,17,14.0,73.0
+libgit2,C,D:\clones\libgit2\src\win32\w32_util.c,23,30.0,73.0
+libgit2,C,D:\clones\libgit2\tests\apply\tree.c,21,0.0,73.0
+libgit2,C,D:\clones\libgit2\tests\core\qsort.c,17,0.0,73.0
+libgit2,C,D:\clones\libgit2\tests\str\quote.c,14,0.0,73.0
+libgit2,C,D:\clones\libgit2\src\offmap.c,23,6.0,72.0
+libgit2,C,D:\clones\libgit2\src\strmap.c,22,6.0,72.0
+libgit2,C,D:\clones\libgit2\tests\clone\empty.c,26,4.0,72.0
+libgit2,C,D:\clones\libgit2\tests\filter\query.c,18,0.0,72.0
+libgit2,C,D:\clones\libgit2\tests\rebase\submodule.c,20,3.0,72.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\stash.h,30,159.0,71.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\filter.h,36,246.0,71.0
+libgit2,C,D:\clones\libgit2\tests\refs\setter.c,24,4.0,71.0
+libgit2,C,D:\clones\libgit2\tests\worktree\submodule.c,19,2.0,71.0
+libgit2,C,D:\clones\libgit2\examples\rev-parse.c,18,14.0,70.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\patch.h,21,199.0,70.0
+libgit2,C,D:\clones\libgit2\examples\fetch.c,16,24.0,69.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\tag.h,28,286.0,69.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\pack-objects.h,27,10.0,69.0
+libgit2,C,D:\clones\libgit2\tests\refs\pack.c,23,13.0,69.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\odb.h,43,492.0,68.0
+libgit2,C,D:\clones\libgit2\src\allocators\failalloc.c,18,6.0,68.0
+libgit2,C,D:\clones\libgit2\tests\object\lookupbypath.c,15,0.0,68.0
+libgit2,C,D:\clones\libgit2\tests\worktree\reflog.c,22,1.0,68.0
+libgit2,CMake,D:\clones\libgit2\tests\CMakeLists.txt,18,11.0,67.0
+libgit2,C,D:\clones\libgit2\tests\core\pool.c,21,4.0,67.0
+libgit2,C,D:\clones\libgit2\tests\refs\delete.c,34,17.0,67.0
+libgit2,C,D:\clones\libgit2\tests\submodule\escape.c,15,16.0,67.0
+libgit2,C,D:\clones\libgit2\tests\core\oid.c,13,0.0,66.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\refdb_backend.h,30,266.0,65.0
+libgit2,C,D:\clones\libgit2\src\win32\utf-conv.c,27,54.0,65.0
+libgit2,C,D:\clones\libgit2\tests\config\rename.c,18,6.0,65.0
+libgit2,C,D:\clones\libgit2\tests\merge\workdir\recursive.c,19,0.0,65.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2.h,3,6.0,64.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\commit_graph.h,31,74.0,64.0
+libgit2,C,D:\clones\libgit2\tests\submodule\open.c,16,10.0,64.0
+libgit2,C,D:\clones\libgit2\tests\reset\mixed.c,19,3.0,63.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\branch.h,22,252.0,62.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\stream.h,18,6.0,62.0
+libgit2,C,D:\clones\libgit2\tests\object\blob\fromstream.c,24,0.0,62.0
+libgit2,C,D:\clones\libgit2\tests\str\splice.c,30,0.0,62.0
+libgit2,CMake,D:\clones\libgit2\cmake\FindmbedTLS.cmake,9,16.0,61.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\ntlmclient\crypt_openssl.h,21,8.0,61.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\blame.h,40,184.0,61.0
+libgit2,C,D:\clones\libgit2\tests\filter\systemattrs.c,23,1.0,61.0
+libgit2,C,D:\clones\libgit2\tests\online\customcert.c,14,4.0,61.0
+libgit2,C,D:\clones\libgit2\tests\perf\helper__perf__do_merge.c,14,0.0,61.0
+libgit2,C,D:\clones\libgit2\tests\submodule\inject_option.c,17,2.0,61.0
+libgit2,C,D:\clones\libgit2\tests\threads\basic.c,18,4.0,61.0
+libgit2,C,D:\clones\libgit2\tests\transport\register.c,18,0.0,61.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\odb.h,25,64.0,60.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\submodule.h,17,88.0,59.0
+libgit2,C,D:\clones\libgit2\tests\refs\basic.c,19,7.0,59.0
+libgit2,C,D:\clones\libgit2\tests\odb\alternates.c,16,6.0,58.0
+libgit2,C,D:\clones\libgit2\tests\odb\packed.c,21,0.0,58.0
+libgit2,C,D:\clones\libgit2\tests\refs\branches\ishead.c,21,19.0,58.0
+libgit2,C,D:\clones\libgit2\deps\pcre\pcre_maketables.c,32,67.0,57.0
+libgit2,Markdown,D:\clones\libgit2\docs\code_of_conduct.md,18,0.0,57.0
+libgit2,C,D:\clones\libgit2\fuzzers\commit_graph_fuzzer.c,14,14.0,57.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\config.h,21,32.0,57.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\sortedcache.h,27,98.0,57.0
+libgit2,C,D:\clones\libgit2\src\streams\tls.c,12,6.0,57.0
+libgit2,C,D:\clones\libgit2\tests\index\rename.c,27,2.0,57.0
+libgit2,C,D:\clones\libgit2\tests\merge\trees\whitespace.c,23,1.0,57.0
+libgit2,CMake,D:\clones\libgit2\cmake\PkgBuildConfig.cmake,13,8.0,56.0
+libgit2,Markdown,D:\clones\libgit2\docs\fuzzing.md,16,0.0,56.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\pathspec.h,25,199.0,56.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\filter.h,15,14.0,56.0
+libgit2,C,D:\clones\libgit2\tests\core\iconv.c,14,8.0,56.0
+libgit2,C,D:\clones\libgit2\tests\online\badssl.c,19,0.0,56.0
+libgit2,C,D:\clones\libgit2\tests\refs\foreachglob.c,28,16.0,56.0
+libgit2,Bourne Shell,D:\clones\libgit2\ci\build.sh,16,7.0,55.0
+libgit2,C,D:\clones\libgit2\fuzzers\standalone_driver.c,12,6.0,55.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\blob.h,29,227.0,55.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\describe.h,21,118.0,55.0
+libgit2,C,D:\clones\libgit2\tests\config\configlevel.c,18,0.0,55.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\merge\merge_helpers.h,17,0.0,55.0
+libgit2,C,D:\clones\libgit2\tests\object\tree\frompath.c,13,0.0,55.0
+libgit2,C,D:\clones\libgit2\tests\refs\branches\lookup.c,13,0.0,55.0
+libgit2,C,D:\clones\libgit2\tests\stash\submodules.c,22,6.0,55.0
+libgit2,Windows Resource File,D:\clones\libgit2\src\win32\git2.rc,4,1.0,54.0
+libgit2,C,D:\clones\libgit2\tests\core\bitvec.c,10,0.0,54.0
+libgit2,C,D:\clones\libgit2\tests\core\sha1.c,15,1.0,54.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\diff\diff_helpers.h,18,1.0,54.0
+libgit2,C,D:\clones\libgit2\tests\repo\extensions.c,18,0.0,54.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\delta.h,18,65.0,53.0
+libgit2,C,D:\clones\libgit2\tests\blame\blame_helpers.c,14,0.0,53.0
+libgit2,C,D:\clones\libgit2\tests\index\add.c,19,12.0,53.0
+libgit2,C,D:\clones\libgit2\tests\perf\helper__perf__timer.c,20,0.0,53.0
+libgit2,C,D:\clones\libgit2\tests\worktree\bare.c,19,0.0,53.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\pcre\pcreposix.h,26,39.0,52.0
+libgit2,C,D:\clones\libgit2\fuzzers\midx_fuzzer.c,14,14.0,52.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\clone.h,20,137.0,52.0
+libgit2,C,D:\clones\libgit2\src\message.c,15,8.0,52.0
+libgit2,C,D:\clones\libgit2\src\unix\map.c,18,6.0,52.0
+libgit2,C,D:\clones\libgit2\tests\core\opts.c,19,0.0,52.0
+libgit2,C,D:\clones\libgit2\tests\refs\lookup.c,16,0.0,52.0
+libgit2,Markdown,D:\clones\libgit2\docs\buffers.md,12,0.0,51.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\filebuf.h,15,28.0,51.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\midx.h,19,40.0,51.0
+libgit2,C,D:\clones\libgit2\src\transports\auth.c,17,6.0,51.0
+libgit2,C,D:\clones\libgit2\tests\fetch\local.c,16,0.0,51.0
+libgit2,Bourne Shell,D:\clones\libgit2\ci\coverity.sh,8,4.0,50.0
+libgit2,C,D:\clones\libgit2\examples\index-pack.c,15,4.0,50.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\odb_backend.h,27,95.0,50.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\worktree.h,26,190.0,50.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\bitvec.h,12,13.0,50.0
+libgit2,C,D:\clones\libgit2\tests\config\config_helpers.c,17,0.0,50.0
+libgit2,C,D:\clones\libgit2\tests\mailmap\blame.c,14,0.0,50.0
+libgit2,C,D:\clones\libgit2\tests\object\blob\write.c,18,0.0,50.0
+libgit2,C,D:\clones\libgit2\tests\odb\backend\mempack.c,10,0.0,50.0
+libgit2,C,D:\clones\libgit2\tests\worktree\repository.c,17,0.0,50.0
+libgit2,Markdown,D:\clones\libgit2\docs\release.md,34,0.0,49.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\blame.h,19,27.0,49.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\diff.h,12,6.0,49.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\streams\openssl_legacy.h,8,6.0,49.0
+libgit2,C,D:\clones\libgit2\tests\config\readonly.c,16,0.0,49.0
+libgit2,C,D:\clones\libgit2\tests\pack\threadsafety.c,11,2.0,49.0
+libgit2,C,D:\clones\libgit2\tests\refs\branches\name.c,13,0.0,49.0
+libgit2,C,D:\clones\libgit2\tests\refs\branches\remote.c,15,1.0,49.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\cache.h,15,6.0,48.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\commit.h,15,6.0,48.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\config_backend.h,14,34.0,48.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\path.h,12,8.0,48.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\revwalk.h,17,8.0,48.0
+libgit2,C,D:\clones\libgit2\tests\core\array.c,8,1.0,48.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\ntlmclient\crypt.h,15,7.0,47.0
+libgit2,C,D:\clones\libgit2\examples\commit.c,11,28.0,47.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\cert.h,19,106.0,47.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\config_parse.h,12,6.0,47.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\refdb.h,16,65.0,47.0
+libgit2,C,D:\clones\libgit2\tests\merge\trees\modeconflict.c,10,1.0,47.0
+libgit2,C,D:\clones\libgit2\tests\notes\notesref.c,20,0.0,47.0
+libgit2,C,D:\clones\libgit2\tests\object\tag\peel.c,14,0.0,47.0
+libgit2,C,D:\clones\libgit2\tests\odb\emptyobjects.c,11,0.0,47.0
+libgit2,C,D:\clones\libgit2\tests\threads\tlsdata.c,18,0.0,47.0
+libgit2,C,D:\clones\libgit2\tests\object\raw\type2string.c,8,0.0,46.0
+libgit2,Markdown,D:\clones\libgit2\docs\api-stability.md,18,0.0,45.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\win32\thread.h,13,6.0,45.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\win32\w32_leakcheck.h,27,150.0,45.0
+libgit2,C,D:\clones\libgit2\tests\index\stage.c,16,1.0,45.0
+libgit2,C,D:\clones\libgit2\tests\odb\packed_one.c,15,0.0,45.0
+libgit2,C,D:\clones\libgit2\tests\stash\stash_helpers.c,12,0.0,45.0
+libgit2,C,D:\clones\libgit2\tests\stream\deprecated.c,11,4.0,45.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\apply.h,18,103.0,44.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\object.h,20,189.0,44.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\pack.h,22,201.0,44.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\merge.h,23,115.0,44.0
+libgit2,C,D:\clones\libgit2\tests\checkout\binaryunicode.c,12,2.0,44.0
+libgit2,C,D:\clones\libgit2\tests\graph\ahead_behind.c,14,0.0,44.0
+libgit2,diff,D:\clones\libgit2\fuzzers\corpora\patch_parse\patch_fuzzer-patch.diff,0,2.0,43.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\email.h,19,65.0,43.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\indexer.h,25,98.0,43.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\commit_graph.h,19,112.0,43.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\object.h,15,13.0,43.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\patch_generate.h,13,13.0,43.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\remote.h,11,6.0,43.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\repo_template.h,9,6.0,43.0
+libgit2,C,D:\clones\libgit2\tests\blame\getters.c,13,0.0,43.0
+libgit2,CMake,D:\clones\libgit2\cmake\SelectRegex.cmake,8,1.0,42.0
+libgit2,C,D:\clones\libgit2\examples\config.c,11,18.0,42.0
+libgit2,C,D:\clones\libgit2\examples\show-index.c,11,13.0,42.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\diff_file.h,11,10.0,42.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\hash\sha1\sha1dc\sha1.h,20,48.0,42.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\patch.h,15,12.0,42.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\pathspec.h,16,18.0,42.0
+libgit2,C,D:\clones\libgit2\src\threadstate.c,16,26.0,42.0
+libgit2,C,D:\clones\libgit2\tests\object\shortid.c,9,0.0,42.0
+libgit2,C,D:\clones\libgit2\tests\odb\streamwrite.c,14,0.0,42.0
+libgit2,C,D:\clones\libgit2\tests\threads\iterator.c,13,0.0,42.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\config.h,10,79.0,41.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\credential.h,15,34.0,41.0
+libgit2,C,D:\clones\libgit2\src\strarray.c,17,6.0,41.0
+libgit2,C,D:\clones\libgit2\tests\core\buf.c,13,0.0,41.0
+libgit2,C,D:\clones\libgit2\tests\core\init.c,10,3.0,41.0
+libgit2,C,D:\clones\libgit2\tests\core\memmem.c,5,0.0,41.0
+libgit2,C,D:\clones\libgit2\tests\refs\branches\checkedout.c,12,0.0,41.0
+libgit2,HTML,D:\clones\libgit2\tests\resources\userdiff\before\file.html,0,0.0,41.0
+libgit2,HTML,D:\clones\libgit2\tests\resources\userdiff\files\file.html,0,0.0,41.0
+libgit2,CMake,D:\clones\libgit2\cmake\SelectHashes.cmake,6,6.0,40.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\commit_list.h,11,6.0,40.0
+libgit2,C,D:\clones\libgit2\src\hash\sha1\openssl.c,13,6.0,40.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\net.h,18,20.0,40.0
+libgit2,C,D:\clones\libgit2\tests\config\validkeyname.c,9,0.0,40.0
+libgit2,C,D:\clones\libgit2\tests\str\oom.c,15,3.0,40.0
+libgit2,C,D:\clones\libgit2\examples\ls-remote.c,11,10.0,39.0
+libgit2,C,D:\clones\libgit2\fuzzers\config_file_fuzzer.c,13,9.0,39.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\odb_backend.h,17,79.0,39.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\merge_driver.h,13,10.0,39.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\parse.h,14,8.0,39.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\clar\fixtures.h,11,0.0,39.0
+libgit2,C,D:\clones\libgit2\tests\clone\transport.c,12,0.0,39.0
+libgit2,C,D:\clones\libgit2\tests\repo\headtree.c,14,0.0,39.0
+libgit2,CMake,D:\clones\libgit2\cmake\SelectGSSAPI.cmake,7,3.0,38.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\attrcache.h,11,7.0,38.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\blob.h,8,6.0,38.0
+libgit2,C,D:\clones\libgit2\src\hash\sha1\common_crypto.c,13,6.0,38.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\mwindow.h,10,6.0,38.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\push.h,17,73.0,38.0
+libgit2,C,D:\clones\libgit2\src\transports\credential_helpers.c,11,19.0,38.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\win32\posix.h,12,12.0,38.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\win32\win32-compat.h,8,6.0,38.0
+libgit2,C,D:\clones\libgit2\tests\describe\describe.c,15,2.0,38.0
+libgit2,C,D:\clones\libgit2\tests\main.c,11,1.0,38.0
+libgit2,C,D:\clones\libgit2\tests\object\validate.c,12,0.0,38.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\revwalk.h,26,239.0,37.0
+libgit2,C,D:\clones\libgit2\src\alloc.c,8,11.0,37.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\netops.h,11,20.0,37.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\win32\reparse.h,6,14.0,37.0
+libgit2,C,D:\clones\libgit2\tests\refs\unicode.c,13,4.0,37.0
+libgit2,Markdown,D:\clones\libgit2\tests\resources\typechanges\README.md,6,0.0,37.0
+libgit2,C,D:\clones\libgit2\tests\str\basic.c,10,3.0,37.0
+libgit2,C,D:\clones\libgit2\tests\threads\thread_helpers.c,7,0.0,37.0
+libgit2,Bourne Shell,D:\clones\libgit2\ci\getcontainer.sh,13,2.0,36.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\stream.h,19,83.0,36.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\tree.h,10,12.0,36.0
+libgit2,C,D:\clones\libgit2\src\win32\w32_buffer.c,14,7.0,36.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\attr\attr_expect.h,7,0.0,36.0
+libgit2,C,D:\clones\libgit2\tests\blame\harder.c,21,22.0,36.0
+libgit2,C,D:\clones\libgit2\tests\commit\parent.c,11,13.0,36.0
+libgit2,C,D:\clones\libgit2\tests\graph\descendant_of.c,19,0.0,36.0
+libgit2,C,D:\clones\libgit2\tests\object\raw\chars.c,5,0.0,36.0
+libgit2,C,D:\clones\libgit2\tests\repo\getters.c,17,0.0,36.0
+libgit2,C,D:\clones\libgit2\tests\revwalk\simplify.c,10,10.0,36.0
+libgit2,C,D:\clones\libgit2\tests\str\percent.c,7,5.0,36.0
+libgit2,C,D:\clones\libgit2\examples\for-each-ref.c,9,0.0,35.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\pool.h,20,91.0,35.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\xdiff\xtypes.h,11,21.0,35.0
+libgit2,C,D:\clones\libgit2\tests\network\cred.c,11,0.0,35.0
+libgit2,C,D:\clones\libgit2\tests\odb\backend\nobackend.c,10,1.0,35.0
+libgit2,C,D:\clones\libgit2\tests\refs\isvalidname.c,3,0.0,35.0
+libgit2,CMake,D:\clones\libgit2\cmake\SelectSSH.cmake,6,1.0,34.0
+libgit2,CMake,D:\clones\libgit2\deps\pcre\cmake\FindPackageHandleStandardArgs.cmake,6,18.0,34.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\errors.h,12,35.0,34.0
+libgit2,C,D:\clones\libgit2\src\hash\sha1\collisiondetect.c,8,6.0,34.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\ignore.h,12,19.0,34.0
+libgit2,C,D:\clones\libgit2\src\proxy.c,9,6.0,34.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\transports\auth.h,19,17.0,34.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\xdiff\xdiffi.h,9,21.0,34.0
+libgit2,C,D:\clones\libgit2\tests\describe\describe_helpers.c,10,0.0,34.0
+libgit2,C,D:\clones\libgit2\tests\network\remote\delete.c,12,0.0,34.0
+libgit2,C,D:\clones\libgit2\tests\refs\listall.c,13,0.0,34.0
+libgit2,PHP,D:\clones\libgit2\tests\resources\userdiff\files\file.php,6,10.0,34.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\oid.h,27,213.0,33.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\index.h,20,129.0,33.0
+libgit2,C,D:\clones\libgit2\src\hash\sha1\mbedtls.c,7,6.0,33.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\trace.h,12,6.0,33.0
+libgit2,C,D:\clones\libgit2\src\win32\error.c,11,9.0,33.0
+libgit2,C,D:\clones\libgit2\tests\core\ftruncate.c,11,4.0,33.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\online\push_util.h,15,35.0,33.0
+libgit2,PHP,D:\clones\libgit2\tests\resources\userdiff\before\file.php,6,10.0,33.0
+libgit2,C,D:\clones\libgit2\tests\revert\rename.c,11,5.0,33.0
+libgit2,C,D:\clones\libgit2\tests\revwalk\signatureparsing.c,10,4.0,33.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\status\status_helpers.h,14,4.0,33.0
+libgit2,C,D:\clones\libgit2\tests\worktree\config.c,10,4.0,33.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\annotated_commit.h,10,83.0,32.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\oid.h,12,22.0,32.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\unix\pthread.h,8,17.0,32.0
+libgit2,C,D:\clones\libgit2\src\varint.c,3,8.0,32.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\xdiff\git-xdiff.h,9,12.0,32.0
+libgit2,C,D:\clones\libgit2\tests\refs\crashes.c,9,3.0,32.0
+libgit2,C,D:\clones\libgit2\tests\repo\shallow.c,7,0.0,32.0
+libgit2,CMake,D:\clones\libgit2\cmake\SelectZlib.cmake,2,1.0,31.0
+libgit2,CMake,D:\clones\libgit2\deps\ntlmclient\CMakeLists.txt,5,1.0,31.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\commit.h,6,43.0,31.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\diff.h,10,53.0,31.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\regexp.h,10,56.0,31.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\win32\dir.h,7,6.0,31.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\zstream.h,15,8.0,31.0
+libgit2,C,D:\clones\libgit2\tests\config\add.c,6,0.0,31.0
+libgit2,C,D:\clones\libgit2\tests\core\encoding.c,11,0.0,31.0
+libgit2,C,D:\clones\libgit2\tests\pack\sharing.c,10,1.0,31.0
+libgit2,C,D:\clones\libgit2\tests\refs\dup.c,11,0.0,31.0
+libgit2,C,D:\clones\libgit2\tests\remote\list.c,12,0.0,31.0
+libgit2,C,D:\clones\libgit2\tests\repo\message.c,8,0.0,31.0
+libgit2,Bourne Shell,D:\clones\libgit2\tests\resources\push.sh,10,14.0,31.0
+libgit2,C,D:\clones\libgit2\tests\status\single.c,10,4.0,31.0
+libgit2,CMake,D:\clones\libgit2\cmake\FindIconv.cmake,5,10.0,30.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\cherrypick.h,12,50.0,30.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\revert.h,11,50.0,30.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\diff_driver.h,14,8.0,30.0
+libgit2,C,D:\clones\libgit2\tests\index\read_tree.c,12,4.0,30.0
+libgit2,C,D:\clones\libgit2\tests\refs\list.c,17,10.0,30.0
+libgit2,C,D:\clones\libgit2\tests\repo\repo_helpers.c,7,0.0,30.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\winhttp\urlmon.h,10,6.0,29.0
+libgit2,Windows Module Definition,D:\clones\libgit2\deps\winhttp\winhttp.def,0,0.0,29.0
+libgit2,Windows Module Definition,D:\clones\libgit2\deps\winhttp\winhttp64.def,0,0.0,29.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\map.h,9,8.0,29.0
+libgit2,Markdown,D:\clones\libgit2\tests\README.md,19,0.0,29.0
+libgit2,YAML,D:\clones\libgit2\.github\workflows\codeql.yml,7,1.0,28.0
+libgit2,Markdown,D:\clones\libgit2\docs\win32-longpaths.md,8,0.0,28.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\reset.h,7,76.0,28.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\revparse.h,9,76.0,28.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\hash.h,12,6.0,28.0
+libgit2,C,D:\clones\libgit2\src\oidarray.c,9,6.0,28.0
+libgit2,C,D:\clones\libgit2\tests\core\features.c,7,0.0,28.0
+libgit2,JSON,D:\clones\libgit2\.vscode\launch.json,0,0.0,27.0
+libgit2,JSON,D:\clones\libgit2\.vscode\tasks.json,0,0.0,27.0
+libgit2,C,D:\clones\libgit2\deps\pcre\pcre_globals.c,16,43.0,27.0
+libgit2,C,D:\clones\libgit2\deps\pcre\pcre_ord2utf8.c,23,44.0,27.0
+libgit2,C,D:\clones\libgit2\fuzzers\objects_fuzzer.c,9,13.0,27.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\reader.h,10,70.0,27.0
+libgit2,C,D:\clones\libgit2\tests\refs\namespaces.c,9,0.0,27.0
+libgit2,C,D:\clones\libgit2\tests\submodule\repository_init.c,9,2.0,27.0
+libgit2,C/C++ Header,D:\clones\libgit2\examples\args.h,12,52.0,26.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\hashsig.h,13,67.0,26.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\xdiff\xmacros.h,7,21.0,26.0
+libgit2,C,D:\clones\libgit2\tests\date\rfc2822.c,11,0.0,26.0
+libgit2,C,D:\clones\libgit2\tests\refs\branches\upstreamname.c,9,0.0,26.0
+libgit2,HTML,D:\clones\libgit2\tests\resources\userdiff\expected\driver\diff.html,0,0.0,26.0
+libgit2,PHP,D:\clones\libgit2\tests\resources\userdiff\expected\driver\diff.php,0,0.0,26.0
+libgit2,HTML,D:\clones\libgit2\tests\resources\userdiff\expected\nodriver\diff.html,0,0.0,26.0
+libgit2,PHP,D:\clones\libgit2\tests\resources\userdiff\expected\nodriver\diff.php,0,0.0,26.0
+libgit2,C,D:\clones\libgit2\tests\worktree\worktree_helpers.c,4,0.0,26.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\ntlmclient\unicode.h,10,7.0,25.0
+libgit2,C,D:\clones\libgit2\fuzzers\patch_parse_fuzzer.c,7,8.0,25.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\annotated_commit.h,12,15.0,25.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\hash\sha1.h,9,6.0,25.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\patch_parse.h,11,15.0,25.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\reflog.h,10,6.0,25.0
+libgit2,C,D:\clones\libgit2\deps\pcre\pcre_refcount.c,19,49.0,24.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\proxy.h,14,60.0,24.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\reflog.h,16,130.0,24.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\sysdir.h,14,75.0,24.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\checkout\checkout_helpers.h,6,0.0,24.0
+libgit2,C,D:\clones\libgit2\tests\clar_libgit2_timer.c,6,0.0,24.0
+libgit2,C,D:\clones\libgit2\tests\config\new.c,10,0.0,24.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\assert_safe.h,11,24.0,23.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\offmap.h,15,95.0,23.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\win32\version.h,8,6.0,23.0
+libgit2,C,D:\clones\libgit2\tests\object\raw\fromstr.c,7,0.0,23.0
+libgit2,C,D:\clones\libgit2\deps\ntlmclient\util.c,6,7.0,22.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\mailmap.h,10,83.0,22.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\hash\sha1\sha1dc\ubc_check.h,10,20.0,22.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\strmap.h,14,95.0,22.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\tree-cache.h,7,9.0,22.0
+libgit2,CMake,D:\clones\libgit2\cmake\AddCFlagIfSupported.cmake,5,4.0,21.0
+libgit2,C,D:\clones\libgit2\deps\pcre\pcre_version.c,21,56.0,21.0
+libgit2,CMake,D:\clones\libgit2\fuzzers\CMakeLists.txt,5,0.0,21.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\repository.h,13,146.0,21.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\branch.h,4,6.0,21.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\fetchhead.h,8,6.0,21.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\idxmap.h,18,138.0,21.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\pqueue.h,9,29.0,21.0
+libgit2,C,D:\clones\libgit2\tests\network\remote\isvalidname.c,3,0.0,21.0
+libgit2,YAML,D:\clones\libgit2\.github\release.yml,0,0.0,20.0
+libgit2,CMake,D:\clones\libgit2\cmake\SanitizeBool.cmake,0,0.0,20.0
+libgit2,CMake,D:\clones\libgit2\deps\winhttp\CMakeLists.txt,4,0.0,20.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\net.h,6,28.0,20.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\refspec.h,15,86.0,20.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\filter\crlf.h,7,3.0,20.0
+libgit2,C,D:\clones\libgit2\tests\repo\new.c,7,0.0,20.0
+libgit2,Bourne Shell,D:\clones\libgit2\ci\setup-mingw.sh,6,0.0,19.0
+libgit2,CMake,D:\clones\libgit2\cmake\FindPkgLibraries.cmake,4,5.0,19.0
+libgit2,C,D:\clones\libgit2\examples\push.c,8,29.0,19.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\message.h,10,57.0,19.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\alloc.h,16,66.0,19.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\midx.h,8,47.0,19.0
+libgit2,C/C++ Header,D:\clones\libgit2\script\user_nodefs.h,9,6.0,19.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\oidmap.h,14,95.0,19.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\refspec.h,11,24.0,19.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\streams\openssl.h,6,6.0,19.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\transports\auth_ntlm.h,11,7.0,19.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\xdiff\xutils.h,7,21.0,19.0
+libgit2,C,D:\clones\libgit2\tests\config\backend.c,5,0.0,19.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\mailmap\mailmap_testdata.h,2,0.0,19.0
+libgit2,C,D:\clones\libgit2\tests\merge\annotated_commit.c,7,0.0,19.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\odb\backend\backend_helpers.h,5,0.0,19.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\perf\helper__perf__timer.h,8,0.0,19.0
+libgit2,C,D:\clones\libgit2\tests\refs\ref_helpers.c,6,0.0,19.0
+libgit2,C,D:\clones\libgit2\tests\refs\shorthand.c,8,0.0,19.0
+libgit2,C,D:\clones\libgit2\tests\refs\update.c,7,0.0,19.0
+libgit2,CMake,D:\clones\libgit2\cmake\FindHTTPParser.cmake,5,16.0,18.0
+libgit2,Markdown,D:\clones\libgit2\docs\differences-from-git.md,9,0.0,18.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\graph.h,7,52.0,18.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\trace.h,12,37.0,18.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\buf.h,7,25.0,18.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\tag.h,7,6.0,18.0
+libgit2,C,D:\clones\libgit2\src\unix\realpath.c,6,8.0,18.0
+libgit2,C,D:\clones\libgit2\tests\core\hex.c,2,2.0,18.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\odb\pack_data_one.h,0,1.0,18.0
+libgit2,CMake,D:\clones\libgit2\cmake\FindGSSFramework.cmake,3,8.0,17.0
+libgit2,CMake,D:\clones\libgit2\cmake\FindSecurity.cmake,3,8.0,17.0
+libgit2,CMake,D:\clones\libgit2\cmake\FindStatNsec.cmake,3,0.0,17.0
+libgit2,CMake,D:\clones\libgit2\cmake\IdeSplitSources.cmake,0,5.0,17.0
+libgit2,CMake,D:\clones\libgit2\cmake\SelectHTTPParser.cmake,1,1.0,17.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\ntlmclient\compat.h,4,7.0,17.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\path.h,8,39.0,17.0
+libgit2,Bourne Shell,D:\clones\libgit2\script\backport.sh,6,0.0,17.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\notes.h,9,6.0,17.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\win32\precompiled.h,4,0.0,17.0
+libgit2,C,D:\clones\libgit2\tests\date\date.c,4,1.0,17.0
+libgit2,C,D:\clones\libgit2\tests\index\splitindex.c,4,0.0,17.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\submodule\submodule_helpers.h,7,1.0,17.0
+libgit2,CMake,D:\clones\libgit2\cmake\FindCoreFoundation.cmake,3,7.0,16.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\zlib\inftrees.h,6,40.0,16.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\credential_helpers.h,6,31.0,16.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\ignore.h,7,55.0,16.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\alloc.h,7,17.0,16.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\mailmap.h,5,14.0,16.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\win32\msvc-compat.h,7,13.0,16.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\worktree.h,7,16.0,16.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\clar_libgit2_timer.h,9,10.0,16.0
+libgit2,C,D:\clones\libgit2\tests\delta\apply.c,5,0.0,16.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\fetchhead\fetchhead_data.h,5,27.0,16.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\filter\custom_helpers.h,3,0.0,16.0
+libgit2,Markdown,D:\clones\libgit2\examples\README.md,7,0.0,15.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\email.h,3,27.0,15.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\refs.h,5,29.0,15.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\transaction.h,11,95.0,15.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\apply.h,4,6.0,15.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\diff_xdiff.h,7,13.0,15.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\email.h,4,6.0,15.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\strnlen.h,3,6.0,15.0
+libgit2,C,D:\clones\libgit2\tests\core\utf8.c,3,2.0,15.0
+libgit2,C,D:\clones\libgit2\tests\index\inmemory.c,7,0.0,15.0
+libgit2,C,D:\clones\libgit2\tests\network\url\valid.c,2,0.0,15.0
+libgit2,C,D:\clones\libgit2\tests\reset\reset_helpers.c,5,0.0,15.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\transports\http.h,8,6.0,14.0
+libgit2,C,D:\clones\libgit2\tests\refs\tags\name.c,3,0.0,14.0
+libgit2,CMake,D:\clones\libgit2\cmake\EnableWarnings.cmake,2,0.0,13.0
+libgit2,CMake,D:\clones\libgit2\cmake\FindPCRE.cmake,6,19.0,13.0
+libgit2,CMake,D:\clones\libgit2\cmake\SelectWinHTTP.cmake,2,2.0,13.0
+libgit2,CMake,D:\clones\libgit2\deps\pcre\cmake\FindEditline.cmake,3,1.0,13.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\buffer.h,10,51.0,13.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\refdb.h,8,50.0,13.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\signature.h,9,81.0,13.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\mempack.h,7,67.0,13.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\allocators\failalloc.h,4,6.0,13.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\config_entries.h,4,7.0,13.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\status.h,6,6.0,13.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\threadstate.h,5,6.0,13.0
+libgit2,C,D:\clones\libgit2\src\trace.c,6,6.0,13.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\transports\auth_negotiate.h,8,6.0,13.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\win32\path_w32.h,11,67.0,13.0
+libgit2,C,D:\clones\libgit2\tests\core\useragent.c,4,0.0,13.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\iterator\iterator_helpers.h,3,0.0,13.0
+libgit2,CMake,D:\clones\libgit2\cmake\FindPCRE2.cmake,6,19.0,12.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\oidarray.h,7,18.0,12.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\strarray.h,9,35.0,12.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\transport.h,6,24.0,12.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\blame_git.h,4,6.0,12.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\diff_tform.h,7,6.0,12.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\signature.h,5,6.0,12.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\streams\socket.h,5,6.0,12.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\win32\mingw-compat.h,5,6.0,12.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\win32\utf-conv.h,8,40.0,12.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\blame\blame_helpers.h,2,0.0,12.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\describe\describe_helpers.h,2,0.0,12.0
+libgit2,C,D:\clones\libgit2\tests\network\matchhost.c,1,0.0,12.0
+libgit2,CMake,D:\clones\libgit2\deps\pcre\cmake\FindReadline.cmake,3,15.0,11.0
+libgit2,CMake,D:\clones\libgit2\examples\CMakeLists.txt,4,1.0,11.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\checkout.h,5,11.0,11.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\streams\mbedtls.h,6,6.0,11.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\wildmatch.h,6,6.0,11.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\xdiff\xinclude.h,4,21.0,11.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\config\config_helpers.h,2,0.0,11.0
+libgit2,Markdown,D:\clones\libgit2\SECURITY.md,4,0.0,10.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\ntlmclient\unicode_iconv.h,5,7.0,10.0
+libgit2,Markdown,D:\clones\libgit2\docs\troubleshooting.md,3,0.0,10.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\reflog.h,5,6.0,10.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\version.h,8,21.0,10.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\runtime.h,7,45.0,10.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\win32\w32_common.h,8,30.0,10.0
+libgit2,C,D:\clones\libgit2\tests\object\raw\size.c,3,0.0,10.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\remote.h,6,16.0,9.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\clone.h,5,6.0,9.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\diff_parse.h,5,6.0,9.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\diff_stats.h,3,6.0,9.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\fetch.h,7,6.0,9.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\hash\sha1\generic.h,4,6.0,9.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\oidarray.h,5,6.0,9.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\streams\stransport.h,6,6.0,9.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\win32\findfile.h,6,7.0,9.0
+libgit2,C,D:\clones\libgit2\tests\perf\merge.c,3,19.0,9.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\refs\reflog\reflog_helpers.h,3,0.0,9.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\worktree\worktree_helpers.h,2,0.0,9.0
+libgit2,CMake,D:\clones\libgit2\cmake\Findfutimens.cmake,1,5.0,8.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\ntlmclient\crypt_mbedtls.h,4,7.0,8.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\ntlmclient\unicode_builtin.h,5,7.0,8.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\global.h,6,30.0,8.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\hash\sha1\collisiondetect.h,5,6.0,8.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\hash\sha1\common_crypto.h,5,6.0,8.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\hash\sha1\mbedtls.h,5,6.0,8.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\hash\sha1\openssl.h,5,6.0,8.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\xdiff\xemit.h,7,21.0,8.0
+libgit2,Bourne Shell,D:\clones\libgit2\.devcontainer\setup.sh,2,0.0,7.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\ntlmclient\crypt_commoncrypto.h,4,7.0,7.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\openssl.h,5,26.0,7.0
+libgit2,JSON,D:\clones\libgit2\package.json,0,0.0,7.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\date.h,4,22.0,7.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\proxy.h,4,6.0,7.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\rand.h,5,25.0,7.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\streams\registry.h,4,8.0,7.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\streams\tls.h,5,19.0,7.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\utf8.h,5,40.0,7.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\varint.h,4,6.0,7.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\stash\stash_helpers.h,1,0.0,7.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\threads\thread_helpers.h,1,0.0,7.0
+libgit2,CMake,D:\clones\libgit2\cmake\FindLibSSH2.cmake,4,3.0,6.0
+libgit2,CMake,D:\clones\libgit2\deps\zlib\CMakeLists.txt,0,0.0,6.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\cred_helpers.h,2,7.0,6.0
+libgit2,C/C++ Header,D:\clones\libgit2\include\git2\sys\cred.h,2,7.0,6.0
+libgit2,Bourne Shell,D:\clones\libgit2\script\leaks.sh,0,0.0,6.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\allocators\stdalloc.h,5,6.0,6.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\allocators\win32_leakcheck.h,5,6.0,6.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\attr.h,3,6.0,6.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\indexer.h,4,6.0,6.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\libgit2.h,3,6.0,6.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\win32\w32_buffer.h,3,10.0,6.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\xdiff\xprepare.h,7,21.0,6.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\index\conflicts.h,1,0.0,6.0
+libgit2,Bourne Shell,D:\clones\libgit2\ci\setup-osx.sh,3,0.0,5.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\ntlmclient\util.h,3,7.0,5.0
+libgit2,diff,D:\clones\libgit2\fuzzers\corpora\patch_parse\edit-file.diff,0,8.0,5.0
+libgit2,C/C++ Header,D:\clones\libgit2\fuzzers\standalone_driver.h,3,6.0,5.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\transaction.h,3,6.0,5.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\transports\ssh.h,3,6.0,5.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\win32\error.h,4,6.0,5.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\clar_libgit2_trace.h,2,0.0,5.0
+libgit2,C,D:\clones\libgit2\tests\headertest.c,1,7.0,5.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\repo\repo_helpers.h,2,0.0,5.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\reset\reset_helpers.h,2,0.0,5.0
+libgit2,CMake,D:\clones\libgit2\deps\http-parser\CMakeLists.txt,2,0.0,4.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\perf\helper__perf__do_merge.h,0,0.0,4.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\precompiled.h,0,0.0,4.0
+libgit2,JSON,D:\clones\libgit2\.devcontainer\devcontainer.json,0,0.0,3.0
+libgit2,C/C++ Header,D:\clones\libgit2\src\settings.h,2,6.0,3.0
+libgit2,Bourne Shell,D:\clones\libgit2\script\valgrind.sh,0,0.0,2.0
+libgit2,Bourne Shell,D:\clones\libgit2\tests\resources\template\hooks\update.sample,1,6.0,2.0
+libgit2,C/C++ Header,D:\clones\libgit2\deps\zlib\inffast.h,2,8.0,1.0
+libgit2,C,D:\clones\libgit2\tests\precompiled.c,0,0.0,1.0
+libgit2,C/C++ Header,D:\clones\libgit2\tests\refs\ref_helpers.h,0,0.0,1.0
+libgit2,Markdown,D:\clones\libgit2\tests\resources\attr_index\README.md,0,0.0,1.0
+libgit2,Markdown,D:\clones\libgit2\tests\resources\attr_index\sub\sub\README.md,0,0.0,1.0

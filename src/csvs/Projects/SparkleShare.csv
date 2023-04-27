@@ -1,0 +1,183 @@
+project,language,filename,blank,comment,code
+SparkleShare,SVG,D:\clones\SparkleShare\SparkleShare\Common\Images\Sources\tutorial-slides.svg,1,1.0,5902.0
+SparkleShare,SVG,D:\clones\SparkleShare\SparkleShare\Common\Images\Sources\side-splash.svg,1,1.0,3750.0
+SparkleShare,SVG,D:\clones\SparkleShare\SparkleShare\Common\Images\Sources\status-icons.svg,1,1.0,3663.0
+SparkleShare,SVG,D:\clones\SparkleShare\SparkleShare\Common\Images\Sources\about-dialog.svg,1,1.0,3492.0
+SparkleShare,SVG,D:\clones\SparkleShare\SparkleShare\Common\Images\Sources\app-icons.svg,1,1.0,2351.0
+SparkleShare,XML,D:\clones\SparkleShare\SparkleShare\Mac\MainMenu.xib,0,0.0,2195.0
+SparkleShare,SVG,D:\clones\SparkleShare\SparkleShare\Common\Images\Sources\folder-icons-mac-yosemite.svg,1,1.0,1498.0
+SparkleShare,SVG,D:\clones\SparkleShare\SparkleShare\Common\Images\Sources\folder-icons-windows.svg,1,1.0,1158.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\Git\Git.Repository.cs,313,75.0,727.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Windows\UserInterface\Setup.cs,195,18.0,605.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Mac\UserInterface\Setup.cs,218,17.0,586.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Common\BaseController.cs,215,30.0,518.0
+SparkleShare,Markdown,D:\clones\SparkleShare\LICENSE.md,108,0.0,513.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Linux\Setup.cs,184,20.0,500.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Common\EventLogController.cs,165,17.0,476.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\BaseRepository.cs,191,38.0,442.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Common\SetupController.cs,146,25.0,395.0
+SparkleShare,MSBuild script,D:\clones\SparkleShare\SparkleShare\Mac\SparkleShare.Mac.csproj,0,0.0,330.0
+SparkleShare,MSBuild script,D:\clones\SparkleShare\SparkleShare\Windows\SparkleShare.Windows.csproj,0,0.0,329.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\Git\Git.Fetcher.cs,123,26.0,303.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Mac\UserInterface\EventLog.cs,88,15.0,302.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Common\StatusIconController.cs,104,20.0,276.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Windows\UserInterface\EventLog.cs,74,16.0,257.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Windows\UserInterface\StatusIcon.cs,66,16.0,257.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\Configuration.cs,101,17.0,241.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\pl.po,89,109.0,232.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\ru.po,89,113.0,223.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\de.po,89,125.0,222.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\nl.po,89,116.0,222.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\sv.po,89,115.0,220.0
+SparkleShare,SVG,D:\clones\SparkleShare\SparkleShare\Common\Images\Sources\actions.svg,0,1.0,219.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\fr.po,89,114.0,218.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\no_NO.po,89,111.0,218.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\ar.po,89,109.0,216.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\bg.po,89,109.0,213.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\sl.po,89,109.0,213.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\ca.po,89,112.0,212.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\cs_CZ.po,89,112.0,212.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\hu.po,89,109.0,211.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\uk.po,89,109.0,211.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\da.po,89,109.0,210.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\fi.po,89,111.0,210.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\nn_NO.po,89,109.0,210.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\he.po,89,109.0,209.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\sk.po,89,109.0,209.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\eo.po,89,110.0,208.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\te.po,89,108.0,208.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\ja.po,89,111.0,207.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\zh_TW.po,89,108.0,207.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Linux\StatusIcon.cs,74,18.0,201.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\es.po,83,111.0,200.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\pt_BR.po,83,110.0,200.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\it.po,83,110.0,198.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Mac\UserInterface\StatusIcon.cs,75,14.0,197.0
+SparkleShare,SVG,D:\clones\SparkleShare\SparkleShare\Common\Images\Sources\gitlab.svg,1,1.0,193.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\el.po,84,112.0,193.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\sr_RS.po,83,109.0,187.0
+SparkleShare,PO File,D:\clones\SparkleShare\SparkleShare\Common\Translations\zh_CN.po,83,108.0,187.0
+SparkleShare,HTML,D:\clones\SparkleShare\SparkleShare\Common\HTML\event-log.html,37,1.0,186.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\BaseFetcher.cs,75,21.0,186.0
+SparkleShare,MSBuild script,D:\clones\SparkleShare\SparkleShare\Linux\SparkleShare.Linux.csproj,0,0.0,169.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Mac\Controller.cs,64,19.0,163.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\TcpListener.cs,66,30.0,163.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Linux\EventLog.cs,60,15.0,162.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Mac\UserInterface\Note.cs,54,14.0,159.0
+SparkleShare,SVG,D:\clones\SparkleShare\SparkleShare\Common\Images\Sources\folder-icons-mac.svg,0,1.0,143.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\Git\Git.Command.cs,68,21.0,143.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\BaseListener.cs,58,17.0,141.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Mac\UserInterface\About.cs,52,14.0,140.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Windows\UserInterface\SetupWindow.cs,47,16.0,130.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Windows\UserInterface\Shortcut.cs,48,15.0,130.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Windows\UserInterface\Controller.cs,52,18.0,129.0
+SparkleShare,Markdown,D:\clones\SparkleShare\LICENSE_Sparkles.md,38,0.0,128.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Windows\UserInterface\About.cs,41,15.0,127.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Mac\Watcher.cs,45,25.0,126.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Windows\UserInterface\NotifyIcon.cs,44,18.0,126.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\Extensions.cs,37,17.0,121.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Linux\UserInterface.cs,40,16.0,116.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Linux\About.cs,42,15.0,109.0
+SparkleShare,MSBuild script,D:\clones\SparkleShare\Sparkles\Sparkles.csproj,0,0.0,98.0
+SparkleShare,XML,D:\clones\SparkleShare\SparkleShare\Windows\SparkleShare.vssettings,0,0.0,97.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Linux\Controller.cs,40,15.0,96.0
+SparkleShare,Markdown,D:\clones\SparkleShare\SparkleShare\Linux\README.md,35,0.0,95.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Mac\UserInterface\SetupWindow.cs,37,15.0,93.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Linux\SetupWindow.cs,38,15.0,87.0
+SparkleShare,Visual Studio Solution,D:\clones\SparkleShare\SparkleShare.sln,2,1.0,86.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\SSHFetcher.cs,38,15.0,85.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Common\Avatars.cs,31,23.0,83.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Windows\UserInterface\Note.xaml.cs,25,15.0,83.0
+SparkleShare,MSBuild script,D:\clones\SparkleShare\Sparkles\Git\Sparkles.Git.csproj,0,7.0,82.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\Preset.cs,26,15.0,82.0
+SparkleShare,SVG,D:\clones\SparkleShare\SparkleShare\Common\Images\Sources\github.svg,0,1.0,81.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\Command.cs,35,19.0,81.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Linux\Note.cs,38,26.0,80.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\InstallationInfo.cs,26,19.0,79.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\SSHAuthenticationInfo.cs,34,16.0,78.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\Invite.cs,26,15.0,77.0
+SparkleShare,XML,D:\clones\SparkleShare\SparkleShare\Linux\org.sparkleshare.SparkleShare.appdata.xml,7,0.0,74.0
+SparkleShare,WiX source,D:\clones\SparkleShare\SparkleShare\Windows\SparkleShare.wxs,12,0.0,70.0
+SparkleShare,SVG,D:\clones\SparkleShare\SparkleShare\Linux\Images\icons\hicolor\symbolic\status\org.sparkleshare.SparkleShare-syncing-symbolic.svg,1,1.0,69.0
+SparkleShare,SVG,D:\clones\SparkleShare\SparkleShare\Linux\Images\icons\hicolor\symbolic\status\org.sparkleshare.SparkleShare-syncing-down-symbolic.svg,1,1.0,68.0
+SparkleShare,SVG,D:\clones\SparkleShare\SparkleShare\Linux\Images\icons\hicolor\symbolic\status\org.sparkleshare.SparkleShare-syncing-up-symbolic.svg,1,1.0,68.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\Logger.cs,25,15.0,68.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\ChangeSet.cs,29,15.0,67.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\Tests\Test.cs,25,22.0,66.0
+SparkleShare,SVG,D:\clones\SparkleShare\SparkleShare\Linux\Images\icons\hicolor\symbolic\status\org.sparkleshare.SparkleShare-syncing-error-symbolic.svg,1,1.0,64.0
+SparkleShare,MSBuild script,D:\clones\SparkleShare\SparkleShare\Windows\SparkleShareInviteOpener\SparkleShareInviteOpener.csproj,0,7.0,61.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Windows\UserInterface\Spinner.cs,17,15.0,59.0
+SparkleShare,XML,D:\clones\SparkleShare\SparkleShare\Mac\SparkleShareInviteOpener.app\Contents\Info.plist,0,0.0,57.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Linux\UserInterfaceHelpers.cs,22,17.0,56.0
+SparkleShare,Meson,D:\clones\SparkleShare\SparkleShare\Linux\meson.build,13,3.0,55.0
+SparkleShare,MSBuild script,D:\clones\SparkleShare\Sparkles\Tests\Sparkles.Tests.csproj,0,0.0,51.0
+SparkleShare,Meson,D:\clones\SparkleShare\SparkleShare\Linux\Images\icons\meson.build,22,3.0,49.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Common\AboutController.cs,21,15.0,48.0
+SparkleShare,SVG,D:\clones\SparkleShare\SparkleShare\Common\Images\Sources\bitbucket.svg,0,1.0,47.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Mac\UserInterface\UserInterface.cs,20,16.0,47.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Windows\UserInterface\UserInterfaceHelpers.cs,16,15.0,46.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Common\NoteController.cs,22,15.0,43.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Windows\UserInterface\UserInterface.cs,13,18.0,42.0
+SparkleShare,Dockerfile,D:\clones\SparkleShare\scripts\ci\Dockerfile,12,0.0,42.0
+SparkleShare,Markdown,D:\clones\SparkleShare\.github\AUTHORS.md,7,0.0,41.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Common\BubblesController.cs,15,15.0,37.0
+SparkleShare,XAML,D:\clones\SparkleShare\SparkleShare\Windows\UserInterface\Note.xaml,0,0.0,37.0
+SparkleShare,HTML,D:\clones\SparkleShare\SparkleShare\Common\HTML\protocol-handler-test\protocol-handler-test.htm,3,0.0,35.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Linux\Bubbles.cs,15,15.0,35.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Windows\SparkleShareInviteOpener\sparkleshare-invite-opener.cs,16,18.0,35.0
+SparkleShare,SVG,D:\clones\SparkleShare\SparkleShare\Common\Images\Sources\user-icon-default.svg,0,1.0,34.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Common\SparkleShare.cs,15,17.0,34.0
+SparkleShare,Markdown,D:\clones\SparkleShare\SparkleShare\Mac\README.md,24,0.0,34.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Windows\UserInterface\ProtocolHandler.cs,8,32.0,34.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\Watcher.cs,15,15.0,32.0
+SparkleShare,Bourne Shell,D:\clones\SparkleShare\SparkleShare\Mac\checkGit.sh,11,0.0,31.0
+SparkleShare,Markdown,D:\clones\SparkleShare\README.md,25,0.0,29.0
+SparkleShare,Meson,D:\clones\SparkleShare\Sparkles\meson.build,4,0.0,29.0
+SparkleShare,Markdown,D:\clones\SparkleShare\.github\CODE_OF_CONDUCT.md,18,0.0,28.0
+SparkleShare,YAML,D:\clones\SparkleShare\.travis.yml,6,0.0,28.0
+SparkleShare,XML,D:\clones\SparkleShare\SparkleShare\Mac\Info.plist,0,0.0,26.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\ListenerFactory.cs,14,26.0,26.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Mac\UserInterface\Bubbles.cs,11,16.0,25.0
+SparkleShare,XSLT,D:\clones\SparkleShare\SparkleShare\Common\Presets\parse_plugins.xsl,7,2.0,24.0
+SparkleShare,Markdown,D:\clones\SparkleShare\SparkleShare\Windows\README.md,19,0.0,24.0
+SparkleShare,DOS Batch,D:\clones\SparkleShare\SparkleShare\Windows\build.cmd,5,0.0,23.0
+SparkleShare,XML,D:\clones\SparkleShare\SparkleShare\Common\SparkleShare.projitems,0,0.0,22.0
+SparkleShare,XML,D:\clones\SparkleShare\SparkleShare\Common\Presets\bitbucket.xml,1,0.0,21.0
+SparkleShare,XML,D:\clones\SparkleShare\SparkleShare\Common\Presets\github.xml,0,0.0,21.0
+SparkleShare,XML,D:\clones\SparkleShare\SparkleShare\Common\Presets\gitlab.xml,1,0.0,20.0
+SparkleShare,XML,D:\clones\SparkleShare\SparkleShare\Common\Presets\own-server.xml,1,0.0,19.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\SSHCommand.cs,9,15.0,19.0
+SparkleShare,XML,D:\clones\SparkleShare\SparkleShare\Windows\SparkleShare.sln.DotSettings,0,0.0,18.0
+SparkleShare,Bourne Shell,D:\clones\SparkleShare\SparkleShare\Mac\packReleaseDist.sh,5,2.0,17.0
+SparkleShare,SVG,D:\clones\SparkleShare\SparkleShare\Linux\Images\icons\hicolor\symbolic\apps\org.sparkleshare.SparkleShare-symbolic.svg,0,1.0,16.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Windows\SparkleShareInviteOpener\Properties\AssemblyInfo.cs,4,17.0,15.0
+SparkleShare,XML,D:\clones\SparkleShare\SparkleShare\Common\SparkleShare.shproj,0,0.0,14.0
+SparkleShare,Bourne Shell,D:\clones\SparkleShare\scripts\bump-version.sh,2,0.0,14.0
+SparkleShare,Markdown,D:\clones\SparkleShare\.github\ISSUE_TEMPLATE.md,7,0.0,13.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Windows\UserInterface\Bubbles.cs,7,15.0,13.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\User.cs,7,15.0,12.0
+SparkleShare,HTML,D:\clones\SparkleShare\SparkleShare\Common\HTML\event-entry.html,0,2.0,11.0
+SparkleShare,Bourne Shell,D:\clones\SparkleShare\SparkleShare\Mac\postBuild.sh,4,1.0,10.0
+SparkleShare,Meson,D:\clones\SparkleShare\SparkleShare\Common\Images\meson.build,2,0.0,9.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\InstallationInfo.Directory.cs,5,15.0,9.0
+SparkleShare,Meson,D:\clones\SparkleShare\meson.build,6,1.0,9.0
+SparkleShare,Meson,D:\clones\SparkleShare\SparkleShare\Common\HTML\meson.build,2,0.0,8.0
+SparkleShare,XML,D:\clones\SparkleShare\SparkleShare\Common\HTML\protocol-handler-test\invite.xml,1,0.0,8.0
+SparkleShare,Meson,D:\clones\SparkleShare\SparkleShare\Common\Presets\meson.build,2,0.0,8.0
+SparkleShare,Meson,D:\clones\SparkleShare\Sparkles\Git\meson.build,2,0.0,8.0
+SparkleShare,Dockerfile,D:\clones\SparkleShare\scripts\ci\flatpak\Dockerfile,5,0.0,8.0
+SparkleShare,Markdown,D:\clones\SparkleShare\.github\CONTRIBUTING.md,7,0.0,7.0
+SparkleShare,C#,D:\clones\SparkleShare\SparkleShare\Mac\AppDelegate.cs,3,15.0,7.0
+SparkleShare,XML,D:\clones\SparkleShare\SparkleShare\Windows\packages.config,0,0.0,7.0
+SparkleShare,C# Designer,D:\clones\SparkleShare\SparkleShare\Mac\MainMenu.xib.designer.cs,3,10.0,5.0
+SparkleShare,C#,D:\clones\SparkleShare\Sparkles\AuthenticationInfo.cs,3,15.0,5.0
+SparkleShare,Bourne Shell,D:\clones\SparkleShare\scripts\post-install.sh,3,0.0,5.0
+SparkleShare,HTML,D:\clones\SparkleShare\SparkleShare\Common\HTML\day-entry.html,0,0.0,4.0
+SparkleShare,Bourne Again Shell,D:\clones\SparkleShare\SparkleShare\Common\Translations\sort-potfiles,2,0.0,4.0
+SparkleShare,Meson,D:\clones\SparkleShare\SparkleShare\Linux\Images\meson.build,2,0.0,4.0
+SparkleShare,Meson,D:\clones\SparkleShare\SparkleShare\meson.build,1,0.0,4.0
+SparkleShare,XML,D:\clones\SparkleShare\Sparkles\Tests\packages.config,0,0.0,4.0
+SparkleShare,JavaScript,D:\clones\SparkleShare\SparkleShare\Common\HTML\jquery.js,0,15.0,3.0
+SparkleShare,XML,D:\clones\SparkleShare\SparkleShare\Windows\SparkleShareInviteOpener\app.config,0,0.0,3.0
+SparkleShare,XML,D:\clones\SparkleShare\SparkleShare\Windows\app.config,0,0.0,3.0
+SparkleShare,YAML,D:\clones\SparkleShare\.github\FUNDING.yml,0,0.0,1.0

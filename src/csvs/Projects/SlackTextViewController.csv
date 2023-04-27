@@ -1,0 +1,114 @@
+project,language,filename,blank,comment,code
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Source\SLKTextViewController.m,536,170.0,1742.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Source\SLKTextView.m,260,43.0,843.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Source\SLKTextInputbar.m,176,18.0,611.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Examples\Messenger-Shared\MessageViewController.m,188,31.0,556.0
+SlackTextViewController,Swift,D:\clones\SlackTextViewController\Examples\Messenger-Swift\MessageViewController.swift,201,40.0,512.0
+SlackTextViewController,Markdown,D:\clones\SlackTextViewController\README.md,142,0.0,412.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Source\SLKTypingIndicatorView.m,86,12.0,248.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Examples\Pods\LoremIpsum\LoremIpsum\LoremIpsum.m,54,13.0,244.0
+SlackTextViewController,Markdown,D:\clones\SlackTextViewController\CHANGELOG.md,52,0.0,143.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Source\SLKTextView+SLKAdditions.m,41,15.0,129.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Source\SLKTextViewController.h,148,349.0,129.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Examples\Messenger-Shared\TypingIndicatorView.m,42,7.0,125.0
+SlackTextViewController,JSON,D:\clones\SlackTextViewController\Examples\Messenger-Shared\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,106.0
+SlackTextViewController,XML,D:\clones\SlackTextViewController\SlackTextViewController\SlackTextViewController.xcodeproj\xcshareddata\xcschemes\SlackTextViewController.xcscheme,0,0.0,106.0
+SlackTextViewController,XML,D:\clones\SlackTextViewController\Examples\Messenger-Storyboard\Base.lproj\Main.storyboard,0,4.0,105.0
+SlackTextViewController,XML,D:\clones\SlackTextViewController\SlackTextViewController\SlackTextViewController.xcodeproj\xcshareddata\xcschemes\SlackTextViewControllerTests.xcscheme,0,0.0,102.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Source\SLKTextInput+Implementation.m,39,17.0,97.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Examples\Messenger-Shared\MessageTableViewCell.m,24,7.0,94.0
+SlackTextViewController,Markdown,D:\clones\SlackTextViewController\Examples\Pods\LoremIpsum\Readme.markdown,35,0.0,85.0
+SlackTextViewController,Bourne Shell,D:\clones\SlackTextViewController\Examples\Pods\Target Support Files\Pods\Pods-resources.sh,9,1.0,85.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\File Templates\SlackTextView Controller.xctemplate\UICollectionView\___FILEBASENAME___.m,80,133.0,82.0
+SlackTextViewController,JSON,D:\clones\SlackTextViewController\Examples\Messenger-Shared\Images.xcassets\LaunchImage.launchimage\Contents.json,0,0.0,80.0
+SlackTextViewController,XML,D:\clones\SlackTextViewController\File Templates\SlackTextView Controller.xctemplate\TemplateInfo.plist,0,0.0,77.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\File Templates\SlackTextView Controller.xctemplate\UITableView\___FILEBASENAME___.m,67,110.0,65.0
+SlackTextViewController,XML,D:\clones\SlackTextViewController\Examples\Messenger-Swift\Base.lproj\Main.storyboard,0,3.0,64.0
+SlackTextViewController,XML,D:\clones\SlackTextViewController\Examples\Pods\Target Support Files\Pods\Pods-acknowledgements.plist,6,0.0,64.0
+SlackTextViewController,Bourne Shell,D:\clones\SlackTextViewController\Examples\Pods\Target Support Files\Pods\Pods-frameworks.sh,13,9.0,62.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Source\SLKTextView.h,45,65.0,60.0
+SlackTextViewController,XML,D:\clones\SlackTextViewController\Examples\Messenger-Storyboard\Info.plist,0,0.0,56.0
+SlackTextViewController,XML,D:\clones\SlackTextViewController\Examples\Messenger-Programatic\Info.plist,0,0.0,55.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Pods\LoremIpsum\LoremIpsum\LoremIpsum.h,37,141.0,55.0
+SlackTextViewController,XML,D:\clones\SlackTextViewController\Examples\Messenger-Swift\Info.plist,0,0.0,54.0
+SlackTextViewController,XML,D:\clones\SlackTextViewController\Examples\Messenger-iPad-Sheet\Info.plist,0,0.0,52.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Source\UIScrollView+SLKAdditions.m,13,7.0,52.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Source\UIView+SLKAdditions.m,11,7.0,52.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Source\SLKTextInputbar.h,44,61.0,47.0
+SlackTextViewController,XML,D:\clones\SlackTextViewController\Examples\Messenger.xcodeproj\project.xcworkspace\xcshareddata\Messenger.xccheckout,0,0.0,41.0
+SlackTextViewController,XML,D:\clones\SlackTextViewController\SlackTextViewController\SlackTextViewController.xcodeproj\xcshareddata\xcbaselines\F5B4E78D1C4DA053005CBBE0.xcbaseline\Info.plist,0,0.0,40.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Source\SLKUIConstants.h,9,12.0,40.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\SlackTextViewController\SlackTextViewControllerTests\FrameworkTests.m,13,7.0,39.0
+SlackTextViewController,XML,D:\clones\SlackTextViewController\Examples\Messenger.xcworkspace\contents.xcworkspacedata,0,0.0,38.0
+SlackTextViewController,Markdown,D:\clones\SlackTextViewController\Examples\Pods\Target Support Files\Pods\Pods-acknowledgements.markdown,10,0.0,26.0
+SlackTextViewController,XML,D:\clones\SlackTextViewController\SlackTextViewController\SlackTextViewController\Info.plist,0,0.0,26.0
+SlackTextViewController,JSON,D:\clones\SlackTextViewController\Examples\Pods\Local Podspecs\SlackTextViewController.podspec.json,0,0.0,25.0
+SlackTextViewController,Markdown,D:\clones\SlackTextViewController\.github\CODE_OF_CONDUCT.md,10,0.0,24.0
+SlackTextViewController,XML,D:\clones\SlackTextViewController\SlackTextViewController\SlackTextViewControllerTests\Info.plist,0,0.0,24.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Source\SLKTextView+SLKAdditions.h,34,74.0,23.0
+SlackTextViewController,Markdown,D:\clones\SlackTextViewController\.github\CONTRIBUTING.md,11,0.0,22.0
+SlackTextViewController,XML,D:\clones\SlackTextViewController\SlackTextViewController\SlackTextViewController.xcodeproj\xcshareddata\xcbaselines\F5B4E78D1C4DA053005CBBE0.xcbaseline\F8445E9E-5B76-4616-90F9-7D94D0E1142F.plist,0,0.0,22.0
+SlackTextViewController,JSON,D:\clones\SlackTextViewController\Examples\Messenger-Shared\Images.xcassets\Icons\icn_arrow_down.imageset\Contents.json,0,0.0,21.0
+SlackTextViewController,JSON,D:\clones\SlackTextViewController\Examples\Messenger-Shared\Images.xcassets\Icons\icn_arrow_up.imageset\Contents.json,0,0.0,21.0
+SlackTextViewController,Markdown,D:\clones\SlackTextViewController\.github\ISSUE_TEMPLATE.md,9,0.0,20.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Examples\Messenger-iPad-Sheet\AppDelegate.m,8,7.0,20.0
+SlackTextViewController,XML,D:\clones\SlackTextViewController\Examples\Messenger-Swift\Base.lproj\LaunchScreen.xib,0,0.0,19.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Examples\Messenger-Shared\MessageTextView.m,8,8.0,18.0
+SlackTextViewController,Ruby,D:\clones\SlackTextViewController\SlackTextViewController.podspec,3,0.0,17.0
+SlackTextViewController,YAML,D:\clones\SlackTextViewController\.travis.yml,5,0.0,15.0
+SlackTextViewController,JSON,D:\clones\SlackTextViewController\Examples\Messenger-Shared\Images.xcassets\Icons\icn_append.imageset\Contents.json,0,0.0,15.0
+SlackTextViewController,JSON,D:\clones\SlackTextViewController\Examples\Messenger-Shared\Images.xcassets\Icons\icn_editing.imageset\Contents.json,0,0.0,15.0
+SlackTextViewController,JSON,D:\clones\SlackTextViewController\Examples\Messenger-Shared\Images.xcassets\Icons\icn_pic.imageset\Contents.json,0,0.0,15.0
+SlackTextViewController,JSON,D:\clones\SlackTextViewController\Examples\Messenger-Shared\Images.xcassets\Icons\icn_typing.imageset\Contents.json,0,0.0,15.0
+SlackTextViewController,JSON,D:\clones\SlackTextViewController\Examples\Messenger-Shared\Images.xcassets\Icons\icn_upload.imageset\Contents.json,0,0.0,15.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Source\SLKTypingIndicatorView.h,20,29.0,15.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\SlackTextViewController\SlackTextViewController\SlackTextViewController.h,5,7.0,14.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Source\UIResponder+SLKAdditions.m,7,10.0,14.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Examples\Messenger-Programatic\AppDelegate.m,7,7.0,13.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Messenger-Shared\MessageTableViewCell.h,9,7.0,13.0
+SlackTextViewController,Markdown,D:\clones\SlackTextViewController\.github\PULL_REQUEST_TEMPLATE.md,3,0.0,12.0
+SlackTextViewController,Bourne Shell,D:\clones\SlackTextViewController\File Templates\install.sh,7,6.0,11.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Source\SLKInputAccessoryView.m,6,7.0,11.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Source\UIView+SLKAdditions.h,14,33.0,10.0
+SlackTextViewController,Swift,D:\clones\SlackTextViewController\Examples\Messenger-Swift\AppDelegate.swift,6,7.0,9.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Source\SLKTypingIndicatorProtocol.h,8,16.0,9.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Source\UIScrollView+SLKAdditions.h,9,22.0,9.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Examples\Messenger-Programatic\main.m,3,7.0,8.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Messenger-Shared\TypingIndicatorView.h,5,7.0,8.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Examples\Messenger-Storyboard\AppDelegate.m,5,7.0,8.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Source\SLKTextInput.h,10,28.0,8.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Examples\Messenger-Storyboard\ViewController.m,4,7.0,7.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Examples\Messenger-Storyboard\main.m,2,7.0,7.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Examples\Messenger-iPad-Sheet\main.m,2,7.0,7.0
+SlackTextViewController,XML,D:\clones\SlackTextViewController\Examples\Messenger.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+SlackTextViewController,XML,D:\clones\SlackTextViewController\SlackTextViewController\SlackTextViewController.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Messenger-Shared\Bridge-Header.h,3,3.0,6.0
+SlackTextViewController,JSON,D:\clones\SlackTextViewController\Examples\Messenger-Shared\Images.xcassets\Icons\Contents.json,0,0.0,6.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Messenger-Shared\Message.h,4,7.0,6.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Examples\Pods\Target Support Files\LoremIpsum\LoremIpsum-dummy.m,0,0.0,5.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Examples\Pods\Target Support Files\Pods\Pods-dummy.m,0,0.0,5.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Examples\Pods\Target Support Files\SlackTextViewController\SlackTextViewController-dummy.m,0,0.0,5.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Messenger-Programatic\AppDelegate.h,5,7.0,4.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Messenger-Storyboard\AppDelegate.h,5,7.0,4.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Messenger-Storyboard\ViewController.h,4,7.0,4.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Messenger-iPad-Sheet\AppDelegate.h,5,7.0,4.0
+SlackTextViewController,Markdown,D:\clones\SlackTextViewController\Examples\Pods\LoremIpsum\License.markdown,3,0.0,4.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Source\SLKInputAccessoryView.h,4,8.0,4.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Source\UIResponder+SLKAdditions.h,5,12.0,4.0
+SlackTextViewController,Objective-C,D:\clones\SlackTextViewController\Examples\Messenger-Shared\Message.m,3,7.0,3.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Messenger-Shared\MessageTextView.h,3,7.0,3.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Messenger-Shared\MessageViewController.h,3,7.0,3.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\File Templates\SlackTextView Controller.xctemplate\UITableView\___FILEBASENAME___.h,3,7.0,3.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Pods\Headers\Public\LoremIpsum\LoremIpsum.h,0,0.0,1.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Pods\Headers\Public\SlackTextViewController\SLKInputAccessoryView.h,0,0.0,1.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Pods\Headers\Public\SlackTextViewController\SLKTextInput.h,0,0.0,1.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Pods\Headers\Public\SlackTextViewController\SLKTextInputbar.h,0,0.0,1.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Pods\Headers\Public\SlackTextViewController\SLKTextView+SLKAdditions.h,0,0.0,1.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Pods\Headers\Public\SlackTextViewController\SLKTextView.h,0,0.0,1.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Pods\Headers\Public\SlackTextViewController\SLKTextViewController.h,0,0.0,1.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Pods\Headers\Public\SlackTextViewController\SLKTypingIndicatorProtocol.h,0,0.0,1.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Pods\Headers\Public\SlackTextViewController\SLKTypingIndicatorView.h,0,0.0,1.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Pods\Headers\Public\SlackTextViewController\SLKUIConstants.h,0,0.0,1.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Pods\Headers\Public\SlackTextViewController\UIResponder+SLKAdditions.h,0,0.0,1.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Pods\Headers\Public\SlackTextViewController\UIScrollView+SLKAdditions.h,0,0.0,1.0
+SlackTextViewController,C/C++ Header,D:\clones\SlackTextViewController\Examples\Pods\Headers\Public\SlackTextViewController\UIView+SLKAdditions.h,0,0.0,1.0

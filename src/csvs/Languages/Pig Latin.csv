@@ -1,0 +1,5 @@
+project,language,filename,blank,comment,code
+reddit,Pig Latin,D:\clones\reddit\scripts\traffic\mr_aggregate.pig,35,22.0,100.0
+reddit,Pig Latin,D:\clones\reddit\scripts\traffic\mr_coalesce.pig,35,23.0,48.0
+reddit,Pig Latin,D:\clones\reddit\scripts\migrate\comment-participation.pig,21,1.0,41.0
+reddit,Pig Latin,D:\clones\reddit\scripts\traffic\mr_process_hour.pig,30,34.0,81.0

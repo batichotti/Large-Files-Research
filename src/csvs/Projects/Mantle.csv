@@ -1,0 +1,73 @@
+project,language,filename,blank,comment,code
+Mantle,Objective-C,D:\clones\Mantle\Mantle\extobjc\MTLEXTRuntimeExtensions.m,180,155.0,607.0
+Mantle,Objective-C,D:\clones\Mantle\MantleTests\MTLJSONAdapterSpec.m,151,10.0,539.0
+Mantle,Objective-C,D:\clones\Mantle\Mantle\MTLJSONAdapter.m,169,41.0,471.0
+Mantle,C/C++ Header,D:\clones\Mantle\Mantle\extobjc\include\MTLMetamacros.h,99,133.0,435.0
+Mantle,Objective-C,D:\clones\Mantle\MantleTests\MTLTestModel.m,161,9.0,408.0
+Mantle,Markdown,D:\clones\Mantle\README.md,146,0.0,392.0
+Mantle,Objective-C,D:\clones\Mantle\Mantle\NSValueTransformer+MTLPredefinedTransformerAdditions.m,81,7.0,359.0
+Mantle,Objective-C,D:\clones\Mantle\MantleTests\MTLPredefinedTransformerAdditionsSpec.m,59,9.0,236.0
+Mantle,Objective-C,D:\clones\Mantle\Mantle\MTLModel.m,79,51.0,206.0
+Mantle,Objective-C,D:\clones\Mantle\Mantle\MTLModel+NSCoding.m,59,32.0,174.0
+Mantle,Objective-C,D:\clones\Mantle\MantleTests\MTLModelSpec.m,46,7.0,151.0
+Mantle,XML,D:\clones\Mantle\Mantle.xcodeproj\xcshareddata\xcschemes\Mantle Mac.xcscheme,0,0.0,138.0
+Mantle,XML,D:\clones\Mantle\Mantle.xcodeproj\xcshareddata\xcschemes\Mantle iOS.xcscheme,0,0.0,137.0
+Mantle,XML,D:\clones\Mantle\Mantle.xcodeproj\xcshareddata\xcschemes\Mantle-tvOS.xcscheme,0,0.0,137.0
+Mantle,Markdown,D:\clones\Mantle\CHANGELOG.md,57,0.0,131.0
+Mantle,C/C++ Header,D:\clones\Mantle\MantleTests\MTLTestModel.h,91,35.0,103.0
+Mantle,Objective-C,D:\clones\Mantle\MantleTests\MTLModelNSCodingSpec.m,36,8.0,102.0
+Mantle,Objective-C,D:\clones\Mantle\Mantle\MTLValueTransformer.m,44,11.0,95.0
+Mantle,XML,D:\clones\Mantle\Mantle.xcodeproj\xcshareddata\xcschemes\Mantle-watchOS.xcscheme,0,0.0,76.0
+Mantle,C/C++ Header,D:\clones\Mantle\Mantle\extobjc\include\MTLEXTRuntimeExtensions.h,48,285.0,56.0
+Mantle,Objective-C,D:\clones\Mantle\MantleTests\MTLArrayManipulationSpec.m,12,7.0,53.0
+Mantle,YAML,D:\clones\Mantle\.github\workflows\ci-pull-requests-only.yml,8,0.0,47.0
+Mantle,Objective-C,D:\clones\Mantle\MantleTests\MTLDictionaryManipulationSpec.m,13,7.0,47.0
+Mantle,C/C++ Header,D:\clones\Mantle\Mantle\include\MTLJSONAdapter.h,39,203.0,45.0
+Mantle,Objective-C,D:\clones\Mantle\MantleTests\MTLTransformerErrorExamples.m,14,7.0,44.0
+Mantle,Markdown,D:\clones\Mantle\ACTIONS.md,18,0.0,39.0
+Mantle,Objective-C,D:\clones\Mantle\MantleTests\MTLValueTransformerInversionAdditionsSpec.m,16,7.0,38.0
+Mantle,YAML,D:\clones\Mantle\.github\workflows\carthage-artifact-release-upload.yml,5,0.0,37.0
+Mantle,Objective-C,D:\clones\Mantle\MantleTests\MTLValueTransformerSpec.m,12,7.0,36.0
+Mantle,C/C++ Header,D:\clones\Mantle\Mantle\extobjc\include\MTLEXTScope.h,15,74.0,33.0
+Mantle,Objective-C,D:\clones\Mantle\MantleTests\MTLComparisonAdditionsSpec.m,12,10.0,32.0
+Mantle,Objective-C,D:\clones\Mantle\MantleTests\MTLModelValidationSpec.m,15,7.0,31.0
+Mantle,JSON,D:\clones\Mantle\Mantle.podspec.json,0,0.0,30.0
+Mantle,Objective-C,D:\clones\Mantle\Mantle\MTLReflection.m,14,7.0,29.0
+Mantle,C/C++ Header,D:\clones\Mantle\Mantle\include\Mantle.h,4,9.0,28.0
+Mantle,Swift,D:\clones\Mantle\Package.swift,2,1.0,28.0
+Mantle,YAML,D:\clones\Mantle\.github\workflows\cocoapods-publish.yml,6,3.0,26.0
+Mantle,XML,D:\clones\Mantle\Mantle\Info.plist,0,0.0,26.0
+Mantle,C/C++ Header,D:\clones\Mantle\Mantle\include\MTLModel.h,22,131.0,26.0
+Mantle,Objective-C,D:\clones\Mantle\Mantle\NSDictionary+MTLJSONKeyPath.m,13,9.0,25.0
+Mantle,XML,D:\clones\Mantle\MantleTests\Info.plist,0,0.0,24.0
+Mantle,Objective-C,D:\clones\Mantle\Mantle\NSValueTransformer+MTLInversionAdditions.m,7,7.0,23.0
+Mantle,Objective-C,D:\clones\Mantle\Mantle\NSArray+MTLManipulationAdditions.m,12,8.0,22.0
+Mantle,Objective-C,D:\clones\Mantle\Mantle\NSDictionary+MTLManipulationAdditions.m,10,7.0,21.0
+Mantle,C/C++ Header,D:\clones\Mantle\Mantle\extobjc\include\MTLEXTKeyPathCoding.h,15,41.0,21.0
+Mantle,C/C++ Header,D:\clones\Mantle\Mantle\include\MTLModel+NSCoding.h,13,98.0,21.0
+Mantle,C/C++ Header,D:\clones\Mantle\Mantle\include\NSValueTransformer+MTLPredefinedTransformerAdditions.h,17,84.0,21.0
+Mantle,YAML,D:\clones\Mantle\.github\workflows\stale.yml,4,0.0,17.0
+Mantle,Markdown,D:\clones\Mantle\CONTRIBUTING.md,10,0.0,17.0
+Mantle,C/C++ Header,D:\clones\Mantle\Mantle\include\MTLValueTransformer.h,13,26.0,17.0
+Mantle,Objective-C,D:\clones\Mantle\Mantle\NSError+MTLModelException.m,10,10.0,16.0
+Mantle,Objective-C,D:\clones\Mantle\MantleTests\MTLDictionaryMappingSpec.m,6,7.0,15.0
+Mantle,Objective-C,D:\clones\Mantle\MantleTests\MTLErrorModelExceptionSpec.m,7,7.0,15.0
+Mantle,Objective-C,D:\clones\Mantle\MantleTests\MTLTestJSONAdapter.m,7,7.0,14.0
+Mantle,Markdown,D:\clones\Mantle\LICENSE.md,8,0.0,13.0
+Mantle,XML,D:\clones\Mantle\Mantle.xcworkspace\contents.xcworkspacedata,0,0.0,13.0
+Mantle,C/C++ Header,D:\clones\Mantle\Mantle\include\MTLTransformerErrorHandling.h,9,47.0,10.0
+Mantle,Objective-C,D:\clones\Mantle\Mantle\NSDictionary+MTLMappingAdditions.m,7,7.0,9.0
+Mantle,C/C++ Header,D:\clones\Mantle\Mantle\include\NSDictionary+MTLManipulationAdditions.h,8,15.0,8.0
+Mantle,Swift,D:\clones\Mantle\MantleTests\SwiftSpec.swift,2,9.0,8.0
+Mantle,C/C++ Header,D:\clones\Mantle\Mantle\include\NSArray+MTLManipulationAdditions.h,7,14.0,7.0
+Mantle,C/C++ Header,D:\clones\Mantle\MantleTests\MTLTransformerErrorExamples.h,3,7.0,5.0
+Mantle,Objective-C,D:\clones\Mantle\Mantle\MTLTransformerErrorHandling.m,4,7.0,4.0
+Mantle,C/C++ Header,D:\clones\Mantle\Mantle\NSDictionary+MTLJSONKeyPath.h,4,19.0,4.0
+Mantle,C/C++ Header,D:\clones\Mantle\Mantle\NSError+MTLModelException.h,4,15.0,4.0
+Mantle,Objective-C,D:\clones\Mantle\Mantle\NSObject+MTLComparisonAdditions.m,2,10.0,4.0
+Mantle,Objective-C,D:\clones\Mantle\Mantle\extobjc\MTLEXTScope.m,3,8.0,4.0
+Mantle,C/C++ Header,D:\clones\Mantle\Mantle\include\NSDictionary+MTLMappingAdditions.h,4,13.0,4.0
+Mantle,C/C++ Header,D:\clones\Mantle\Mantle\include\NSValueTransformer+MTLInversionAdditions.h,4,13.0,4.0
+Mantle,C/C++ Header,D:\clones\Mantle\MantleTests\MTLTestJSONAdapter.h,4,9.0,4.0
+Mantle,C/C++ Header,D:\clones\Mantle\Mantle\MTLReflection.h,3,25.0,3.0
+Mantle,C/C++ Header,D:\clones\Mantle\Mantle\include\NSObject+MTLComparisonAdditions.h,2,11.0,2.0

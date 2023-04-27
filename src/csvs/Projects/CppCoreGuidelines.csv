@@ -1,0 +1,14 @@
+project,language,filename,blank,comment,code
+CppCoreGuidelines,Markdown,D:\clones\CppCoreGuidelines\CppCoreGuidelines.md,7309,0.0,15570.0
+CppCoreGuidelines,Python,D:\clones\CppCoreGuidelines\scripts\python\cpplint.py,927,2634.0,2915.0
+CppCoreGuidelines,Markdown,D:\clones\CppCoreGuidelines\docs\gsl-intro.md,104,0.0,184.0
+CppCoreGuidelines,Python,D:\clones\CppCoreGuidelines\scripts\python\md-split.py,34,41.0,132.0
+CppCoreGuidelines,Markdown,D:\clones\CppCoreGuidelines\CONTRIBUTING.md,24,0.0,74.0
+CppCoreGuidelines,make,D:\clones\CppCoreGuidelines\scripts\Makefile,28,27.0,73.0
+CppCoreGuidelines,Markdown,D:\clones\CppCoreGuidelines\README.md,18,0.0,33.0
+CppCoreGuidelines,Python,D:\clones\CppCoreGuidelines\scripts\python\cpplint_wrap.py,5,1.0,31.0
+CppCoreGuidelines,YAML,D:\clones\CppCoreGuidelines\.github\workflows\build.yml,5,0.0,15.0
+CppCoreGuidelines,YAML,D:\clones\CppCoreGuidelines\.travis.yml,6,3.0,13.0
+CppCoreGuidelines,JSON,D:\clones\CppCoreGuidelines\scripts\nodejs\package.json,0,0.0,12.0
+CppCoreGuidelines,Markdown,D:\clones\CppCoreGuidelines\talks\README.md,3,0.0,10.0
+CppCoreGuidelines,Markdown,D:\clones\CppCoreGuidelines\SECURITY.md,2,0.0,3.0

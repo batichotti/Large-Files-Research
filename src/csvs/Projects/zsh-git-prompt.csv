@@ -1,0 +1,14 @@
+project,language,filename,blank,comment,code
+zsh-git-prompt,Haskell,D:\clones\zsh-git-prompt\src\src\BranchParse.hs,29,10.0,117.0
+zsh-git-prompt,Bourne Shell,D:\clones\zsh-git-prompt\zshrc.sh,16,8.0,84.0
+zsh-git-prompt,Markdown,D:\clones\zsh-git-prompt\README.md,32,0.0,61.0
+zsh-git-prompt,Haskell,D:\clones\zsh-git-prompt\src\test\TestBranchParse.hs,13,7.0,56.0
+zsh-git-prompt,Python,D:\clones\zsh-git-prompt\gitstatus.py,11,1.0,53.0
+zsh-git-prompt,Haskell,D:\clones\zsh-git-prompt\src\src\Utils.hs,15,3.0,51.0
+zsh-git-prompt,Haskell,D:\clones\zsh-git-prompt\src\src\StatusParse.hs,13,3.0,39.0
+zsh-git-prompt,Haskell,D:\clones\zsh-git-prompt\src\test\TestFunctional.hs,4,0.0,30.0
+zsh-git-prompt,Haskell,D:\clones\zsh-git-prompt\src\app\Main.hs,7,2.0,28.0
+zsh-git-prompt,YAML,D:\clones\zsh-git-prompt\.travis.yml,6,10.0,20.0
+zsh-git-prompt,Markdown,D:\clones\zsh-git-prompt\LICENSE.md,4,0.0,17.0
+zsh-git-prompt,YAML,D:\clones\zsh-git-prompt\stack.yaml,10,17.0,7.0
+zsh-git-prompt,Haskell,D:\clones\zsh-git-prompt\src\Setup.hs,0,0.0,2.0

@@ -1,0 +1,107 @@
+project,language,filename,blank,comment,code
+exa,Rust,D:\clones\exa\src\options\parser.rs,125,164.0,438.0
+exa,Rust,D:\clones\exa\src\options\view.rs,107,66.0,426.0
+exa,Rust,D:\clones\exa\src\theme\mod.rs,91,48.0,389.0
+exa,Rust,D:\clones\exa\src\output\table.rs,91,42.0,375.0
+exa,Rust,D:\clones\exa\src\output\icons.rs,14,8.0,347.0
+exa,Rust,D:\clones\exa\src\fs\file.rs,93,144.0,328.0
+exa,Rust,D:\clones\exa\src\output\details.rs,79,123.0,283.0
+exa,Rust,D:\clones\exa\src\main.rs,66,32.0,237.0
+exa,Rust,D:\clones\exa\src\fs\feature\xattr.rs,50,5.0,232.0
+exa,Bourne Shell,D:\clones\exa\devtools\dev-create-test-filesystem.sh,92,60.0,225.0
+exa,Rust,D:\clones\exa\src\output\file_name.rs,66,72.0,214.0
+exa,Rust,D:\clones\exa\src\fs\feature\git.rs,53,73.0,210.0
+exa,Rust,D:\clones\exa\src\output\grid_details.rs,63,42.0,204.0
+exa,Rust,D:\clones\exa\src\options\filter.rs,51,69.0,203.0
+exa,Markdown,D:\clones\exa\man\exa_colors.5.md,102,0.0,180.0
+exa,Rust,D:\clones\exa\src\fs\filter.rs,67,128.0,178.0
+exa,Markdown,D:\clones\exa\README.md,96,0.0,176.0
+exa,Rust,D:\clones\exa\src\theme\ui_styles.rs,32,10.0,175.0
+exa,Rust,D:\clones\exa\src\output\time.rs,40,33.0,170.0
+exa,Rust,D:\clones\exa\src\options\theme.rs,33,6.0,167.0
+exa,TOML,D:\clones\exa\xtests\git.toml,34,6.0,163.0
+exa,Markdown,D:\clones\exa\man\exa.1.md,105,0.0,161.0
+exa,Rust,D:\clones\exa\src\output\render\permissions.rs,41,3.0,160.0
+exa,Rust,D:\clones\exa\src\theme\lsc.rs,38,39.0,158.0
+exa,Rust,D:\clones\exa\src\output\tree.rs,51,80.0,148.0
+exa,Rust,D:\clones\exa\src\output\cell.rs,49,82.0,147.0
+exa,Rust,D:\clones\exa\src\output\render\size.rs,38,3.0,141.0
+exa,Rust,D:\clones\exa\src\fs\dir.rs,43,46.0,121.0
+exa,TOML,D:\clones\exa\xtests\sorting.toml,28,9.0,120.0
+exa,Rust,D:\clones\exa\src\info\filetype.rs,19,9.0,116.0
+exa,Rust,D:\clones\exa\src\options\mod.rs,41,98.0,114.0
+exa,Rust,D:\clones\exa\src\options\help.rs,25,12.0,108.0
+exa,Rust,D:\clones\exa\src\theme\default_theme.rs,23,0.0,107.0
+exa,Rust,D:\clones\exa\src\fs\fields.rs,53,89.0,105.0
+exa,TOML,D:\clones\exa\xtests\grid-details-view.toml,19,6.0,104.0
+exa,TOML,D:\clones\exa\xtests\grid-view.toml,22,6.0,104.0
+exa,TOML,D:\clones\exa\xtests\icons.toml,17,3.0,94.0
+exa,Rust,D:\clones\exa\src\options\dir_action.rs,22,17.0,93.0
+exa,Rust,D:\clones\exa\src\output\render\groups.rs,30,0.0,93.0
+exa,TOML,D:\clones\exa\xtests\errors.toml,22,6.0,90.0
+exa,Rust,D:\clones\exa\src\output\render\git.rs,21,0.0,88.0
+exa,Rust,D:\clones\exa\src\output\render\octal.rs,28,0.0,88.0
+exa,TOML,D:\clones\exa\xtests\themes.toml,19,5.0,88.0
+exa,Rust,D:\clones\exa\src\options\error.rs,25,20.0,84.0
+exa,Fish Shell,D:\clones\exa\completions\fish\exa.fish,5,5.0,81.0
+exa,Rust,D:\clones\exa\src\output\render\users.rs,22,0.0,76.0
+exa,Rust,D:\clones\exa\build.rs,23,26.0,74.0
+exa,TOML,D:\clones\exa\xtests\details-view-dates.toml,16,4.0,73.0
+exa,TOML,D:\clones\exa\xtests\git-ignore.toml,12,2.0,72.0
+exa,TOML,D:\clones\exa\Cargo.toml,13,2.0,66.0
+exa,TOML,D:\clones\exa\xtests\input-options.toml,10,1.0,66.0
+exa,Rust,D:\clones\exa\src\output\render\links.rs,22,0.0,65.0
+exa,Rust,D:\clones\exa\src\options\flags.rs,15,6.0,63.0
+exa,TOML,D:\clones\exa\xtests\details-view-filesizes.toml,9,2.0,63.0
+exa,Rust,D:\clones\exa\src\output\grid.rs,13,3.0,52.0
+exa,TOML,D:\clones\exa\xtests\dotfiles.toml,8,2.0,48.0
+exa,Rust,D:\clones\exa\src\logger.rs,15,4.0,47.0
+exa,YAML,D:\clones\exa\.github\workflows\unit-tests.yml,9,0.0,45.0
+exa,TOML,D:\clones\exa\xtests\colour-term.toml,10,3.0,44.0
+exa,TOML,D:\clones\exa\xtests\details-view.toml,9,2.0,42.0
+exa,Bourne Shell,D:\clones\exa\devtools\dev-bash.sh,8,16.0,41.0
+exa,Bourne Shell,D:\clones\exa\devtools\local-package-for-macos.sh,10,33.0,41.0
+exa,Rust,D:\clones\exa\src\output\mod.rs,12,8.0,41.0
+exa,Bourne Shell,D:\clones\exa\devtools\dev-package-for-linux.sh,10,26.0,40.0
+exa,Rust,D:\clones\exa\src\output\render\blocks.rs,17,0.0,40.0
+exa,Rust,D:\clones\exa\src\options\file_name.rs,7,0.0,39.0
+exa,Bourne Shell,D:\clones\exa\devtools\dev-set-up-environment.sh,12,5.0,38.0
+exa,Rust,D:\clones\exa\src\options\version.rs,11,9.0,37.0
+exa,TOML,D:\clones\exa\xtests\attributes.toml,6,1.0,35.0
+exa,Rust,D:\clones\exa\src\fs\dir_action.rs,13,35.0,34.0
+exa,Markdown,D:\clones\exa\xtests\README.md,17,0.0,30.0
+exa,Rust,D:\clones\exa\src\output\lines.rs,7,1.0,29.0
+exa,TOML,D:\clones\exa\xtests\lines-view.toml,6,2.0,28.0
+exa,Rust,D:\clones\exa\src\info\sources.rs,6,8.0,27.0
+exa,Rust,D:\clones\exa\src\output\render\filetype.rs,5,0.0,26.0
+exa,Rust,D:\clones\exa\src\fs\feature\mod.rs,8,0.0,25.0
+exa,Rust,D:\clones\exa\src\output\render\times.rs,6,0.0,24.0
+exa,Bourne Shell,D:\clones\exa\xtests\run.sh,6,3.0,23.0
+exa,YAML,D:\clones\exa\snap\snapcraft.yaml,3,0.0,22.0
+exa,TOML,D:\clones\exa\xtests\features\none.toml,4,2.0,21.0
+exa,TOML,D:\clones\exa\xtests\tree-view.toml,7,3.0,21.0
+exa,Rust,D:\clones\exa\src\output\render\inode.rs,8,0.0,20.0
+exa,Rust,D:\clones\exa\src\output\render\mod.rs,10,3.0,20.0
+exa,Rust,D:\clones\exa\src\options\vars.rs,16,29.0,19.0
+exa,Rust,D:\clones\exa\src\output\escape.rs,4,4.0,18.0
+exa,TOML,D:\clones\exa\xtests\debug-logging.toml,1,0.0,16.0
+exa,Bourne Shell,D:\clones\exa\devtools\dev-help.sh,3,3.0,15.0
+exa,TOML,D:\clones\exa\xtests\details-view-permissions.toml,1,0.0,14.0
+exa,TOML,D:\clones\exa\xtests\ignore-glob.toml,1,0.0,14.0
+exa,Bourne Shell,D:\clones\exa\devtools\dev-fixtures.sh,11,19.0,13.0
+exa,Markdown,D:\clones\exa\.github\ISSUE_TEMPLATE\compilation_error.md,4,0.0,11.0
+exa,Markdown,D:\clones\exa\.github\ISSUE_TEMPLATE\bug_report.md,4,0.0,10.0
+exa,Rust,D:\clones\exa\src\fs\mod.rs,2,0.0,8.0
+exa,Bourne Shell,D:\clones\exa\devtools\dev-run-debug.sh,0,0.0,7.0
+exa,Bourne Shell,D:\clones\exa\devtools\dev-run-release.sh,0,0.0,7.0
+exa,TOML,D:\clones\exa\xtests\details-view-passwd.toml,0,0.0,7.0
+exa,TOML,D:\clones\exa\xtests\help.toml,0,0.0,7.0
+exa,Markdown,D:\clones\exa\.github\ISSUE_TEMPLATE\feature_request.md,0,0.0,4.0
+exa,Markdown,D:\clones\exa\.github\ISSUE_TEMPLATE\question.md,0,0.0,4.0
+exa,Bourne Shell,D:\clones\exa\devtools\dev-versions.sh,1,3.0,4.0
+exa,Markdown,D:\clones\exa\devtools\README.md,2,0.0,3.0
+exa,TOML,D:\clones\exa\rust-toolchain.toml,0,0.0,2.0
+exa,Rust,D:\clones\exa\src\info\mod.rs,1,4.0,2.0
+exa,YAML,D:\clones\exa\.github\FUNDING.yml,0,0.0,1.0
+exa,YAML,D:\clones\exa\.github\ISSUE_TEMPLATE\config.yml,0,0.0,1.0
+exa,TOML,D:\clones\exa\.rustfmt.toml,0,0.0,1.0

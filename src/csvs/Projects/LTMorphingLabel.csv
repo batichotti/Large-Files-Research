@@ -1,0 +1,41 @@
+project,language,filename,blank,comment,code
+LTMorphingLabel,Swift,D:\clones\LTMorphingLabel\LTMorphingLabel\LTMorphingLabel.swift,91,41.0,419.0
+LTMorphingLabel,Swift,D:\clones\LTMorphingLabel\LTMorphingLabel\LTMorphingLabel+Anvil.swift,24,26.0,215.0
+LTMorphingLabel,XML,D:\clones\LTMorphingLabel\LTMorphingLabelDemo\LTMorphingLabelDemo.storyboard,0,2.0,180.0
+LTMorphingLabel,Swift,D:\clones\LTMorphingLabel\LTMorphingLabel\LTMorphingLabel+Burn.swift,24,26.0,151.0
+LTMorphingLabel,Swift,D:\clones\LTMorphingLabel\LTMorphingLabel\LTMorphingLabel+Sparkle.swift,22,26.0,120.0
+LTMorphingLabel,Swift,D:\clones\LTMorphingLabel\LTMorphingLabel\LTEmitterView.swift,24,27.0,116.0
+LTMorphingLabel,XML,D:\clones\LTMorphingLabel\LTMorphingLabelDemo.xcodeproj\xcshareddata\xcschemes\LTMorphingLabelDemo.xcscheme,0,0.0,107.0
+LTMorphingLabel,Swift,D:\clones\LTMorphingLabel\LTMorphingLabel\LTMorphingLabel+Fall.swift,20,27.0,103.0
+LTMorphingLabel,JSON,D:\clones\LTMorphingLabel\LTMorphingLabelDemo\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,103.0
+LTMorphingLabel,Swift,D:\clones\LTMorphingLabel\LTMorphingLabel\SwiftUI\MorphingText.swift,15,7.0,91.0
+LTMorphingLabel,Markdown,D:\clones\LTMorphingLabel\README.md,43,0.0,91.0
+LTMorphingLabel,Swift,D:\clones\LTMorphingLabel\LTMorphingLabelDemo\LTDemoViewController.swift,24,7.0,83.0
+LTMorphingLabel,Swift,D:\clones\LTMorphingLabel\LTMorphingLabelTests\LTMorphingLabelTests.swift,15,7.0,80.0
+LTMorphingLabel,XML,D:\clones\LTMorphingLabel\LTMorphingLabelDemo.xcodeproj\xcshareddata\xcschemes\MorphingLabel.xcscheme,0,0.0,67.0
+LTMorphingLabel,Swift,D:\clones\LTMorphingLabel\LTMorphingLabel\LTMorphingLabel+Pixelate.swift,15,26.0,61.0
+LTMorphingLabel,XML,D:\clones\LTMorphingLabel\LTMorphingLabelDemo.xcodeproj\xcuserdata\lex.xcuserdatad\xcschemes\xcschememanagement.plist,0,0.0,57.0
+LTMorphingLabel,Swift,D:\clones\LTMorphingLabel\LTMorphingLabel\LTMorphingEffect.swift,9,26.0,54.0
+LTMorphingLabel,Swift,D:\clones\LTMorphingLabel\LTMorphingLabel\LTStringDiffResult.swift,17,31.0,54.0
+LTMorphingLabel,XML,D:\clones\LTMorphingLabel\LTMorphingLabelDemo\Launch Screen.storyboard,0,1.0,50.0
+LTMorphingLabel,XML,D:\clones\LTMorphingLabel\LTMorphingLabelDemo\Info.plist,0,0.0,45.0
+LTMorphingLabel,Swift,D:\clones\LTMorphingLabel\LTMorphingLabel\LTCharacterDiffResult.swift,12,26.0,42.0
+LTMorphingLabel,XML,D:\clones\LTMorphingLabel\LTMorphingLabelDemo.xcodeproj\project.xcworkspace\xcshareddata\LTMorphingLabelDemo.xccheckout,0,0.0,41.0
+LTMorphingLabel,Swift,D:\clones\LTMorphingLabel\LTMorphingLabel\LTMorphingLabel+Evaporate.swift,11,26.0,37.0
+LTMorphingLabel,Swift,D:\clones\LTMorphingLabel\LTMorphingLabel\LTEasing.swift,8,12.0,34.0
+LTMorphingLabel,Ruby,D:\clones\LTMorphingLabel\LTMorphingLabel.podspec,2,0.0,32.0
+LTMorphingLabel,Swift,D:\clones\LTMorphingLabel\LTMorphingLabelUITests\LTMorphingLabelUITests.swift,13,7.0,31.0
+LTMorphingLabel,Bourne Shell,D:\clones\LTMorphingLabel\build_xcframework.sh,11,8.0,31.0
+LTMorphingLabel,XML,D:\clones\LTMorphingLabel\LTMorphingLabel\tvOS-Info.plist,0,0.0,26.0
+LTMorphingLabel,Swift,D:\clones\LTMorphingLabel\Package.swift,1,1.0,26.0
+LTMorphingLabel,XML,D:\clones\LTMorphingLabel\LTMorphingLabelTests\Info.plist,0,0.0,24.0
+LTMorphingLabel,YAML,D:\clones\LTMorphingLabel\.swiftlint.yml,0,0.0,22.0
+LTMorphingLabel,XML,D:\clones\LTMorphingLabel\LTMorphingLabelUITests\Info.plist,0,0.0,22.0
+LTMorphingLabel,Swift,D:\clones\LTMorphingLabel\LTMorphingLabel\LTCharacterLimbo.swift,5,26.0,15.0
+LTMorphingLabel,Swift,D:\clones\LTMorphingLabel\LTMorphingLabelDemo\AppDelegate.swift,5,7.0,13.0
+LTMorphingLabel,YAML,D:\clones\LTMorphingLabel\.github\FUNDING.yml,1,1.0,10.0
+LTMorphingLabel,YAML,D:\clones\LTMorphingLabel\.travis.yml,0,0.0,10.0
+LTMorphingLabel,XML,D:\clones\LTMorphingLabel\LTMorphingLabelDemo.xcodeproj\project.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist,0,0.0,8.0
+LTMorphingLabel,XML,D:\clones\LTMorphingLabel\LTMorphingLabelDemo.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+LTMorphingLabel,JSON,D:\clones\LTMorphingLabel\LTMorphingLabelDemo\Images.xcassets\Contents.json,0,0.0,6.0
+LTMorphingLabel,C/C++ Header,D:\clones\LTMorphingLabel\LTMorphingLabel\LTMorphingLabel.h,6,10.0,3.0

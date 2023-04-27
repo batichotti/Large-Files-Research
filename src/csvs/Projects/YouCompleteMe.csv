@@ -1,0 +1,107 @@
+project,language,filename,blank,comment,code
+YouCompleteMe,Markdown,D:\clones\YouCompleteMe\README.md,957,0.0,2737.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\vimsupport_test.py,375,116.0,1521.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\youcompleteme_test.py,166,57.0,1114.0
+YouCompleteMe,vim script,D:\clones\YouCompleteMe\autoload\youcompleteme.vim,306,182.0,1016.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\omni_completer_test.py,116,33.0,804.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\vimsupport.py,306,360.0,752.0
+YouCompleteMe,vim script,D:\clones\YouCompleteMe\test\signature_help.test.vim,171,92.0,631.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\youcompleteme.py,209,112.0,625.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\test_utils.py,165,112.0,476.0
+YouCompleteMe,vim script,D:\clones\YouCompleteMe\autoload\youcompleteme\finder.vim,99,179.0,442.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\event_notification_test.py,94,76.0,422.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\completion_test.py,59,24.0,401.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\postcomplete_test.py,79,21.0,347.0
+YouCompleteMe,vim script,D:\clones\YouCompleteMe\test\finder.test.vim,111,39.0,333.0
+YouCompleteMe,vim script,D:\clones\YouCompleteMe\test\completion.common.vim,93,38.0,310.0
+YouCompleteMe,vim script,D:\clones\YouCompleteMe\test\hover.test.vim,84,48.0,303.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\client\completion_request_test.py,30,18.0,273.0
+YouCompleteMe,vim script,D:\clones\YouCompleteMe\test\lib\run_test.vim,58,74.0,268.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\client\command_request_test.py,49,30.0,229.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\syntax_parse_test.py,55,67.0,211.0
+YouCompleteMe,Markdown,D:\clones\YouCompleteMe\test\README.md,82,0.0,209.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\diagnostic_interface.py,62,29.0,204.0
+YouCompleteMe,vim script,D:\clones\YouCompleteMe\test\diagnostics.test.vim,32,16.0,203.0
+YouCompleteMe,vim script,D:\clones\YouCompleteMe\plugin\youcompleteme.vim,67,36.0,202.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\client\base_request.py,62,52.0,201.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\base_test.py,91,19.0,199.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\syntax_parse.py,49,31.0,148.0
+YouCompleteMe,vim script,D:\clones\YouCompleteMe\test\completion_info.test.vim,43,14.0,147.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\client\debug_info_request_test.py,18,16.0,145.0
+YouCompleteMe,Markdown,D:\clones\YouCompleteMe\CONTRIBUTING.md,34,0.0,135.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\command_test.py,15,18.0,131.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\client\command_request.py,48,47.0,128.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\client\completion_request.py,49,50.0,128.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\signature_help.py,37,39.0,122.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\client\messages_request_test.py,22,18.0,100.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\diagnostic_interface_test.py,8,19.0,98.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\__init__.py,22,33.0,94.0
+YouCompleteMe,vim script,D:\clones\YouCompleteMe\test\lib\plugin\completion.vim,14,0.0,84.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\base.py,33,48.0,82.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\omni_completer.py,31,39.0,82.0
+YouCompleteMe,Markdown,D:\clones\YouCompleteMe\.github\ISSUE_TEMPLATE.md,31,0.0,79.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\buffer.py,48,28.0,77.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\diagnostic_filter_test.py,45,16.0,76.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\run_tests.py,23,10.0,75.0
+YouCompleteMe,YAML,D:\clones\YouCompleteMe\.github\workflows\ci.yml,3,1.0,74.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\client\debug_info_request.py,15,17.0,74.0
+YouCompleteMe,vim script,D:\clones\YouCompleteMe\test\lib\plugin\util.vim,5,0.0,74.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\unsafe_thread_pool_executor.py,19,27.0,73.0
+YouCompleteMe,vim script,D:\clones\YouCompleteMe\test\commands.test.vim,25,15.0,73.0
+YouCompleteMe,Bourne Again Shell,D:\clones\YouCompleteMe\test\run_vim_tests,21,2.0,70.0
+YouCompleteMe,vim script,D:\clones\YouCompleteMe\test\lib\autoload\youcompleteme\test\setup.vim,20,7.0,69.0
+YouCompleteMe,vim script,D:\clones\YouCompleteMe\test\lib\plugin\shared.vim,11,25.0,59.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\client\signature_help_request.py,30,18.0,58.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\diagnostic_filter.py,33,23.0,57.0
+YouCompleteMe,JSON,D:\clones\YouCompleteMe\.vimspector.json,3,0.0,56.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\client\resolve_completion_request.py,17,28.0,53.0
+YouCompleteMe,Dockerfile,D:\clones\YouCompleteMe\test\docker\ci\image\Dockerfile,9,3.0,51.0
+YouCompleteMe,vim script,D:\clones\YouCompleteMe\test\fixit.test.vim,8,0.0,47.0
+YouCompleteMe,YAML,D:\clones\YouCompleteMe\.mergify.yml,3,2.0,45.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\client\messages_request.py,18,28.0,45.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\paths.py,17,27.0,44.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\install.py,13,1.0,36.0
+YouCompleteMe,vim script,D:\clones\YouCompleteMe\test\filesize.test.vim,11,1.0,34.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\.ycm_extra_conf.py,10,30.0,32.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\paths_test.py,10,16.0,32.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\client\event_notification.py,15,16.0,31.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\mock_utils.py,24,58.0,31.0
+YouCompleteMe,vim script,D:\clones\YouCompleteMe\test\lib\autoload\youcompleteme\test\popup.vim,2,11.0,29.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\client\omni_completion_request_test.py,12,16.0,28.0
+YouCompleteMe,vim script,D:\clones\YouCompleteMe\test\completion.test.vim,8,0.0,27.0
+YouCompleteMe,vim script,D:\clones\YouCompleteMe\test\completion_noresolve.test.vim,8,0.0,27.0
+YouCompleteMe,C++,D:\clones\YouCompleteMe\test\testdata\cpp\completion.cc,5,0.0,26.0
+YouCompleteMe,vim script,D:\clones\YouCompleteMe\test\lib\autoload\youcompleteme\test\commands.vim,4,0.0,22.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\client\base_request_test.py,6,16.0,20.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\signature_help_test.py,3,16.0,19.0
+YouCompleteMe,JSON,D:\clones\YouCompleteMe\test\.vimspector.json,0,0.0,19.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\client\omni_completion_request.py,11,16.0,18.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\client\completer_available_request.py,9,17.0,17.0
+YouCompleteMe,YAML,D:\clones\YouCompleteMe\codecov.yml,4,2.0,16.0
+YouCompleteMe,Markdown,D:\clones\YouCompleteMe\.github\PULL_REQUEST_TEMPLATE.md,6,0.0,14.0
+YouCompleteMe,YAML,D:\clones\YouCompleteMe\.github\workflows\lock_old_issues.yaml,2,11.0,14.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\client\ycmd_keepalive.py,8,19.0,14.0
+YouCompleteMe,Dockerfile,D:\clones\YouCompleteMe\test\docker\manual\image\Dockerfile,8,1.0,14.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\test\testdata\python\doc.py,8,16.0,14.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\client\shutdown_request.py,8,17.0,13.0
+YouCompleteMe,make,D:\clones\YouCompleteMe\test\Makefile,2,0.0,12.0
+YouCompleteMe,Bourne Again Shell,D:\clones\YouCompleteMe\test\docker\ci\rebuild,3,0.0,10.0
+YouCompleteMe,Bourne Again Shell,D:\clones\YouCompleteMe\test\docker\manual\rebuild,3,0.0,10.0
+YouCompleteMe,Bourne Shell,D:\clones\YouCompleteMe\print_todos.sh,0,0.0,8.0
+YouCompleteMe,Bourne Again Shell,D:\clones\YouCompleteMe\test\docker\rebuild_all,2,0.0,8.0
+YouCompleteMe,C++,D:\clones\YouCompleteMe\test\testdata\cpp\complete_with_sig_help.cc,3,0.0,8.0
+YouCompleteMe,Bourne Again Shell,D:\clones\YouCompleteMe\test\docker\manual\run,2,0.0,7.0
+YouCompleteMe,C++,D:\clones\YouCompleteMe\test\testdata\cpp\auto_include_workaround.cc,2,0.0,7.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\python\ycm\tests\testdata\.ycm_extra_conf.py,1,0.0,6.0
+YouCompleteMe,C/C++ Header,D:\clones\YouCompleteMe\test\testdata\cpp\auto_include.h,2,0.0,6.0
+YouCompleteMe,Markdown,D:\clones\YouCompleteMe\CODE_OF_CONDUCT.md,3,0.0,4.0
+YouCompleteMe,Bourne Shell,D:\clones\YouCompleteMe\install.sh,4,0.0,4.0
+YouCompleteMe,C++,D:\clones\YouCompleteMe\test\testdata\cpp\fixit.cpp,0,0.0,4.0
+YouCompleteMe,vim script,D:\clones\YouCompleteMe\test\testdata\vim\mixed_filetype.vim,1,1.0,4.0
+YouCompleteMe,INI,D:\clones\YouCompleteMe\tox.ini,0,0.0,4.0
+YouCompleteMe,Bourne Again Shell,D:\clones\YouCompleteMe\test\docker\ci\push,2,0.0,3.0
+YouCompleteMe,Bourne Again Shell,D:\clones\YouCompleteMe\test\docker\manual\push,2,0.0,3.0
+YouCompleteMe,C++,D:\clones\YouCompleteMe\test\testdata\cpp\auto_include.cc,1,0.0,3.0
+YouCompleteMe,C++,D:\clones\YouCompleteMe\test\testdata\diagnostics\foo.cpp,0,0.0,1.0
+YouCompleteMe,XML,D:\clones\YouCompleteMe\test\testdata\diagnostics\foo.xml,0,0.0,1.0
+YouCompleteMe,Python,D:\clones\YouCompleteMe\test\testdata\python\test.py,0,0.0,1.0

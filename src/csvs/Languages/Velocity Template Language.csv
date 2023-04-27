@@ -1,0 +1,22 @@
+project,language,filename,blank,comment,code
+elasticsearch,Velocity Template Language,D:\clones\elasticsearch\x-pack\test\idp-fixture\idp\shibboleth-idp\views\intercept\expiring-password.vm,4,18.0,32.0
+elasticsearch,Velocity Template Language,D:\clones\elasticsearch\x-pack\test\idp-fixture\idp\shibboleth-idp\views\user-prefs.vm,5,12.0,43.0
+spring-boot,Velocity Template Language,D:\clones\spring-boot\spring-boot-project\spring-boot-autoconfigure\src\test\resources\templates\prefix\prefixed.vm,0,0.0,1.0
+elasticsearch,Velocity Template Language,D:\clones\elasticsearch\x-pack\test\idp-fixture\idp\shibboleth-idp\views\admin\unlock-keys.vm,13,20.0,63.0
+elasticsearch,Velocity Template Language,D:\clones\elasticsearch\x-pack\test\idp-fixture\idp\shibboleth-idp\views\client-storage\client-storage-write.vm,0,17.0,36.0
+elasticsearch,Velocity Template Language,D:\clones\elasticsearch\x-pack\test\idp-fixture\idp\shibboleth-idp\views\logout-propagate.vm,4,18.0,36.0
+elasticsearch,Velocity Template Language,D:\clones\elasticsearch\x-pack\test\idp-fixture\idp\shibboleth-idp\views\login.vm,14,23.0,107.0
+elasticsearch,Velocity Template Language,D:\clones\elasticsearch\x-pack\test\idp-fixture\idp\shibboleth-idp\views\intercept\attribute-release.vm,0,20.0,139.0
+elasticsearch,Velocity Template Language,D:\clones\elasticsearch\x-pack\test\idp-fixture\idp\shibboleth-idp\views\duo.vm,6,20.0,57.0
+elasticsearch,Velocity Template Language,D:\clones\elasticsearch\x-pack\test\idp-fixture\idp\shibboleth-idp\views\logout-complete.vm,5,17.0,37.0
+elasticsearch,Velocity Template Language,D:\clones\elasticsearch\x-pack\test\idp-fixture\idp\shibboleth-idp\views\intercept\terms-of-use.vm,0,15.0,52.0
+elasticsearch,Velocity Template Language,D:\clones\elasticsearch\x-pack\test\idp-fixture\idp\shibboleth-idp\views\client-storage\client-storage-read.vm,0,17.0,36.0
+spring-boot,Velocity Template Language,D:\clones\spring-boot\spring-boot-project\spring-boot-autoconfigure\src\test\resources\templates\message.vm,0,0.0,1.0
+elasticsearch,Velocity Template Language,D:\clones\elasticsearch\x-pack\test\idp-fixture\idp\shibboleth-idp\views\error.vm,4,17.0,52.0
+elasticsearch,Velocity Template Language,D:\clones\elasticsearch\x-pack\test\idp-fixture\idp\shibboleth-idp\views\logout.vm,9,17.0,81.0
+elasticsearch,Velocity Template Language,D:\clones\elasticsearch\x-pack\test\idp-fixture\idp\shibboleth-idp\views\intercept\impersonate.vm,13,27.0,50.0
+spring-boot,Velocity Template Language,D:\clones\spring-boot\spring-boot-project\spring-boot-autoconfigure\src\test\resources\templates\home.vm,0,0.0,1.0
+elasticsearch,Velocity Template Language,D:\clones\elasticsearch\x-pack\test\idp-fixture\idp\shibboleth-idp\views\spnego-unavailable.vm,3,13.0,33.0
+spring-framework,Velocity Template Language,D:\clones\spring-framework\spring-webmvc\src\test\resources\org\springframework\web\servlet\config\annotation\WEB-INF\index.vm,0,0.0,1.0
+spring-boot,Velocity Template Language,D:\clones\spring-boot\spring-boot-project\spring-boot-autoconfigure\src\test\resources\custom-templates\custom.vm,0,0.0,1.0
+elasticsearch,Velocity Template Language,D:\clones\elasticsearch\x-pack\test\idp-fixture\idp\shibboleth-idp\views\login-error.vm,1,6.0,17.0

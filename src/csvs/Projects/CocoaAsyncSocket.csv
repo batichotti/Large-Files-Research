@@ -1,0 +1,165 @@
+project,language,filename,blank,comment,code
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Source\GCD\GCDAsyncSocket.m,1828,1024.0,5677.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\TestPreBuffer\Desktop\TestPreBuffer\en.lproj\MainMenu.xib,0,0.0,4587.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\BonjourClient\English.lproj\MainMenu.xib,0,0.0,4119.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\BonjourServer\English.lproj\MainMenu.xib,0,0.0,4119.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\ConnectTest\Desktop\ConnectTest\en.lproj\MainMenu.xib,0,0.0,4119.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\SimpleHTTPClient\Desktop\SimpleHTTPClient\en.lproj\MainMenu.xib,0,0.0,4119.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\RunLoop\UdpEchoClient\UdpEchoClient\en.lproj\MainMenu.xib,0,0.0,4039.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Source\GCD\GCDAsyncUdpSocket.m,1241,394.0,3997.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\EchoServer\English.lproj\MainMenu.xib,0,0.0,3974.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\RunLoop\UdpEchoServer\UdpEchoServer\en.lproj\MainMenu.xib,0,0.0,3943.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\UdpEchoServer\Desktop\UdpEchoServer\en.lproj\MainMenu.xib,0,0.0,3650.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\UdpEchoClient\Desktop\UdpEchoClient\en.lproj\MainMenu.xib,0,0.0,3579.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\DomainTest\DomainTest\en.lproj\MainMenu.xib,0,0.0,2965.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\RunLoop\EchoServer\English.lproj\MainMenu.nib\designable.nib,0,0.0,2696.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Source\Vendor\CocoaLumberjack\DDTTYLogger.m,303,203.0,1004.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Source\Vendor\CocoaLumberjack\DDFileLogger.m,343,224.0,949.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\DomainTest\DomainTest\DomainClient.xib,0,0.0,877.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Source\Vendor\CocoaLumberjack\DDLog.m,236,261.0,684.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\ConnectTest\Mobile\ConnectTest\en.lproj\MainWindow.xib,0,0.0,444.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\SimpleHTTPClient\Mobile\SimpleHTTPClient\en.lproj\MainWindow.xib,0,0.0,444.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\RunLoop\InterfaceTest\MainWindow.xib,0,0.0,444.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Source\Vendor\CocoaLumberjack\DDAbstractDatabaseLogger.m,142,155.0,430.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\ConnectTest\Mobile\ConnectTest\en.lproj\ConnectTestViewController.xib,0,0.0,218.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\RunLoop\InterfaceTest\Classes\InterfaceTestAppDelegate.m,62,4.0,205.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Source\GCD\GCDAsyncSocket.h,103,925.0,198.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Source\Vendor\CocoaLumberjack\DDLog.h,102,335.0,195.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\UdpEchoClient\Mobile\UdpEchoClient\ViewController.m,60,19.0,192.0
+CocoaAsyncSocket,Swift,D:\clones\CocoaAsyncSocket\Tests\Shared\Swift\SwiftTests.swift,31,12.0,188.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\EchoServer\EchoServerAppDelegate.m,66,28.0,184.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\UdpEchoServer\Mobile\UdpEchoServer\ViewController.m,66,24.0,178.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Source\Vendor\CocoaLumberjack\Extensions\DDDispatchQueueLogFormatter.m,55,28.0,170.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Tests\Shared\ObjC\GCDAsyncSocketConnectionTests.m,40,23.0,165.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\RunLoop\EchoServer\AppController.m,49,13.0,160.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Tests\Shared\ObjC\GCDAsyncUdpSocketConnectionTests.m,44,12.0,158.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\SimpleHTTPClient\Mobile\SimpleHTTPClient\en.lproj\SimpleHTTPClientViewController.xib,0,0.0,156.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\RunLoop\InterfaceTest\InterfaceTestViewController.xib,0,0.0,156.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\ConnectTest\Mobile\ConnectTest\ConnectTestAppDelegate.m,54,52.0,148.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Source\GCD\GCDAsyncUdpSocket.h,86,806.0,144.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\SimpleHTTPClient\Mobile\SimpleHTTPClient\SimpleHTTPClientAppDelegate.m,69,106.0,142.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Source\Vendor\CocoaLumberjack\Extensions\DDContextFilterLogFormatter.m,40,15.0,136.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\SimpleHTTPClient\Desktop\SimpleHTTPClient\SimpleHTTPClientAppDelegate.m,64,104.0,127.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\TestPreBuffer\Shared\TestPreBuffer.m,82,40.0,125.0
+CocoaAsyncSocket,Swift,D:\clones\CocoaAsyncSocket\Tests\Shared\Swift\TestServer.swift,46,20.0,123.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\TestPreBuffer\Mobile\TestPreBuffer\en.lproj\ViewController_iPad.xib,0,0.0,120.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\TestPreBuffer\Mobile\TestPreBuffer\en.lproj\ViewController_iPhone.xib,0,0.0,119.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\UdpEchoClient\Desktop\UdpEchoClient\AppDelegate.m,38,15.0,116.0
+CocoaAsyncSocket,Swift,D:\clones\CocoaAsyncSocket\Tests\Shared\Swift\TestSocket.swift,41,33.0,115.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\BonjourClient\BonjourClientAppDelegate.m,36,8.0,110.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\CocoaAsyncSocket.xcodeproj\xcshareddata\xcschemes\Mac Framework.xcscheme,0,0.0,109.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\UdpEchoServer\Desktop\UdpEchoServer\AppDelegate.m,38,15.0,109.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\RunLoop\UdpEchoClient\UdpEchoClient\AppDelegate.m,35,2.0,108.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\RunLoop\UdpEchoServer\UdpEchoServer\AppDelegate.m,35,2.0,104.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\CocoaAsyncSocket.xcodeproj\xcshareddata\xcschemes\iOS Framework.xcscheme,0,0.0,95.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Source\Vendor\CocoaLumberjack\DDFileLogger.h,76,172.0,92.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Tests\Mac\CocoaAsyncSocket.xcodeproj\xcshareddata\xcschemes\CocoaAsyncSocketTestsMac.xcscheme,0,0.0,92.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Tests\iOS\CocoaAsyncSocket.xcodeproj\xcshareddata\xcschemes\CocoaAsyncSocketTestsiOS.xcscheme,0,0.0,92.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Source\Vendor\CocoaLumberjack\Extensions\DDMultiFormatter.m,28,11.0,88.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Tests\Framework\CocoaAsyncSocketTests.xcodeproj\xcshareddata\xcschemes\CocoaAsyncSocketTests (iOS).xcscheme,0,0.0,83.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Tests\Framework\CocoaAsyncSocketTests.xcodeproj\xcshareddata\xcschemes\CocoaAsyncSocketTests (macOS).xcscheme,0,0.0,83.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Tests\Framework\CocoaAsyncSocketTests.xcodeproj\xcshareddata\xcschemes\CocoaAsyncSocketTests (tvOS).xcscheme,0,0.0,83.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\UdpEchoClient\Mobile\UdpEchoClient\en.lproj\ViewController.xib,0,0.0,78.0
+CocoaAsyncSocket,Markdown,D:\clones\CocoaAsyncSocket\README.markdown,44,0.0,77.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\CocoaAsyncSocket.xcodeproj\xcshareddata\xcschemes\tvOS Framework.xcscheme,0,0.0,76.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\ConnectTest\Desktop\ConnectTest\ConnectTestAppDelegate.m,38,47.0,72.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\UdpEchoServer\Mobile\UdpEchoServer\en.lproj\ViewController.xib,0,0.0,70.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Source\Vendor\CocoaLumberjack\DDASLLogger.m,20,21.0,59.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Source\Vendor\CocoaLumberjack\DDLog+LOGV.h,33,7.0,59.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Tests\Mac\GCDAsyncSocketUNTests.m,29,71.0,57.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\BonjourServer\BonjourServerAppDelegate.m,28,16.0,55.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Source\Vendor\CocoaLumberjack\DDTTYLogger.h,17,108.0,46.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\TestPreBuffer\Mobile\TestPreBuffer\TestPreBuffer-Info.plist,0,0.0,45.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\DomainTest\DomainTest\DomainClient.m,12,7.0,41.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\ConnectTest\Mobile\ConnectTest\ConnectTest-Info.plist,0,0.0,38.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\DomainTest\DomainTest\DomainServer.m,10,7.0,38.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\SimpleHTTPClient\Mobile\SimpleHTTPClient\SimpleHTTPClient-Info.plist,0,0.0,38.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\UdpEchoServer\Mobile\UdpEchoServer\UdpEchoServer-Info.plist,0,0.0,38.0
+CocoaAsyncSocket,HTML,D:\clones\CocoaAsyncSocket\Source\GCD\Documentation.html,10,0.0,37.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\DomainTest\DomainTest\DomainTest-Info.plist,0,0.0,34.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\UdpEchoServer\Desktop\UdpEchoServer\UdpEchoServer-Info.plist,0,0.0,34.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\RunLoop\UdpEchoServer\UdpEchoServer\UdpEchoServer-Info.plist,0,0.0,34.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\UdpEchoClient\Mobile\UdpEchoClient\AppDelegate.m,14,2.0,33.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\UdpEchoServer\Mobile\UdpEchoServer\AppDelegate.m,15,3.0,33.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\ConnectTest\Desktop\ConnectTest\ConnectTest-Info.plist,0,0.0,32.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\EchoServer\EchoServer-Info.plist,0,0.0,32.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\SimpleHTTPClient\Desktop\SimpleHTTPClient\SimpleHTTPClient-Info.plist,0,0.0,32.0
+CocoaAsyncSocket,Ruby,D:\clones\CocoaAsyncSocket\CocoaAsyncSocket.podspec,8,0.0,30.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\RunLoop\InterfaceTest\InterfaceTest-Info.plist,0,0.0,30.0
+CocoaAsyncSocket,Bourne Shell,D:\clones\CocoaAsyncSocket\Tests\test-all.sh,10,2.0,29.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\RunLoop\EchoServer\Info.plist,0,0.0,28.0
+CocoaAsyncSocket,Swift,D:\clones\CocoaAsyncSocket\Package.swift,4,2.0,28.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Source\Info.plist,0,0.0,26.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Source\Vendor\CocoaLumberjack\DDAbstractDatabaseLogger.h,9,69.0,24.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Tests\Shared\Info.plist,0,0.0,24.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\DomainTest\DomainTest\AppDelegate.m,8,7.0,23.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\TestPreBuffer\Mobile\TestPreBuffer\ViewController.m,8,9.0,21.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\TestPreBuffer\Mobile\TestPreBuffer\AppDelegate.m,7,1.0,20.0
+CocoaAsyncSocket,Swift,D:\clones\CocoaAsyncSocket\Tests\Shared\Swift\GCDAsyncSocketReadTests.swift,9,6.0,20.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Source\Vendor\CocoaLumberjack\Extensions\DDDispatchQueueLogFormatter.h,12,98.0,18.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Source\Vendor\CocoaLumberjack\Extensions\DDContextFilterLogFormatter.h,13,33.0,17.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\GCD\EchoServer\EchoServerAppDelegate.h,10,0.0,16.0
+CocoaAsyncSocket,YAML,D:\clones\CocoaAsyncSocket\.github\workflows\stale.yml,4,0.0,15.0
+CocoaAsyncSocket,YAML,D:\clones\CocoaAsyncSocket\.travis.yml,2,0.0,15.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\GCD\UdpEchoClient\Desktop\UdpEchoClient\AppDelegate.h,4,0.0,15.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\RunLoop\UdpEchoClient\UdpEchoClient\AppDelegate.h,5,0.0,14.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\GCD\BonjourClient\BonjourClientAppDelegate.h,6,0.0,13.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\GCD\UdpEchoServer\Desktop\UdpEchoServer\AppDelegate.h,5,0.0,13.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\RunLoop\EchoServer\AppController.h,4,0.0,13.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\RunLoop\InterfaceTest\Classes\InterfaceTestAppDelegate.h,7,0.0,13.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\RunLoop\UdpEchoServer\UdpEchoServer\AppDelegate.h,6,0.0,13.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\GCD\UdpEchoClient\Mobile\UdpEchoClient\ViewController.h,3,0.0,12.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\GCD\BonjourServer\BonjourServerAppDelegate.h,6,0.0,11.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\GCD\UdpEchoServer\Mobile\UdpEchoServer\ViewController.h,3,0.0,11.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\GCD\ConnectTest\Mobile\ConnectTest\ConnectTestAppDelegate.h,5,0.0,10.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\GCD\SimpleHTTPClient\Mobile\SimpleHTTPClient\SimpleHTTPClientAppDelegate.h,5,0.0,10.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Tests\Mac\CocoaAsyncSocket.xcworkspace\contents.xcworkspacedata,0,0.0,10.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\GCD\ConnectTest\Desktop\ConnectTest\ConnectTestAppDelegate.h,6,0.0,9.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\GCD\DomainTest\DomainTest\AppDelegate.h,6,7.0,9.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\GCD\DomainTest\DomainTest\DomainClient.h,6,7.0,9.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\GCD\DomainTest\DomainTest\DomainServer.h,6,7.0,9.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\GCD\SimpleHTTPClient\Desktop\SimpleHTTPClient\SimpleHTTPClientAppDelegate.h,6,0.0,9.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\TestPreBuffer\Desktop\TestPreBuffer\AppDelegate.m,5,0.0,9.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Source\Vendor\CocoaLumberjack\DDASLLogger.h,7,25.0,9.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Source\Vendor\CocoaLumberjack\Extensions\DDMultiFormatter.h,5,16.0,9.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\ConnectTest\Mobile\ConnectTest\main.m,2,7.0,8.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\SimpleHTTPClient\Mobile\SimpleHTTPClient\main.m,2,7.0,8.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\TestPreBuffer\Mobile\TestPreBuffer\main.m,3,7.0,8.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\UdpEchoClient\Mobile\UdpEchoClient\main.m,3,7.0,8.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\UdpEchoServer\Mobile\UdpEchoServer\main.m,3,7.0,8.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\RunLoop\InterfaceTest\Classes\InterfaceTestViewController.m,16,38.0,8.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Tests\Mac\CocoaAsyncSocket.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist,0,0.0,8.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\BonjourClient\BonjourClient.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\BonjourServer\BonjourServer.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\ConnectTest\Mobile\ConnectTest.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\DomainTest\DomainTest.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\SimpleHTTPClient\Mobile\SimpleHTTPClient.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\GCD\TestPreBuffer\Mobile\TestPreBuffer.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\RunLoop\EchoServer\EchoServer.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\RunLoop\InterfaceTest\InterfaceTest.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\RunLoop\InterfaceTest\main.m,3,7.0,7.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\RunLoop\UdpEchoClient\UdpEchoClient.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Examples\RunLoop\UdpEchoServer\UdpEchoServer.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+CocoaAsyncSocket,XML,D:\clones\CocoaAsyncSocket\Tests\Mac\CocoaAsyncSocket.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\GCD\UdpEchoServer\Mobile\UdpEchoServer\AppDelegate.h,5,0.0,6.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\BonjourClient\main.m,2,7.0,5.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\BonjourServer\main.m,2,7.0,5.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\ConnectTest\Desktop\ConnectTest\main.m,2,7.0,5.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\GCD\ConnectTest\Mobile\ConnectTest\ConnectTestViewController.h,5,0.0,5.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\DomainTest\DomainTest\main.m,2,7.0,5.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\EchoServer\main.m,2,7.0,5.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\SimpleHTTPClient\Desktop\SimpleHTTPClient\main.m,2,7.0,5.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\TestPreBuffer\Desktop\TestPreBuffer\main.m,2,7.0,5.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\UdpEchoClient\Desktop\UdpEchoClient\main.m,2,7.0,5.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\UdpEchoServer\Desktop\UdpEchoServer\main.m,2,7.0,5.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\RunLoop\EchoServer\main.m,2,7.0,5.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\RunLoop\UdpEchoClient\UdpEchoClient\main.m,2,7.0,5.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\RunLoop\UdpEchoServer\UdpEchoServer\main.m,2,7.0,5.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Source\CocoaAsyncSocket.h,4,9.0,5.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\ConnectTest\Mobile\ConnectTest\ConnectTestViewController.m,5,0.0,4.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\GCD\SimpleHTTPClient\Mobile\SimpleHTTPClient\SimpleHTTPClientViewController.h,4,0.0,4.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\GCD\TestPreBuffer\Desktop\TestPreBuffer\AppDelegate.h,4,0.0,4.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\GCD\TestPreBuffer\Shared\TestPreBuffer.h,4,0.0,4.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\RunLoop\InterfaceTest\Classes\InterfaceTestViewController.h,5,7.0,4.0
+CocoaAsyncSocket,Objective-C,D:\clones\CocoaAsyncSocket\Examples\GCD\SimpleHTTPClient\Mobile\SimpleHTTPClient\SimpleHTTPClientViewController.m,3,0.0,3.0
+CocoaAsyncSocket,C/C++ Header,D:\clones\CocoaAsyncSocket\Examples\GCD\TestPreBuffer\Mobile\TestPreBuffer\ViewController.h,3,7.0,3.0

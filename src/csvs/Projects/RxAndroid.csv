@@ -1,0 +1,35 @@
+project,language,filename,blank,comment,code
+RxAndroid,Java,D:\clones\RxAndroid\rxandroid\src\test\java\io\reactivex\rxjava3\android\schedulers\HandlerSchedulerTest.java,155,32.0,638.0
+RxAndroid,Java,D:\clones\RxAndroid\rxandroid\src\test\java\io\reactivex\rxjava3\android\plugins\RxAndroidPluginsTest.java,24,13.0,160.0
+RxAndroid,Bourne Shell,D:\clones\RxAndroid\gradlew,23,36.0,126.0
+RxAndroid,Java,D:\clones\RxAndroid\rxandroid\src\test\java\io\reactivex\rxjava3\android\schedulers\AndroidSchedulersTest.java,22,13.0,110.0
+RxAndroid,Gradle,D:\clones\RxAndroid\rxandroid\build.gradle,22,15.0,100.0
+RxAndroid,Java,D:\clones\RxAndroid\rxandroid\src\main\java\io\reactivex\rxjava3\android\schedulers\HandlerScheduler.java,26,14.0,100.0
+RxAndroid,Java,D:\clones\RxAndroid\rxandroid\src\test\java\io\reactivex\rxjava3\android\MainThreadDisposableTest.java,17,14.0,88.0
+RxAndroid,Markdown,D:\clones\RxAndroid\README.md,40,0.0,83.0
+RxAndroid,Java,D:\clones\RxAndroid\rxandroid\src\main\java\io\reactivex\rxjava3\android\plugins\RxAndroidPlugins.java,14,27.0,73.0
+RxAndroid,DOS Batch,D:\clones\RxAndroid\gradlew.bat,21,2.0,66.0
+RxAndroid,Java,D:\clones\RxAndroid\sample-app\src\main\java\io\reactivex\rxjava3\android\samples\MainActivity.java,9,16.0,54.0
+RxAndroid,Gradle,D:\clones\RxAndroid\gradle\artifacts.gradle,13,11.0,44.0
+RxAndroid,Java,D:\clones\RxAndroid\rxandroid\src\main\java\io\reactivex\rxjava3\android\schedulers\AndroidSchedulers.java,9,39.0,41.0
+RxAndroid,Java,D:\clones\RxAndroid\rxandroid\src\main\java\io\reactivex\rxjava3\android\MainThreadDisposable.java,6,46.0,29.0
+RxAndroid,YAML,D:\clones\RxAndroid\.travis.yml,8,5.0,26.0
+RxAndroid,Gradle,D:\clones\RxAndroid\build.gradle,2,0.0,25.0
+RxAndroid,XML,D:\clones\RxAndroid\sample-app\src\main\AndroidManifest.xml,6,0.0,24.0
+RxAndroid,Markdown,D:\clones\RxAndroid\CONTRIBUTING.md,7,0.0,22.0
+RxAndroid,Gradle,D:\clones\RxAndroid\sample-app\build.gradle,5,0.0,20.0
+RxAndroid,Markdown,D:\clones\RxAndroid\RELEASING.md,1,0.0,18.0
+RxAndroid,XML,D:\clones\RxAndroid\sample-app\src\main\res\layout\main_activity.xml,2,0.0,16.0
+RxAndroid,Properties,D:\clones\RxAndroid\gradle.properties,3,0.0,15.0
+RxAndroid,Bourne Shell,D:\clones\RxAndroid\gradle\buildViaTravis.sh,1,1.0,14.0
+RxAndroid,Markdown,D:\clones\RxAndroid\CHANGES.md,9,0.0,11.0
+RxAndroid,YAML,D:\clones\RxAndroid\.github\workflows\gradle-wrapper-validation.yml,1,0.0,9.0
+RxAndroid,Java,D:\clones\RxAndroid\rxandroid\src\test\java\io\reactivex\rxjava3\android\testutil\CountingRunnable.java,2,13.0,8.0
+RxAndroid,Java,D:\clones\RxAndroid\rxandroid\src\test\java\io\reactivex\rxjava3\android\testutil\EmptyScheduler.java,2,13.0,8.0
+RxAndroid,XML,D:\clones\RxAndroid\sample-app\src\main\res\values\styles.xml,4,0.0,8.0
+RxAndroid,Properties,D:\clones\RxAndroid\gradle\wrapper\gradle-wrapper.properties,0,0.0,5.0
+RxAndroid,XML,D:\clones\RxAndroid\sample-app\src\main\res\values\strings.xml,2,0.0,5.0
+RxAndroid,XML,D:\clones\RxAndroid\sample-app\src\main\res\values\dimens.xml,1,1.0,4.0
+RxAndroid,XML,D:\clones\RxAndroid\sample-app\src\main\res\values-w820dp\dimens.xml,0,3.0,3.0
+RxAndroid,Gradle,D:\clones\RxAndroid\settings.gradle,1,0.0,3.0
+RxAndroid,XML,D:\clones\RxAndroid\rxandroid\src\main\AndroidManifest.xml,2,11.0,2.0

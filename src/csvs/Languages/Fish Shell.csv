@@ -1,0 +1,13 @@
+project,language,filename,blank,comment,code
+brew,Fish Shell,D:\clones\brew\completions\fish\brew.fish,250,55.0,1353.0
+alacritty,Fish Shell,D:\clones\alacritty\extra\completions\alacritty.fish,0,0.0,30.0
+sbt,Fish Shell,D:\clones\sbt\client\completions\sbtn.fish,0,0.0,4.0
+exa,Fish Shell,D:\clones\exa\completions\fish\exa.fish,5,5.0,81.0
+XX-Net,Fish Shell,D:\clones\XX-Net\python3.8.2\Lib\venv\scripts\posix\activate.fish,13,15.0,47.0
+fzf,Fish Shell,D:\clones\fzf\shell\key-bindings.fish,26,31.0,115.0
+fastlane,Fish Shell,D:\clones\fastlane\fastlane\lib\assets\completions\completion.fish,7,3.0,29.0
+godot,Fish Shell,D:\clones\godot\misc\dist\shell\godot.fish,7,31.0,62.0
+symfony,Fish Shell,D:\clones\symfony\src\Symfony\Component\Console\Resources\completion.fish,7,6.0,16.0
+you-get,Fish Shell,D:\clones\you-get\contrib\completion\you-get.fish,1,1.0,21.0
+cpython,Fish Shell,D:\clones\cpython\Lib\venv\scripts\posix\activate.fish,13,13.0,40.0
+httpie,Fish Shell,D:\clones\httpie\extras\httpie-completion.fish,28,9.0,100.0

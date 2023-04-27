@@ -1,0 +1,134 @@
+project,language,filename,blank,comment,code
+fblualib,C++,D:\clones\fblualib\fblualib\thrift\Serialization.cpp,177,95.0,1060.0
+fblualib,Lua,D:\clones\fblualib\fblualib\debugger\fb\debugger\init.lua,98,41.0,753.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\fb\util\init.lua,131,204.0,649.0
+fblualib,Lua,D:\clones\fblualib\fblualib\luaunit\fb\luaunit\init.lua,116,59.0,585.0
+fblualib,Lua,D:\clones\fblualib\fblualib\python\test\lua_python_test.lua,67,46.0,465.0
+fblualib,Lua,D:\clones\fblualib\fblualib\thrift\test\thrift_test.lua,87,20.0,439.0
+fblualib,C++,D:\clones\fblualib\fblualib\torch\AsyncRNG.cpp,91,39.0,416.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\test\util_test.lua,69,17.0,386.0
+fblualib,C++,D:\clones\fblualib\fblualib\python\LuaToPython.cpp,72,42.0,384.0
+fblualib,C++,D:\clones\fblualib\fblualib\test\LuaUtilsTest.cpp,67,7.0,329.0
+fblualib,C/C++ Header,D:\clones\fblualib\fblualib\atomicvector\AtomicVector.h,55,98.0,312.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\fb\util\future.lua,66,190.0,305.0
+fblualib,Lua,D:\clones\fblualib\fblualib\editline\fb\editline\init.lua,69,38.0,302.0
+fblualib,C++,D:\clones\fblualib\fblualib\python\Ref.cpp,43,19.0,299.0
+fblualib,C++,D:\clones\fblualib\fblualib\thrift\LuaObject.cpp,40,12.0,299.0
+fblualib,Lua,D:\clones\fblualib\fblualib\trepl\fb\trepl\init.lua,36,30.0,298.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\test\future_test.lua,103,10.0,275.0
+fblualib,C/C++ Header,D:\clones\fblualib\fblualib\LuaUtils-inl.h,40,10.0,264.0
+fblualib,C++,D:\clones\fblualib\fblualib\util\Reactor.cpp,62,54.0,260.0
+fblualib,Lua,D:\clones\fblualib\fblualib\atomicvector\test\atomicvector_test.lua,42,31.0,243.0
+fblualib,C++,D:\clones\fblualib\fblualib\test\UserDataTest.cpp,59,5.0,241.0
+fblualib,C++,D:\clones\fblualib\fblualib\LuaUtils.cpp,40,22.0,225.0
+fblualib,C++,D:\clones\fblualib\fblualib\util\Util.cpp,43,16.0,221.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\fb\util\digraph.lua,40,43.0,216.0
+fblualib,C++,D:\clones\fblualib\fblualib\atomicvector\AtomicVector.cpp,41,13.0,211.0
+fblualib,C++,D:\clones\fblualib\fblualib\thrift\test\SerializerTest.cpp,58,15.0,206.0
+fblualib,Lua,D:\clones\fblualib\fblualib\debugger\fb\debugger\breakpoint.lua,32,8.0,195.0
+fblualib,C++,D:\clones\fblualib\fblualib\thrift\test\LuaObjectTestModule.cpp,31,8.0,191.0
+fblualib,Markdown,D:\clones\fblualib\fblualib\python\README.md,39,0.0,190.0
+fblualib,C++,D:\clones\fblualib\fblualib\python\Lib.cpp,43,28.0,188.0
+fblualib,C/C++ Header,D:\clones\fblualib\fblualib\UserData.h,54,115.0,187.0
+fblualib,Lua,D:\clones\fblualib\fblualib\trepl\fb\trepl\base.lua,14,8.0,182.0
+fblualib,C++,D:\clones\fblualib\fblualib\mattorch\MatTorch.cpp,42,38.0,180.0
+fblualib,C++,D:\clones\fblualib\fblualib\thrift\Encoding.cpp,35,17.0,173.0
+fblualib,Lua,D:\clones\fblualib\fblualib\ffivector\fb\ffivector\init.lua,36,78.0,172.0
+fblualib,C/C++ Header,D:\clones\fblualib\fblualib\thrift\LuaObject.h,26,21.0,169.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\fb\util\error.lua,31,107.0,169.0
+fblualib,C++,D:\clones\fblualib\fblualib\python\PythonToLua.cpp,27,37.0,168.0
+fblualib,Lua,D:\clones\fblualib\fblualib\editline\fb\editline\completer.lua,21,76.0,156.0
+fblualib,Lua,D:\clones\fblualib\fblualib\thrift\fb\thrift\init.lua,29,167.0,155.0
+fblualib,C/C++ Header,D:\clones\fblualib\fblualib\thrift\Serialization.h,51,200.0,150.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\test\error_handling_test.lua,30,13.0,146.0
+fblualib,Markdown,D:\clones\fblualib\fblualib\util\README.md,48,0.0,145.0
+fblualib,C/C++ Header,D:\clones\fblualib\fblualib\LuaUtils.h,39,89.0,138.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\fb\util\trace.lua,28,105.0,134.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\test\digraph_test.lua,35,8.0,134.0
+fblualib,Lua,D:\clones\fblualib\fblualib\debugger\fb\debugger\types.lua,24,15.0,132.0
+fblualib,C/C++ Header,D:\clones\fblualib\fblualib\python\Utils.h,34,40.0,132.0
+fblualib,Markdown,D:\clones\fblualib\fblualib\torch\README.md,17,0.0,129.0
+fblualib,C++,D:\clones\fblualib\fblualib\thrift\LuaSerialization.cpp,33,15.0,128.0
+fblualib,C++,D:\clones\fblualib\fblualib\atomicvector\AtomicVectorTest.cpp,23,17.0,127.0
+fblualib,Bourne Shell,D:\clones\fblualib\install_all.sh,20,8.0,126.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\fb\util\timing.lua,25,35.0,123.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\test\stats_test.lua,16,0.0,115.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\fb\util\logging.lua,22,32.0,91.0
+fblualib,Lua,D:\clones\fblualib\fblualib\debugger\fb\debugger\utils.lua,11,8.0,89.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\test\reactor_test.lua,16,12.0,79.0
+fblualib,Lua,D:\clones\fblualib\fblualib\ffivector\test\ffivector_test.lua,23,8.0,75.0
+fblualib,CMake,D:\clones\fblualib\fblualib\python\CMakeLists.txt,17,11.0,75.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\fb\util\multi_level.lua,7,22.0,75.0
+fblualib,C++,D:\clones\fblualib\fblualib\python\Debug.cpp,23,9.0,73.0
+fblualib,C++,D:\clones\fblualib\fblualib\test\PromiseTest.cpp,14,10.0,73.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\test\trace_test.lua,14,10.0,71.0
+fblualib,C++,D:\clones\fblualib\fblualib\ffivector\FFIVector.cpp,14,11.0,70.0
+fblualib,Markdown,D:\clones\fblualib\fblualib\thrift\README.md,21,0.0,69.0
+fblualib,C/C++ Header,D:\clones\fblualib\fblualib\python\Storage-inl.h,10,10.0,67.0
+fblualib,Lua,D:\clones\fblualib\fblualib\complex\fb\complex\init.lua,18,15.0,66.0
+fblualib,C++,D:\clones\fblualib\fblualib\Future.cpp,21,18.0,65.0
+fblualib,Thrift,D:\clones\fblualib\fblualib\thrift\if\LuaObject.thrift,14,43.0,65.0
+fblualib,Markdown,D:\clones\fblualib\fblualib\ffivector\README.md,16,0.0,64.0
+fblualib,Lua,D:\clones\fblualib\fblualib\python\fb\python\init.lua,12,18.0,64.0
+fblualib,C++,D:\clones\fblualib\fblualib\UserData.cpp,21,84.0,63.0
+fblualib,Lua,D:\clones\fblualib\fblualib\thrift\test\lua_object_test.lua,15,8.0,63.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\fb\util\stats.lua,10,3.0,63.0
+fblualib,CMake,D:\clones\fblualib\fblualib\thrift\CMakeLists.txt,18,8.0,62.0
+fblualib,C++,D:\clones\fblualib\fblualib\python\Utils.cpp,16,17.0,59.0
+fblualib,CMake,D:\clones\fblualib\fblualib\cmake\FindThrift.cmake,10,20.0,56.0
+fblualib,C/C++ Header,D:\clones\fblualib\fblualib\python\Utils-inl.h,19,21.0,54.0
+fblualib,Markdown,D:\clones\fblualib\CONTRIBUTING.md,9,0.0,53.0
+fblualib,Markdown,D:\clones\fblualib\fblualib\debugger\README.md,6,0.0,53.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\fb\util\reactor.lua,19,47.0,53.0
+fblualib,C++,D:\clones\fblualib\fblualib\thrift\ChunkedCompression.cpp,14,10.0,50.0
+fblualib,Lua,D:\clones\fblualib\fblualib\atomicvector\fb\atomicvector\init.lua,8,10.0,48.0
+fblualib,C/C++ Header,D:\clones\fblualib\fblualib\python\Storage.h,17,18.0,48.0
+fblualib,C/C++ Header,D:\clones\fblualib\fblualib\thrift\Encoding.h,18,13.0,48.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\test\find_test.lua,13,2.0,47.0
+fblualib,CMake,D:\clones\fblualib\fblualib\python\cmake\FindNumPy.cmake,12,45.0,45.0
+fblualib,CMake,D:\clones\fblualib\fblualib\CMakeLists.txt,13,9.0,44.0
+fblualib,C/C++ Header,D:\clones\fblualib\fblualib\CrossThreadRegistry.h,10,9.0,44.0
+fblualib,Markdown,D:\clones\fblualib\fblualib\editline\README.md,9,0.0,42.0
+fblualib,C/C++ Header,D:\clones\fblualib\fblualib\python\LuaToPython.h,12,10.0,41.0
+fblualib,CMake,D:\clones\fblualib\fblualib\mattorch\CMakeLists.txt,13,8.0,40.0
+fblualib,C++,D:\clones\fblualib\fblualib\python\NumpyArrayAllocator.cpp,10,14.0,39.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\fb\util\dbg.lua,8,21.0,38.0
+fblualib,C/C++ Header,D:\clones\fblualib\fblualib\Future.h,18,58.0,34.0
+fblualib,CMake,D:\clones\fblualib\fblualib\util\CMakeLists.txt,14,7.0,34.0
+fblualib,Markdown,D:\clones\fblualib\README.md,3,0.0,32.0
+fblualib,Markdown,D:\clones\fblualib\INSTALL.md,8,0.0,31.0
+fblualib,Markdown,D:\clones\fblualib\fblualib\README.md,6,0.0,31.0
+fblualib,C/C++ Header,D:\clones\fblualib\fblualib\python\Debug.h,14,9.0,30.0
+fblualib,CMake,D:\clones\fblualib\fblualib\ffivector\CMakeLists.txt,13,7.0,29.0
+fblualib,CMake,D:\clones\fblualib\fblualib\editline\CMakeLists.txt,8,7.0,25.0
+fblualib,CMake,D:\clones\fblualib\fblualib\torch\CMakeLists.txt,14,7.0,25.0
+fblualib,C/C++ Header,D:\clones\fblualib\fblualib\python\NumpyArrayAllocator.h,9,11.0,24.0
+fblualib,C/C++ Header,D:\clones\fblualib\fblualib\python\PythonToLua.h,9,13.0,24.0
+fblualib,C/C++ Header,D:\clones\fblualib\fblualib\python\Ref.h,8,10.0,24.0
+fblualib,CMake,D:\clones\fblualib\fblualib\python\cmake\MultiLevelIncludes.cmake,2,27.0,23.0
+fblualib,Markdown,D:\clones\fblualib\fblualib\trepl\README.md,7,0.0,22.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\fb\util\_promise_registry.lua,9,9.0,22.0
+fblualib,Markdown,D:\clones\fblualib\fblualib\mattorch\README.md,6,0.0,21.0
+fblualib,Bourne Shell,D:\clones\fblualib\fblualib\build.sh,5,11.0,19.0
+fblualib,C/C++ Header,D:\clones\fblualib\fblualib\thrift\ChunkedCompression.h,10,19.0,19.0
+fblualib,C/C++ Header,D:\clones\fblualib\fblualib\thrift\LuaObject-inl.h,6,4.0,18.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\test\file_test.lua,6,8.0,18.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\fb\util\data.lua,3,11.0,16.0
+fblualib,C/C++ Header,D:\clones\fblualib\fblualib\Reactor.h,8,48.0,15.0
+fblualib,Lua,D:\clones\fblualib\fblualib\editline\editline_test.lua,3,8.0,15.0
+fblualib,Lua,D:\clones\fblualib\fblualib\mattorch\fb\mattorch\init.lua,5,20.0,14.0
+fblualib,C++,D:\clones\fblualib\fblualib\python\Storage.cpp,4,9.0,13.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\fb\util\file.lua,3,3.0,9.0
+fblualib,CMake,D:\clones\fblualib\fblualib\python\cmake\FindGlog.cmake,5,10.0,8.0
+fblualib,Thrift,D:\clones\fblualib\fblualib\thrift\if\ChunkedCompression.thrift,3,8.0,8.0
+fblualib,CMake,D:\clones\fblualib\fblualib\cmake\FindFBLuaLib.cmake,5,12.0,7.0
+fblualib,CMake,D:\clones\fblualib\fblualib\cmake\FindFolly.cmake,5,12.0,7.0
+fblualib,CMake,D:\clones\fblualib\fblualib\cmake\FindMatIO.cmake,5,11.0,7.0
+fblualib,CMake,D:\clones\fblualib\fblualib\python\cmake\FindTHPP.cmake,5,12.0,7.0
+fblualib,C++,D:\clones\fblualib\fblualib\Reactor.cpp,5,17.0,6.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\test\imports\init.lua,2,0.0,6.0
+fblualib,Markdown,D:\clones\fblualib\fblualib\luaunit\README.md,1,0.0,5.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\test\imports\b\init.lua,1,0.0,4.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\test\imports\a.lua,0,0.0,1.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\test\imports\b\c.lua,0,0.0,1.0
+fblualib,Lua,D:\clones\fblualib\fblualib\util\test\imports\d.lua,0,0.0,1.0

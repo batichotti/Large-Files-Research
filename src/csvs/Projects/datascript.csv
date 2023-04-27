@@ -1,0 +1,92 @@
+project,language,filename,blank,comment,code
+datascript,ClojureC,D:\clones\datascript\src\datascript\db.cljc,225,56.0,1268.0
+datascript,ClojureC,D:\clones\datascript\src\datascript\query.cljc,123,25.0,750.0
+datascript,ClojureC,D:\clones\datascript\src\datascript\query_v3.cljc,165,103.0,738.0
+datascript,ClojureC,D:\clones\datascript\src\datascript\parser.cljc,124,54.0,611.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\pull_api.cljc,67,1.0,495.0
+datascript,JavaScript,D:\clones\datascript\test\js\tests.js,79,14.0,473.0
+datascript,ClojureC,D:\clones\datascript\src\datascript\core.cljc,205,98.0,461.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\transact.cljc,42,4.0,426.0
+datascript,Markdown,D:\clones\datascript\CHANGELOG.md,230,0.0,407.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\query_fns.cljc,44,6.0,285.0
+datascript,ClojureC,D:\clones\datascript\src\datascript\pull_api.cljc,64,10.0,284.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\tuples.cljc,42,4.0,279.0
+datascript,ClojureC,D:\clones\datascript\bench\datascript\bench\datascript.cljc,39,0.0,246.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\query.cljc,31,0.0,238.0
+datascript,Markdown,D:\clones\datascript\README.md,94,0.0,219.0
+datascript,ClojureC,D:\clones\datascript\src\datascript\serialize.cljc,19,0.0,211.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\lookup_refs.cljc,56,7.0,211.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\upsert.cljc,29,2.0,202.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\parser_where.cljc,43,0.0,200.0
+datascript,Clojure,D:\clones\datascript\bench\datascript\bench\datomic.clj,26,1.0,193.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\query_rules.cljc,15,1.0,176.0
+datascript,ClojureC,D:\clones\datascript\src\datascript\impl\entity.cljc,32,3.0,167.0
+datascript,ClojureC,D:\clones\datascript\src\datascript\built_ins.cljc,23,1.0,163.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\index.cljc,25,0.0,156.0
+datascript,ClojureC,D:\clones\datascript\src\datascript\pull_parser.cljc,26,10.0,155.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\serialize.cljc,23,1.0,154.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\query_not.cljc,32,17.0,150.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\query_or.cljc,25,16.0,146.0
+datascript,Clojure,D:\clones\datascript\test_datomic\test_datomic\pull_api.clj,17,0.0,142.0
+datascript,ClojureC,D:\clones\datascript\bench\datascript\bench\bench.cljc,20,2.0,130.0
+datascript,ClojureScript,D:\clones\datascript\src\datascript\js.cljs,36,2.0,129.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\pull_parser.cljc,25,19.0,122.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\explode.cljc,20,0.0,115.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\query_pull.cljc,18,1.0,114.0
+datascript,Clojure,D:\clones\datascript\script\release.clj,18,0.0,103.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\parser_rules.cljc,16,0.0,96.0
+datascript,Clojure,D:\clones\datascript\project.clj,10,4.0,86.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\query_aggregates.cljc,16,5.0,85.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\core.cljc,10,3.0,82.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\entity.cljc,10,1.0,82.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\components.cljc,12,0.0,77.0
+datascript,Markdown,D:\clones\datascript\docs\tuples.md,29,0.0,74.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\filter.cljc,8,2.0,74.0
+datascript,ClojureC,D:\clones\datascript\src\datascript\lru.cljc,7,0.0,72.0
+datascript,SVG,D:\clones\datascript\extras\logo.svg,0,0.0,70.0
+datascript,Markdown,D:\clones\datascript\docs\queries.md,22,0.0,59.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\parser.cljc,17,0.0,59.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test.cljc,5,0.0,57.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\conn.cljc,11,0.0,51.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\query_find_specs.cljc,5,0.0,48.0
+datascript,JSON,D:\clones\datascript\release-js\package.json,0,0.0,46.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\parser_find.cljc,6,0.0,46.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\issues.cljc,6,0.0,45.0
+datascript,Clojure,D:\clones\datascript\src\datascript\pprint.clj,4,0.0,43.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\query_return_map.cljc,5,0.0,41.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\db.cljc,8,6.0,39.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\validation.cljc,7,0.0,37.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\datafy.cljc,5,0.0,36.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\listen.cljc,2,0.0,36.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\parser_return_map.cljc,14,0.0,36.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\parser_query.cljc,13,0.0,35.0
+datascript,ClojureC,D:\clones\datascript\src\datascript\datafy.cljc,5,0.0,34.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\ident.cljc,12,0.0,25.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\lru.cljc,2,0.0,25.0
+datascript,JavaScript,D:\clones\datascript\script\test_cljs.js,8,0.0,24.0
+datascript,HTML,D:\clones\datascript\release-js\test_include_script.html,3,0.0,23.0
+datascript,YAML,D:\clones\datascript\.github\workflows\build_test.yml,2,0.0,22.0
+datascript,HTML,D:\clones\datascript\release-js\test_include_amd.html,2,0.0,22.0
+datascript,JavaScript,D:\clones\datascript\src\datascript\externs.js,3,6.0,22.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\query_v3.cljc,5,0.0,20.0
+datascript,ClojureC,D:\clones\datascript\test\datascript\test\cljs.cljc,3,7.0,19.0
+datascript,JavaScript,D:\clones\datascript\script\test_js.js,7,0.0,16.0
+datascript,Markdown,D:\clones\datascript\release-js\README.md,6,0.0,10.0
+datascript,JavaScript,D:\clones\datascript\script\bench_cljs.js,3,0.0,9.0
+datascript,Bourne Shell,D:\clones\datascript\script\test_all.sh,1,0.0,7.0
+datascript,JavaScript,D:\clones\datascript\release-js\test_include_node.js,0,0.0,6.0
+datascript,Bourne Shell,D:\clones\datascript\script\bench_all.sh,1,0.0,5.0
+datascript,Bourne Shell,D:\clones\datascript\script\test_cljs.sh,1,0.0,5.0
+datascript,Bourne Shell,D:\clones\datascript\script\test_js.sh,1,0.0,5.0
+datascript,Bourne Shell,D:\clones\datascript\release-js\wrap_bare.sh,3,0.0,4.0
+datascript,Bourne Shell,D:\clones\datascript\script\bench_cljs.sh,1,0.0,4.0
+datascript,Bourne Shell,D:\clones\datascript\script\test_clj.sh,1,0.0,4.0
+datascript,Bourne Shell,D:\clones\datascript\script\bench_clj.sh,1,0.0,3.0
+datascript,Bourne Shell,D:\clones\datascript\script\bench_datomic.sh,1,0.0,3.0
+datascript,Bourne Shell,D:\clones\datascript\script\clean.sh,1,0.0,3.0
+datascript,Bourne Shell,D:\clones\datascript\script\test_datomic.sh,1,0.0,3.0
+datascript,ClojureScript,D:\clones\datascript\src\deps.cljs,0,0.0,3.0
+datascript,YAML,D:\clones\datascript\.github\FUNDING.yml,0,0.0,2.0
+datascript,Bourne Shell,D:\clones\datascript\script\nrepl.sh,1,0.0,2.0
+datascript,Clojure,D:\clones\datascript\src\data_readers.clj,0,0.0,2.0
+datascript,JavaScript,D:\clones\datascript\test\js\underscore-1.6.0.min.js,0,5.0,1.0

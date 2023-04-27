@@ -1,0 +1,13 @@
+project,language,filename,blank,comment,code
+rust,Freemarker Template,D:\clones\rust\compiler\rustc_error_messages\locales\en-US\typeck.ftl,28,0.0,97.0
+elasticsearch,Freemarker Template,D:\clones\elasticsearch\build-tools-internal\src\main\resources\deb\preinst.ftl,0,0.0,2.0
+rust,Freemarker Template,D:\clones\rust\src\test\ui-fulldeps\fluent-messages\valid.ftl,0,0.0,1.0
+rust,Freemarker Template,D:\clones\rust\src\test\ui-fulldeps\fluent-messages\missing-message.ftl,0,0.0,1.0
+rust,Freemarker Template,D:\clones\rust\src\test\ui-fulldeps\fluent-messages\duplicate-b.ftl,0,0.0,1.0
+rust,Freemarker Template,D:\clones\rust\src\test\run-make\translation\basic-translation.ftl,0,0.0,2.0
+rust,Freemarker Template,D:\clones\rust\compiler\rustc_error_messages\locales\en-US\parser.ftl,9,0.0,25.0
+spring-framework,Freemarker Template,D:\clones\spring-framework\spring-webmvc\src\main\resources\org\springframework\web\servlet\view\freemarker\spring.ftl,24,243.0,117.0
+elasticsearch,Freemarker Template,D:\clones\elasticsearch\build-tools-internal\src\main\resources\deb\conffiles.ftl,0,0.0,3.0
+spring-framework,Freemarker Template,D:\clones\spring-framework\spring-webmvc\src\test\resources\org\springframework\web\servlet\view\freemarker\test.ftl,30,3.0,61.0
+spring-framework,Freemarker Template,D:\clones\spring-framework\spring-webflux\src\test\resources\org\springframework\web\reactive\result\view\freemarker\test-macro.ftl,26,3.0,53.0
+spring-framework,Freemarker Template,D:\clones\spring-framework\spring-webflux\src\main\resources\org\springframework\web\reactive\result\view\freemarker\spring.ftl,20,222.0,112.0

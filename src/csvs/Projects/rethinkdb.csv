@@ -1,0 +1,2110 @@
+project,language,filename,blank,comment,code
+rethinkdb,C++,D:\clones\rethinkdb\src\gen\web_assets.cc,3,26497.0,103187.0
+rethinkdb,JSON,D:\clones\rethinkdb\admin\npm-shrinkwrap.json,0,0.0,5513.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_unittest.cc,1226,1091.0,5098.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\codemirror\codemirror.js,543,407.0,4630.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\include\gtest\internal\gtest-param-util-generated.h,349,235.0,4559.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\external\rethinkdb_js_2.4.2\ast.js,1367,1.0,3882.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\changefeed.cc,271,321.0,3465.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\dataexplorer.coffee,458,318.0,3266.0
+rethinkdb,diff,D:\clones\rethinkdb\mk\support\pkg\patch\protobuf_0-visual-studio-config.patch,0,40.0,3202.0
+rethinkdb,JSON,D:\clones\rethinkdb\demos\election\county_stats.json,0,0.0,3196.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\styles.less,220,210.0,3180.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\include\gtest\internal\gtest-type-util.h,138,111.0,3082.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rpc\serialize_macros.hpp,212,28.0,3063.0
+rethinkdb,Markdown,D:\clones\rethinkdb\NOTES.md,772,0.0,2933.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\src\gtest.cc,691,1481.0,2843.0
+rethinkdb,Python,D:\clones\rethinkdb\scripts\cpplint,883,2583.0,2755.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\reql_docs.js,0,2.0,2497.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\main\command_line.cc,376,194.0,2321.0
+rethinkdb,SVG,D:\clones\rethinkdb\admin\static\fonts\ionicons.svg,0,3.0,2229.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\datum_stream.cc,241,139.0,2218.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\datum.cc,236,149.0,1894.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\btree.cc,199,244.0,1844.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_pred_impl_unittest.cc,246,438.0,1743.0
+rethinkdb,C++,D:\clones\rethinkdb\src\http\http_parser.cc,374,206.0,1684.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\test-runner,512,191.0,1634.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\_ionicons-icons.less,1,2.0,1470.0
+rethinkdb,C++,D:\clones\rethinkdb\src\buffer_cache\page_cache.cc,305,273.0,1463.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\datastructures.py,497,727.0,1397.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\io\network.cc,254,182.0,1388.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\generic\raft_core.tcc,233,543.0,1287.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\real_reql_cluster_interface.cc,166,51.0,1275.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\karney\geodesic.cc,135,364.0,1271.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\sindex\api.yaml,94,9.0,1245.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\protocol.cc,188,163.0,1241.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\lesshat.less,506,450.0,1216.0
+rethinkdb,C++,D:\clones\rethinkdb\src\btree\leaf_node.cc,335,319.0,1168.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rpc\connectivity\cluster.cc,193,255.0,1168.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\compiler.py,225,248.0,1167.0
+rethinkdb,Bourne Again Shell,D:\clones\rethinkdb\configure,116,114.0,1108.0
+rethinkdb,C++,D:\clones\rethinkdb\src\serializer\log\data_block_manager.cc,275,247.0,1081.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest-printers_test.cc,256,245.0,1065.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\reader.h,194,231.0,1052.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\basic.py,170,39.0,1045.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\shards.cc,76,44.0,1028.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\btree_store.cc,160,106.0,1027.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\include\gtest\gtest-param-test.h,97,320.0,1004.0
+rethinkdb,C++,D:\clones\rethinkdb\src\pprint\js_pprint.cc,92,38.0,962.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\backbone.js,231,421.0,956.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\page_test.cc,211,26.0,943.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\rdb_cubism.v1.js,196,84.0,935.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\document.h,276,726.0,930.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest-port_test.cc,221,110.0,922.0
+rethinkdb,Python,D:\clones\rethinkdb\packaging\osx\ds_store\store.py,185,113.0,922.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\store.cc,109,76.0,917.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\external\rethinkdb_js_2.4.2\net.js,72,1.0,915.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest-death-test_test.cc,223,235.0,909.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\include\gtest\internal\gtest-port.h,259,782.0,906.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\db_table.cc,98,36.0,902.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\include\gtest\gtest.h,330,1075.0,886.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2polygon.cc,151,175.0,885.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\seq.cc,96,17.0,850.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rpc\semilattice\joins\macros.hpp,26,22.0,847.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\src\gtest-death-test.cc,166,343.0,835.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\rdb_protocol.cc,120,60.0,834.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\test_framework.py,125,29.0,834.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\tables\table_config.cc,71,31.0,818.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\serialize_datum.cc,102,96.0,811.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\val.cc,72,18.0,803.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\artificial_reql_cluster_interface.cc,53,6.0,796.0
+rethinkdb,C++,D:\clones\rethinkdb\src\serializer\log\log_serializer.cc,188,92.0,792.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\test\rql_test\drivers\driver.js,126,63.0,761.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\cubism.v1.js,160,58.0,757.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\tables\table.coffee,128,94.0,753.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\include\gtest\internal\gtest-tuple.h,196,68.0,748.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\term_walker.cc,30,14.0,748.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\connections\tornado_connection.py.test,179,50.0,745.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\_ionicons-variables.less,2,8.0,737.0
+rethinkdb,Python,D:\clones\rethinkdb\packaging\osx\mac_alias\osx.py,74,15.0,734.0
+rethinkdb,C++,D:\clones\rethinkdb\src\extproc\http_job.cc,133,87.0,732.0
+rethinkdb,C++,D:\clones\rethinkdb\src\cjson\cJSON.cc,125,76.0,723.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\parser.py,90,83.0,722.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\connections\twisted_connection.+py2_7_py3_3+.test,180,46.0,702.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\table_manager\table_meta_client.cc,62,71.0,719.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\wrappers.py,286,810.0,712.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\driver.py,187,121.0,710.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\test\performance\comparisons\jquery.tablesorter.js,138,186.0,707.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\routing.py,284,654.0,693.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\wrappers.py,119,47.0,674.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\utils.py,223,80.0,674.0
+rethinkdb,Python,D:\clones\rethinkdb\packaging\osx\biplist\__init__.py,87,115.0,668.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\rdb_env.cc,81,4.0,665.0
+rethinkdb,C++,D:\clones\rethinkdb\src\buffer_cache\alt.cc,116,91.0,658.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\blueprints.py,117,16.0,657.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\app.py,285,907.0,650.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\runtime\context_switching.cc,113,167.0,644.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\arr.cc,74,29.0,643.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\jquery.form.js,85,190.0,636.0
+rethinkdb,C++,D:\clones\rethinkdb\src\client_protocol\server.cc,83,52.0,636.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\external\rethinkdb_js_2.4.2\cursor.js,85,1.0,634.0
+rethinkdb,C++,D:\clones\rethinkdb\src\buffer_cache\blob.cc,143,37.0,620.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\logs\log_writer.cc,93,33.0,620.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\http.cc,89,82.0,617.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_output_test_.cc,194,229.0,611.0
+rethinkdb,C++,D:\clones\rethinkdb\src\extproc\js_job.cc,108,46.0,604.0
+rethinkdb,Python,D:\clones\rethinkdb\external\gtest_1.7.0\scripts\pump.py,166,86.0,603.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\environment.py,186,404.0,601.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\auth\permissions_artificial_table_backend.cc,75,6.0,599.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\rpc_connectivity.cc,134,70.0,599.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\persist\migrate\migrate_v1_16.cc,76,25.0,596.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\routing.py,85,8.0,596.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\datastructures.py,152,65.0,593.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\pseudo_time.cc,56,59.0,588.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest-param-test_test.cc,139,179.0,586.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\protocol.hpp,111,68.0,586.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\src\gtest-internal-inl.h,218,420.0,580.0
+rethinkdb,JSON,D:\clones\rethinkdb\demos\election\input_polls.json,0,0.0,577.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\include\gtest\internal\gtest-internal.h,155,442.0,561.0
+rethinkdb,C++,D:\clones\rethinkdb\src\btree\backfill.cc,54,119.0,560.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\jquery.color.js,64,46.0,554.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\table_manager\multi_table_manager.cc,67,90.0,553.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\util\math\exactfloat\exactfloat.cc,83,144.0,551.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\term_storage.cc,73,5.0,548.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2loop.cc,102,170.0,538.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\modals.coffee,98,79.0,537.0
+rethinkdb,Python,D:\clones\rethinkdb\scripts\rethinkdb-gdb.py,151,70.0,537.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\test.py,128,215.0,537.0
+rethinkdb,C++,D:\clones\rethinkdb\src\http\http.cc,107,60.0,532.0
+rethinkdb,Ruby,D:\clones\rethinkdb\test\rql_test\drivers\driver.rb,93,31.0,526.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\lexer.py,80,130.0,523.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\leaf_node_test.cc,144,47.0,521.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\rdb_interruptor.cc,88,21.0,519.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\main\serve.cc,71,128.0,518.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\drivers\driver.py,175,62.0,517.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\address.cc,92,31.0,515.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\query_routing\table_query_client.cc,46,38.0,512.0
+rethinkdb,C++,D:\clones\rethinkdb\src\buffer_cache\page.cc,116,85.0,507.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\utf8.cc,53,26.0,502.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\clustering_contract_coordinator.cc,75,53.0,500.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\helpers.py,66,29.0,498.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\wsgi.py,180,369.0,498.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\src\gtest-port.cc,116,192.0,497.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\clustering_contract_executor.cc,64,73.0,495.0
+rethinkdb,C++,D:\clones\rethinkdb\src\btree\parallel_traversal.cc,100,98.0,493.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rpc\semilattice\semilattice_manager.tcc,55,36.0,493.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\io\disk.cc,109,82.0,489.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest-filepath_test.cc,102,91.0,487.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\changefeed.hpp,64,73.0,483.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\stats\request.cc,74,24.0,480.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\aggregation.yaml,79,16.0,480.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\http.py,177,325.0,478.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\generic\raft_core.hpp,141,398.0,476.0
+rethinkdb,C++,D:\clones\rethinkdb\src\btree\operations.cc,75,115.0,475.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\geo.cc,60,32.0,473.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\type_manip.cc,44,26.0,470.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\nodes.py,212,233.0,469.0
+rethinkdb,Python,D:\clones\rethinkdb\scripts\visualize_log_serializer.py,196,71.0,466.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\serving.py,129,159.0,461.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\styles-new.less,44,49.0,460.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\table_contract\coordinator\calculate_contracts.cc,55,252.0,455.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\mock_store.cc,74,48.0,452.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\itsdangerous\itsdangerous.py,162,258.0,452.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\table_contract\executor\exec_primary.cc,74,107.0,446.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\context.hpp,59,23.0,445.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\filters.py,205,341.0,441.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\mixins.less,82,101.0,438.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\include\gtest\gtest-printers.h,82,335.0,438.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\buffer_cache\page_cache.hpp,176,214.0,437.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\urls.py,153,326.0,437.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\encodings.h,86,114.0,430.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\table_fuzzer.py_one.test,129,47.0,429.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\util\math\matrix3x3-inl.h,71,84.0,424.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\transformation.yaml,99,21.0,423.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\testsuite\filters.py,73,20.0,422.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\connections\gevent_connection.+py2_7_py3_3+.test,132,33.0,433.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\logs\logs_backend.cc,50,65.0,421.0
+rethinkdb,Python,D:\clones\rethinkdb\packaging\osx\mac_alias\alias.py,104,65.0,418.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\sindex.cc,54,28.0,415.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\rdb_backfill.cc,63,69.0,415.0
+rethinkdb,Python,D:\clones\rethinkdb\packaging\osx\dmgbuild\colors.py,83,1.0,410.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\runtime\coroutines.cc,97,123.0,409.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\writes.cc,44,18.0,404.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\btree_whole.cc,101,3.0,403.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\testsuite\lexnparse.py,93,100.0,400.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\forms.less,80,77.0,399.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\persist\file.cc,35,18.0,395.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\geo_indexes.cc,54,29.0,395.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\clustering_utils_raft.cc,30,22.0,393.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2polygonbuilder.cc,65,102.0,392.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2latlngrect.cc,87,120.0,388.0
+rethinkdb,Python,D:\clones\rethinkdb\packaging\osx\dmgbuild\core.py,63,10.0,386.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\persist\migrate\migrate_v1_14.cc,27,62.0,386.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\geojson.cc,58,47.0,385.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2polyline.cc,79,122.0,385.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\ext.py,97,157.0,382.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\rdb_btree.cc,72,12.0,376.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\extproc_test.cc,82,41.0,375.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\base\port.h,123,186.0,373.0
+rethinkdb,CSS,D:\clones\rethinkdb\admin\static\js\chosen\chosen.css,8,13.0,372.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\main\options.cc,79,22.0,372.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\include\gtest\internal\gtest-param-util.h,71,179.0,369.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2.cc,98,317.0,368.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\connections\connection.py.test,127,37.0,368.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\util.coffee,61,52.0,367.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\runtime\thread_pool.cc,93,63.0,367.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\shards.hpp,45,27.0,365.0
+rethinkdb,C++,D:\clones\rethinkdb\src\serializer\log\lba\lba_list.cc,76,75.0,365.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\math_logic\comparison.yaml,86,26.0,365.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\func.cc,57,22.0,362.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\httpbin\core.py,163,65.0,362.0
+rethinkdb,C++,D:\clones\rethinkdb\src\serializer\log\metablock_manager.cc,72,47.0,360.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\artificial_table\artificial_table.cc,47,18.0,359.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\test.py,70,15.0,359.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\runtime.py,95,128.0,358.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\contrib\cache.py,119,202.0,358.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\disk_conflict_resolution.cc,70,39.0,357.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\immediate_consistency\backfillee.cc,57,117.0,356.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\test\common\mustache\mustache.js,86,129.0,355.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\immediate_consistency\remote_replicator_client.cc,61,80.0,354.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\datum.hpp,96,120.0,353.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\real_table.cc,38,18.0,353.0
+rethinkdb,C++,D:\clones\rethinkdb\src\btree\internal_node.cc,95,19.0,352.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\tables\generate_config.cc,31,73.0,343.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\util\math\vector4-inl.h,66,27.0,343.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\mk\support\pkg\pkg.sh,79,53.0,338.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2cellid.cc,65,119.0,338.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\util\math\vector3-inl.h,70,27.0,338.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\formparser.py,53,20.0,338.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\app.coffee,32,42.0,337.0
+rethinkdb,Python,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_filter_unittest.py,146,150.0,337.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\interface\permissions\permissions.py_one.yaml,16,1.0,337.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\store_receive_backfill.cc,66,134.0,336.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\immediate_consistency\backfiller.cc,46,119.0,334.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2cellunion.cc,60,63.0,334.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\io\network.hpp,124,105.0,333.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\store.hpp,71,56.0,333.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\obj_or_seq.cc,42,10.0,332.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\http.py,77,42.0,330.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\util\coding\varint.h,53,129.0,329.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\clustering_raft_storage.cc,55,1.0,328.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\unittest\rdb_env.hpp,43,20.0,328.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\helpers.py,150,374.0,325.0
+rethinkdb,C,D:\clones\rethinkdb\scripts\netrecord\netrecord.c,130,29.0,324.0
+rethinkdb,C++,D:\clones\rethinkdb\src\btree\reql_specific.cc,73,19.0,324.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\codemirror\javascript.js,29,11.0,323.0
+rethinkdb,Python,D:\clones\rethinkdb\packaging\osx\ds_store\buddy.py,97,56.0,320.0
+rethinkdb,Python,D:\clones\rethinkdb\test\changefeeds\squash_base.py,82,80.0,320.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\testsuite\ext.py,75,64.0,320.0
+rethinkdb,C++,D:\clones\rethinkdb\src\containers\archive\socket_stream.cc,72,30.0,318.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\query_cache.cc,40,22.0,316.0
+rethinkdb,C++,D:\clones\rethinkdb\src\backtrace.cc,62,29.0,315.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\util\math\mathutil.h,77,330.0,313.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\terms\terms.hpp,30,27.0,311.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\debug\tbtools.py,68,130.0,310.0
+rethinkdb,Python,D:\clones\rethinkdb\test\performance\test.py,83,23.0,309.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\artificial_reql_cluster_interface.hpp,40,5.0,308.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\real_reql_cluster_interface.hpp,29,11.0,308.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\persist\table_interface.cc,43,15.0,306.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo_traversal.cc,52,70.0,304.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\datum\binary.yaml,37,22.0,304.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\profile.cc,63,30.0,302.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\main\cache_size.cc,43,27.0,300.0
+rethinkdb,Protocol Buffers,D:\clones\rethinkdb\src\rdb_protocol\ql2.proto,82,480.0,300.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\btree.hpp,59,39.0,299.0
+rethinkdb,C++,D:\clones\rethinkdb\src\serializer\log\lba\disk_structure.cc,61,22.0,299.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\btree\keys.hpp,64,16.0,298.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\utils.py,89,133.0,298.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\indexing.cc,42,82.0,297.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\op.cc,42,16.0,297.0
+rethinkdb,C++,D:\clones\rethinkdb\src\utils.cc,45,29.0,296.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\runtime\coro_profiler.cc,59,35.0,295.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\table_contract\executor\executor.cc,27,37.0,295.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\util\coding\coder.h,81,75.0,294.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\utils.py,108,212.0,293.0
+rethinkdb,C++,D:\clones\rethinkdb\src\containers\uuid.cc,57,53.0,292.0
+rethinkdb,Python,D:\clones\rethinkdb\scripts\visualize_btree.py,102,30.0,291.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\writer.h,58,82.0,291.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\formparser.py,83,149.0,291.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\rdb_unittest.py,99,33.0,289.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\tables\debug_table_status.cc,26,2.0,286.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\datum\string.yaml,25,18.0,286.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\datum_adapter.cc,24,7.0,285.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\term.cc,18,7.0,284.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\issues.coffee,28,5.0,282.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\wsgi.py,59,11.0,282.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\range_map.hpp,34,81.0,281.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\arith.cc,43,15.0,280.0
+rethinkdb,Python,D:\clones\rethinkdb\scripts\pprint_sandbox.py,78,25.0,277.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2.h,103,465.0,277.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\table_config.py_one.test,52,5.0,277.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\table_contract\contract_metadata.cc,22,1.0,276.0
+rethinkdb,C++,D:\clones\rethinkdb\src\concurrency\watchable_map.tcc,26,1.0,276.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\util\math\vector2-inl.h,66,27.0,273.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\unittest\clustering_utils.hpp,37,7.0,272.0
+rethinkdb,m4,D:\clones\rethinkdb\external\gtest_1.7.0\m4\acx_pthread.m4,42,50.0,271.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\handlebars.runtime-1.0.0.js,60,32.0,270.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\issues\name_collision.cc,32,6.0,270.0
+rethinkdb,C++,D:\clones\rethinkdb\src\errors.cc,40,16.0,270.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\scoped.hpp,72,30.0,269.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\string.cc,23,16.0,269.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\meta\table.yaml,81,15.0,269.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2edgeindex.cc,46,145.0,267.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\navbar.less,35,41.0,266.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\selection.yaml,57,33.0,265.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\external\rethinkdb_js_2.4.2\proto-def.js,13,2.0,264.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\val.hpp,37,20.0,264.0
+rethinkdb,C++,D:\clones\rethinkdb\src\perfmon\perfmon.cc,59,28.0,263.0
+rethinkdb,Python,D:\clones\rethinkdb\test\performance\queries.py,3,3.0,263.0
+rethinkdb,Markdown,D:\clones\rethinkdb\admin\README.md,90,0.0,262.0
+rethinkdb,make,D:\clones\rethinkdb\src\build.mk,82,26.0,262.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\wire_func.cc,59,6.0,262.0
+rethinkdb,C++,D:\clones\rethinkdb\src\serializer\translator.cc,68,53.0,262.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\_internal.py,61,89.0,262.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\backup\roundtrip.py_one.test,59,26.0,262.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\tables\index.coffee,63,2.0,260.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\batching.cc,32,31.0,259.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\navs.less,50,56.0,258.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\external\rethinkdb_js_2.4.2\errors.js,80,1.0,256.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2regioncoverer.cc,42,52.0,256.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\region\region_map.hpp,30,31.0,256.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\btree_sindex.cc,59,4.0,255.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\markupsafe\_constants.py,4,8.0,255.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\urls.py,56,11.0,255.0
+rethinkdb,C++,D:\clones\rethinkdb\src\extproc\extproc_spawner.cc,48,31.0,254.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\templating.py,35,13.0,254.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\tables\table_metadata.cc,58,14.0,253.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\artificial_table\caching_cfeed_backend.cc,24,30.0,253.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rdb_workloads\stress,64,20.0,253.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\arity.yaml,59,8.0,251.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\auth\user.cc,42,6.0,250.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\rapidjson.h,114,265.0,250.0
+rethinkdb,Ruby,D:\clones\rethinkdb\test\rql_test\server_test.rb_one.test,37,3.0,250.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\range_map.cc,8,2.0,249.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\rethinkdb_jobs.py_one.test,86,22.0,249.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\blob_test.cc,55,2.0,247.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\default.yaml,17,6.0,247.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\time.cc,28,2.0,246.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\config.py,38,15.0,246.0
+rethinkdb,SVG,D:\clones\rethinkdb\admin\static\fonts\opensans-bold-webfont.svg,0,0.0,245.0
+rethinkdb,SVG,D:\clones\rethinkdb\admin\static\fonts\opensans-bolditalic-webfont.svg,0,0.0,245.0
+rethinkdb,SVG,D:\clones\rethinkdb\admin\static\fonts\opensans-extrabold-webfont.svg,0,0.0,245.0
+rethinkdb,SVG,D:\clones\rethinkdb\admin\static\fonts\opensans-extrabolditalic-webfont.svg,0,0.0,245.0
+rethinkdb,SVG,D:\clones\rethinkdb\admin\static\fonts\opensans-italic-webfont.svg,0,0.0,245.0
+rethinkdb,SVG,D:\clones\rethinkdb\admin\static\fonts\opensans-light-webfont.svg,0,0.0,245.0
+rethinkdb,SVG,D:\clones\rethinkdb\admin\static\fonts\opensans-lightitalic-webfont.svg,0,0.0,245.0
+rethinkdb,SVG,D:\clones\rethinkdb\admin\static\fonts\opensans-regular-webfont.svg,0,0.0,245.0
+rethinkdb,SVG,D:\clones\rethinkdb\admin\static\fonts\opensans-semibold-webfont.svg,0,0.0,245.0
+rethinkdb,SVG,D:\clones\rethinkdb\admin\static\fonts\opensans-semibolditalic-webfont.svg,0,0.0,245.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\table_manager\table_manager.cc,14,17.0,245.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\exceptions.py,136,207.0,245.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\pathspec.cc,19,8.0,244.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\src\gtest-filepath.cc,33,107.0,242.0
+rethinkdb,C++,D:\clones\rethinkdb\src\btree\secondary_operations.cc,32,7.0,242.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rpc\mailbox\mailbox.cc,46,34.0,241.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\store_send_backfill.cc,15,38.0,240.0
+rethinkdb,C++,D:\clones\rethinkdb\src\serializer\log\extent_manager.cc,54,34.0,239.0
+rethinkdb,SVG,D:\clones\rethinkdb\admin\static\fonts\copse-regular-webfont.svg,0,0.0,238.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\main\windows_service.cc,27,18.0,237.0
+rethinkdb,C++,D:\clones\rethinkdb\src\btree\depth_first_traversal.cc,22,16.0,236.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\internal\itoa.h,48,22.0,236.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest-unittest-api_test.cc,57,49.0,235.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2cellid.h,94,180.0,235.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\loaders.py,88,148.0,235.0
+rethinkdb,make,D:\clones\rethinkdb\external\gtest_1.7.0\Makefile.am,36,36.0,234.0
+rethinkdb,C++,D:\clones\rethinkdb\src\buffer_cache\cache_balancer.cc,49,23.0,234.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\archive\versioned.hpp,35,28.0,234.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\permissions\basic.py_one.test,42,18.0,233.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\servers\config_client.cc,16,9.0,232.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\jsproc.cc,72,30.0,232.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\responsive.less,56,85.0,231.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\strings\split.cc,29,76.0,231.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rpc\connectivity\cluster.hpp,81,134.0,231.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\contrib\iterio.py,56,59.0,231.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\contrib\lint.py,66,37.0,231.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\buffer_cache\alt.hpp,86,44.0,230.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\base\docid.h,47,75.0,230.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\utils.py,43,12.0,229.0
+rethinkdb,Python,D:\clones\rethinkdb\external\gtest_1.7.0\scripts\gen_gtest_pred_impl.py,157,345.0,228.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\counted.hpp,59,9.0,228.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\base\scoped_ptr.h,70,126.0,228.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\packaging\ami\build-ami.sh,32,20.0,227.0
+rethinkdb,C++,D:\clones\rethinkdb\src\parsing\utf8.cc,37,23.0,227.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\pprint_test.cc,47,29.0,227.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\jobs\report.cc,33,1.0,226.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest-listener_test.cc,42,43.0,225.0
+rethinkdb,XSLT,D:\clones\rethinkdb\mk\rethinkdb.vcxproj.xsl,27,11.0,225.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\mutex_assertion.hpp,21,9.0,225.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\internal\biginteger.h,46,23.0,225.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\bootstrap\bootstrap-typeahead.js,67,26.0,224.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\persist\raft_storage_interface.cc,17,3.0,224.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\stat.py_one.test,45,46.0,224.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\immediate_consistency\primary_dispatcher.cc,32,25.0,223.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\msinttypes\inttypes.h,45,46.0,221.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2edgeutil.cc,65,167.0,220.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\generic\minidir.tcc,18,27.0,219.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\rewrites.cc,41,2.0,219.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\clustering_raft_fuzzer.cc,34,8.0,219.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\internal\diyfp.h,26,24.0,218.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\error.hpp,28,25.0,218.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\util\coding\varint.cc,37,14.0,218.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\local.py,72,119.0,218.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\include\gtest\gtest_pred_impl.h,43,98.0,217.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\debug.py,56,64.0,217.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_catch_exceptions_test_.cc,56,39.0,216.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\unittest_utils.cc,35,5.0,216.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\debug\repr.py,34,30.0,216.0
+rethinkdb,C++,D:\clones\rethinkdb\src\btree\keys.cc,30,5.0,215.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\bootstrap\bootstrap-tooltip.js,60,32.0,214.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\control.yaml,67,22.0,214.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\tables\db_config.cc,26,27.0,213.0
+rethinkdb,C++,D:\clones\rethinkdb\src\concurrency\watchable_transform.tcc,18,1.0,213.0
+rethinkdb,C++,D:\clones\rethinkdb\src\client_protocol\json.cc,31,10.0,211.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\transform\array.yaml,58,34.0,211.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\body.coffee,47,8.0,210.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\archive\archive.hpp,40,28.0,210.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\archive\stl_types.hpp,49,15.0,210.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\testsuite\api.py,43,9.0,209.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\table_manager\multi_table_manager.hpp,65,160.0,208.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\table_manager\table_metadata.hpp,55,104.0,208.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\vis.coffee,32,49.0,207.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\src\gtest-printers.cc,36,120.0,207.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\auth\scram_authenticator.cc,31,12.0,207.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\internal\strtod.h,44,37.0,204.0
+rethinkdb,C++,D:\clones\rethinkdb\src\region\hash_region.cc,59,18.0,204.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\contrib\cache.py,44,10.0,203.0
+rethinkdb,Ruby,D:\clones\rethinkdb\test\rql_test\connections\r_http.rb.httpbin,55,11.0,203.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\vcoptparse.py,61,23.0,202.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest-tuple_test.cc,55,65.0,200.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\io\event_watcher.cc,37,16.0,200.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\auth\user_context.cc,24,10.0,199.0
+rethinkdb,CSS,D:\clones\rethinkdb\admin\static\js\codemirror\codemirror.css,30,21.0,198.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\jobs\backend.cc,35,2.0,198.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\httpbin\helpers.py,73,72.0,198.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\table_contract\coordinator\coordinator.cc,29,50.0,197.0
+rethinkdb,C++,D:\clones\rethinkdb\src\extproc\js_runner.cc,42,30.0,196.0
+rethinkdb,Python,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_shuffle_test.py,64,66.0,195.0
+rethinkdb,C++,D:\clones\rethinkdb\src\buffer_cache\evicter.cc,32,11.0,195.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\immediate_consistency\history.cc,20,42.0,195.0
+rethinkdb,C++,D:\clones\rethinkdb\src\concurrency\watchable.tcc,33,29.0,195.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\contrib\atom.py,41,112.0,194.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\geo\indexing.yaml,10,4.0,194.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\type.less,20,24.0,191.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\external\rethinkdb_js_2.4.2\util.js,21,1.0,191.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\testsuite\core_tags.py,53,61.0,191.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\ui_components\modals.coffee,46,24.0,190.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\http\http_parser.hpp,46,89.0,190.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\tables\split_points.cc,19,35.0,189.0
+rethinkdb,C++,D:\clones\rethinkdb\src\paths.cc,28,7.0,188.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\table_common.cc,18,21.0,188.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\io\disk\pool.cc,26,17.0,187.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\tables\table_status.cc,20,2.0,187.0
+rethinkdb,diff,D:\clones\rethinkdb\mk\support\pkg\patch\re2_1-visual-studio.patch,0,4.0,186.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\runtime\coroutines.hpp,55,76.0,184.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\msinttypes\stdint.h,49,63.0,184.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\testing.py,49,9.0,184.0
+rethinkdb,Python,D:\clones\rethinkdb\packaging\osx\create_dmg.py,64,30.0,183.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\datum_stream\readgens.hpp,32,9.0,183.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\contrib\sessions.py,61,104.0,183.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s1interval.cc,36,36.0,182.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\resunder.py,34,39.0,182.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\packaging\assets\init\rethinkdb,31,30.0,181.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\perfmon\perfmon.hpp,35,58.0,181.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo_traversal.hpp,36,18.0,181.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\sort.cc,15,12.0,181.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\decorator\decorator.py,21,49.0,181.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\address.hpp,51,10.0,180.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\watchable_transform.hpp,31,44.0,180.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\internal\dtoa.h,21,30.0,180.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\region\hash_region.hpp,50,48.0,180.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rpc\directory\read_manager.tcc,34,36.0,180.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\buffer_cache\page.hpp,70,42.0,179.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\stats\stats_backend.cc,24,12.0,179.0
+rethinkdb,C++,D:\clones\rethinkdb\src\concurrency\fifo_enforcer.cc,24,4.0,179.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\__init__.py,59,29.0,179.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\workload_runner.py,39,8.0,179.0
+rethinkdb,C,D:\clones\rethinkdb\test\common\http_support\markupsafe\_speedups.c,39,22.0,178.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\times\time_arith.yaml,15,4.0,178.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\namespace_interface_repository.cc,21,21.0,177.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\connections\r_http.py.httpbin,62,12.0,177.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\dummy_namespace_interface.cc,41,2.0,176.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\blueprints.py,60,165.0,176.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest-typed-test_test.cc,82,103.0,175.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\io\disk\conflict_resolving.cc,45,65.0,175.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\datum_test.cc,17,16.0,175.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\testsuite\loader.py,41,10.0,175.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\runtime\message_hub.cc,38,46.0,174.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\jobs\manager.cc,29,17.0,173.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\datumspec.cc,31,1.0,173.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\base\int128.h,45,25.0,173.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\markupsafe\__init__.py,58,67.0,173.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\connections\cursor.py.test,55,9.0,173.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\table_contract\emergency_repair.cc,17,50.0,172.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\fifo_enforcer.hpp,60,66.0,171.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\watchable.hpp,47,61.0,171.0
+rethinkdb,C++,D:\clones\rethinkdb\src\time.cc,25,3.0,171.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\script.py,54,91.0,171.0
+rethinkdb,make,D:\clones\rethinkdb\mk\packaging.mk,34,7.0,170.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\encodedstream.h,45,75.0,170.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\table_readiness.py_one.test,46,9.0,170.0
+rethinkdb,C++,D:\clones\rethinkdb\src\containers\disk_backed_queue.cc,47,13.0,169.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\datum_stream\readers.hpp,24,16.0,169.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\util\math\exactfloat\exactfloat.h,115,333.0,169.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\var_types.cc,28,4.0,169.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\changefeeds\getintersecting_changefeed_fuzz.py_one.test,54,32.0,169.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\runtime\event_queue\iocp.cc,23,0.0,168.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\auth\permissions.cc,35,1.0,168.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\cross_thread_semaphore.hpp,40,19.0,168.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\minidriver.hpp,34,15.0,168.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\datum_adapter.hpp,22,26.0,166.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\servers\server_config.cc,17,2.0,166.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\tables\shard_distribution.coffee,36,20.0,165.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\serializer\log\data_block_manager.hpp,63,58.0,165.0
+rethinkdb,Python,D:\clones\rethinkdb\test\clustering\single_server_failure.test,47,24.0,165.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\sandbox.py,58,145.0,165.0
+rethinkdb,MSBuild script,D:\clones\rethinkdb\external\gtest_1.7.0\msvc\gtest_prod_test-md.vcproj,0,0.0,164.0
+rethinkdb,MSBuild script,D:\clones\rethinkdb\external\gtest_1.7.0\msvc\gtest_prod_test.vcproj,0,0.0,164.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\metadata.hpp,29,16.0,164.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\persist\file.hpp,32,8.0,164.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\errors.hpp,40,63.0,164.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2cap.cc,39,62.0,164.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\http.cc,38,13.0,164.0
+rethinkdb,C++,D:\clones\rethinkdb\src\concurrency\semaphore.cc,18,5.0,163.0
+rethinkdb,Ruby,D:\clones\rethinkdb\test\rql_test\connections\cursor.rb.test,30,3.0,163.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\table_manager\table_meta_client.hpp,39,74.0,162.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\tables\table_metadata.hpp,43,16.0,161.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\serializer\log\log_serializer.hpp,59,52.0,161.0
+rethinkdb,YAML,D:\clones\rethinkdb\.circleci\config.yml,4,4.0,160.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\test\common\http_support\werkzeug\debug\shared\debugger.js,14,27.0,160.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\stats\request.hpp,48,23.0,159.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\intrusive_list.hpp,37,8.0,159.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\datum_stream.hpp,36,25.0,159.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\base\type_traits.h,42,89.0,159.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\dashboard\panels.coffee,19,3.0,158.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\table_contract\contract_metadata.hpp,51,112.0,158.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\intrusive_priority_queue.hpp,30,4.0,158.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\servers\server.coffee,19,8.0,157.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\servers\server_status.cc,12,2.0,157.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\incremental_lenses.hpp,21,37.0,157.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\sessions.py,56,119.0,157.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\__init__.py,51,38.0,157.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\bccache.py,68,119.0,157.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\random.cc,34,12.0,156.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\clustering_branch.cc,23,12.0,156.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\cluster_config.cc,16,4.0,155.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\ctx.py,77,162.0,155.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\table_contract\executor\exec_secondary.cc,31,38.0,154.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\protocol_api.hpp,29,36.0,154.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\util\math\mathlimits.h,28,62.0,154.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\coroutine_utils.cc,16,17.0,154.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\tables\calculate_status.cc,13,13.0,153.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\rpc_semilattice.cc,56,13.0,153.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\changefeeds\initial\basic.py.yaml,47,47.0,153.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\table_reconfigure.py_one.test,33,18.0,153.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\mutation\insert.yaml,50,36.0,153.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\include\gtest\internal\gtest-death-test-internal.h,39,128.0,152.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\optional.hpp,26,5.0,152.0
+rethinkdb,C++,D:\clones\rethinkdb\src\extproc\extproc_worker.cc,32,14.0,152.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\_compat.py,41,9.0,152.0
+rethinkdb,Python,D:\clones\rethinkdb\scripts\generate_serialize_macros.py,19,34.0,151.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\op.hpp,48,43.0,151.0
+rethinkdb,Ruby,D:\clones\rethinkdb\test\rql_test\changefeeds\cfeed_union.rb_one.test,22,8.0,150.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\math_logic\logic.yaml,12,8.0,150.0
+rethinkdb,Python,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_output_test.py,78,108.0,149.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\clustering_query.cc,14,11.0,149.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\debug\console.py,47,15.0,149.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\gulpfile.js,22,23.0,148.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\func.hpp,57,25.0,148.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\wire_func.hpp,28,6.0,148.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\test\common\http_support\werkzeug\debug\shared\jquery.js,0,19.0,148.0
+rethinkdb,MSBuild script,D:\clones\rethinkdb\external\gtest_1.7.0\msvc\gtest_unittest-md.vcproj,0,0.0,147.0
+rethinkdb,MSBuild script,D:\clones\rethinkdb\external\gtest_1.7.0\msvc\gtest_unittest.vcproj,0,0.0,147.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\datum_terms.cc,22,2.0,147.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\contrib\iterio.py,29,8.0,147.0
+rethinkdb,Python,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_catch_exceptions_test.py,36,55.0,146.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\emergency_repair.py_one.test,48,40.0,146.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\random.yaml,16,18.0,146.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_repeat_test.cc,47,61.0,145.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_stress_test.cc,39,72.0,145.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\windows_stub\pthread.cc,29,2.0,145.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\jobs\report.hpp,27,4.0,145.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\write_hook.cc,29,8.0,145.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\reqctx.py,31,9.0,145.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\fifo_checker.hpp,47,29.0,144.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\strings\strutil.cc,29,50.0,144.0
+rethinkdb,CMake,D:\clones\rethinkdb\external\gtest_1.7.0\CMakeLists.txt,46,63.0,143.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\contrib\fixers.py,34,16.0,143.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\drivers\driver_test.py,59,35.0,143.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest-options_test.cc,24,49.0,142.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\mk\support\pkg\v8.sh,26,16.0,142.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\issues\table.cc,20,4.0,142.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\main\serve.hpp,21,5.0,142.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\artificial_table\cfeed_backend.cc,17,21.0,142.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\runtime\event_queue\poll.cc,40,23.0,141.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\issues\outdated_index.cc,16,6.0,141.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\tables\table_common.cc,9,6.0,141.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2cell.cc,30,56.0,141.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\store_view.hpp,36,85.0,141.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\jquery.lightbox_me.js,47,66.0,139.0
+rethinkdb,C++,D:\clones\rethinkdb\src\btree\concurrent_traversal.cc,38,25.0,139.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\main\options.hpp,47,76.0,139.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\btree\parallel_traversal.hpp,37,12.0,138.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\date-en-US.js,0,8.0,137.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\jquery.dataTables.min.js,0,17.0,137.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\cross_thread_watchable.hpp,30,28.0,137.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\markupsafe\tests.py,32,10.0,137.0
+rethinkdb,Ruby,D:\clones\rethinkdb\test\rql_test\get_all.rb_one.test,19,13.0,137.0
+rethinkdb,XML,D:\clones\rethinkdb\external\gtest_1.7.0\codegear\gtest.cbproj,2,0.0,136.0
+rethinkdb,Python,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_test_utils.py,65,119.0,136.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\base\casts.h,43,221.0,136.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\serializer\types.hpp,52,40.0,136.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\button-groups.less,18,20.0,135.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\sprites.less,12,12.0,135.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\http\http.hpp,32,6.0,135.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\prettywriter.h,30,49.0,135.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\term_storage.hpp,34,11.0,135.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rpc\directory\write_manager.tcc,16,3.0,135.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\times\index.yaml,14,2.0,135.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2latlngrect.h,67,123.0,134.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\runtime\event_queue\kqueue.cc,38,32.0,133.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\runtime\thread_pool.hpp,44,33.0,133.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\map_sentries.hpp,19,12.0,133.0
+rethinkdb,C++,D:\clones\rethinkdb\src\serializer\log\lba\extent.cc,27,6.0,133.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\utils_test.cc,22,6.0,133.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\debug.py,30,9.0,133.0
+rethinkdb,Haskell,D:\clones\rethinkdb\scripts\adtproto\Compile.hs,34,9.0,132.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\main\version_check.cc,15,6.0,132.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2edgeutil.h,47,161.0,132.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\store_subview.hpp,35,27.0,132.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\clustering_branch_history.cc,19,19.0,132.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\rpc_mailbox.cc,34,14.0,132.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\shard_fuzzer.py_one.test,28,7.0,132.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\buttons.less,23,34.0,131.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\query_routing\table_query_client.hpp,29,22.0,131.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s1angle.h,46,35.0,131.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\immediate_consistency\history.hpp,39,77.0,130.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\erase_range.cc,19,32.0,130.0
+rethinkdb,MSBuild script,D:\clones\rethinkdb\external\gtest_1.7.0\msvc\gtest_main-md.vcproj,0,0.0,129.0
+rethinkdb,MSBuild script,D:\clones\rethinkdb\external\gtest_1.7.0\msvc\gtest_main.vcproj,0,0.0,129.0
+rethinkdb,Perl,D:\clones\rethinkdb\scripts\process_headers.pl,42,41.0,129.0
+rethinkdb,C++,D:\clones\rethinkdb\src\containers\archive\tcp_conn_stream.cc,33,6.0,129.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\env.hpp,46,21.0,129.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2loop.h,65,240.0,129.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\control.cc,17,12.0,129.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\clustering_contract_utils.cc,13,5.0,129.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\options_test.cc,25,0.0,129.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\469.yaml,10,0.0,129.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\persist\migrate\metadata_v1_16.hpp,40,10.0,128.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\tables\name_resolver.cc,17,1.0,128.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\immediate_consistency\primary_dispatcher.hpp,40,63.0,128.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\disk_format_test.cc,29,3.0,128.0
+rethinkdb,Python,D:\clones\rethinkdb\scripts\spin_up_cluster,34,16.0,127.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\btree\leaf_node.hpp,52,43.0,127.0
+rethinkdb,C++,D:\clones\rethinkdb\src\containers\archive\archive.cc,26,7.0,127.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\local.py,24,8.0,127.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\bootstrap\bootstrap-modal.js,54,26.0,126.0
+rethinkdb,MSBuild script,D:\clones\rethinkdb\external\gtest_1.7.0\msvc\gtest-md.vcproj,0,0.0,126.0
+rethinkdb,MSBuild script,D:\clones\rethinkdb\external\gtest_1.7.0\msvc\gtest.vcproj,0,0.0,126.0
+rethinkdb,LESS,D:\clones\rethinkdb\packaging\ami\static-web-jekyll\assets\ami.less,17,8.0,126.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\io\disk\pool.hpp,27,12.0,126.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\queue\disk_backed_queue_wrapper.hpp,15,23.0,126.0
+rethinkdb,C++,D:\clones\rethinkdb\src\containers\priority_queue.tcc,30,1.0,126.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\internal\stack.h,25,32.0,126.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\security.py,48,74.0,126.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\times\api.yaml,10,8.0,126.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest-test-part_test.cc,33,50.0,125.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\testsuite\inheritance.py,40,85.0,125.0
+rethinkdb,Markdown,D:\clones\rethinkdb\STYLE.md,49,0.0,124.0
+rethinkdb,SVG,D:\clones\rethinkdb\admin\static\images\thinker_on_hill.svg,1,1.0,124.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\runtime\event_queue\epoll.cc,43,29.0,124.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\util\math\mathutil.cc,30,35.0,124.0
+rethinkdb,HTML,D:\clones\rethinkdb\test\common\http_support\httpbin\templates\httpbin.1.html,29,0.0,124.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\contrib\securecookie.py,54,143.0,124.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\parsePolyglot.py,30,10.0,124.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\main\initial_join.cc,18,17.0,122.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\semaphore.hpp,35,14.0,122.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\server_config.py_one.test,27,8.0,122.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\btree\reql_specific.hpp,47,42.0,121.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\table_manager\table_manager.hpp,34,41.0,121.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\profile.hpp,31,61.0,121.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\views.py,39,9.0,121.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\testsuite\security.py,30,15.0,121.0
+rethinkdb,CMake,D:\clones\rethinkdb\external\gtest_1.7.0\cmake\internal_utils.cmake,17,90.0,120.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\runtime\context_switching.hpp,60,79.0,120.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\buffer_cache\cache_balancer.hpp,49,40.0,120.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\main\directory_lock.cc,19,11.0,120.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\generic\registrar.hpp,32,38.0,120.0
+rethinkdb,C++,D:\clones\rethinkdb\src\perfmon\core.cc,30,8.0,120.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\intersection.cc,20,22.0,120.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rpc\mailbox\mailbox.hpp,45,34.0,120.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\models.coffee,26,7.0,119.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\archive\socket_stream.hpp,42,35.0,119.0
+rethinkdb,Markdown,D:\clones\rethinkdb\test\README.md,29,0.0,119.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\jquery.timeago.js,12,17.0,118.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\main\names.cc,11,1.0,118.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\unittest\clustering_utils_raft.hpp,32,23.0,118.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\fifo_enforcer.cc,14,4.0,118.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\server.py,49,17.0,118.0
+rethinkdb,Python,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_xml_output_unittest.py,37,153.0,117.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\datum_string.cc,22,3.0,117.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\order_util.cc,22,5.0,117.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\clustering_backfill.cc,29,10.0,117.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\geo_btree.cc,11,7.0,117.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\datum\array.yaml,14,2.0,117.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\watchable_map.hpp,34,59.0,116.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\rpc_directory.cc,9,9.0,116.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\mutation\update.yaml,38,16.0,116.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\clustering_raft.cc,24,9.0,115.0
+rethinkdb,Python,D:\clones\rethinkdb\test\changefeeds\basic.test,75,34.0,115.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\contrib\fixers.py,45,84.0,115.0
+rethinkdb,Markdown,D:\clones\rethinkdb\test\rql_test\README.md,61,0.0,115.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\context.cc,16,5.0,114.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2r2rect.cc,32,10.0,114.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\query_cache.hpp,33,19.0,114.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rpc\directory\map_write_manager.tcc,12,12.0,114.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\signals.py,31,8.0,114.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\issues\issues_backend.cc,16,2.0,113.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\table_contract\executor\exec_primary.hpp,25,52.0,113.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\disk_backed_queue.hpp,35,16.0,113.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\auth\users_artificial_table_backend.cc,18,1.0,112.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\generic\minidir.hpp,33,63.0,112.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\pmap.hpp,15,1.0,112.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\datumspec.hpp,23,8.0,112.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\testsuite\regression.py,42,125.0,112.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\dropdowns.less,14,29.0,111.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\tables.less,20,29.0,111.0
+rethinkdb,C++,D:\clones\rethinkdb\src\concurrency\fifo_checker.cc,40,8.0,110.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\pubsub.hpp,33,25.0,110.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\distances.cc,13,11.0,110.0
+rethinkdb,Python,D:\clones\rethinkdb\test\memcached_workloads\serial_mix.py,19,16.0,110.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\allocators.h,44,112.0,109.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\contrib\wrappers.py,60,109.0,109.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\debug\__init__.py,24,52.0,109.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\include\gtest\internal\gtest-linked_ptr.h,29,96.0,108.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\persist\branch_history_manager.cc,10,1.0,108.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\servers\server_common.cc,7,3.0,108.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\immediate_consistency\backfill_item_seq.hpp,27,40.0,108.0
+rethinkdb,C++,D:\clones\rethinkdb\src\http\file_app.cc,22,5.0,108.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\serializer\log\extent_manager.hpp,30,18.0,108.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\table_wait.py_one.test,35,3.0,108.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\buffer_cache\evicter.hpp,34,15.0,107.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\client_protocol\server.hpp,27,11.0,107.0
+rethinkdb,Python,D:\clones\rethinkdb\test\memcached_workloads\many_rows.py,33,13.0,107.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_environment_test.cc,26,60.0,106.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_xml_output_unittest_.cc,30,45.0,106.0
+rethinkdb,Python,D:\clones\rethinkdb\scripts\pre-release.py,26,2.0,106.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\btree\depth_first_traversal.hpp,24,28.0,106.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\btree\operations.hpp,32,33.0,106.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\half_intrusive_list.hpp,26,0.0,106.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\internal\meta.h,43,40.0,106.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\env.cc,18,6.0,106.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\karney\geodesic.h,25,614.0,106.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\serializer\log\lba\disk_format.hpp,39,30.0,106.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\datum\number.yaml,11,8.0,106.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\geo\intersection_inclusion.yaml,1,12.0,106.0
+rethinkdb,Markdown,D:\clones\rethinkdb\mk\README.md,61,0.0,105.0
+rethinkdb,Python,D:\clones\rethinkdb\scripts\compile-web-assets.py,30,11.0,105.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\io\blocker_pool.cc,35,32.0,105.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\persist\migrate\metadata_v1_14.hpp,27,4.0,105.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\segmented_vector.hpp,26,15.0,105.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\artificial_table\in_memory.hpp,20,11.0,105.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\base64.cc,19,5.0,105.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\util\endian\endian.h,36,50.0,105.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\optargs.cc,13,1.0,105.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\coroutines.cc,7,21.0,105.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\precise_stats.py_one.test,28,20.0,105.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\include\gtest\gtest-typed-test.h,40,115.0,104.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest-linked_ptr_test.cc,16,34.0,104.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\types.hpp,43,10.0,104.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\r1interval.h,32,53.0,104.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2latlng.h,43,46.0,104.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\real_table.hpp,15,15.0,104.0
+rethinkdb,C++,D:\clones\rethinkdb\src\serializer\log\static_header.cc,22,11.0,104.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\btree_metainfo.cc,16,1.0,104.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\servers\auto_reconnect.cc,14,19.0,103.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\parsing\utf8.hpp,25,6.0,103.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2polygon.h,54,156.0,103.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\minidriver.cc,26,2.0,103.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\testsuite\__init__.py,30,23.0,103.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\limits.yaml,18,7.0,103.0
+rethinkdb,make,D:\clones\rethinkdb\mk\support\build.mk,30,43.0,102.0
+rethinkdb,C++,D:\clones\rethinkdb\src\main.cc,14,1.0,102.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rethinkdb_backtrace.cc,24,0.0,102.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\cjson\json.hpp,23,9.0,101.0
+rethinkdb,C++,D:\clones\rethinkdb\src\concurrency\new_semaphore.cc,19,5.0,101.0
+rethinkdb,CSS,D:\clones\rethinkdb\test\common\http_support\werkzeug\debug\shared\style.css,11,1.0,101.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\changefeeds\edge.yaml,34,7.0,101.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\log_view.coffee,20,1.0,100.0
+rethinkdb,Python,D:\clones\rethinkdb\packaging\osx\dmgbuild\badge.py,28,9.0,99.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\timing.cc,21,9.0,99.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\auth\password.cc,19,1.0,99.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\query_routing\primary_query_client.cc,21,3.0,99.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\table_manager\sindex_manager.cc,16,26.0,98.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\table_manager\table_metadata.cc,16,2.0,98.0
+rethinkdb,C++,D:\clones\rethinkdb\src\concurrency\pump_coro.cc,12,3.0,98.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\_compat.py,30,22.0,98.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\__init__.py,22,34.0,98.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\math_logic\floor_ceil_round.yaml,16,0.0,98.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\transform\object.yaml,32,17.0,98.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\variables.less,57,48.0,97.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\include\gtest\gtest-spi.h,20,115.0,97.0
+rethinkdb,Python,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_break_on_failure_unittest.py,46,69.0,97.0
+rethinkdb,C++,D:\clones\rethinkdb\src\cjson\json.cc,21,12.0,97.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\extproc\http_runner.hpp,34,10.0,97.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2polygonbuilder.h,43,171.0,97.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rpc\directory\map_read_manager.tcc,8,12.0,97.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\joins.yaml,26,10.0,97.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\topbar.coffee,32,4.0,96.0
+rethinkdb,Python,D:\clones\rethinkdb\external\gtest_1.7.0\scripts\fuse_gtest_files.py,58,96.0,96.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\runtime\coro_profiler.hpp,29,72.0,96.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\queue\accounting.hpp,18,17.0,96.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2edgeindex.h,44,121.0,96.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\util\math\vector3.h,16,81.0,96.0
+rethinkdb,Python,D:\clones\rethinkdb\test\regression\issue_4383.py,15,2.0,96.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\immediate_consistency\remote_replicator_server.cc,8,2.0,95.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\immediate_consistency\replica.cc,18,10.0,95.0
+rethinkdb,C++,D:\clones\rethinkdb\src\debug.cc,18,8.0,95.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\artificial_table\artificial_table.hpp,14,10.0,95.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\base\logging.h,16,21.0,95.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\btree_metadata.cc,12,1.0,95.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\ext.py,24,15.0,95.0
+rethinkdb,Python,D:\clones\rethinkdb\test\regression\known_failures\issue_1774.test,42,18.0,95.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\stream.py_one.test,31,19.0,95.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\vis.less,15,20.0,94.0
+rethinkdb,Python,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_xml_test_utils.py,20,80.0,94.0
+rethinkdb,make,D:\clones\rethinkdb\mk\install.mk,19,3.0,94.0
+rethinkdb,make,D:\clones\rethinkdb\mk\lib.mk,32,39.0,94.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\batching.hpp,17,16.0,94.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\util\math\vector4.h,16,72.0,94.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\testsuite\imports.py,24,23.0,94.0
+rethinkdb,Python,D:\clones\rethinkdb\test\regression\issue_2925.py,24,7.0,94.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\buffer_cache\blob.hpp,50,85.0,93.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\table_contract\branch_history_gc.cc,5,4.0,93.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\unittest\dummy_namespace_interface.hpp,29,1.0,93.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\json.py,52,98.0,93.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\changefeeds\initial\limit.py.yaml,26,20.0,93.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\reset.less,14,21.0,92.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\geojson.hpp,13,13.0,92.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\query_server.cc,12,4.0,92.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\pred.cc,12,3.0,92.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\serializer\log\lba\lba_list.hpp,29,19.0,92.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\context_switching.cc,22,7.0,92.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\unittest\mock_store.hpp,24,1.0,92.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\servers\index.coffee,14,1.0,91.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\util\math\vector2.h,19,83.0,91.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\useragents.py,33,66.0,91.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\immediate_consistency\local_replicator.cc,13,12.0,90.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\artificial_table\backend.cc,16,8.0,90.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\io\timer\timer_kqueue_provider.cc,25,9.0,89.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\stats\debug_stats_backend.cc,14,2.0,89.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\obj.cc,14,1.0,89.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rpc\mailbox\typed.hpp,18,1.0,89.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\name_collision.py_one.test,38,21.0,89.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\geo\operations.yaml,2,6.0,89.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\carousel.less,18,16.0,88.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\mk\support\pkg\curl.sh,15,2.0,88.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\logs\logs_backend.hpp,21,32.0,88.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\archive\boost_types.hpp,28,1.0,88.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\object_buffer.hpp,19,8.0,88.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\perfmon\core.hpp,31,32.0,88.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\store_metainfo.cc,13,2.0,88.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\error.cc,7,1.0,88.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\include\gtest\gtest-message.h,26,137.0,87.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\samples\sample6_unittest.cc,36,101.0,87.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\issues\memory.cc,13,1.0,87.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\immediate_consistency\backfill_metadata.hpp,38,107.0,87.0
+rethinkdb,C++,D:\clones\rethinkdb\src\concurrency\cross_thread_watchable.tcc,8,1.0,87.0
+rethinkdb,C++,D:\clones\rethinkdb\src\concurrency\fifo_enforcer_queue.tcc,23,2.0,87.0
+rethinkdb,C++,D:\clones\rethinkdb\src\concurrency\rwlock.cc,17,12.0,87.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2r2rect.h,43,80.0,87.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\strings\strutil.h,21,110.0,87.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rpc\connectivity\server_id.cc,9,8.0,87.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\hash_region_test.cc,34,1.0,87.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\serving.py,21,9.0,87.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\bootstrap\bootstrap-collapse.js,30,22.0,86.0
+rethinkdb,XML,D:\clones\rethinkdb\external\gtest_1.7.0\codegear\gtest_unittest.cbproj,2,0.0,86.0
+rethinkdb,Haskell,D:\clones\rethinkdb\scripts\adtproto\Parse.hs,25,7.0,86.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\io\concurrency.hpp,8,6.0,86.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\timer.cc,31,12.0,86.0
+rethinkdb,C++,D:\clones\rethinkdb\src\concurrency\auto_drainer.cc,20,1.0,86.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\coro_pool.hpp,15,5.0,86.0
+rethinkdb,C++,D:\clones\rethinkdb\src\crypto\base64.cc,13,1.0,86.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\base\stl_decl_msvc.h,25,19.0,86.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\clustering_minidir.cc,25,5.0,86.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\shard_balancing.py_one.test,19,3.0,86.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\times\constructors.yaml,13,8.0,86.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\io\event_watcher.hpp,36,21.0,85.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\servers\config_server.cc,7,6.0,85.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\pprint\pprint.hpp,30,18.0,85.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\utils.hpp,29,13.0,85.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\samples\sample3-inl.h,29,59.0,84.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\io\disk.hpp,32,17.0,84.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\auth\grant.cc,13,2.0,84.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\logs\log_writer.hpp,24,1.0,84.0
+rethinkdb,C++,D:\clones\rethinkdb\src\extproc\http_runner.cc,12,3.0,84.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s1interval.h,47,97.0,84.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\serializer\translator.hpp,41,36.0,84.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\changefeeds\point.yaml,43,20.0,84.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\math_logic\bit.yaml,42,3.0,84.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\dashboard\dashboard.coffee,8,4.0,83.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\samples\sample9_unittest.cc,23,54.0,83.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest-message_test.cc,23,53.0,83.0
+rethinkdb,diff,D:\clones\rethinkdb\mk\support\pkg\patch\protobuf_2-runtime-library.patch,0,164.0,83.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\runtime\runtime_utils.hpp,26,12.0,83.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\issues\log_write.cc,10,1.0,83.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rpc\semilattice\view\member.tcc,19,3.0,83.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\clustering_registration.cc,28,10.0,83.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\mutation\atomic_get_set.yaml,9,1.0,83.0
+rethinkdb,Python,D:\clones\rethinkdb\test\scenarios\more_or_less_secondaries.py,24,1.0,83.0
+rethinkdb,Markdown,D:\clones\rethinkdb\README.md,36,0.0,82.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\ui_components\progressbar.coffee,19,22.0,82.0
+rethinkdb,XML,D:\clones\rethinkdb\external\gtest_1.7.0\codegear\gtest_main.cbproj,0,0.0,82.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\table_contract\executor\executor.hpp,28,57.0,82.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\pathspec.hpp,15,4.0,82.0
+rethinkdb,C++,D:\clones\rethinkdb\src\serializer\merger.cc,21,16.0,82.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\disk_backed_queue.cc,22,2.0,82.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\timer_test.cc,13,2.0,82.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testapp.py,21,127.0,82.0
+rethinkdb,Python,D:\clones\rethinkdb\test\performance\util.py,15,48.0,82.0
+rethinkdb,Ruby,D:\clones\rethinkdb\test\rql_test\changefeeds\cfeed_offsets.rb_one.test,9,11.0,82.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\main\directory_lock.hpp,15,7.0,81.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\util\coding\coder.cc,18,10.0,81.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rdb_workloads\stress_workloads\x_write.py,16,3.0,81.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\io\disk\accounting.cc,22,15.0,80.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\immediate_consistency\remote_replicator_client.hpp,32,72.0,80.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\table_manager\server_name_cache_updater.cc,15,17.0,80.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\templating.py,27,36.0,80.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\2774.yaml,16,3.0,80.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\flexbox-mixins.less,19,1.0,79.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\persist\table_interface.hpp,12,5.0,79.0
+rethinkdb,C++,D:\clones\rethinkdb\src\pprint\pprint.cc,15,17.0,79.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\json.cc,11,6.0,79.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\transform\map.yaml,19,8.0,79.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\samples\sample8_unittest.cc,19,76.0,78.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\btree\backfill.hpp,21,67.0,78.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\contrib\jsrouting.py,22,162.0,78.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\mutation\replace.yaml,25,9.0,78.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\io\disk\accounting.hpp,33,8.0,77.0
+rethinkdb,C++,D:\clones\rethinkdb\src\btree\get_distribution.cc,16,7.0,77.0
+rethinkdb,C++,D:\clones\rethinkdb\src\buffer_cache\eviction_bag.cc,16,4.0,77.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\cluster_config.hpp,16,13.0,77.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\threading.hpp,26,20.0,77.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\bootstrap\bootstrap-scrollspy.js,25,24.0,76.0
+rethinkdb,Python,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_help_test.py,37,59.0,76.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\issues\local.cc,7,2.0,76.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\regression.py,26,14.0,76.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\posixemulation.py,12,17.0,76.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\include\gtest\gtest-test-part.h,32,72.0,75.0
+rethinkdb,Python,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_throw_on_failure_test.py,38,58.0,75.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\servers\config_client.hpp,17,12.0,75.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\backindex_bag.hpp,30,50.0,75.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\error.cc,8,1.0,75.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\serializer\buf_ptr.hpp,27,22.0,75.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\mock_file.cc,22,8.0,75.0
+rethinkdb,Ruby,D:\clones\rethinkdb\scripts\netrecord\netreplay,12,1.0,74.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\backtrace.hpp,20,11.0,74.0
+rethinkdb,C++,D:\clones\rethinkdb\src\buffer_cache\free_list.cc,14,0.0,74.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\generic\raft_network.tcc,8,4.0,74.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\table_contract\coordinator\calculate_misc.cc,4,26.0,74.0
+rethinkdb,C++,D:\clones\rethinkdb\src\containers\printf_buffer.cc,26,4.0,74.0
+rethinkdb,C++,D:\clones\rethinkdb\src\serializer\buf_ptr.cc,13,2.0,74.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\geo_primitives.cc,11,25.0,74.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\appctx.py,19,8.0,74.0
+rethinkdb,Python,D:\clones\rethinkdb\test\memcached_workloads\multi_serial_mix.py,20,4.0,74.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\log_write_issue.py_one.test,23,2.0,74.0
+rethinkdb,CSS,D:\clones\rethinkdb\admin\static\fonts\stylesheet.css,15,66.0,73.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_list_tests_unittest_.cc,39,45.0,73.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\debug.hpp,14,8.0,73.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\exceptions.py,35,38.0,73.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\security.py,19,13.0,73.0
+rethinkdb,make,D:\clones\rethinkdb\Makefile,28,23.0,72.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\issues\issue.hpp,15,8.0,72.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\persist\migrate\migrate_v2_1.cc,9,11.0,72.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\tables\table_config.hpp,13,3.0,72.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\query_routing\metadata.hpp,23,9.0,72.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\var.cc,17,1.0,72.0
+rethinkdb,C++,D:\clones\rethinkdb\src\threading.cc,15,3.0,72.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\reconfigure-modal.hbs,0,0.0,71.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\modals.less,7,13.0,71.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\tables\name_resolver.hpp,17,5.0,71.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\archive\tcp_conn_stream.hpp,24,4.0,71.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\wrappers.py,34,79.0,71.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\navbar.coffee,11,2.0,70.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\codemirror\matchbrackets.js,9,3.0,70.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\samples\sample5_unittest.cc,29,100.0,70.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2regionunion.cc,18,6.0,70.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\strings\split.h,15,73.0,70.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\pseudo_binary.cc,10,3.0,70.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\response.cc,18,1.0,70.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\contrib\profiler.py,28,44.0,70.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\system_changefeeds.py_one.test,16,3.0,70.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\progress-bars.less,20,21.0,69.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\signal.hpp,23,32.0,69.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\two_level_array.hpp,17,13.0,69.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\util\hash\hash_jenkins_lookup2.h,22,66.0,69.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\_stringdefs.py,47,16.0,69.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\contrib\wrappers.py,18,10.0,69.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\vdom_util.coffee,18,30.0,68.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_env_var_test_.cc,23,35.0,68.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_premature_exit_test.cc,20,53.0,68.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\io\io_utils.cc,13,7.0,68.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\io\timer\timer_signal_provider.cc,24,10.0,68.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\immediate_consistency\backfillee.hpp,28,61.0,68.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\one_per_thread.hpp,17,5.0,68.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\shared_buffer.hpp,23,26.0,68.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2cell.h,28,52.0,68.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rpc\semilattice\joins\versioned.hpp,19,34.0,68.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\serializer\log\metablock_manager.hpp,26,10.0,68.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\changefeeds\types.py.yaml,10,4.0,68.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\server_status.py_one.test,30,6.0,68.0
+rethinkdb,XML,D:\clones\rethinkdb\packaging\osx\Distribution.xml,8,2.0,67.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\cjson\cJSON.hpp,26,39.0,67.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\issues\non_transitive.cc,12,4.0,67.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\metadata.cc,9,1.0,67.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\artificial_table\caching_cfeed_backend.hpp,23,36.0,67.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\artificial_table\cfeed_backend.hpp,16,26.0,67.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2cap.h,37,75.0,67.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2regionintersection.cc,17,4.0,67.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\term.hpp,19,18.0,67.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\serializer\merger.hpp,28,55.0,67.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\log_message.cc,8,1.0,67.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\db_config.py_one.test,21,3.0,67.0
+rethinkdb,Python,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_color_test.py,27,37.0,66.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\scripts\gen-version.sh,16,3.0,66.0
+rethinkdb,Python,D:\clones\rethinkdb\scripts\ui-tests.py,15,13.0,66.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\auth\permissions_artificial_table_backend.hpp,14,1.0,66.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\persist\raft_storage_interface.hpp,12,12.0,66.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\artificial_table\backend.hpp,18,30.0,66.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\base\stringprintf.cc,14,11.0,66.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2regioncoverer.h,31,113.0,66.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\serializer\log\lba\disk_structure.hpp,20,15.0,66.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\varint_test.cc,17,5.0,66.0
+rethinkdb,Python,D:\clones\rethinkdb\test\regression\issue_659.py,17,3.0,66.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\reconfigure_stress.py_one.test,16,8.0,66.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\router.coffee,14,4.0,65.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\servers\profile.coffee,12,1.0,65.0
+rethinkdb,CSS,D:\clones\rethinkdb\admin\static\js\codemirror\ambiance.css,13,3.0,65.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\admin_op_exc.hpp,16,17.0,65.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\buffer_group.hpp,21,2.0,65.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2cellunion.h,38,109.0,65.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rpc\semilattice\view\field.tcc,21,14.0,65.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testing.py,21,38.0,65.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\test_report.py,17,66.0,65.0
+rethinkdb,m4,D:\clones\rethinkdb\external\gtest_1.7.0\m4\gtest.m4,0,10.0,64.0
+rethinkdb,make,D:\clones\rethinkdb\mk\paths.mk,23,5.0,64.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\runtime\callable_action.hpp,17,6.0,64.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\issues\issues_backend.hpp,15,3.0,64.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\persist\migrate\metadata_v1_16.cc,22,1.0,64.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\stats\stats_backend.hpp,11,1.0,64.0
+rethinkdb,C++,D:\clones\rethinkdb\src\concurrency\watchdog_timer.cc,9,6.0,64.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\runtime\runtime.cc,12,3.0,63.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\util\math\mathlimits.cc,17,6.0,63.0
+rethinkdb,C++,D:\clones\rethinkdb\src\serializer\log\lba\disk_extent.cc,17,8.0,63.0
+rethinkdb,C++,D:\clones\rethinkdb\src\stl_utils.tcc,13,1.0,63.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\uuid_test.cc,23,8.0,63.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\tests.py,44,42.0,63.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\contrib\sessions.py,19,9.0,63.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\scripts\build-rpm.sh,13,5.0,62.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\io\timer\timerfd_provider.cc,20,7.0,62.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\runtime\runtime_utils.cc,14,1.0,62.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\btree\backfill_types.hpp,11,25.0,62.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\btree\node.hpp,23,7.0,62.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\btree\secondary_operations.hpp,27,38.0,62.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\main\memory_checker.cc,15,3.0,62.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\generic\multi_client_server.hpp,16,9.0,62.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\immediate_consistency\backfiller.hpp,23,35.0,62.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\immediate_consistency\remote_replicator_server.hpp,18,9.0,62.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\query_params.cc,11,5.0,62.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rpc\semilattice\semilattice_manager.hpp,28,27.0,62.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\unittest\dummy_metadata_controller.hpp,11,5.0,62.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\serializer_test.cc,19,13.0,62.0
+rethinkdb,Python,D:\clones\rethinkdb\test\memcached_workloads\rget.py,15,1.0,62.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\meta\grant.yaml,7,0.0,62.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\times\timezones.yaml,23,2.0,62.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\servers\responsibilities.coffee,11,1.0,61.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\samples\sample10_unittest.cc,22,61.0,61.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_filter_unittest_.cc,33,46.0,61.0
+rethinkdb,Python,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_xml_outfiles_test.py,20,51.0,61.0
+rethinkdb,Python,D:\clones\rethinkdb\scripts\generate_join_macros.py,24,35.0,61.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\queue\passive_producer.hpp,17,23.0,61.0
+rethinkdb,C++,D:\clones\rethinkdb\src\containers\clone_ptr.tcc,11,1.0,61.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rpc\directory\read_manager.hpp,17,22.0,61.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\line.py,6,3.0,61.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rdb_workloads\stress_workloads\x_stress_util.py,11,5.0,61.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\auth\user.hpp,19,1.0,60.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\jobs\backend.hpp,15,1.0,60.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\logs\log_transfer.cc,9,4.0,60.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\immediate_consistency\standard_backfill_throttler.cc,16,13.0,60.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\query_routing\primary_query_server.cc,12,13.0,60.0
+rethinkdb,C++,D:\clones\rethinkdb\src\containers\archive\file_stream.cc,13,3.0,60.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\do_on_thread.hpp,14,10.0,60.0
+rethinkdb,C++,D:\clones\rethinkdb\src\memory_utils.cc,8,0.0,60.0
+rethinkdb,C++,D:\clones\rethinkdb\src\perfmon\filter.cc,11,9.0,60.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\barrier_test.cc,20,1.0,60.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\datum\object.yaml,19,6.0,60.0
+rethinkdb,CoffeeScript,D:\clones\rethinkdb\admin\static\coffee\tables\shard_assignments.coffee,10,1.0,59.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\include\gtest\gtest-death-test.h,28,207.0,59.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\src\gtest-typed-test.cc,14,37.0,59.0
+rethinkdb,Python,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_list_tests_unittest.py,34,114.0,59.0
+rethinkdb,Markdown,D:\clones\rethinkdb\scripts\adtproto\README.md,22,0.0,59.0
+rethinkdb,C++,D:\clones\rethinkdb\src\btree\backfill_debug.cc,12,1.0,59.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\stats\stat_manager.cc,15,2.0,59.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\tables\table_common.hpp,12,11.0,59.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\table_contract\executor\exec.hpp,15,19.0,59.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\archive\tuple.hpp,15,6.0,59.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\indexing.hpp,13,25.0,59.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\interface\permissions\users.py_one.yaml,5,0.0,59.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\mutation\write_hook.yaml,19,0.0,59.0
+rethinkdb,m4,D:\clones\rethinkdb\external\gtest_1.7.0\configure.ac,10,0.0,58.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\btree\internal_node.hpp,21,5.0,58.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\servers\network_logger.cc,3,1.0,58.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\query_routing\primary_query_server.hpp,13,11.0,58.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\var_types.hpp,29,6.0,58.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\rebalance.cc,14,1.0,58.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\exceptions.py,17,10.0,58.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\geo\constructors.yaml,3,3.0,58.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\samples\prime_tables.h,21,45.0,57.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\jobs\report.tcc,8,1.0,57.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\immediate_consistency\backfill_throttler.hpp,10,15.0,57.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\primitives.cc,17,33.0,57.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\strings\ascii_ctype.cc,7,27.0,57.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\serializer\serializer.hpp,28,49.0,57.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\timestamps.hpp,18,14.0,57.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\server_id_test.cc,15,1.0,57.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\unittest\unittest_utils.hpp,27,11.0,57.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\exthook.py,19,44.0,57.0
+rethinkdb,Python,D:\clones\rethinkdb\test\regression\issue_2790.test,20,7.0,57.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\table_doc_count_estimates.py_one.test,23,4.0,57.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\rwlock.hpp,20,12.0,56.0
+rethinkdb,C++,D:\clones\rethinkdb\src\crypto\hmac.cc,15,1.0,56.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\internal\ieee754.h,15,19.0,56.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2polyline.h,33,110.0,56.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\serializer\log\lba\in_memory_index.hpp,18,7.0,56.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\unittest\clustering_contract_utils.hpp,13,25.0,56.0
+rethinkdb,HTML,D:\clones\rethinkdb\test\common\http_support\httpbin\templates\index.html,6,0.0,56.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\unit.py,8,1.0,56.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\cache_size.py_one.test,18,4.0,56.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\sindex\trunc_array.rb.yaml,11,3.0,56.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\samples\sample7_unittest.cc,17,58.0,55.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\os_signal.cc,6,2.0,55.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\auth\user_context.hpp,17,1.0,55.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\generic\raft_network.hpp,18,9.0,55.0
+rethinkdb,C++,D:\clones\rethinkdb\src\concurrency\signal.cc,11,3.0,55.0
+rethinkdb,C++,D:\clones\rethinkdb\src\extproc\extproc_pool.cc,13,3.0,55.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\filewritestream.h,16,26.0,55.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\inclusion.cc,10,4.0,55.0
+rethinkdb,C++,D:\clones\rethinkdb\src\region\region.cc,7,5.0,55.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\config.py,37,76.0,55.0
+rethinkdb,Python,D:\clones\rethinkdb\test\regression\issue_852.py,17,1.0,55.0
+rethinkdb,Python,D:\clones\rethinkdb\test\run,11,6.0,55.0
+rethinkdb,Python,D:\clones\rethinkdb\test\scenarios\failover_to_secondary.py,23,5.0,55.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_result_container.hbs,0,0.0,54.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\fd_send_recv.cc,21,16.0,54.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\cross_thread_mutex.hpp,10,10.0,54.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\cross_thread_watchable.cc,5,1.0,54.0
+rethinkdb,Python,D:\clones\rethinkdb\test\scenarios\kill_secondary.py,21,2.0,54.0
+rethinkdb,Markdown,D:\clones\rethinkdb\CODE_OF_CONDUCT.md,18,0.0,53.0
+rethinkdb,CSS,D:\clones\rethinkdb\admin\static\js\nanoscroller\nanoscroller.css,0,1.0,53.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\mk\support\pkg\openssl.sh,16,3.0,53.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\auto_drainer.hpp,30,73.0,53.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\stringbuffer.h,20,31.0,53.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\base\integral_types.h,21,37.0,53.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\thread_local.hpp,15,49.0,53.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\branch_history_manager.cc,10,1.0,53.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\httpbin\filters.py,28,9.0,53.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\testsuite\utils.py,20,9.0,53.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\sindex\status.yaml,17,6.0,53.0
+rethinkdb,Python,D:\clones\rethinkdb\test\scenarios\rebalance.py,18,4.0,53.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\bootstrap\bootstrap-button.js,23,25.0,52.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\namespace_interface_repository.hpp,14,4.0,52.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\lru_cache.hpp,13,5.0,52.0
+rethinkdb,C++,D:\clones\rethinkdb\src\parsing\util.cc,12,7.0,52.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\intersection.hpp,8,4.0,52.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\lazy_btree_val.hpp,20,4.0,52.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\internal.py,17,12.0,52.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\detect_netsplit.py_one.test,19,1.0,52.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\log.py_one.test,19,4.0,52.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\json.yaml,21,1.0,52.0
+rethinkdb,Python,D:\clones\rethinkdb\test\scenarios\transfer.py,24,1.0,52.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\pagination.less,2,4.0,51.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\include\gtest\internal\gtest-filepath.h,31,124.0,51.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\src\gtest-test-part.cc,16,43.0,51.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\issues\local.hpp,14,4.0,51.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\tables\db_config.hpp,12,4.0,51.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\tables\table_status.hpp,11,1.0,51.0
+rethinkdb,C++,D:\clones\rethinkdb\src\concurrency\cross_thread_mutex.cc,8,1.0,51.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\queue\unlimited_fifo.hpp,15,6.0,51.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\config\args.hpp,39,102.0,51.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\archive\buffer_group_stream.hpp,16,1.0,51.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\extproc\extproc_pool.hpp,16,20.0,51.0
+rethinkdb,C++,D:\clones\rethinkdb\src\math.cc,12,1.0,51.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rpc\semilattice\joins\deletable.hpp,14,7.0,51.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\version.hpp,20,44.0,51.0
+rethinkdb,Python,D:\clones\rethinkdb\test\changefeeds\change_master.test,34,6.0,51.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\testsuite\tests.py,18,24.0,51.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\1023.yaml,11,3.0,51.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\bootstrap\bootstrap-popover.js,23,22.0,50.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\windows_stub\unistd.h,9,5.0,50.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\jobs\manager.hpp,15,1.0,50.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\main\watchable_fields.hpp,11,11.0,50.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\servers\server_common.hpp,13,9.0,50.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\priority_queue.hpp,6,9.0,50.0
+rethinkdb,C++,D:\clones\rethinkdb\src\protocol_api.cc,6,0.0,50.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\filereadstream.h,13,31.0,50.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\datum_stream\ordered_union.hpp,18,0.0,50.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\base\macros.h,24,143.0,50.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\unittest\btree_utils.hpp,17,1.0,50.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\unittest\mock_file.hpp,18,4.0,50.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\changefeeds\table.yaml,26,25.0,50.0
+rethinkdb,C++,D:\clones\rethinkdb\src\btree\node.cc,10,1.0,49.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\generic\registrant.hpp,13,13.0,49.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\immediate_consistency\local_replicator.hpp,16,10.0,49.0
+rethinkdb,C++,D:\clones\rethinkdb\src\containers\archive\buffer_group_stream.cc,16,1.0,49.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\js.cc,11,5.0,49.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\print_secondary.cc,3,2.0,49.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\region_map_test.cc,9,1.0,49.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\debughelpers.py,15,23.0,49.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_shuffle_test_.cc,18,37.0,48.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\immediate_consistency\remote_replicator_metadata.hpp,11,1.0,48.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\immediate_consistency\replica.hpp,14,12.0,48.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\new_semaphore.hpp,26,33.0,48.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\error\error.h,28,74.0,48.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\configured_limits.cc,7,8.0,48.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\datum_stream\union.hpp,17,15.0,48.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\order_util.hpp,14,3.0,48.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\rdb_backtrace.hpp,16,4.0,48.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rpc\semilattice\view.hpp,17,14.0,48.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rdb_workloads\stress_workloads\x_read.py,11,1.0,48.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\math_logic\add.yaml,12,5.0,48.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\error_input.hbs,4,0.0,47.0
+rethinkdb,HTML,D:\clones\rethinkdb\admin\templates\cluster.html,3,0.0,47.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\samples\sample3_unittest.cc,19,85.0,47.0
+rethinkdb,make,D:\clones\rethinkdb\mk\tools.mk,17,5.0,47.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\scripts\clang-tidy.sh,9,17.0,47.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\runtime\system_event\pipe_event.cc,14,6.0,47.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\btree\traversal_progress.hpp,19,7.0,47.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\auth\plaintext_authenticator.cc,12,2.0,47.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\issues\log_write.hpp,18,1.0,47.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\issues\memory.hpp,18,1.0,47.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\persist\file_keys.cc,12,1.0,47.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\stats\debug_stats_backend.hpp,10,1.0,47.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\mutex.hpp,13,2.0,47.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\promise.hpp,14,4.0,47.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\extproc\js_runner.hpp,20,10.0,47.0
+rethinkdb,C++,D:\clones\rethinkdb\src\random.cc,17,6.0,47.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\pseudo_time.hpp,12,1.0,47.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\clone_ptr.cc,8,1.0,47.0
+rethinkdb,Ruby,D:\clones\rethinkdb\test\rql_test\regression\issue_5824.rb_one.test,8,1.0,47.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\math_logic\mul.yaml,12,1.0,47.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\reconfigure-diff.hbs,0,0.0,46.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\bootstrap\bootstrap-alert.js,24,24.0,46.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\popovers.less,1,3.0,46.0
+rethinkdb,JSON,D:\clones\rethinkdb\external\rethinkdb_js_2.4.2\package.json,0,0.0,46.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\servers\server_metadata.hpp,12,3.0,46.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\query_routing\primary_query_client.hpp,16,6.0,46.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\paths.hpp,16,8.0,46.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\serialize_datum.hpp,17,44.0,46.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\serializer\log\lba\disk_extent.hpp,17,9.0,46.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\bootstrap\bootstrap-dropdown.js,23,24.0,45.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\alerts.less,5,9.0,45.0
+rethinkdb,Visual Studio Solution,D:\clones\rethinkdb\external\gtest_1.7.0\msvc\gtest-md.sln,0,0.0,45.0
+rethinkdb,Visual Studio Solution,D:\clones\rethinkdb\external\gtest_1.7.0\msvc\gtest.sln,0,0.0,45.0
+rethinkdb,Python,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_env_var_test.py,24,34.0,45.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\timing.hpp,22,19.0,45.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\generic\multi_client_client.cc,12,0.0,45.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\cross_thread_signal.hpp,13,15.0,45.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\binary_blob.hpp,17,3.0,45.0
+rethinkdb,C++,D:\clones\rethinkdb\src\extproc\extproc_job.cc,8,2.0,45.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\distribution_progress.cc,7,3.0,45.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\base\strtoint.h,15,36.0,45.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\terms\obj_or_seq.hpp,14,4.0,45.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\bignum_test.cc,14,0.0,45.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\resources.py_one.test,15,4.0,45.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\sindex\truncation.rb.yaml,9,3.0,45.0
+rethinkdb,JSON,D:\clones\rethinkdb\admin\package.json,0,0.0,44.0
+rethinkdb,HTML,D:\clones\rethinkdb\packaging\ami\static-web-jekyll\index.html,0,0.0,44.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\runtime\message_hub.hpp,28,31.0,44.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\btree\concurrent_traversal.hpp,14,14.0,44.0
+rethinkdb,C++,D:\clones\rethinkdb\src\btree\traversal_progress.cc,13,1.0,44.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\auth\base_artificial_table_backend.hpp,9,1.0,44.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\auth\permissions.hpp,15,4.0,44.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\logs\log_transfer.hpp,11,6.0,44.0
+rethinkdb,C++,D:\clones\rethinkdb\src\crypto\initialization_guard.cc,10,2.0,44.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\serializer\log\metablock.hpp,33,60.0,44.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\internal_node_test.cc,18,4.0,44.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\unsatisfiable_goals_issue.py_one.test,20,1.0,44.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\tooltip.less,1,3.0,43.0
+rethinkdb,Haskell,D:\clones\rethinkdb\scripts\adtproto\ADTProto.hs,15,6.0,43.0
+rethinkdb,Python,D:\clones\rethinkdb\scripts\parse_binary.py,8,1.0,43.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\activity_logger.hpp,14,1.0,43.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\io\io_utils.hpp,15,5.0,43.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\issues\outdated_index.hpp,12,1.0,43.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\servers\server_status.hpp,10,2.0,43.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\new_mutex.hpp,15,9.0,43.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\queue\limited_fifo.hpp,14,6.0,43.0
+rethinkdb,C++,D:\clones\rethinkdb\src\containers\name_string.cc,14,1.0,43.0
+rethinkdb,C++,D:\clones\rethinkdb\src\crypto\hash.cc,13,1.0,43.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\base\basictypes.h,25,43.0,43.0
+rethinkdb,C++,D:\clones\rethinkdb\src\serializer\checksum.cc,19,28.0,43.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\views.py,29,77.0,43.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\contrib\securecookie.py,13,8.0,43.0
+rethinkdb,Python,D:\clones\rethinkdb\test\regression\issue_2738.py,18,2.0,43.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\connections\connection_star.py.test,22,23.0,43.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\changefeeds\include_states.yaml,15,0.0,43.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\changefeeds\squash.yaml,16,3.0,43.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\math_logic\aliases.yaml,3,0.0,43.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\math_logic\div.yaml,7,2.0,43.0
+rethinkdb,Markdown,D:\clones\rethinkdb\admin\static\less\bootstrap\README.forked.md,11,0.0,42.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\code.less,6,10.0,42.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest-death-test_ex_test.cc,12,39.0,42.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\spinlock.cc,4,0.0,42.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\windows_stub\pthread.h,10,1.0,42.0
+rethinkdb,C++,D:\clones\rethinkdb\src\concurrency\mutex.cc,7,1.0,42.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\base\template_util.h,20,40.0,42.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2latlng.cc,11,22.0,42.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\stl_utils.hpp,16,3.0,42.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\rwlock_test.cc,12,7.0,42.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\times\portions.yaml,3,0.0,42.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\transform\fold.yaml,5,2.0,42.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\btree\stats.hpp,7,0.0,41.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\tables\calculate_status.hpp,12,24.0,41.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\query_routing\direct_query_server.cc,8,5.0,41.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\table_contract\coordinator\check_ready.cc,4,4.0,41.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\lifetime.hpp,10,6.0,41.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2pointregion.cc,14,1.0,41.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2regionunion.h,19,17.0,41.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rpc\directory\map_write_manager.hpp,13,13.0,41.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\contrib\testtools.py,11,19.0,41.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\changefeeds\limit_pattern.py_one.yaml,9,4.0,41.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\mutation\sync.yaml,6,5.0,41.0
+rethinkdb,make,D:\clones\rethinkdb\mk\defaults.mk,35,42.0,40.0
+rethinkdb,make,D:\clones\rethinkdb\mk\windows.mk,13,1.0,40.0
+rethinkdb,C++,D:\clones\rethinkdb\src\buffer_cache\cache_account.cc,9,0.0,40.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\issues\non_transitive.hpp,11,1.0,40.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\main\version_check.hpp,8,1.0,40.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\crypto\pbkcs5_pbkdf2_hmac.hpp,10,1.0,40.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\datum_stream\eq_join.hpp,16,0.0,40.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\datum_stream\lazy.hpp,14,3.0,40.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2regionintersection.h,18,16.0,40.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\query_params.hpp,14,3.0,40.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\uuid.cc,11,6.0,40.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\serializer\log\lba\extent.hpp,13,5.0,40.0
+rethinkdb,C++,D:\clones\rethinkdb\src\serializer\log\lba\in_memory_index.cc,8,4.0,40.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\perfmon_tests.cc,12,8.0,40.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\printf_buffer_test.cc,18,1.0,40.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\visitor.py,13,34.0,40.0
+rethinkdb,Python,D:\clones\rethinkdb\test\memcached_workloads\rget_huge.py,4,1.0,40.0
+rethinkdb,Python,D:\clones\rethinkdb\test\regression\issue_3038.test,25,12.0,40.0
+rethinkdb,Python,D:\clones\rethinkdb\test\regression\issue_649.py,14,2.0,40.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\geo\primitives.yaml,9,1.0,40.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\transform\unordered_map.yaml,12,11.0,40.0
+rethinkdb,diff,D:\clones\rethinkdb\mk\support\pkg\patch\v8_1-add-missing-install-headers-recursive-rule.patch,7,61.0,39.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\mk\support\pkg\protobuf.sh,11,0.0,39.0
+rethinkdb,HTML,D:\clones\rethinkdb\packaging\ami\static-web-jekyll\settings.html,2,4.0,39.0
+rethinkdb,JSON,D:\clones\rethinkdb\scripts\coffeelint.json,11,0.0,39.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\io\disk\stats_2.cc,7,3.0,39.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\runtime\system_event\eventfd_event.cc,11,2.0,39.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\persist\file_keys.hpp,9,9.0,39.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\tables\debug_table_status.hpp,8,1.0,39.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\uuid.hpp,20,8.0,39.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\base\strtoint.cc,6,8.0,39.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rpc\connectivity\server_id.hpp,16,8.0,39.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rpc\directory\write_manager.hpp,14,7.0,39.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\changefeeds\limit_item_replacements.py_one.yaml,7,6.0,39.0
+rethinkdb,Ruby,D:\clones\rethinkdb\test\rql_test\connections\client_info.rb_one.test,11,2.0,39.0
+rethinkdb,Python,D:\clones\rethinkdb\test\scenarios\kill_access_point.py,15,3.0,39.0
+rethinkdb,C++,D:\clones\rethinkdb\src\activity_logger.cc,7,2.0,38.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\runtime\event_queue.cc,4,1.0,38.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\spinlock.hpp,13,7.0,38.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\servers\server_config.hpp,9,4.0,38.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\exponential_backoff.hpp,4,1.0,38.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\watchdog_timer.hpp,12,7.0,38.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\extproc\extproc_worker.hpp,15,6.0,38.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\erase_range.hpp,11,9.0,38.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\response.hpp,11,5.0,38.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\dbm_test.cc,15,0.0,38.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\_compat.py,16,19.0,38.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\meta.py,16,49.0,38.0
+rethinkdb,Ruby,D:\clones\rethinkdb\test\rql_test\get_all_fuzz.rb_one.test,6,1.0,38.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\test\rql_test\importRethinkDB.js,8,4.0,38.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\net_corruption.py_one.test,14,2.0,38.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\2399.rb.yaml,7,0.0,38.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_throw_on_failure_ex_test.cc,11,44.0,37.0
+rethinkdb,Markdown,D:\clones\rethinkdb\external\rethinkdb_js_2.4.2\README.md,13,0.0,37.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\buffer_cache\types.hpp,14,3.0,37.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\main\initial_join.hpp,12,8.0,37.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\servers\server_metadata.cc,7,4.0,37.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\tables\split_points.hpp,10,16.0,37.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\fifo_enforcer_queue.hpp,18,5.0,37.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\archive\varint.hpp,8,23.0,37.0
+rethinkdb,C++,D:\clones\rethinkdb\src\containers\buffer_group.cc,5,5.0,37.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\rdb_backtrace.cc,10,1.0,37.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rpc\semilattice\watchable.hpp,11,2.0,37.0
+rethinkdb,Python,D:\clones\rethinkdb\test\regression\issue_4533.py,11,1.0,37.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\3637.yaml,10,4.0,37.0
+rethinkdb,Python,D:\clones\rethinkdb\test\scenarios\change_primary.py,12,3.0,37.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\include\gtest\internal\gtest-string.h,23,108.0,36.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\auth\users_artificial_table_backend.hpp,8,1.0,36.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\http\server.hpp,10,1.0,36.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\persist\branch_history_manager.hpp,7,1.0,36.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\servers\auto_reconnect.hpp,14,7.0,36.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\stats\stat_manager.hpp,13,1.0,36.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\generic\nonoverlapping_regions.cc,11,5.0,36.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\table_contract\executor\exec_erase.cc,6,2.0,36.0
+rethinkdb,C++,D:\clones\rethinkdb\src\containers\archive\vector_stream.cc,15,1.0,36.0
+rethinkdb,C++,D:\clones\rethinkdb\src\crypto\error.cc,7,1.0,36.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\extproc\extproc_job.hpp,9,8.0,36.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\datum_stream\fold.hpp,12,0.0,36.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\pseudo_geometry.cc,6,1.0,36.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\query_server.hpp,11,1.0,36.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rpc\directory\map_read_manager.hpp,8,2.0,36.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\optimizer.py,12,20.0,36.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\cluster_config.py_one.test,13,2.0,36.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\range.yaml,16,1.0,36.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\io\timer_provider.hpp,7,7.0,35.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\persist\migrate\migrate_v2_3.cc,5,5.0,35.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\table_contract\coordinator\coordinator.hpp,17,37.0,35.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\crypto\hmac.hpp,11,1.0,35.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\filestream.h,11,27.0,35.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\configured_limits.hpp,11,0.0,35.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s1angle.cc,8,1.0,35.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\multipart\collect.py,10,11.0,35.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\scenario_common.py,11,3.0,35.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\changefeeds\sindex.yaml,14,1.0,35.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\bootstrap.less,10,20.0,34.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\samples\sample1_unittest.cc,21,98.0,34.0
+rethinkdb,make,D:\clones\rethinkdb\mk\check-env.mk,11,16.0,34.0
+rethinkdb,HTML,D:\clones\rethinkdb\packaging\ami\static-web-jekyll\_layouts\ami.html,1,0.0,34.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\cond_var.hpp,13,3.0,34.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\clone_ptr.hpp,17,9.0,34.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\math.hpp,11,2.0,34.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\datum_string.hpp,16,21.0,34.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\table_common.hpp,11,28.0,34.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\serializer\log\config.hpp,12,14.0,34.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\datum\bool.yaml,12,1.0,34.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\match.yaml,4,0.0,34.0
+rethinkdb,Markdown,D:\clones\rethinkdb\WINDOWS.md,14,0.0,33.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\pager.less,1,3.0,33.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\io\blocker_pool.hpp,12,4.0,33.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\io\disk\conflict_resolving.hpp,24,55.0,33.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\btree\superblock.hpp,11,1.0,33.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\buffer_cache\block_version.hpp,13,0.0,33.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\auth\password.hpp,13,1.0,33.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\issues\issue.cc,4,1.0,33.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\main\command_line.hpp,4,1.0,33.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\persist\migrate\metadata_v1_14.cc,3,1.0,33.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\generic\multi_client_client.hpp,15,8.0,33.0
+rethinkdb,C++,D:\clones\rethinkdb\src\containers\archive\varint.cc,6,2.0,33.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\lazy_erase_vector.hpp,11,7.0,33.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2pointregion.h,13,6.0,33.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\strings\stringprintf.cc,13,12.0,33.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\lazy_btree_val.cc,8,2.0,33.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rpc\connectivity\peer_id.hpp,13,4.0,33.0
+rethinkdb,Python,D:\clones\rethinkdb\test\changefeeds\squash_two_multi.test,7,2.0,33.0
+rethinkdb,Python,D:\clones\rethinkdb\test\interface\artificial_table.py,13,3.0,33.0
+rethinkdb,make,D:\clones\rethinkdb\mk\main.mk,22,20.0,32.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\mk\support\pkg\libidn.sh,6,0.0,32.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\runtime\event_queue\kqueue.hpp,13,10.0,32.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\main\memory_checker.hpp,10,5.0,32.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\servers\config_server.hpp,13,5.0,32.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\wait_any.hpp,13,3.0,32.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\blob_wrapper.cc,6,3.0,32.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\serializer\log\static_header.hpp,10,2.0,32.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\lru_cache_test.cc,4,5.0,32.0
+rethinkdb,Python,D:\clones\rethinkdb\test\regression\issue_676.py,15,2.0,32.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\mutation\delete.yaml,12,6.0,32.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\barrier.cc,4,0.0,31.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\runtime\event_queue\epoll.hpp,13,10.0,31.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\http\server.cc,9,4.0,31.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\pump_coro.hpp,19,40.0,31.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\datum_stream\map.hpp,9,5.0,31.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\store_metainfo.hpp,12,1.0,31.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\parsePolyglot.unittest,10,5.0,31.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\rdb_workload_common.py,11,0.0,31.0
+rethinkdb,Python,D:\clones\rethinkdb\test\regression\issue_3051.test,10,4.0,31.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\changefeeds\idxcopy.yaml,5,2.0,31.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\table_container.hbs,0,0.0,30.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\thumbnails.less,1,5.0,30.0
+rethinkdb,XML,D:\clones\rethinkdb\external\gtest_1.7.0\xcode\Resources\Info.plist,0,0.0,30.0
+rethinkdb,diff,D:\clones\rethinkdb\mk\support\pkg\patch\protobuf_1-fix-build-errors.patch,1,59.0,30.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\timer.hpp,15,18.0,30.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\assignment_sentry.hpp,2,0.0,30.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\buffer_cache\serialize_onto_blob.hpp,8,15.0,30.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\auth\scram_authenticator.hpp,9,1.0,30.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\auth\username.cc,11,1.0,30.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\generic\multi_client_metadata.hpp,5,1.0,30.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\generic\nonoverlapping_regions.hpp,14,10.0,30.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\table_contract\executor\exec_secondary.hpp,13,10.0,30.0
+rethinkdb,C++,D:\clones\rethinkdb\src\concurrency\timestamp_enforcer.cc,3,1.0,30.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\name_string.hpp,16,7.0,30.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\error\en.h,14,27.0,30.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\internal\pow10.h,5,24.0,30.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\serialize_datum_onto_blob.hpp,7,7.0,30.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\serializer\checksum.hpp,11,13.0,30.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\serializer\log\stats.hpp,11,5.0,30.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\unittest\branch_history_manager.hpp,9,1.0,30.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\windows.hpp,12,5.0,30.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\signals.py,7,18.0,30.0
+rethinkdb,Python,D:\clones\rethinkdb\test\regression\issue_4440.py,13,2.0,30.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\metadata_persistence.py_one.test,11,2.0,30.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\1081.yaml,9,0.0,30.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\2697.yaml,0,1.0,30.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\timeout.yaml,6,3.0,30.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\replica_status.hbs,0,1.0,29.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\mk\support\pkg\admin-deps.sh,4,2.0,29.0
+rethinkdb,Python,D:\clones\rethinkdb\packaging\ami\build-ami-files\firstrun_web.py,8,7.0,29.0
+rethinkdb,make,D:\clones\rethinkdb\packaging\debian\rules,11,1.0,29.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\buffer_cache\eviction_bag.hpp,17,6.0,29.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\client_protocol\json.hpp,9,4.0,29.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\tables\database_metadata.hpp,12,1.0,29.0
+rethinkdb,C++,D:\clones\rethinkdb\src\containers\archive\string_stream.cc,12,1.0,29.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\memorybuffer.h,17,30.0,29.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\repli_timestamp.hpp,14,12.0,29.0
+rethinkdb,Python,D:\clones\rethinkdb\test\changefeeds\squash_true_multi.test,7,2.0,29.0
+rethinkdb,Ruby,D:\clones\rethinkdb\test\rdb_workloads\lots_of_tables.rb,7,1.0,29.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rdb_workloads\pretty_print.py,8,8.0,29.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\math_logic\sub.yaml,7,1.0,29.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_result_profile.hbs,0,0.0,28.0
+rethinkdb,make,D:\clones\rethinkdb\external\gtest_1.7.0\make\Makefile,20,34.0,28.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\samples\sample2_unittest.cc,15,66.0,28.0
+rethinkdb,XML,D:\clones\rethinkdb\external\gtest_1.7.0\xcode\Samples\FrameworkSample\Info.plist,0,0.0,28.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\compiler.hpp,9,1.0,28.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\runtime\event_queue\iocp.hpp,12,0.0,28.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\types.cc,7,2.0,28.0
+rethinkdb,C++,D:\clones\rethinkdb\src\buffer_cache\stats.cc,6,1.0,28.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\main\windows_service.hpp,10,6.0,28.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\table_manager\flush_interval_manager.cc,7,2.0,28.0
+rethinkdb,C++,D:\clones\rethinkdb\src\containers\archive\stl_types.cc,10,4.0,28.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\archive\vector_stream.hpp,15,1.0,28.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\crypto\error.hpp,9,1.0,28.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\extproc\extproc_spawner.hpp,10,12.0,28.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\extproc\js_job.hpp,8,2.0,28.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\datum_stream\range.hpp,8,0.0,28.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\distances.hpp,10,11.0,28.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\strings\ascii_ctype.h,8,63.0,28.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\terms\case.cc,6,1.0,28.0
+rethinkdb,HTML,D:\clones\rethinkdb\test\common\http_support\httpbin\templates\forms-post.html,0,1.0,28.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\__init__.py,13,28.0,28.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\memcached_workload_common.py,12,2.0,28.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\shelltest.py,6,0.0,28.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\math_logic\mod.yaml,5,1.0,28.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\meta\dbs.yaml,16,7.0,28.0
+rethinkdb,Python,D:\clones\rethinkdb\test\scenarios\restart.py,13,3.0,28.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\declare_server_dead-modal.hbs,13,0.0,27.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\table-secondary_indexes.hbs,0,0.0,27.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\table_profile.hbs,0,1.0,27.0
+rethinkdb,make,D:\clones\rethinkdb\external\gtest_1.7.0\scripts\test\Makefile,16,16.0,27.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\io\timer\timer_windows_provider.cc,9,2.0,27.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\issues\table.hpp,9,1.0,27.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\persist\semilattice.cc,4,1.0,27.0
+rethinkdb,C++,D:\clones\rethinkdb\src\concurrency\wait_any.cc,6,2.0,27.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\archive\buffer_stream.hpp,13,8.0,27.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\archive\optional.hpp,5,0.0,27.0
+rethinkdb,C++,D:\clones\rethinkdb\src\crypto\pbkcs5_pbkdf2_hmac.cc,7,1.0,27.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\datum_stream\array.hpp,7,0.0,27.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\datum_stream\vector.hpp,9,0.0,27.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\optargs.hpp,11,1.0,27.0
+rethinkdb,C++,D:\clones\rethinkdb\src\repli_timestamp.cc,9,2.0,27.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\polymorphism.yaml,5,1.0,27.0
+rethinkdb,Markdown,D:\clones\rethinkdb\CONTRIBUTING.md,19,0.0,26.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\sidebar-issues_banner.hbs,2,0.0,26.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\labels.less,7,6.0,26.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_break_on_failure_unittest_.cc,13,49.0,26.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\external\gtest_1.7.0\xcode\Scripts\runtests.sh,5,34.0,26.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\packaging\ami\build-ami-files\firstrun.sh,10,8.0,26.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\scripts\check_style.sh,7,5.0,26.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\runtime\event_queue\poll.hpp,9,3.0,26.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\buffer_cache\cache_account.hpp,7,3.0,26.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\buffer_cache\stats.hpp,9,1.0,26.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\issues\name_collision.hpp,8,1.0,26.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\persist\semilattice.hpp,10,4.0,26.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\generic\registration_metadata.hpp,9,1.0,26.0
+rethinkdb,C++,D:\clones\rethinkdb\src\concurrency\cond_var.cc,4,1.0,26.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\archive\string_stream.hpp,13,1.0,26.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\printf_buffer.hpp,14,13.0,26.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rpc\semilattice\joins\deletable.tcc,6,2.0,26.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\time.hpp,11,9.0,26.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\subclassing.py,11,9.0,26.0
+rethinkdb,Markdown,D:\clones\rethinkdb\test\performance\README.md,14,0.0,26.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rdb_workloads\stress_workloads\x_map_reduce.py,7,0.0,26.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\geo\geojson.yaml,2,3.0,26.0
+rethinkdb,Python,D:\clones\rethinkdb\test\scenarios\static_cluster.py,12,5.0,26.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\progressbar.hbs,0,0.0,25.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\filesystem.hpp,5,0.0,25.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\io\disk\stats_2.hpp,12,3.0,25.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\runtime\event_queue.hpp,16,11.0,25.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\main\path.cc,9,0.0,25.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\servers\network_logger.hpp,11,9.0,25.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\table_manager\backfill_progress_tracker.hpp,8,1.0,25.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\auth_key.hpp,14,5.0,25.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\logger.hpp,10,4.0,25.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\ellipsoid.hpp,7,6.0,25.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\pseudo_binary.hpp,10,4.0,25.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\archive_test.cc,13,1.0,25.0
+rethinkdb,Python,D:\clones\rethinkdb\test\changefeeds\squash_two_secondary.test,7,2.0,25.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\2766.yaml,0,0.0,25.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\3444.yaml,7,6.0,25.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\badges.less,7,6.0,24.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\samples\sample2.h,16,45.0,24.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\io\disk\filestat.cc,4,1.0,24.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\io\disk\stats.cc,4,0.0,24.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\auth\base_authenticator.hpp,8,1.0,24.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\perfmon_collection_repo.hpp,7,1.0,24.0
+rethinkdb,C++,D:\clones\rethinkdb\src\containers\auth_key.cc,11,1.0,24.0
+rethinkdb,C++,D:\clones\rethinkdb\src\http\routing_app.cc,5,2.0,24.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\memorystream.h,13,30.0,24.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\datum_stream\indexed_sort.hpp,6,0.0,24.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\base\logging.cc,6,12.0,24.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2region.h,18,63.0,24.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\math_utils.hpp,7,1.0,24.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\__init__.py,9,17.0,24.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\examples.py,6,8.0,24.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\defaults.py,8,11.0,24.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\body-structure.hbs,3,5.0,23.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\table_status_indicator.hbs,0,0.0,23.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\bootstrap\bootstrap-transition.js,8,20.0,23.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\external\gtest_1.7.0\xcode\Samples\FrameworkSample\runtests.sh,5,34.0,23.0
+rethinkdb,Python,D:\clones\rethinkdb\external\gtest_1.7.0\xcode\Scripts\versiongenerate.py,10,67.0,23.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\os_signal.hpp,4,1.0,23.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\table_manager\backfill_progress_tracker.cc,3,1.0,23.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\table_manager\sindex_manager.hpp,11,8.0,23.0
+rethinkdb,C++,D:\clones\rethinkdb\src\containers\shared_buffer.cc,7,2.0,23.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\parsing\util.hpp,10,7.0,23.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\unittest\rdb_protocol.hpp,9,2.0,23.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\globals.py,11,10.0,23.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\test_exceptions.py,8,3.0,23.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\763.js.yaml,9,1.0,23.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_view.hbs,3,0.0,22.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\wells.less,2,4.0,22.0
+rethinkdb,Python,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_uninitialized_test.py,16,32.0,22.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\packaging\debian\postinst,6,0.0,22.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\buffer_cache\free_list.hpp,9,4.0,22.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\tables\generate_config.hpp,9,14.0,22.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\immediate_consistency\backfill_metadata.cc,6,1.0,22.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\query_routing\direct_query_server.hpp,11,6.0,22.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\table_contract\cpu_sharding.cc,8,4.0,22.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\crypto\hash.hpp,10,1.0,22.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\random.hpp,11,2.0,22.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\sym.hpp,13,1.0,22.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\region\region.hpp,10,0.0,22.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\compat.py,9,9.0,22.0
+rethinkdb,Python,D:\clones\rethinkdb\test\memcached_workloads\append_stress.py,11,2.0,22.0
+rethinkdb,Python,D:\clones\rethinkdb\test\regression\issue_3227.py,10,1.0,22.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\5222.py.yaml,1,0.0,22.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\options_view.hbs,2,0.0,21.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\breadcrumbs.less,1,3.0,21.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\mk\support\pkg\gtest.sh,5,0.0,21.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\packaging\ami\build-ami-files\firstrun-init,3,11.0,21.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\packaging\ami\build-ami-files\setup.sh,2,2.0,21.0
+rethinkdb,HTML,D:\clones\rethinkdb\packaging\ami\static-web-jekyll\wait.html,0,0.0,21.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\io\disk\stats.hpp,11,4.0,21.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\auth\permission_error.hpp,7,1.0,21.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\auth\plaintext_authenticator.hpp,8,1.0,21.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\auth\username.hpp,11,1.0,21.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\table_contract\branch_history_gc.hpp,10,34.0,21.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\table_manager\server_name_cache_updater.hpp,9,1.0,21.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\inclusion.hpp,6,3.0,21.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\pseudo_literal.cc,5,1.0,21.0
+rethinkdb,C++,D:\clones\rethinkdb\src\serializer\serializer.cc,5,1.0,21.0
+rethinkdb,Python,D:\clones\rethinkdb\test\changefeeds\squash_true_secondary.test,7,2.0,21.0
+rethinkdb,Python,D:\clones\rethinkdb\test\changefeeds\squash_two_id.test,7,2.0,21.0
+rethinkdb,Python,D:\clones\rethinkdb\test\performance\compare.py,9,7.0,21.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\1179.yaml,3,2.0,21.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\3759.yaml,4,1.0,21.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\546.yaml,3,3.0,21.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\578.yaml,4,0.0,21.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\times\shim.yaml,1,0.0,21.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\add_table-modal.hbs,1,0.0,20.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest-typed-test_test.h,12,34.0,20.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\mk\gen-vs-project.js,6,3.0,20.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\arch.cc,4,1.0,20.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\auth\grant.hpp,7,1.0,20.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\table_contract\executor\exec_erase.hpp,7,4.0,20.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\timestamp_enforcer.hpp,11,11.0,20.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\perfmon\filter.hpp,7,1.0,20.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\exceptions.hpp,5,1.0,20.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\lon_lat_types.hpp,9,1.0,20.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\primitives.hpp,6,4.0,20.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\logging.py,9,16.0,20.0
+rethinkdb,HTML,D:\clones\rethinkdb\test\common\http_support\httpbin\templates\trackingscripts.html,3,0.0,20.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\testsuite\debug.py,12,26.0,20.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\markupsafe\_native.py,8,18.0,20.0
+rethinkdb,Python,D:\clones\rethinkdb\test\memcached_workloads\simulate_web_ui.py,7,2.0,20.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\datum\uuid.yaml,0,0.0,20.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\2767.yaml,0,0.0,20.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\5241.yaml,8,0.0,20.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\5383.rb.yaml,0,0.0,20.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_input_query.hbs,3,0.0,19.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\responsibility.hbs,3,0.0,19.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\accordion.less,4,6.0,19.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\hero-unit.less,1,3.0,19.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\xcode\Samples\FrameworkSample\widget.cc,8,36.0,19.0
+rethinkdb,JSON,D:\clones\rethinkdb\external\rethinkdb_js_2.4.2\package-lock.json,0,0.0,19.0
+rethinkdb,Python,D:\clones\rethinkdb\scripts\map_red_test.py,2,2.0,19.0
+rethinkdb,Markdown,D:\clones\rethinkdb\src\README.md,19,0.0,19.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\runtime\system_event\pipe_event.hpp,10,3.0,19.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\auth\authentication_error.hpp,7,12.0,19.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\persist\migrate\rewrite.hpp,5,2.0,19.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\table_manager\flush_interval_manager.hpp,9,7.0,19.0
+rethinkdb,C++,D:\clones\rethinkdb\src\concurrency\cross_thread_signal.cc,5,3.0,19.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\crypto\base64.hpp,10,1.0,19.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\extproc\http_job.hpp,8,2.0,19.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\geo_visitor.hpp,5,1.0,19.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rpc\semilattice\view\member.hpp,10,7.0,19.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\auth_key_test.cc,8,0.0,19.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\testsuite\bytecode_cache.py,10,8.0,19.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\4462.yaml,1,4.0,19.0
+rethinkdb,make,D:\clones\rethinkdb\admin\build.mk,7,1.0,18.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer-query_li.hbs,0,0.0,18.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\secondary_indexes-error.hbs,0,0.0,18.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_color_test_.cc,8,45.0,18.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_sole_header_test.cc,6,33.0,18.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\io\timer\timer_kqueue_provider.hpp,9,2.0,18.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\io\timer\timer_signal_provider.hpp,9,2.0,18.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\io\timer\timerfd_provider.hpp,9,1.0,18.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\process.hpp,12,0.0,18.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\runtime\event_queue_types.hpp,7,3.0,18.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\runtime\system_event\eventfd.cc,7,3.0,18.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\runtime\system_event\eventfd_event.hpp,8,6.0,18.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\runtime\system_event\windows_event.hpp,6,0.0,18.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\btree\backfill_debug.hpp,6,5.0,18.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\client_protocol\client_server_error.hpp,7,1.0,18.0
+rethinkdb,C++,D:\clones\rethinkdb\src\client_protocol\protocols.cc,6,1.0,18.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\perfmon_collection_repo.cc,4,1.0,18.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\table_contract\cpu_sharding.hpp,12,17.0,18.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\blob_wrapper.hpp,8,10.0,18.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\datum_stream\slice.hpp,5,0.0,18.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\distribution_progress.hpp,11,9.0,18.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\base\stringprintf.h,11,16.0,18.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\http_escaping.cc,7,1.0,18.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\1001.yaml,2,0.0,18.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\2709.yaml,3,0.0,18.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\abstract-modal-outer.hbs,3,1.0,17.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\simple_progressbar.hbs,1,0.0,17.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\samples\sample1.cc,10,41.0,17.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_throw_on_failure_test_.cc,8,47.0,17.0
+rethinkdb,make,D:\clones\rethinkdb\mk\configure.mk,8,7.0,17.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\mk\support\pkg\boost.sh,5,0.0,17.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\mk\support\pkg\zlib.sh,7,0.0,17.0
+rethinkdb,Haskell,D:\clones\rethinkdb\scripts\adtproto\Main.hs,4,0.0,17.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\barrier.hpp,7,1.0,17.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\io\openssl.hpp,10,3.0,17.0
+rethinkdb,C++,D:\clones\rethinkdb\src\btree\backfill_types.cc,4,0.0,17.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\immediate_consistency\standard_backfill_throttler.hpp,9,5.0,17.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\archive\file_stream.hpp,12,6.0,17.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rpc\semilattice\joins\map.hpp,6,3.0,17.0
+rethinkdb,C++,D:\clones\rethinkdb\src\stl_utils.cc,3,0.0,17.0
+rethinkdb,Python,D:\clones\rethinkdb\test\changefeeds\squash_true_id.test,7,2.0,17.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\1789.yaml,5,0.0,17.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\2930.yaml,0,0.0,17.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\3449.js.yaml,3,1.0,17.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\4030.yaml,9,22.0,17.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\sindex\nullsinstrings.yaml,3,1.0,17.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer-tables_suggestions.hbs,3,0.0,16.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_result_json_table_td_value_content.hbs,4,0.0,16.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\rename_item-modal.hbs,0,1.0,16.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\shard_distribution_container.hbs,0,0.0,16.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\component-animations.less,2,3.0,16.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\scaffolding.less,6,8.0,16.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\xcode\Samples\FrameworkSample\widget_test.cc,7,45.0,16.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\mk\support\pkg\re2.sh,7,0.0,16.0
+rethinkdb,Bourne Again Shell,D:\clones\rethinkdb\scripts\set-corecount,3,0.0,16.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\io\timer\timer_windows_provider.hpp,8,3.0,16.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\runtime\runtime.hpp,15,17.0,16.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\btree\types.hpp,9,1.0,16.0
+rethinkdb,C++,D:\clones\rethinkdb\src\buffer_cache\serialize_onto_blob.cc,4,0.0,16.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\client_protocol\protocols.hpp,6,4.0,16.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\datum_utils.hpp,3,1.0,16.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\unittest\gtest.hpp,7,1.0,16.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\sizeof_test.cc,5,2.0,16.0
+rethinkdb,XML,D:\clones\rethinkdb\test\common\http_support\httpbin\templates\sample.xml,5,3.0,16.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\testsuite\doctests.py,4,9.0,16.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rdb_workloads\stress_workloads\x_between.py,6,0.0,16.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rdb_workloads\stress_workloads\x_get_all.py,5,0.0,16.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\changefeeds\geo.rb.yaml,6,5.0,16.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\5438.yaml,0,0.0,16.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer-options.hbs,0,0.0,15.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_result_json_table_tr_attr.hbs,3,0.0,15.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_result_json_tree_object.hbs,3,0.0,15.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\navbar_view.hbs,2,0.0,15.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\table.hbs,2,0.0,15.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\close.less,1,3.0,15.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\utilities.less,3,6.0,15.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_prod_test.cc,6,36.0,15.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\persist\migrate\migrate_v1_16.hpp,5,2.0,15.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\query_routing\metadata.cc,8,1.0,15.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\table_contract\coordinator\calculate_contracts.hpp,4,1.0,15.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\table_contract\coordinator\calculate_misc.hpp,5,1.0,15.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\cache_line_padded.hpp,5,2.0,15.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\death_runner.hpp,4,2.0,15.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\crypto\random.hpp,8,1.0,15.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\http\routing_app.hpp,7,1.0,15.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\datum_stream\offsets_of.hpp,7,0.0,15.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rpc\connectivity\peer_id.cc,4,3.0,15.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rpc\semilattice\joins\set.hpp,5,1.0,15.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\module.py,11,16.0,15.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rdb_workloads\stress_workloads\simple_insert.py,9,1.0,15.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rdb_workloads\stress_workloads\x_connect.py,3,0.0,15.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\1133.yaml,4,0.0,15.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_large_result_json_tree_container.hbs,4,0.0,14.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_result_json_tree_array.hbs,3,0.0,14.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\sidebar-client_connection_status.hbs,1,0.0,14.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\xdate.js,0,4.0,14.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\samples\sample2.cc,7,35.0,14.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\test\production.h,7,34.0,14.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\runtime\system_event\eventfd.hpp,8,1.0,14.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\interruptor.hpp,6,4.0,14.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\datum_stream\ordered_distinct.hpp,5,0.0,14.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\strings\stringprintf.h,12,18.0,14.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rpc\semilattice\view\field.hpp,9,12.0,14.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\optional.cc,5,0.0,14.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\markupsafe\_compat.py,4,8.0,14.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\datum\null.yaml,3,1.0,14.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\1005.yaml,5,0.0,14.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer-error.hbs,6,0.0,13.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\reconfigure.hbs,0,0.0,13.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest-param-test2_test.cc,8,44.0,13.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_xml_outfile1_test_.cc,3,33.0,13.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_xml_outfile2_test_.cc,3,33.0,13.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\xcode\Samples\FrameworkSample\widget.h,6,40.0,13.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\packaging\debian\postrm,4,0.0,13.0
+rethinkdb,Python,D:\clones\rethinkdb\packaging\osx\mac_alias\utils.py,3,1.0,13.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\runtime\system_event.hpp,9,1.0,13.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\crypto\compare_equal.hpp,6,1.0,13.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\http\file_app.hpp,6,1.0,13.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rapidjson\internal\strfunc.h,5,25.0,13.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\base\int128.cc,6,4.0,13.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\sym.cc,7,1.0,13.0
+rethinkdb,Markdown,D:\clones\rethinkdb\src\rpc\README.md,12,0.0,13.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\valgrind.hpp,3,0.0,13.0
+rethinkdb,HTML,D:\clones\rethinkdb\test\common\http_support\httpbin\templates\moby.html,1,0.0,13.0
+rethinkdb,Ruby,D:\clones\rethinkdb\test\rql_test\importRethinkDB.rb,7,4.0,13.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\2838.py.yaml,3,0.0,13.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\354.yaml,6,1.0,13.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\3745.yaml,2,2.0,13.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\453.yaml,3,0.0,13.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\4729.yaml,0,0.0,13.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\5092.js.yaml,0,1.0,13.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\665.yaml,2,4.0,13.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\is_disconnected.hbs,3,0.0,12.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\remove_table-modal.hbs,2,0.0,12.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\table-secondary_index.hbs,3,0.0,12.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_all_test.cc,0,35.0,12.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\mk\support\pkg\jemalloc.sh,4,0.0,12.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\fd_send_recv.hpp,8,12.0,12.0
+rethinkdb,C++,D:\clones\rethinkdb\src\containers\binary_blob.cc,3,0.0,12.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\empty_value.hpp,5,3.0,12.0
+rethinkdb,C++,D:\clones\rethinkdb\src\perfmon\collect.cc,4,3.0,12.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\datum_json.hpp,3,0.0,12.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\term_walker.hpp,7,10.0,12.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\terms\arr.hpp,3,1.0,12.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\main.cc,5,1.0,12.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\httpbin\utils.py,8,10.0,12.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\4132.yaml,0,0.0,12.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\545.yaml,3,0.0,12.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\5535.rb.yaml,0,0.0,12.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\579.yaml,3,0.0,12.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\transform\table.yaml,4,3.0,12.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\log-entry.hbs,0,0.0,11.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\logs_container.hbs,0,0.0,11.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\samples\sample4.h,7,35.0,11.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest-param-test_test.h,7,39.0,11.0
+rethinkdb,Python,D:\clones\rethinkdb\packaging\osx\mac_alias\__init__.py,3,0.0,11.0
+rethinkdb,make,D:\clones\rethinkdb\scripts\adtproto\Makefile,4,1.0,11.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\scripts\gen-changelog.sh,3,9.0,11.0
+rethinkdb,C++,D:\clones\rethinkdb\src\arch\runtime\system_event\windows_event.cc,4,0.0,11.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\main\path.hpp,4,0.0,11.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\persist\migrate\metadata_v2_1.hpp,6,1.0,11.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\immediate_consistency\remote_replicator_metadata.cc,2,1.0,11.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\table_contract\emergency_repair.hpp,4,7.0,11.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\containers\tribool.hpp,5,0.0,11.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\memory_utils.hpp,5,2.0,11.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\pseudo_literal.hpp,6,1.0,11.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rpc\directory\map_write_manager.cc,4,1.0,11.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\contrib\limiter.py,10,19.0,11.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rdb_workloads\insert_many.py,2,0.0,11.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\changefeeds\empty_between.py.yaml,3,0.0,11.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\changefeeds\empty_get_all.py.yaml,3,0.0,11.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\meta\composite.py.yaml,3,0.0,11.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\370.yaml,4,4.0,11.0
+rethinkdb,YAML,D:\clones\rethinkdb\.github\FUNDING.yml,1,1.0,10.0
+rethinkdb,Markdown,D:\clones\rethinkdb\.github\PULL_REQUEST_TEMPLATE.md,4,0.0,10.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\add_database-modal.hbs,3,0.0,10.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_result_json_table_data_inline.hbs,2,0.0,10.0
+rethinkdb,XML,D:\clones\rethinkdb\mk\rethinkdb.vcxproj.xml,1,0.0,10.0
+rethinkdb,Bourne Again Shell,D:\clones\rethinkdb\packaging\assets\scripts\unused_port,0,0.0,10.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\btree\get_distribution.hpp,5,1.0,10.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\http\cyanide.hpp,3,3.0,10.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\main\ports.hpp,6,3.0,10.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\persist\migrate\migrate_v2_1.hpp,5,6.0,10.0
+rethinkdb,C++,D:\clones\rethinkdb\src\concurrency\interruptor.cc,2,0.0,10.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\crypto\initialization_guard.hpp,4,1.0,10.0
+rethinkdb,C++,D:\clones\rethinkdb\src\crypto\random.cc,5,1.0,10.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\perfmon\types.hpp,2,1.0,10.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\pprint\js_pprint.hpp,4,1.0,10.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\util\math\matrix3x3.h,7,14.0,10.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\pseudo_geometry.hpp,6,1.0,10.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rpc\directory\map_read_manager.cc,4,2.0,10.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\serializer\log\types.hpp,5,1.0,10.0
+rethinkdb,C++,D:\clones\rethinkdb\src\unittest\clustering_utils.cc,4,0.0,10.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\unittest\extproc_test.hpp,3,1.0,10.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\test_apps\blueprintapp\apps\admin\__init__.py,5,0.0,10.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\2052.yaml,0,0.0,10.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\3057.yaml,0,0.0,10.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\4146.yaml,2,2.0,10.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\5542.py.yaml,1,0.0,10.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\619.yaml,5,0.0,10.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\767.yaml,0,0.0,10.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\database.hbs,0,0.0,9.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer-reason_broken.hbs,3,0.0,9.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_result_empty.hbs,0,0.0,9.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\delete-database-modal.hbs,3,0.0,9.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\resolve_issues-resolved.hbs,0,0.0,9.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\sidebar-issues.hbs,1,0.0,9.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\external\rethinkdb_js_2.4.2\rethinkdb.js,8,1.0,9.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\packaging\debian\prerm,3,0.0,9.0
+rethinkdb,Bourne Again Shell,D:\clones\rethinkdb\scripts\set-scheduler,3,0.0,9.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\persist\migrate\migrate_v1_14.hpp,4,2.0,9.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\terms\writes.hpp,6,1.0,9.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\4431.yaml,1,0.0,9.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\4582.yaml,0,0.0,9.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer-databases_suggestions.hbs,2,0.0,8.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_result_json_table_tr_value.hbs,3,0.0,8.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\no_databases.hbs,3,0.0,8.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\ops_plot_legend.hbs,2,0.0,8.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\sidebar-container.hbs,0,0.0,8.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\layouts.less,3,7.0,8.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\samples\sample4.cc,5,33.0,8.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\samples\sample4_unittest.cc,4,33.0,8.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\src\gtest-all.cc,2,38.0,8.0
+rethinkdb,make,D:\clones\rethinkdb\packaging\ami\Makefile,4,0.0,8.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\arch.hpp,4,5.0,8.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\windows_stub\sys\uio.h,4,1.0,8.0
+rethinkdb,C++,D:\clones\rethinkdb\src\buffer_cache\types.cc,2,0.0,8.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\main\cache_size.hpp,5,0.0,8.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\administration\persist\migrate\metadata_v2_1.cc,4,1.0,8.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\persist\migrate\migrate_v2_3.hpp,4,3.0,8.0
+rethinkdb,C++,D:\clones\rethinkdb\src\crypto\saslprep.cc,11,44.0,8.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\base\stl_decl.h,4,17.0,8.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\s2\s2region.cc,5,1.0,8.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\deprecations.py,7,9.0,8.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\test_apps\moduleapp\apps\admin\__init__.py,6,0.0,8.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\httpbin\structures.py,8,11.0,8.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\datum\typeof.yaml,3,3.0,8.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\math_logic\math.yaml,2,1.0,8.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\309.yaml,5,2.0,8.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\4063.js.yaml,1,0.0,8.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\46.yaml,3,0.0,8.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\568.yaml,2,0.0,8.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\databases_container.hbs,0,0.0,7.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\src\gtest_main.cc,3,28.0,7.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest-typed-test2_test.cc,5,33.0,7.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_help_test_.cc,4,35.0,7.0
+rethinkdb,HTML,D:\clones\rethinkdb\packaging\ami\static-web-jekyll\_includes\ami-docs.html,0,0.0,7.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\generic\raft_core.cc,2,1.0,7.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\table_contract\coordinator\check_ready.hpp,4,3.0,7.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\crypto\saslprep.hpp,5,1.0,7.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\http\web_assets.hpp,4,1.0,7.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\terms\write_hook.hpp,6,2.0,7.0
+rethinkdb,C++,D:\clones\rethinkdb\src\timestamps.cc,3,0.0,7.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\testsuite\contrib\__init__.py,4,8.0,7.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\1468.yaml,0,0.0,7.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\3059.yaml,0,0.0,7.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\4465.py.yaml,1,0.0,7.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\678.yaml,3,0.0,7.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\757.yaml,2,0.0,7.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_result_json_table_container.hbs,0,0.0,6.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\error-query.hbs,3,0.0,6.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\secondary_indexes-alert_msg.hbs,3,0.0,6.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_no_test_unittest.cc,5,45.0,6.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_uninitialized_test_.cc,3,34.0,6.0
+rethinkdb,make,D:\clones\rethinkdb\scripts\netrecord\Makefile,2,1.0,6.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\io\disk\filestat.hpp,4,0.0,6.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\concurrency\access.hpp,4,4.0,6.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\base64.hpp,3,1.0,6.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\ext\__init__.py,8,15.0,6.0
+rethinkdb,HTML,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\templates\escaping_template.html,0,0.0,6.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\test_apps\blueprintapp\__init__.py,1,0.0,6.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\test_apps\moduleapp\__init__.py,1,0.0,6.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\changefeeds\now.py_one.yaml,2,0.0,6.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\2639.rb.yaml,2,0.0,6.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\2696.yaml,0,0.0,6.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\2710.yaml,0,0.0,6.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\522.py.yaml,1,0.0,6.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer-description_with_example.hbs,3,0.0,5.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_result_json_table_td_attr.hbs,3,0.0,5.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_result_tree.hbs,0,0.0,5.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\element_view-not_found.hbs,4,0.0,5.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\loading_databases.hbs,3,0.0,5.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\loading_servers.hbs,0,0.0,5.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\ops_plot.hbs,3,0.0,5.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\include\gtest\gtest_prod.h,4,49.0,5.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\external\gtest_1.7.0\samples\sample1.h,5,33.0,5.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\gtest_main_unittest.cc,6,34.0,5.0
+rethinkdb,diff,D:\clones\rethinkdb\mk\support\pkg\patch\zlib_0-makefile-runtime-option.patch,0,8.0,5.0
+rethinkdb,Perl,D:\clones\rethinkdb\scripts\format_msbuild_output.pl,1,0.0,5.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\arch\runtime\starter.hpp,5,5.0,5.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\clustering\administration\main\names.hpp,3,1.0,5.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\perfmon\collect.hpp,3,5.0,5.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rdb_protocol\ql2proto.hpp,3,3.0,5.0
+rethinkdb,C/C++ Header,D:\clones\rethinkdb\src\rethinkdb_backtrace.hpp,3,4.0,5.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rpc\semilattice\semilattice_manager.cc,1,1.0,5.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\test_apps\blueprintapp\apps\frontend\__init__.py,3,0.0,5.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\test_apps\moduleapp\apps\frontend\__init__.py,4,0.0,5.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\1155.yaml,0,0.0,5.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\4501.yaml,0,0.0,5.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\5130.js.yaml,0,0.0,5.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\5481.py.yaml,0,0.0,5.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\5977.js_one.yaml,0,0.0,5.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\718.yaml,2,0.0,5.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\831.yaml,0,0.0,5.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\alert-connection_fail.hbs,3,0.0,4.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\alert_message.hbs,3,0.0,4.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer-query_error.hbs,4,1.0,4.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\renamed_item-alert.hbs,0,1.0,4.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\sidebar-servers_connected.hbs,0,0.0,4.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\sidebar-tables_available.hbs,2,0.0,4.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\d3.v2.min.js,0,0.0,4.0
+rethinkdb,diff,D:\clones\rethinkdb\mk\support\pkg\patch\node_0-macosx-deployment-target.patch,0,8.0,4.0
+rethinkdb,diff,D:\clones\rethinkdb\mk\support\pkg\patch\re2_0-ignore-darwin-symbol-list.patch,0,8.0,4.0
+rethinkdb,diff,D:\clones\rethinkdb\mk\support\pkg\patch\v8_0-do-not-build-tests.patch,0,8.0,4.0
+rethinkdb,diff,D:\clones\rethinkdb\mk\support\pkg\patch\v8_3-clang9.patch,2,6.0,4.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\ellipsoid.cc,2,1.0,4.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rpc\directory\read_manager.cc,3,1.0,4.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rpc\directory\write_manager.cc,3,1.0,4.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\test_apps\config_package_app\__init__.py,0,0.0,4.0
+rethinkdb,HTML,D:\clones\rethinkdb\test\common\http_support\jinja2\testsuite\res\templates\syntaxerror.html,0,0.0,4.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\connections\server_info.yaml,0,0.0,4.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\1132.yaml,0,0.0,4.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\4591.yaml,0,0.0,4.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\6191.py_one.yaml,1,0.0,4.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\730.yaml,0,0.0,4.0
+rethinkdb,SVG,D:\clones\rethinkdb\RethinkDB.svg,0,0.0,3.0
+rethinkdb,make,D:\clones\rethinkdb\admin\Makefile,1,0.0,3.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_result_json_table_td_value.hbs,3,0.0,3.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_result_raw.hbs,0,0.0,3.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_result_table.hbs,0,0.0,3.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\empty_list.hbs,4,0.0,3.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\mk\support\pkg\browserify.sh,1,0.0,3.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\mk\support\pkg\coffee-script.sh,2,0.0,3.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\mk\support\pkg\node.sh,1,0.0,3.0
+rethinkdb,diff,D:\clones\rethinkdb\mk\support\pkg\patch\v8_2-HandleScope-protected.patch,2,6.0,3.0
+rethinkdb,make,D:\clones\rethinkdb\src\Makefile,1,0.0,3.0
+rethinkdb,C++,D:\clones\rethinkdb\src\clustering\table_contract\executor\exec.cc,2,1.0,3.0
+rethinkdb,C++,D:\clones\rethinkdb\src\rdb_protocol\geo\lon_lat_types.cc,1,1.0,3.0
+rethinkdb,HTML,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\templates\template_test.html,0,0.0,3.0
+rethinkdb,HTML,D:\clones\rethinkdb\test\common\http_support\jinja2\testsuite\res\templates\broken.html,0,0.0,3.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\test\performance\comparisons\jquery-latest.js,0,1.0,3.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\test\performance\comparisons\main.js,0,0.0,3.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\table_fuzzer_changefeeds.py_one.test,2,0.0,3.0
+rethinkdb,Python,D:\clones\rethinkdb\test\rql_test\interface\table_fuzzer_kill.py_one.test,2,0.0,3.0
+rethinkdb,YAML,D:\clones\rethinkdb\test\rql_test\src\regression\6108.yaml,1,0.0,3.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\confirmation_dialog.hbs,3,1.0,2.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer-description.hbs,4,0.0,2.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_result_json_tree_email.hbs,2,0.0,2.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_result_json_tree_url.hbs,2,0.0,2.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\has_update.hbs,3,0.0,2.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\less-1.1.4.min.js,0,14.0,2.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\bootstrap\grid.less,1,3.0,2.0
+rethinkdb,LESS,D:\clones\rethinkdb\admin\static\less\ionicons.less,0,0.0,2.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\codegear\gtest_link.cc,1,37.0,2.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\test\production.cc,2,32.0,2.0
+rethinkdb,diff,D:\clones\rethinkdb\mk\support\pkg\patch\v8_4-gcc6+.patch,0,8.0,2.0
+rethinkdb,Bourne Shell,D:\clones\rethinkdb\packaging\debian\preinst,1,0.0,2.0
+rethinkdb,Python,D:\clones\rethinkdb\packaging\osx\dmgbuild\__init__.py,1,0.0,2.0
+rethinkdb,Python,D:\clones\rethinkdb\packaging\osx\ds_store\__init__.py,1,0.0,2.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\test_apps\flask_broken\__init__.py,0,0.0,2.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\test_apps\flaskext\oldext_package\submodule.py,0,0.0,2.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\test_apps\main_app.py,1,1.0,2.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\test_apps\path\installed_package\__init__.py,1,0.0,2.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\test_apps\subdomaintestmodule\__init__.py,2,0.0,2.0
+rethinkdb,Markdown,D:\clones\rethinkdb\.github\issue_template.md,0,0.0,1.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer-cursor_timed_out.hbs,3,1.0,1.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer-history.hbs,3,0.0,1.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer-option_page.hbs,3,0.0,1.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_result_json_tree_container.hbs,2,0.0,1.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_result_json_tree_span.hbs,2,0.0,1.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_result_json_tree_span_with_quotes.hbs,2,0.0,1.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\dataexplorer_suggestion_name_li.hbs,3,0.0,1.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\fail_solve_issue.hbs,3,0.0,1.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\is_disconnected_message.hbs,4,0.0,1.0
+rethinkdb,Handlebars,D:\clones\rethinkdb\admin\static\handlebars\table_title.hbs,3,0.0,1.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\ZeroClipboard.min.js,0,8.0,1.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\backbone-min.js,0,1.0,1.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\chosen\chosen.jquery.min.js,1,8.0,1.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\nanoscroller\jquery.nanoscroller.min.js,1,1.0,1.0
+rethinkdb,JavaScript,D:\clones\rethinkdb\admin\static\js\underscore-min.js,0,5.0,1.0
+rethinkdb,C++,D:\clones\rethinkdb\external\gtest_1.7.0\codegear\gtest_all.cc,1,36.0,1.0
+rethinkdb,YAML,D:\clones\rethinkdb\packaging\ami\static-web-jekyll\_config.yml,0,0.0,1.0
+rethinkdb,Ruby,D:\clones\rethinkdb\packaging\ami\static-web-jekyll\_plugins\less_converter.rb,1,3.0,1.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\__init__.py,0,0.0,1.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\decorator\__init__.py,0,0.0,1.0
+rethinkdb,HTML,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\static\index.html,0,0.0,1.0
+rethinkdb,HTML,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\templates\_macro.html,0,0.0,1.0
+rethinkdb,HTML,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\templates\context_template.html,0,0.0,1.0
+rethinkdb,HTML,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\templates\simple_template.html,0,0.0,1.0
+rethinkdb,HTML,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\templates\template_filter.html,0,0.0,1.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\test_apps\flask_newext_package\__init__.py,0,0.0,1.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\test_apps\flask_newext_simple.py,0,0.0,1.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\test_apps\flaskext\oldext_package\__init__.py,0,0.0,1.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\test_apps\flaskext\oldext_simple.py,0,0.0,1.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\test_apps\importerror.py,0,1.0,1.0
+rethinkdb,HTML,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\test_apps\moduleapp\apps\admin\templates\index.html,0,0.0,1.0
+rethinkdb,HTML,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\test_apps\moduleapp\apps\frontend\templates\index.html,0,0.0,1.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\httpbin\__init__.py,1,1.0,1.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\itsdangerous\__init__.py,1,0.0,1.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\jinja2\constants.py,4,27.0,1.0
+rethinkdb,HTML,D:\clones\rethinkdb\test\common\http_support\jinja2\testsuite\res\templates\foo\test.html,0,0.0,1.0
+rethinkdb,HTML,D:\clones\rethinkdb\test\common\http_support\jinja2\testsuite\res\templates\test.html,0,0.0,1.0
+rethinkdb,CSS,D:\clones\rethinkdb\test\common\http_support\flask\testsuite\test_apps\moduleapp\apps\admin\static\css\test.css,0,1.0,0.0
+rethinkdb,Python,D:\clones\rethinkdb\test\common\http_support\werkzeug\contrib\__init__.py,3,13.0,0.0

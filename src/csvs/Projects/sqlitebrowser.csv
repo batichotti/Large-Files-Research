@@ -1,0 +1,503 @@
+project,language,filename,blank,comment,code
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qcustomplot-source\qcustomplot.cpp,5335,11628.0,18533.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\json\json.hpp,4053,7088.0,15612.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\src\translations\sqlb_ko_KR.ts,15,0.0,7518.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\src\translations\sqlb_nl.ts,16,0.0,7329.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\src\translations\sqlb_ar_SA.ts,15,0.0,7303.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\src\translations\sqlb_fr.ts,16,0.0,7289.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\src\translations\sqlb_es_ES.ts,15,0.0,7285.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\src\translations\sqlb_pl.ts,15,0.0,7284.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\src\translations\sqlb_ja.ts,16,0.0,7269.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\src\translations\sqlb_pt_BR.ts,16,0.0,7269.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\src\translations\sqlb_it.ts,16,0.0,7267.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\src\translations\sqlb_zh.ts,14,0.0,7267.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\src\translations\sqlb_de.ts,16,0.0,7266.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\src\translations\sqlb_tr.ts,16,0.0,7257.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\src\translations\sqlb_ru.ts,14,0.0,7249.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\src\translations\sqlb_uk_UA.ts,9,0.0,7217.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\src\translations\sqlb_cs.ts,8,0.0,7199.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\src\translations\sqlb_zh_TW.ts,9,0.0,7189.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\src\translations\sqlb_en_GB.ts,8,0.0,7186.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\src\translations\sqlb_fa.ts,8,0.0,7181.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\Editor.cpp,982,457.0,6795.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\src\translations\sqlb_sv.ts,10,0.0,6738.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qcustomplot-source\qcustomplot.h,1212,1566.0,4959.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\sql\parser\sqlite3_parser.cpp,534,165.0,4136.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qscintilla_cs.ts,0,0.0,4051.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qscintilla_de.ts,0,0.0,4051.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qscintilla_es.ts,0,0.0,4051.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qscintilla_fr.ts,0,0.0,4051.0
+sqlitebrowser,Qt Linguist,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qscintilla_pt_br.ts,0,0.0,4051.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\MainWindow.ui,0,0.0,3918.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\CharacterCategory.cpp,22,37.0,3907.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\sql\parser\sqlite3_parser.hpp,285,413.0,3727.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\MainWindow.cpp,501,370.0,3024.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qsciscintilla.cpp,1106,507.0,2957.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\Document.cpp,255,220.0,2775.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\sql\parser\sqlite3_lexer.cpp,472,640.0,2530.0
+sqlitebrowser,Markdown,D:\clones\sqlitebrowser\libs\json\ChangeLog.md,177,0.0,2484.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\PreferencesDialog.ui,0,0.0,2295.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\lexers\LexHTML.cpp,115,91.0,2263.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\EditView.cpp,198,154.0,2045.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\include\SciLexer.h,5,11.0,1845.0
+sqlitebrowser,SCSS,D:\clones\sqlitebrowser\src\qdarkstyle\qss\_styles.scss,458,196.0,1698.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\sqlitedb.cpp,318,263.0,1628.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\TableBrowser.ui,0,0.0,1522.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\Qsci\qsciscintillabase.h,1046,1358.0,1488.0
+sqlitebrowser,Markdown,D:\clones\sqlitebrowser\libs\json\README.md,375,0.0,1336.0
+sqlitebrowser,C,D:\clones\sqlitebrowser\src\extensions\extension-functions.c,235,411.0,1301.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\TableBrowser.cpp,252,202.0,1209.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\include\Scintilla.h,30,35.0,1174.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\ExtendedTableWidget.cpp,198,149.0,1016.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\CellBuffer.cpp,128,88.0,988.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qhexedit\src\qhexedit.cpp,129,47.0,969.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\ScintillaBase.cpp,183,24.0,958.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\EditDialog.cpp,179,157.0,946.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qscicommandset.cpp,43,37.0,911.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\EditTableDialog.ui,0,0.0,890.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qscilexerhtml.cpp,247,49.0,885.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\EditTableDialog.cpp,133,128.0,862.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\sqlitetablemodel.cpp,176,103.0,853.0
+sqlitebrowser,C,D:\clones\sqlitebrowser\src\extensions\extension-formats.c,71,57.0,843.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\ImportCsvDialog.ui,0,0.0,804.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\PlotDock.cpp,133,102.0,804.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\RemoteDock.ui,0,0.0,754.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\CaseConvert.cpp,33,45.0,741.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\PlatQt.cpp,213,56.0,730.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\tests\testsqlobjects.cpp,118,2.0,714.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\EditDialog.ui,2,0.0,669.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\ImportCsvDialog.cpp,123,115.0,652.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\PositionCache.cpp,65,26.0,628.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qsciapis.cpp,250,136.0,613.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\RESearch.cpp,62,285.0,613.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\package_save.svg,0,0.0,603.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\Qsci\qsciscintilla.h,425,1289.0,593.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\PreferencesDialog.cpp,110,43.0,584.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\EditIndexDialog.ui,0,0.0,573.0
+sqlitebrowser,CMake,D:\clones\sqlitebrowser\CMakeLists.txt,68,37.0,572.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qsciscintillabase.cpp,213,109.0,571.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\sql\sqlitetypes.cpp,117,30.0,550.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qscilexercpp.cpp,199,60.0,542.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\Editor.h,69,41.0,540.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\ScintillaQt.cpp,171,67.0,528.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\ViewStyle.cpp,84,24.0,505.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\SciAccessibility.cpp,196,86.0,478.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\find_edit.svg,0,0.0,478.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\sql\sqlitetypes.h,131,56.0,475.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\Settings.cpp,95,83.0,470.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\RemoteDock.cpp,99,107.0,468.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\Document.h,77,48.0,459.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\PlotDock.ui,3,0.0,455.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\lexers\LexJSON.cpp,18,32.0,448.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\ExportDataDialog.cpp,78,65.0,438.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qscilexer.cpp,181,114.0,436.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\PerLine.cpp,68,15.0,416.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\ExportDataDialog.ui,0,0.0,408.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\include\Platform.h,79,67.0,407.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\CipherDialog.ui,0,0.0,403.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\MarginView.cpp,45,27.0,398.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\images\logo.svg,0,0.0,391.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\RemoteNetwork.cpp,76,84.0,390.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\Selection.cpp,58,12.0,366.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\XPM.cpp,58,26.0,364.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\LineMarker.cpp,59,14.0,363.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\package_rename.svg,0,0.0,357.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\ContractionState.cpp,51,13.0,354.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\sql\parser\sqlite3_lexer.h,124,134.0,352.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qscilexersql.cpp,122,48.0,351.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\RemotePushDialog.ui,0,0.0,333.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\SelectItemsPopup.ui,0,0.0,331.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\FindReplaceDialog.ui,0,0.0,322.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\Application.cpp,42,47.0,318.0
+sqlitebrowser,reStructuredText,D:\clones\sqlitebrowser\src\qdarkstyle\LICENSE.rst,87,0.0,318.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qscilexerpython.cpp,133,58.0,316.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\RemoteDatabase.cpp,70,50.0,316.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\UniConversion.cpp,31,32.0,305.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\SqlExecutionArea.ui,0,0.0,297.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\clear_sorting.svg,0,0.0,297.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\DbStructureModel.cpp,62,46.0,290.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\AddRecordDialog.cpp,58,28.0,286.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\RunStyles.cpp,28,17.0,269.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\CallTip.cpp,35,30.0,267.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\CondFormatManager.ui,0,0.0,266.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\Decoration.cpp,46,9.0,261.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qhexedit\src\chunks.cpp,48,16.0,259.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\SqlExecutionArea.cpp,59,42.0,258.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\RemoteModel.cpp,58,31.0,255.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\AutoComplete.cpp,31,12.0,250.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\ExportSqlDialog.ui,0,0.0,249.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\EditIndexDialog.cpp,50,52.0,246.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\csvparser.cpp,40,42.0,242.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\SplitVector.h,32,59.0,241.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\WordList.cpp,26,30.0,239.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\ExtendedScintilla.cpp,64,41.0,235.0
+sqlitebrowser,Markdown,D:\clones\sqlitebrowser\BUILDING.md,87,0.0,229.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\ListBoxQt.cpp,103,28.0,226.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\SqlUiLexer.cpp,22,26.0,225.0
+sqlitebrowser,LLVM IR,D:\clones\sqlitebrowser\src\sql\parser\sqlite3_lexer.ll,34,3.0,224.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\InputMethod.cpp,48,20.0,215.0
+sqlitebrowser,Markdown,D:\clones\sqlitebrowser\README.md,116,0.0,212.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\RunSql.cpp,47,58.0,211.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\RowLoader.cpp,43,19.0,209.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\CondFormatManager.cpp,41,10.0,205.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\MainWindow.h,34,7.0,205.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\Indicator.cpp,9,13.0,201.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\ProxyDialog.ui,0,0.0,201.0
+sqlitebrowser,WiX source,D:\clones\sqlitebrowser\installer\windows\product.wxs,44,71.0,193.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\PositionCache.h,23,31.0,193.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\ImageViewer.ui,0,0.0,193.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qscimacro.cpp,79,48.0,190.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\FindReplaceDialog.cpp,33,6.0,188.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\ViewStyle.h,21,17.0,186.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\sql\parser\sqlite3_location.h,45,77.0,184.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\StyleContext.h,11,18.0,183.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qscilexerjson.cpp,79,37.0,182.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\script_copy.svg,0,0.0,180.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\sqlitedb.h,65,83.0,180.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\LexAccessor.h,12,17.0,179.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\Data.cpp,31,26.0,177.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\FilterLineEdit.cpp,27,20.0,177.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\Qsci\qscilexerhtml.h,149,212.0,171.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\Selection.h,10,12.0,170.0
+sqlitebrowser,CMake,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\CMakeLists.txt,12,1.0,168.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\RowCache.h,57,41.0,166.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qhexedit\src\qhexedit.h,85,173.0,165.0
+sqlitebrowser,Bourne Shell,D:\clones\sqlitebrowser\installer\macos\build_sqlitebrowser_nightly.sh,38,43.0,160.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\SubStyles.h,31,6.0,159.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\CharacterSet.h,22,14.0,158.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\AddRecordDialog.ui,0,0.0,158.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qscilexerxml.cpp,62,33.0,157.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\AboutDialog.ui,0,0.0,157.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\tests\TestImport.cpp,17,4.0,157.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\tests\TestRowCache.cpp,29,3.0,157.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\Partitioning.h,23,26.0,155.0
+sqlitebrowser,YAML,D:\clones\sqlitebrowser\snap\snapcraft.yaml,2,0.0,154.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\ForeignKeyEditorDelegate.cpp,32,7.0,154.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\FileExtensionManager.ui,0,0.0,153.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qhexedit\src\commands.cpp,16,1.0,148.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\TableBrowser.h,30,2.0,148.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\RemoteLocalFilesModel.cpp,32,13.0,146.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\CellBuffer.h,32,38.0,145.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\ImageViewer.cpp,27,10.0,144.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\ColumnDisplayFormatDialog.cpp,16,10.0,143.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\CondFormat.cpp,17,16.0,143.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\Style.cpp,20,7.0,141.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\Qsci\qscilexercpp.h,80,180.0,138.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\KeyMap.cpp,18,8.0,138.0
+sqlitebrowser,WiX source,D:\clones\sqlitebrowser\installer\windows\translations.wxs,47,46.0,136.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\ColumnDisplayFormatDialog.ui,0,0.0,134.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\EditView.h,26,27.0,133.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\Qsci\qscicommand.h,120,157.0,131.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\SparseVector.h,5,21.0,130.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\RemoteCommitsModel.cpp,32,9.0,130.0
+sqlitebrowser,Qt,D:\clones\sqlitebrowser\src\VacuumDialog.ui,0,0.0,127.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\sqlitetablemodel.h,59,64.0,127.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\PerLine.h,18,20.0,126.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\CipherDialog.cpp,23,4.0,124.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\RemotePushDialog.cpp,34,18.0,122.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\OptionSet.h,9,8.0,121.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\PropSetSimple.cpp,30,13.0,114.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\sql\Query.cpp,24,15.0,111.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\LexerBase.cpp,30,6.0,108.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\ExportSqlDialog.cpp,18,11.0,106.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\SciClasses.cpp,47,41.0,105.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qsciprinter.cpp,46,35.0,105.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\ScintillaQt.h,22,24.0,104.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\ExtendedTableWidget.h,31,5.0,103.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\Qsci\qscilexerpython.h,73,158.0,102.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qscistyle.cpp,41,42.0,101.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\LexerModule.cpp,18,7.0,101.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\PlotDock.h,23,6.0,101.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\sqltextedit.cpp,30,19.0,99.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\Qsci\qscilexer.h,69,183.0,98.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\docktextedit.cpp,14,11.0,96.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\XPM.h,13,23.0,94.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\SelectItemsPopup.cpp,23,20.0,93.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\FilterTableHeader.cpp,21,19.0,92.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\sql\Query.h,24,0.0,90.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\DefaultLexer.cpp,31,6.0,88.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\EditDialog.h,16,6.0,87.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\Qsci\qscilexersql.h,62,138.0,86.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\SparseState.h,9,11.0,86.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\EditTableDialog.h,17,0.0,86.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\FileExtensionManager.cpp,18,0.0,86.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\SciAccessibility.h,21,19.0,82.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qscidocument.cpp,35,34.0,82.0
+sqlitebrowser,XML,D:\clones\sqlitebrowser\src\app.plist,0,0.0,82.0
+sqlitebrowser,YAML,D:\clones\sqlitebrowser\.github\ISSUE_TEMPLATE\Bug_report.yaml,0,0.0,81.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\page_white_color.svg,0,0.0,80.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\Palette.cpp,8,7.0,79.0
+sqlitebrowser,DOS Batch,D:\clones\sqlitebrowser\installer\windows\nightly_build_scripts\win32build.bat,32,29.0,78.0
+sqlitebrowser,DOS Batch,D:\clones\sqlitebrowser\installer\windows\nightly_build_scripts\win64build.bat,30,29.0,78.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\RowLoader.h,33,14.0,77.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\TableBrowserDock.cpp,16,13.0,77.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qscicommand.cpp,38,31.0,74.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\sql\ObjectIdentifier.h,22,8.0,74.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\RemoteModel.h,27,18.0,73.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\include\ILexer.h,12,6.0,72.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\ScintillaBase.h,20,11.0,72.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\Style.h,10,10.0,72.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\FileDialog.cpp,11,0.0,72.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\ExternalLexer.cpp,27,38.0,70.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\Qsci\qsciapis.h,36,110.0,67.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\edit_cut.svg,0,0.0,67.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\RemoteNetwork.h,19,7.0,65.0
+sqlitebrowser,YAML,D:\clones\sqlitebrowser\.travis.yml,6,0.0,64.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\FileDialog.h,27,19.0,64.0
+sqlitebrowser,YAML,D:\clones\sqlitebrowser\.github\workflows\cppcmake.yml,3,6.0,63.0
+sqlitebrowser,CMake,D:\clones\sqlitebrowser\cmake\FindQScintilla.cmake,13,51.0,63.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\MacPasteboardMime.cpp,27,21.0,63.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qscilexerjavascript.cpp,29,28.0,63.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\EditModel.cpp,9,6.0,62.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\csvparser.h,17,21.0,62.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\tests\TestRegex.cpp,13,6.0,62.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\CondFormat.h,16,5.0,60.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\RunSql.h,18,11.0,60.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\sql\ObjectIdentifier.cpp,13,6.0,60.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\SqlExecutionArea.h,18,1.0,59.0
+sqlitebrowser,YAML,D:\clones\sqlitebrowser\.github\workflows\appimage.yml,3,0.0,57.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\LexerModule.h,15,15.0,57.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\CallTip.h,18,16.0,57.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\ExternalLexer.h,14,9.0,57.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\UniConversion.h,18,11.0,57.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\PreferencesDialog.h,16,0.0,57.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\RemoteDock.h,19,4.0,57.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\Qsci\qscilexerjson.h,43,85.0,56.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\Qsci\qscistyle.h,37,113.0,54.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\StyleContext.cpp,9,6.0,54.0
+sqlitebrowser,CMake,D:\clones\sqlitebrowser\src\tests\CMakeLists.txt,17,4.0,54.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\Accessor.cpp,10,11.0,52.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\Catalogue.cpp,16,15.0,52.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qscilexercustom.cpp,24,26.0,51.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\RemoteDatabase.h,18,17.0,51.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\SciClasses.h,25,28.0,50.0
+sqlitebrowser,XML,D:\clones\sqlitebrowser\distri\sqlitebrowser.desktop.appdata.xml,0,0.0,49.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\CaseFolder.cpp,11,6.0,49.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\ImportCsvDialog.h,19,1.0,49.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\dbstructureqitemviewfacade.cpp,10,0.0,49.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\funnel_delete.svg,0,0.0,49.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\AutoComplete.h,20,24.0,47.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\tests\testsqlobjects.h,5,0.0,47.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\CondFormatManager.h,10,0.0,46.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\ProxyDialog.cpp,8,3.0,46.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\include\ScintillaWidget.h,18,9.0,45.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\LexerNoExceptions.cpp,7,10.0,45.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\DbStructureModel.h,11,0.0,45.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\EditModel.h,13,11.0,44.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\RESearch.h,14,12.0,44.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\RunStyles.h,8,12.0,44.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\KeyMap.h,9,12.0,43.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\ListBoxQt.h,12,22.0,42.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\Indicator.h,6,8.0,42.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\LexerBase.h,5,7.0,41.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\CharClassify.cpp,8,10.0,41.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\main.cpp,13,10.0,41.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qhexedit\src\chunks.h,16,21.0,40.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\ExportDataDialog.h,16,0.0,40.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\Decoration.h,14,6.0,39.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\AddRecordDialog.h,13,0.0,39.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\ExtendedScintilla.h,11,8.0,39.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\LexerSimple.cpp,9,6.0,38.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\EditIndexDialog.h,11,0.0,38.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\FindReplaceDialog.h,10,0.0,38.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\DefaultLexer.h,5,9.0,37.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\CipherSettings.h,13,0.0,37.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\RemoteLocalFilesModel.h,16,3.0,37.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\CharacterSet.cpp,7,9.0,36.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\VacuumDialog.cpp,11,6.0,36.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\Qsci\qscimacro.h,22,41.0,35.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\FilterTableHeader.h,10,0.0,35.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\Settings.h,15,9.0,35.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\sql\parser\ParserDriver.h,15,9.0,35.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\Qsci\qsciprinter.h,22,56.0,34.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\FilterLineEdit.h,12,1.0,34.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\RemotePushDialog.h,11,2.0,33.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\SqlUiLexer.h,15,0.0,32.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\docktextedit.h,12,7.0,32.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\funnel.svg,0,0.0,32.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\Qsci\qscilexerxml.h,24,51.0,31.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\ColumnDisplayFormatDialog.h,13,0.0,31.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\RemoteCommitsModel.h,12,1.0,31.0
+sqlitebrowser,WiX source,D:\clones\sqlitebrowser\installer\windows\ui.wxs,4,0.0,30.0
+sqlitebrowser,WiX include,D:\clones\sqlitebrowser\installer\windows\variables.wxi,13,25.0,30.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\Qsci\qscicommandset.h,21,38.0,30.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\ContractionState.h,14,8.0,30.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\ImageViewer.h,10,0.0,30.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\SelectItemsPopup.h,14,0.0,30.0
+sqlitebrowser,YAML,D:\clones\sqlitebrowser\.github\workflows\coverity.yml,3,0.0,28.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\LineMarker.h,8,12.0,28.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\Application.h,13,2.0,28.0
+sqlitebrowser,Windows Resource File,D:\clones\sqlitebrowser\src\winapp.rc,2,0.0,28.0
+sqlitebrowser,YAML,D:\clones\sqlitebrowser\.github\ISSUE_TEMPLATE\Feature_request.yaml,0,0.0,27.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\CaseFolder.h,8,6.0,27.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\Qsci\qsciabstractapis.h,17,47.0,26.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\ForeignKeyEditorDelegate.h,8,0.0,26.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\Qsci\qscilexercustom.h,18,57.0,25.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\Qsci\qscilexerjavascript.h,19,37.0,25.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\CipherSettings.cpp,4,1.0,25.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\dbstructureqitemviewfacade.h,16,66.0,25.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\sql\parser\ParserDriver.cpp,6,0.0,25.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\WordList.h,5,9.0,24.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\src\DBCS.cpp,5,13.0,24.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\CipherDialog.h,10,2.0,24.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\TableBrowserDock.h,10,0.0,24.0
+sqlitebrowser,SCSS,D:\clones\sqlitebrowser\src\qdarkstyle\dark\_variables.scss,0,9.0,24.0
+sqlitebrowser,SCSS,D:\clones\sqlitebrowser\src\qdarkstyle\light\_variables.scss,0,9.0,24.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\Qsci\qscidocument.h,13,25.0,23.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\ExportSqlDialog.h,8,0.0,23.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\MarginView.h,10,14.0,22.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\FileExtensionManager.h,8,0.0,22.0
+sqlitebrowser,Python,D:\clones\sqlitebrowser\tests\createtestdb.py,6,6.0,22.0
+sqlitebrowser,DOS Batch,D:\clones\sqlitebrowser\installer\windows\build.cmd,6,10.0,21.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qscistyledtext.cpp,11,22.0,21.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\ElapsedPeriod.h,5,9.0,21.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\UnicodeFromUTF8.h,5,6.0,21.0
+sqlitebrowser,JSON,D:\clones\sqlitebrowser\installer\macos\nightly.json,2,0.0,20.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\Qsci\qscistyledtext.h,14,27.0,20.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\AboutDialog.cpp,3,0.0,20.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\ProxyDialog.h,8,0.0,20.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\VacuumDialog.h,8,0.0,20.0
+sqlitebrowser,CMake,D:\clones\sqlitebrowser\libs\qhexedit\CMakeLists.txt,7,0.0,19.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qhexedit\src\commands.h,11,17.0,19.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\CharacterCategory.h,7,7.0,19.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\CaseConvert.h,11,16.0,19.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\DotenvFormat.cpp,9,0.0,19.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\qsciabstractapis.cpp,11,22.0,18.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\CharClassify.h,7,6.0,18.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\Qsci\qsciglobal.h,10,21.0,17.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\Accessor.h,8,6.0,17.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\PropSetSimple.h,5,6.0,17.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\IntegerRectangle.h,6,6.0,17.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\AboutDialog.h,6,0.0,17.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\Data.h,14,12.0,17.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\sqlite.h,3,3.0,17.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\sqltextedit.h,9,4.0,17.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\tests\TestRowCache.h,5,0.0,17.0
+sqlitebrowser,Windows Module Definition,D:\clones\sqlitebrowser\src\extensions\extension-functions.def,0,0.0,16.0
+sqlitebrowser,CMake,D:\clones\sqlitebrowser\cmake\FindQCustomPlot.cmake,5,31.0,15.0
+sqlitebrowser,CMake,D:\clones\sqlitebrowser\cmake\FindQHexEdit.cmake,5,31.0,15.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\StringCopy.h,7,10.0,15.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\UniqueString.h,6,9.0,15.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\src\IconCache.cpp,4,3.0,15.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\IconCache.h,6,0.0,15.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\LexerNoExceptions.h,6,8.0,14.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\lexlib\LexerSimple.h,5,7.0,14.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\tests\TestImport.h,5,0.0,14.0
+sqlitebrowser,Bourne Shell,D:\clones\sqlitebrowser\src\tools\create_windows_icon.sh,2,3.0,14.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\Palette.h,6,2.0,13.0
+sqlitebrowser,Bourne Shell,D:\clones\sqlitebrowser\installer\other\move_nightlies_into_dirs.sh,6,7.0,12.0
+sqlitebrowser,WiX string localization,D:\clones\sqlitebrowser\installer\windows\strings.wxl,1,1.0,12.0
+sqlitebrowser,CMake,D:\clones\sqlitebrowser\libs\qcustomplot-source\CMakeLists.txt,6,0.0,12.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\Qt4Qt5\SciNamespace.h,4,19.0,12.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\include\Sci_Position.h,7,10.0,12.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\FontQuality.h,6,9.0,12.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\Position.h,8,11.0,12.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\tests\TestRegex.h,5,0.0,12.0
+sqlitebrowser,Bourne Shell,D:\clones\sqlitebrowser\installer\macos\export_icons_set.sh,6,1.0,11.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\Catalogue.h,5,8.0,11.0
+sqlitebrowser,XML,D:\clones\sqlitebrowser\distri\mime\packages\db4s-sqbpro.xml,0,0.0,10.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\include\ILoader.h,4,7.0,10.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\src\DotenvFormat.h,4,0.0,10.0
+sqlitebrowser,C/C++ Header,D:\clones\sqlitebrowser\libs\qscintilla\src\DBCS.h,5,6.0,6.0
+sqlitebrowser,CMake,D:\clones\sqlitebrowser\libs\json\CMakeLists.txt,2,0.0,5.0
+sqlitebrowser,Windows Module Definition,D:\clones\sqlitebrowser\src\extensions\extension-formats.def,0,0.0,5.0
+sqlitebrowser,Properties,D:\clones\sqlitebrowser\libs\qscintilla\src\SciTE.properties,0,2.0,4.0
+sqlitebrowser,SCSS,D:\clones\sqlitebrowser\src\qdarkstyle\dark\main.scss,1,1.0,2.0
+sqlitebrowser,SCSS,D:\clones\sqlitebrowser\src\qdarkstyle\light\main.scss,1,1.0,2.0
+sqlitebrowser,YAML,D:\clones\sqlitebrowser\.github\FUNDING.yml,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\application_go.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\application_link.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\application_side_list.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\arrow_refresh_small.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\bullet_arrow_bottom.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\bullet_arrow_down.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\bullet_arrow_top.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\bullet_arrow_up.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\cancel.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\chart_curve.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\cog.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\cog_go.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\color_swatch.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\color_wheel.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\cross.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\database.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\database_add.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\database_go.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\database_link.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\database_refresh.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\database_save.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\folder.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\folder_page.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\folder_user.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\font.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\font_add.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\font_delete.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\font_edit.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\help.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\hourglass.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\key.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\layout_sidebar.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\link_break.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\monitor_link.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\package.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\package_go.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\package_world.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\page_add.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\page_copy.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\page_delete.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\page_edit.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\page_find.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\page_green.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\page_key.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\page_link.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\page_paste.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\page_save.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\page_white_copy.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\page_white_database.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\page_white_text.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\picture.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\picture_add.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\picture_delete.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\picture_edit.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\picture_save.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\plugin_add.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\plugin_delete.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\printer.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\resultset_first.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\resultset_last.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\resultset_next.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\resultset_previous.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\script.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\script_add.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\script_delete.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\script_edit.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\script_link.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\server_add.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\server_go.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\tab.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\tab_add.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\table.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\table_add.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\table_delete.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\table_edit.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\table_key.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\table_row_delete.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\table_row_insert.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\table_save.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\tag_blue.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\tag_blue_add.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\tag_blue_delete.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\tag_blue_edit.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\text_align_center.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\text_align_justify.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\text_align_left.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\text_align_right.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\text_bold.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\text_italic.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\text_padding_left.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\text_padding_top.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\text_underlined.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\textfield_delete.svg,0,0.0,1.0
+sqlitebrowser,SVG,D:\clones\sqlitebrowser\src\icons\wrench.svg,0,0.0,1.0
+sqlitebrowser,Windows Resource File,D:\clones\sqlitebrowser\src\os2app.rc,0,0.0,1.0
+sqlitebrowser,C++,D:\clones\sqlitebrowser\libs\qscintilla\lexers\LexSQL.cpp,88,879.0,0.0

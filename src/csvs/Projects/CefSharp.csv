@@ -1,0 +1,873 @@
+project,language,filename,blank,comment,code
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DevTools\DevToolsClient.Generated.cs,4018,16025.0,28542.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DevTools\DevToolsClient.Generated.netcore.cs,3461,15530.0,25799.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\ChromiumWebBrowser.cs,310,924.0,1378.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\ClientAdapter.cpp,316,56.0,1152.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp3.sln.DotSettings,0,0.0,1042.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\UnicodeExampleGreaterThan32kb.html,277,0.0,859.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\UnocodeExampleEqualTo32kb.html,277,0.0,848.0
+CefSharp,CSS,D:\clones\CefSharp\CefSharp.Example\Resources\assets\css\docs.css,104,176.0,830.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\ResourceHandler.cs,71,180.0,787.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\WebBrowserExtensions.cs,208,687.0,716.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\OffScreen\OffScreenBrowserBasicFacts.cs,197,24.0,687.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefBrowserHostWrapper.cpp,175,19.0,593.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\CefAppUnmanagedWrapper.cpp,106,58.0,574.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\JavascriptObjectRepository.cs,112,121.0,562.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms.Example\BrowserForm.cs,90,33.0,523.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.WinForms.Example\Minimal\SimpleBrowserForm.resx,11,48.0,488.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.OffScreen\ChromiumWebBrowser.cs,116,356.0,487.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.WinForms.Example\BrowserForm.resx,11,48.0,485.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.Core.Runtime\CefSharp.Core.Runtime.netcore.vcxproj,0,0.0,468.0
+CefSharp,XAML,D:\clones\CefSharp\CefSharp.Wpf.Example\Views\BrowserTabView.xaml,1,22.0,443.0
+CefSharp,PowerShell,D:\clones\CefSharp\build.ps1,108,18.0,442.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Cef.h,110,370.0,436.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms.Example\BrowserTabUserControl.cs,83,81.0,428.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms\ChromiumWebBrowser.cs,89,294.0,427.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.Core.Runtime\CefSharp.Core.Runtime.vcxproj,0,0.0,369.0
+CefSharp,C#,D:\clones\CefSharp\old\CefSharp.Tests\BindObjectTests.cs,40,171.0,354.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\Home.html,37,9.0,351.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core.Runtime.RefAssembly\CefSharp.Core.Runtime.netcore.cs,0,9.0,350.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.Core.Runtime\CefSharp.Core.Runtime.netcore.vcxproj.filters,0,0.0,349.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\DevTools\DevToolsClientFacts.cs,67,8.0,348.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.Core.Runtime\CefSharp.Core.Runtime.vcxproj.filters,0,0.0,346.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\CefSharp.BrowserSubprocess.Core.netcore.vcxproj,0,0.0,337.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\JavascriptBinding\BoundObject.cs,67,14.0,323.0
+CefSharp,C# Designer,D:\clones\CefSharp\CefSharp.WinForms.Example\BrowserForm.Designer.cs,6,137.0,322.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefMenuModelWrapper.h,122,3.0,315.0
+CefSharp,XML,D:\clones\CefSharp\NuGet\CefSharp.Common.targets,24,101.0,313.0
+CefSharp,CSS,D:\clones\CefSharp\CefSharp.Example\Resources\assets\css\shCoreDefault.css,3,16.0,309.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Experimental\WpfIMEKeyboardHandler.cs,59,75.0,309.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\MainWindow.xaml.cs,54,22.0,292.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\TypeConversion.h,58,13.0,280.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Experimental\Accessibility\AccessibilityNode.cs,51,9.0,272.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DevTools\DevToolsClient.cs,54,95.0,265.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\CefSharp.BrowserSubprocess.Core.vcxproj,0,0.0,262.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Handler\ContextMenuHandler.cs,44,34.0,262.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefResourceRequestHandlerAdapter.h,61,42.0,252.0
+CefSharp,Visual Studio Solution,D:\clones\CefSharp\CefSharp3.netcore.sln,1,1.0,251.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\LegacyBindingTest.html,62,0.0,246.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\Cef.cs,52,374.0,241.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\JavascriptBinding\IntegrationTestFacts.cs,68,23.0,241.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\CefErrorCode.cs,263,985.0,240.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefFrameWrapper.cpp,78,114.0,238.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\BindObjectAsyncHandler.h,58,35.0,235.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\TypeUtils.cpp,37,6.0,231.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\CefSettingsBase.cs,41,210.0,229.0
+CefSharp,C# Designer,D:\clones\CefSharp\CefSharp.Example\Properties\Resources.Designer.cs,47,692.0,228.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\Partial\ChromiumWebBrowser.Partial.cs,57,223.0,226.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\JavascriptBinding\AsyncBoundObject.cs,47,11.0,217.0
+CefSharp,CSS,D:\clones\CefSharp\CefSharp.Example\Resources\assets\css\shCore.css,1,16.0,209.0
+CefSharp,Visual Studio Solution,D:\clones\CefSharp\CefSharp3.sln,1,1.0,209.0
+CefSharp,JavaScript,D:\clones\CefSharp\CefSharp.Example\Resources\BindingTestAsync.js,45,5.0,208.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\CefSharp.BrowserSubprocess.Core.vcxproj.filters,0,0.0,206.0
+CefSharp,XML,D:\clones\CefSharp\NuGet\PackageReference\CefSharp.Common.NETCore.targets,9,29.0,206.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\BindingTestsAsyncTask.html,41,0.0,204.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Internals\VirtualKeys.cs,1,202.0,202.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\WindowInfo.h,34,3.0,201.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\Views\BrowserTabView.xaml.cs,48,52.0,201.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\CefSharp.BrowserSubprocess.Core.netcore.filters,0,0.0,200.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\BrowserSettings.h,40,143.0,193.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\Serialization\V8Serialization.cpp,21,12.0,193.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\ViewModels\BrowserTabViewModel.cs,33,3.0,193.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DevTools\DevToolsDomainEntityBase.cs,54,11.0,191.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\CefExample.cs,49,90.0,185.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\CefSettingsBase.h,39,194.0,184.0
+CefSharp,JavaScript,D:\clones\CefSharp\CefSharp.Example\Resources\BindingTestSync.js,53,1.0,184.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms\Internals\ParentFormMessageInterceptor.cs,36,131.0,183.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\ManagedCefBrowserAdapter.cpp,41,17.0,182.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\DragData.h,30,15.0,179.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.Example\Properties\Resources.resx,11,48.0,179.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\Serialization\V8Serialization.cpp,21,9.0,172.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\RequestContext.cpp,74,5.0,172.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Experimental\Accessibility\AccessibilityTree.cs,32,6.0,170.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\Controls\ChromiumWebBrowserWithScreenshotSupport.cs,35,17.0,168.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\BrowserSettings.cs,35,46.0,167.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefResponseWrapper.h,39,4.0,164.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\RenderClientAdapter.h,43,44.0,164.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefSharpApp.h,37,16.0,163.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\ClientAdapter.h,32,21.0,163.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\AcceptRangeResourceHandler.cs,47,29.0,163.0
+CefSharp,C# Designer,D:\clones\CefSharp\CefSharp.WinForms.Example\BrowserTabUserControl.Designer.cs,6,55.0,161.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DependencyChecker.cs,35,89.0,161.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Internals\IMEHandler.cs,42,22.0,160.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Rendering\AllocHGlobalWritableBitmapRenderHandler.cs,28,44.0,159.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\Request.cpp,52,3.0,158.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms\Handler\LifeSpanHandler.cs,44,120.0,151.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\CefCustomScheme.cs,21,97.0,151.0
+CefSharp,C# Designer,D:\clones\CefSharp\CefSharp.WinForms.Example\Minimal\SimpleBrowserForm.Designer.cs,7,53.0,148.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms.Example\Minimal\SimpleBrowserForm.cs,32,4.0,148.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\RequestContext.cs,35,44.0,146.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\Framework\BinderFacts.cs,36,6.0,146.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\Controls\NonReloadingTabControl.cs,28,26.0,146.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefBrowserWrapper.cpp,36,77.0,144.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\PostData.h,47,53.0,143.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\RequestContextExtensions.cs,38,128.0,143.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Rendering\Experimental\CompositionTargetRenderHandler.cs,26,22.0,142.0
+CefSharp,C# Designer,D:\clones\CefSharp\CefSharp.WinForms.Example\AboutBox.Designer.cs,6,37.0,141.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\Wrapper\Frame.cpp,40,112.0,138.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Lagacy\ResourceHandler.cs,43,87.0,136.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Internals\WpfExtensions.cs,31,53.0,135.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\SchemeHandler\OwinResourceHandler.cs,28,62.0,135.0
+CefSharp,C#,D:\clones\CefSharp\old\CefSharp.Tests\BoundObject.cs,30,0.0,129.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\ConcurrentMethodRunnerQueue.cs,21,30.0,127.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms\Host\ChromiumHostControl.cs,28,152.0,126.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefBrowserHostWrapper.h,45,10.0,121.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\ManagedCefBrowserAdapter.h,27,7.0,121.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\RequestContext.h,45,234.0,120.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\Wrapper\Browser.cpp,30,77.0,119.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefImageWrapper.h,44,61.0,117.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\JavascriptCallbackProxy.cpp,24,5.0,117.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.OffScreen.Example\Program.cs,44,48.0,115.0
+CefSharp,Markdown,D:\clones\CefSharp\README.md,38,0.0,115.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\ModelBinding\DefaultBinder.cs,29,52.0,114.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\Filters\FindReplaceMultiResponseFilter.cs,28,45.0,113.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\Serialization\Primitives.cpp,24,3.0,112.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\RequestContextBuilder.cs,34,81.0,112.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms\Host\ChromiumHostControlBase.cs,22,76.0,112.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefExtensionHandlerAdapter.h,21,83.0,110.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\Filters\FindReplaceResponseFilter.cs,30,53.0,109.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefContextMenuParamsWrapper.cpp,40,3.0,105.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DevTools\Headers.cs,21,42.0,105.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\RequestHandler.cs,24,154.0,105.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\Tasks\LimitedConcurrencyLevelTaskScheduler.cs,14,48.0,105.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\MCefRefPtr.h,19,23.0,104.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\PostDataElement.h,27,3.0,104.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\Framework\ConcurrentMethodRunnerQueueFacts.cs,34,20.0,104.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms.Example\Handlers\KeyboardHandler.cs,10,18.0,104.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\Handlers\ExperimentalLifespanHandler.cs,24,18.0,103.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\PostDataExtensions.cs,26,40.0,103.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Internals\ImeNative.cs,30,3.0,101.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\WinForms\WinFormsBrowserBasicFacts.cs,27,4.0,99.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\RegisterBoundObjectHandler.h,22,9.0,98.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\DevTools\JsonEnumConverterFacts.cs,24,3.0,98.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\WindowInfo.cs,22,26.0,97.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefFrameWrapper.h,37,144.0,96.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\Handlers\ExampleResourceRequestHandler.cs,26,46.0,95.0
+CefSharp,C#,D:\clones\CefSharp\old\CefSharp.Tests\BrowserApplication.cs,20,3.0,95.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\Wrapper\Frame.h,36,117.0,94.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.OffScreen\DefaultRenderHandler.cs,35,118.0,94.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefWriteHandlerWrapper.h,17,5.0,93.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\WebBrowserExtensionsEx.cs,24,30.0,93.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms\Internals\ControlExtensions.cs,14,38.0,93.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\DevTools\HeadersFacts.cs,16,3.0,92.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DevTools\DevToolsDomainBase.cs,17,33.0,92.0
+CefSharp,MSBuild script,D:\clones\CefSharp\old\CefUsageTests\CefUsageTests.csproj,0,7.0,92.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Rendering\WritableBitmapRenderHandler.cs,23,36.0,91.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\Request.cs,22,31.0,90.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Internals\WpfLegacyKeyboardHandler.cs,16,30.0,90.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.shfbproj,0,9.0,90.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\StringUtils.h,18,38.0,89.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\ScriptedMethods.cs,14,47.0,89.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\CefSharpSchemeHandlerFactory.cs,15,15.0,88.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\Wpf\WpfBrowserBasicFacts.cs,24,4.0,87.0
+CefSharp,XAML,D:\clones\CefSharp\CefSharp.Wpf.Example\MainWindow.xaml,0,0.0,87.0
+CefSharp,Markdown,D:\clones\CefSharp\CONTRIBUTING.md,22,0.0,86.0
+CefSharp,C# Designer,D:\clones\CefSharp\CefSharp.WinForms.Example\InputBox.Designer.cs,6,32.0,86.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\TaskExtensions.cs,10,43.0,86.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefBrowserWrapper.h,29,82.0,85.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp.Example\CefSharp.Example.netcore.csproj,8,3.0,85.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\Handlers\ExampleRequestHandler.cs,20,48.0,85.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Rendering\AbstractRenderHandler.cs,17,40.0,85.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\Serialization\ObjectsSerialization.cpp,9,3.0,84.0
+CefSharp,XAML,D:\clones\CefSharp\CefSharp.Wpf.Example\App.xaml,3,12.0,84.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\DisplayHandler.cs,29,85.0,84.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp.Example\CefSharp.Example.csproj,0,0.0,83.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\JavascriptRootObjectWrapper.h,17,11.0,82.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\Wrapper\Browser.h,29,82.0,82.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\ExtensionHandler .cs,24,155.0,82.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\CookieManagerDecorator.cs,17,7.0,82.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Internals\WpfKeyboardHandler.cs,14,12.0,81.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\CdmSupportTest.html,8,0.0,80.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\CefSharpFixture.cs,18,8.0,80.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DomNode.cs,17,49.0,80.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\CefThread.cs,23,55.0,80.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\MethodRunnerQueue.cs,14,22.0,80.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\WcfEnabledSubProcess.cpp,18,6.0,79.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms.Example\AboutBox.cs,11,3.0,78.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.WinForms.Example\Properties\Resources.resx,11,48.0,77.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\ResponseFilterTest.html,0,0.0,76.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\Javascript\EvaluateScriptAsyncFacts.cs,21,6.0,76.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\AsyncExtensions.cs,21,56.0,76.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\ResourceRequestHandler.cs,22,211.0,76.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms.Example\Program.cs,18,12.0,75.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\BrowserSubprocessExecutable.h,20,74.0,74.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms.Example\Minimal\TabulationDemoForm.cs,15,8.0,74.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IBrowserHost.cs,61,394.0,74.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\Filters\ExperimentalStreamResponseFilter.cs,27,38.0,73.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\ExceptionTest.html,1,0.0,73.0
+CefSharp,C# Designer,D:\clones\CefSharp\CefSharp.WinForms.Example\Minimal\TabulationDemoForm.Designer.cs,6,26.0,73.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\RequestEventHandler\RequestEventHandler.cs,22,13.0,72.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DevToolsExtensions.cs,28,77.0,72.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\Serialization\JsObjectsSerialization.cpp,8,5.0,71.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Request.h,15,3.0,71.0
+CefSharp,MSBuild script,D:\clones\CefSharp\old\CefSharp.Tests\CefSharp.Tests.csproj,0,7.0,71.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\JavascriptPostMessageHandler.h,19,5.0,70.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\BindingTestSingle.html,9,0.0,70.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\Framework\RequestContextExtensionFacts.cs,18,4.0,70.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Rendering\Experimental\ByteArrayWritableBitmapRenderHandler.cs,17,32.0,70.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\CefAppUnmanagedWrapper.h,15,6.0,69.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp.Core.Runtime.RefAssembly\CefSharp.Core.Runtime.RefAssembly.netcore.csproj,12,16.0,69.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\Handlers\BrowserProcessHandler.cs,12,29.0,69.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp.WinForms.Test\CefSharp.WinForms.Test.csproj,0,7.0,69.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Rendering\InteropBitmapRenderHandler.cs,16,21.0,69.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\Serialization\JsObjectsSerialization.cpp,14,3.0,67.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\WebBrowserTestExtensions.cs,22,21.0,67.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.WinForms.Example\BrowserTabUserControl.resx,11,48.0,67.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\SpawnBrowsersWindow.xaml.cs,9,4.0,67.0
+CefSharp,XML,D:\clones\CefSharp\NuGet\PackageReference\CefSharp.Common.NETCore.nuspec,11,10.0,67.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.AfterBuild.targets,2,10.0,66.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefSchemeHandlerFactoryAdapter.h,20,4.0,66.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\Framework\AsyncExtensionFacts.cs,23,16.0,66.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\JavascriptPromiseHandler.h,18,6.0,65.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\Filters\AppendResponseFilter.cs,17,16.0,65.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\JavascriptBinding\JavaScriptObjectRepositoryFacts.cs,15,3.0,65.0
+CefSharp,Markdown,D:\clones\CefSharp\.github\ISSUE_TEMPLATE\bug_report.md,21,0.0,64.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\CookieManager.cpp,21,3.0,64.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\Fluent\UrlRequestClient.cs,20,58.0,64.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\AudioHandler.cs,19,65.0,64.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\SubProcess.h,22,4.0,63.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\JavascriptCallbackProxy.h,13,3.0,63.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms\WebBrowserExtensions.cs,18,55.0,63.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\RequestContextHandler.cs,20,59.0,63.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\RequestContextSettings.h,13,58.0,62.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\Initializer.cs,9,19.0,62.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\Handlers\AudioHandler.cs,11,12.0,62.0
+CefSharp,C# Designer,D:\clones\CefSharp\CefSharp.WinForms.Example\Properties\Resources.Designer.cs,13,38.0,62.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\JavascriptMethodHandler.cpp,15,4.0,61.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefCertificateCallbackWrapper.h,19,18.0,61.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefDevToolsMessageObserverAdapter.h,18,3.0,61.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefExtensionWrapper.cpp,23,3.0,61.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefRequestCallbackWrapper.h,14,3.0,61.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefSslInfoWrapper.h,18,3.0,61.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\UrlRequest.h,13,23.0,61.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp.Core\CefSharp.Core.netcore.csproj,10,3.0,61.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\Fluent\DownloadHandler.cs,14,44.0,61.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.OffScreen\BitmapBuffer.cs,17,45.0,61.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.WinForms.Example\Minimal\TabulationDemoForm.resx,11,48.0,61.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Experimental\ChromiumWebBrowserWithTouchSupport.cs,7,42.0,61.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\CefRuntime.cs,14,38.0,61.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DefaultApp.cs,12,48.0,61.0
+CefSharp,XML,D:\clones\CefSharp\old\CefUsageTests\MainForm.resx,11,48.0,61.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\PopupFeatures.h,14,11.0,60.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\JavascriptBinding\ExceptionTestBoundObject.cs,7,3.0,60.0
+CefSharp,JavaScript,D:\clones\CefSharp\CefSharp.Example\Resources\assets\js\application.js,3,4.0,60.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\Handlers\WpfBrowserProcessHandler.cs,11,15.0,60.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\JavascriptRootObjectWrapper.cpp,12,3.0,59.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefResourceHandlerAdapter.cpp,20,4.0,59.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefValueWrapper.cpp,24,3.0,59.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\ScriptedMethodsTest.html,1,3.0,59.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\Controls\TouchKeyboard\TouchKeyboardEventManager.cs,18,32.0,59.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\ByteArrayResourceHandler.cs,17,28.0,59.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\FileResourceHandler.cs,16,29.0,59.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefCookieAccessFilterAdapter.h,19,5.0,58.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefTaskScheduler.h,13,8.0,58.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\Wcf\JavascriptCallbackSurrogate.cs,11,3.0,58.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\ModelBinding\BindingMemberInfo.cs,15,30.0,58.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\ResourceRequestHandlerFactory.cs,12,44.0,58.0
+CefSharp,C# Designer,D:\clones\CefSharp\old\CefUsageTests\MainForm.Designer.cs,7,23.0,58.0
+CefSharp,XML,D:\clones\CefSharp\old\CefUsageTests\Properties\Resources.resx,11,48.0,58.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp.Test\CefSharp.Test.csproj,4,0.0,57.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\SchemeHandler\FolderSchemeHandlerFactory.cs,14,55.0,57.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\CefSharpSchemeHandler.cs,8,5.0,56.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\MultiBindingTest.html,1,0.0,56.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp.WinForms\CefSharp.WinForms.csproj,8,0.0,56.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\CursorType.cs,1,156.0,56.0
+CefSharp,XML,D:\clones\CefSharp\NuGet\CefSharp.Common.nuspec,8,3.0,56.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\CefBrowserWrapper.h,14,8.0,55.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\Serialization\Primitives.h,8,4.0,55.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IMenuModel.cs,49,292.0,55.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\BrowserRefCounter.cs,11,38.0,55.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\Json\JsonEnumConverterFactory.cs,11,8.0,55.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\PendingTaskRepository.cs,15,40.0,55.0
+CefSharp,PowerShell,D:\clones\CefSharp\GenerateRefAssemblySource.ps1,11,6.0,55.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\Async\JavascriptAsyncMethodHandler.cpp,14,6.0,54.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms\Experimental\ChromiumRenderWidgetHandleFinder.cs,19,40.0,54.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Rendering\DirectWritableBitmapRenderHandler.cs,12,16.0,54.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\PostData.cs,14,23.0,53.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Extensions\set_page_color\popup.html,2,0.0,53.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\Handlers\DragHandler.cs,9,9.0,53.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefRefCountManaged.h,15,19.0,52.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\Handlers\ExtensionHandler.cs,15,3.0,52.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\PostMessage\IntegrationTestFacts.cs,13,14.0,52.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp.WinForms.Example\CefSharp.WinForms.Example.netcore.csproj,6,8.0,52.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\Wcf\BrowserProcessServiceHost.cs,13,4.0,52.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\JavascriptPropertyHandler.h,10,7.0,51.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\InMemorySchemeHandlerFactory.cs,9,25.0,51.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\Framework\RequestContextBuilderFacts.cs,8,4.0,51.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\JavascriptBinding\JavascriptBindingSettings.cs,11,37.0,51.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\JavascriptObjectWrapper.h,11,3.0,50.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefGetExtensionResourceCallbackWrapper.h,21,3.0,50.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp.Test\CefSharp.Test.netcore.csproj,6,4.0,50.0
+CefSharp,C#,D:\clones\CefSharp\old\CefUsageTests\MainForm.cs,7,12.0,50.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp.BrowserSubprocess\CefSharp.BrowserSubprocess.netcore.csproj,7,9.0,49.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefContextMenuParamsWrapper.h,10,3.0,49.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefResponseFilterAdapter.h,16,20.0,49.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp.WinForms.Example\CefSharp.WinForms.Example.csproj,1,0.0,49.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Internals\DragOperationMaskExtensions.cs,5,14.0,49.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\RegisterBoundObjectRegistry.h,10,6.0,48.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\Wrapper\V8Context.h,15,3.0,48.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefRequestContextHandlerAdapter.cpp,11,5.0,48.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms.Example\ControlExtensions.cs,9,19.0,48.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp.WinForms\CefSharp.WinForms.netcore.csproj,11,3.0,48.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\FrameHandler.cs,20,64.0,48.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\CookieManager.h,12,5.0,47.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\NativeMethodWrapper.cpp,10,7.0,47.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp.Core\CefSharp.Core.csproj,0,4.0,47.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\UrlRequest.cs,14,49.0,47.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\CssAnimation.html,8,0.0,47.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.Native.props,1,4.0,47.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms.Example\Handlers\ScheduleMessagePumpBrowserProcessHandler.cs,8,19.0,47.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms\Handler\DisplayHandler.cs,17,12.0,47.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms\Handler\LoadHandler.cs,17,12.0,47.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\InMemoryResourceRequestHandler.cs,15,20.0,47.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\Wcf\WcfExtensions.cs,4,3.0,47.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp.Wpf.Example\CefSharp.Wpf.Example.csproj,1,0.0,46.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp.Wpf.Example\CefSharp.Wpf.Example.netcore.csproj,6,8.0,46.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp\CefSharp.netcore.csproj,7,3.0,46.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefDownloadItemCallbackWrapper.h,17,7.0,45.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefWrapper.h,11,3.0,45.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\ObjectFactory.cs,12,53.0,45.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\JavascriptBinding\JavascriptCallbackBoundObject.cs,9,3.0,45.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp.OffScreen.Example\CefSharp.OffScreen.Example.netcore.csproj,6,8.0,45.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms.Example\Handlers\WinFormsRequestHandler.cs,10,6.0,45.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp.Wpf\CefSharp.Wpf.csproj,6,0.0,45.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\PathCheck.cs,9,37.0,45.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefValueWrapper.h,11,3.0,44.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\RelayCommand.cs,8,3.0,44.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DevTools\EventProxy.cs,12,23.0,44.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\Async\JavascriptAsyncMethodCallback.cpp,3,3.0,43.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\RequestContext.netcore.cs,12,16.0,43.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp.OffScreen\CefSharp.OffScreen.csproj,6,0.0,43.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\Controls\TouchKeyboard\InputPaneRcw.cs,11,13.0,43.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\TouchKeyboardWin10MainWindow.xaml.cs,8,7.0,43.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DevTools\DevToolsMethodResponseContext.cs,6,5.0,43.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\UrlRequestClient.cs,15,87.0,43.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\PostDataElement.cs,10,23.0,42.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\DragDropCursorsTest.html,3,0.0,42.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms\Internals\DefaultFocusHandler.cs,6,74.0,42.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Experimental\Accessibility\AccessibilityHandler.cs,13,18.0,42.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Experimental\Accessibility\BrowserAutomationPeer.cs,9,3.0,42.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp\CefSharp.csproj,0,0.0,42.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Web\HtmlString.cs,10,30.0,42.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefAuthCallbackWrapper.h,15,3.0,41.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefCallbackWrapper.h,15,3.0,41.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefRunContextMenuCallbackWrapper.h,15,3.0,41.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefUrlRequestClientAdapter.cpp,10,3.0,41.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefUrlRequestClientAdapter.h,11,42.0,41.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\BindingTest.html,10,9.0,41.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\PostMessageTest.html,11,0.0,41.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\SchemeTest.html,6,0.0,41.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp.OffScreen\CefSharp.OffScreen.netcore.csproj,8,3.0,41.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\Framework\PathCheckFacts.cs,5,3.0,41.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\ChangeParentWindow.xaml.cs,10,6.0,41.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\Handlers\DisplayHandler.cs,9,9.0,41.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\JavascriptCallbackMainWindow.xaml.cs,9,3.0,41.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp.Wpf\CefSharp.Wpf.netcore.csproj,8,3.0,41.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\CefLibraryHandle.cs,8,31.0,41.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\LifeSpanHandler.cs,12,127.0,41.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\ResponseFilter\StreamResponseFilter.cs,12,18.0,41.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Web\JsonString.cs,10,21.0,41.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\JavascriptObjectWrapper.cpp,12,5.0,40.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefExtensionWrapper.h,12,3.0,40.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefFileDialogCallbackWrapper.h,16,3.0,40.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefJSDialogCallbackWrapper.h,13,3.0,40.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\ModelBinding\MethodInterceptorLogger.cs,10,9.0,40.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\BindingTestNetCore.html,10,9.0,40.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms.Example\InputBox.cs,8,3.0,40.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Experimental\Accessibility\TabControlAutomationPeer.cs,5,7.0,40.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\ChannelLayout.cs,34,113.0,40.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\ContextMenuHandler.cs,10,51.0,40.0
+CefSharp,C# Designer,D:\clones\CefSharp\old\CefUsageTests\Properties\Resources.Designer.cs,8,23.0,40.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp.BrowserSubprocess\CefSharp.BrowserSubprocess.csproj,1,0.0,39.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\TaskDeleteCookiesCallback.cs,10,18.0,39.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\TaskResolveCallback.cs,10,15.0,39.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\JavascriptBinding\CamelCaseJavascriptNameConverter.cs,10,31.0,39.0
+CefSharp,XML,D:\clones\CefSharp\NuGet\CefSharp.OffScreen.nuspec,3,0.0,39.0
+CefSharp,XML,D:\clones\CefSharp\NuGet\CefSharp.WinForms.nuspec,3,0.0,39.0
+CefSharp,XML,D:\clones\CefSharp\NuGet\CefSharp.Wpf.nuspec,3,0.0,39.0
+CefSharp,PowerShell,D:\clones\CefSharp\UpdateNugetPackages.ps1,21,7.0,39.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\JavascriptCallbackRegistry.h,10,6.0,38.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\JavascriptMethodWrapper.h,10,3.0,38.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\SubProcessApp.h,8,4.0,38.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\RequestContextSettings.cs,9,56.0,38.0
+CefSharp,JavaScript,D:\clones\CefSharp\CefSharp.Example\Resources\assets\js\shBrushCSharp.js,9,18.0,38.0
+CefSharp,MSBuild script,D:\clones\CefSharp\CefSharp.OffScreen.Example\CefSharp.OffScreen.Example.csproj,1,0.0,38.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\Framework\TestMemberInfo.cs,11,3.0,38.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\TaskCompletionCallback.cs,10,15.0,38.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\TaskSetCookieCallback.cs,10,15.0,38.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IBrowserSettings.cs,31,134.0,38.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\JavascriptObject.cs,14,28.0,38.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Visitor\TaskCookieVisitor.cs,9,17.0,38.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\JavascriptCallbackWrapper.h,8,3.0,37.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefResourceHandlerAdapter.h,9,4.0,37.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefTaskWrapper.h,7,7.0,37.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\Fluent\UrlRequestClientBuilder.cs,13,55.0,37.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\Proxy\ProxyConfig.cs,6,3.0,37.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\TooltipTest.html,2,0.0,37.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms.Example\Handlers\WinFormsBrowserProcessHandler.cs,7,12.0,37.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms\Experimental\ChromiumWidgetNativeWindow.cs,11,21.0,37.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Properties\AssemblyInfo.cs,4,2.0,37.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefRequestContextHandlerAdapter.h,10,3.0,36.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefResourceReadCallbackWrapper.h,13,3.0,36.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefResourceSkipCallbackWrapper.h,13,3.0,36.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\vcclr_local.h,11,13.0,36.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\App.xaml.cs,10,4.0,36.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.Wpf.Example\app.manifest,8,17.0,36.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\JsDialogHandler.cs,10,79.0,36.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\Wcf\JavascriptCallbackEndpointBehavior.cs,9,3.0,36.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\Async\JavascriptAsyncMethodCallback.h,9,3.0,35.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\Async\JavascriptAsyncObjectWrapper.h,7,3.0,35.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\JavascriptCallbackRegistry.cpp,7,3.0,35.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefBeforeDownloadCallbackWrapper.h,13,3.0,35.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefStringVisitorAdapter.h,10,7.0,35.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\BrowserSubprocess\SelfHost.cs,11,55.0,35.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.OffScreen.Example\app.manifest,8,17.0,35.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.Test\app.config,0,0.0,35.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms.Example\Handlers\WinFormsDisplayHandler.cs,11,3.0,35.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.WinForms.Example\app.manifest,8,15.0,35.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms\Handler\LifeSpanHandlerBuilder.cs,11,49.0,35.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\BrowserProcessHandler.cs,11,32.0,35.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IFrame.cs,28,140.0,35.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Visitor\TaskNavigationEntryVisitor.cs,8,16.0,35.0
+CefSharp,Markdown,D:\clones\CefSharp\ISSUE_TEMPLATE.md,18,0.0,35.0
+CefSharp,C#,D:\clones\CefSharp\old\CefSharp.Tests\ResourceTests.cs,4,3.0,35.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\JavascriptPropertyWrapper.h,7,4.0,34.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefSchemeRegistrarWrapper.h,11,3.0,34.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\Filters\PassThruResponseFilter.cs,10,15.0,34.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\IWpfWebBrowser.cs,23,103.0,34.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\TaskPrintToPdfCallback.cs,9,12.0,34.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\CefMenuCommand.cs,6,18.0,34.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\LoadHandler.cs,12,98.0,34.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\Wcf\BrowserProcessService.cs,10,3.0,34.0
+CefSharp,XML,D:\clones\CefSharp\NuGet\PackageReference\CefSharp.OffScreen.NETCore.nuspec,1,1.0,34.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefNavigationEntryVisitorAdapter.h,9,3.0,33.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms\ChromiumWebBrowserDesigner.cs,8,26.0,33.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\Handlers\MenuHandler.cs,8,7.0,33.0
+CefSharp,XAML,D:\clones\CefSharp\CefSharp.Wpf.Example\JavascriptCallbackMainWindow.xaml,0,1.0,33.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\DelegateCommand.cs,7,33.0,33.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Cookie.cs,4,60.0,33.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\DialogHandler.cs,3,33.0,33.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IRequestContext.cs,23,225.0,33.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IWebBrowser.cs,26,114.0,33.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\JavascriptBinding\JavascriptBindingExtensions.cs,8,13.0,33.0
+CefSharp,XML,D:\clones\CefSharp\NuGet\PackageReference\CefSharp.WinForms.NETCore.nuspec,1,1.0,33.0
+CefSharp,XML,D:\clones\CefSharp\NuGet\PackageReference\CefSharp.Wpf.NETCore.nuspec,1,1.0,33.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\Async\JavascriptAsyncMethodHandler.h,8,5.0,32.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefPdfPrintCallbackWrapper.h,8,3.0,32.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefRunFileDialogCallbackAdapter.h,10,3.0,32.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefWebPluginInfoVisitorAdapter.h,9,3.0,32.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\FlashResourceHandler.cs,9,6.0,32.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\UrlRequestClient.cs,10,3.0,32.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\BindingRedirectAssemblyResolver.cs,8,12.0,32.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms.Example\Handlers\MenuHandler.cs,8,8.0,32.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\NavigationEntry.cs,13,53.0,32.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\RenderProcess\V8Exception.cs,11,52.0,32.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Visitor\TaskWebPluginInfoVisitor.cs,8,14.0,32.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefCookieVisitorAdapter.h,9,3.0,31.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\JavascriptMethodHandler.h,9,5.0,30.0
+CefSharp,Windows Resource File,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\Resource.rc,1,0.0,30.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\WcfBrowserSubprocessExecutable.h,6,10.0,30.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.BrowserSubprocess\app.manifest,6,15.0,30.0
+CefSharp,Windows Resource File,D:\clones\CefSharp\CefSharp.Core.Runtime\Resource.rc,1,0.0,30.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\PopupTest.html,3,0.0,30.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IBrowser.cs,24,101.0,30.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IDragData.cs,21,76.0,30.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefCompletionCallbackAdapter.h,7,3.0,29.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefDeleteCookiesCallbackAdapter.h,8,3.0,29.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefRegistrationWrapper.h,9,3.0,29.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefResolveCallbackAdapter.h,7,3.0,29.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefSetCookieCallbackAdapter.h,10,3.0,29.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.OffScreen.Example\AsyncContext.cs,7,2.0,29.0
+CefSharp,XAML,D:\clones\CefSharp\CefSharp.Wpf.Example\StandardTabControlWindow.xaml,0,0.0,29.0
+CefSharp,XAML,D:\clones\CefSharp\CefSharp.Wpf\Themes\Generic.xaml,1,0.0,29.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DevTools\DevToolsClientException.cs,8,29.0,29.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\JavascriptProperty.cs,11,28.0,29.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Structs\CompositionUnderline.cs,8,42.0,29.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Structs\Rect.cs,8,30.0,29.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\ReportUnhandledExceptions.h,8,8.0,28.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.OffScreen.Example\SingleThreadSynchronizationContext.cs,5,1.0,28.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\Framework\MimeTypeMappingFacts.cs,2,6.0,28.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms.Example\Minimal\MultiFormAppContext.cs,7,3.0,28.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\FocusHandler.cs,8,47.0,28.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IContextMenuParams.cs,21,80.0,28.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\GlobalContextInitialized.cs,7,11.0,28.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\Json\JsonEnumConverter.cs,7,17.0,28.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\ParentProcessMonitor.cs,6,15.0,28.0
+CefSharp,YAML,D:\clones\CefSharp\appveyor.yml,8,3.0,28.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\JavascriptPropertyWrapper.cpp,8,3.0,27.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\NativeMethodWrapper.cs,7,8.0,27.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\Framework\ParseUrlFacts.cs,7,3.0,27.0
+CefSharp,Markdown,D:\clones\CefSharp\.github\pull_request_template.md,6,0.0,26.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\Async\JavascriptAsyncObjectWrapper.cpp,5,4.0,26.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\Messaging\Messages.h,5,22.0,26.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\DraggableRegionTest.html,3,0.0,26.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\Framework\RequestContextFacts.cs,5,4.0,26.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\CertStatus.cs,3,68.0,26.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\ResourceType.cs,1,66.0,26.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Event\JavascriptMessageReceivedEventArgs.cs,8,30.0,26.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IRequest.cs,19,94.0,26.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IWindowInfo.cs,7,83.0,26.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\StringCheck.cs,5,16.0,26.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\ModelBinding\ModelBindingExtensions.cs,6,21.0,26.0
+CefSharp,Markdown,D:\clones\CefSharp\README.WPF.md,8,0.0,26.0
+CefSharp,PowerShell,D:\clones\CefSharp\afterbuild.example.ps1,6,0.0,26.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\WcfEnabledSubProcess.h,7,6.0,25.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\Handlers\RenderProcessMessageHandler.cs,7,7.0,25.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\RequestEventHandler\EventArgs\GetAuthCredentialsEventArgs.cs,5,11.0,25.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\BindingApiCustomObjectNameTest.html,0,0.0,25.0
+CefSharp,JavaScript,D:\clones\CefSharp\CefSharp.Example\Resources\assets\js\shBrushJScript.js,7,18.0,25.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms.Test\InitTest.cs,4,0.0,25.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IJavascriptObjectRepository.cs,2,66.0,25.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\JavascriptMethod.cs,10,24.0,25.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\MethodInvocation.cs,9,3.0,25.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\Wcf\BrowserProcessResponse.cs,4,3.0,25.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Visitor\TaskStringVisitor.cs,7,17.0,25.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\UrlRequest.cpp,8,3.0,24.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\Handlers\DownloadHandler.cs,6,3.0,24.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\JavascriptCallbackTest.html,4,0.0,24.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\Framework\CamelCaseNamingConverterFacts.cs,8,6.0,24.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\Framework\LegacyCamelCaseJavascriptNameConverterFacts.cs,8,6.0,24.0
+CefSharp,XAML,D:\clones\CefSharp\CefSharp.Wpf.Example\ChangeParentWindow.xaml,0,0.0,24.0
+CefSharp,XAML,D:\clones\CefSharp\CefSharp.Wpf.Example\SimpleMainWindow.xaml,0,1.0,24.0
+CefSharp,XAML,D:\clones\CefSharp\CefSharp.Wpf.Example\TouchKeyboardWin10MainWindow.xaml,0,1.0,24.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\CefSharpSettings.cs,9,52.0,24.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DownloadItem.cs,18,57.0,24.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\TransitionType.cs,17,69.0,24.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IChromiumWebBrowserBase.cs,17,120.0,24.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\DateTimeUtils.cs,4,22.0,24.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\NoOpBrowserRefCounter.cs,9,3.0,24.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\Async\JavascriptAsyncMethodWrapper.h,6,3.0,23.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\DragHandler .cs,6,43.0,23.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\IRenderWebBrowser.cs,14,88.0,23.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\ProxyOptions.cs,7,30.0,23.0
+CefSharp,Markdown,D:\clones\CefSharp\.github\ISSUE_TEMPLATE\feature_request.md,9,0.0,22.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.OffScreen\IRenderHandler.cs,13,84.0,22.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.OffScreen\OnPaintEventArgs.cs,4,35.0,22.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\Framework\MethodRunnerQueueFacts.cs,7,6.0,22.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Handler\ContextMenuExecuteModel.cs,3,33.0,22.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\PaintEventArgs.cs,8,36.0,22.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DevTools\DevToolsDomainErrorResponse.cs,4,16.0,22.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\CefEventFlags.cs,7,9.0,22.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\ContextMenuMediaState.cs,2,50.0,22.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\CookieAccessFilter.cs,4,29.0,22.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\IRequestHandler.cs,12,129.0,22.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\KeyboardHandler.cs,4,92.0,22.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\AssemblyInfo.cpp,6,3.0,21.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\Fluent\DownloadHandlerBuilder.cs,6,28.0,21.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\ChromiumWebBrowserOffScreenFixture.cs,6,3.0,21.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Event\FrameLoadEndEventArgs.cs,6,24.0,21.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Event\FrameLoadStartEventArgs.cs,6,25.0,21.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\IDisplayHandler.cs,12,75.0,21.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\CommandLineArgsParser.cs,4,6.0,21.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\Wcf\IBrowserProcess.cs,5,3.0,21.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\JavascriptMethodWrapper.cpp,6,3.0,20.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\UrlRequest.netcore.cs,5,27.0,20.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\Handlers\JsDialogHandler.cs,7,9.0,20.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\ModelBinding\PropertyInterceptorLogger.cs,3,3.0,20.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\RequestEventHandler\EventArgs\OnBeforeBrowseEventArgs.cs,4,6.0,20.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\RequestEventHandler\EventArgs\OnCertificateErrorEventArgs.cs,5,11.0,20.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\RequestEventHandler\EventArgs\OnOpenUrlFromTabEventArgs.cs,4,6.0,20.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Internals\MonitorInfo.cs,5,13.0,20.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Internals\MonitorInfoEx.cs,7,27.0,20.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Event\ConsoleMessageEventArgs.cs,7,29.0,20.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Event\LoadErrorEventArgs.cs,7,29.0,20.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Event\LoadingStateChangedEventArgs.cs,4,28.0,20.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\AccessibilityHandler.cs,6,18.0,20.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\DownloadHandler.cs,6,35.0,20.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\IJavascriptObjectRepositoryInternal.cs,2,4.0,20.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\IWebBrowserInternal.cs,4,7.0,20.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\NoFocusHandler.cs,4,11.0,20.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\PdfPrintSettings.cs,14,54.0,20.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\SslStatus.cs,7,31.0,20.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\TypeUtils.h,7,29.0,19.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\JavascriptCallbackFactory.h,4,3.0,19.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\JavascriptBinding\SubBoundObject.cs,4,3.0,19.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\StandardTabControlWindow.xaml.cs,5,3.0,19.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Properties\AssemblyInfo.cs,3,0.0,19.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DevTools\DevToolsDomainEventArgsBase.cs,3,6.0,19.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\FreezableBase.cs,4,6.0,19.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\MimeTypeMapping.cs,4,21.0,19.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\JavascriptResponse.cs,4,15.0,19.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\SchemeHandler\OwinSchemeHandlerFactory.cs,5,13.0,19.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Structs\DraggableRegion.cs,6,29.0,19.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\Async\JavascriptAsyncMethodWrapper.cpp,3,3.0,18.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.BrowserSubprocess\Program.cs,7,15.0,18.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.BrowserSubprocess\Program.netcore.cs,7,12.0,18.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\Serialization\V8Serialization.h,6,5.0,18.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\NativeMethodWrapper.h,3,7.0,18.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\RequestEventHandler\EventArgs\OnQuotaRequestEventArgs.cs,5,11.0,18.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.OffScreen\CefSettings.cs,3,16.0,18.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\Properties\AssemblyInfo.cs,3,0.0,18.0
+CefSharp,XAML,D:\clones\CefSharp\CefSharp.Wpf.Example\SpawnBrowsersWindow.xaml,1,0.0,18.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\ContextMenuEditState.cs,2,36.0,18.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Event\JavascriptBindingCompleteEventArgs.cs,6,26.0,18.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\IResourceHandler.cs,8,103.0,18.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IPostData.cs,10,43.0,18.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Structs\CursorInfo.cs,3,25.0,18.0
+CefSharp,XML,D:\clones\CefSharp\NuGet\CefSharp.Common.app.config.x64.transform,3,6.0,18.0
+CefSharp,XML,D:\clones\CefSharp\NuGet\CefSharp.Common.app.config.x86.transform,3,6.0,18.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\Cef.h,3,14.0,17.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\Serialization\V8Serialization.h,6,7.0,17.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\Serialization\ObjectsSerialization.h,7,7.0,17.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\Internals\RectStruct.cs,6,25.0,17.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\WM.cs,10,53.0,17.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\NoOpCompletionCallback.cs,6,12.0,17.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\UrlRequestFlags.cs,10,47.0,17.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\IDialogHandler.cs,2,32.0,17.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IImage.cs,15,72.0,17.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IResponse.cs,10,40.0,17.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IValue.cs,9,54.0,17.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\InitializeAsyncBrowserProcessHandler.cs,5,12.0,17.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\LoadUrlAsyncResponse.cs,4,24.0,17.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Structs\TouchEvent.cs,11,42.0,17.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\WebPluginInfo.cs,5,25.0,17.0
+CefSharp,C#,D:\clones\CefSharp\old\CefUsageTests\Program.cs,1,3.0,17.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.BrowserSubprocess\Properties\AssemblyInfo.cs,2,0.0,16.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Stdafx.h,6,3.0,16.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\DevTools\DevToolsExtensions.cs,2,10.0,16.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\Properties\AssemblyInfo.cs,2,0.0,16.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.OffScreen\Properties\AssemblyInfo.cs,2,0.0,16.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms\Properties\AssemblyInfo.cs,2,0.0,16.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\BindingOptions.cs,6,20.0,16.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DevTools\DevToolsErrorEventArgs.cs,5,22.0,16.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\DragOperationsMask.cs,2,30.0,16.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\ReferrerPolicy.cs,10,47.0,16.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\SchemeOptions.cs,9,69.0,16.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\TextInputMode.cs,1,38.0,16.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\WindowOpenDisposition.cs,1,36.0,16.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\IAudioHandler.cs,6,51.0,16.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\JavascriptBinding\LegacyCamelCaseJavascriptNameConverter.cs,4,8.0,16.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Structs\AudioParamaters.cs,5,21.0,16.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\UrlParts.cs,10,37.0,16.0
+CefSharp,C# Designer,D:\clones\CefSharp\old\CefUsageTests\Properties\Settings.Designer.cs,5,9.0,16.0
+CefSharp,YAML,D:\clones\CefSharp\.github\support.yml,5,7.0,15.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\AssemblyInfo.cpp,5,4.0,15.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\Stdafx.h,6,3.0,15.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core.Runtime.RefAssembly\Properties\AssemblyInfo.cs,5,3.0,15.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\Properties\AssemblyInfo.cs,4,0.0,15.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\ScriptedMethodsBoundObject.cs,3,22.0,15.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\SkipIfRunOnAppVeyorFact.cs,2,3.0,15.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\VirtualKeyboardRequestedEventArgs.cs,4,19.0,15.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\ContextMenuType.cs,2,27.0,15.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\ValueType.cs,1,33.0,15.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Event\JavascriptBindingMultipleCompleteEventArgs.cs,4,17.0,15.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\IExtensionHandler.cs,9,79.0,15.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\IResourceRequestHandler.cs,9,108.0,15.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\CefTimeUtils.cs,2,3.0,15.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\IBrowserAdapter.cs,2,7.0,15.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\TryCallMethodResult.cs,2,3.0,15.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\ResourceRequestHandlerFactoryItem.cs,4,21.0,15.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Structs\MouseEvent.cs,4,21.0,15.0
+CefSharp,C#,D:\clones\CefSharp\old\CefSharp.Tests\Properties\AssemblyInfo.cs,4,17.0,15.0
+CefSharp,C#,D:\clones\CefSharp\old\CefUsageTests\Properties\AssemblyInfo.cs,4,17.0,15.0
+CefSharp,JSON,D:\clones\CefSharp\CefSharp.Example\Extensions\set_page_color\manifest.json,0,0.0,14.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\Recaptcha.html,2,0.0,14.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\CefSharpXunitTestFramework.cs,3,9.0,14.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\Program.cs,2,3.0,14.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DevTools\IDevToolsClient.cs,6,42.0,14.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\SslVersion.cs,1,31.0,14.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Event\AddressChangedEventArgs.cs,4,17.0,14.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Event\JavascriptBindingEventArgs.cs,4,17.0,14.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Event\StatusMessageEventHandler.cs,4,17.0,14.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Event\TitleChangedEventArgs.cs,4,17.0,14.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\FindHandler.cs,4,27.0,14.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IExtension.cs,8,42.0,14.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IPopupFeatures.cs,1,54.0,14.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IPostDataElement.cs,7,27.0,14.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\JavascriptCallback.cs,4,3.0,14.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\MethodInvocationResult.cs,8,3.0,14.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Structs\Range.cs,3,17.0,14.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Structs\ResolveCallbackResult.cs,4,17.0,14.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Structs\Size.cs,3,17.0,14.0
+CefSharp,XML,D:\clones\CefSharp\NuGet\CefSharp.Common.props,1,2.0,14.0
+CefSharp,YAML,D:\clones\CefSharp\.github\config.yml,2,1.0,13.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\Serialization\JsObjectsSerialization.h,3,3.0,13.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\JavascriptCallbackFactory.cpp,2,3.0,13.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\Serialization\JsObjectsSerialization.h,4,3.0,13.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\BrowserSettings.netcore.cs,4,11.0,13.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\Handlers\RequestContextHandler.cs,4,10.0,13.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\Handlers\TempFileDialogHandler.cs,3,3.0,13.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\RequestEventHandler\EventArgs\BaseRequestEventArgs.cs,2,3.0,13.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\RequestEventHandler\EventArgs\OnProtocolExecutionEventArgs.cs,4,6.0,13.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\HelloWorld.html,1,0.0,13.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms\IWinFormsChromiumWebBrowser.cs,3,26.0,13.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\IDevToolsMessageObserver.cs,6,62.0,13.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\IJavascriptCallback.cs,6,26.0,13.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DevTools\DevToolsEventArgs.cs,3,12.0,13.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\CefThreadIds.cs,9,53.0,13.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\ContextMenuMediaType.cs,1,27.0,13.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\LogSeverity.cs,7,27.0,13.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\ICookieManager.cs,7,51.0,13.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\ReflectionUtils.cs,2,3.0,13.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\ModelBinding\IPropertyInterceptor.cs,2,41.0,13.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Preferences\SetPreferenceResponse.cs,3,18.0,13.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Structs\Point.cs,3,17.0,13.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\RequestEventHandler\EventArgs\OnRenderProcessTerminatedEventArgs.cs,2,3.0,12.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.OffScreen.Example\Properties\AssemblyInfo.cs,1,0.0,12.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\QUnitTestResult.cs,2,3.0,12.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms.Example\Properties\AssemblyInfo.cs,1,0.0,12.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\Properties\AssemblyInfo.cs,1,0.0,12.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\IWpfKeyboardHandler.cs,2,6.0,12.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\MenuItemType.cs,1,24.0,12.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\IContextMenuHandler.cs,4,47.0,12.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IDomNode.cs,5,32.0,12.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IUrlRequestClient.cs,6,47.0,12.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\CefSharpArguments.cs,1,3.0,12.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\IBrowserRefCounter.cs,2,3.0,12.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\MethodInvocationCompleteArgs.cs,3,3.0,12.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\RenderprocessClientFactory.cs,2,3.0,12.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Structs\KeyEvent.cs,8,39.0,12.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Structs\ScreenInfo.cs,1,44.0,12.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\ManagedCefBrowserAdapter.cs,3,15.0,11.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\Callback\RunFileDialogCallback.cs,3,3.0,11.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\JavascriptBinding\CallbackResponseStruct.cs,2,3.0,11.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\RequestEventHandler\EventArgs\OnPluginCrashedEventArgs.cs,2,3.0,11.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\Controls\CefSharpCommands.cs,2,3.0,11.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf.Example\SimpleMainWindow.xaml.cs,1,3.0,11.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\IRenderHandler.cs,3,25.0,11.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\IDownloadItemCallback.cs,5,18.0,11.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\IFileDialogCallback.cs,4,19.0,11.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\IGetExtensionResourceCallback.cs,4,17.0,11.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DevTools\DevToolsDomainResponseBase.cs,1,11.0,11.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\PointerType.cs,1,21.0,11.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\UrlRequestStatus.cs,1,21.0,11.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\CommandLineArgDictionary.cs,2,11.0,11.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\HeaderNameValueCollection.cs,2,10.0,11.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\IntPtrExtensions.cs,2,9.0,11.0
+CefSharp,XML,D:\clones\CefSharp\NuGet.config,0,0.0,11.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\DragData.cs,2,11.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\PostData.netcore.cs,2,9.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\PostDataElement.netcore.cs,2,9.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\Request.netcore.cs,2,9.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\WindowInfo.netcore.cs,2,9.0,10.0
+CefSharp,JavaScript,D:\clones\CefSharp\CefSharp.Example\Extensions\set_page_color\popup.js,3,3.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\JavascriptBinding\SimpleClass.cs,3,3.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\Proxy\InternetOpenType.cs,1,3.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Wpf\CefSettings.cs,2,14.0,10.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.props,4,3.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\IAuthCallback.cs,4,17.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\ICallback.cs,4,15.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\IJsDialogCallback.cs,4,18.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\IRequestCallback.cs,4,16.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\IResolveCallback.cs,3,15.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\IRunContextMenuCallback.cs,4,17.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\ISelectClientCertificateCallback.cs,3,14.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DevTools\IEventProxy.cs,3,14.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\CefFileDialogFlags.cs,2,12.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\CefFileDialogMode.cs,1,18.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\CefPdfPrintMarginType.cs,4,18.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\CefTerminationStatus.cs,1,18.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\CompositionUnderlineStyle.cs,1,18.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\CookieSameSite.cs,1,22.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\KeyEventType.cs,4,22.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\KeyType.cs,1,22.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\TouchEventType.cs,1,18.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\IDragHandler.cs,3,25.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\IFrameHandler.cs,4,56.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\IJsDialogHandler.cs,4,43.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\ILifeSpanHandler.cs,4,112.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\ILoadHandler.cs,4,53.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\IRenderProcessMessageHandler.cs,4,41.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IResponseFilter.cs,3,28.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IUrlRequest.cs,4,19.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\JavascriptStackFrame.cs,4,31.0,10.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\PostMessage\PostMessageExample.cs,1,3.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\Proxy\InternetProxyInfo.cs,1,3.0,9.0
+CefSharp,HTML,D:\clones\CefSharp\CefSharp.Example\Resources\FramedWebGLTest.html,0,0.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.OffScreen\PopupBlending.cs,1,16.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Test\CefSharpFixtureCollection.cs,2,6.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms\Handler\PopupCreation.cs,1,15.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms\Internals\NativeMethods.cs,1,15.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\IBeforeDownloadCallback.cs,3,15.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\ICompletionCallback.cs,3,12.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\IDeleteCookiesCallback.cs,4,14.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\IPrintToPdfCallback.cs,3,16.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\IResourceReadCallback.cs,4,20.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\IResourceSkipCallback.cs,4,15.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\ISetCookieCallback.cs,4,14.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DevTools\DevToolsMethodResponse.cs,3,15.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\AlphaType.cs,3,15.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\CefJsDialogType.cs,1,15.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\CefReturnValue.cs,3,15.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\CefState.cs,1,15.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\CookiePriority.cs,1,15.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\FilterStatus.cs,3,16.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\MouseButtonType.cs,1,15.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\PostDataElementType.cs,1,15.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\SslContentStatus.cs,1,16.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\IBrowserProcessHandler.cs,3,26.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\IFocusHandler.cs,3,27.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\ISslInfo.cs,3,13.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\IMethodRunnerQueue.cs,3,13.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\MethodParameter.cs,2,3.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\Tasks\SyncContextTaskCompletionSource.cs,2,14.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\JavascriptBinding\IJavascriptNameConverter.cs,3,23.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\ModelBinding\IAsyncMethodInterceptor.cs,2,27.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Preferences\SetProxyResponse.cs,1,12.0,9.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\RenderProcess\IRenderProcessHandler.cs,3,24.0,9.0
+CefSharp,HTML,D:\clones\CefSharp\old\CefSharp.Tests\TestPage.html,0,0.0,9.0
+CefSharp,YAML,D:\clones\CefSharp\.github\ISSUE_TEMPLATE\config.yml,0,1.0,8.0
+CefSharp,YAML,D:\clones\CefSharp\.github\no-response.yml,3,4.0,8.0
+CefSharp,JSON,D:\clones\CefSharp\CefSharp.BrowserSubprocess\Properties\launchSettings.json,0,0.0,8.0
+CefSharp,C/C++ Header,D:\clones\CefSharp\CefSharp.Core.Runtime\resource.h,1,5.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\JavascriptBinding\SimpleSubClass.cs,1,3.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\JavascriptBinding\UIntAddModel.cs,2,3.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms.Test\Properties\AssemblyInfo.cs,2,0.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Callback\IRunFileDialogCallback.cs,2,12.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\CefFocusSource.cs,1,12.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\ColorType.cs,1,12.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Enums\PaintElementType.cs,1,12.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\IAccessibilityHandler.cs,2,16.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\ICookieAccessFilter.cs,2,27.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\IDownloadHandler.cs,2,21.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\IFindHandler.cs,2,17.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\IKeyboardHandler.cs,2,49.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Handler\IRequestContextHandler.cs,2,27.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IApp.cs,2,16.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IResourceRequestHandlerFactory.cs,2,30.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\ISchemeRegistrar.cs,2,18.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\ITaskScheduler.cs,2,3.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\JavascriptException.cs,2,12.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\JavascriptIgnoreAttribute.cs,2,7.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\ModelBinding\IBinder.cs,2,21.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\ModelBinding\IMethodInterceptor.cs,3,25.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Visitor\ICookieVisitor.cs,2,17.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Visitor\INavigationEntryVisitor.cs,2,15.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Visitor\IStringVisitor.cs,2,10.0,8.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Visitor\IWebPluginInfoVisitor.cs,2,16.0,8.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.Core.Runtime\packages.CefSharp.Core.Runtime.config,0,0.0,7.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.Core.Runtime\packages.CefSharp.Core.Runtime.netcore.config,0,0.0,7.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Core\ModuleInitializerAttribute.cs,0,0.0,7.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\JavascriptBinding\JsSerializableClass.cs,1,3.0,7.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\JavascriptBinding\JsSerializableStruct.cs,1,3.0,7.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.Example\PostMessage\PostMessageExampleData.cs,1,3.0,7.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\IRegistration.cs,2,6.0,7.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\Internals\IJavascriptCallbackFactory.cs,1,6.0,7.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\RenderProcess\IV8Context.cs,1,20.0,7.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\SchemeHandler\ISchemeHandlerFactory.cs,1,23.0,7.0
+CefSharp,XML,D:\clones\CefSharp\old\CefUsageTests\Properties\Settings.settings,0,0.0,7.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms\CefSettings.cs,1,7.0,6.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp.WinForms\IWinFormsWebBrowser.cs,2,8.0,6.0
+CefSharp,Markdown,D:\clones\CefSharp\CefSharp.Wpf.Example\Controls\TouchKeyboard\Readme.md,4,0.0,6.0
+CefSharp,C#,D:\clones\CefSharp\CefSharp\DevTools\MemoryDumpConfig.cs,1,6.0,6.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp3.ChildProcessDbgSettings,0,0.0,4.0
+CefSharp,XML,D:\clones\CefSharp\NuGet\CefSharp.Common.Import.props,0,1.0,4.0
+CefSharp,XML,D:\clones\CefSharp\NuGet\CefSharp.Common.import.targets,0,1.0,4.0
+CefSharp,DOS Batch,D:\clones\CefSharp\Build.bat,0,0.0,3.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.BrowserSubprocess\app.config,0,0.0,3.0
+CefSharp,JavaScript,D:\clones\CefSharp\CefSharp.Example\Resources\assets\js\jquery.js,1,1.0,3.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.WinForms.Example\CefSharp.WinForms.Example.csproj.DotSettings,0,0.0,3.0
+CefSharp,XML,D:\clones\CefSharp\CefSharp.Wpf.Example\app.config,0,0.0,3.0
+CefSharp,Markdown,D:\clones\CefSharp\CefSharp\Internals\Partial\Readme.md,0,0.0,3.0
+CefSharp,Markdown,D:\clones\CefSharp\CefSharp\ModelBinding\Readme.md,0,0.0,3.0
+CefSharp,XML,D:\clones\CefSharp\old\CefUsageTests\app.config,0,0.0,3.0
+CefSharp,YAML,D:\clones\CefSharp\.github\FUNDING.yml,2,9.0,2.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.BrowserSubprocess.Core\Stdafx.cpp,1,0.0,2.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\Internals\CefRefCountManaged.cpp,0,0.0,2.0
+CefSharp,C++,D:\clones\CefSharp\CefSharp.Core.Runtime\Stdafx.cpp,1,3.0,1.0
+CefSharp,JavaScript,D:\clones\CefSharp\CefSharp.Example\Resources\assets\js\shCore.js,0,16.0,1.0
+CefSharp,CSS,D:\clones\CefSharp\CefSharp.Example\Resources\bootstrap\bootstrap-theme.min.css,0,0.0,1.0
+CefSharp,CSS,D:\clones\CefSharp\CefSharp.Example\Resources\bootstrap\bootstrap.min.css,0,8.0,1.0
+CefSharp,JavaScript,D:\clones\CefSharp\CefSharp.Example\Resources\bootstrap\bootstrap.min.js,0,5.0,1.0
+CefSharp,DOS Batch,D:\clones\CefSharp\buildhelp.bat,0,2.0,1.0
+CefSharp,DOS Batch,D:\clones\CefSharp\old\run_tests.bat,0,0.0,1.0

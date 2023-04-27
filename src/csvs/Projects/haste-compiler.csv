@@ -1,0 +1,603 @@
+project,language,filename,blank,comment,code
+haste-compiler,JavaScript,D:\clones\haste-compiler\lib\unicode.js,29,33.0,4365.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\ghc-prim\GHC\Prim.hs,2021,1251.0,3328.0
+haste-compiler,Pascal,D:\clones\haste-compiler\libraries\ghc-7.10\primops.txt.pp,551,360.0,2123.0
+haste-compiler,Haskell,D:\clones\haste-compiler\utils\haste-pkg\HastePkg710.hs,255,274.0,1566.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\ghc-prim\GHC\PrimopWrappers.hs,0,0.0,1220.0
+haste-compiler,JavaScript,D:\clones\haste-compiler\lib\bn.js,221,97.0,1142.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\array\Data\Array\Base.hs,178,287.0,1139.0
+haste-compiler,Haskell,D:\clones\haste-compiler\utils\genprimopcode\Parser.hs,286,67.0,1129.0
+haste-compiler,Haskell,D:\clones\haste-compiler\include\primop-info-710.hs,1,0.0,1061.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\primop-info-710.hs,0,0.0,1056.0
+haste-compiler,Haskell,D:\clones\haste-compiler\utils\genprimopcode\Main.hs,111,31.0,811.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Data.hs,328,342.0,730.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Int.hs,131,166.0,724.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Float.hs,147,289.0,718.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Word.hs,96,55.0,653.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\AST\Optimize.hs,67,171.0,618.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO\Handle\Text.hs,118,303.0,584.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO\Handle\Internals.hs,146,245.0,550.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\List.hs,155,344.0,506.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\OldList.hs,188,501.0,490.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Arr.hs,150,265.0,484.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Natural.hs,84,94.0,466.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Enum.hs,121,145.0,465.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\HsBase.h,65,36.0,460.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO\FD.hs,111,109.0,452.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\stg\Regs.h,97,139.0,452.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Text\Printf.hs,69,389.0,440.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Base.hs,231,529.0,439.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\CodeGen.hs,41,78.0,435.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Text\Read\Lex.hs,65,91.0,402.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\integer-gmp\GHC\Integer\Type.lhs,93,129.0,391.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Foreign\C\Error.hs,58,133.0,384.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\stg\MiscClosures.h,76,50.0,377.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Conc\Sync.hs,125,398.0,374.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\System\Posix\Internals.hs,109,83.0,371.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\array\Data\Array\IO\Internals.hs,35,27.0,365.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\haste-boot.hs,46,21.0,362.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Event\Manager.hs,54,88.0,357.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Read.hs,94,199.0,357.0
+haste-compiler,JavaScript,D:\clones\haste-compiler\lib\rts.js,55,49.0,349.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Real.hs,104,212.0,348.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\RTS\Flags.hsc,47,14.0,347.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\Format\Parse.hs,64,81.0,344.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-prim\src\Haste\Prim\Any.hs,65,56.0,341.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO\Encoding\CodePage\Table.hs,60,34.0,338.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\storage\ClosureMacros.h,104,144.0,322.0
+haste-compiler,JavaScript,D:\clones\haste-compiler\lib\long.js,18,7.0,316.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\Cmm.h,103,205.0,314.0
+haste-compiler,Bourne Shell,D:\clones\haste-compiler\lib\unicode-gen.sh,38,24.0,313.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\PrimOps.hs,34,35.0,313.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO\Encoding\UTF8.hs,29,25.0,308.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO\Handle.hs,113,232.0,305.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Graphics\Canvas.hs,85,66.0,303.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\AST\Traversal.hs,35,18.0,300.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Event\PSQ.hs,79,109.0,296.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO\Encoding\UTF16.hs,37,30.0,292.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO\Encoding\CodePage\API.hs,43,99.0,286.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Binary.hs,60,37.0,286.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\storage\ClosureMacros.h,87,123.0,283.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\Stg.h,100,158.0,283.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\System\Environment.hs,60,107.0,282.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\stg\SMP.h,35,97.0,278.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\AST\Print.hs,22,9.0,277.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Bits.hs,109,279.0,275.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO\Encoding\UTF32.hs,38,28.0,270.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\storage\Closures.h,67,99.0,263.0
+haste-compiler,C,D:\clones\haste-compiler\utils\unlit\unlit.c,40,96.0,263.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\storage\Closures.h,82,124.0,262.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\Opts.hs,17,22.0,262.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Event\Array.hs,35,16.0,261.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Event\Thread.hs,38,64.0,260.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\hastec.hs,25,16.0,260.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\System\IO.hs,114,232.0,250.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Event\KQueue.hsc,50,9.0,235.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\JSString.hs,78,62.0,232.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Conc\Windows.hs,58,51.0,230.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-prim\src\Haste\Prim\JSType.hs,47,10.0,230.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Text\ParserCombinators\ReadP.hs,84,197.0,229.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\ForeignPtr.hs,38,174.0,226.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Foldable.hs,70,186.0,221.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO\Exception.hs,66,108.0,220.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\stg\MachRegs.h,104,230.0,214.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Typeable\Internal.hs,62,80.0,209.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\ghc-prim\GHC\Classes.hs,40,54.0,205.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\storage\InfoTables.h,76,137.0,204.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\storage\InfoTables.h,76,137.0,204.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Float\RealFracMethods.hs,57,82.0,203.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\HsBaseConfig.h,208,224.0,198.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Concurrent.hs,114,350.0,197.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Show.hs,65,149.0,197.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\Rts.h,62,76.0,195.0
+haste-compiler,Haskell,D:\clones\haste-compiler\utils\genprimopcode\Lexer.hs,97,29.0,194.0
+haste-compiler,Markdown,D:\clones\haste-compiler\README.md,70,0.0,190.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\Linker.hs,16,16.0,186.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Foreign\C\String.hs,75,201.0,183.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\Flags.h,47,69.0,182.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\storage\Block.h,74,79.0,180.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\Flags.h,45,47.0,179.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO\Buffer.hs,50,64.0,177.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Event\Control.hs,19,17.0,174.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Audio.hs,32,40.0,174.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Event\EPoll.hsc,40,27.0,172.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Exception\Base.hs,73,163.0,171.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Event\TimerManager.hs,37,37.0,169.0
+haste-compiler,yacc,D:\clones\haste-compiler\utils\genprimopcode\Parser.y,35,0.0,168.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\storage\Block.h,69,66.0,167.0
+haste-compiler,Markdown,D:\clones\haste-compiler\doc\hastec.1.md,60,0.0,166.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Generics.hs,81,573.0,165.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\JSON.hs,16,14.0,162.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Event\Poll.hsc,26,27.0,158.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\System\IO\Error.hs,62,117.0,158.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Arrow.hs,51,166.0,155.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Concurrent\Monad.hs,38,26.0,155.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\DOM\JSString.hs,52,47.0,155.0
+haste-compiler,JavaScript,D:\clones\haste-compiler\lib\md5.js,20,4.0,151.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO\Encoding\CodePage.hs,27,6.0,151.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO\Handle\Types.hs,67,218.0,145.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Serialize.hs,27,3.0,143.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\AST\PP.hs,28,28.0,143.0
+haste-compiler,Haskell,D:\clones\haste-compiler\build-release.hs,23,20.0,141.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\DOM\Core.hs,43,43.0,141.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\AST\Binary.hs,17,1.0,141.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\AST\Syntax.hs,26,46.0,141.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Fixed.hs,32,38.0,139.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Event\Internal.hs,32,34.0,138.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Foreign.hs,44,73.0,138.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Storable.hs,7,13.0,138.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\System\Posix\Types.hs,19,21.0,138.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\System\Console\GetOpt.hs,63,209.0,135.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO\Handle\FD.hs,37,99.0,134.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\TopHandler.hs,27,61.0,134.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Binary\Get.hs,41,4.0,134.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO\Encoding\Iconv.hs,24,31.0,133.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Type\Equality.hs,61,89.0,132.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Foreign\Marshal\Array.hs,50,99.0,132.0
+haste-compiler,Haskell,D:\clones\haste-compiler\utils\genprimopcode\ParserM.hs,33,15.0,132.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\stg\Ticky.h,36,34.0,131.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\WebSockets.hs,28,45.0,131.0
+haste-compiler,Haskell,D:\clones\haste-compiler\utils\genprimopcode\Syntax.hs,23,23.0,131.0
+haste-compiler,XML,D:\clones\haste-compiler\haste-compiler.aip,0,0.0,130.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\Monad.hs,24,20.0,130.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Conc\IO.hs,19,56.0,128.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO.hs,70,291.0,128.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Crypto.hs,27,45.0,126.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Foreign\Storable.hs,45,84.0,125.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\List.hs,51,66.0,124.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Event\IntTable.hs,15,8.0,122.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\HsFFI.h,20,23.0,122.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\RtsAPI.h,45,85.0,122.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\AST\FlowAnalysis.hs,20,28.0,122.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\Config.hs,45,69.0,122.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-prim\src\Haste\Prim\Foreign.hs,23,37.0,121.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\TypeLits.hs,58,63.0,120.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Windows.hs,32,44.0,120.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\OSThreads.h,59,71.0,120.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\OSThreads.h,55,54.0,118.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Complex.hs,29,41.0,118.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\prof\CCS.h,63,73.0,118.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\prof\CCS.h,63,69.0,117.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Char.hs,22,358.0,117.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO\Encoding\Latin1.hs,17,23.0,115.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Parsing.hs,26,21.0,114.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\ghc-prim\GHC\Tuple.hs,6,93.0,112.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Numeric.hs,41,79.0,111.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Binary\Put.hs,39,4.0,111.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Monad.hs,56,83.0,110.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO\Encoding.hs,28,125.0,110.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\AST\Constructors.hs,44,41.0,109.0
+haste-compiler,C,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\shell-tools.c,13,19.0,107.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\Module.hs,8,24.0,106.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\LocalTime\TimeZone.hs,21,17.0,105.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Foreign\C\Types.hs,43,112.0,104.0
+haste-compiler,Markdown,D:\clones\haste-compiler\doc\building.md,49,0.0,103.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Foreign\Marshal\Pool.hs,44,51.0,103.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\integer-gmp\GHC\Integer\GMP\Prim.hs,45,39.0,100.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\ConsoleHandler.hs,17,46.0,99.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\HaskellConstants.hs,62,37.0,99.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Ajax.hs,11,20.0,99.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\Clock\TAI.hs,26,18.0,99.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\System\Environment\ExecutablePath.hsc,30,47.0,98.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\Format.hs,17,131.0,98.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\storage\GC.h,48,139.0,97.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\Environment.hs,26,32.0,97.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Traversable.hs,36,153.0,96.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\DOM.hs,37,45.0,95.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Prelude.hs,24,54.0,94.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Monoid.hs,31,85.0,93.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Foreign\Marshal\Alloc.hs,24,111.0,91.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\JSLib.hs,12,10.0,91.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Concurrent\MVar.hs,16,168.0,90.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\EventLogFormat.h,18,136.0,90.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste.hs,24,21.0,90.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\storage\GC.h,45,121.0,89.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Crypto\Prim.hs,10,7.0,87.0
+haste-compiler,Haskell,D:\clones\haste-compiler\examples\canvas\canvas.hs,17,26.0,86.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\Constants.h,59,172.0,86.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\storage\MBlock.h,40,95.0,86.0
+haste-compiler,JavaScript,D:\clones\haste-compiler\lib\stdlib.js,9,14.0,86.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\storage\MBlock.h,40,95.0,86.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO\Encoding\Failure.hs,19,99.0,84.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Text\ParserCombinators\ReadPrec.hs,39,46.0,84.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\Constants.h,57,162.0,84.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\EventLogFormat.h,17,135.0,83.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-prim\src\Haste\Prim.hs,27,13.0,83.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\Clock\UTC.hs,16,26.0,83.0
+haste-compiler,JavaScript,D:\clones\haste-compiler\lib\Integer.js,4,2.0,82.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\SMPClosureOps.h,21,22.0,82.0
+haste-compiler,Logos,D:\clones\haste-compiler\utils\genprimopcode\Lexer.x,8,0.0,82.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Conc.hs,16,22.0,81.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Binary\Types.hs,28,25.0,81.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Crypto\Types.hs,22,4.0,81.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Unicode.hs,38,67.0,79.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\Calendar\OrdinalDate.hs,13,35.0,79.0
+haste-compiler,Bourne Shell,D:\clones\haste-compiler\runtests.sh,16,0.0,79.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\AST\Op.hs,4,4.0,78.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Stack.hsc,20,33.0,77.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\Clock\Scale.hs,16,18.0,76.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\LocalTime\LocalTime.hs,19,14.0,76.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Exts.hs,38,73.0,75.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Fingerprint.hs,21,18.0,75.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\TSO.h,50,149.0,74.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\storage\TSO.h,49,134.0,73.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Debug\Trace.hs,36,167.0,73.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Concurrent\Chan.hs,25,65.0,72.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Conc\Signal.hs,13,14.0,72.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Stats.hsc,15,67.0,72.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\stg\Types.h,19,66.0,72.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\ghc-prim\Setup.hs,11,4.0,72.0
+haste-compiler,Haskell,D:\clones\haste-compiler\examples\chatbox\chatbox.hs,13,24.0,71.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\SpinLock.h,20,28.0,71.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\Args.hs,8,7.0,71.0
+haste-compiler,JavaScript,D:\clones\haste-compiler\lib\Foreign.js,5,1.0,70.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Monad\ST\Lazy\Imp.hs,25,56.0,70.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Foreign\Marshal\Utils.hs,33,84.0,70.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\SpinLock.h,19,28.0,70.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\ghc-prim\GHC\CString.hs,15,37.0,70.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\MachDeps.h,25,24.0,69.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Applicative.hs,22,45.0,69.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Concurrent\QSemN.hs,10,45.0,69.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\storage\ClosureTypes.h,4,15.0,69.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Events\Core.hs,18,27.0,69.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Exception.hs,90,234.0,67.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\LocalTime\TimeOfDay.hs,14,16.0,67.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\storage\ClosureTypes.h,4,15.0,65.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Setup.hs,9,4.0,64.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Proxy.hs,18,23.0,63.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Float\ConversionUtils.hs,21,16.0,63.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Exception.hs,26,109.0,62.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO\Device.hs,28,80.0,62.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Concurrent\QSem.hs,10,59.0,61.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Typeable.hs,20,49.0,61.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\MVar.hs,18,103.0,61.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\MachDeps.h,25,24.0,60.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Dynamic.hs,24,62.0,59.0
+haste-compiler,YAML,D:\clones\haste-compiler\.travis.yml,10,9.0,58.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Either.hs,36,203.0,58.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Pack.hs,16,27.0,58.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\ST.hs,23,84.0,58.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\Bytecodes.h,8,29.0,57.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Maybe.hs,18,226.0,56.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\StaticPtr.hs,14,47.0,56.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\System\Timeout.hs,10,56.0,56.0
+haste-compiler,JavaScript,D:\clones\haste-compiler\lib\Handle.js,6,3.0,55.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Events\TouchEvents.hs,13,13.0,55.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\storage\SMPClosureOps.h,18,16.0,54.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\Format\Locale.hs,14,19.0,54.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Functor\Identity.hs,15,37.0,52.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Type\Coercion.hs,18,31.0,52.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Foreign\ForeignPtr\Imp.hs,13,55.0,52.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\JSON.hs,8,0.0,51.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\array\Data\Array\IO.hs,18,34.0,51.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Environment.hs,10,1.0,51.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO\BufferedIO.hs,19,56.0,51.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Num.hs,15,33.0,51.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Weak.hs,23,84.0,50.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\System\Mem\StableName.hs,18,59.0,49.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\stg\TailCalls.h,42,94.0,49.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\IORef.hs,20,94.0,48.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\stg\DLL.h,6,21.0,48.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\DataToTag.hs,22,6.0,47.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Foreign\Ptr.hs,18,35.0,47.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Ptr.hs,24,104.0,47.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\ghc-prim\GHC\IntWord64.hs,11,14.0,46.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Events\MouseEvents.hs,7,5.0,46.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\array\Data\Array\Storable\Internals.hs,14,26.0,45.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\Calendar\Gregorian.hs,16,21.0,45.0
+haste-compiler,JavaScript,D:\clones\haste-compiler\lib\MVar.js,7,6.0,44.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\System\CPUTime.hsc,16,28.0,44.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Foreign.hs,8,21.0,44.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Foreign\Array.hs,10,1.0,44.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Text\Read.hs,11,36.0,43.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\Read.hs,8,0.0,42.0
+haste-compiler,JavaScript,D:\clones\haste-compiler\lib\cheap-unicode.js,13,1.0,42.0
+haste-compiler,JavaScript,D:\clones\haste-compiler\lib\pointers.js,8,7.0,42.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Version.hs,14,75.0,42.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Events\KeyEvents.hs,5,6.0,42.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\Calendar\Julian.hs,14,17.0,42.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Haste\Handle.hs,10,0.0,41.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\haste-cat.hs,5,0.0,41.0
+haste-compiler,C,D:\clones\haste-compiler\libraries\time\lib\cbits\HsTime.c,2,9.0,40.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\Version.hs,7,7.0,40.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Events\MessageEvents.hs,11,10.0,39.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\Calendar\Days.hs,11,24.0,39.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\IntegersWithoutShow.hs,7,2.0,38.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO\Encoding\Types.hs,15,79.0,38.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\ghc-prim\GHC\Debug.hs,9,1.0,38.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\Calendar\WeekDate.hs,5,9.0,38.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\Concurrency.hs,5,0.0,37.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\GenericToFromAny.hs,6,0.0,37.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\JSString.hs,5,0.0,37.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\Word64.hs,8,0.0,37.0
+haste-compiler,JavaScript,D:\clones\haste-compiler\lib\array.js,4,5.0,37.0
+haste-compiler,JavaScript,D:\clones\haste-compiler\lib\floatdecode.js,3,3.0,37.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Foreign\Marshal\Error.hs,12,33.0,37.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\Threads.h,14,26.0,37.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\ghcautoconf.h,38,51.0,37.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\Threads.h,14,26.0,37.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\Builtins.hs,4,6.0,37.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\CTypes.h,11,7.0,36.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\Calendar\Private.hs,13,1.0,36.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Category.hs,13,16.0,35.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Void.hs,12,27.0,35.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Stable.hs,13,63.0,35.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\AST\PP\Opts.hs,6,6.0,35.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\HastePrim.hs,7,3.0,34.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IOArray.hs,14,29.0,34.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Hash.hs,6,6.0,34.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\Word.hs,6,0.0,33.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\Threads.h,13,25.0,33.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Monad\Fix.hs,11,39.0,33.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Ratio.hs,10,31.0,32.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\storage\FunTypes.h,6,19.0,32.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\Calendar\MonthDay.hs,8,9.0,32.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Bifunctor.hs,16,54.0,31.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Audio\Events.hs,2,1.0,31.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Timer.hs,9,4.0,31.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\Clock\CTimeval.hs,5,2.0,31.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\Messages.h,20,56.0,30.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\Messages.h,20,56.0,30.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\Calendar\JulianYearDay.hs,6,10.0,30.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\FFIFuns.hs,9,0.0,29.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\storage\FunTypes.h,6,19.0,29.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\HsEvent.h,7,5.0,29.0
+haste-compiler,Bourne Shell,D:\clones\haste-compiler\install.sh,2,0.0,28.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Event.hs,7,10.0,28.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Event\Unique.hs,9,6.0,28.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\ghc-prim\GHC\Types.hs,28,183.0,28.0
+haste-compiler,Markdown,D:\clones\haste-compiler\doc\haste-cat.1.md,9,0.0,27.0
+haste-compiler,Markdown,D:\clones\haste-compiler\doc\porting-guide.md,12,0.0,27.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Type\Bool.hs,8,20.0,27.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\IntegerGcdLcm.hs,6,0.0,26.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\Integers.hs,6,2.0,26.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\ghcplatform.h,7,1.0,26.0
+haste-compiler,Bourne Shell,D:\clones\haste-compiler\uninstall.sh,2,0.0,26.0
+haste-compiler,Haskell,D:\clones\haste-compiler\examples\canvas-simple\canvas-simple.hs,5,12.0,25.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\array\Data\Array\ST.hs,9,38.0,25.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Event\Arr.hs,7,0.0,25.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\integer-gmp\GHC\Integer\Logarithms.hs,4,14.0,25.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\Clock\POSIX.hs,9,9.0,25.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\IntOverflow.hs,5,0.0,24.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\WordOverflow.hs,5,0.0,24.0
+haste-compiler,Haskell,D:\clones\haste-compiler\examples\concurrency\counter.hs,3,2.0,24.0
+haste-compiler,JavaScript,D:\clones\haste-compiler\lib\endian.js,3,2.0,24.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\time\lib\include\HsTimeConfig.h,27,36.0,24.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\Int64.hs,5,0.0,23.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\TagToEnum.hs,7,0.0,23.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\EventConfig.h,30,39.0,23.0
+haste-compiler,Markdown,D:\clones\haste-compiler\libraries\ghc-7.10\array\changelog.md,8,0.0,23.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IORef.hs,11,20.0,23.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\System\Exit.hs,9,50.0,23.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Events\BasicEvents.hs,2,1.0,23.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\Calendar\Easter.hs,7,6.0,23.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\GHCPaths.hs,2,3.0,23.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\FFI.hs,3,0.0,22.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\IntWrap.hs,5,0.0,22.0
+haste-compiler,Haskell,D:\clones\haste-compiler\examples\calculator\calculator.hs,3,0.0,22.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\array\Data\Array\MArray.hs,9,22.0,22.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\array\Data\Array\MArray\Safe.hs,9,25.0,22.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Unique.hs,11,39.0,22.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\STRef.hs,8,19.0,22.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\System\Info.hs,9,20.0,22.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\ieee-flpt.h,4,9.0,22.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\BitOps.hs,3,0.0,21.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\MutRecTailcalls.hs,2,1.0,21.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\PopCnt.hs,5,0.0,21.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\Storable.hs,2,0.0,21.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\UArr.hs,2,0.0,21.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\array\Data\Array\IArray.hs,9,22.0,21.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Tuple.hs,10,20.0,21.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Foreign\ForeignPtr.hs,7,19.0,21.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Foreign\ForeignPtr\Safe.hs,7,21.0,21.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\GHCi.hs,11,18.0,21.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\Linker.h,14,37.0,21.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\integer-gmp\GHC\Integer.lhs,4,16.0,21.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\StaticPtr.hs,5,0.0,20.0
+haste-compiler,Haskell,D:\clones\haste-compiler\examples\ffi\ffi.hs,6,4.0,20.0
+haste-compiler,Haskell,D:\clones\haste-compiler\examples\haste-app\haste-app.hs,3,7.0,20.0
+haste-compiler,Haskell,D:\clones\haste-compiler\examples\sendfile\sendfile.hs,2,3.0,20.0
+haste-compiler,JavaScript,D:\clones\haste-compiler\lib\spt.js,2,1.0,20.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Foreign.hs,4,14.0,20.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Foreign\Safe.hs,4,16.0,20.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\System\IO\Unsafe.hs,4,26.0,20.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\Stable.h,8,15.0,20.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\IOManager.h,9,17.0,20.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\IntMap.hs,2,0.0,19.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\Map.hs,2,0.0,19.0
+haste-compiler,HTML,D:\clones\haste-compiler\examples\calculator\index.html,0,0.0,19.0
+haste-compiler,HTML,D:\clones\haste-compiler\examples\canvas\index.html,0,0.0,19.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\IOManager.h,9,17.0,19.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\array\Data\Array.hs,9,45.0,19.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Functor.hs,9,115.0,19.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\System\Mem\Weak.hs,24,99.0,19.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\Tailcalls.hs,4,0.0,18.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\Hpc.h,6,13.0,18.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\Stable.h,7,15.0,18.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\Types.h,8,14.0,18.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Function.hs,13,69.0,18.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\STRef.hs,5,31.0,18.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\STRef\Lazy.hs,6,14.0,18.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\Types.h,8,14.0,18.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\Hpc.h,6,13.0,18.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\DoubleDiv.hs,4,0.0,17.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\IntegerToFromString.hs,2,1.0,17.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\Linker.h,12,21.0,17.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\storage\Liveness.h,5,12.0,17.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Fingerprint\Type.hs,6,10.0,17.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\WCsubst.h,8,0.0,17.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Events.hs,5,7.0,17.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\LocalStorage.hs,5,6.0,17.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\time\lib\include\HsTime.h,5,1.0,17.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\HasteReadInt.hs,4,0.0,16.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\MarshalJSAny.hs,2,0.0,16.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\Precedence.hs,2,0.0,16.0
+haste-compiler,HTML,D:\clones\haste-compiler\examples\list\index.html,0,0.0,16.0
+haste-compiler,JavaScript,D:\clones\haste-compiler\lib\StableName.js,3,7.0,16.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Ord.hs,6,30.0,16.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\String.hs,7,16.0,16.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\Typeable.h,5,10.0,16.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\primop-stricts-710.hs,0,0.0,16.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\AST.hs,0,1.0,16.0
+haste-compiler,Haskell,D:\clones\haste-compiler\src\Haste\Errors.hs,3,4.0,16.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\JSString_JSON.hs,3,0.0,15.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\StableNames.hs,3,0.0,15.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\Weak.hs,5,0.0,15.0
+haste-compiler,Haskell,D:\clones\haste-compiler\examples\list\list.hs,2,0.0,15.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\Config.h,9,23.0,15.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Monad\ST\Imp.hs,5,18.0,15.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Monad\Zip.hs,9,31.0,15.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Foreign\Concurrent.hs,7,29.0,15.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Foreign\Marshal.hs,4,15.0,15.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Foreign\Marshal\Safe.hs,4,17.0,15.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Desugar.hs,7,19.0,15.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Err.hs,5,27.0,15.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\md5.h,8,1.0,15.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\Config.h,9,23.0,15.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Concurrent.hs,2,4.0,15.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\Exception.hs,3,0.0,14.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\IOThunk.hs,3,0.0,14.0
+haste-compiler,HTML,D:\clones\haste-compiler\examples\ffi\index.html,0,0.0,14.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Bool.hs,4,43.0,14.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Text\Show.hs,4,16.0,14.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\ghcversion.h,4,0.0,14.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\integer-gmp\GHC\Integer\Logarithms\Internals.hs,6,11.0,14.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\Clock.hs,2,2.0,14.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\ModRem.hs,3,0.0,13.0
+haste-compiler,make,D:\clones\haste-compiler\examples\chatbox\Makefile,4,0.0,13.0
+haste-compiler,make,D:\clones\haste-compiler\examples\haste-app\Makefile,4,0.0,13.0
+haste-compiler,make,D:\clones\haste-compiler\examples\sendfile\Makefile,4,0.0,13.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\Ticky.h,5,18.0,13.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\prof\LDV.h,12,22.0,13.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Foreign\StablePtr.hs,7,27.0,13.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\Ticky.h,4,18.0,13.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\prof\LDV.h,12,22.0,13.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Graphics\AnimationFrame.hs,3,13.0,13.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\Arr.hs,1,0.0,12.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\GeneralTailcalls.hs,4,0.0,12.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\Ratio.hs,6,0.0,12.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\Unicode.hs,2,0.0,12.0
+haste-compiler,JavaScript,D:\clones\haste-compiler\lib\debug.js,2,4.0,12.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\Globals.h,3,15.0,12.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\EscapedChars.hs,4,2.0,11.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\FFIList.hs,2,0.0,11.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\FFITuples.hs,2,0.0,11.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\PlusPlusUnicode.hs,4,2.0,11.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\Typeable.hs,1,0.0,11.0
+haste-compiler,HTML,D:\clones\haste-compiler\examples\chatbox\chatbox.html,0,0.0,11.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Ix.hs,5,48.0,11.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Event\Clock.hsc,5,1.0,11.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IO\IOMode.hs,5,14.0,11.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time.hs,1,0.0,11.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\Sumlist.hs,2,0.0,10.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\TailrecClosures.hs,3,1.0,10.0
+haste-compiler,HTML,D:\clones\haste-compiler\examples\concurrency\index.html,0,0.0,10.0
+haste-compiler,HTML,D:\clones\haste-compiler\examples\sendfile\sendfile.html,0,0.0,10.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\Hooks.h,4,12.0,10.0
+haste-compiler,JavaScript,D:\clones\haste-compiler\lib\Weak.js,3,2.0,10.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\array\Data\Array\IO\Safe.hs,6,20.0,10.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\array\Data\Array\ST\Safe.hs,5,19.0,10.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\array\Data\Array\Unsafe.hs,6,17.0,10.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Monad\ST\Lazy.hs,6,18.0,10.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Monad\ST\Lazy\Safe.hs,6,20.0,10.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Foreign\C.hs,4,13.0,10.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Char.hs,4,1.0,10.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\IP.hs,5,2.0,10.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\System\Mem.hs,5,20.0,10.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\Hooks.h,4,12.0,10.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\ghc-prim\GHC\Magic.hs,5,60.0,10.0
+haste-compiler,YAML,D:\clones\haste-compiler\stack.yaml,0,0.0,10.0
+haste-compiler,Haskell,D:\clones\haste-compiler\TestDriver.hs,1,0.0,9.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\IntNaN.hs,2,0.0,9.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\MVar.hs,2,0.0,9.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\PlusPlus.hs,4,0.0,9.0
+haste-compiler,HTML,D:\clones\haste-compiler\examples\haste-app\haste-app.html,0,0.0,9.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\Globals.h,3,15.0,9.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\array\Data\Array\Storable\Safe.hs,6,30.0,9.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Monad\ST.hs,6,20.0,9.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Monad\ST\Safe.hs,5,19.0,9.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Coerce.hs,4,17.0,9.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Int.hs,11,35.0,9.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Word.hs,14,37.0,9.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\PArr.hs,5,23.0,9.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Unsafe\Coerce.hs,8,45.0,9.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\LocalTime.hs,1,0.0,9.0
+haste-compiler,HTML,D:\clones\haste-compiler\examples\canvas-simple\index.html,0,0.0,8.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\Adjustor.h,4,13.0,8.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\Signals.h,4,14.0,8.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\array\Data\Array\Storable.hs,5,27.0,8.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Foreign\Marshal\Unsafe.hs,7,30.0,8.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\Signals.h,4,14.0,8.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\consUtils.h,0,5.0,8.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\Adjustor.h,4,13.0,8.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-lib\src\Haste\Performance.hs,3,5.0,8.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\DoubleConversion.hs,2,0.0,7.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\Elem.hs,3,0.0,7.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\HasteShowDouble.hs,2,0.0,7.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\IORef.hs,2,0.0,7.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\IntegerDivision.hs,2,0.0,7.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\ReadFloat.hs,1,0.0,7.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\array\Data\Array\Unboxed.hs,4,15.0,7.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Monad\ST\Unsafe.hs,4,18.0,7.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\Main.h,4,10.0,7.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\PrimFloat.h,3,10.0,7.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\Calendar.hs,1,0.0,7.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\lib\Data\Time\Clock\UTCDiff.hs,3,3.0,7.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\time\lib\include\HsConfigure.h,0,0.0,7.0
+haste-compiler,Bourne Shell,D:\clones\haste-compiler\packagelibs.sh,1,0.0,7.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\ComplexFromIntegral.hs,1,0.0,6.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\PreludeWords.hs,2,0.0,6.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\PutStr.hs,1,0.0,6.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\ZipWithInfinity.hs,2,0.0,6.0
+haste-compiler,make,D:\clones\haste-compiler\debian\rules,3,0.0,6.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\FileLock.h,4,12.0,6.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\Timer.h,3,12.0,6.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\Utils.h,4,14.0,6.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Monad\ST\Lazy\Unsafe.hs,4,18.0,6.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\Eq.hs,3,13.0,6.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Foreign\ForeignPtr\Unsafe.hs,4,18.0,6.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Profiling.hs,3,1.0,6.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Numeric\Natural.hs,3,15.0,6.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\Timer.h,3,12.0,6.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\FileLock.h,4,12.0,6.0
+haste-compiler,diff,D:\clones\haste-compiler\patches\closure-argument-removal.patch,2,6.0,6.0
+haste-compiler,make,D:\clones\haste-compiler\utils\genprimopcode\Makefile,2,0.0,6.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\Trace.hs,1,0.0,5.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\UnboxedTupleUsingScrutinee.hs,2,0.0,5.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\BlockSignals.h,5,27.0,5.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\PrimFloat.h,3,10.0,5.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\TTY.h,3,12.0,5.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Monad\ST\Strict.hs,4,13.0,5.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Data\STRef\Strict.hs,4,13.0,5.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Text\Show\Functions.hs,4,17.0,5.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\StaticPtrTable.h,4,30.0,5.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\TTY.h,3,12.0,5.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\ghcconfig.h,2,0.0,5.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\BlockSignals.h,5,27.0,5.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\integer-gmp\GHC\Integer\GMP\Internals.hs,3,0.0,5.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\NineConstructors.hs,2,0.0,4.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\RoundToInteger.hs,2,0.0,4.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\Take.hs,1,0.0,4.0
+haste-compiler,make,D:\clones\haste-compiler\examples\calculator\Makefile,1,0.0,4.0
+haste-compiler,make,D:\clones\haste-compiler\examples\canvas-simple\Makefile,1,0.0,4.0
+haste-compiler,make,D:\clones\haste-compiler\examples\canvas\Makefile,1,0.0,4.0
+haste-compiler,Markdown,D:\clones\haste-compiler\examples\chatbox\README.md,1,0.0,4.0
+haste-compiler,make,D:\clones\haste-compiler\examples\concurrency\Makefile,1,0.0,4.0
+haste-compiler,make,D:\clones\haste-compiler\examples\ffi\Makefile,1,0.0,4.0
+haste-compiler,Markdown,D:\clones\haste-compiler\examples\haste-app\README.md,1,0.0,4.0
+haste-compiler,make,D:\clones\haste-compiler\examples\list\Makefile,1,0.0,4.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\GetTime.h,3,12.0,4.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\include\rts\Parallel.h,3,12.0,4.0
+haste-compiler,JavaScript,D:\clones\haste-compiler\lib\jsflow.js,0,1.0,4.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\Constants.hs,3,3.0,4.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\GHC\OldList.hs,3,22.0,4.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\Utils.h,3,12.0,4.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\GetTime.h,3,12.0,4.0
+haste-compiler,C/C++ Header,D:\clones\haste-compiler\libraries\ghc-7.10\base\include\rts\Parallel.h,3,12.0,4.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\integer-gmp\Setup.hs,2,0.0,4.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\time\Setup.hs,2,0.0,4.0
+haste-compiler,Haskell,D:\clones\haste-compiler\utils\haste-pkg\haste-pkg.hs,2,0.0,4.0
+haste-compiler,Haskell,D:\clones\haste-compiler\Tests\EscapeSequences.hs,1,0.0,3.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\ghc-7.10\base\Control\Monad\Instances.hs,2,14.0,3.0
+haste-compiler,Haskell,D:\clones\haste-compiler\libraries\haste-prim\Setup.hs,0,0.0,2.0
+haste-compiler,C,D:\clones\haste-compiler\utils\haste-pkg\CRT_noglob.c,0,3.0,1.0

@@ -1,0 +1,158 @@
+project,language,filename,blank,comment,code
+toxcore,C,D:\clones\toxcore\toxcore\Messenger.c,597,283.0,1933.0
+toxcore,C,D:\clones\toxcore\toxcore\DHT.c,563,315.0,1819.0
+toxcore,C,D:\clones\toxcore\toxcore\net_crypto.c,571,443.0,1701.0
+toxcore,C,D:\clones\toxcore\toxcore\group.c,514,323.0,1485.0
+toxcore,C,D:\clones\toxcore\testing\nTox.c,254,84.0,1044.0
+toxcore,C,D:\clones\toxcore\auto_tests\tox_test.c,281,1.0,1020.0
+toxcore,C,D:\clones\toxcore\toxcore\onion_client.c,330,196.0,1003.0
+toxcore,C,D:\clones\toxcore\toxcore\tox.c,257,34.0,988.0
+toxcore,C,D:\clones\toxcore\toxav\toxav.c,254,64.0,952.0
+toxcore,C,D:\clones\toxcore\toxcore\TCP_server.c,300,124.0,929.0
+toxcore,C,D:\clones\toxcore\toxcore\TCP_connection.c,304,189.0,872.0
+toxcore,C,D:\clones\toxcore\toxcore\assoc.c,229,144.0,658.0
+toxcore,C,D:\clones\toxcore\toxcore\network.c,188,215.0,650.0
+toxcore,C,D:\clones\toxcore\toxcore\TCP_client.c,197,111.0,647.0
+toxcore,C,D:\clones\toxcore\auto_tests\TCP_test.c,106,1.0,635.0
+toxcore,m4,D:\clones\toxcore\configure.ac,76,8.0,621.0
+toxcore,C,D:\clones\toxcore\toxav\msi.c,183,60.0,586.0
+toxcore,C,D:\clones\toxcore\toxcore\friend_connection.c,190,110.0,555.0
+toxcore,C,D:\clones\toxcore\testing\av_test.c,178,50.0,538.0
+toxcore,C,D:\clones\toxcore\auto_tests\dht_test.c,140,41.0,481.0
+toxcore,C,D:\clones\toxcore\auto_tests\toxav_basic_test.c,125,16.0,468.0
+toxcore,Markdown,D:\clones\toxcore\INSTALL.md,136,0.0,466.0
+toxcore,C,D:\clones\toxcore\toxcore\onion.c,154,71.0,421.0
+toxcore,C/C++ Header,D:\clones\toxcore\other\apidsl\tox.in.h,279,1444.0,401.0
+toxcore,C,D:\clones\toxcore\toxav\group.c,121,48.0,368.0
+toxcore,C,D:\clones\toxcore\auto_tests\onion_test.c,98,12.0,365.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\tox.h,425,1559.0,326.0
+toxcore,C,D:\clones\toxcore\toxav\audio.c,89,46.0,304.0
+toxcore,C,D:\clones\toxcore\auto_tests\toxav_many_test.c,78,6.0,298.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\Messenger.h,122,370.0,290.0
+toxcore,m4,D:\clones\toxcore\m4\ax_pthread.m4,32,0.0,285.0
+toxcore,C,D:\clones\toxcore\other\bootstrap_daemon\src\config.c,89,59.0,283.0
+toxcore,C,D:\clones\toxcore\auto_tests\crypto_test.c,77,11.0,265.0
+toxcore,C,D:\clones\toxcore\toxcore\onion_announce.c,88,84.0,265.0
+toxcore,C,D:\clones\toxcore\testing\irc_syncbot.c,90,4.0,263.0
+toxcore,C,D:\clones\toxcore\toxencryptsave\crypto_pwhash_scryptsalsa208sha256\sse\pwhash_scryptsalsa208sha256_sse.c,46,112.0,240.0
+toxcore,C,D:\clones\toxcore\testing\tox_sync.c,60,31.0,237.0
+toxcore,C,D:\clones\toxcore\toxav\rtp.c,89,73.0,231.0
+toxcore,C,D:\clones\toxcore\auto_tests\messenger_test.c,65,71.0,229.0
+toxcore,C,D:\clones\toxcore\other\bootstrap_daemon\src\tox-bootstrapd.c,76,44.0,224.0
+toxcore,C,D:\clones\toxcore\toxcore\LAN_discovery.c,76,64.0,224.0
+toxcore,C,D:\clones\toxcore\toxcore\ping.c,86,51.0,217.0
+toxcore,C,D:\clones\toxcore\toxencryptsave\crypto_pwhash_scryptsalsa208sha256\crypto_scrypt-common.c,31,19.0,207.0
+toxcore,C,D:\clones\toxcore\toxcore\util.c,52,31.0,195.0
+toxcore,Markdown,D:\clones\toxcore\other\bootstrap_daemon\README.md,81,0.0,192.0
+toxcore,C,D:\clones\toxcore\toxencryptsave\crypto_pwhash_scryptsalsa208sha256\pwhash_scryptsalsa208sha256.c,22,2.0,187.0
+toxcore,m4,D:\clones\toxcore\m4\pkg.m4,21,0.0,178.0
+toxcore,C,D:\clones\toxcore\toxencryptsave\crypto_pwhash_scryptsalsa208sha256\nosse\pwhash_scryptsalsa208sha256_nosse.c,42,90.0,177.0
+toxcore,C,D:\clones\toxcore\toxencryptsave\toxencryptsave.c,46,97.0,176.0
+toxcore,C,D:\clones\toxcore\toxav\video.c,55,34.0,175.0
+toxcore,C,D:\clones\toxcore\auto_tests\encryptsave_test.c,35,5.0,170.0
+toxcore,C,D:\clones\toxcore\toxcore\crypto_core.c,43,73.0,167.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\DHT.h,80,184.0,164.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\net_crypto.h,80,182.0,161.0
+toxcore,C,D:\clones\toxcore\toxcore\logger.c,49,28.0,160.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\network.h,58,168.0,159.0
+toxcore,C,D:\clones\toxcore\auto_tests\friends_test.c,53,29.0,156.0
+toxcore,Markdown,D:\clones\toxcore\docs\av_api.md,44,0.0,150.0
+toxcore,C,D:\clones\toxcore\testing\DHT_test.c,55,49.0,150.0
+toxcore,C/C++ Header,D:\clones\toxcore\other\apidsl\toxav.in.h,24,502.0,141.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxav\toxav.h,154,543.0,139.0
+toxcore,C,D:\clones\toxcore\toxdns\toxdns.c,34,55.0,138.0
+toxcore,C,D:\clones\toxcore\toxcore\list.c,51,68.0,137.0
+toxcore,C,D:\clones\toxcore\toxav\bwcontroller.c,44,26.0,135.0
+toxcore,C,D:\clones\toxcore\other\DHT_bootstrap.c,46,28.0,133.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\group.h,65,186.0,129.0
+toxcore,C,D:\clones\toxcore\testing\Messenger_test.c,42,43.0,125.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxencryptsave\crypto_pwhash_scryptsalsa208sha256\sysendian.h,29,1.0,123.0
+toxcore,C,D:\clones\toxcore\auto_tests\assoc_test.c,36,4.0,122.0
+toxcore,C,D:\clones\toxcore\toxencryptsave\crypto_pwhash_scryptsalsa208sha256\runtime.c,18,0.0,122.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\onion_client.h,60,112.0,118.0
+toxcore,C,D:\clones\toxcore\auto_tests\network_test.c,40,4.0,117.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\tox_old_code.h,21,106.0,110.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\TCP_server.h,37,47.0,104.0
+toxcore,m4,D:\clones\toxcore\m4\ax_have_epoll.m4,3,0.0,101.0
+toxcore,C,D:\clones\toxcore\testing\tox_shell.c,31,28.0,101.0
+toxcore,C,D:\clones\toxcore\other\bootstrap_daemon\src\command_line_arguments.c,24,29.0,94.0
+toxcore,C,D:\clones\toxcore\toxcore\ping_array.c,28,46.0,88.0
+toxcore,C,D:\clones\toxcore\other\fun\sign.c,27,17.0,86.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\TCP_client.h,27,55.0,84.0
+toxcore,C,D:\clones\toxcore\other\fun\strkey.c,16,38.0,83.0
+toxcore,C,D:\clones\toxcore\testing\dns3_test.c,26,6.0,83.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\friend_connection.h,45,86.0,81.0
+toxcore,C,D:\clones\toxcore\toxcore\friend_requests.c,27,36.0,81.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\TCP_connection.h,44,122.0,80.0
+toxcore,Markdown,D:\clones\toxcore\docs\updates\DHT.md,28,0.0,79.0
+toxcore,C,D:\clones\toxcore\toxencryptsave\crypto_pwhash_scryptsalsa208sha256\scrypt_platform.c,10,19.0,78.0
+toxcore,Bourne Shell,D:\clones\toxcore\other\bootstrap_daemon\tox-bootstrapd.sh,8,32.0,76.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxencryptsave\toxencryptsave.h,41,200.0,76.0
+toxcore,C,D:\clones\toxcore\other\bootstrap_daemon\src\log.c,27,23.0,75.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxencryptsave\crypto_pwhash_scryptsalsa208sha256\crypto_pwhash_scryptsalsa208sha256.h,20,1.0,71.0
+toxcore,C,D:\clones\toxcore\toxencryptsave\crypto_pwhash_scryptsalsa208sha256\utils.c,10,0.0,68.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxav\msi.h,19,65.0,67.0
+toxcore,Python,D:\clones\toxcore\other\fun\bootstrap_node_info.py,19,19.0,60.0
+toxcore,Python,D:\clones\toxcore\other\fun\make-funny-savefile.py,40,22.0,60.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxav\rtp.h,19,30.0,60.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\onion.h,29,81.0,54.0
+toxcore,C,D:\clones\toxcore\toxencryptsave\crypto_pwhash_scryptsalsa208sha256\pbkdf2-sha256.c,14,33.0,50.0
+toxcore,Markdown,D:\clones\toxcore\docs\Group-Chats.md,29,0.0,49.0
+toxcore,YAML,D:\clones\toxcore\.travis.yml,4,6.0,48.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxencryptsave\crypto_pwhash_scryptsalsa208sha256\crypto_scrypt.h,16,29.0,48.0
+toxcore,Bourne Shell,D:\clones\toxcore\dist-build\android-build.sh,11,1.0,47.0
+toxcore,Dockerfile,D:\clones\toxcore\other\bootstrap_daemon\docker\Dockerfile,6,6.0,46.0
+toxcore,C,D:\clones\toxcore\testing\misc_tools.c,12,28.0,46.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\crypto_core.h,23,84.0,46.0
+toxcore,C,D:\clones\toxcore\other\fun\cracker.c,17,13.0,45.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\onion_announce.h,21,75.0,43.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\logger.h,18,34.0,42.0
+toxcore,Markdown,D:\clones\toxcore\docs\TODO.md,5,0.0,41.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\assoc.h,27,39.0,38.0
+toxcore,C,D:\clones\toxcore\super_donators\grencez_tok5.c,0,5.0,36.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\tox_old.h,24,113.0,36.0
+toxcore,Markdown,D:\clones\toxcore\docs\updates\Crypto.md,19,0.0,35.0
+toxcore,Markdown,D:\clones\toxcore\other\apidsl\README.md,15,0.0,34.0
+toxcore,C,D:\clones\toxcore\auto_tests\skeleton_test.c,13,3.0,33.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxencryptsave\crypto_pwhash_scryptsalsa208sha256\export.h,5,0.0,33.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\util.h,13,27.0,32.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxav\audio.h,11,22.0,31.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxav\video.h,14,22.0,31.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\misc_tools.h,5,36.0,29.0
+toxcore,C,D:\clones\toxcore\other\bootstrap_node_packets.c,10,27.0,28.0
+toxcore,make,D:\clones\toxcore\Makefile.am,10,0.0,27.0
+toxcore,Markdown,D:\clones\toxcore\docs\updates\Symmetric-NAT-Transversal.md,16,0.0,27.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxencryptsave\crypto_pwhash_scryptsalsa208sha256\utils.h,10,5.0,25.0
+toxcore,Bourne Shell,D:\clones\toxcore\other\osx_build_script_toxcore.sh,6,8.0,24.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\friend_requests.h,14,39.0,24.0
+toxcore,Markdown,D:\clones\toxcore\README.md,17,0.0,23.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxencryptsave\crypto_pwhash_scryptsalsa208sha256\runtime.h,10,0.0,23.0
+toxcore,C,D:\clones\toxcore\toxav\toxav_old.c,4,56.0,21.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\ping_array.h,11,43.0,21.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\list.h,10,56.0,19.0
+toxcore,Markdown,D:\clones\toxcore\other\astyle\README.md,14,0.0,18.0
+toxcore,Python,D:\clones\toxcore\other\bootstrap_daemon\docker\get-nodes.py,10,21.0,18.0
+toxcore,Bourne Again Shell,D:\clones\toxcore\super_donators\sir@cmpwn.com,1,2.0,18.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxdns\toxdns.h,11,68.0,17.0
+toxcore,C/C++ Header,D:\clones\toxcore\other\bootstrap_daemon\src\log.h,9,39.0,16.0
+toxcore,C/C++ Header,D:\clones\toxcore\other\bootstrap_daemon\src\config_defaults.h,4,23.0,15.0
+toxcore,make,D:\clones\toxcore\build\Makefile.am,1,0.0,13.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxencryptsave\crypto_pwhash_scryptsalsa208sha256\pbkdf2-sha256.h,8,31.0,13.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxav\bwcontroller.h,5,20.0,12.0
+toxcore,C/C++ Header,D:\clones\toxcore\auto_tests\helpers.h,4,0.0,11.0
+toxcore,C/C++ Header,D:\clones\toxcore\testing\nTox.h,7,25.0,10.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxav\group.h,8,35.0,10.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\LAN_discovery.h,12,32.0,10.0
+toxcore,Bourne Shell,D:\clones\toxcore\other\astyle\pre-commit,1,7.0,9.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxcore\ping.h,5,33.0,9.0
+toxcore,Markdown,D:\clones\toxcore\docs\updates\Spam-Prevention.md,4,0.0,8.0
+toxcore,C/C++ Header,D:\clones\toxcore\other\bootstrap_daemon\src\config.h,5,39.0,8.0
+toxcore,C/C++ Header,D:\clones\toxcore\other\bootstrap_daemon\src\global.h,4,23.0,7.0
+toxcore,C/C++ Header,D:\clones\toxcore\other\bootstrap_node_packets.h,5,24.0,6.0
+toxcore,Bourne Shell,D:\clones\toxcore\autogen.sh,1,0.0,5.0
+toxcore,C/C++ Header,D:\clones\toxcore\other\bootstrap_daemon\src\command_line_arguments.h,4,33.0,5.0
+toxcore,Bourne Shell,D:\clones\toxcore\dist-build\android-arm.sh,0,0.0,3.0
+toxcore,Bourne Shell,D:\clones\toxcore\dist-build\android-armv7.sh,0,0.0,3.0
+toxcore,Bourne Shell,D:\clones\toxcore\dist-build\android-mips.sh,0,0.0,3.0
+toxcore,Bourne Shell,D:\clones\toxcore\dist-build\android-x86.sh,0,0.0,3.0
+toxcore,C/C++ Header,D:\clones\toxcore\toxencryptsave\defines.h,0,0.0,2.0

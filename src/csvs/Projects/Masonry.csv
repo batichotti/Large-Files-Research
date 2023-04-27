@@ -1,0 +1,247 @@
+project,language,filename,blank,comment,code
+Masonry,Objective-C,D:\clones\Masonry\Tests\Specs\MASViewConstraintSpec.m,127,7.0,401.0
+Masonry,Objective-C,D:\clones\Masonry\Masonry\MASViewConstraint.m,77,14.0,315.0
+Masonry,Markdown,D:\clones\Masonry\README.md,104,0.0,311.0
+Masonry,Objective-C,D:\clones\Masonry\Masonry\MASConstraint.m,72,7.0,218.0
+Masonry,Objective-C,D:\clones\Masonry\Masonry\MASConstraintMaker.m,57,8.0,196.0
+Masonry,Markdown,D:\clones\Masonry\Pods\Expecta\README.md,98,0.0,195.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\EXPExpect.m,32,0.0,189.0
+Masonry,Objective-C,D:\clones\Masonry\Tests\Specs\MASConstraintMakerSpec.m,61,12.0,181.0
+Masonry,Objective-C,D:\clones\Masonry\Tests\Specs\MASCompositeConstraintSpec.m,39,11.0,168.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\ExpectaSupport.m,13,4.0,159.0
+Masonry,Objective-C,D:\clones\Masonry\Masonry\View+MASAdditions.m,47,7.0,152.0
+Masonry,Objective-C,D:\clones\Masonry\Masonry\NSArray+MASAdditions.m,13,7.0,142.0
+Masonry,Objective-C,D:\clones\Masonry\Masonry\MASCompositeConstraint.m,38,7.0,138.0
+Masonry,Markdown,D:\clones\Masonry\CHANGELOG.md,73,0.0,136.0
+Masonry,Objective-C,D:\clones\Masonry\Masonry\NSLayoutConstraint+MASDebugAdditions.m,22,7.0,114.0
+Masonry,XML,D:\clones\Masonry\Examples\Masonry iOS Examples.xcodeproj\xcshareddata\xcschemes\Masonry iOS Examples.xcscheme,0,0.0,107.0
+Masonry,XML,D:\clones\Masonry\Tests\Masonry Tests.xcodeproj\xcshareddata\xcschemes\Masonry iOS Tests.xcscheme,0,0.0,103.0
+Masonry,C/C++ Header,D:\clones\Masonry\Masonry\View+MASShorthandAdditions.h,28,11.0,99.0
+Masonry,Objective-C,D:\clones\Masonry\Tests\Specs\NSArray+MASAdditionsSpec.m,40,12.0,99.0
+Masonry,C/C++ Header,D:\clones\Masonry\Masonry\MASUtilities.h,14,24.0,98.0
+Masonry,Objective-C,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleSafeAreaLayoutGuideViewController.m,28,7.0,96.0
+Masonry,Bourne Shell,D:\clones\Masonry\Pods\Target Support Files\Pods-MasonryTestsLoader\Pods-MasonryTestsLoader-resources.sh,8,1.0,93.0
+Masonry,Objective-C,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleListViewController.m,21,7.0,88.0
+Masonry,XML,D:\clones\Masonry\Masonry.xcodeproj\xcshareddata\xcschemes\Masonry OSX.xcscheme,0,0.0,82.0
+Masonry,XML,D:\clones\Masonry\Masonry.xcodeproj\xcshareddata\xcschemes\Masonry iOS.xcscheme,0,0.0,82.0
+Masonry,Objective-C,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleAnimatedView.m,27,8.0,79.0
+Masonry,Bourne Shell,D:\clones\Masonry\Pods\Target Support Files\Pods-MasonryTestsLoader\Pods-MasonryTestsLoader-frameworks.sh,15,10.0,76.0
+Masonry,C/C++ Header,D:\clones\Masonry\Masonry\MASConstraint.h,54,142.0,72.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+postNotification.m,16,0.0,72.0
+Masonry,C/C++ Header,D:\clones\Masonry\Masonry\MASConstraintMaker.h,23,54.0,61.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\ExpectaSupport.h,12,1.0,61.0
+Masonry,Objective-C,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleDebuggingView.m,17,15.0,58.0
+Masonry,Objective-C,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleScrollView.m,19,15.0,57.0
+Masonry,Objective-C,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleDistributeView.m,9,7.0,56.0
+Masonry,XML,D:\clones\Masonry\Pods\Target Support Files\Pods-Masonry iOS Tests\Pods-Masonry iOS Tests-acknowledgements.plist,3,0.0,55.0
+Masonry,Objective-C,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleArrayView.m,22,8.0,54.0
+Masonry,XML,D:\clones\Masonry\Pods\Target Support Files\Pods-MasonryTestsLoader\Pods-MasonryTestsLoader-acknowledgements.plist,3,0.0,54.0
+Masonry,JSON,D:\clones\Masonry\Tests\MasonryTestsLoader\Images.xcassets\AppIcon.appiconset\Contents.json,0,0.0,53.0
+Masonry,XML,D:\clones\Masonry\Examples\Masonry iOS Examples\Launch Screen.storyboard,0,1.0,52.0
+Masonry,Objective-C,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleAspectFitView.m,20,12.0,52.0
+Masonry,JSON,D:\clones\Masonry\Tests\MasonryTestsLoader\Images.xcassets\LaunchImage.launchimage\Contents.json,0,0.0,51.0
+Masonry,Objective-C,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleBasicView.m,15,10.0,49.0
+Masonry,XML,D:\clones\Masonry\Examples\Masonry iOS Examples\Masonry iOS Examples-Info.plist,0,0.0,49.0
+Masonry,Objective-C,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleLayoutGuideViewController.m,16,7.0,48.0
+Masonry,Objective-C,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleRemakeView.m,21,11.0,47.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\EXPFloatTuple.m,8,0.0,47.0
+Masonry,C/C++ Header,D:\clones\Masonry\Masonry\View+MASAdditions.h,14,50.0,45.0
+Masonry,XML,D:\clones\Masonry\Tests\MasonryTestsLoader\MasonryTestsLoader-Info.plist,0,0.0,45.0
+Masonry,Objective-C,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleAttributeChainingView.m,20,13.0,44.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beCloseTo.m,5,0.0,44.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\EXPBlockDefinedMatcher.m,10,7.0,43.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beginWith.m,8,1.0,42.0
+Masonry,Objective-C,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleUpdateView.m,19,11.0,41.0
+Masonry,XML,D:\clones\Masonry\Masonry.xcodeproj\project.xcworkspace\xcshareddata\Masonry.xccheckout,0,0.0,41.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beSupersetOf.m,16,5.0,41.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+endWith.m,7,1.0,41.0
+Masonry,JSON,D:\clones\Masonry\Pods\Local Podspecs\Masonry.podspec.json,0,0.0,41.0
+Masonry,Objective-C,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleLabelView.m,19,12.0,40.0
+Masonry,Objective-C,D:\clones\Masonry\Tests\Specs\NSLayoutConstraint+MASDebugAdditionsSpec.m,14,7.0,39.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\EXPDoubleTuple.m,7,0.0,38.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\EXPExpect.h,7,0.0,38.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+haveCountOf.m,7,0.0,35.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+equal.m,4,0.0,34.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+contain.m,5,0.0,33.0
+Masonry,Objective-C,D:\clones\Masonry\Tests\Specs\MASViewAttributeSpec.m,14,16.0,33.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+match.m,6,0.0,32.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+raiseWithReason.m,4,0.0,31.0
+Masonry,Objective-C,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleMarginView.m,9,7.0,30.0
+Masonry,Objective-C,D:\clones\Masonry\Masonry\MASViewAttribute.m,10,7.0,29.0
+Masonry,Objective-C,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleConstantsView.m,11,9.0,28.0
+Masonry,Bourne Shell,D:\clones\Masonry\script\coveralls.sh,7,5.0,28.0
+Masonry,XML,D:\clones\Masonry\CodeSnippets\Masonry Constraint Make.codesnippet,0,0.0,27.0
+Masonry,XML,D:\clones\Masonry\CodeSnippets\Masonry Constraint Update.codesnippet,0,0.0,27.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beInTheRangeOf.m,3,0.0,27.0
+Masonry,XML,D:\clones\Masonry\CodeSnippets\Masonry Constraint Remake.codesnippet,0,0.0,26.0
+Masonry,Objective-C,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleSidesView.m,9,7.0,26.0
+Masonry,Ruby,D:\clones\Masonry\Masonry.podspec,6,6.0,26.0
+Masonry,XML,D:\clones\Masonry\Masonry\Info.plist,0,0.0,26.0
+Masonry,Objective-C,D:\clones\Masonry\Masonry\ViewController+MASAdditions.m,9,7.0,26.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+conformTo.m,7,0.0,26.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+raise.m,4,0.0,26.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beInstanceOf.m,6,0.0,25.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers.h,0,0.0,25.0
+Masonry,Objective-C,D:\clones\Masonry\Tests\Specs\View+MASAdditionsSpec.m,9,7.0,24.0
+Masonry,Objective-C,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleViewController.m,11,7.0,23.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beKindOf.m,6,0.0,23.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beSubclassOf.m,6,0.0,23.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+respondTo.m,5,0.0,23.0
+Masonry,XML,D:\clones\Masonry\Tests\MasonryTests-Info.plist,0,0.0,22.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beFalsy.m,3,0.0,21.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beIdenticalTo.m,3,0.0,21.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beTruthy.m,3,0.0,21.0
+Masonry,Markdown,D:\clones\Masonry\Pods\Target Support Files\Pods-Masonry iOS Tests\Pods-Masonry iOS Tests-acknowledgements.markdown,6,0.0,20.0
+Masonry,Markdown,D:\clones\Masonry\Pods\Target Support Files\Pods-MasonryTestsLoader\Pods-MasonryTestsLoader-acknowledgements.markdown,5,0.0,20.0
+Masonry,C/C++ Header,D:\clones\Masonry\Masonry\NSArray+MASShorthandAdditions.h,11,11.0,19.0
+Masonry,Objective-C,D:\clones\Masonry\Tests\Specs\MASConstraintDelegateMock.m,9,7.0,19.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\EXPUnsupportedObject.m,5,0.0,18.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beGreaterThan.m,3,0.0,17.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beGreaterThanOrEqualTo.m,3,0.0,17.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beLessThan.m,3,0.0,17.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beLessThanOrEqualTo.m,3,0.0,17.0
+Masonry,XML,D:\clones\Masonry\Masonry.xcworkspace\contents.xcworkspacedata,0,0.0,16.0
+Masonry,C/C++ Header,D:\clones\Masonry\Masonry\Masonry.h,4,9.0,16.0
+Masonry,Objective-C,D:\clones\Masonry\Tests\Specs\ViewController+MASAdditionsSpec.m,7,7.0,16.0
+Masonry,C/C++ Header,D:\clones\Masonry\Masonry\MASConstraint+Private.h,18,33.0,15.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\NSValue+Expecta.m,6,0.0,15.0
+Masonry,YAML,D:\clones\Masonry\.travis.yml,2,0.0,14.0
+Masonry,C/C++ Header,D:\clones\Masonry\Masonry\NSArray+MASAdditions.h,9,49.0,14.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\EXPBlockDefinedMatcher.h,4,7.0,14.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beNil.m,4,0.0,14.0
+Masonry,Markdown,D:\clones\Masonry\ISSUE_TEMPLATE.md,7,0.0,13.0
+Masonry,C/C++ Header,D:\clones\Masonry\Masonry\ViewController+MASAdditions.h,6,10.0,13.0
+Masonry,Objective-C,D:\clones\Masonry\Tests\MasonryTestsLoader\CASAppDelegate.m,5,13.0,13.0
+Masonry,Objective-C,D:\clones\Masonry\Examples\Masonry iOS Examples\MASAppDelegate.m,5,8.0,12.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\ExpectaObject.h,6,0.0,12.0
+Masonry,C/C++ Header,D:\clones\Masonry\Masonry\MASViewConstraint.h,7,31.0,10.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\ExpectaObject.m,5,0.0,10.0
+Masonry,Objective-C,D:\clones\Masonry\Tests\GcovTestObserver.m,5,7.0,10.0
+Masonry,C/C++ Header,D:\clones\Masonry\Masonry\MASViewAttribute.h,9,31.0,9.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\EXPDoubleTuple.h,4,0.0,9.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\EXPFloatTuple.h,4,0.0,9.0
+Masonry,Objective-C,D:\clones\Masonry\Examples\Masonry iOS Examples\main.m,3,7.0,8.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\EXPMatcher.h,5,7.0,8.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Expecta.h,4,3.0,8.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beIdenticalTo.h,2,0.0,8.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+haveCountOf.h,2,0.0,8.0
+Masonry,Objective-C,D:\clones\Masonry\Tests\MasonryTestsLoader\main.m,3,7.0,8.0
+Masonry,XML,D:\clones\Masonry\Examples\Masonry iOS Examples.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+Masonry,XML,D:\clones\Masonry\Masonry.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\EXPDefines.h,3,7.0,7.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\EXPUnsupportedObject.h,4,0.0,7.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatcherHelpers.m,2,0.0,7.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\NSObject+Expecta.h,3,0.0,7.0
+Masonry,C/C++ Header,D:\clones\Masonry\Tests\NSObject+MASSubscriptSupport.h,4,7.0,7.0
+Masonry,C/C++ Header,D:\clones\Masonry\Tests\XCTest+Spec.h,3,9.0,7.0
+Masonry,JSON,D:\clones\Masonry\Examples\Masonry iOS Examples\Images.xcassets\Contents.json,0,0.0,6.0
+Masonry,C/C++ Header,D:\clones\Masonry\Masonry\MASCompositeConstraint.h,4,17.0,5.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beCloseTo.h,2,0.0,5.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beInstanceOf.h,1,0.0,5.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Target Support Files\Expecta\Expecta-dummy.m,0,0.0,5.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Target Support Files\Masonry\Masonry-dummy.m,0,0.0,5.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Target Support Files\Pods-Masonry iOS Examples\Pods-Masonry iOS Examples-dummy.m,0,0.0,5.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Target Support Files\Pods-Masonry iOS Tests\Pods-Masonry iOS Tests-dummy.m,0,0.0,5.0
+Masonry,Objective-C,D:\clones\Masonry\Pods\Target Support Files\Pods-MasonryTestsLoader\Pods-MasonryTestsLoader-dummy.m,0,0.0,5.0
+Masonry,C/C++ Header,D:\clones\Masonry\Tests\Specs\MASConstraintDelegateMock.h,4,7.0,5.0
+Masonry,C/C++ Header,D:\clones\Masonry\Examples\Masonry iOS Examples\MASAppDelegate.h,4,7.0,4.0
+Masonry,C/C++ Header,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleViewController.h,4,7.0,4.0
+Masonry,C/C++ Header,D:\clones\Masonry\Masonry\MASLayoutConstraint.h,4,14.0,4.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beGreaterThan.h,2,0.0,4.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beGreaterThanOrEqualTo.h,2,0.0,4.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beInTheRangeOf.h,2,0.0,4.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beLessThan.h,2,0.0,4.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beLessThanOrEqualTo.h,2,0.0,4.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+contain.h,1,0.0,4.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+equal.h,1,0.0,4.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\NSValue+Expecta.h,3,0.0,4.0
+Masonry,C/C++ Header,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleAnimatedView.h,3,7.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleArrayView.h,3,7.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleAspectFitView.h,3,7.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleAttributeChainingView.h,3,7.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleBasicView.h,3,7.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleConstantsView.h,3,7.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleDebuggingView.h,3,7.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleDistributeView.h,3,7.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleLabelView.h,3,7.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleLayoutGuideViewController.h,3,7.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleListViewController.h,3,7.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleMarginView.h,3,7.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleRemakeView.h,3,7.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleSafeAreaLayoutGuideViewController.h,3,7.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleScrollView.h,3,7.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleSidesView.h,3,7.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Examples\Masonry iOS Examples\MASExampleUpdateView.h,3,7.0,3.0
+Masonry,Objective-C,D:\clones\Masonry\Masonry\MASLayoutConstraint.m,3,7.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Masonry\NSLayoutConstraint+MASDebugAdditions.h,3,10.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatcherHelpers.h,1,0.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beKindOf.h,1,0.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beNil.h,1,0.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beSubclassOf.h,1,0.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beginWith.h,1,0.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+postNotification.h,1,0.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+raise.h,1,0.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Tests\MasonryTestsLoader\CASAppDelegate.h,3,7.0,3.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beFalsy.h,1,0.0,2.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beSupersetOf.h,2,0.0,2.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+beTruthy.h,1,0.0,2.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+conformTo.h,1,0.0,2.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+endWith.h,1,0.0,2.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+match.h,1,0.0,2.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+raiseWithReason.h,1,0.0,2.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Expecta\Expecta\Matchers\EXPMatchers+respondTo.h,1,0.0,2.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPBlockDefinedMatcher.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPDefines.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPDoubleTuple.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPExpect.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPFloatTuple.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatcher.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatcherHelpers.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+beCloseTo.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+beFalsy.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+beGreaterThan.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+beGreaterThanOrEqualTo.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+beIdenticalTo.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+beInTheRangeOf.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+beInstanceOf.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+beKindOf.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+beLessThan.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+beLessThanOrEqualTo.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+beNil.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+beSubclassOf.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+beSupersetOf.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+beTruthy.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+beginWith.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+conformTo.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+contain.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+endWith.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+equal.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+haveCountOf.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+match.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+postNotification.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+raise.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+raiseWithReason.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers+respondTo.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPMatchers.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\EXPUnsupportedObject.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\Expecta.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\ExpectaObject.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\ExpectaSupport.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\NSObject+Expecta.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Expecta\NSValue+Expecta.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Masonry\MASCompositeConstraint.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Masonry\MASConstraint+Private.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Masonry\MASConstraint.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Masonry\MASConstraintMaker.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Masonry\MASLayoutConstraint.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Masonry\MASUtilities.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Masonry\MASViewAttribute.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Masonry\MASViewConstraint.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Masonry\Masonry.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Masonry\NSArray+MASAdditions.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Masonry\NSArray+MASShorthandAdditions.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Masonry\NSLayoutConstraint+MASDebugAdditions.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Masonry\View+MASAdditions.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Masonry\View+MASShorthandAdditions.h,0,0.0,1.0
+Masonry,C/C++ Header,D:\clones\Masonry\Pods\Headers\Public\Masonry\ViewController+MASAdditions.h,0,0.0,1.0
+Masonry,Bourne Shell,D:\clones\Masonry\script\exportenv.sh,0,0.0,1.0

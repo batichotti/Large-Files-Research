@@ -1,0 +1,16 @@
+project,language,filename,blank,comment,code
+ghc,Puppet,D:\clones\ghc\compiler\GHC\Builtin\bytearray-ops.txt.pp,106,0.0,445.0
+rust,Puppet,D:\clones\rust\src\test\pretty\issue-12590-c.pp,3,5.0,11.0
+rust,Puppet,D:\clones\rust\src\test\pretty\dollar-crate.pp,1,4.0,8.0
+rust,Puppet,D:\clones\rust\src\test\pretty\issue-4264.pp,14,2.0,41.0
+rust,Puppet,D:\clones\rust\src\test\pretty\expanded-and-path-remap-80832.pp,1,4.0,8.0
+rust,Puppet,D:\clones\rust\src\test\pretty\cast-lt.pp,2,4.0,7.0
+rust,Puppet,D:\clones\rust\src\test\pretty\hir-pretty-loop.pp,1,2.0,6.0
+rust,Puppet,D:\clones\rust\src\test\run-make-fulldeps\pretty-print-to-file\input.pp,1,1.0,1.0
+rust,Puppet,D:\clones\rust\src\test\pretty\block-comment-wchar.pp,7,74.0,20.0
+rust,Puppet,D:\clones\rust\src\test\pretty\vec-comments.pp,0,3.0,26.0
+rust,Puppet,D:\clones\rust\src\test\pretty\asm.pp,2,4.0,28.0
+fpm,Puppet,D:\clones\fpm\spec\acceptance\puppet\manifests\install.pp,6,0.0,29.0
+fpm,Puppet,D:\clones\fpm\test\vagrant.pp,3,0.0,29.0
+fpm,Puppet,D:\clones\fpm\spec\acceptance\puppet\manifests\remove.pp,3,0.0,24.0
+kotlin-native,Puppet,D:\clones\kotlin-native\llvmDebugInfoC\src\dwarf\include\dwarf_util.kt.pp,5,32.0,10.0

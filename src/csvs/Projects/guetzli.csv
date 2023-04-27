@@ -1,0 +1,72 @@
+project,language,filename,blank,comment,code
+guetzli,C++,D:\clones\guetzli\third_party\butteraugli\butteraugli\butteraugli.cc,115,254.0,1625.0
+guetzli,C++,D:\clones\guetzli\guetzli\jpeg_data_reader.cc,46,69.0,966.0
+guetzli,C++,D:\clones\guetzli\guetzli\processor.cc,61,46.0,843.0
+guetzli,C++,D:\clones\guetzli\guetzli\jpeg_data_writer.cc,41,37.0,490.0
+guetzli,C++,D:\clones\guetzli\guetzli\butteraugli_comparator.cc,50,35.0,480.0
+guetzli,C/C++ Header,D:\clones\guetzli\third_party\butteraugli\butteraugli\butteraugli.h,80,141.0,398.0
+guetzli,C++,D:\clones\guetzli\guetzli\output_image.cc,33,30.0,388.0
+guetzli,C++,D:\clones\guetzli\third_party\butteraugli\butteraugli\butteraugli_main.cc,47,24.0,386.0
+guetzli,C++,D:\clones\guetzli\guetzli\preprocess_downsample.cc,54,42.0,382.0
+guetzli,C++,D:\clones\guetzli\guetzli\guetzli.cc,38,27.0,261.0
+guetzli,XML,D:\clones\guetzli\guetzli.vcxproj,0,0.0,218.0
+guetzli,XML,D:\clones\guetzli\guetzli_static.vcxproj,0,0.0,205.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\color_transform.h,11,15.0,197.0
+guetzli,C++,D:\clones\guetzli\guetzli\fdct.cc,25,51.0,166.0
+guetzli,XML,D:\clones\guetzli\guetzli.vcxproj.filters,0,0.0,162.0
+guetzli,XML,D:\clones\guetzli\guetzli_static.vcxproj.filters,0,0.0,159.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\jpeg_data.h,24,45.0,142.0
+guetzli,C++,D:\clones\guetzli\guetzli\idct.cc,16,20.0,127.0
+guetzli,C++,D:\clones\guetzli\guetzli\jpeg_data_encoder.cc,16,24.0,98.0
+guetzli,C++,D:\clones\guetzli\guetzli\entropy_encode.cc,14,47.0,86.0
+guetzli,C++,D:\clones\guetzli\guetzli\jpeg_huffman_decode.cc,13,23.0,86.0
+guetzli,NAnt script,D:\clones\guetzli\third_party\butteraugli\jpeg.BUILD,3,0.0,86.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\output_image.h,31,42.0,84.0
+guetzli,C++,D:\clones\guetzli\guetzli\jpeg_data.cc,8,16.0,80.0
+guetzli,Markdown,D:\clones\guetzli\README.md,22,0.0,79.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\jpeg_bit_writer.h,11,27.0,75.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\jpeg_data_writer.h,19,19.0,67.0
+guetzli,C++,D:\clones\guetzli\guetzli\quality.cc,8,20.0,59.0
+guetzli,C++,D:\clones\guetzli\guetzli\dct_double.cc,13,17.0,57.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\butteraugli_comparator.h,18,15.0,51.0
+guetzli,Markdown,D:\clones\guetzli\third_party\butteraugli\README.md,18,0.0,50.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\jpeg_error.h,6,16.0,49.0
+guetzli,Bourne Shell,D:\clones\guetzli\tests\smoke_test.sh,8,1.0,49.0
+guetzli,Lua,D:\clones\guetzli\premake5.lua,6,1.0,46.0
+guetzli,Bourne Shell,D:\clones\guetzli\.travis.sh,1,0.0,44.0
+guetzli,make,D:\clones\guetzli\Makefile,10,1.0,44.0
+guetzli,Python,D:\clones\guetzli\tools\guetzli-compare.py,7,0.0,42.0
+guetzli,YAML,D:\clones\guetzli\.travis.yml,5,0.0,37.0
+guetzli,Visual Studio Solution,D:\clones\guetzli\guetzli.sln,1,1.0,34.0
+guetzli,NAnt script,D:\clones\guetzli\third_party\butteraugli\zlib.BUILD,2,0.0,34.0
+guetzli,C++,D:\clones\guetzli\guetzli\jpeg_data_decoder.cc,6,17.0,33.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\processor.h,11,17.0,32.0
+guetzli,NAnt script,D:\clones\guetzli\third_party\butteraugli\png.BUILD,2,0.0,31.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\comparator.h,17,55.0,29.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\debug_print.h,7,15.0,27.0
+guetzli,YAML,D:\clones\guetzli\appveyor.yml,6,0.0,26.0
+guetzli,Bourne Shell,D:\clones\guetzli\tests\golden_test.sh,7,0.0,25.0
+guetzli,Markdown,D:\clones\guetzli\CONTRIBUTING.md,3,0.0,24.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\entropy_encode.h,9,29.0,24.0
+guetzli,C++,D:\clones\guetzli\guetzli\score.cc,5,17.0,21.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\stats.h,9,15.0,20.0
+guetzli,C++,D:\clones\guetzli\fuzz_target.cc,7,3.0,19.0
+guetzli,C++,D:\clones\guetzli\guetzli\gamma_correct.cc,6,15.0,19.0
+guetzli,YAML,D:\clones\guetzli\snapcraft.yaml,3,0.0,19.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\fast_log.h,7,15.0,18.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\jpeg_data_reader.h,10,22.0,18.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\jpeg_huffman_decode.h,10,26.0,15.0
+guetzli,C++,D:\clones\guetzli\guetzli\quantize.cc,4,15.0,13.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\quantize.h,7,15.0,13.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\jpeg_data_encoder.h,10,19.0,12.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\preprocess_downsample.h,8,20.0,12.0
+guetzli,C++,D:\clones\guetzli\guetzli\debug_print.cc,4,15.0,11.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\jpeg_data_decoder.h,9,23.0,9.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\score.h,5,15.0,8.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\dct_double.h,6,19.0,7.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\fdct.h,6,18.0,7.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\idct.h,6,18.0,7.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\gamma_correct.h,5,15.0,6.0
+guetzli,C/C++ Header,D:\clones\guetzli\guetzli\quality.h,5,15.0,6.0
+guetzli,make,D:\clones\guetzli\third_party\butteraugli\butteraugli\Makefile,2,0.0,5.0
+guetzli,SVG,D:\clones\guetzli\guetzli.svg,0,0.0,1.0

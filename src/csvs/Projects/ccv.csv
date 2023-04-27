@@ -1,0 +1,725 @@
+project,language,filename,blank,comment,code
+ccv,C,D:\clones\ccv\lib\3rdparty\sqlite3\sqlite3.c,15428,73001.0,147088.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\valgrind\valgrind.h,472,601.0,5571.0
+ccv,C,D:\clones\ccv\serve\ebb_request_parser.c,83,94.0,5431.0
+ccv,Bourne Shell,D:\clones\ccv\lib\configure,539,514.0,4210.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_symbolic_graph_compile.c,80,485.0,3539.0
+ccv,C,D:\clones\ccv\test\int\nnc\cudnn.tests.c,78,6.0,3414.0
+ccv,C,D:\clones\ccv\lib\ccv_dpm.c,69,48.0,2245.0
+ccv,CUDA,D:\clones\ccv\lib\cuda\cwc_convnet.cu,67,110.0,2196.0
+ccv,C,D:\clones\ccv\lib\ccv_icf.c,70,50.0,2168.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_cnnp_model.c,75,124.0,2168.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_symbolic_graph.c,69,89.0,1879.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_graph.c,58,92.0,1845.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_symbolic_graph_backward.c,37,178.0,1793.0
+ccv,C,D:\clones\ccv\lib\ccv_util.c,54,26.0,1786.0
+ccv,C,D:\clones\ccv\test\int\nnc\cublas.tests.c,45,0.0,1770.0
+ccv,C,D:\clones\ccv\lib\ccv_scd.c,47,34.0,1759.0
+ccv,C,D:\clones\ccv\test\unit\convnet.tests.c,27,14.0,1759.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\sqlite3\sqlite3.h,329,10347.0,1677.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\convolution\cpu_opt\_ccv_nnc_conv_cpu_4x4_3x3_winograd.c,8,258.0,1637.0
+ccv,C,D:\clones\ccv\lib\ccv_convnet.c,46,55.0,1606.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_cnnp_model_addons.c,223,33.0,1586.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\ew\ccv_nnc_ew_cpu_ref.c,32,78.0,1586.0
+ccv,C,D:\clones\ccv\lib\ccv_bbf.c,68,46.0,1385.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_micro_simplify.c,32,91.0,1358.0
+ccv,C,D:\clones\ccv\test\int\nnc\loss.tests.c,38,0.0,1332.0
+ccv,C,D:\clones\ccv\test\int\nnc\imdb.tests.c,26,4.0,1310.0
+ccv,C,D:\clones\ccv\test\unit\nnc\cnnp.core.tests.c,35,27.0,1246.0
+ccv,C,D:\clones\ccv\lib\ccv_numeric.c,17,22.0,1228.0
+ccv,C/C++ Header,D:\clones\ccv\lib\ccv.h,202,1078.0,1176.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_micro_core.c,55,26.0,1147.0
+ccv,C,D:\clones\ccv\test\unit\nnc\cblas.tests.c,29,0.0,1076.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_dynamic_graph.c,32,57.0,1070.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\device\dispatch\dispatch_radix_sort.cuh.h,301,300.0,1059.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\gpu\ccv_nnc_compat.cu,75,5.0,1045.0
+ccv,C,D:\clones\ccv\lib\ccv_tld.c,25,39.0,999.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_graph_run.c,30,38.0,955.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\system\cuda\detail\core\triple_chevron_launch.h,18,26.0,932.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\preprocessor.h,47,211.0,924.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_symbolic_graph_simplify.c,21,89.0,880.0
+ccv,C,D:\clones\ccv\bin\nnc\wmt.c,17,24.0,842.0
+ccv,C,D:\clones\ccv\bin\nnc\iwslt.c,17,24.0,832.0
+ccv,C,D:\clones\ccv\test\unit\nnc\gemm.tests.c,20,0.0,822.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\jemalloc\rb.h,19,177.0,810.0
+ccv,C,D:\clones\ccv\lib\ccv_mser.c,16,45.0,809.0
+ccv,C,D:\clones\ccv\test\unit\nnc\dynamic.graph.tests.c,30,5.0,808.0
+ccv,C,D:\clones\ccv\test\int\nnc\cifar.tests.c,10,9.0,788.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_cnnp_model_core.c,63,23.0,785.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_cnnp_dataframe_addons.c,46,31.0,776.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\util\ccv_nnc_util_cpu_ref.c,28,43.0,768.0
+ccv,C,D:\clones\ccv\lib\ccv_swt.c,18,22.0,757.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\ccv_nnc.h,152,2984.0,750.0
+ccv,C,D:\clones\ccv\test\int\nnc\schedule.tests.c,10,4.0,744.0
+ccv,C,D:\clones\ccv\serve\parsers.c,26,19.0,734.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_cnnp_dataframe.c,32,20.0,700.0
+ccv,C,D:\clones\ccv\bin\nnc\coco.c,23,22.0,686.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\util_type.cuh.h,228,254.0,684.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_symbolic_graph_io.c,14,4.0,678.0
+ccv,C,D:\clones\ccv\test\unit\nnc\dataframe.tests.c,20,6.0,678.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\system\cuda\detail\util.h,122,114.0,669.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\block\block_exchange.cuh.h,186,396.0,664.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_symbolic_graph_parallel.c,8,54.0,660.0
+ccv,C,D:\clones\ccv\test\unit\nnc\while.tests.c,15,2.0,648.0
+ccv,C++,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\tuple.inl,172,151.0,637.0
+ccv,C,D:\clones\ccv\bin\swtcreate.c,6,8.0,635.0
+ccv,CUDA,D:\clones\ccv\bin\cuda\cwc-verify-runtime.cu,26,34.0,608.0
+ccv,C,D:\clones\ccv\bin\nnc\imdb.c,13,14.0,607.0
+ccv,C,D:\clones\ccv\bin\nnc\imagenet.c,21,13.0,602.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_cmd.c,34,39.0,600.0
+ccv,C,D:\clones\ccv\lib\ccv_classic.c,6,27.0,591.0
+ccv,CUDA,D:\clones\ccv\lib\cuda\convnet\cwc_convnet_convolutional.cu,18,13.0,579.0
+ccv,C,D:\clones\ccv\lib\ccv_resample.c,20,17.0,551.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\block\block_load.cuh.h,165,535.0,529.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\type_traits.h,154,45.0,515.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_dynamic_graph_backward.c,5,37.0,513.0
+ccv,C,D:\clones\ccv\serve\tld.c,15,4.0,502.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_cnnp_dataframe_csv.c,11,22.0,498.0
+ccv,C/C++ Header,D:\clones\ccv\lib\ccv_internal.h,79,101.0,496.0
+ccv,C,D:\clones\ccv\bin\nnc\imdb_lstm.c,13,6.0,495.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\agent\agent_radix_sort_downsweep.cuh.h,135,165.0,490.0
+ccv,C,D:\clones\ccv\test\int\nnc\lstm.tests.c,12,4.0,475.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\norm\ccv_nnc_batch_norm_cpu_ref.c,5,14.0,474.0
+ccv,C,D:\clones\ccv\test\int\nnc\cnnp.core.tests.c,7,1.0,472.0
+ccv,C,D:\clones\ccv\lib\ccv_basic.c,10,20.0,467.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_dynamic_graph_minimize.c,2,16.0,465.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\agent\single_pass_scan_operators.cuh.h,145,206.0,463.0
+ccv,C,D:\clones\ccv\test\unit\nnc\batch.norm.tests.c,8,0.0,450.0
+ccv,C,D:\clones\ccv\test\unit\nnc\forward.tests.c,13,15.0,438.0
+ccv,C,D:\clones\ccv\lib\ccv_cache.c,18,5.0,436.0
+ccv,JavaScript,D:\clones\ccv\js\ccv.js,21,8.0,431.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\loss\gpu\ccv_nnc_categorical_crossentropy_gpu_ref.cu,21,6.0,429.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\blas\ccv_nnc_mul_cpu_ref.c,9,10.0,428.0
+ccv,C,D:\clones\ccv\lib\ccv_sift.c,15,48.0,426.0
+ccv,C,D:\clones\ccv\test\unit\util.tests.c,19,0.0,424.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\warp\specializations\warp_scan_shfl.cuh.h,89,122.0,421.0
+ccv,C,D:\clones\ccv\test\unit\nnc\dataframe.addons.tests.c,17,1.0,420.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\block\block_scan.cuh.h,145,1590.0,406.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\block\block_store.cuh.h,132,464.0,403.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_tensor_tape.c,19,30.0,403.0
+ccv,C,D:\clones\ccv\bin\nnc\cifar-10.c,9,25.0,402.0
+ccv,C/C++ Header,D:\clones\ccv\test\case_main.h,47,86.0,401.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\convolution\gpu\ccv_nnc_conv_gpu_cudnn.cu,14,10.0,396.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\_ccv_nnc_micro.h,61,32.0,395.0
+ccv,Starlark,D:\clones\ccv\test\unit\nnc\BUILD.bazel,43,0.0,388.0
+ccv,C,D:\clones\ccv\test\unit\nnc\compare.tests.c,16,0.0,388.0
+ccv,C,D:\clones\ccv\lib\3rdparty\dsfmt\dSFMT.c,39,211.0,383.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\util_device.cuh.h,107,221.0,379.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\blas\gpu\ccv_nnc_mul_gpu_cudnn.cu,11,8.0,379.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\block\specializations\block_scan_raking.cuh.h,133,155.0,377.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\roi\gpu\ccv_nnc_roi_align_gpu_ref.cu,11,5.0,377.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\functional\operators\compound_assignment_operators.h,35,15.0,374.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\blas\cpu_opt\_ccv_nnc_gemm_cpu_opt.c,6,0.0,372.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_micro_interpret.c,6,5.0,369.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\ew\gpu\ccv_nnc_ew_gpu_ref.cu,20,0.0,367.0
+ccv,C,D:\clones\ccv\test\unit\nnc\case_of.tests.c,11,0.0,367.0
+ccv,C,D:\clones\ccv\test\int\nnc\parallel.tests.c,4,2.0,365.0
+ccv,C,D:\clones\ccv\test\unit\numeric.tests.c,22,14.0,365.0
+ccv,C,D:\clones\ccv\test\unit\nnc\simplify.tests.c,11,3.0,364.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\softmax_loss\ccv_nnc_softmax_crossentropy_cpu_ref.c,4,7.0,363.0
+ccv,C,D:\clones\ccv\test\int\nnc\sgd.tests.c,8,0.0,360.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\ccv_nnc_internal.h,26,13.0,353.0
+ccv,C,D:\clones\ccv\test\unit\io.tests.c,23,0.0,352.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\block\block_radix_rank.cuh.h,149,196.0,350.0
+ccv,C,D:\clones\ccv\bin\cuda\cwc-bench.c,2,599.0,349.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\warp\specializations\warp_reduce_shfl.cuh.h,92,103.0,347.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\norm\ccv_nnc_layer_norm_cpu_ref.c,5,10.0,346.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\util_ptx.cuh.h,119,270.0,345.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\functional\operators\arithmetic_operators.h,31,20.0,343.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\convolution\cpu_opt\_ccv_nnc_conv_cpu_opt.c,5,1.0,341.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\softmax_loss\gpu\ccv_nnc_softmax_crossentropy_gpu_cudnn.cu,17,5.0,332.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\blas\gpu\ccv_nnc_gemm_gpu_cublas.cu,6,3.0,330.0
+ccv,C,D:\clones\ccv\lib\ccv_algebra.c,16,0.0,326.0
+ccv,C,D:\clones\ccv\bin\cuda\cwc-backwards.c,2,9.0,322.0
+ccv,C,D:\clones\ccv\serve\swt.c,12,0.0,322.0
+ccv,Ruby,D:\clones\ccv\lib\nnc\cmd\build-cmd.rb,38,23.0,321.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\compression\gpu\ccv_nnc_lssc_gpu_ref.cu,8,0.0,319.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_micro.c,13,16.0,317.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_stream.c,30,8.0,315.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\ew\ccv_nnc_ew.c,36,30.0,312.0
+ccv,C,D:\clones\ccv\bin\cuda\cwc-verify.c,2,8.0,311.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_symbolic_graph_memory_compression.c,5,30.0,311.0
+ccv,C,D:\clones\ccv\lib\3rdparty\kissfft\kiss_fft.c,61,37.0,310.0
+ccv,C,D:\clones\ccv\lib\3rdparty\kissfft\kissf_fft.c,61,37.0,310.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\roi\ccv_nnc_roi_align_cpu_ref.c,6,2.0,310.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\comm\ccv_nnc_comm.c,18,12.0,309.0
+ccv,C,D:\clones\ccv\test\unit\nnc\micro.tests.c,5,0.0,309.0
+ccv,C,D:\clones\ccv\test\int\nnc\roi_align.tests.c,10,0.0,308.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\compare\ccv_nnc_min_cpu_ref.c,4,11.0,302.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\compare\ccv_nnc_max_cpu_ref.c,4,11.0,301.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_tensor.c,13,16.0,299.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\blas\ccv_nnc_add_cpu_ref.c,6,14.0,298.0
+ccv,C,D:\clones\ccv\serve\ebb.c,79,92.0,298.0
+ccv,C,D:\clones\ccv\bin\cifar-10.c,6,0.0,293.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\dsfmt\dSFMT.h,53,284.0,293.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\loss\ccv_nnc_categorical_crossentropy_cpu_ref.c,4,6.0,293.0
+ccv,C,D:\clones\ccv\test\unit\nnc\crossentropy.tests.c,7,5.0,293.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\khash\khash.h,87,250.0,290.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\sigmoid_loss\gpu\ccv_nnc_sigmoid_binary_crossentropy_gpu_ref.cu,11,0.0,290.0
+ccv,C,D:\clones\ccv\test\int\nnc\index.tests.c,10,0.0,288.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\nms\gpu\ccv_nnc_nms_gpu_ref.cu,15,11.0,286.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\agent\agent_radix_sort_upsweep.cuh.h,107,135.0,285.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\functional\operators\relational_operators.h,23,15.0,285.0
+ccv,C,D:\clones\ccv\test\unit\nnc\autograd.vector.tests.c,9,4.0,285.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\functional.h,165,1061.0,284.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\tuple.h,81,220.0,284.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\upsample\ccv_nnc_upsample_cpu_ref.c,7,5.0,283.0
+ccv,C,D:\clones\ccv\lib\ccv_memory.c,22,9.0,276.0
+ccv,C,D:\clones\ccv\lib\3rdparty\sfmt\SFMT.c,32,152.0,274.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\agent\agent_scan.cuh.h,75,120.0,274.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\block\block_radix_sort.cuh.h,88,500.0,274.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\ccv_nnc_easy.h,37,131.0,274.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\dropout\ccv_nnc_dropout_cpu_ref.c,5,15.0,273.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\functional\operators\bitwise_operators.h,24,18.0,271.0
+ccv,C,D:\clones\ccv\lib\nnc\co.c,18,9.0,270.0
+ccv,C,D:\clones\ccv\test\unit\nnc\minimize.tests.c,7,3.0,270.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\_ccv_cnnp_model.h,28,13.0,264.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\loss\gpu\ccv_nnc_binary_crossentropy_gpu_ref.cu,10,0.0,264.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\rnn\gpu\ccv_nnc_lstm_gpu_cudnn.cu,8,5.0,264.0
+ccv,C,D:\clones\ccv\test\unit\nnc\transform.tests.c,9,1.0,263.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\_ccv_nnc_dynamic_graph.h,27,16.0,261.0
+ccv,CUDA,D:\clones\ccv\lib\cuda\convnet\cwc_convnet_pool.cu,8,4.0,260.0
+ccv,HTML,D:\clones\ccv\site\0.6\lib\ccv-util\index.html,101,4.0,259.0
+ccv,C++,D:\clones\ccv\bin\darts.cc,15,4.0,258.0
+ccv,C,D:\clones\ccv\test\int\nnc\transform.tests.c,11,0.0,258.0
+ccv,CSS,D:\clones\ccv\js\a.css,38,1.0,253.0
+ccv,C,D:\clones\ccv\lib\cuda\cwc_convnet_ext.c,4,8.0,253.0
+ccv,C,D:\clones\ccv\bin\icfcreate.c,2,5.0,245.0
+ccv,HTML,D:\clones\ccv\site\0.6\doc\doc-convnet\index.html,79,4.0,245.0
+ccv,CUDA,D:\clones\ccv\bin\cuda\cwc-backwards-runtime.cu,2,4.0,243.0
+ccv,C,D:\clones\ccv\test\unit\nnc\reduce.tests.c,11,0.0,243.0
+ccv,C,D:\clones\ccv\serve\dpm.c,13,0.0,241.0
+ccv,Starlark,D:\clones\ccv\lib\BUILD.bazel,28,193.0,240.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\device\device_radix_sort.cuh.h,48,508.0,240.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\nms\ccv_nnc_nms_cpu_ref.c,5,2.0,239.0
+ccv,C,D:\clones\ccv\test\unit\nnc\autograd.tests.c,7,24.0,239.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\thread\thread_load.cuh.h,64,125.0,238.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_dynamic_graph_apply_gradients.c,2,6.0,237.0
+ccv,C,D:\clones\ccv\test\int\nnc\adam.tests.c,5,0.0,236.0
+ccv,C,D:\clones\ccv\test\int\nnc\lamb.tests.c,5,0.0,236.0
+ccv,C,D:\clones\ccv\test\int\nnc\rmsprop.tests.c,5,0.0,236.0
+ccv,CSS,D:\clones\ccv\site\stylesheets\styles.css,52,0.0,234.0
+ccv,C,D:\clones\ccv\bin\dpmcreate.c,2,3.0,233.0
+ccv,C,D:\clones\ccv\lib\ccv_io.c,7,10.0,233.0
+ccv,C,D:\clones\ccv\serve\convnet.c,14,2.0,233.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\upsample\gpu\ccv_nnc_upsample_gpu_ref.cu,11,2.0,231.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\thread\thread_store.cuh.h,64,129.0,227.0
+ccv,C,D:\clones\ccv\test\int\nnc\swish.tests.c,6,0.0,222.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\blas\ccv_nnc_gemm_cpu_ref.c,4,3.0,221.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\warp\specializations\warp_scan_smem.cuh.h,82,95.0,220.0
+ccv,C/C++ Header,D:\clones\ccv\serve\uri.h,41,3.0,218.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-doc-convnet.markdown,82,0.0,218.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_dynamic_graph_evaluate.c,7,15.0,217.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\util\gpu\ccv_nnc_util_gpu_ref.cu,13,3.0,217.0
+ccv,C,D:\clones\ccv\test\int\nnc\nccl.tests.c,9,0.0,217.0
+ccv,C,D:\clones\ccv\test\unit\nnc\backward.tests.c,5,4.0,216.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\block\specializations\block_scan_warp_scans.cuh.h,73,103.0,215.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\convolution\ccv_nnc_conv_cpu_ref.c,5,11.0,215.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\util\ccv_nnc_util.c,24,17.0,215.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_dynamic_graph_alloc.c,15,6.0,214.0
+ccv,C,D:\clones\ccv\serve\bbf.c,13,0.0,214.0
+ccv,C,D:\clones\ccv\serve\icf.c,13,0.0,214.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\execute_with_dependencies.h,35,20.0,212.0
+ccv,C,D:\clones\ccv\test\int\nnc\dynamic.graph.tests.c,10,0.0,212.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\loss\gpu\ccv_nnc_smooth_l1_gpu_ref.cu,7,0.0,210.0
+ccv,C,D:\clones\ccv\serve\scd.c,13,0.0,209.0
+ccv,C,D:\clones\ccv\test\unit\nnc\tensor.bind.tests.c,9,0.0,209.0
+ccv,C,D:\clones\ccv\serve\serve.c,17,4.0,207.0
+ccv,C,D:\clones\ccv\test\unit\nnc\symbolic.graph.compile.tests.c,10,0.0,206.0
+ccv,C,D:\clones\ccv\serve\sift.c,11,0.0,202.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\norm\gpu\ccv_nnc_layer_norm_gpu_cudnn.cu,7,1.0,201.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\system\error_code.h,116,207.0,200.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\blas\cpu_sys\_ccv_nnc_gemm_cpu_sys.c,2,3.0,200.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\reduce\ccv_nnc_reduce_max_cpu_ref.c,5,7.0,200.0
+ccv,HTML,D:\clones\ccv\js\index.html,23,0.0,199.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-ccv-util.markdown,116,0.0,199.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\warp\warp_scan.cuh.h,76,662.0,197.0
+ccv,C/C++ Header,D:\clones\ccv\lib\cuda\cwc_internal.h,38,8.0,194.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\warp\specializations\warp_reduce_smem.cuh.h,72,106.0,194.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\comm\gpu\ccv_nnc_comm_gpu_nccl.cu,16,3.0,192.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\blas\gpu\ccv_nnc_add_gpu_cudnn.cu,7,3.0,191.0
+ccv,make,D:\clones\ccv\test\all.mk,96,0.0,191.0
+ccv,HTML,D:\clones\ccv\site\0.6\lib\ccv-convnet\index.html,51,4.0,189.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\co.h,54,0.0,187.0
+ccv,m4,D:\clones\ccv\lib\configure.ac,20,0.0,185.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\sigmoid_loss\ccv_nnc_sigmoid_binary_crossentropy_cpu_ref.c,4,0.0,183.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\system\cuda\detail\core\alignment.h,46,24.0,179.0
+ccv,C,D:\clones\ccv\serve\uri.c,9,0.0,179.0
+ccv,C,D:\clones\ccv\bin\bbfcreate.c,2,3.0,178.0
+ccv,C,D:\clones\ccv\lib\ccv_daisy.c,2,53.0,178.0
+ccv,C++,D:\clones\ccv\lib\nnc\3rdparty\thrust\system\detail\error_category.inl,41,17.0,178.0
+ccv,C,D:\clones\ccv\bin\nnc\nnc-e2e-sym-verify.c,3,6.0,174.0
+ccv,Ruby,D:\clones\ccv\site\_doxygen.rb,27,4.0,174.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\blas\ccv_nnc_blas.c,23,21.0,173.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\gpu\ccv_nnc_compat.h,22,13.0,173.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\_ccv_nnc_symbolic_graph.h,15,26.0,172.0
+ccv,C,D:\clones\ccv\test\unit\memory.tests.c,7,2.0,167.0
+ccv,C,D:\clones\ccv\test\unit\nnc\nms.tests.c,6,0.0,166.0
+ccv,C,D:\clones\ccv\lib\ccv_transform.c,3,6.0,165.0
+ccv,C++,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\functional\actor.inl,19,23.0,165.0
+ccv,C,D:\clones\ccv\test\unit\nnc\layer.norm.tests.c,4,0.0,164.0
+ccv,C,D:\clones\ccv\test\unit\nnc\tensor.tests.c,7,0.0,163.0
+ccv,CUDA,D:\clones\ccv\lib\cuda\convnet\cwc_convnet_rnorm.cu,4,0.0,162.0
+ccv,C++,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\pair.inl,51,17.0,161.0
+ccv,C,D:\clones\ccv\test\int\nnc\compare.tests.c,6,0.0,160.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\loss\ccv_nnc_binary_crossentropy_cpu_ref.c,4,0.0,159.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\util\gpu\ccv_nnc_util_gpu_cudnn.cu,16,1.0,158.0
+ccv,C,D:\clones\ccv\test\unit\algebra.tests.c,9,0.0,158.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\lamb\gpu\ccv_nnc_lamb_gpu_ref.cu,10,2.0,156.0
+ccv,C,D:\clones\ccv\test\int\nnc\symbolic.graph.vgg.d.tests.c,4,6.0,156.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\compression\ccv_nnc_lssc_cpu_ref.c,4,0.0,155.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\lamb\ccv_nnc_lamb_cpu_ref.c,5,2.0,155.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\compare\gpu\ccv_nnc_max_gpu_ref.cu,7,0.0,154.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\compare\gpu\ccv_nnc_min_gpu_ref.cu,7,0.0,154.0
+ccv,C,D:\clones\ccv\test\unit\nnc\symbolic.graph.tests.c,7,1.0,153.0
+ccv,CUDA,D:\clones\ccv\bin\cuda\cwc-bench-runtime.cu,3,0.0,152.0
+ccv,C,D:\clones\ccv\bin\image-net.c,2,7.0,152.0
+ccv,C,D:\clones\ccv\test\unit\nnc\roi_align.tests.c,7,5.0,152.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\sfmt\SFMT.h,28,118.0,150.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\pool\ccv_nnc_max_pool_cpu_ref.c,4,1.0,150.0
+ccv,HTML,D:\clones\ccv\site\0.6\lib\ccv-memory\index.html,50,4.0,149.0
+ccv,C,D:\clones\ccv\test\unit\nnc\index.tests.c,8,0.0,149.0
+ccv,C/C++ Header,D:\clones\ccv\test\case.h,23,28.0,147.0
+ccv,C,D:\clones\ccv\test\unit\nnc\broadcast.tests.c,8,0.0,147.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\loss\ccv_nnc_smooth_l1_cpu_ref.c,4,0.0,146.0
+ccv,HTML,D:\clones\ccv\site\0.6\doc\doc-bbf\index.html,48,4.0,146.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\thread\thread_operators.cuh.h,58,113.0,145.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\_ccv_nnc_graph.h,18,26.0,143.0
+ccv,C,D:\clones\ccv\test\unit\nnc\while.backward.tests.c,5,3.0,143.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\config\compiler.h,19,25.0,142.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\cmd\ccv_nnc_cmd_easy.h,1,107.0,142.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\sgd\ccv_nnc_sgd_cpu_ref.c,5,2.0,142.0
+ccv,HTML,D:\clones\ccv\site\0.6\doc\doc-dpm\index.html,47,4.0,139.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\thread\thread_scan.cuh.h,42,88.0,138.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\alignment.h,24,68.0,138.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\blas\ccv_nnc_gemm_cpu_opt.c,7,9.0,138.0
+ccv,Ruby,D:\clones\ccv\bin\swtvldtr.rb,9,6.0,136.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-ccv-convnet.markdown,53,0.0,136.0
+ccv,HTML,D:\clones\ccv\site\0.6\lib\ccv-tld\index.html,30,4.0,135.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\functional\actor.h,32,26.0,134.0
+ccv,C,D:\clones\ccv\test\int\nnc\dense.net.tests.c,4,0.0,133.0
+ccv,C,D:\clones\ccv\test\unit\nnc\tape.tests.c,3,1.0,132.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_tensor_io.c,4,2.0,130.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\ccv_nnc_tfb.h,18,20.0,130.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\compression\ccv_nnc_compression.c,7,4.0,129.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\index\gpu\ccv_nnc_index_select_gpu_ref.cu,7,0.0,129.0
+ccv,MATLAB,D:\clones\ccv\samples\car.m,0,0.0,129.0
+ccv,C,D:\clones\ccv\bin\scdcreate.c,2,3.0,128.0
+ccv,C++,D:\clones\ccv\lib\nnc\3rdparty\thrust\system\detail\error_code.inl,52,17.0,128.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_graph_while.c,9,5.0,128.0
+ccv,C,D:\clones\ccv\test\unit\nnc\winograd.tests.c,6,4.0,128.0
+ccv,C,D:\clones\ccv\bin\nnc\nnc-e2e-verify.c,3,4.0,126.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\adam\ccv_nnc_adam_cpu_ref.c,5,2.0,126.0
+ccv,reStructuredText,D:\clones\ccv\WORKLOG.rst,102,0.0,125.0
+ccv,C,D:\clones\ccv\test\unit\basic.tests.c,9,1.0,125.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\norm\ccv_nnc_norm.c,15,19.0,124.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\reduce\ccv_nnc_reduce_sum_cpu_ref.c,6,5.0,124.0
+ccv,HTML,D:\clones\ccv\site\0.6\lib\ccv-icf\index.html,29,4.0,124.0
+ccv,C,D:\clones\ccv\lib\3rdparty\siphash\siphash24.c,27,15.0,123.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_cnnp_dataframe_core.c,15,3.0,123.0
+ccv,C,D:\clones\ccv\test\unit\nnc\dropout.tests.c,6,0.0,123.0
+ccv,C,D:\clones\ccv\bin\bbffmt.c,5,0.0,122.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\grid\grid_queue.cuh.h,41,81.0,122.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\functional\composite.h,17,24.0,122.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\rmsprop\ccv_nnc_rmsprop_cpu_ref.c,5,2.0,122.0
+ccv,Ruby,D:\clones\ccv\site\_plugins\archive.rb,10,0.0,122.0
+ccv,C,D:\clones\ccv\test\int\nnc\smooth_l1.tests.c,5,0.0,122.0
+ccv,HTML,D:\clones\ccv\site\0.6\lib\ccv-bbf\index.html,30,4.0,121.0
+ccv,Starlark,D:\clones\ccv\test\int\nnc\BUILD.bazel,13,0.0,121.0
+ccv,C,D:\clones\ccv\lib\ccv_image_processing.c,4,0.0,120.0
+ccv,C,D:\clones\ccv\lib\ccv_ferns.c,5,3.0,119.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\pool\ccv_nnc_avg_pool_cpu_ref.c,4,0.0,119.0
+ccv,HTML,D:\clones\ccv\site\0.6\doc\doc-http\index.html,37,4.0,119.0
+ccv,HTML,D:\clones\ccv\site\0.6\doc\doc-icf\index.html,40,4.0,119.0
+ccv,C,D:\clones\ccv\bin\cnnclassify.c,3,0.0,118.0
+ccv,C,D:\clones\ccv\test\int\nnc\random.tests.c,5,0.0,118.0
+ccv,CUDA,D:\clones\ccv\bin\cuda\cwc-forwards-runtime.cu,2,2.0,117.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\functional\operators\logical_operators.h,12,15.0,117.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\dropout\gpu\ccv_nnc_dropout_gpu_cudnn.cu,8,0.0,117.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\index\ccv_nnc_index_select_cpu_ref.c,4,0.0,117.0
+ccv,HTML,D:\clones\ccv\site\0.6\doc\doc-tld\index.html,34,4.0,117.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\norm\gpu\ccv_nnc_batch_norm_gpu_cudnn.cu,6,0.0,116.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\sgd\gpu\ccv_nnc_sgd_gpu_ref.cu,8,0.0,116.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\swish\gpu\ccv_nnc_swish_gpu_ref.cu,8,0.0,116.0
+ccv,C,D:\clones\ccv\test\int\nnc\graph.vgg.d.tests.c,4,4.0,115.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\cmd\ccv_nnc_cmd.h,0,5.0,114.0
+ccv,HTML,D:\clones\ccv\site\0.6\lib\ccv-algebra\index.html,28,4.0,114.0
+ccv,HTML,D:\clones\ccv\site\0.6\lib\ccv-serve\index.html,41,4.0,114.0
+ccv,HTML,D:\clones\ccv\site\0.6\lib\ccv-dpm\index.html,21,4.0,113.0
+ccv,C,D:\clones\ccv\lib\3rdparty\kissfft\kiss_fftr.c,26,21.0,112.0
+ccv,C,D:\clones\ccv\lib\3rdparty\kissfft\kissf_fftr.c,26,21.0,112.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\util_arch.cuh.h,31,44.0,111.0
+ccv,CSS,D:\clones\ccv\site\stylesheets\coderay.css,17,0.0,111.0
+ccv,MATLAB,D:\clones\ccv\samples\pedestrian.m,0,0.0,110.0
+ccv,C/C++ Header,D:\clones\ccv\test\ccv_nnc_case.h,11,5.0,110.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\iterator\cache_modified_input_iterator.cuh.h,36,94.0,109.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-ccv-memory.markdown,62,0.0,109.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_cnnp_model_io.c,4,0.0,108.0
+ccv,HTML,D:\clones\ccv\site\0.6\lib\ccv-numeric\index.html,19,4.0,107.0
+ccv,C,D:\clones\ccv\bin\tld.c,1,47.0,106.0
+ccv,C,D:\clones\ccv\test\int\nnc\compression.tests.c,7,1.0,106.0
+ccv,Starlark,D:\clones\ccv\config\ccv.bzl,5,8.0,105.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\sfmt\SFMT-common.h,16,43.0,105.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-doc-bbf.markdown,50,0.0,105.0
+ccv,reStructuredText,D:\clones\ccv\doc\convnet.rst,89,0.0,104.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\kissfft\_kiss_fft_guts.h,30,30.0,104.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\kissfft\_kissf_fft_guts.h,30,30.0,104.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\system\cuda\error.h,31,48.0,104.0
+ccv,C,D:\clones\ccv\test\int\nnc\upsample.tests.c,6,0.0,104.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\sfmt\SFMT-alti.h,11,42.0,103.0
+ccv,C,D:\clones\ccv\test\unit\nnc\case_of.backward.tests.c,4,0.0,102.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\warp\warp_reduce.cuh.h,52,458.0,101.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\adam\gpu\ccv_nnc_adam_gpu_ref.cu,7,0.0,101.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\reduce\ccv_nnc_reduce.c,18,10.0,101.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-doc-scd.markdown,45,0.0,101.0
+ccv,C,D:\clones\ccv\test\unit\nnc\custom.tests.c,6,0.0,101.0
+ccv,C,D:\clones\ccv\test\unit\nnc\graph.tests.c,5,3.0,101.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\reduce\ccv_nnc_argmax_cpu_ref.c,5,1.0,97.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\rmsprop\gpu\ccv_nnc_rmsprop_gpu_ref.cu,7,0.0,97.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\grid\grid_even_share.cuh.h,37,91.0,96.0
+ccv,HTML,D:\clones\ccv\site\0.6\lib\ccv-cache\index.html,26,4.0,96.0
+ccv,C,D:\clones\ccv\test\int\nnc\nms.tests.c,4,0.0,95.0
+ccv,HTML,D:\clones\ccv\site\0.6\lib\ccv-classic\index.html,18,4.0,94.0
+ccv,C,D:\clones\ccv\test\int\nnc\concat.tests.c,4,0.0,94.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-ccv-algebra.markdown,46,0.0,93.0
+ccv,C,D:\clones\ccv\test\unit\nnc\parallel.tests.c,4,0.0,93.0
+ccv,reStructuredText,D:\clones\ccv\doc\nnc-alloc.rst,69,0.0,92.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\iterator\detail\iterator_category_to_traversal.h,22,20.0,92.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\reduce\gpu\ccv_nnc_argmax_gpu_ref.cu,5,0.0,92.0
+ccv,HTML,D:\clones\ccv\site\0.6\lib\ccv-basic\index.html,17,4.0,92.0
+ccv,C++,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\functional.inl,18,15.0,91.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-doc-dpm.markdown,46,0.0,91.0
+ccv,Starlark,D:\clones\ccv\test\unit\BUILD.bazel,10,0.0,91.0
+ccv,HTML,D:\clones\ccv\site\0.6\lib\ccv-io\index.html,17,4.0,90.0
+ccv,C,D:\clones\ccv\bin\icfoptimize.c,2,5.0,89.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\system\detail\errno.h,12,19.0,89.0
+ccv,C,D:\clones\ccv\test\unit\nnc\gradient.tests.c,4,2.0,89.0
+ccv,reStructuredText,D:\clones\ccv\doc\nnc.rst,69,0.0,88.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\ew\gpu\ccv_nnc_ew_gpu_cudnn.cu,7,1.0,88.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\softmax\ccv_nnc_softmax_cpu_ref.c,4,0.0,87.0
+ccv,HTML,D:\clones\ccv\site\0.6\lib\ccv-swt\index.html,11,4.0,87.0
+ccv,C,D:\clones\ccv\lib\3rdparty\kissfft\kiss_fftnd.c,39,68.0,86.0
+ccv,C,D:\clones\ccv\lib\3rdparty\kissfft\kiss_fftndr.c,21,11.0,86.0
+ccv,C,D:\clones\ccv\lib\3rdparty\kissfft\kissf_fftnd.c,39,68.0,86.0
+ccv,C,D:\clones\ccv\lib\3rdparty\kissfft\kissf_fftndr.c,21,11.0,86.0
+ccv,HTML,D:\clones\ccv\site\0.6\doc\doc-swt\index.html,19,4.0,86.0
+ccv,C,D:\clones\ccv\bin\nnc\cudnn\conv-cudnn-back.c,8,2.0,85.0
+ccv,C,D:\clones\ccv\bin\nnc\cudnn\conv-cudnn-forw.c,8,2.0,85.0
+ccv,C,D:\clones\ccv\bin\nnc\opt\gemm-opt.c,3,1.0,84.0
+ccv,C,D:\clones\ccv\bin\nnc\opt\gemm-sys.c,3,1.0,84.0
+ccv,C++,D:\clones\ccv\lib\nnc\3rdparty\thrust\system\detail\error_condition.inl,32,17.0,84.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\functional\operators\operator_adaptors.h,13,19.0,83.0
+ccv,C/C++ Header,D:\clones\ccv\serve\ebb_request_parser.h,13,13.0,83.0
+ccv,C,D:\clones\ccv\test\int\nnc\reduce.tests.c,5,0.0,83.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_symbolic_graph_while.c,6,11.0,82.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\reduce\gpu\ccv_nnc_reduce_sum_gpu_cudnn.cu,7,0.0,82.0
+ccv,HTML,D:\clones\ccv\site\0.6\lib\ccv-resample\index.html,13,4.0,82.0
+ccv,C,D:\clones\ccv\test\unit\nnc\compression.tests.c,4,1.0,82.0
+ccv,C++,D:\clones\ccv\lib\nnc\3rdparty\thrust\iterator\detail\iterator_traits.inl,27,19.0,81.0
+ccv,C,D:\clones\ccv\bin\aflw.c,2,3.0,80.0
+ccv,C,D:\clones\ccv\bin\nnc\opt\auto-tune-gemm.c,3,1.0,80.0
+ccv,HTML,D:\clones\ccv\site\0.6\lib\ccv-transform\index.html,13,4.0,80.0
+ccv,C,D:\clones\ccv\test\unit\nnc\swish.tests.c,3,0.0,80.0
+ccv,C,D:\clones\ccv\bin\siftmatch.c,3,0.0,78.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\sfmt\SFMT-sse2.h,10,34.0,77.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\dependencies_aware_execution_policy.h,13,15.0,77.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\softmax_loss\ccv_nnc_softmax_crossentropy.c,9,8.0,77.0
+ccv,HTML,D:\clones\ccv\site\0.6\doc\doc-cache\index.html,13,4.0,77.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-doc-tld.markdown,33,0.0,77.0
+ccv,C,D:\clones\ccv\bin\dpmdetect.c,2,0.0,76.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\util_debug.cuh.h,25,61.0,76.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\convolution\ccv_nnc_conv_cpu_opt.c,5,5.0,76.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\sigmoid\ccv_nnc_sigmoid_cpu_ref.c,4,0.0,76.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\sigmoid_loss\ccv_nnc_sigmoid_binary_crossentropy.c,9,8.0,76.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\swish\ccv_nnc_swish_cpu_ref.c,4,17.0,76.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\tanh\ccv_nnc_tanh_cpu_ref.c,4,0.0,76.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-ccv-scd.markdown,31,0.0,76.0
+ccv,C,D:\clones\ccv\test\unit\nnc\upsample.tests.c,6,0.0,76.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\rand\gpu\ccv_nnc_rand_normal_gpu_ref.cu,5,0.0,75.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\rand\gpu\ccv_nnc_rand_uniform_gpu_ref.cu,5,0.0,75.0
+ccv,HTML,D:\clones\ccv\site\0.6\doc\doc-sift\index.html,15,4.0,75.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-doc-http.markdown,36,0.0,75.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-doc-icf.markdown,39,0.0,75.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\dsfmt\dSFMT-common.h,7,34.0,74.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\execute_with_allocator_fwd.h,15,15.0,74.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\pool\gpu\ccv_nnc_max_pool_gpu_cudnn.cu,6,0.0,74.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-ccv-serve.markdown,44,0.0,74.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-ccv-tld.markdown,27,0.0,74.0
+ccv,C,D:\clones\ccv\test\unit\nnc\rand.tests.c,4,0.0,74.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-ccv-bbf.markdown,33,0.0,73.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-ccv-icf.markdown,31,0.0,73.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\util_cpp_dialect.cuh.h,16,47.0,72.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\rnn\ccv_nnc_lstm.c,7,8.0,72.0
+ccv,reStructuredText,D:\clones\ccv\doc\http.rst,44,0.0,71.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_graph_case_of.c,4,6.0,70.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\pool\gpu\ccv_nnc_avg_pool_gpu_cudnn.cu,6,1.0,70.0
+ccv,C,D:\clones\ccv\test\unit\nnc\concat.tests.c,4,0.0,70.0
+ccv,reStructuredText,D:\clones\ccv\doc\bbf.rst,62,0.0,69.0
+ccv,C++,D:\clones\ccv\lib\nnc\3rdparty\thrust\system\detail\system_error.inl,27,15.0,69.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\relu\ccv_nnc_relu_cpu_ref.c,4,0.0,69.0
+ccv,C,D:\clones\ccv\test\unit\nnc\smooth_l1.tests.c,3,1.0,69.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\thread\thread_reduce.cuh.h,19,65.0,68.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\allocator_aware_execution_policy.h,15,18.0,68.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\pool\ccv_nnc_pool.c,12,4.0,68.0
+ccv,HTML,D:\clones\ccv\site\0.6\lib\ccv-sift\index.html,7,4.0,68.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-ccv-dpm.markdown,22,0.0,68.0
+ccv,C,D:\clones\ccv\bin\scddetect.c,2,0.0,67.0
+ccv,reStructuredText,D:\clones\ccv\doc\dpm.rst,60,0.0,67.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\dropout\ccv_nnc_dropout.c,7,9.0,67.0
+ccv,HTML,D:\clones\ccv\site\0.6\lib\ccv-daisy\index.html,7,4.0,67.0
+ccv,C,D:\clones\ccv\bin\bbfdetect.c,2,0.0,65.0
+ccv,C,D:\clones\ccv\bin\swtdetect.c,3,0.0,65.0
+ccv,C/C++ Header,D:\clones\ccv\serve\ebb.h,24,23.0,65.0
+ccv,C,D:\clones\ccv\bin\icfdetect.c,2,0.0,64.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_symbolic_graph_case_of.c,4,8.0,64.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\relu\gpu\ccv_nnc_relu_gpu_cudnn.cu,6,0.0,64.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\sigmoid\gpu\ccv_nnc_sigmoid_gpu_cudnn.cu,6,0.0,64.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\tanh\gpu\ccv_nnc_tanh_gpu_cudnn.cu,6,0.0,64.0
+ccv,reStructuredText,D:\clones\ccv\doc\scd.rst,56,9.0,63.0
+ccv,C,D:\clones\ccv\lib\nnc\ccv_nnc_symbolic_graph_minimize.c,3,3.0,63.0
+ccv,C,D:\clones\ccv\bin\msermatch.c,3,1.0,62.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-ccv-cache.markdown,33,0.0,62.0
+ccv,reStructuredText,D:\clones\ccv\doc\nnc-uops.rst,56,42.0,61.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\iterator\iterator_traits.h,23,30.0,61.0
+ccv,Python,D:\clones\ccv\lib\nnc\cmd\util\gpu\.ycm_extra_conf.py,8,0.0,61.0
+ccv,Python,D:\clones\ccv\lib\nnc\gpu\.ycm_extra_conf.py,8,0.0,61.0
+ccv,C,D:\clones\ccv\serve\async.c,7,4.0,61.0
+ccv,C,D:\clones\ccv\bin\nnc\opt\conv-gemm.c,4,1.0,60.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\config\cpp_dialect.h,15,35.0,60.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\upsample\ccv_nnc_upsample.c,6,3.0,60.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-ccv-numeric.markdown,18,0.0,60.0
+ccv,Ruby,D:\clones\ccv\bin\bbfvldtr.rb,6,1.0,58.0
+ccv,C,D:\clones\ccv\bin\nnc\opt\conv-4x4-3x3-winograd.c,5,1.0,58.0
+ccv,C,D:\clones\ccv\bin\nnc\opt\conv-opt.c,5,1.0,58.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\config\cpp_compatibility.h,10,26.0,58.0
+ccv,CUDA,D:\clones\ccv\lib\nnc\cmd\softmax\gpu\ccv_nnc_softmax_gpu_cudnn.cu,6,0.0,58.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\type_traits\function_traits.h,22,17.0,57.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\loss\ccv_nnc_binary_crossentropy.c,7,8.0,57.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\loss\ccv_nnc_categorical_crossentropy.c,7,4.0,57.0
+ccv,HTML,D:\clones\ccv\site\0.6\lib\index.html,100,4.0,57.0
+ccv,C,D:\clones\ccv\bin\nnc\opt\auto-tune-conv.c,5,1.0,56.0
+ccv,Ruby,D:\clones\ccv\bin\siftdraw.rb,4,0.0,56.0
+ccv,C++,D:\clones\ccv\lib\nnc\3rdparty\thrust\system\cuda\detail\error.inl,27,15.0,56.0
+ccv,Ruby,D:\clones\ccv\bin\dpmvldtr.rb,8,11.0,55.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\compare\ccv_nnc_cmp.c,9,5.0,55.0
+ccv,C/C++ Header,D:\clones\ccv\test\ccv_case.h,6,0.0,55.0
+ccv,Ruby,D:\clones\ccv\bin\icfvldtr.rb,7,0.0,54.0
+ccv,Python,D:\clones\ccv\test\unit\.ycm_extra_conf.py,8,0.0,54.0
+ccv,C,D:\clones\ccv\bin\nnc\nnc-sym.c,1,13.0,53.0
+ccv,reStructuredText,D:\clones\ccv\doc\icf.rst,47,0.0,53.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\rand\ccv_nnc_rand_normal_cpu_ref.c,3,0.0,53.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-ccv-swt.markdown,18,0.0,53.0
+ccv,HTML,D:\clones\ccv\site\index.html,0,0.0,53.0
+ccv,C,D:\clones\ccv\test\unit\nnc\graph.io.tests.c,3,0.0,53.0
+ccv,Python,D:\clones\ccv\bin\nnc\.ycm_extra_conf.py,8,0.0,52.0
+ccv,Python,D:\clones\ccv\bin\nnc\cudnn\.ycm_extra_conf.py,8,0.0,52.0
+ccv,Python,D:\clones\ccv\lib\nnc\.ycm_extra_conf.py,8,0.0,52.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\pair.h,44,187.0,52.0
+ccv,Python,D:\clones\ccv\serve\.ycm_extra_conf.py,8,0.0,52.0
+ccv,NAnt script,D:\clones\ccv\external\sqlite3.BUILD,1,0.0,51.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\block\block_raking_layout.cuh.h,27,73.0,50.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\iterator\iterator_categories.h,23,151.0,50.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\system\cuda\detail\execution_policy.h,23,26.0,50.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\convolution\ccv_nnc_convolution.c,6,8.0,50.0
+ccv,reStructuredText,D:\clones\ccv\doc\tld.rst,37,0.0,49.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\loss\ccv_nnc_smooth_l1.c,7,8.0,49.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\sigmoid\ccv_nnc_sigmoid.c,8,3.0,49.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\tanh\ccv_nnc_tanh.c,8,3.0,49.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-doc-swt.markdown,18,0.0,49.0
+ccv,C,D:\clones\ccv\test\unit\nnc\numa.tests.c,3,0.0,49.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-ccv-classic.markdown,17,0.0,48.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\nms\ccv_nnc_nms.c,7,3.0,47.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\rand\ccv_nnc_rand_uniform_cpu_ref.c,3,0.0,47.0
+ccv,HTML,D:\clones\ccv\site\0.6\doc\index.html,90,4.0,47.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-ccv-basic.markdown,17,0.0,47.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\system\cuda\config.h,8,26.0,46.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\sfmt\SFMT-params19937.h,4,1.0,45.0
+ccv,make,D:\clones\ccv\lib\scheme.mk,15,7.0,45.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\iterator\detail\iterator_category_to_system.h,15,21.0,44.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\roi\ccv_nnc_roi_align.c,7,4.0,44.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-ccv-io.markdown,16,0.0,44.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\functional\operators\assignment_operator.h,11,18.0,43.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-doc-cache.markdown,12,0.0,43.0
+ccv,C,D:\clones\ccv\bin\nnc\csv.c,2,1.0,42.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\iterator\detail\universal_categories.h,25,20.0,42.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\adam\ccv_nnc_adam.c,8,5.0,42.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\lamb\ccv_nnc_lamb.c,8,5.0,42.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\rmsprop\ccv_nnc_rmsprop.c,8,5.0,42.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\sgd\ccv_nnc_sgd.c,8,5.0,42.0
+ccv,C,D:\clones\ccv\bin\cuda\cwc-forwards.c,2,0.0,41.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\functional\value.h,16,23.0,41.0
+ccv,CUDA,D:\clones\ccv\lib\cuda\convnet\cwc_convnet_full_connect.cu,4,6.0,40.0
+ccv,C/C++ Header,D:\clones\ccv\lib\inc\ccv_convnet_internal.h,2,0.0,40.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\util_compiler.cuh.h,6,35.0,40.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\functional\argument.h,12,23.0,40.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\softmax\ccv_nnc_softmax.c,7,2.0,40.0
+ccv,ERB,D:\clones\ccv\lib\nnc\cmd\ccv_nnc_cmd.inc.erb,5,0.0,39.0
+ccv,C,D:\clones\ccv\bin\nnc\csv_fuzz.c,2,0.0,38.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\util_macro.cuh.h,19,46.0,38.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-ccv-resample.markdown,12,0.0,38.0
+ccv,make,D:\clones\ccv\lib\makefile,18,1.0,37.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\convolution\cpu_opt\_ccv_nnc_conv_cpu_gemm.c,1,1.0,37.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\rand\ccv_nnc_rand.c,7,4.0,37.0
+ccv,Ruby,D:\clones\ccv\site\_plugins\include_code.rb,9,21.0,37.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\kissfft\kiss_fft.h,20,57.0,36.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\kissfft\kissf_fft.h,20,57.0,36.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\type_traits\result_of_adaptable_function.h,10,19.0,36.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\system\cpp\detail\execution_policy.h,16,29.0,36.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\index\ccv_nnc_index_select.c,6,2.0,36.0
+ccv,HTML,D:\clones\ccv\site\_layouts\default.html,0,4.0,36.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-ccv-transform.markdown,12,0.0,36.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\system\detail\sequential\execution_policy.h,15,26.0,35.0
+ccv,make,D:\clones\ccv\lib\nnc\cmd\makefile,15,0.0,35.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\relu\ccv_nnc_relu.c,6,2.0,35.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\swish\ccv_nnc_swish.c,6,2.0,35.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-ccv-image-processing.markdown,13,0.0,35.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-doc-sift.markdown,14,0.0,35.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\config\device_system.h,9,18.0,34.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\system\cuda\detail\guarded_driver_types.h,10,19.0,34.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\_ccv_nnc_stream.h,12,13.0,34.0
+ccv,Ruby,D:\clones\ccv\site\_plugins\helpers.rb,9,0.0,34.0
+ccv,Markdown,D:\clones\ccv\site\_posts\2014-08-07-how-to-run-a-state-of-the-art-image-classifier-on-a-iphone.markdown,25,0.0,34.0
+ccv,reStructuredText,D:\clones\ccv\doc\nnc-dy.rst,25,0.0,33.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\dsfmt\dSFMT-params19937.h,4,3.0,33.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\execution_policy.h,15,29.0,33.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\type_traits\void_t.h,13,18.0,33.0
+ccv,Markdown,D:\clones\ccv\site\_posts\2012-10-04-ccv-cut-the-0.2-stable-and-whats-new.markdown,9,0.0,33.0
+ccv,Markdown,D:\clones\ccv\site\_posts\2014-12-23-with-a-sub-10-image-classifier-a-decent-face-detector-here-comes-ccv-0.7.markdown,24,0.0,33.0
+ccv,C,D:\clones\ccv\test\unit\nnc\tfb.tests.c,5,0.0,33.0
+ccv,C,D:\clones\ccv\test\unit\image_processing.tests.c,3,0.0,32.0
+ccv,JSON,D:\clones\ccv\test\unit\nnc\.vimspector.json,0,0.0,32.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\config\host_system.h,9,18.0,31.0
+ccv,make,D:\clones\ccv\lib\nnc\makefile,17,0.0,31.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\system\system_error.h,28,121.0,30.0
+ccv,Ruby,D:\clones\ccv\bin\cnndraw.rb,4,0.0,29.0
+ccv,make,D:\clones\ccv\bin\nnc\makefile,18,0.0,29.0
+ccv,reStructuredText,D:\clones\ccv\README.rst,16,10.0,27.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\type_deduction.h,15,32.0,27.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-ccv-sift.markdown,6,0.0,27.0
+ccv,make,D:\clones\ccv\test\int\nnc\makefile,15,0.0,27.0
+ccv,make,D:\clones\ccv\test\regression\makefile,15,0.0,27.0
+ccv,make,D:\clones\ccv\test\unit\makefile,15,0.0,27.0
+ccv,make,D:\clones\ccv\test\unit\nnc\makefile,15,0.0,27.0
+ccv,make,D:\clones\ccv\bin\cuda\makefile,14,0.0,26.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\dsfmt\dSFMT-params.h,10,23.0,26.0
+ccv,make,D:\clones\ccv\serve\makefile,16,0.0,26.0
+ccv,reStructuredText,D:\clones\ccv\doc\nnc-df.rst,17,0.0,25.0
+ccv,reStructuredText,D:\clones\ccv\doc\swt.rst,19,0.0,25.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\iterator\detail\iterator_category_with_system_and_traversal.h,15,17.0,25.0
+ccv,make,D:\clones\ccv\lib\nnc\gpu\makefile,14,0.0,25.0
+ccv,CSV,D:\clones\ccv\test\unit\nnc\data\scaled_data.csv,0,0.0,25.0
+ccv,Bourne Shell,D:\clones\ccv\bazel\setup_clang.sh,8,0.0,24.0
+ccv,make,D:\clones\ccv\bin\nnc\cudnn\makefile,14,0.0,24.0
+ccv,make,D:\clones\ccv\bin\nnc\opt\makefile,14,0.0,24.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\type_traits\has_trivial_assign.h,10,20.0,24.0
+ccv,C,D:\clones\ccv\test\unit\transform.tests.c,3,0.0,24.0
+ccv,make,D:\clones\ccv\bin\makefile,14,0.0,23.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\kissfft\kiss_fftndr.h,13,11.0,23.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\kissfft\kissf_fftndr.h,13,11.0,23.0
+ccv,Markdown,D:\clones\ccv\site\_posts\2014-03-27-ccv-0.6-open-sources-near-state-of-the-art-image-classifier-under-creative-commons.markdown,14,0.0,23.0
+ccv,Markdown,D:\clones\ccv\site\tutorial\index.markdown,16,0.0,23.0
+ccv,Ruby,D:\clones\ccv\test\all.rb,4,0.0,23.0
+ccv,C,D:\clones\ccv\test\regression\defects.l0.1.tests.c,3,1.0,23.0
+ccv,Ruby,D:\clones\ccv\bin\dpmdraw.rb,3,0.0,22.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\type_traits\remove_cvref.h,11,15.0,22.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\_ccv_nnc_tensor_tape.h,8,9.0,22.0
+ccv,Ruby,D:\clones\ccv\site\_plugins\debug.rb,6,10.0,22.0
+ccv,make,D:\clones\ccv\site\_source\makefile,13,0.0,22.0
+ccv,C,D:\clones\ccv\lib\ccv_output.c,4,0.0,21.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\_ccv_cnnp_dataframe.h,7,8.0,21.0
+ccv,C,D:\clones\ccv\lib\nnc\cmd\convolution\cpu_opt\_ccv_nnc_conv_cpu_fft.c,1,0.0,21.0
+ccv,Markdown,D:\clones\ccv\site\_posts\0000-01-01-ccv-daisy.markdown,6,0.0,21.0
+ccv,reStructuredText,D:\clones\ccv\doc\sift.rst,16,0.0,20.0
+ccv,PHP,D:\clones\ccv\js\loader.php,1,0.0,20.0
+ccv,Markdown,D:\clones\ccv\site\_posts\2012-06-29-introducing-ccv-milestone.markdown,11,0.0,20.0
+ccv,Markdown,D:\clones\ccv\site\_posts\2012-10-02-ccv-0.2-is-almost-there.markdown,8,0.0,20.0
+ccv,reStructuredText,D:\clones\ccv\doc\cache.rst,12,0.0,19.0
+ccv,C,D:\clones\ccv\test\unit\output.tests.c,2,0.0,19.0
+ccv,Starlark,D:\clones\ccv\config\BUILD.bazel,2,0.0,18.0
+ccv,reStructuredText,D:\clones\ccv\doc\nnc-schd.rst,13,0.0,18.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\functional\placeholder.h,6,15.0,18.0
+ccv,C,D:\clones\ccv\site\_source\section-001-002.c,1,0.0,18.0
+ccv,make,D:\clones\ccv\test\makefile,9,0.0,18.0
+ccv,Ruby,D:\clones\ccv\bin\dpmext.rb,3,0.0,17.0
+ccv,HTML,D:\clones\ccv\site\_layouts\post.html,0,0.0,17.0
+ccv,ERB,D:\clones\ccv\test\all.mk.erb,6,0.0,17.0
+ccv,C,D:\clones\ccv\test\unit\3rdparty.tests.c,2,0.0,17.0
+ccv,Ruby,D:\clones\ccv\bin\cnnvldtr.rb,6,0.0,16.0
+ccv,reStructuredText,D:\clones\ccv\doc\nnc-cnnp.rst,11,0.0,16.0
+ccv,HTML,D:\clones\ccv\site\_layouts\page.html,1,0.0,16.0
+ccv,JavaScript,D:\clones\ccv\site\javascripts\scale.fix.js,4,0.0,16.0
+ccv,YAML,D:\clones\ccv\.github\workflows\unit-tests.yaml,0,0.0,15.0
+ccv,Ruby,D:\clones\ccv\bin\scdfmt.rb,2,0.0,15.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\kissfft\kiss_fftr.h,16,15.0,15.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\kissfft\kissf_fftr.h,16,15.0,15.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\iterator\detail\iterator_traversal_tags.h,10,16.0,15.0
+ccv,Markdown,D:\clones\ccv\site\_posts\2010-02-06-call-for-a-new-lightweight-c-based-computer-vision-library.markdown,6,0.0,15.0
+ccv,Ruby,D:\clones\ccv\test\cover-gen.rb,5,0.0,15.0
+ccv,Ruby,D:\clones\ccv\bin\bbfdraw.rb,3,0.0,14.0
+ccv,Ruby,D:\clones\ccv\bin\icfdraw.rb,3,0.0,14.0
+ccv,Ruby,D:\clones\ccv\bin\swtdraw.rb,3,0.0,14.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\swap.h,7,15.0,14.0
+ccv,ERB,D:\clones\ccv\lib\nnc\cmd\ccv_nnc_cmd.h.erb,0,0.0,14.0
+ccv,Markdown,D:\clones\ccv\site\_posts\2012-11-10-ccv-now-has-a-state-of-art-tracking-algorithm.markdown,5,0.0,14.0
+ccv,Markdown,D:\clones\ccv\site\_posts\2012-11-30-ccv-talks-http.markdown,5,0.0,14.0
+ccv,Markdown,D:\clones\ccv\site\_posts\2013-09-02-ccv-0.5-with-a-new-pedestrian-detector.markdown,5,0.0,14.0
+ccv,Markdown,D:\clones\ccv\site\_posts\2014-04-25-closing-the-gap-between-open-source-and-proprietary.markdown,5,0.0,14.0
+ccv,Starlark,D:\clones\ccv\test\BUILD.bazel,0,0.0,14.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\kissfft\kiss_fftnd.h,5,0.0,13.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\kissfft\kissf_fftnd.h,5,0.0,13.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\config\config.h,5,21.0,13.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\config\debug.h,4,15.0,13.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\type_traits\has_nested_type.h,4,15.0,13.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\iterator\detail\device_system_tag.h,10,17.0,13.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\iterator\detail\host_system_tag.h,10,17.0,13.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\cmd\_ccv_nnc_cpu_ref.h,3,0.0,13.0
+ccv,YAML,D:\clones\ccv\site\_config.yml,5,13.0,13.0
+ccv,Markdown,D:\clones\ccv\site\_posts\2012-06-18-an-elephant-in-the-room.markdown,4,0.0,13.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\grid\grid_mapping.cuh.h,17,84.0,12.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\config\exec_check_disable.h,10,21.0,12.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\iterator\detail\any_system_tag.h,7,18.0,12.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\siphash\siphash24.h,6,13.0,11.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\util_deprecated.cuh.h,5,30.0,11.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\util_namespace.cuh.h,9,39.0,11.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\config\deprecated.h,4,18.0,11.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\system\cuda\detail\guarded_cuda_runtime_api.h,9,19.0,11.0
+ccv,Markdown,D:\clones\ccv\site\_posts\2011-05-03-application-driven-philosophy.markdown,2,0.0,11.0
+ccv,HTML,D:\clones\ccv\site\doc\index.html,1,0.0,11.0
+ccv,HTML,D:\clones\ccv\site\lib\index.html,1,0.0,11.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\config\host_device.h,10,24.0,10.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\system_error.h,10,31.0,10.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\cmd\ccv_nnc_backend.h,0,5.0,10.0
+ccv,ERB,D:\clones\ccv\lib\nnc\cmd\ccv_nnc_backend.h.erb,0,0.0,10.0
+ccv,make,D:\clones\ccv\site\makefile,5,1.0,10.0
+ccv,C/C++ Header,D:\clones\ccv\lib\3rdparty\sfmt\SFMT-params.h,10,46.0,9.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\version.h,10,64.0,9.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\ccv_nnc_doxygen.h,5,55.0,9.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\cmd\blas\_ccv_nnc_gemm_cpu_opt.h,5,7.0,9.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\cmd\convolution\_ccv_nnc_conv_cpu_opt.h,5,7.0,9.0
+ccv,Python,D:\clones\ccv\lib\.ycm_extra_conf.py,1,0.0,8.0
+ccv,C/C++ Header,D:\clones\ccv\lib\cuda\cwc.h,4,4.0,8.0
+ccv,C/C++ Header,D:\clones\ccv\lib\cuda\cwc_ext.h,4,5.0,8.0
+ccv,C,D:\clones\ccv\site\_source\section-001-001.c,1,0.0,8.0
+ccv,Bourne Shell,D:\clones\ccv\test\unit\nnc\graph-gen.sh,3,0.0,8.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\config.cuh.h,3,30.0,7.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\config\forceinline.h,10,19.0,7.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\config\global_workarounds.h,4,16.0,7.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\cpp11_required.h,4,15.0,7.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\functional\operators.h,3,15.0,7.0
+ccv,ERB,D:\clones\ccv\lib\nnc\cmd\ccv_nnc_cmd_easy.h.erb,0,0.0,7.0
+ccv,C/C++ Header,D:\clones\ccv\serve\async.h,2,1.0,7.0
+ccv,C/C++ Header,D:\clones\ccv\lib\ccv_doxygen.h,4,5.0,6.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\cub\version.cuh.h,7,57.0,6.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\config\simple_defines.h,6,18.0,6.0
+ccv,C,D:\clones\ccv\lib\ccv_sparse_coding.c,1,0.0,5.0
+ccv,CSV,D:\clones\ccv\test\unit\nnc\data\quote.csv,0,0.0,5.0
+ccv,Bourne Shell,D:\clones\ccv\site\_doxygen.sh,1,0.0,4.0
+ccv,CSV,D:\clones\ccv\test\unit\nnc\data\long_text.csv,0,0.0,4.0
+ccv,C/C++ Header,D:\clones\ccv\lib\nnc\3rdparty\thrust\detail\config.h,3,18.0,3.0
+ccv,CSV,D:\clones\ccv\test\unit\nnc\data\win.csv,1,0.0,3.0
+ccv,make,D:\clones\ccv\lib\nnc\cmd\config.mk,0,0.0,2.0
+ccv,ERB,D:\clones\ccv\lib\nnc\cmd\config.mk.erb,0,0.0,2.0
+ccv,Bourne Shell,D:\clones\ccv\samples\download-vgg-d-32bit.sh,1,0.0,2.0
+ccv,Bourne Shell,D:\clones\ccv\samples\download-vgg-d-model.sh,1,0.0,2.0
+ccv,C,D:\clones\ccv\test\all.tests.c,2,1.0,2.0
+ccv,JavaScript,D:\clones\ccv\js\face.js,0,0.0,1.0

@@ -1,0 +1,16 @@
+project,language,filename,blank,comment,code
+elasticsearch,ANTLR Grammar,D:\clones\elasticsearch\x-pack\plugin\sql\src\main\antlr\SqlBase.g4,82,31.0,476.0
+spark,ANTLR Grammar,D:\clones\spark\sql\catalyst\src\main\antlr4\org\apache\spark\sql\catalyst\parser\SqlBaseParser.g4,157,53.0,1369.0
+spring-framework,ANTLR Grammar,D:\clones\spring-framework\spring-expression\src\main\resources\org\springframework\expression\spel\generated\SpringExpressions.g,56,13.0,199.0
+elasticsearch,ANTLR Grammar,D:\clones\elasticsearch\modules\lang-painless\src\main\antlr\PainlessParser.g4,41,10.0,183.0
+elasticsearch,ANTLR Grammar,D:\clones\elasticsearch\modules\lang-painless\src\main\antlr\PainlessLexer.g4,14,12.0,91.0
+riemann,ANTLR Grammar,D:\clones\riemann\resources\query.g4,27,8.0,109.0
+botframework-sdk,ANTLR Grammar,D:\clones\botframework-sdk\parsers\LU\JS\packages\lu\src\parser\lufile\LUFileParser.g4,58,3.0,180.0
+botframework-sdk,ANTLR Grammar,D:\clones\botframework-sdk\parsers\LU\JS\packages\lu\src\parser\lufile\LUFileLexer.g4,54,1.0,176.0
+elasticsearch,ANTLR Grammar,D:\clones\elasticsearch\x-pack\plugin\eql\src\main\antlr\EqlBase.g4,56,22.0,217.0
+roslyn,ANTLR Grammar,D:\clones\roslyn\src\Compilers\CSharp\Portable\Generated\CSharp.Generated.g4,290,1.0,1101.0
+elasticsearch,ANTLR Grammar,D:\clones\elasticsearch\modules\lang-painless\src\main\antlr\SuggestLexer.g4,14,12.0,92.0
+spark,ANTLR Grammar,D:\clones\spark\sql\catalyst\src\main\antlr4\org\apache\spark\sql\catalyst\parser\SqlBaseLexer.g4,31,57.0,402.0
+kubernetes,ANTLR Grammar,D:\clones\kubernetes\vendor\github.com\google\cel-go\parser\gen\CEL.g4,31,17.0,138.0
+php-src,ANTLR Grammar,D:\clones\php-src\ext\ffi\ffi.g,67,45.0,808.0
+roslyn,ANTLR Grammar,D:\clones\roslyn\src\Compilers\VisualBasic\Portable\Generated\VisualBasic.Grammar.g4,419,1.0,1620.0

@@ -1,0 +1,126 @@
+project,language,filename,blank,comment,code
+nuklear,C/C++ Header,D:\clones\nuklear\nuklear.h,1897,4946.0,18937.0
+nuklear,C/C++ Header,D:\clones\nuklear\example\stb_image.h,734,1049.0,4726.0
+nuklear,C,D:\clones\nuklear\src\nuklear_font.c,243,348.0,2792.0
+nuklear,HTML,D:\clones\nuklear\doc\nuklear.html,0,0.0,2609.0
+nuklear,C/C++ Header,D:\clones\nuklear\src\nuklear.h,271,3113.0,2079.0
+nuklear,C,D:\clones\nuklear\src\nuklear_vertex.c,99,62.0,1177.0
+nuklear,C,D:\clones\nuklear\demo\overview.c,117,88.0,1099.0
+nuklear,C/C++ Header,D:\clones\nuklear\demo\gdip\nuklear_gdip.h,185,29.0,961.0
+nuklear,C/C++ Header,D:\clones\nuklear\demo\x11_rawfb\nuklear_rawfb.h,109,72.0,947.0
+nuklear,C,D:\clones\nuklear\src\nuklear_util.c,98,81.0,940.0
+nuklear,C/C++ Header,D:\clones\nuklear\demo\x11_xft\nuklear_xlib.h,85,30.0,921.0
+nuklear,C,D:\clones\nuklear\src\nuklear_text_editor.c,78,99.0,852.0
+nuklear,C/C++ Header,D:\clones\nuklear\demo\x11\nuklear_xlib.h,81,30.0,847.0
+nuklear,C,D:\clones\nuklear\example\file_browser.c,90,47.0,773.0
+nuklear,C/C++ Header,D:\clones\nuklear\demo\gdi\nuklear_gdi.h,110,25.0,763.0
+nuklear,C,D:\clones\nuklear\example\extended.c,87,98.0,721.0
+nuklear,C,D:\clones\nuklear\example\skinning.c,77,48.0,699.0
+nuklear,C,D:\clones\nuklear\src\nuklear_style.c,43,31.0,691.0
+nuklear,C,D:\clones\nuklear\src\nuklear_edit.c,72,58.0,676.0
+nuklear,C,D:\clones\nuklear\src\nuklear_layout.c,72,29.0,664.0
+nuklear,C,D:\clones\nuklear\src\nuklear_combo.c,78,33.0,652.0
+nuklear,C/C++ Header,D:\clones\nuklear\demo\x11_opengl3\nuklear_xlib_gl3.h,56,48.0,640.0
+nuklear,C,D:\clones\nuklear\src\nuklear_window.c,23,29.0,614.0
+nuklear,C,D:\clones\nuklear\src\nuklear_button.c,58,15.0,593.0
+nuklear,C/C++ Header,D:\clones\nuklear\demo\glfw_opengl4\nuklear_glfw_gl4.h,72,33.0,542.0
+nuklear,C/C++ Header,D:\clones\nuklear\demo\d3d11\nuklear_d3d11.h,83,30.0,509.0
+nuklear,C,D:\clones\nuklear\src\nuklear_panel.c,44,52.0,508.0
+nuklear,C,D:\clones\nuklear\src\nuklear_draw.c,22,7.0,452.0
+nuklear,C,D:\clones\nuklear\src\nuklear_property.c,36,25.0,434.0
+nuklear,C,D:\clones\nuklear\src\nuklear_string.c,25,7.0,419.0
+nuklear,C/C++ Header,D:\clones\nuklear\demo\d3d9\nuklear_d3d9.h,97,34.0,412.0
+nuklear,C/C++ Header,D:\clones\nuklear\demo\glfw_opengl3\nuklear_glfw_gl3.h,50,30.0,412.0
+nuklear,C,D:\clones\nuklear\src\nuklear_color.c,4,5.0,405.0
+nuklear,C/C++ Header,D:\clones\nuklear\demo\allegro5\nuklear_allegro5.h,30,36.0,393.0
+nuklear,C/C++ Header,D:\clones\nuklear\demo\sfml_opengl3\nuklear_sfml_gl3.h,41,33.0,389.0
+nuklear,C,D:\clones\nuklear\example\canvas.c,54,51.0,388.0
+nuklear,C/C++ Header,D:\clones\nuklear\demo\sdl_opengl3\nuklear_sdl_gl3.h,38,33.0,371.0
+nuklear,C/C++ Header,D:\clones\nuklear\demo\sdl_opengles2\nuklear_sdl_gles2.h,42,36.0,365.0
+nuklear,C/C++ Header,D:\clones\nuklear\demo\glfw_opengl2\nuklear_glfw_gl2.h,42,28.0,311.0
+nuklear,C/C++ Header,D:\clones\nuklear\demo\x11_opengl2\nuklear_xlib_gl2.h,36,32.0,309.0
+nuklear,C,D:\clones\nuklear\src\nuklear_context.c,21,18.0,305.0
+nuklear,C/C++ Header,D:\clones\nuklear\demo\sfml_opengl2\nuklear_sfml_gl2.h,30,29.0,300.0
+nuklear,C,D:\clones\nuklear\src\nuklear_tree.c,30,19.0,292.0
+nuklear,C/C++ Header,D:\clones\nuklear\demo\sdl_opengl2\nuklear_sdl_gl2.h,28,33.0,285.0
+nuklear,C/C++ Header,D:\clones\nuklear\demo\d3d11\nuklear_d3d11_vertex_shader.h,4,62.0,284.0
+nuklear,C,D:\clones\nuklear\demo\node_editor.c,29,31.0,283.0
+nuklear,C,D:\clones\nuklear\src\nuklear_selectable.c,33,14.0,275.0
+nuklear,C,D:\clones\nuklear\demo\x11_opengl2\main.c,24,51.0,270.0
+nuklear,C,D:\clones\nuklear\src\nuklear_chart.c,33,15.0,270.0
+nuklear,C,D:\clones\nuklear\src\nuklear_toggle.c,25,25.0,270.0
+nuklear,C,D:\clones\nuklear\demo\x11_opengl3\main.c,23,50.0,269.0
+nuklear,C/C++ Header,D:\clones\nuklear\src\nuklear_internal.h,38,32.0,265.0
+nuklear,C,D:\clones\nuklear\src\nuklear_text.c,24,7.0,261.0
+nuklear,C,D:\clones\nuklear\src\nuklear_math.c,11,32.0,255.0
+nuklear,C,D:\clones\nuklear\src\nuklear_menu.c,24,20.0,251.0
+nuklear,C,D:\clones\nuklear\src\nuklear_buffer.c,15,13.0,249.0
+nuklear,C,D:\clones\nuklear\src\nuklear_input.c,6,5.0,246.0
+nuklear,C/C++ Header,D:\clones\nuklear\demo\x11_rawfb\nuklear_xlib.h,20,46.0,237.0
+nuklear,C,D:\clones\nuklear\demo\d3d9\main.c,31,46.0,236.0
+nuklear,C,D:\clones\nuklear\src\nuklear_scrollbar.c,37,31.0,228.0
+nuklear,C,D:\clones\nuklear\src\nuklear_popup.c,24,15.0,224.0
+nuklear,C,D:\clones\nuklear\demo\d3d11\main.c,34,45.0,220.0
+nuklear,C,D:\clones\nuklear\src\nuklear_widget.c,24,15.0,207.0
+nuklear,C,D:\clones\nuklear\src\nuklear_group.c,20,12.0,204.0
+nuklear,C,D:\clones\nuklear\src\nuklear_slider.c,31,24.0,199.0
+nuklear,C,D:\clones\nuklear\src\nuklear_contextual.c,21,13.0,187.0
+nuklear,C,D:\clones\nuklear\demo\x11_rawfb\main.c,29,55.0,179.0
+nuklear,C,D:\clones\nuklear\demo\x11_xft\main.c,23,30.0,175.0
+nuklear,C,D:\clones\nuklear\demo\x11\main.c,23,30.0,171.0
+nuklear,C,D:\clones\nuklear\src\nuklear_color_picker.c,20,13.0,168.0
+nuklear,C,D:\clones\nuklear\demo\glfw_opengl4\main.c,23,47.0,153.0
+nuklear,Markdown,D:\clones\nuklear\Readme.md,28,0.0,150.0
+nuklear,C,D:\clones\nuklear\demo\sdl_opengl3\main.c,21,46.0,141.0
+nuklear,C,D:\clones\nuklear\demo\glfw_opengl3\main.c,21,43.0,137.0
+nuklear,C/C++ Header,D:\clones\nuklear\demo\d3d11\nuklear_d3d11_pixel_shader.h,3,42.0,134.0
+nuklear,C,D:\clones\nuklear\demo\sdl_opengl2\main.c,19,45.0,134.0
+nuklear,C,D:\clones\nuklear\demo\gdi\main.c,22,30.0,132.0
+nuklear,C,D:\clones\nuklear\demo\gdip\main.c,19,30.0,129.0
+nuklear,C,D:\clones\nuklear\demo\style.c,3,0.0,129.0
+nuklear,C,D:\clones\nuklear\src\nuklear_image.c,6,5.0,129.0
+nuklear,C,D:\clones\nuklear\src\nuklear_utf8.c,14,5.0,125.0
+nuklear,C++,D:\clones\nuklear\demo\sfml_opengl3\main.cpp,19,44.0,124.0
+nuklear,C,D:\clones\nuklear\demo\glfw_opengl2\main.c,19,42.0,122.0
+nuklear,C,D:\clones\nuklear\demo\sdl_opengles2\main.c,22,50.0,119.0
+nuklear,C++,D:\clones\nuklear\demo\sfml_opengl2\main.cpp,17,44.0,119.0
+nuklear,C,D:\clones\nuklear\src\nuklear_progress.c,16,12.0,114.0
+nuklear,C,D:\clones\nuklear\demo\allegro5\main.c,26,34.0,104.0
+nuklear,Objective-C,D:\clones\nuklear\demo\allegro5\KeyboardHandleriOS.m,15,3.0,102.0
+nuklear,Python,D:\clones\nuklear\src\build.py,25,26.0,95.0
+nuklear,C,D:\clones\nuklear\src\nuklear_tooltip.c,14,9.0,88.0
+nuklear,C,D:\clones\nuklear\src\nuklear_table.c,2,5.0,83.0
+nuklear,C,D:\clones\nuklear\src\nuklear_list_view.c,11,6.0,65.0
+nuklear,C,D:\clones\nuklear\demo\calculator.c,3,1.0,60.0
+nuklear,C,D:\clones\nuklear\src\nuklear_pool.c,2,6.0,55.0
+nuklear,C,D:\clones\nuklear\src\nuklear_page_element.c,2,11.0,49.0
+nuklear,make,D:\clones\nuklear\example\Makefile,9,1.0,32.0
+nuklear,HLSL,D:\clones\nuklear\demo\d3d11\nuklear_d3d11.hlsl,5,1.0,30.0
+nuklear,make,D:\clones\nuklear\demo\sfml_opengl3\Makefile,7,4.0,26.0
+nuklear,Markdown,D:\clones\nuklear\demo\allegro5\Readme.md,13,0.0,22.0
+nuklear,make,D:\clones\nuklear\demo\sfml_opengl2\Makefile,7,4.0,22.0
+nuklear,C,D:\clones\nuklear\doc\stddoc.c,5,115.0,21.0
+nuklear,make,D:\clones\nuklear\demo\glfw_opengl4\Makefile,4,2.0,20.0
+nuklear,make,D:\clones\nuklear\demo\glfw_opengl2\Makefile,4,2.0,19.0
+nuklear,make,D:\clones\nuklear\demo\sdl_opengl2\Makefile,4,2.0,19.0
+nuklear,make,D:\clones\nuklear\demo\sdl_opengl3\Makefile,4,2.0,19.0
+nuklear,make,D:\clones\nuklear\demo\sdl_opengles2\Makefile,7,2.0,19.0
+nuklear,make,D:\clones\nuklear\doc\Makefile,4,2.0,18.0
+nuklear,YAML,D:\clones\nuklear\.travis.yml,4,0.0,17.0
+nuklear,Markdown,D:\clones\nuklear\demo\sdl_opengles2\Readme.md,13,0.0,17.0
+nuklear,make,D:\clones\nuklear\demo\x11_opengl3\Makefile,6,4.0,16.0
+nuklear,make,D:\clones\nuklear\demo\x11_xft\Makefile,6,2.0,13.0
+nuklear,make,D:\clones\nuklear\demo\allegro5\Makefile,4,8.0,10.0
+nuklear,make,D:\clones\nuklear\demo\x11\Makefile,3,2.0,8.0
+nuklear,make,D:\clones\nuklear\demo\x11_rawfb\Makefile,3,2.0,8.0
+nuklear,JSON,D:\clones\nuklear\package.json,0,0.0,8.0
+nuklear,C/C++ Header,D:\clones\nuklear\demo\allegro5\KeyboardHandleriOS.h,3,0.0,7.0
+nuklear,Markdown,D:\clones\nuklear\demo\sfml_opengl3\Readme.md,5,0.0,6.0
+nuklear,DOS Batch,D:\clones\nuklear\demo\d3d11\build.bat,3,1.0,5.0
+nuklear,Markdown,D:\clones\nuklear\demo\sfml_opengl2\Readme.md,4,0.0,5.0
+nuklear,Markdown,D:\clones\nuklear\src\Readme.md,0,0.0,4.0
+nuklear,DOS Batch,D:\clones\nuklear\demo\d3d9\build.bat,2,1.0,3.0
+nuklear,DOS Batch,D:\clones\nuklear\demo\gdi\build.bat,2,1.0,3.0
+nuklear,DOS Batch,D:\clones\nuklear\demo\gdip\build.bat,2,0.0,3.0
+nuklear,Bourne Shell,D:\clones\nuklear\doc\build.sh,2,0.0,2.0
+nuklear,Bourne Shell,D:\clones\nuklear\src\paq.sh,1,0.0,2.0

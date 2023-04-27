@@ -1,0 +1,23 @@
+project,language,filename,blank,comment,code
+ruby,Ruby HTML,D:\clones\ruby\lib\rdoc\generator\template\darkfish\_head.rhtml,4,0.0,16.0
+ruby,Ruby HTML,D:\clones\ruby\lib\rdoc\generator\template\darkfish\_footer.rhtml,0,0.0,5.0
+ruby,Ruby HTML,D:\clones\ruby\lib\rdoc\generator\template\darkfish\_sidebar_methods.rhtml,1,1.0,10.0
+ruby,Ruby HTML,D:\clones\ruby\lib\rdoc\generator\template\darkfish\servlet_not_found.rhtml,5,0.0,13.0
+ruby,Ruby HTML,D:\clones\ruby\lib\rdoc\generator\template\darkfish\_sidebar_in_files.rhtml,1,0.0,8.0
+ruby,Ruby HTML,D:\clones\ruby\lib\rdoc\generator\template\darkfish\_sidebar_navigation.rhtml,1,0.0,10.0
+ruby,Ruby HTML,D:\clones\ruby\lib\rdoc\generator\template\darkfish\_sidebar_search.rhtml,1,0.0,13.0
+ruby,Ruby HTML,D:\clones\ruby\lib\rdoc\generator\template\darkfish\_sidebar_parent.rhtml,1,0.0,10.0
+ruby,Ruby HTML,D:\clones\ruby\lib\rdoc\generator\template\darkfish\_sidebar_sections.rhtml,1,0.0,10.0
+ruby,Ruby HTML,D:\clones\ruby\tool\test\webrick\webrick.rhtml,0,0.0,4.0
+ruby,Ruby HTML,D:\clones\ruby\lib\rdoc\generator\template\darkfish\_sidebar_installed.rhtml,1,0.0,14.0
+ruby,Ruby HTML,D:\clones\ruby\lib\rdoc\generator\template\darkfish\_sidebar_classes.rhtml,1,0.0,32.0
+ruby,Ruby HTML,D:\clones\ruby\lib\rdoc\generator\template\darkfish\page.rhtml,4,0.0,14.0
+ruby,Ruby HTML,D:\clones\ruby\lib\rdoc\generator\template\darkfish\servlet_root.rhtml,11,0.0,51.0
+ruby,Ruby HTML,D:\clones\ruby\lib\rdoc\generator\template\darkfish\_sidebar_includes.rhtml,1,0.0,14.0
+ruby,Ruby HTML,D:\clones\ruby\lib\rdoc\generator\template\darkfish\table_of_contents.rhtml,4,0.0,54.0
+ruby,Ruby HTML,D:\clones\ruby\lib\rdoc\generator\template\darkfish\_sidebar_extends.rhtml,1,0.0,14.0
+ruby,Ruby HTML,D:\clones\ruby\lib\rdoc\generator\template\darkfish\_sidebar_table_of_contents.rhtml,2,0.0,16.0
+ruby,Ruby HTML,D:\clones\ruby\lib\rdoc\generator\template\darkfish\index.rhtml,3,0.0,19.0
+ruby,Ruby HTML,D:\clones\ruby\lib\rdoc\generator\template\darkfish\class.rhtml,17,0.0,155.0
+ruby,Ruby HTML,D:\clones\ruby\lib\rdoc\generator\template\darkfish\_sidebar_pages.rhtml,1,0.0,31.0
+ruby,Ruby HTML,D:\clones\ruby\lib\rdoc\generator\template\darkfish\_sidebar_VCS_info.rhtml,3,0.0,16.0

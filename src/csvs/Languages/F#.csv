@@ -1,0 +1,14 @@
+project,language,filename,blank,comment,code
+cgrep,F#,D:\clones\cgrep\test\test.fs,4,10.0,2.0
+websocketd,F#,D:\clones\websocketd\examples\f#\Count\Program.fs,2,0.0,6.0
+Mvc,F#,D:\clones\Mvc\test\WebSites\FSharpWebSite\Program.fs,7,2.0,15.0
+roslyn,F#,D:\clones\roslyn\src\Compilers\Test\Resources\Core\SymbolsTests\FSharpTestLibrary.fs,5,3.0,6.0
+websocketd,F#,D:\clones\websocketd\examples\f#\Echo\Program.fs,3,0.0,8.0
+roslyn,F#,D:\clones\roslyn\src\Workspaces\MSBuildTest\Resources\NetCoreMultiTFM_ProjectReferenceToFSharp\fsharplib\Library.fs,1,0.0,4.0
+ILSpy,F#,D:\clones\ILSpy\ICSharpCode.Decompiler.Tests\TestCases\ILPretty\FSharpUsing.fs,6,0.0,32.0
+ILSpy,F#,D:\clones\ILSpy\ICSharpCode.Decompiler.Tests\TestCases\ILPretty\FSharpLoops.fs,8,4.0,18.0
+MonoGame,F#,D:\clones\MonoGame\Templates\MonoGame.Templates.FSharp\content\MonoGame.Library.NetStandard.FSharp\Game1.fs,15,4.0,22.0
+vscode,F#,D:\clones\vscode\extensions\vscode-colorize-tests\test\colorize-fixtures\test.fs,4,3.0,11.0
+Mvc,F#,D:\clones\Mvc\test\WebSites\FSharpWebSite\Controllers\HomeController.fs,5,2.0,14.0
+MonoGame,F#,D:\clones\MonoGame\Templates\MonoGame.Templates.FSharp\content\MonoGame.Application.DesktopGL.FSharp\Program.fs,3,0.0,9.0
+Mvc,F#,D:\clones\Mvc\test\WebSites\FSharpWebSite\Startup.fs,6,2.0,11.0

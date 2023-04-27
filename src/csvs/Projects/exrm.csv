@@ -1,0 +1,44 @@
+project,language,filename,blank,comment,code
+exrm,Bourne Shell,D:\clones\exrm\priv\rel\files\boot,81,99.0,488.0
+exrm,Elixir,D:\clones\exrm\lib\mix\tasks\release.ex,37,70.0,381.0
+exrm,Elixir,D:\clones\exrm\lib\exrm\utils\utils.ex,30,77.0,282.0
+exrm,Elixir,D:\clones\exrm\lib\exrm\deps.ex,20,42.0,219.0
+exrm,DOS Batch,D:\clones\exrm\priv\rel\files\boot.bat,29,39.0,190.0
+exrm,Markdown,D:\clones\exrm\CONTRIBUTING.md,57,0.0,173.0
+exrm,Erlang,D:\clones\exrm\priv\rel\files\install_upgrade.escript,9,8.0,120.0
+exrm,Elixir,D:\clones\exrm\test\utils_test.exs,20,4.0,114.0
+exrm,Elixir,D:\clones\exrm\lib\exrm\appups.ex,17,16.0,97.0
+exrm,Elixir,D:\clones\exrm\lib\mix\tasks\release.clean.ex,14,15.0,86.0
+exrm,Elixir,D:\clones\exrm\lib\mix\tasks\release.plugins.ex,14,8.0,76.0
+exrm,Markdown,D:\clones\exrm\docs\Release Configuration.md,21,0.0,74.0
+exrm,Elixir,D:\clones\exrm\test\fixtures\example_app\config\test.schema.exs,1,0.0,69.0
+exrm,Markdown,D:\clones\exrm\docs\Common Issues.md,21,0.0,68.0
+exrm,Elixir,D:\clones\exrm\test\appups_test.exs,10,0.0,57.0
+exrm,Markdown,D:\clones\exrm\docs\deployment.md,26,0.0,52.0
+exrm,Elixir,D:\clones\exrm\lib\exrm\plugins\appups.ex,9,3.0,51.0
+exrm,Elixir,D:\clones\exrm\mix.exs,7,0.0,45.0
+exrm,Elixir,D:\clones\exrm\lib\exrm\plugin.ex,17,50.0,44.0
+exrm,Elixir,D:\clones\exrm\lib\exrm\plugins\consolidation.ex,5,2.0,43.0
+exrm,Markdown,D:\clones\exrm\docs\Getting Started.md,21,0.0,32.0
+exrm,Markdown,D:\clones\exrm\CHANGELOG.md,5,0.0,25.0
+exrm,Elixir,D:\clones\exrm\lib\exrm\utils\logger.ex,5,0.0,24.0
+exrm,DOS Batch,D:\clones\exrm\priv\rel\files\boot_shim.bat,6,3.0,24.0
+exrm,Markdown,D:\clones\exrm\docs\Upgrades and Downgrades.md,11,0.0,22.0
+exrm,Elixir,D:\clones\exrm\test\fixtures\example_app\mix.exs,3,6.0,18.0
+exrm,YAML,D:\clones\exrm\.travis.yml,0,0.0,15.0
+exrm,Elixir,D:\clones\exrm\test\fixtures\fake_project\mix.exs,3,12.0,14.0
+exrm,Elixir,D:\clones\exrm\test\fixtures\example_app\lib\test\server.ex,4,0.0,12.0
+exrm,Elixir,D:\clones\exrm\lib\exrm\config.ex,3,12.0,11.0
+exrm,Elixir,D:\clones\exrm\test\plugin_test.exs,2,0.0,11.0
+exrm,Markdown,D:\clones\exrm\README.md,7,0.0,10.0
+exrm,Elixir,D:\clones\exrm\test\fixtures\example_app\lib\test\supervisor.ex,4,1.0,9.0
+exrm,Elixir,D:\clones\exrm\test\test_helper.exs,2,0.0,9.0
+exrm,Bourne Shell,D:\clones\exrm\priv\rel\files\boot_shim,2,0.0,8.0
+exrm,Elixir,D:\clones\exrm\test\fixtures\example_app\config\config.exs,2,0.0,6.0
+exrm,Elixir,D:\clones\exrm\test\fixtures\example_app\lib\test.ex,1,2.0,6.0
+exrm,Markdown,D:\clones\exrm\docs\examples.md,2,0.0,3.0
+exrm,Elixir,D:\clones\exrm\test\fixtures\example_app\config\config.dev.exs,1,0.0,3.0
+exrm,Elixir,D:\clones\exrm\test\fixtures\example_app\config\config.prod.exs,1,0.0,3.0
+exrm,Elixir,D:\clones\exrm\test\fixtures\example_app\config\config.test.exs,1,0.0,3.0
+exrm,Elixir,D:\clones\exrm\test\fixtures\fake_project\lib\fake_project.ex,0,0.0,3.0
+exrm,Elixir,D:\clones\exrm\test\fixtures\example_app\config\explicit_config.exs,1,0.0,2.0

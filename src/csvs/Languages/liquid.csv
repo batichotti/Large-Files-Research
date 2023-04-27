@@ -1,0 +1,11 @@
+project,language,filename,blank,comment,code
+marathon,liquid,D:\clones\marathon\type-generator\src\main\resources\templates\object.liquid,2,0.0,6.0
+Nancy,liquid,D:\clones\Nancy\test\Nancy.ViewEngines.DotLiquid.Tests\Views\unquotedpartial.liquid,0,0.0,1.0
+Nancy,liquid,D:\clones\Nancy\test\Nancy.ViewEngines.DotLiquid.Tests\Views\partial.liquid,0,0.0,1.0
+Nancy,liquid,D:\clones\Nancy\samples\Nancy.Demo.Hosting.Aspnet\Views\dot.liquid,0,0.0,9.0
+sinatra,liquid,D:\clones\sinatra\test\views\hello.liquid,0,0.0,1.0
+Nancy,liquid,D:\clones\Nancy\test\Nancy.ViewEngines.DotLiquid.Tests\Views\singlequotedpartial.liquid,0,0.0,1.0
+Nancy,liquid,D:\clones\Nancy\src\Nancy.ViewEngines.DotLiquid\Resources\500.liquid,13,0.0,104.0
+Nancy,liquid,D:\clones\Nancy\test\Nancy.ViewEngines.DotLiquid.Tests\Views\doublequotedpartial.liquid,0,0.0,1.0
+marathon,liquid,D:\clones\marathon\type-generator\src\main\resources\templates\enum.liquid,2,0.0,27.0
+sinatra,liquid,D:\clones\sinatra\test\views\layout2.liquid,0,0.0,2.0

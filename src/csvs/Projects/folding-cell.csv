@@ -1,0 +1,46 @@
+project,language,filename,blank,comment,code
+folding-cell,XML,D:\clones\folding-cell\FoldingCell\FoldingCell-Demo\Base.lproj\Main.storyboard,0,1.0,709.0
+folding-cell,XML,D:\clones\folding-cell\FoldingCell\FoldingCell-DemoObjc\Base.lproj\Main.storyboard,0,1.0,684.0
+folding-cell,Swift,D:\clones\folding-cell\FoldingCell\FoldingCell\FoldingCell.swift,103,57.0,349.0
+folding-cell,HTML,D:\clones\folding-cell\docs\docsets\FoldingCell.docset\Contents\Resources\Documents\Classes\FoldingCell.html,21,0.0,309.0
+folding-cell,CSS,D:\clones\folding-cell\docs\docsets\FoldingCell.docset\Contents\Resources\Documents\css\jazzy.css,42,0.0,289.0
+folding-cell,HTML,D:\clones\folding-cell\docs\index.html,39,0.0,177.0
+folding-cell,Markdown,D:\clones\folding-cell\README.md,50,0.0,142.0
+folding-cell,CSS,D:\clones\folding-cell\docs\docsets\FoldingCell.docset\Contents\Resources\Documents\css\highlight.css,0,59.0,141.0
+folding-cell,XML,D:\clones\folding-cell\FoldingCell\FoldingCell.xcodeproj\xcshareddata\xcschemes\FoldingCell.xcscheme,0,0.0,95.0
+folding-cell,Objective-C,D:\clones\folding-cell\FoldingCell\FoldingCell-DemoObjc\TableViewController.m,30,11.0,90.0
+folding-cell,HTML,D:\clones\folding-cell\docs\docsets\FoldingCell.docset\Contents\Resources\Documents\Classes.html,4,0.0,85.0
+folding-cell,Swift,D:\clones\folding-cell\FoldingCell\FoldingCell-Demo\TableViewController.swift,22,27.0,84.0
+folding-cell,JSON,D:\clones\folding-cell\FoldingCell\FoldingCell-Demo\Assets.xcassets\AppIcon.appiconset\Contents.json,0,0.0,53.0
+folding-cell,XML,D:\clones\folding-cell\FoldingCell\FoldingCell-DemoObjc\Base.lproj\LaunchScreen.storyboard,0,1.0,52.0
+folding-cell,JSON,D:\clones\folding-cell\FoldingCell\FoldingCell-DemoObjc\Assets.xcassets\AppIcon.appiconset\Contents.json,0,0.0,48.0
+folding-cell,XML,D:\clones\folding-cell\FoldingCell\FoldingCell-DemoObjc\Info.plist,0,0.0,42.0
+folding-cell,XML,D:\clones\folding-cell\FoldingCell\FoldingCell-Demo\Info.plist,0,0.0,38.0
+folding-cell,JavaScript,D:\clones\folding-cell\docs\js\jazzy.js,3,3.0,34.0
+folding-cell,XML,D:\clones\folding-cell\FoldingCell\FoldingCell\Info.plist,0,0.0,30.0
+folding-cell,Swift,D:\clones\folding-cell\FoldingCell\FoldingCellDemoTests\RotationViewTests.swift,9,0.0,28.0
+folding-cell,Swift,D:\clones\folding-cell\FoldingCell\FoldingCell-Demo\DemoCell.swift,9,8.0,26.0
+folding-cell,JSON,D:\clones\folding-cell\FoldingCell\FoldingCell-DemoObjc\Assets.xcassets\dots.imageset\Contents.json,0,0.0,24.0
+folding-cell,JSON,D:\clones\folding-cell\FoldingCell\FoldingCell-DemoObjc\Assets.xcassets\photo.imageset\Contents.json,0,0.0,24.0
+folding-cell,JSON,D:\clones\folding-cell\FoldingCell\FoldingCell-DemoObjc\Assets.xcassets\stars.imageset\Contents.json,0,0.0,24.0
+folding-cell,Swift,D:\clones\folding-cell\FoldingCell\FoldingCellDemoTests\FoldingCellDemoTests.swift,6,0.0,24.0
+folding-cell,Markdown,D:\clones\folding-cell\CONTRIBUTING.md,11,0.0,22.0
+folding-cell,XML,D:\clones\folding-cell\FoldingCell\FoldingCellDemoTests\Info.plist,0,0.0,22.0
+folding-cell,JSON,D:\clones\folding-cell\FoldingCell\FoldingCell-DemoObjc\Assets.xcassets\arrow.imageset\Contents.json,0,0.0,21.0
+folding-cell,JSON,D:\clones\folding-cell\FoldingCell\FoldingCell-DemoObjc\Assets.xcassets\background.imageset\Contents.json,0,0.0,21.0
+folding-cell,JSON,D:\clones\folding-cell\FoldingCell\FoldingCell-DemoObjc\Assets.xcassets\burger.imageset\Contents.json,0,0.0,21.0
+folding-cell,JSON,D:\clones\folding-cell\FoldingCell\FoldingCell-DemoObjc\Assets.xcassets\image.imageset\Contents.json,0,0.0,21.0
+folding-cell,XML,D:\clones\folding-cell\docs\docsets\FoldingCell.docset\Contents\Info.plist,0,0.0,20.0
+folding-cell,Swift,D:\clones\folding-cell\Package.swift,3,24.0,16.0
+folding-cell,Ruby,D:\clones\folding-cell\FoldingCell.podspec,0,0.0,11.0
+folding-cell,YAML,D:\clones\folding-cell\.travis.yml,2,1.0,8.0
+folding-cell,Swift,D:\clones\folding-cell\FoldingCell\FoldingCell-Demo\AppDelegate.swift,4,22.0,8.0
+folding-cell,Objective-C,D:\clones\folding-cell\FoldingCell\FoldingCell-DemoObjc\AppDelegate.m,7,7.0,8.0
+folding-cell,XML,D:\clones\folding-cell\FoldingCell\FoldingCell.xcodeproj\project.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist,0,0.0,8.0
+folding-cell,Objective-C,D:\clones\folding-cell\FoldingCell\FoldingCell-DemoObjc\main.m,2,7.0,7.0
+folding-cell,XML,D:\clones\folding-cell\FoldingCell\FoldingCell.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+folding-cell,JSON,D:\clones\folding-cell\FoldingCell\FoldingCell-DemoObjc\Assets.xcassets\Contents.json,0,0.0,6.0
+folding-cell,C/C++ Header,D:\clones\folding-cell\FoldingCell\FoldingCell-DemoObjc\AppDelegate.h,6,7.0,4.0
+folding-cell,C/C++ Header,D:\clones\folding-cell\FoldingCell\FoldingCell-DemoObjc\TableViewController.h,3,7.0,3.0
+folding-cell,C/C++ Header,D:\clones\folding-cell\FoldingCell\FoldingCell\FoldingCell.h,6,10.0,3.0
+folding-cell,JavaScript,D:\clones\folding-cell\docs\js\jquery.min.js,0,1.0,3.0

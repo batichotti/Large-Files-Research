@@ -1,0 +1,1484 @@
+project,language,filename,blank,comment,code
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\catch2\include\catch2\catch.hpp,3131,1063.0,13605.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\obj_mac.h,968,59.0,3113.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\stack_macros.h,961,61.0,2982.0
+openpilot,C,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\acados_solver.in.c,267,162.0,2062.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\libyuv\include\libyuv\row.h,95,61.0,1807.0
+openpilot,Python,D:\clones\openpilot\pyextra\acados_template\acados_ocp.py,397,666.0,1779.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\toyota\values.py,19,7.0,1701.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\ssl.h,429,937.0,1593.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\honda\values.py,20,11.0,1346.0
+openpilot,C++,D:\clones\openpilot\selfdrive\controls\lib\cluster\fastcluster_dm.cpp,201,356.0,1237.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\opencl\include\CL\cl.h,179,100.0,1173.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\curl\include\curl\curl.h,415,851.0,1110.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\opencl\include\CL\cl_platform.h,112,111.0,1110.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\qpOASES_e\QProblem.h,366,918.0,1085.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\hyundai\values.py,17,11.0,1063.0
+openpilot,Python,D:\clones\openpilot\pyextra\acados_template\acados_ocp_solver.py,290,250.0,1022.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\openmax\include\OMX_QCOMExtns.h,284,589.0,1015.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_d_kernel.h,71,180.0,996.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\x509.h,190,147.0,980.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\asn1.h,177,199.0,858.0
+openpilot,C++,D:\clones\openpilot\selfdrive\camerad\cameras\camera_qcom.cc,164,156.0,844.0
+openpilot,C++,D:\clones\openpilot\selfdrive\camerad\cameras\camera_qcom2.cc,176,102.0,833.0
+openpilot,JSON,D:\clones\openpilot\pyextra\acados_template\acados_layout.json,0,0.0,778.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\volkswagen\values.py,14,15.0,759.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\openmax\include\OMX_Audio.h,162,395.0,755.0
+openpilot,Python,D:\clones\openpilot\selfdrive\locationd\test\ublox.py,99,86.0,752.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\modeld\thneed\include\msm_kgsl.h,191,531.0,727.0
+openpilot,Markdown,D:\clones\openpilot\RELEASES.md,82,0.0,716.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\include\msm_cam_sensor.h,113,6.0,710.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\include\msmb_isp.h,121,62.0,697.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\qpOASES_e\QProblemB.h,262,691.0,688.0
+openpilot,C++,D:\clones\openpilot\third_party\qrcode\QrCode.cc,144,67.0,651.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\x509v3.h,132,101.0,622.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\lib\events.py,156,69.0,610.0
+openpilot,Python,D:\clones\openpilot\selfdrive\athena\athenad.py,135,17.0,576.0
+openpilot,C,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\acados_solver_sfun.in.c,118,92.0,551.0
+openpilot,C++,D:\clones\openpilot\third_party\json11\json11.cpp,109,124.0,551.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\controlsd.py,133,74.0,536.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\cameras\sensor_i2c.h,26,95.0,530.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\maps\map.cc,117,21.0,518.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\gps.h,235,1122.0,514.0
+openpilot,C++,D:\clones\openpilot\selfdrive\modeld\thneed\thneed.cc,87,27.0,498.0
+openpilot,C++,D:\clones\openpilot\third_party\kaitai\kaitaistream.cpp,115,85.0,489.0
+openpilot,C++,D:\clones\openpilot\selfdrive\boardd\boardd.cc,116,52.0,487.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_s_kernel.h,80,129.0,483.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\asn1t.h,175,253.0,479.0
+openpilot,C,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\acados_mex_set.in.c,36,64.0,470.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\openmax\include\OMX_Video.h,84,528.0,470.0
+openpilot,C++,D:\clones\openpilot\selfdrive\loggerd\omx_encoder.cc,121,56.0,468.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\curl\include\curl\typecheck-gcc.h,51,108.0,453.0
+openpilot,Python,D:\clones\openpilot\selfdrive\locationd\models\loc_kf.py,73,46.0,435.0
+openpilot,Python,D:\clones\openpilot\tools\lib\framereader.py,136,10.0,435.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\libyuv\include\libyuv\scale_row.h,38,39.0,426.0
+openpilot,C++,D:\clones\openpilot\selfdrive\locationd\locationd.cc,89,28.0,421.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\openmax\include\OMX_IVCommon.h,90,426.0,417.0
+openpilot,Python,D:\clones\openpilot\selfdrive\test\process_replay\process_replay.py,83,14.0,397.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\x509_vfy.h,92,123.0,397.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\input.h,47,107.0,395.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\offroad\wifiManager.cc,71,5.0,394.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\offroad\settings.cc,60,11.0,388.0
+openpilot,C++,D:\clones\openpilot\selfdrive\camerad\cameras\camera_common.cc,80,9.0,386.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\RefBase.h,107,68.0,380.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\loggerd\include\msm_media_info.h,64,381.0,374.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\tls1.h,88,252.0,374.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\subaru\values.py,7,0.0,373.0
+openpilot,C++,D:\clones\openpilot\selfdrive\boardd\panda.cc,86,11.0,365.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\log\log.h,91,192.0,359.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\pem.h,112,75.0,358.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\openmax\include\OMX_Core.h,197,887.0,356.0
+openpilot,C,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\acados_sim_solver.in.c,73,60.0,355.0
+openpilot,Python,D:\clones\openpilot\tools\sim\bridge.py,83,32.0,354.0
+openpilot,Python,D:\clones\openpilot\selfdrive\thermald\thermald.py,103,27.0,350.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\locationd\generated\ubx.h,61,1.0,348.0
+openpilot,Python,D:\clones\openpilot\selfdrive\hardware\eon\hardware.py,61,14.0,346.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\ssl3.h,89,247.0,345.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\replay\replay.cc,48,15.0,342.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\keymaster_defs.h,57,140.0,342.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\setup\setup.cc,76,13.0,341.0
+openpilot,YAML,D:\clones\openpilot\.github\workflows\selfdrive_tests.yaml,16,78.0,337.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\libyuv\include\libyuv\planar_functions.h,74,118.0,337.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\honda\interface.py,61,43.0,335.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\include\msm_camsensor_sdk.h,49,12.0,325.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\bt_rc.h,96,110.0,321.0
+openpilot,Python,D:\clones\openpilot\selfdrive\updated.py,99,58.0,316.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\system\window.h,96,542.0,316.0
+openpilot,Python,D:\clones\openpilot\selfdrive\hardware\tici\hardware.py,77,20.0,313.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\include\media\cam_sensor_cmn_header.h,49,30.0,312.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\bio.h,157,442.0,311.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\hyundai\interface.py,35,16.0,308.0
+openpilot,Python,D:\clones\openpilot\selfdrive\athena\tests\test_athenad.py,76,13.0,305.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\replay\consoleui.cc,42,8.0,303.0
+openpilot,C++,D:\clones\openpilot\selfdrive\locationd\generated\ubx.cpp,37,1.0,302.0
+openpilot,Python,D:\clones\openpilot\pyextra\acados_template\utils.py,88,63.0,301.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\onroad.cc,64,26.0,301.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\qpOASES_e\MessageHandling.h,83,161.0,300.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\evp.h,131,396.0,299.0
+openpilot,C++,D:\clones\openpilot\selfdrive\modeld\models\driving.cc,48,10.0,297.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\openmax\include\OMX_Component.h,65,220.0,294.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\Parcel.h,77,66.0,293.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\fw_versions.py,74,29.0,292.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\honda\carstate.py,51,16.0,289.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\nissan\carstate.py,54,7.0,289.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\locationd\generated\gps.h,70,1.0,288.0
+openpilot,C++,D:\clones\openpilot\selfdrive\locationd\ublox_msg.cc,46,14.0,285.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\android\keycodes.h,11,456.0,285.0
+openpilot,C++,D:\clones\openpilot\selfdrive\locationd\generated\gps.cpp,44,1.0,280.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\widgets\cameraview.cc,46,9.0,277.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\navd\route_engine.cc,74,10.0,275.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\ui.cc,51,12.0,275.0
+openpilot,C,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\acados_mex_create.in.c,51,59.0,273.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\lib\longitudinal_mpc_lib\long_mpc.py,69,40.0,273.0
+openpilot,XML,D:\clones\openpilot\tools\plotjuggler\layouts\tuning.xml,13,5.0,273.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_block_size.h,43,82.0,267.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\replay\util.cc,52,2.0,266.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\android\input.h,146,905.0,266.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\sensors.h,132,699.0,265.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\offroad\networking.cc,47,19.0,264.0
+openpilot,Python,D:\clones\openpilot\pyextra\acados_template\acados_ocp_solver_fast.py,77,63.0,262.0
+openpilot,C++,D:\clones\openpilot\selfdrive\boardd\pigeon.cc,58,17.0,258.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\mazda\values.py,16,2.0,256.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\ui\mat4.h,60,80.0,255.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\bn.h,156,464.0,255.0
+openpilot,MATLAB,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\make_sfun.in.m,47,34.0,254.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\bluetooth.h,98,247.0,250.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\widgets\prime.cc,70,10.0,248.0
+openpilot,Python,D:\clones\openpilot\pyextra\acados_template\acados_sim_solver.py,83,75.0,246.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\qpOASES_e\Utils.h,89,165.0,246.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\include\media\cam_defs.h,34,199.0,244.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\bt_gatt_client.h,88,123.0,244.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\Vector.h,87,94.0,242.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\modeld\models\driving.h,36,2.0,239.0
+openpilot,Python,D:\clones\openpilot\selfdrive\test\test_onroad.py,41,11.0,237.0
+openpilot,OpenCL,D:\clones\openpilot\selfdrive\modeld\thneed\kernels\convolution_.cl,25,11.0,236.0
+openpilot,C,D:\clones\openpilot\tools\lib\vidindex\vidindex.c,55,16.0,236.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\audio.h,112,353.0,235.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\cipher.h,117,249.0,232.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\String8.h,78,100.0,230.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\hyundai\carstate.py,41,9.0,229.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\maps\map_settings.cc,56,9.0,229.0
+openpilot,C++,D:\clones\openpilot\selfdrive\common\params.cc,35,18.0,228.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\audio_effect.h,77,711.0,226.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\ui\TVecHelpers.h,36,120.0,225.0
+openpilot,Python,D:\clones\openpilot\selfdrive\manager\process.py,63,21.0,222.0
+openpilot,Python,D:\clones\openpilot\selfdrive\monitoring\driver_monitor.py,43,23.0,220.0
+openpilot,Python,D:\clones\openpilot\selfdrive\test\process_replay\regen.py,52,9.0,219.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\qpOASES_e\Bounds.h,113,212.0,218.0
+openpilot,C++,D:\clones\openpilot\selfdrive\loggerd\logger.cc,46,6.0,217.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\toyota\interface.py,46,20.0,214.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\volkswagen\carstate.py,28,40.0,214.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\qpOASES_e\Constraints.h,114,207.0,214.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\TypeHelpers.h,42,46.0,214.0
+openpilot,C++,D:\clones\openpilot\selfdrive\loggerd\loggerd.cc,38,18.0,213.0
+openpilot,C++,D:\clones\openpilot\selfdrive\modeld\thneed\serialize.cc,36,9.0,213.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\widgets\input.cc,43,6.0,210.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\replay\framereader.cc,34,3.0,209.0
+openpilot,Python,D:\clones\openpilot\selfdrive\loggerd\uploader.py,53,4.0,208.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\libgralloc\include\gralloc_priv.h,34,54.0,208.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\include\media\cam_req_mgr.h,43,186.0,207.0
+openpilot,C++,D:\clones\openpilot\selfdrive\proclogd\proclog.cc,23,9.0,207.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\rsa.h,90,278.0,207.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\mapbox-gl-native-qt\include\qmapboxgl.hpp,64,6.0,207.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\interfaces.py,49,18.0,206.0
+openpilot,C++,D:\clones\openpilot\selfdrive\modeld\runners\snpemodel.cc,28,8.0,206.0
+openpilot,Python,D:\clones\openpilot\tools\replay\lib\ui_helpers.py,50,4.0,206.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\hdmi_cec.h,48,177.0,204.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\catch2\include\catch2\catch_reporter_tap.hpp,37,14.0,203.0
+openpilot,Python,D:\clones\openpilot\pyextra\acados_template\acados_sim.py,51,78.0,201.0
+openpilot,Python,D:\clones\openpilot\selfdrive\loggerd\tests\test_loggerd.py,56,15.0,201.0
+openpilot,C++,D:\clones\openpilot\selfdrive\modeld\thneed\optimizer.cc,39,26.0,201.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\bt_hf_client.h,67,107.0,201.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\libyuv\include\libyuv\convert_argb.h,45,73.0,201.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\SnpeUdo\UdoBase.h,33,249.0,201.0
+openpilot,Python,D:\clones\openpilot\selfdrive\test\test_updated.py,62,38.0,200.0
+openpilot,C++,D:\clones\openpilot\selfdrive\common\util.cc,37,8.0,199.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\List.h,39,94.0,199.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\subaru\carstate.py,30,4.0,198.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_nlp\ocp_nlp_common.h,80,157.0,197.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\ec.h,65,172.0,196.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\bzip2\bzlib.h,56,31.0,195.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\include\media\cam_sensor.h,31,252.0,194.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\LruCache.h,35,21.0,194.0
+openpilot,Python,D:\clones\openpilot\selfdrive\thermald\tests\test_power_monitoring.py,21,14.0,188.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\sim\sim_gnsf.h,85,95.0,187.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\audio_policy.h,81,189.0,187.0
+openpilot,Python,D:\clones\openpilot\common\logging_extra.py,35,14.0,186.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\replay\tests\test_replay.cc,24,6.0,185.0
+openpilot,Python,D:\clones\openpilot\selfdrive\hardware\tici\agnos.py,63,8.0,183.0
+openpilot,C++,D:\clones\openpilot\selfdrive\modeld\models\dmonitoring.cc,25,21.0,183.0
+openpilot,C++,D:\clones\openpilot\selfdrive\sensord\sensors_qcom.cc,37,9.0,182.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\fused_location.h,100,543.0,182.0
+openpilot,C++,D:\clones\openpilot\selfdrive\sensord\sensors\bmx055_magn.cc,50,20.0,180.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\honda\carcontroller.py,53,33.0,178.0
+openpilot,Python,D:\clones\openpilot\selfdrive\test\test_routes.py,14,6.0,178.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\opencl\include\CL\cl_ext.h,79,134.0,178.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\openmax\include\OMX_Index.h,24,57.0,178.0
+openpilot,Python,D:\clones\openpilot\tools\lib\route.py,42,3.0,178.0
+openpilot,Markdown,D:\clones\openpilot\docs\CARS.md,8,0.0,177.0
+openpilot,Cython,D:\clones\openpilot\pyextra\acados_template\acados_ocp_solver_pyx.pyx,102,149.0,177.0
+openpilot,Python,D:\clones\openpilot\selfdrive\locationd\models\live_kf.py,41,24.0,177.0
+openpilot,Python,D:\clones\openpilot\selfdrive\test\test_models.py,46,20.0,177.0
+openpilot,C++,D:\clones\openpilot\selfdrive\common\clutil.cc,15,2.0,176.0
+openpilot,Python,D:\clones\openpilot\tools\replay\ui.py,49,8.0,176.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\gm\interface.py,38,22.0,175.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\installer\installer.cc,46,9.0,174.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\bt_hf.h,66,108.0,174.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\BasicHashtable.h,56,172.0,174.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\offroad\onboarding.cc,38,2.0,173.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\libyuv\include\libyuv\convert.h,31,55.0,173.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\toyota\carstate.py,35,17.0,172.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\include\media\cam_isp.h,30,179.0,170.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\err.h,66,273.0,170.0
+openpilot,Python,D:\clones\openpilot\selfdrive\locationd\calibrationd.py,50,13.0,169.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\catch2\include\catch2\catch_reporter_teamcity.hpp,34,16.0,169.0
+openpilot,Python,D:\clones\openpilot\selfdrive\boardd\tests\boardd_old.py,44,35.0,166.0
+openpilot,C++,D:\clones\openpilot\selfdrive\modeld\test\snpe_benchmark\benchmark.cc,22,3.0,166.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\setup\updater.cc,29,4.0,166.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\system\radio.h,29,52.0,166.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\radard.py,55,26.0,165.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\String16.h,56,30.0,164.0
+openpilot,Python,D:\clones\openpilot\selfdrive\locationd\paramsd.py,39,12.0,163.0
+openpilot,C++,D:\clones\openpilot\selfdrive\modeld\modeld.cc,41,20.0,163.0
+openpilot,Python,D:\clones\openpilot\selfdrive\manager\manager.py,54,17.0,162.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\ssl2.h,30,76.0,162.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\volkswagen\interface.py,48,12.0,161.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_d_blasfeo_api.h,37,145.0,160.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\SortedVector.h,62,60.0,160.0
+openpilot,Python,D:\clones\openpilot\selfdrive\test\process_replay\model_replay.py,41,8.0,159.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\DlError.hpp,34,54.0,159.0
+openpilot,OpenCL,D:\clones\openpilot\selfdrive\camerad\cameras\real_debayer.cl,25,24.0,158.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\mazda\carstate.py,32,16.0,157.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\maps\map_helpers.cc,50,6.0,157.0
+openpilot,Python,D:\clones\openpilot\tools\lib\url_file.py,33,8.0,157.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\navd\map_renderer.cc,42,2.0,156.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_dense_qp_ipm.h,26,78.0,156.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_dense_qp_ipm.h,26,78.0,156.0
+openpilot,C++,D:\clones\openpilot\selfdrive\camerad\transforms\rgb_to_yuv_test.cc,29,7.0,155.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_common.h,41,40.0,155.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\BitSet.h,74,66.0,154.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\common\util.h,30,7.0,153.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\base.h,27,53.0,153.0
+openpilot,Python,D:\clones\openpilot\selfdrive\tombstoned.py,51,11.0,152.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\test_fw_query_on_routes.py,37,5.0,151.0
+openpilot,Python,D:\clones\openpilot\selfdrive\monitoring\test_monitoring.py,23,25.0,151.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\ui\TMatHelpers.h,39,67.0,151.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\camera2.h,56,633.0,150.0
+openpilot,Python,D:\clones\openpilot\tools\sim\lib\manual_ctrl.py,26,13.0,149.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\camera3.h,128,2801.0,148.0
+openpilot,Python,D:\clones\openpilot\selfdrive\test\process_replay\test_fuzzy.py,27,1.0,147.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\IUserBuffer.hpp,72,202.0,147.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\StrongPointer.h,39,26.0,146.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\DlOptional.hpp,38,41.0,146.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\widgets\controls.h,39,4.0,144.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\include\msmb_camera.h,33,44.0,143.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\tesla\carstate.py,24,18.0,143.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\android\configuration.h,76,490.0,142.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_ocp_qp_ipm.h,24,85.0,141.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_ocp_qp_ipm.h,24,85.0,141.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\android\sensor.h,55,280.0,140.0
+openpilot,C++,D:\clones\openpilot\selfdrive\camerad\cameras\camera_webcam.cc,39,19.0,139.0
+openpilot,C++,D:\clones\openpilot\selfdrive\loggerd\raw_logger.cc,41,9.0,139.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\ui.h,37,9.0,139.0
+openpilot,C/C++ Header,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\acados_solver.in.h,20,48.0,138.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\honda\hondacan.py,26,10.0,138.0
+openpilot,Python,D:\clones\openpilot\selfdrive\test\process_replay\test_processes.py,36,7.0,138.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\log\logger.h,22,36.0,138.0
+openpilot,Cython,D:\clones\openpilot\common\transformations\transformations.pyx,35,2.0,137.0
+openpilot,C,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\main.in.c,30,48.0,137.0
+openpilot,C/C++ Header,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\model.in.h,26,46.0,137.0
+openpilot,Python,D:\clones\openpilot\selfdrive\thermald\power_monitoring.py,28,27.0,137.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\home.cc,34,8.0,137.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\Looper.h,65,285.0,137.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\openmax\include\OMX_Types.h,64,158.0,137.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\qpOASES_e\Matrices.h,50,101.0,136.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\ui\Region.h,48,40.0,135.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\hwcomposer.h,69,629.0,135.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\utils\external_function_generic.h,24,87.0,134.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\TextOutput.h,38,23.0,134.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\libyuv\include\libyuv\convert_from.h,27,18.0,134.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\widgets\keyboard.cc,23,4.0,133.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\Surface.h,53,138.0,133.0
+openpilot,Python,D:\clones\openpilot\selfdrive\locationd\models\gnss_kf.py,35,16.0,132.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_ocp_qp.h,22,152.0,132.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_ocp_qp.h,22,152.0,132.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\log\log_read.h,16,22.0,132.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\qpOASES_e\Types.h,71,108.0,131.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\car_helpers.py,39,14.0,130.0
+openpilot,C++,D:\clones\openpilot\selfdrive\proclogd\tests\test_proclog.cc,12,3.0,130.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_ocp_qcqp.h,23,150.0,130.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_ocp_qcqp.h,23,150.0,130.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\catch2\include\catch2\catch_reporter_sonarqube.hpp,36,15.0,130.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\curl\include\curl\multi.h,55,219.0,130.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\ITensorItr.hpp,22,30.0,130.0
+openpilot,Python,D:\clones\openpilot\selfdrive\test\longitudinal_maneuvers\test_longitudinal.py,12,2.0,129.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\SurfaceComposerClient.h,48,65.0,129.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\json11\json11.hpp,28,75.0,129.0
+openpilot,C++,D:\clones\openpilot\selfdrive\common\tests\test_util.cc,17,0.0,128.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\lib\lateral_mpc_lib\lat_mpc.py,35,14.0,128.0
+openpilot,Python,D:\clones\openpilot\selfdrive\locationd\test\test_locationd.py,38,4.0,128.0
+openpilot,C++,D:\clones\openpilot\selfdrive\loggerd\tests\test_logger.cc,14,4.0,128.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\KeyedVector.h,47,49.0,128.0
+openpilot,Python,D:\clones\openpilot\tools\plotjuggler\juggle.py,32,1.0,128.0
+openpilot,Python,D:\clones\openpilot\selfdrive\locationd\models\car_kf.py,38,14.0,127.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\ui\Rect.h,37,33.0,127.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\IGraphicBufferProducer.h,35,341.0,126.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\openmax\include\OMX_Other.h,32,179.0,126.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\libyuv\include\libyuv\video_common.h,21,38.0,125.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\opencl\include\CL\cl_ext_qcom.h,64,66.0,125.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\libyuv\include\libyuv\convert_from_argb.h,29,37.0,124.0
+openpilot,Python,D:\clones\openpilot\selfdrive\loggerd\tests\test_encoder.py,36,13.0,122.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\chrysler\carstate.py,22,4.0,121.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\qpOASES_e\extras\OQPinterface.h,38,68.0,121.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\system\camera.h,34,210.0,121.0
+openpilot,Python,D:\clones\openpilot\common\transformations\model.py,46,12.0,120.0
+openpilot,OpenCL,D:\clones\openpilot\selfdrive\camerad\transforms\rgb_to_yuv.cl,5,2.0,120.0
+openpilot,C++,D:\clones\openpilot\selfdrive\controls\lib\cluster\fastcluster.cpp,23,75.0,120.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\GLConsumer.h,83,285.0,120.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\openmax\include\OMX_Image.h,29,179.0,120.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\api.cc,24,0.0,119.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\loggerd\loggerd.h,12,1.0,118.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados_c\ocp_nlp_interface.h,84,201.0,118.0
+openpilot,Python,D:\clones\openpilot\selfdrive\loggerd\tests\test_uploader.py,39,4.0,117.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\internal\run_paramsd_on_route.py,31,3.0,116.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_nlp\ocp_nlp_constraints_bgh.h,35,90.0,116.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\trace.h,26,110.0,116.0
+openpilot,C,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\acados_sim_solver_sfun.in.c,56,62.0,115.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\replay\route.cc,16,3.0,115.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_tree_ocp_qp_ipm.h,24,69.0,115.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\keymaster1.h,40,442.0,115.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\Flattenable.h,30,53.0,115.0
+openpilot,Python,D:\clones\openpilot\common\transformations\camera.py,40,25.0,114.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\isotp_parallel_query.py,28,6.0,114.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\lib\radar_helpers.py,32,11.0,114.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\vw_mqb_config.py,16,15.0,114.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_nlp\ocp_nlp_constraints_bgp.h,29,78.0,114.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_tree_ocp_qp_ipm.h,26,69.0,114.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\hyundai\hyundaican.py,26,18.0,113.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\toyota\tunes.py,9,4.0,113.0
+openpilot,Python,D:\clones\openpilot\selfdrive\hardware\base.py,35,0.0,113.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\ui\GraphicBuffer.h,40,30.0,113.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\tv_input.h,52,243.0,113.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\gm\carstate.py,22,5.0,112.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\gralloc.h,58,231.0,112.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\linux\include\msm_ion.h,29,70.0,112.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\mapbox-gl-native-qt\include\qmapbox.hpp,29,6.0,112.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\nissan\values.py,7,3.0,111.0
+openpilot,C,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\main_mex.in.c,26,48.0,110.0
+openpilot,C++,D:\clones\openpilot\selfdrive\modeld\runners\onnxmodel.cc,19,3.0,110.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\modeld\thneed\thneed.h,21,4.0,110.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\util.cc,21,0.0,110.0
+openpilot,Bourne Shell,D:\clones\openpilot\tools\ubuntu_setup.sh,13,6.0,110.0
+openpilot,C++,D:\clones\openpilot\selfdrive\boardd\tests\test_boardd_usbprotocol.cc,19,2.0,109.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\include\msmb_ispif.h,16,0.0,109.0
+openpilot,Python,D:\clones\openpilot\selfdrive\test\longitudinal_maneuvers\plant.py,25,10.0,109.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\mui.cc,26,3.0,109.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\widgets\controls.cc,22,6.0,109.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\sim\sim_common.h,50,63.0,109.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_s_blasfeo_api.h,36,127.0,109.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\kaitai\exceptions.h,36,44.0,109.0
+openpilot,Python,D:\clones\openpilot\pyextra\acados_template\generate_c_code_constraint.py,31,42.0,107.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\openmax\include\OMX_VideoExt.h,17,42.0,107.0
+openpilot,Markdown,D:\clones\openpilot\README.md,36,0.0,106.0
+openpilot,Bourne Shell,D:\clones\openpilot\launch_chffrplus.sh,41,48.0,106.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\cameras\camera_common.h,27,6.0,106.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\tests\test_clustering.py,32,2.0,106.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\offroad\onboarding.h,26,1.0,106.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\dsa.h,69,204.0,106.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\opencl\include\CL\cl_gl.h,27,34.0,106.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\openmax\include\OMX_Skype_VideoExtensions.h,29,20.0,106.0
+openpilot,MATLAB,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\mex_solver.in.m,21,41.0,104.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\subaru\interface.py,22,5.0,103.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\VectorImpl.h,38,42.0,103.0
+openpilot,Python,D:\clones\openpilot\selfdrive\athena\tests\helpers.py,27,0.0,102.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\AppOpsManager.h,12,17.0,101.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\qrcode\QrCode.hpp,180,275.0,101.0
+openpilot,Markdown,D:\clones\openpilot\models\README.md,9,0.0,100.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\widgets\offroad_alerts.cc,15,3.0,100.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\qemud.h,19,34.0,100.0
+openpilot,Python,D:\clones\openpilot\tools\lib\auth.py,31,14.0,100.0
+openpilot,C,D:\clones\openpilot\tools\lib\vidindex\bitstream.c,12,6.0,100.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\maps\map.h,27,2.0,99.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\spinner.cc,18,2.0,99.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_d_blasfeo_ref_api.h,34,138.0,99.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_dense_qcqp_ipm.h,26,79.0,99.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\IInterface.h,27,24.0,99.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\gm\gmcan.py,20,7.0,98.0
+openpilot,Python,D:\clones\openpilot\selfdrive\hardware\eon\test_neos_updater.py,28,19.0,98.0
+openpilot,C++,D:\clones\openpilot\selfdrive\locationd\models\live_kf.cc,23,1.0,98.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados_c\ocp_qp_interface.h,47,116.0,98.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\Condition.h,15,45.0,98.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_dense_qcqp_ipm.h,25,71.0,97.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\atomic.h,19,121.0,97.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\gm\values.py,12,15.0,96.0
+openpilot,Python,D:\clones\openpilot\selfdrive\version.py,39,4.0,96.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\ISurfaceComposer.h,35,70.0,96.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\libyuv\include\libyuv\basic_types.h,10,12.0,96.0
+openpilot,XML,D:\clones\openpilot\tools\plotjuggler\layouts\demo.xml,3,5.0,96.0
+openpilot,C++,D:\clones\openpilot\common\transformations\orientation.cc,36,13.0,95.0
+openpilot,OpenCL,D:\clones\openpilot\selfdrive\camerad\cameras\debayer.cl,24,21.0,95.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\lib\lateral_planner.py,20,8.0,95.0
+openpilot,Python,D:\clones\openpilot\selfdrive\hardware\eon\neos.py,31,4.0,95.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\setup\reset.cc,17,4.0,95.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_ocp_qcqp_ipm.h,24,71.0,95.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_ocp_qcqp_ipm.h,25,71.0,95.0
+openpilot,Python,D:\clones\openpilot\selfdrive\statsd.py,23,9.0,94.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\hwcomposer_defs.h,39,130.0,94.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\cpu_usage_stat.py,12,18.0,93.0
+openpilot,Python,D:\clones\openpilot\selfdrive\swaglog.py,22,7.0,93.0
+openpilot,Python,D:\clones\openpilot\selfdrive\test\test_valgrind_replay.py,23,2.0,92.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\replay\replay.h,16,4.0,92.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\bt_hh.h,41,58.0,92.0
+openpilot,CMake,D:\clones\openpilot\third_party\curl\include\curl\curlbuild.h.cmake,33,72.0,92.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\libyuv\include\libyuv\mjpeg_decoder.h,45,55.0,92.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\libyuv\include\libyuv\rotate_row.h,16,13.0,92.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\SnpeUdo\UdoImpl.h,34,197.0,92.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\cameras\sensor2_i2c.h,21,12.0,91.0
+openpilot,Python,D:\clones\openpilot\selfdrive\camerad\snapshot\snapshot.py,28,5.0,91.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\locationd\ublox_msg.h,19,1.0,91.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_nlp\ocp_nlp_cost_ls.h,52,116.0,91.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_tree_ocp_qcqp_ipm.h,25,75.0,91.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_tree_ocp_qcqp_ipm.h,26,75.0,91.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\bt_gatt_server.h,41,64.0,91.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\lhash_macros.h,25,16.0,91.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\curl\include\curl\curlrules.h,36,121.0,91.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\tests\test_alerts.py,25,10.0,90.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\tests\test_startup.py,22,9.0,90.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_qp\ocp_qp_ooqp.h,12,44.0,90.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\threads.h,29,29.0,90.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\Mutex.h,24,43.0,90.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\openmax\include\OMX_ContentPipe.h,25,80.0,90.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\toyota\carcontroller.py,24,27.0,89.0
+openpilot,Python,D:\clones\openpilot\selfdrive\pandad.py,33,12.0,89.0
+openpilot,C++,D:\clones\openpilot\selfdrive\sensord\sensors_qcom2.cc,24,3.0,89.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\sidebar.cc,23,3.0,89.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_nlp\ocp_nlp_dynamics_cont.h,39,88.0,89.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_qp\ocp_qp_common.h,30,63.0,89.0
+openpilot,OpenCL,D:\clones\openpilot\selfdrive\camerad\imgproc\conv.cl,12,10.0,88.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\include\media\cam_icp.h,19,72.0,88.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\offroad\wifiManager.h,13,1.0,88.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\dh.h,59,127.0,88.0
+openpilot,Python,D:\clones\openpilot\common\transformations\tests\test_coordinates.py,21,1.0,87.0
+openpilot,Python,D:\clones\openpilot\docs\conf.py,27,32.0,87.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\hyundai\carcontroller.py,28,10.0,87.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\lib\drive_helpers.py,27,10.0,87.0
+openpilot,Python,D:\clones\openpilot\selfdrive\hardware\tici\amplifier.py,16,1.0,87.0
+openpilot,C,D:\clones\openpilot\selfdrive\modeld\visiontest.c,23,1.0,87.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_d_aux.h,41,111.0,87.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\BufferQueueCore.h,60,140.0,87.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\camera.h,39,172.0,87.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\bytestring.h,59,179.0,87.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\UDLContext.hpp,21,136.0,87.0
+openpilot,Python,D:\clones\openpilot\pyextra\acados_template\acados_model.py,8,66.0,86.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\lib\longitudinal_planner.py,33,12.0,86.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\internal\test_paramsd.py,43,4.0,86.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_dense_qp.h,25,96.0,86.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_tree_ocp_qcqp.h,21,106.0,86.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_dense_qp.h,25,96.0,86.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\SNPE\PSNPE.hpp,19,89.0,86.0
+openpilot,C++,D:\clones\openpilot\selfdrive\camerad\cameras\camera_replay.cc,23,17.0,85.0
+openpilot,C++,D:\clones\openpilot\selfdrive\camerad\imgproc\utils.cc,16,5.0,85.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\lib\desire_helper.py,19,9.0,85.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\lib\latcontrol_indi.py,28,9.0,85.0
+openpilot,make,D:\clones\openpilot\selfdrive\modeld\visiontest.mk,19,0.0,85.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_s_blasfeo_ref_api.h,33,122.0,85.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_dense_qcqp.h,25,89.0,85.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_dense_qcqp.h,26,89.0,85.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_tree_ocp_qcqp.h,22,106.0,85.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\PlatformConfig.hpp,27,91.0,85.0
+openpilot,Python,D:\clones\openpilot\tools\lib\logreader.py,18,7.0,85.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\boardd\panda.h,13,4.0,84.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_nlp\ocp_nlp_cost_nls.h,33,93.0,84.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_d_aux_ref.h,31,91.0,84.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\bt_sdp.h,26,40.0,84.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\nfc.h,36,182.0,84.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\__init__.py,36,13.0,83.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\toyota\toyotacan.py,13,4.0,83.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\loggerd\logger.h,15,0.0,83.0
+openpilot,Python,D:\clones\openpilot\selfdrive\modeld\visiontest.py,29,23.0,83.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\replay\logreader.cc,17,5.0,83.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\fingerprint.h,28,155.0,83.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\RWLock.h,17,26.0,83.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\pkcs8.h,24,110.0,83.0
+openpilot,C++,D:\clones\openpilot\selfdrive\common\swaglog.cc,17,2.0,82.0
+openpilot,Python,D:\clones\openpilot\selfdrive\test\process_replay\compare_logs.py,23,2.0,82.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\window.cc,14,3.0,82.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\BpBinder.h,25,17.0,82.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\IPCThreadState.h,28,25.0,82.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\lib\lane_planner.py,15,9.0,81.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\hyundai_enable_radar_points.py,14,19.0,81.0
+openpilot,Python,D:\clones\openpilot\selfdrive\manager\build.py,15,6.0,81.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_d_blasfeo_api_ref.h,23,43.0,81.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_s_aux.h,24,61.0,81.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\qpOASES_e\Indexlist.h,48,92.0,81.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\curl\include\curl\curlbuild.h,32,82.0,81.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\SnpeUdo\UdoImplDsp.h,26,80.0,81.0
+openpilot,Python,D:\clones\openpilot\tools\replay\can_replay.py,20,5.0,81.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\mazda\mazdacan.py,31,8.0,80.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\tesla\radar_interface.py,20,11.0,80.0
+openpilot,Python,D:\clones\openpilot\selfdrive\loggerd\tests\loggerd_tests_common.py,22,0.0,80.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\onroad.h,20,3.0,80.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_nlp\ocp_nlp_cost_external.h,28,79.0,80.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\sim\sim_irk_integrator.h,39,67.0,80.0
+openpilot,Python,D:\clones\openpilot\tools\joystick\joystickd.py,16,0.0,80.0
+openpilot,Bourne Shell,D:\clones\openpilot\tools\mac_setup.sh,11,5.0,80.0
+openpilot,Bourne Shell,D:\clones\openpilot\release\build_release.sh,24,15.0,79.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\cameras\camera_qcom.h,25,2.0,79.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\gm\carcontroller.py,23,15.0,79.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\volkswagen\carcontroller.py,20,17.0,79.0
+openpilot,C++,D:\clones\openpilot\selfdrive\common\tests\test_swaglog.cc,15,0.0,79.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\lib\longcontrol.py,28,12.0,79.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\offroad\driverview.cc,18,4.0,79.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_s_aux_ref.h,18,48.0,79.0
+openpilot,Python,D:\clones\openpilot\tools\replay\unlog_ci_segment.py,26,4.0,79.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\live_cpu_and_temp.py,27,0.0,78.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\widgets\drive_stats.cc,19,0.0,78.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_nlp\ocp_nlp_dynamics_disc.h,36,85.0,78.0
+openpilot,Python,D:\clones\openpilot\tools\sim\lib\can.py,18,3.0,78.0
+openpilot,Python,D:\clones\openpilot\common\file_helpers.py,25,11.0,77.0
+openpilot,C++,D:\clones\openpilot\common\transformations\coordinates.cc,23,2.0,77.0
+openpilot,Python,D:\clones\openpilot\selfdrive\athena\registration.py,20,2.0,77.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\toyota\radar_interface.py,22,4.0,77.0
+openpilot,Python,D:\clones\openpilot\selfdrive\locationd\models\constants.py,8,0.0,77.0
+openpilot,Python,D:\clones\openpilot\selfdrive\test\profiling\profiler.py,17,3.0,77.0
+openpilot,Cython,D:\clones\openpilot\common\params_pyx.pyx,19,10.0,76.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\gm\radar_interface.py,20,7.0,76.0
+openpilot,Python,D:\clones\openpilot\selfdrive\loggerd\tests\test_deleter.py,29,0.0,76.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_tree_ocp_qp.h,20,99.0,76.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_tree_ocp_qp.h,21,99.0,76.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\libyuv\include\libyuv\rotate.h,18,23.0,76.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\opencl\include\CL\cl_egl.h,27,33.0,76.0
+openpilot,C,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\main_sim.in.c,21,39.0,75.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\mazda\interface.py,21,6.0,75.0
+openpilot,C++,D:\clones\openpilot\selfdrive\loggerd\tests\test_loggerd.cc,16,2.0,75.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\replay\camera.cc,11,0.0,75.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\Sensor.h,16,22.0,75.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\bt_hd.h,26,28.0,75.0
+openpilot,C,D:\clones\openpilot\scripts\waste.c,10,5.0,74.0
+openpilot,Python,D:\clones\openpilot\selfdrive\hardware\pc\hardware.py,34,0.0,74.0
+openpilot,Python,D:\clones\openpilot\common\tests\test_params.py,21,0.0,73.0
+openpilot,Python,D:\clones\openpilot\selfdrive\boardd\tests\test_boardd_loopback.py,19,3.0,73.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\dense_qp\dense_qp_ooqp.h,12,43.0,73.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\BlobCache.h,47,129.0,73.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\dense_qp\dense_qp_qpoases.h,11,44.0,72.0
+openpilot,C++,D:\clones\openpilot\selfdrive\clocksd\clocksd.cc,17,2.0,71.0
+openpilot,C++,D:\clones\openpilot\selfdrive\controls\lib\cluster\fastcluster_R_dm.cpp,12,32.0,71.0
+openpilot,C++,D:\clones\openpilot\selfdrive\modeld\transforms\transform.cc,20,4.0,71.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\common\mat.h,12,3.0,70.0
+openpilot,Python,D:\clones\openpilot\selfdrive\hardware\eon\androidd.py,16,5.0,70.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\offroad\settings.h,18,1.0,70.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_qp\ocp_qp_common_frontend.h,10,41.0,70.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_s_blasfeo_api_ref.h,22,43.0,70.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\camera_common.h,46,800.0,70.0
+openpilot,Python,D:\clones\openpilot\pyextra\acados_template\generate_c_code_gnsf.py,21,41.0,69.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\honda\radar_interface.py,15,4.0,69.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\hyundai\radar_interface.py,22,0.0,69.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\dense_qp\dense_qp_qore.h,10,48.0,69.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\aead.h,49,197.0,69.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\ec_key.h,60,157.0,69.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\kaitai\kaitaistream.h,54,145.0,69.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\opencl\include\CL\cl_dx9_media_sharing.h,24,39.0,69.0
+openpilot,Python,D:\clones\openpilot\pyextra\acados_template\generate_c_code_implicit_ode.py,29,42.0,68.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\filter_log_message.py,17,0.0,68.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\widgets\toggle.cc,11,4.0,68.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\dense_qp\dense_qp_common.h,21,61.0,68.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\ui\vec4.h,24,26.0,68.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\system\graphics.h,48,647.0,68.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\opencl\include\CL\cl_d3d10.h,24,39.0,68.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\opencl\include\CL\cl_d3d11.h,24,39.0,68.0
+openpilot,Python,D:\clones\openpilot\selfdrive\test\profiling\lib.py,21,2.0,67.0
+openpilot,Python,D:\clones\openpilot\selfdrive\timezoned.py,18,4.0,67.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_nlp\ocp_nlp_sqp.h,34,70.0,67.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_qp\ocp_qp_xcond_solver.h,30,54.0,67.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\sim\sim_lifted_irk_integrator.h,36,56.0,67.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\SurfaceControl.h,26,19.0,67.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\sha.h,55,119.0,67.0
+openpilot,SVG,D:\clones\openpilot\selfdrive\assets\navigation\work.svg,0,0.0,66.0
+openpilot,Python,D:\clones\openpilot\selfdrive\athena\tests\test_registration.py,15,6.0,66.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\mock\interface.py,18,7.0,66.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\lib\vehicle_model.py,53,112.0,66.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\tests\test_lateral_mpc.py,19,1.0,66.0
+openpilot,C++,D:\clones\openpilot\selfdrive\modeld\test\dmon_lag\repro.cc,18,17.0,66.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\IMemory.h,20,21.0,66.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\bitops.h,18,36.0,66.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\modes.h,43,114.0,66.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\libyuv\include\libyuv\scale.h,14,23.0,66.0
+openpilot,SVG,D:\clones\openpilot\selfdrive\assets\navigation\home.svg,0,0.0,65.0
+openpilot,Python,D:\clones\openpilot\selfdrive\boardd\tests\replay_many.py,15,3.0,65.0
+openpilot,C++,D:\clones\openpilot\selfdrive\common\i2c.cc,21,1.0,65.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\loggerd\omx_encoder.h,18,2.0,65.0
+openpilot,Python,D:\clones\openpilot\selfdrive\test\test_fingerprints.py,20,12.0,65.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\ProcessState.h,31,20.0,65.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\ConsumerBase.h,39,148.0,65.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\StreamSplitter.h,32,87.0,65.0
+openpilot,Python,D:\clones\openpilot\pyextra\acados_template\generate_c_code_explicit_ode.py,23,37.0,64.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\chrysler\values.py,9,14.0,64.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\dump.py,9,0.0,64.0
+openpilot,Python,D:\clones\openpilot\selfdrive\monitoring\dmonitoringd.py,20,6.0,64.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\tests\test_sound.cc,10,1.0,64.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_nlp\ocp_nlp_sqp_rti.h,37,71.0,64.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_qp\ocp_qp_qpdunes.h,14,43.0,64.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_m_ocp_qp_ipm_hard.h,13,38.0,64.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\Binder.h,23,18.0,64.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\ui\ANativeObjectBase.h,14,24.0,64.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\log\logprint.h,29,68.0,64.0
+openpilot,YAML,D:\clones\openpilot\.github\workflows\tools_tests.yaml,6,2.0,63.0
+openpilot,Python,D:\clones\openpilot\pyextra\acados_template\generate_c_code_external_cost.py,18,35.0,63.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\include\media\cam_sync.h,19,52.0,63.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\lib\latcontrol_lqr.py,19,4.0,63.0
+openpilot,Python,D:\clones\openpilot\selfdrive\test\update_ci_routes.py,15,4.0,63.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\android\native_activity.h,47,230.0,63.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\IBinder.h,26,63.0,63.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\ui\vec3.h,23,27.0,63.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\audio_alsaops.h,8,31.0,63.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\hardware.h,38,137.0,63.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\keymaster_common.h,30,92.0,63.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\digest.h,55,147.0,63.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\DlEnums.hpp,42,97.0,63.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\nissan\interface.py,19,6.0,62.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\cycle_alerts.py,18,7.0,62.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\hardware\eon\hardware.h,10,1.0,62.0
+openpilot,C++,D:\clones\openpilot\selfdrive\modeld\models\commonmodel.cc,13,1.0,62.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_qp\ocp_qp_hpmpc.h,21,46.0,62.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\ford\carcontroller.py,22,3.0,61.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\IGraphicBufferConsumer.h,32,187.0,61.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\bt_hl.h,26,36.0,61.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\AndroidThreads.h,23,41.0,61.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\SNPE\SNPE.hpp,22,161.0,61.0
+openpilot,MATLAB,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\make_mex.in.m,12,38.0,60.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\chrysler\radar_interface.py,15,9.0,60.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\internal\measure_steering_accuracy.py,15,6.0,60.0
+openpilot,C++,D:\clones\openpilot\selfdrive\modeld\runners\thneedmodel.cc,13,0.0,60.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_ocp_qp_dim.h,16,66.0,60.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_ocp_qp_dim.h,15,66.0,60.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\Timers.h,19,29.0,60.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\linux\include\linux\ion.h,0,18.0,60.0
+openpilot,Python,D:\clones\openpilot\tools\sim\lib\keyboard_ctrl.py,8,4.0,60.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\locationd\locationd.h,16,0.0,59.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\soundd\sound.cc,14,8.0,59.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\qpOASES_e\Options.h,32,62.0,59.0
+openpilot,YAML,D:\clones\openpilot\.pre-commit-config.yaml,0,0.0,58.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\offroad\networking.h,18,0.0,58.0
+openpilot,Python,D:\clones\openpilot\selfdrive\ui\tests\test_soundd.py,13,4.0,58.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_cond.h,25,52.0,58.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_cond.h,27,52.0,58.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\radio.h,32,208.0,58.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\Printer.h,23,38.0,58.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\SharedBuffer.h,35,44.0,58.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlContainer\IDlContainer.hpp,25,108.0,58.0
+openpilot,Python,D:\clones\openpilot\pyextra\acados_template\generate_c_code_nls_cost.py,21,35.0,57.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\nissan\carcontroller.py,23,11.0,57.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\subaru\subarucan.py,28,5.0,57.0
+openpilot,C++,D:\clones\openpilot\selfdrive\modeld\test\tf_test\main.cc,10,2.0,57.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\widgets\ssh_keys.cc,8,0.0,57.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\sim\sim_erk_integrator.h,33,53.0,57.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\ui\FramebufferNativeWindow.h,24,21.0,57.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\list.h,16,15.0,57.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\stack.h,45,199.0,57.0
+openpilot,YAML,D:\clones\openpilot\.github\ISSUE_TEMPLATE\car_bug_report.yml,9,0.0,56.0
+openpilot,Python,D:\clones\openpilot\common\realtime.py,19,11.0,56.0
+openpilot,Python,D:\clones\openpilot\common\stat_live.py,12,5.0,56.0
+openpilot,Cython,D:\clones\openpilot\common\transformations\transformations.pxd,15,1.0,56.0
+openpilot,MATLAB,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\make_main_mex.in.m,11,38.0,56.0
+openpilot,SVG,D:\clones\openpilot\selfdrive\assets\images\triangle.svg,0,0.0,56.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\ford\radar_interface.py,14,2.0,56.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\tests\test_car_interfaces.py,13,3.0,56.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\modeld\runners\snpemodel.h,13,5.0,56.0
+openpilot,C++,D:\clones\openpilot\selfdrive\modeld\transforms\loadyuv.cc,16,2.0,56.0
+openpilot,C++,D:\clones\openpilot\selfdrive\sensord\sensors\mmc5603nj_magn.cc,17,4.0,56.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\replay\route.h,12,0.0,56.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\utils\timing.h,29,40.0,56.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_sim_erk.h,14,52.0,56.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\BufferItem.h,27,47.0,56.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\activity_recognition.h,34,133.0,56.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\thread.h,28,89.0,56.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\SNPE\SNPEBuilder.hpp,28,199.0,56.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\tesla\interface.py,15,6.0,55.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\test\setup_device_ci.sh,15,2.0,55.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\text.cc,8,1.0,55.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\widgets\prime.h,18,5.0,55.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_cond_qcqp.h,22,52.0,55.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_core_qp_ipm.h,9,37.0,55.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_cond_qcqp.h,23,52.0,55.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_core_qp_ipm.h,9,37.0,55.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_sim_erk.h,14,52.0,55.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\CpuConsumer.h,24,52.0,55.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\libyuv\include\libyuv\compare_row.h,14,15.0,55.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\SNPE\RuntimeConfigList.hpp,8,22.0,55.0
+openpilot,Markdown,D:\clones\openpilot\common\transformations\README.md,16,0.0,54.0
+openpilot,Python,D:\clones\openpilot\common\window.py,6,1.0,54.0
+openpilot,Python,D:\clones\openpilot\selfdrive\boardd\tests\test_boardd_api.py,16,7.0,54.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\include\media\cam_fd.h,14,59.0,54.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\tesla\values.py,10,3.0,54.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\internal\sensor_test_bootloop.py,11,2.0,54.0
+openpilot,Python,D:\clones\openpilot\selfdrive\locationd\test\ubloxd.py,17,18.0,54.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\widgets\cameraview.h,10,0.0,54.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\widgets\input.h,15,1.0,54.0
+openpilot,Bourne Shell,D:\clones\openpilot\third_party\acados\build.sh,13,8.0,54.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_nlp\ocp_nlp_dynamics_common.h,18,50.0,54.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados_c\sim_interface.h,24,62.0,54.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_target.h,13,6.0,54.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\SensorEventQueue.h,21,23.0,54.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\ui\GraphicBufferAllocator.h,23,18.0,54.0
+openpilot,Python,D:\clones\openpilot\common\transformations\tests\test_orientation.py,13,2.0,53.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\lib\pid.py,15,2.0,53.0
+openpilot,C++,D:\clones\openpilot\selfdrive\logcatd\logcatd_systemd.cc,17,5.0,53.0
+openpilot,C++,D:\clones\openpilot\selfdrive\sensord\sensors\bmx055_gyro.cc,18,9.0,53.0
+openpilot,Python,D:\clones\openpilot\selfdrive\sentry.py,18,4.0,53.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_qp\ocp_qp_partial_condensing.h,20,50.0,53.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\DisplayEventReceiver.h,26,58.0,53.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\ui\Point.h,15,20.0,53.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\wipower.h,30,36.0,53.0
+openpilot,Markdown,D:\clones\openpilot\tools\replay\README.md,21,0.0,53.0
+openpilot,Python,D:\clones\openpilot\tools\zookeeper\__init__.py,19,10.0,53.0
+openpilot,C++,D:\clones\openpilot\selfdrive\camerad\test\ae_gray_test.cc,12,9.0,52.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\chrysler\carcontroller.py,15,6.0,52.0
+openpilot,JSON,D:\clones\openpilot\selfdrive\controls\lib\alerts_offroad.json,0,0.0,52.0
+openpilot,JSON,D:\clones\openpilot\selfdrive\hardware\tici\agnos.json,0,0.0,52.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\sensord\sensors\bmx055_magn.h,8,3.0,52.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\replay\logreader.h,10,2.0,52.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_nlp\ocp_nlp_constraints_common.h,15,45.0,52.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\BufferQueueConsumer.h,36,99.0,52.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\sockets.h,14,38.0,52.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\Thread.h,19,45.0,52.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\des.h,22,75.0,52.0
+openpilot,C,D:\clones\openpilot\scripts\dump_pll.c,6,2.0,51.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\ford\carstate.py,5,2.0,51.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\replay\main.cc,9,0.0,51.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_nlp\ocp_nlp_reg_common.h,23,51.0,51.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_qp\ocp_qp_full_condensing.h,18,48.0,51.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\audio_amplifier.h,27,66.0,51.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\ecdsa.h,31,100.0,51.0
+openpilot,YAML,D:\clones\openpilot\.github\ISSUE_TEMPLATE\bug_report.yml,8,0.0,50.0
+openpilot,MATLAB,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\make_sfun_sim.in.m,16,33.0,50.0
+openpilot,Bourne Shell,D:\clones\openpilot\release\build_devel.sh,14,6.0,50.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\subaru\carcontroller.py,21,7.0,50.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\tesla\teslacan.py,10,1.0,50.0
+openpilot,C++,D:\clones\openpilot\selfdrive\common\visionimg.cc,12,1.0,50.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\internal\power_monitor.py,11,3.0,50.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\toyota_eps_factor.py,14,0.0,50.0
+openpilot,C++,D:\clones\openpilot\selfdrive\locationd\ubloxd.cc,14,0.0,50.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\BufferQueueProducer.h,33,145.0,50.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\sound_trigger.h,26,54.0,50.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\libyuv\include\libyuv\compare.h,15,13.0,50.0
+openpilot,Python,D:\clones\openpilot\tools\lib\tests\test_readers.py,17,0.0,50.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\boardd\pigeon.h,9,0.0,49.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\lib\alertmanager.py,14,1.0,49.0
+openpilot,Python,D:\clones\openpilot\selfdrive\modeld\runners\onnx_runner.py,9,2.0,49.0
+openpilot,C++,D:\clones\openpilot\selfdrive\sensord\sensors\lsm6ds3_gyro.cc,18,1.0,49.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_nlp\ocp_nlp_reg_convexify.h,32,68.0,49.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\IBatteryStats.h,12,18.0,49.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\IServiceManager.h,20,32.0,49.0
+openpilot,Python,D:\clones\openpilot\tools\lib\robust_logreader.py,8,3.0,49.0
+openpilot,C/C++ Header,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\acados_sim_solver.in.h,17,38.0,48.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\cameras\camera_qcom2.h,19,0.0,48.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\include\media\cam_jpeg.h,18,51.0,48.0
+openpilot,Python,D:\clones\openpilot\selfdrive\camerad\test\test_camerad.py,16,1.0,48.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\chrysler\interface.py,22,12.0,48.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\nissan\nissancan.py,23,0.0,48.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\common\swaglog.h,9,0.0,48.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\locationd\models\live_kf.h,16,0.0,48.0
+openpilot,C++,D:\clones\openpilot\selfdrive\loggerd\bootlog.cc,18,4.0,48.0
+openpilot,C++,D:\clones\openpilot\selfdrive\sensord\sensors\bmx055_accel.cc,14,7.0,48.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\home.h,12,0.0,48.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_ocp_qcqp_dim.h,16,54.0,48.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_ocp_qp_sol.h,20,60.0,48.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_ocp_qcqp_dim.h,17,54.0,48.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_ocp_qp_sol.h,20,60.0,48.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\Errors.h,14,26.0,48.0
+openpilot,Python,D:\clones\openpilot\common\kalman\tests\test_simple_kalman.py,16,24.0,47.0
+openpilot,JSON,D:\clones\openpilot\pyextra\acados_template\acados_sim_layout.json,0,0.0,47.0
+openpilot,Cython,D:\clones\openpilot\pyextra\acados_template\acados_solver_common.pxd,18,37.0,47.0
+openpilot,HTML,D:\clones\openpilot\selfdrive\assets\offroad\fcc.html,9,0.0,47.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\internal\measure_torque_time_to_max.py,8,3.0,47.0
+openpilot,Python,D:\clones\openpilot\selfdrive\manager\test\test_manager.py,16,5.0,47.0
+openpilot,C++,D:\clones\openpilot\selfdrive\sensord\sensors\lsm6ds3_accel.cc,16,1.0,47.0
+openpilot,Python,D:\clones\openpilot\site_scons\site_tools\cython.py,19,6.0,47.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_d_aux_test.h,35,144.0,47.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_d_blas_api.h,42,72.0,47.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_ocp_qcqp_res.h,23,44.0,47.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_ocp_qcqp_res.h,24,44.0,47.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\aes.h,27,84.0,47.0
+openpilot,Python,D:\clones\openpilot\tools\scripts\save_ubloxraw_stream.py,11,1.0,47.0
+openpilot,Python,D:\clones\openpilot\scripts\code_stats.py,7,1.0,46.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\common\modeldata.h,9,2.0,46.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\navd\route_engine.h,13,3.0,46.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_timing.h,26,42.0,46.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_ocp_qp_red.h,23,48.0,46.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_ocp_qp_red.h,24,48.0,46.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\qpOASES_e\Flipper.h,28,55.0,46.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\IAppOpsService.h,13,19.0,46.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\MemoryHeapBase.h,22,35.0,46.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\keymaster0.h,21,82.0,46.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\qemu_pipe.h,10,38.0,46.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\curl\include\curl\mprintf.h,7,21.0,46.0
+openpilot,Markdown,D:\clones\openpilot\tools\README.md,20,0.0,46.0
+openpilot,Python,D:\clones\openpilot\common\ffi_wrapper.py,10,0.0,45.0
+openpilot,Python,D:\clones\openpilot\common\text_window.py,11,7.0,45.0
+openpilot,Python,D:\clones\openpilot\pyextra\acados_template\generate_c_code_discrete_dynamics.py,15,39.0,45.0
+openpilot,Python,D:\clones\openpilot\selfdrive\camerad\test\test_exposure.py,12,0.0,45.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\fingerprints.py,22,13.0,45.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\tesla\carcontroller.py,15,8.0,45.0
+openpilot,Python,D:\clones\openpilot\selfdrive\test\helpers.py,10,3.0,45.0
+openpilot,Python,D:\clones\openpilot\selfdrive\test\longitudinal_maneuvers\maneuver.py,10,1.0,45.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_qp\ocp_qp_osqp.h,17,43.0,45.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_d_aux_ext_dep.h,23,77.0,45.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_s_aux_ext_dep.h,25,71.0,45.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_tree_ocp_qcqp_dim.h,16,56.0,45.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\ISurfaceComposerClient.h,19,31.0,45.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\SensorManager.h,17,22.0,45.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\ui\vec2.h,20,26.0,45.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\bt_av.h,22,66.0,45.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\ford\interface.py,17,9.0,44.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\common\queue.h,8,0.0,44.0
+openpilot,Markdown,D:\clones\openpilot\selfdrive\debug\README.md,15,0.0,44.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\internal\qlog_size.py,18,0.0,44.0
+openpilot,OpenCL,D:\clones\openpilot\selfdrive\modeld\transforms\transform.cl,10,0.0,44.0
+openpilot,Python,D:\clones\openpilot\selfdrive\ui\navd\map_renderer.py,22,12.0,44.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\sidebar.h,11,0.0,44.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_nlp\ocp_nlp_cost_common.h,16,49.0,44.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_ocp_qp_res.h,22,46.0,44.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_tree_ocp_qp_dim.h,15,52.0,44.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_ocp_qp_res.h,24,46.0,44.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_tree_ocp_qcqp_dim.h,18,56.0,44.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_tree_ocp_qp_dim.h,15,52.0,44.0
+openpilot,Markdown,D:\clones\openpilot\tools\plotjuggler\README.md,26,0.0,44.0
+openpilot,Markdown,D:\clones\openpilot\docs\LIMITATIONS.md,15,0.0,43.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\replay\framereader.h,9,0.0,43.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_tree_ocp_qcqp_res.h,25,40.0,43.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_tree_ocp_qcqp_res.h,26,40.0,43.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\qpOASES_e\Constants.h,39,52.0,43.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\BitTube.h,23,29.0,43.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\fb.h,38,92.0,43.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\FileMap.h,20,63.0,43.0
+openpilot,Bourne Shell,D:\clones\openpilot\update_requirements.sh,10,1.0,43.0
+openpilot,Python,D:\clones\openpilot\common\spinner.py,10,0.0,42.0
+openpilot,HTML,D:\clones\openpilot\selfdrive\assets\offroad\tc.html,2,0.0,42.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\lib\latcontrol_pid.py,11,1.0,42.0
+openpilot,QML,D:\clones\openpilot\selfdrive\ui\qt\offroad\text_view.qml,5,0.0,42.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\replay\consoleui.h,8,0.0,42.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_dense_qcqp_res.h,25,40.0,42.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_dense_qcqp_res.h,26,40.0,42.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\power.h,21,121.0,42.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\lhash.h,29,120.0,42.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\include\media\cam_lrme.h,14,10.0,41.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\common\timing.h,9,1.0,41.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\lib\tests\test_vehicle_model.py,20,9.0,41.0
+openpilot,Python,D:\clones\openpilot\selfdrive\hardware\tici\power_monitor.py,10,2.0,41.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_s_aux_test.h,30,106.0,41.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\ui\Fence.h,22,54.0,41.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\memtrack.h,18,101.0,41.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\ByteOrder.h,14,26.0,41.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\String.hpp,19,44.0,41.0
+openpilot,Python,D:\clones\openpilot\tools\lib\tests\test_caching.py,20,8.0,41.0
+openpilot,Python,D:\clones\openpilot\common\markdown.py,8,0.0,40.0
+openpilot,Python,D:\clones\openpilot\common\profiler.py,4,1.0,40.0
+openpilot,Python,D:\clones\openpilot\common\transformations\orientation.py,9,3.0,40.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\chrysler\chryslercan.py,12,5.0,40.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\mazda\carcontroller.py,12,13.0,40.0
+openpilot,C++,D:\clones\openpilot\selfdrive\logcatd\logcatd_android.cc,10,1.0,40.0
+openpilot,Python,D:\clones\openpilot\selfdrive\manager\process_config.py,5,2.0,40.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\widgets\scrollview.cc,7,0.0,40.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_nlp\ocp_nlp_reg_project_reduc_hess.h,30,65.0,40.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_ocp_qcqp_sol.h,21,53.0,40.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_part_cond.h,25,50.0,40.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_tree_ocp_qp_res.h,24,42.0,40.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_ocp_qcqp_sol.h,22,53.0,40.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_tree_ocp_qp_res.h,25,42.0,40.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\BufferSlot.h,25,77.0,40.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\PropertyMap.h,17,49.0,40.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\Singleton.h,13,25.0,40.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\conf.h,21,88.0,40.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\libyuv\include\libyuv\cpu_id.h,14,27.0,40.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\TensorShape.hpp,24,139.0,40.0
+openpilot,XML,D:\clones\openpilot\tools\plotjuggler\layouts\controls_mismatch_debug.xml,1,5.0,40.0
+openpilot,YAML,D:\clones\openpilot\.github\workflows\prebuilt.yaml,3,0.0,39.0
+openpilot,JSON,D:\clones\openpilot\pyextra\acados_template\simulink_default_opts.json,0,0.0,39.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\volkswagen\volkswagencan.py,3,7.0,39.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\internal\fuzz_fw_fingerprint.py,12,1.0,39.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\modeld\models\dmonitoring.h,7,0.0,39.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\utils\mem.h,24,50.0,39.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados_c\dense_qp_interface.h,10,45.0,39.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_dense_qp_res.h,24,42.0,39.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_dense_qp_res.h,25,42.0,39.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_part_cond.h,26,50.0,39.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\lights.h,25,93.0,39.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\Tokenizer.h,25,72.0,39.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\base64.h,27,113.0,39.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\opensslfeatures.h,6,15.0,39.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\ITensor.hpp,21,86.0,39.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\RuntimeList.hpp,25,90.0,39.0
+openpilot,reStructuredText,D:\clones\openpilot\docs\c_docs.rst,23,44.0,38.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\tests\test_fw_fingerprint.py,8,0.0,38.0
+openpilot,C++,D:\clones\openpilot\selfdrive\modeld\dmonitoringmodeld.cc,13,4.0,38.0
+openpilot,OpenCL,D:\clones\openpilot\selfdrive\modeld\transforms\loadyuv.cl,7,2.0,38.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\replay\camera.h,4,0.0,38.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\android\asset_manager.h,31,146.0,38.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\android\looper.h,28,203.0,38.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\BufferQueue.h,12,39.0,38.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\Compat.h,13,27.0,38.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\libyuv\include\libyuv\macros_msa.h,9,29.0,38.0
+openpilot,Python,D:\clones\openpilot\tools\lib\kbhit.py,21,22.0,38.0
+openpilot,Markdown,D:\clones\openpilot\tools\webcam\README.md,5,0.0,38.0
+openpilot,Python,D:\clones\openpilot\common\tests\test_xattr.py,9,1.0,37.0
+openpilot,make,D:\clones\openpilot\docs\Makefile,9,7.0,37.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\include\media\cam_isp_vfe.h,5,2.0,37.0
+openpilot,C++,D:\clones\openpilot\selfdrive\sensord\sensors\lsm6ds3_temp.cc,13,0.0,37.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\widgets\toggle.h,7,0.0,37.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\replay\filereader.cc,8,0.0,37.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\utils\math.h,27,41.0,37.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\ui\GraphicBufferMapper.h,25,18.0,37.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\bt_sock.h,16,38.0,37.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\gatekeeper.h,17,136.0,37.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\local_time_hal.h,22,64.0,37.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\obj.h,38,127.0,37.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\libyuv\include\libyuv\scale_argb.h,8,11.0,37.0
+openpilot,Markdown,D:\clones\openpilot\tools\joystick\README.md,16,0.0,37.0
+openpilot,Python,D:\clones\openpilot\common\api\__init__.py,10,0.0,36.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\ford\fordcan.py,10,4.0,36.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\common\params.h,7,3.0,36.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\plannerd.py,14,0.0,36.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\can_printer.py,8,0.0,36.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\navd\map_renderer.h,13,0.0,36.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados_c\condensing_interface.h,10,38.0,36.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_dense_qcqp_dim.h,16,46.0,36.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_dense_qcqp_dim.h,17,46.0,36.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\android\bitmap.h,15,61.0,36.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\BinderService.h,12,17.0,36.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\bt_pan.h,11,40.0,36.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\TensorShapeMap.hpp,19,72.0,36.0
+openpilot,YAML,D:\clones\openpilot\.github\ISSUE_TEMPLATE\pc_bug_report.yml,7,0.0,35.0
+openpilot,Dockerfile,D:\clones\openpilot\docs\docker\Dockerfile,10,0.0,35.0
+openpilot,C++,D:\clones\openpilot\selfdrive\common\statlog.cc,8,0.0,35.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\check_freq.py,11,1.0,35.0
+openpilot,Python,D:\clones\openpilot\selfdrive\logcatd\tests\test_logcatd_android.py,8,2.0,35.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\offroad\driverview.h,13,0.0,35.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_part_cond_qcqp.h,25,46.0,35.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_tree_ocp_qp_sol.h,18,47.0,35.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_part_cond_qcqp.h,26,46.0,35.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\android\native_window.h,24,91.0,35.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\ThreadDefs.h,13,22.0,35.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\hmac.h,31,94.0,35.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\mem.h,22,82.0,35.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\catch2\include\catch2\catch_reporter_automake.hpp,14,13.0,35.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\openmax\include\OMX_IndexExt.h,18,42.0,35.0
+openpilot,Python,D:\clones\openpilot\tools\lib\bootlog.py,13,0.0,35.0
+openpilot,C/C++ Header,D:\clones\openpilot\common\transformations\coordinates.hpp,7,0.0,34.0
+openpilot,C++,D:\clones\openpilot\selfdrive\sensord\sensors\bmx055_temp.cc,10,0.0,34.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\navd\main.cc,11,0.0,34.0
+openpilot,Python,D:\clones\openpilot\selfdrive\ui\tests\test_sound_stability.py,9,6.0,34.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\dense_qp\dense_qp_hpipm.h,16,44.0,34.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_tree_ocp_qcqp_sol.h,19,46.0,34.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_tree_ocp_qp_sol.h,18,46.0,34.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\android\window.h,8,182.0,34.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\BufferedTextOutput.h,15,18.0,34.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\PermissionCache.h,15,31.0,34.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\properties.h,16,83.0,34.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\ProcessCallStack.h,18,27.0,34.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\Trace.h,15,20.0,34.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\engine.h,26,47.0,34.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\StringList.hpp,21,52.0,34.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\TensorMap.hpp,19,67.0,34.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\UserBufferMap.hpp,19,69.0,34.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\SNPE\SNPEFactory.hpp,18,79.0,34.0
+openpilot,Dockerfile,D:\clones\openpilot\tools\webcam\Dockerfile,5,1.0,34.0
+openpilot,C/C++ Header,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\external_cost.in.h,9,32.0,33.0
+openpilot,C/C++ Header,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\external_cost_0.in.h,10,32.0,33.0
+openpilot,C/C++ Header,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\external_cost_e.in.h,9,32.0,33.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\hardware\tici\hardware.h,5,0.0,33.0
+openpilot,Python,D:\clones\openpilot\selfdrive\loggerd\deleter.py,11,1.0,33.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\loggerd\raw_logger.h,9,1.0,33.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\modeld\models\commonmodel.h,9,0.0,33.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\modeld\runners\onnxmodel.h,7,1.0,33.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_qp\ocp_qp_hpipm.h,18,49.0,33.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_tree_ocp_qcqp_sol.h,19,45.0,33.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\IConsumerListener.h,18,53.0,33.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\SNPE\ApplicationBufferMap.hpp,12,56.0,33.0
+openpilot,Python,D:\clones\openpilot\tools\webcam\warp_vis.py,8,2.0,33.0
+openpilot,Python,D:\clones\openpilot\common\xattr.py,5,8.0,32.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\can_print_changes.py,11,3.0,32.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\hardware\hw.h,3,0.0,32.0
+openpilot,Python,D:\clones\openpilot\selfdrive\loggerd\config.py,9,0.0,32.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\proclogd\proclog.h,8,0.0,32.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\widgets\offroad_alerts.h,13,0.0,32.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_dense_qp_dim.h,15,45.0,32.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_dense_qp_dim.h,17,45.0,32.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\MemoryHeapIon.h,8,28.0,32.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\hashmap.h,26,92.0,32.0
+openpilot,Markdown,D:\clones\openpilot\tools\sim\README.md,14,0.0,32.0
+openpilot,Markdown,D:\clones\openpilot\docs\CONTRIBUTING.md,17,0.0,31.0
+openpilot,Markdown,D:\clones\openpilot\docs\index.md,11,0.0,31.0
+openpilot,C/C++ Header,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\h_constraint.in.h,7,32.0,31.0
+openpilot,C/C++ Header,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\h_e_constraint.in.h,8,32.0,31.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\include\media\cam_isp_ife.h,6,2.0,31.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\api.h,13,3.0,31.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\maps\map_settings.h,6,0.0,31.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_s_aux_ext_dep_ref.h,15,36.0,31.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_dense_qp_sol.h,22,41.0,31.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_dense_qp_sol.h,22,41.0,31.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\android\storage_manager.h,25,98.0,31.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\aref.h,12,15.0,31.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\StopWatch.h,16,17.0,31.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\PlatformValidator\PlatformValidator.hpp,16,46.0,31.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\SnpeUdo\UdoReg.h,18,59.0,31.0
+openpilot,Python,D:\clones\openpilot\selfdrive\boardd\set_time.py,6,1.0,30.0
+openpilot,Python,D:\clones\openpilot\selfdrive\camerad\test\frame_test.py,5,2.0,30.0
+openpilot,C++,D:\clones\openpilot\selfdrive\camerad\transforms\rgb_to_yuv.cc,6,0.0,30.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\lib\tests\test_latcontrol.py,14,0.0,30.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\disable_ecu.py,7,3.0,30.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\fingerprint_from_route.py,9,6.0,30.0
+openpilot,Python,D:\clones\openpilot\selfdrive\logmessaged.py,10,2.0,30.0
+openpilot,C++,D:\clones\openpilot\selfdrive\modeld\thneed\compile.cc,9,3.0,30.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_nlp\ocp_nlp_reg_mirror.h,29,65.0,30.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_nlp\ocp_nlp_reg_project.h,29,65.0,30.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\IProducerListener.h,12,25.0,30.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\ISensorServer.h,12,18.0,30.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\cast.h,11,55.0,30.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\ex_data.h,27,157.0,30.0
+openpilot,Cython,D:\clones\openpilot\common\kalman\simple_kalman_impl.pyx,6,2.0,29.0
+openpilot,C/C++ Header,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\cost_y_0_fun.in.h,8,32.0,29.0
+openpilot,C/C++ Header,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\cost_y_e_fun.in.h,8,32.0,29.0
+openpilot,C/C++ Header,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\cost_y_fun.in.h,8,32.0,29.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\imgproc\utils.h,8,0.0,29.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\lib\tests\test_alertmanager.py,10,6.0,29.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\can_table.py,10,0.0,29.0
+openpilot,Python,D:\clones\openpilot\selfdrive\test\process_replay\update_refs.py,9,0.0,29.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\spinner.h,8,0.0,29.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\watch3.cc,7,0.0,29.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\utils\types.h,17,33.0,29.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_d_aux_ext_dep_ref.h,10,45.0,29.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\BufferItemConsumer.h,17,47.0,29.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\ISensorEventConnection.h,12,18.0,29.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\CallStack.h,16,27.0,29.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\Unicode.h,22,121.0,29.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\buf.h,21,73.0,29.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DiagLog\Options.hpp,11,39.0,29.0
+openpilot,Python,D:\clones\openpilot\scripts\waste.py,5,0.0,28.0
+openpilot,C++,D:\clones\openpilot\selfdrive\controls\lib\cluster\test.cpp,7,0.0,28.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\tests\test_following_distance.py,8,0.0,28.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\clear_dtc.py,2,0.0,28.0
+openpilot,Python,D:\clones\openpilot\selfdrive\modeld\test\timing\benchmark.py,10,2.0,28.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\widgets\keyboard.h,10,0.0,28.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\replay\util.h,6,0.0,28.0
+openpilot,Python,D:\clones\openpilot\selfdrive\ui\tests\cycle_offroad_alerts.py,7,1.0,28.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\utils\strsep.h,12,32.0,28.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\IPermissionController.h,15,19.0,28.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\ui\DisplayInfo.h,8,16.0,28.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\pqueue.h,32,86.0,28.0
+openpilot,Python,D:\clones\openpilot\tools\scripts\fetch_image_from_route.py,9,0.0,28.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\tests\test_cruise_speed.py,6,0.0,27.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\sensord\sensors\bmx055_accel.h,7,3.0,27.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\offroad\networkmanager.h,6,5.0,27.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_d_aux_old.h,6,42.0,27.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_s_aux_old.h,1,36.0,27.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\d_blas.h,11,39.0,27.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\s_blas.h,11,39.0,27.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_tree.h,14,35.0,27.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\MemoryDealer.h,16,18.0,27.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\IDisplayEventConnection.h,15,31.0,27.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\DlVersion.hpp,18,33.0,27.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\ITensorFactory.hpp,12,53.0,27.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\ITensorItrImpl.hpp,8,7.0,27.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\SNPE\UserBufferList.hpp,6,16.0,27.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\SnpeUdo\UdoImplGpu.h,13,72.0,27.0
+openpilot,Python,D:\clones\openpilot\tools\lib\api.py,7,0.0,27.0
+openpilot,Python,D:\clones\openpilot\selfdrive\athena\manage_athenad.py,8,0.0,26.0
+openpilot,OpenCL,D:\clones\openpilot\selfdrive\camerad\imgproc\pool.cl,7,1.0,26.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\vin.py,7,0.0,26.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\count_events.py,6,0.0,26.0
+openpilot,Python,D:\clones\openpilot\selfdrive\hardware\eon\shutdownd.py,7,1.0,26.0
+openpilot,Python,D:\clones\openpilot\selfdrive\manager\helpers.py,8,4.0,26.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\maps\map_helpers.h,5,0.0,26.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\qt_window.cc,4,0.0,26.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\soundd\sound.h,7,1.0,26.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\ocp_nlp\ocp_nlp_reg_noreg.h,30,64.0,26.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_common.h,16,34.0,26.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\IGraphicBufferAlloc.h,12,20.0,26.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\consumerir.h,11,55.0,26.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\hw_auth_token.h,8,19.0,26.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\nfc_tag.h,15,54.0,26.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\config_utils.h,15,23.0,26.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\str_parms.h,14,20.0,26.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\blowfish.h,12,55.0,26.0
+openpilot,Bourne Shell,D:\clones\openpilot\tools\sim\start_openpilot_docker.sh,5,1.0,26.0
+openpilot,Python,D:\clones\openpilot\tools\webcam\front_mount_helper.py,8,1.0,26.0
+openpilot,Markdown,D:\clones\openpilot\docs\SAFETY.md,8,0.0,25.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\internal\measure_modeld_packet_drop.py,8,0.0,25.0
+openpilot,Python,D:\clones\openpilot\selfdrive\hardware\tici\iwlist.py,7,3.0,25.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\modeld\runners\thneedmodel.h,5,1.0,25.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\sensord\libdiag.h,11,1.0,25.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\sensord\sensors\bmx055_gyro.h,9,3.0,25.0
+openpilot,Python,D:\clones\openpilot\selfdrive\test\openpilotci.py,7,0.0,25.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\tests\playsound.cc,5,0.0,25.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\utils\print.h,30,54.0,25.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_s_blas_api.h,42,50.0,25.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_cond_aux.h,19,48.0,25.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_dense_qcqp_sol.h,23,37.0,25.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_cond_aux.h,19,48.0,25.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_dense_qcqp_sol.h,24,37.0,25.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\bt_gatt_types.h,10,21.0,25.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\debugger.h,12,40.0,25.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\klog.h,10,16.0,25.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\srtp.h,17,136.0,25.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\IUserBufferFactory.hpp,11,45.0,25.0
+openpilot,Markdown,D:\clones\openpilot\.github\PULL_REQUEST_TEMPLATE\tuning.md,8,0.0,24.0
+openpilot,C,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\acados_mex_free.in.c,9,37.0,24.0
+openpilot,Python,D:\clones\openpilot\selfdrive\camerad\test\get_thumbnails_for_segment.py,8,0.0,24.0
+openpilot,C++,D:\clones\openpilot\selfdrive\common\gpio.cc,6,2.0,24.0
+openpilot,C++,D:\clones\openpilot\selfdrive\locationd\liblocationd.cc,6,0.0,24.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\qt\request_repeater.cc,3,0.0,24.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\setup\setup.h,7,0.0,24.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\setup\updater.h,7,0.0,24.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\ProcessInfoService.h,16,25.0,24.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\ui\PixelFormat.h,17,31.0,24.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\sched_policy.h,9,30.0,24.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\log\logd.h,8,19.0,24.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\system\thread_defs.h,15,38.0,24.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DiagLog\IDiagLog.hpp,16,44.0,24.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\IBufferAttributes.hpp,15,47.0,24.0
+openpilot,Markdown,D:\clones\openpilot\tools\lib\README.md,9,0.0,24.0
+openpilot,Python,D:\clones\openpilot\tools\plotjuggler\test_plotjuggler.py,7,2.0,24.0
+openpilot,Python,D:\clones\openpilot\selfdrive\camerad\test\check_skips.py,3,1.0,23.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\common\clutil.h,5,0.0,23.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\common\visionimg.h,4,0.0,23.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\internal\design_lqr.py,7,2.0,23.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\uiview.py,6,0.0,23.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\widgets\ssh_keys.h,9,2.0,23.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\d_blas_64.h,11,39.0,23.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\s_blas_64.h,11,39.0,23.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_ocp_qp_utils.h,17,42.0,23.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_sim_rk.h,10,38.0,23.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_ocp_qp_utils.h,18,42.0,23.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_sim_rk.h,11,38.0,23.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\IAppOpsCallback.h,13,19.0,23.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\IProcessInfoService.h,12,18.0,23.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\MemoryBase.h,11,17.0,23.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\bt_mce.h,10,21.0,23.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\ashmem.h,12,10.0,23.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\fs.h,10,38.0,23.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\Log.h,10,38.0,23.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\NativeHandle.h,12,21.0,23.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\md5.h,17,66.0,23.0
+openpilot,Python,D:\clones\openpilot\tools\lib\auth_config.py,11,0.0,23.0
+openpilot,Bourne Shell,D:\clones\openpilot\tools\sim\start_carla.sh,3,1.0,23.0
+openpilot,Markdown,D:\clones\openpilot\.github\pull_request_template.md,16,0.0,22.0
+openpilot,Cython,D:\clones\openpilot\selfdrive\boardd\boardd_api_impl.pyx,4,2.0,22.0
+openpilot,Python,D:\clones\openpilot\selfdrive\config.py,4,3.0,22.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\run_process_on_route.py,8,1.0,22.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\main.cc,6,0.0,22.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_ocp_qcqp_utils.h,18,41.0,22.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_ocp_qcqp_utils.h,19,41.0,22.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_scenario_tree.h,11,37.0,22.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\jstring.h,8,16.0,22.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\Debug.h,8,18.0,22.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\ashmem.h,9,10.0,22.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\md4.h,15,64.0,22.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\openmax\include\OMX_CoreExt.h,10,34.0,22.0
+openpilot,Python,D:\clones\openpilot\tools\zookeeper\power_monitor.py,5,3.0,22.0
+openpilot,C++,D:\clones\openpilot\selfdrive\boardd\can_list_to_can_capnp.cc,4,0.0,21.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\cameras\camera_webcam.h,7,0.0,21.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\disable_ecu.py,9,4.0,21.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\lib\latcontrol.py,7,0.0,21.0
+openpilot,C++,D:\clones\openpilot\selfdrive\sensord\sensors\i2c_sensor.cc,7,0.0,21.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\sensord\sensors\mmc5603nj_magn.h,5,3.0,21.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\installer\installer.h,7,0.0,21.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\util.h,3,0.0,21.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados_c\external_function_interface.h,20,51.0,21.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\binder\Debug.h,11,17.0,21.0
+openpilot,C/C++ Header,D:\clones\openpilot\tools\lib\vidindex\bitstream.h,5,0.0,21.0
+openpilot,Python,D:\clones\openpilot\common\numpy_helpers.py,2,0.0,20.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\sensord\sensors\i2c_sensor.h,6,0.0,20.0
+openpilot,Python,D:\clones\openpilot\selfdrive\test\process_replay\regen_all.py,2,0.0,20.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\window.h,7,0.0,20.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_v_aux_ext_dep.h,19,44.0,20.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_dense_qp_utils.h,18,45.0,20.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_tree_ocp_qcqp_utils.h,19,45.0,20.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_tree_ocp_qp_utils.h,18,45.0,20.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_dense_qp_utils.h,19,45.0,20.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_tree_ocp_qcqp_utils.h,20,45.0,20.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_tree_ocp_qp_utils.h,19,45.0,20.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\android\obb.h,15,41.0,20.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\ui\FrameStats.h,11,33.0,20.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\bt_common_types.h,4,20.0,20.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\bt_gatt.h,14,27.0,20.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\log\uio.h,13,18.0,20.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\crypto.h,19,24.0,20.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\curl\include\curl\easy.h,9,73.0,20.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\libyuv\include\libyuv.h,3,9.0,20.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\opencl\include\CL\opencl.h,11,28.0,20.0
+openpilot,YAML,D:\clones\openpilot\.clang-tidy,0,0.0,19.0
+openpilot,Python,D:\clones\openpilot\common\tests\test_file_helpers.py,8,0.0,19.0
+openpilot,YAML,D:\clones\openpilot\lgtm.yml,0,0.0,19.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\lib\latcontrol_angle.py,6,0.0,19.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\check_timings.py,4,1.0,19.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\internal\core_voltage_sweep.py,4,0.0,19.0
+openpilot,Python,D:\clones\openpilot\selfdrive\hardware\tici\test_agnos_updater.py,7,0.0,19.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\modeld\transforms\transform.h,6,0.0,19.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\widgets\drive_stats.h,6,0.0,19.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_core_qp_ipm_aux.h,5,44.0,19.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_core_qp_ipm_aux.h,5,44.0,19.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\android\rect.h,9,34.0,19.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\GraphicBufferAlloc.h,9,17.0,19.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\vibrator.h,12,43.0,19.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\native_handle.h,10,40.0,19.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\cmac.h,20,37.0,19.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\cpu.h,14,88.0,19.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\ecdh.h,12,72.0,19.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\opencl\include\CL\cl_gl_ext.h,10,45.0,19.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\UDLFunc.hpp,12,53.0,19.0
+openpilot,Python,D:\clones\openpilot\tools\zookeeper\enable_and_wait.py,8,0.0,19.0
+openpilot,Python,D:\clones\openpilot\tools\zookeeper\test_zookeeper.py,6,0.0,19.0
+openpilot,Python,D:\clones\openpilot\common\tests\test_numpy_fast.py,8,0.0,18.0
+openpilot,Cython,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\acados_solver.in.pxd,4,0.0,18.0
+openpilot,C++,D:\clones\openpilot\selfdrive\boardd\main.cc,4,0.0,18.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\cameras\camera_replay.h,7,0.0,18.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\common\gpio.h,2,1.0,18.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\check_lag.py,9,1.0,18.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\hardware\base.h,6,1.0,18.0
+openpilot,Python,D:\clones\openpilot\selfdrive\locationd\test\test_calibrationd.py,8,0.0,18.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\acados\sim\sim_collocation_utils.h,20,62.0,18.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_i_aux_ext_dep.h,16,35.0,18.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_processor_features.h,8,62.0,18.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_cast_qcqp.h,17,36.0,18.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_dense_qcqp_utils.h,19,45.0,18.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_cast_qcqp.h,18,36.0,18.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_dense_qcqp_utils.h,20,45.0,18.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\iosched_policy.h,7,15.0,18.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\rand.h,19,24.0,18.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\rc4.h,12,60.0,18.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\type_check.h,11,62.0,18.0
+openpilot,C/C++ Header,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\phi_constraint.in.h,5,33.0,17.0
+openpilot,C/C++ Header,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\phi_e_constraint.in.h,4,0.0,17.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\debug\profiling\clpeak\build.sh,5,0.0,17.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\debug\profiling\palanteer\setup.sh,7,0.0,17.0
+openpilot,Python,D:\clones\openpilot\selfdrive\locationd\test\print_gps_stats.py,3,0.0,17.0
+openpilot,C++,D:\clones\openpilot\selfdrive\sensord\sensors\light_sensor.cc,5,0.0,17.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\sensord\sensors\lsm6ds3_accel.h,6,3.0,17.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\sensord\sensors\lsm6ds3_gyro.h,6,3.0,17.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo.h,1,34.0,17.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_hardware_libhardware\include\hardware\display_defs.h,11,39.0,17.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\qtaguid.h,10,39.0,17.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\libyuv\include\libyuv\rotate_argb.h,6,10.0,17.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\IUDL.hpp,10,71.0,17.0
+openpilot,Markdown,D:\clones\openpilot\tools\CTF.md,3,0.0,17.0
+openpilot,Python,D:\clones\openpilot\tools\zookeeper\check_consumption.py,7,3.0,17.0
+openpilot,Cython,D:\clones\openpilot\common\kalman\simple_kalman_impl.pxd,1,1.0,16.0
+openpilot,Python,D:\clones\openpilot\common\params.py,3,0.0,16.0
+openpilot,Python,D:\clones\openpilot\common\tests\test_markdown.py,8,2.0,16.0
+openpilot,Python,D:\clones\openpilot\common\timeout.py,5,6.0,16.0
+openpilot,reStructuredText,D:\clones\openpilot\docs\overview.rst,23,40.0,16.0
+openpilot,Bourne Shell,D:\clones\openpilot\launch_env.sh,5,0.0,16.0
+openpilot,C++,D:\clones\openpilot\selfdrive\camerad\main.cc,4,0.0,16.0
+openpilot,Python,D:\clones\openpilot\selfdrive\controls\lib\cluster\fastcluster_py.py,7,5.0,16.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\debug\profiling\py-spy\profile.sh,4,1.0,16.0
+openpilot,Markdown,D:\clones\openpilot\selfdrive\loggerd\README.md,14,0.0,16.0
+openpilot,Python,D:\clones\openpilot\selfdrive\loggerd\tests\fill_eon.py,8,2.0,16.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\test\ci_shell.sh,3,0.0,16.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\setup\reset.h,4,0.0,16.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\replay\filereader.h,4,0.0,16.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\soundd\main.cc,6,0.0,16.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_dense_qp_kkt.h,15,41.0,16.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_ocp_qp_kkt.h,12,38.0,16.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_dense_qp_kkt.h,15,41.0,16.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_ocp_qp_kkt.h,12,38.0,16.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\memory.h,8,18.0,16.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\multiuser.h,9,16.0,16.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\LinearTransform.h,10,38.0,16.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\hkdf.h,9,20.0,16.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\ssl23.h,7,62.0,16.0
+openpilot,Python,D:\clones\openpilot\tools\scripts\setup_ssh_keys.py,5,0.0,16.0
+openpilot,Cython,D:\clones\openpilot\common\clock.pyx,6,3.0,15.0
+openpilot,Python,D:\clones\openpilot\common\filter_simple.py,2,1.0,15.0
+openpilot,Python,D:\clones\openpilot\common\numpy_fast.py,4,0.0,15.0
+openpilot,Bourne Shell,D:\clones\openpilot\scripts\throttling.sh,1,0.0,15.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\test\ae_gray_test.h,3,0.0,15.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\controls\lib\cluster\fastcluster.h,7,55.0,15.0
+openpilot,diff,D:\clones\openpilot\selfdrive\debug\profiling\clpeak\no_print.patch,6,18.0,15.0
+openpilot,Python,D:\clones\openpilot\selfdrive\hardware\__init__.py,4,0.0,15.0
+openpilot,C++,D:\clones\openpilot\selfdrive\proclogd\main.cc,7,0.0,15.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\sensord\sensors\constants.h,3,0.0,15.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\sensord\sensors\lsm6ds3_temp.h,7,3.0,15.0
+openpilot,Markdown,D:\clones\openpilot\selfdrive\test\process_replay\README.md,10,0.0,15.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\qpOASES_e\UnitTesting.h,24,40.0,15.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\android\multinetwork.h,15,79.0,15.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\uevent.h,6,15.0,15.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\log\event_tag_map.h,9,26.0,15.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\JenkinsHash.h,11,22.0,15.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\poly1305.h,11,21.0,15.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\kaitai\kaitaistruct.h,5,0.0,15.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\SnpeUdo\UdoShared.h,9,22.0,15.0
+openpilot,Markdown,D:\clones\openpilot\tools\ssh\README.md,9,0.0,15.0
+openpilot,C/C++ Header,D:\clones\openpilot\common\transformations\orientation.hpp,3,0.0,14.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\get_fingerprint.py,7,10.0,14.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\internal\check_alive_valid.py,5,0.0,14.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\modeld\dmonitoringmodeld,2,1.0,14.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\sensord\sensors\file_sensor.h,4,0.0,14.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\qt_window.h,7,0.0,14.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_m_aux.h,9,34.0,14.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_stdlib.h,10,38.0,14.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_m_dense_qp.h,20,34.0,14.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_m_dense_qp_dim.h,20,34.0,14.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\android_reboot.h,8,17.0,14.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\record_stream.h,11,18.0,14.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\time_support.h,13,63.0,14.0
+openpilot,Markdown,D:\clones\openpilot\.github\PULL_REQUEST_TEMPLATE\car_bugfix.md,6,0.0,13.0
+openpilot,Markdown,D:\clones\openpilot\.github\PULL_REQUEST_TEMPLATE\car_port.md,2,0.0,13.0
+openpilot,Python,D:\clones\openpilot\common\transformations\coordinates.py,5,1.0,13.0
+openpilot,C,D:\clones\openpilot\pyextra\acados_template\c_templates_tera\acados_mex_solve.in.c,8,38.0,13.0
+openpilot,Bourne Shell,D:\clones\openpilot\release\verify.sh,3,0.0,13.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\debug\adb.sh,3,0.0,13.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\compare_fingerprints.py,4,2.0,13.0
+openpilot,C++,D:\clones\openpilot\selfdrive\loggerd\main.cc,4,3.0,13.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\modeld\modeld,2,1.0,13.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\modeld\runners\runmodel.h,1,0.0,13.0
+openpilot,Python,D:\clones\openpilot\selfdrive\ui\qt\python_helpers.py,7,0.0,13.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_memory.h,11,38.0,13.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_timing.h,18,36.0,13.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\android\trace.h,9,33.0,13.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\open_memstream.h,8,15.0,13.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\chacha.h,8,16.0,13.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\curl\include\curl\curlver.h,12,52.0,13.0
+openpilot,Python,D:\clones\openpilot\tools\lib\cache.py,2,0.0,13.0
+openpilot,Bourne Shell,D:\clones\openpilot\tools\openpilot_env.sh,3,6.0,13.0
+openpilot,Markdown,D:\clones\openpilot\tools\serial\README.md,8,0.0,13.0
+openpilot,Python,D:\clones\openpilot\common\gpio.py,2,0.0,12.0
+openpilot,Python,D:\clones\openpilot\scripts\count_cars.py,3,0.0,12.0
+openpilot,Bourne Shell,D:\clones\openpilot\scripts\switch_to_master.sh,4,0.0,12.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\include\media\cam_cpas.h,4,9.0,12.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\common\i2c.h,5,0.0,12.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\show_matching_cars.py,7,1.0,12.0
+openpilot,Python,D:\clones\openpilot\selfdrive\loggerd\xattr_cache.py,3,0.0,12.0
+openpilot,Python,D:\clones\openpilot\selfdrive\rtshield.py,5,4.0,12.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\request_repeater.h,3,0.0,12.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\android\asset_manager_jni.h,9,29.0,12.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\android\native_window_jni.h,10,29.0,12.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\misc.h,6,23.0,12.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\Functor.h,6,15.0,12.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\misc.h,7,19.0,12.0
+openpilot,Python,D:\clones\openpilot\tools\lib\helpers.py,4,4.0,12.0
+openpilot,YAML,D:\clones\openpilot\.github\ISSUE_TEMPLATE\config.yml,0,0.0,11.0
+openpilot,Markdown,D:\clones\openpilot\.github\PULL_REQUEST_TEMPLATE\bugfix.md,4,0.0,11.0
+openpilot,Markdown,D:\clones\openpilot\.github\PULL_REQUEST_TEMPLATE\refactor.md,4,0.0,11.0
+openpilot,Python,D:\clones\openpilot\common\kalman\simple_kalman_old.py,6,6.0,11.0
+openpilot,Bourne Shell,D:\clones\openpilot\release\check-submodules.sh,1,0.0,11.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\camerad\transforms\rgb_to_yuv.h,3,0.0,11.0
+openpilot,Markdown,D:\clones\openpilot\selfdrive\car\README.MD,0,0.0,11.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\modeld\transforms\loadyuv.h,5,0.0,11.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_aux_mem.h,7,34.0,11.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_aux_string.h,5,34.0,11.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\BufferQueueDefs.h,6,18.0,11.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\compiler.h,6,27.0,11.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\process_name.h,7,24.0,11.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\threads.h,5,22.0,11.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\asn1_mac.h,8,57.0,11.0
+openpilot,make,D:\clones\openpilot\third_party\curl\include\curl\Makefile.am,6,36.0,11.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\kaitai\custom_decoder.h,5,0.0,11.0
+openpilot,Python,D:\clones\openpilot\pyextra\acados_template\__init__.py,1,32.0,10.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\loggerd\encoder.h,2,0.0,10.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\sensord\sensors\bmx055_temp.h,2,0.0,10.0
+openpilot,C++,D:\clones\openpilot\selfdrive\sensord\sensors\file_sensor.cc,4,0.0,10.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_d_tree_ocp_qp_kkt.h,4,38.0,10.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_s_tree_ocp_qp_kkt.h,6,38.0,10.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\ui\DisplayStatInfo.h,6,15.0,10.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\Endian.h,7,18.0,10.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\SystemClock.h,7,15.0,10.0
+openpilot,Markdown,D:\clones\openpilot\.github\PULL_REQUEST_TEMPLATE\fingerprint.md,2,0.0,9.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\camerad\test\stress_restart.sh,0,0.0,9.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\ford\values.py,3,0.0,9.0
+openpilot,C++,D:\clones\openpilot\selfdrive\common\watchdog.cc,3,0.0,9.0
+openpilot,Python,D:\clones\openpilot\selfdrive\debug\set_car_params.py,2,0.0,9.0
+openpilot,Markdown,D:\clones\openpilot\selfdrive\monitoring\README.md,6,0.0,9.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\ui\qt\widgets\scrollview.h,3,0.0,9.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_m_ocp_qp.h,6,34.0,9.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\SnpeUdo\UdoImplCpu.h,8,27.0,9.0
+openpilot,Python,D:\clones\openpilot\tools\lib\filereader.py,2,0.0,9.0
+openpilot,Python,D:\clones\openpilot\common\basedir.py,3,0.0,8.0
+openpilot,Python,D:\clones\openpilot\common\dict_helpers.py,0,1.0,8.0
+openpilot,Markdown,D:\clones\openpilot\docs\INTEGRATION.md,3,0.0,8.0
+openpilot,Bourne Shell,D:\clones\openpilot\scripts\apply-pr.sh,3,0.0,8.0
+openpilot,Python,D:\clones\openpilot\scripts\pyqt_demo.py,5,1.0,8.0
+openpilot,Python,D:\clones\openpilot\selfdrive\boardd\boardd.py,2,2.0,8.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\debug\profiling\perfetto\build.sh,3,0.0,8.0
+openpilot,Python,D:\clones\openpilot\selfdrive\loggerd\tools\mark_all_uploaded.py,1,0.0,8.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\modeld\runners\run.h,2,0.0,8.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\sensord\sensors\sensor.h,2,0.0,8.0
+openpilot,Python,D:\clones\openpilot\selfdrive\ui\qt\maps\set_destination.py,2,0.0,8.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\ui\spinner,2,0.0,8.0
+openpilot,C++,D:\clones\openpilot\selfdrive\ui\tests\test_runner.cc,1,1.0,8.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\ui\text,2,0.0,8.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\hpipm\include\hpipm_m_ocp_qp_kkt.h,3,34.0,8.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\curl\include\curl\stdcheaders.h,4,21.0,8.0
+openpilot,Bourne Shell,D:\clones\openpilot\tools\sim\build_container.sh,2,0.0,8.0
+openpilot,Bourne Shell,D:\clones\openpilot\tools\sim\launch_openpilot.sh,3,0.0,8.0
+openpilot,Markdown,D:\clones\openpilot\.github\ISSUE_TEMPLATE\enhancement.md,1,0.0,7.0
+openpilot,YAML,D:\clones\openpilot\codecov.yml,1,0.0,7.0
+openpilot,Python,D:\clones\openpilot\common\lazy_property.py,2,3.0,7.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\common\statlog.h,3,0.0,7.0
+openpilot,JSON,D:\clones\openpilot\selfdrive\hardware\eon\neos.json,0,0.0,7.0
+openpilot,Python,D:\clones\openpilot\selfdrive\loggerd\tools\mark_unuploaded.py,1,0.0,7.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\sensord\sensors\light_sensor.h,1,0.0,7.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\gui\GuiConfig.h,6,16.0,7.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_frameworks_native\include\ui\UiConfig.h,6,16.0,7.0
+openpilot,Bourne Shell,D:\clones\openpilot\third_party\mapbox-gl-native-qt\build.sh,0,0.0,7.0
+openpilot,Bourne Shell,D:\clones\openpilot\tools\serial\connect.sh,1,0.0,7.0
+openpilot,SVG,D:\clones\openpilot\selfdrive\assets\offroad\icon_wifi_strength_full.svg,0,0.0,6.0
+openpilot,SVG,D:\clones\openpilot\selfdrive\assets\offroad\icon_wifi_strength_high.svg,0,0.0,6.0
+openpilot,SVG,D:\clones\openpilot\selfdrive\assets\offroad\icon_wifi_strength_low.svg,0,0.0,6.0
+openpilot,SVG,D:\clones\openpilot\selfdrive\assets\offroad\icon_wifi_strength_medium.svg,0,0.0,6.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\debug\profiling\perfetto\record.sh,2,0.0,6.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\debug\profiling\simpleperf\eon_perf.sh,2,0.0,6.0
+openpilot,Python,D:\clones\openpilot\selfdrive\hardware\tici\pins.py,0,2.0,6.0
+openpilot,Python,D:\clones\openpilot\selfdrive\modeld\test\tf_test\pb_loader.py,1,1.0,6.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\qpOASES_e\ConstraintProduct.h,12,44.0,6.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\partition_utils.h,5,15.0,6.0
+openpilot,Bourne Shell,D:\clones\openpilot\third_party\qt-plugins\build_qtlocation.sh,1,1.0,6.0
+openpilot,Bourne Shell,D:\clones\openpilot\tools\sim\tmux_script.sh,0,0.0,6.0
+openpilot,Python,D:\clones\openpilot\tools\zookeeper\ignition.py,4,0.0,6.0
+openpilot,Bourne Shell,D:\clones\openpilot\release\identity.sh,0,0.0,5.0
+openpilot,SVG,D:\clones\openpilot\selfdrive\assets\img_eye_closed.svg,0,0.0,5.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\assets\strip-svg-metadata.sh,2,2.0,5.0
+openpilot,diff,D:\clones\openpilot\selfdrive\debug\profiling\clpeak\run_continuously.patch,1,7.0,5.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\ui\soundd\soundd,0,0.0,5.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\ui\ui,0,0.0,5.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_d_blas.h,7,34.0,5.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_s_blas.h,7,34.0,5.0
+openpilot,make,D:\clones\openpilot\tools\lib\vidindex\Makefile,1,0.0,5.0
+openpilot,Python,D:\clones\openpilot\tools\zookeeper\disable.py,3,0.0,5.0
+openpilot,Python,D:\clones\openpilot\scripts\disable-powersave.py,1,0.0,4.0
+openpilot,SVG,D:\clones\openpilot\selfdrive\assets\icons\close.svg,0,0.0,4.0
+openpilot,SVG,D:\clones\openpilot\selfdrive\assets\img_circled_check.svg,0,0.0,4.0
+openpilot,SVG,D:\clones\openpilot\selfdrive\assets\img_circled_slash.svg,0,0.0,4.0
+openpilot,SVG,D:\clones\openpilot\selfdrive\assets\img_eye_open.svg,0,0.0,4.0
+openpilot,SVG,D:\clones\openpilot\selfdrive\assets\offroad\icon_close.svg,0,0.0,4.0
+openpilot,SVG,D:\clones\openpilot\selfdrive\assets\offroad\icon_lock_closed.svg,0,0.0,4.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\boardd\boardd.h,2,0.0,4.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\volkswagen\radar_interface.py,1,0.0,4.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\debug\profiling\perfetto\copy.sh,2,0.0,4.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\debug\profiling\perfetto\server.sh,2,0.0,4.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\debug\profiling\snapdragon\setup-agnos.sh,2,1.0,4.0
+openpilot,Python,D:\clones\openpilot\selfdrive\modeld\constants.py,3,0.0,4.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\modeld\test\snpe_benchmark\benchmark.sh,0,0.0,4.0
+openpilot,OpenCL,D:\clones\openpilot\selfdrive\modeld\thneed\kernels\convolution_horizontal_reduced_reads_1x1.cl,1,0.0,4.0
+openpilot,OpenCL,D:\clones\openpilot\selfdrive\modeld\thneed\kernels\convolution_horizontal_reduced_reads_depthwise.cl,1,0.0,4.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\sensord\sensord,0,0.0,4.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\ui\navd\navd,0,0.0,4.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\utils\Atomic.h,3,15.0,4.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\libyuv\include\libyuv\version.h,3,9.0,4.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\snpe\include\DlSystem\ZdlExportDefine.hpp,2,7.0,4.0
+openpilot,Lisp,D:\clones\openpilot\.dir-locals.el,0,0.0,3.0
+openpilot,Python,D:\clones\openpilot\common\string_helpers.py,1,2.0,3.0
+openpilot,Bourne Shell,D:\clones\openpilot\launch_openpilot.sh,2,0.0,3.0
+openpilot,INI,D:\clones\openpilot\mypy.ini,1,0.0,3.0
+openpilot,Bourne Shell,D:\clones\openpilot\scripts\stop_updater.sh,2,2.0,3.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\assets\compress-images.sh,1,0.0,3.0
+openpilot,SVG,D:\clones\openpilot\selfdrive\assets\img_continue_triangle.svg,0,0.0,3.0
+openpilot,SVG,D:\clones\openpilot\selfdrive\assets\offroad\icon_checkmark.svg,0,0.0,3.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\debug\profiling\perfetto\traces.sh,2,0.0,3.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\hardware\eon\update_neos.sh,1,0.0,3.0
+openpilot,OpenCL,D:\clones\openpilot\selfdrive\modeld\thneed\kernels\convolution_horizontal_reduced_reads.cl,1,0.0,3.0
+openpilot,OpenCL,D:\clones\openpilot\selfdrive\modeld\thneed\kernels\convolution_horizontal_reduced_reads_5_outputs.cl,1,0.0,3.0
+openpilot,OpenCL,D:\clones\openpilot\selfdrive\modeld\thneed\kernels\convolution_horizontal_reduced_reads_depthwise_stride_1.cl,1,0.0,3.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\ui\installer\continue_dashcam.sh,1,0.0,3.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\ui\installer\continue_openpilot.sh,1,0.0,3.0
+openpilot,make,D:\clones\openpilot\third_party\curl\include\Makefile.am,2,0.0,3.0
+openpilot,Bourne Shell,D:\clones\openpilot\tools\sim\lib\replay.sh,2,1.0,3.0
+openpilot,Python,D:\clones\openpilot\common\kalman\simple_kalman.py,0,1.0,2.0
+openpilot,Bourne Again Shell,D:\clones\openpilot\installer\updater\updater,0,0.0,2.0
+openpilot,Bourne Shell,D:\clones\openpilot\scripts\restart_modem.sh,0,0.0,2.0
+openpilot,Bourne Shell,D:\clones\openpilot\scripts\update_now.sh,1,1.0,2.0
+openpilot,Python,D:\clones\openpilot\selfdrive\car\mock\values.py,0,0.0,2.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\common\watchdog.h,1,0.0,2.0
+openpilot,C++,D:\clones\openpilot\selfdrive\loggerd\tests\test_runner.cc,0,0.0,2.0
+openpilot,Bourne Shell,D:\clones\openpilot\selfdrive\modeld\test\tf_test\build.sh,0,0.0,2.0
+openpilot,Python,D:\clones\openpilot\tools\lib\exceptions.py,0,0.0,2.0
+openpilot,C/C++ Header,D:\clones\openpilot\selfdrive\common\version.h,0,0.0,1.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\android_system_core\include\cutils\log.h,0,0.0,1.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\buffer.h,2,15.0,1.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\objects.h,2,15.0,1.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\opensslv.h,2,15.0,1.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\ossl_typ.h,2,15.0,1.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\pkcs12.h,2,15.0,1.0
+openpilot,Bourne Shell,D:\clones\openpilot\tools\openpilot_build.sh,0,0.0,1.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\acados\include\blasfeo\include\blasfeo_naming.h,2,75.0,0.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\dtls1.h,1,15.0,0.0
+openpilot,C/C++ Header,D:\clones\openpilot\third_party\boringssl\include\openssl\safestack.h,1,15.0,0.0

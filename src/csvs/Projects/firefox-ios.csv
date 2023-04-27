@@ -1,0 +1,1455 @@
+project,language,filename,blank,comment,code
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\effective_tld_names.swift,3,6.0,9180.0
+firefox-ios,JSON,D:\clones\firefox-ios\package-lock.json,0,0.0,6393.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\obj_mac.h,1078,10.0,3489.0
+firefox-ios,YAML,D:\clones\firefox-ios\Client\metrics.yaml,42,42.0,2643.0
+firefox-ios,HTML,D:\clones\firefox-ios\test-fixtures\test-mozilla-org.html,620,68.0,2086.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\BrowserViewController.swift,424,194.0,2038.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\ssl.h,207,394.0,1930.0
+firefox-ios,Swift,D:\clones\firefox-ios\StorageTests\TestSQLiteHistory.swift,238,75.0,1406.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\top_sites.json,0,0.0,1391.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Strings.swift,255,213.0,1373.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\evp.h,193,114.0,1283.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\SQL\BrowserSchema.swift,190,202.0,1224.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\ThirdParty\SwiftData.swift,252,254.0,1077.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\AppSettingsOptions.swift,243,47.0,1032.0
+firefox-ios,Swift,D:\clones\firefox-ios\Providers\Profile.swift,234,159.0,996.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Telemetry\TelemetryWrapper.swift,90,75.0,953.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\list.json,0,0.0,896.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\x509.h,170,70.0,883.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\FxScreenGraph.swift,182,58.0,882.0
+firefox-ios,YAML,D:\clones\firefox-ios\bitrise.yml,64,82.0,820.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\TabManager.swift,208,96.0,793.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\objects.h,222,84.0,791.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\TabDisplayManager.swift,178,83.0,784.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\SQL\SQLiteHistory.swift,153,143.0,774.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\x509v3.h,148,89.0,769.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\asn1.h,161,179.0,756.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\Tab.swift,172,69.0,746.0
+firefox-ios,JSON,D:\clones\firefox-ios\ClientTests\pocketsponsoredfeed.json,0,0.0,726.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\GridTabViewController.swift,134,54.0,693.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\SyncStateMachine.swift,171,167.0,686.0
+firefox-ios,HTML,D:\clones\firefox-ios\Client\Assets\About\Licenses.html,105,1.0,684.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\SearchViewController.swift,97,55.0,675.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Toolbar+URLBar\URLBarView.swift,133,48.0,670.0
+firefox-ios,CSS,D:\clones\firefox-ios\Client\Frontend\Reader\Reader.css,139,14.0,663.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\Rust\RustLogins.swift,140,24.0,658.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\tls1.h,154,165.0,653.0
+firefox-ios,XML,D:\clones\firefox-ios\CredentialProvider\CredentialList.storyboard,0,1.0,642.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\ec.h,194,747.0,640.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\bio.h,101,114.0,639.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\MainMenuActionHelper.swift,160,40.0,630.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\StorageClient.swift,152,67.0,617.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\SettingsTableViewController.swift,137,44.0,614.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\BrowserViewController\BrowserViewController+WebViewDelegates.swift,126,98.0,573.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\asn1t.h,174,197.0,553.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\Tabs\RemoteTabsPanel.swift,135,54.0,521.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\xcshareddata\xcschemes\Fennec_Enterprise_XCUITests.xcscheme,0,0.0,517.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Library\HistoryPanel\HistoryPanelWithGroups.swift,138,49.0,512.0
+firefox-ios,YAML,D:\clones\firefox-ios\nimbus.fml.yaml,19,3.0,510.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\FirefoxHomeViewController.swift,139,44.0,482.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Library\HistoryPanel\HistoryPanel.swift,101,39.0,467.0
+firefox-ios,Swift,D:\clones\firefox-ios\SyncTests\BatchingClientTests.swift,91,57.0,462.0
+firefox-ios,C,D:\clones\firefox-ios\ThirdParty\ecec\src\params.c,47,65.0,462.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\FxHomeTopSitesManagerTests.swift,125,18.0,460.0
+firefox-ios,Swift,D:\clones\firefox-ios\SyncTests\MetaGlobalTests.swift,106,64.0,457.0
+firefox-ios,C,D:\clones\firefox-ios\ThirdParty\ecec\test\decrypt\aes128gcm.c,34,6.0,457.0
+firefox-ios,C,D:\clones\firefox-ios\ThirdParty\ecec\src\encrypt.c,92,70.0,455.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\TabManagerTests.swift,105,36.0,452.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\rsa.h,69,72.0,449.0
+firefox-ios,Swift,D:\clones\firefox-ios\UITests\Global.swift,106,63.0,449.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\Client\Frontend\UserContent\UserScripts\AllFrames\AtDocumentStart\LoginsHelper.js,95,178.0,439.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\cms.h,57,17.0,438.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\State.swift,81,94.0,438.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Extensions\URLExtensions.swift,98,90.0,427.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\x509_vfy.h,62,72.0,411.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\ts.h,108,127.0,408.0
+firefox-ios,Swift,D:\clones\firefox-ios\SharedTests\NSURLExtensionsTests.swift,74,17.0,406.0
+firefox-ios,YAML,D:\clones\firefox-ios\Sync\metrics.yaml,6,9.0,404.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Library\BookmarksPanel.swift,102,16.0,402.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\bn.h,63,114.0,398.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\pem.h,71,32.0,398.0
+firefox-ios,Swift,D:\clones\firefox-ios\UITests\LoginManagerTests.swift,171,192.0,398.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\SyncTelemetryUtils.swift,70,23.0,389.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\xcshareddata\xcschemes\Fennec.xcscheme,0,0.0,386.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Library\LibraryViewController\LibraryViewController.swift,63,19.0,384.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\Tabs\TabTrayViewController.swift,71,21.0,380.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Application\AppDelegate.swift,112,110.0,379.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Login Management\LoginListViewController.swift,76,25.0,371.0
+firefox-ios,C,D:\clones\firefox-ios\ThirdParty\ecec\test\params.c,18,2.0,371.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\PhotonActionSheet\PhotonActionSheet.swift,88,32.0,369.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Library\ReaderPanel.swift,78,19.0,362.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\engine.h,64,417.0,359.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Library\DownloadsPanel.swift,78,12.0,346.0
+firefox-ios,Swift,D:\clones\firefox-ios\SyncTests\MockSyncServer.swift,80,26.0,346.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\EnhancedTrackingProtection\EnhancedTrackingProtectionVC.swift,85,17.0,344.0
+firefox-ios,C,D:\clones\firefox-ios\ThirdParty\ecec\test\encrypt\aes128gcm.c,20,8.0,344.0
+firefox-ios,Swift,D:\clones\firefox-ios\Extensions\ShareTo\ShareViewController.swift,78,14.0,341.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\LoginDetailViewController.swift,71,24.0,337.0
+firefox-ios,C,D:\clones\firefox-ios\ThirdParty\ecec\src\decrypt.c,52,36.0,337.0
+firefox-ios,C,D:\clones\firefox-ios\ThirdParty\ecec\src\keys.c,46,30.0,334.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\NavigationTest.swift,51,42.0,330.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Reader\ReaderModeStyleViewController.swift,77,19.0,326.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\TopTabsTest.swift,55,143.0,326.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\TabScrollController.swift,62,17.0,323.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\SQL\SQLiteRemoteClientsAndTabs.swift,67,15.0,322.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\xcshareddata\xcschemes\Fennec_Enterprise_UITests.xcscheme,0,0.0,321.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Library\BookmarkDetailPanel.swift,83,35.0,318.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\BrowserViewController\BrowserViewController+KeyCommands.swift,75,26.0,315.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Application\NavigationRouter.swift,46,25.0,312.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\pkcs7.h,52,46.0,306.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\JumpBackIn\FxHomeJumpBackInViewModel.swift,73,20.0,304.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\ocsp.h,75,33.0,304.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\crypto.h,67,93.0,303.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\Synchronizers\ClientsSynchronizer.swift,60,43.0,303.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\TwoLineCellAndFooter.swift,54,8.0,302.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\Tabs\GroupedTabCell.swift,62,10.0,299.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Extensions\DevicePickerViewController.swift,56,14.0,295.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\SQL\SQLiteHistoryFavicons.swift,69,47.0,291.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Reader\ReaderMode.swift,48,20.0,289.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\Rust\RustPlaces.swift,70,16.0,289.0
+firefox-ios,YAML,D:\clones\firefox-ios\.taskcluster.yml,9,14.0,285.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\HistoryHighlightsManagerTests.swift,85,5.0,285.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\Client\Frontend\UserContent\UserScripts\MainFrame\AtDocumentEnd\FindInPage.js,80,15.0,284.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\PhotonActionSheet\PhotonActionSheetView.swift,65,21.0,284.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Toolbar+URLBar\TabLocationView.swift,62,17.0,282.0
+firefox-ios,C,D:\clones\firefox-ios\ThirdParty\ecec\test\decrypt\aesgcm.c,20,4.0,282.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\BrowserViewController\BrowserViewController+URLBarDelegate.swift,57,15.0,276.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\HistoryHighlights\FxHomeHistoryHightlightsViewModel.swift,76,31.0,270.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\SearchSettingsTableViewController.swift,51,29.0,269.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\TopTabsViewController.swift,51,16.0,266.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\QRCodeViewController.swift,37,5.0,263.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\WebsiteDataManagementViewController.swift,55,8.0,260.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\InternalSchemeHandler\ErrorPageHelper.swift,36,19.0,257.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\TestHistory.swift,45,15.0,257.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\HistoryTests.swift,44,78.0,255.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\AutocompleteTextField.swift,53,38.0,248.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\dh.h,55,45.0,244.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\BrowserTrayAnimators.swift,59,23.0,243.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Library\HistoryPanel\HistoryPanelViewModel.swift,62,24.0,243.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\HomepageSettings\WallpaperSettings\WallpaperSettingsViewController.swift,57,17.0,243.0
+firefox-ios,Swift,D:\clones\firefox-ios\Push\PushCrypto.swift,63,28.0,243.0
+firefox-ios,Swift,D:\clones\firefox-ios\content-blocker-lib-ios\src\ContentBlocker.swift,47,17.0,241.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\Tabs\InactiveTabCell.swift,37,6.0,239.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\RatingPromptManagerTests.swift,58,14.0,234.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Contextual Hint\ContextualHintViewController.swift,49,11.0,233.0
+firefox-ios,Swift,D:\clones\firefox-ios\SyncTests\RecordTests.swift,56,32.0,233.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Theme\LegacyThemeManager\LegacyTheme.swift,39,12.0,232.0
+firefox-ios,Swift,D:\clones\firefox-ios\fastlane\SnapshotHelper.swift,56,21.0,232.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\ThemeSettingsController.swift,39,8.0,229.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\BatchingClient.swift,52,12.0,228.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\BackForwardListViewController.swift,41,6.0,227.0
+firefox-ios,Swift,D:\clones\firefox-ios\ThirdParty\UIImageColors.swift,52,27.0,227.0
+firefox-ios,Swift,D:\clones\firefox-ios\RustFxA\RustFirefoxAccounts.swift,50,44.0,225.0
+firefox-ios,Swift,D:\clones\firefox-ios\StorageTests\TestSQLiteRemoteClientsAndTabs.swift,54,15.0,225.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\TabDisplayManagerTests.swift,68,29.0,223.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\pkcs12.h,40,20.0,222.0
+firefox-ios,C,D:\clones\firefox-ios\ThirdParty\ecec\src\base64url.c,36,32.0,221.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\CustomSearchViewController.swift,49,6.0,220.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\DrawerViewController.swift,52,10.0,219.0
+firefox-ios,Swift,D:\clones\firefox-ios\PushTests\PushCryptoTests.swift,34,6.0,218.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\xcshareddata\xcschemes\Fennec_Enterprise.xcscheme,0,0.0,217.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\DownloadQueue.swift,65,11.0,216.0
+firefox-ios,Swift,D:\clones\firefox-ios\RustFxA\FxAWebViewModel.swift,33,28.0,214.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Prefs.swift,39,13.0,214.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\KeyboardPressesHandlerTests.swift,54,7.0,213.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\OpenSearch.swift,44,40.0,212.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\TabCell.swift,49,20.0,212.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\TabContentsScripts\LoginsHelper.swift,41,18.0,211.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\TopSites\FxHomeTopSitesViewModel.swift,59,24.0,210.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\IntegrationTests.swift,54,43.0,210.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\OneLineCellAndFooter.swift,39,5.0,209.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\ContileProviderTests.swift,42,5.0,209.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\HomeTabBanner.swift,57,27.0,207.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\HistoryDeletionUtilityTests.swift,48,11.0,207.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\err.h,29,23.0,207.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\BottomSheet\BottomSheetViewController.swift,27,17.0,205.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\JumpBackIn\FxHomeHorizontalCell.swift,43,17.0,203.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\Pocket\FxPocketHomeHorizontalCell.swift,43,12.0,203.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Info.plist,0,0.0,203.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\SiteTableViewController.swift,53,12.0,202.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\xcshareddata\xcschemes\Firefox.xcscheme,0,0.0,199.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\xcshareddata\xcschemes\FirefoxBeta.xcscheme,0,0.0,199.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\e_os2.h,27,85.0,199.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\Synchronizers\HistorySynchronizer.swift,44,43.0,199.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\dsa.h,36,49.0,198.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\SaveLoginsTests.swift,34,40.0,198.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Login Management\AddCredentialViewController.swift,42,17.0,197.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\ContentBlockerSettingViewController.swift,41,8.0,197.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\Frontend\Home\JumpBackIn\FirefoxHomeJumpBackInViewModelTests.swift,52,7.0,197.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\Pocket\FxHomePocketViewModel.swift,53,19.0,196.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\SnackBar.swift,39,21.0,196.0
+firefox-ios,Swift,D:\clones\firefox-ios\StorageTests\RustPlacesTests.swift,30,19.0,196.0
+firefox-ios,C,D:\clones\firefox-ios\ThirdParty\ecec\test\encrypt\aesgcm.c,20,3.0,196.0
+firefox-ios,XML,D:\clones\firefox-ios\WidgetKit\Base.lproj\WidgetIntents.intentdefinition,0,0.0,194.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\TopSites\TopSiteItemCell.swift,48,12.0,193.0
+firefox-ios,Swift,D:\clones\firefox-ios\Extensions\NotificationService\NotificationService.swift,38,20.0,193.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\ssl3.h,52,65.0,193.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\PrivateBrowsingTest.swift,51,33.0,193.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\SearchTest.swift,43,34.0,193.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\SiteImageHelperTests.swift,37,8.0,192.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\DefaultBrowserOnboarding\DefaultBrowserOnboardingViewController.swift,47,32.0,191.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\HomepageSettings\HomePageSettingViewController.swift,55,14.0,191.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\TelemetryWrapperTests.swift,56,9.0,191.0
+firefox-ios,Swift,D:\clones\firefox-ios\StorageTests\SyncCommandsTests.swift,47,5.0,191.0
+firefox-ios,Swift,D:\clones\firefox-ios\CredentialProvider\CredentialListViewController.swift,33,3.0,189.0
+firefox-ios,XML,D:\clones\firefox-ios\WidgetKit\SearchQuickLinksSmall\QuickLinkSelection.intentdefinition,0,0.0,189.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Toolbar+URLBar\TabToolbarHelper.swift,32,4.0,188.0
+firefox-ios,Swift,D:\clones\firefox-ios\SyncTests\HistorySynchronizerTests.swift,44,37.0,188.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\FirefoxHomeContextMenuHelper.swift,42,9.0,187.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\Synchronizers\Synchronizer.swift,36,69.0,187.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\BrowserViewController\BrowserViewController+ReaderMode.swift,48,18.0,186.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\BrowserViewController\BrowserViewController+TabToolbarDelegate.swift,41,5.0,184.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Functions.swift,28,41.0,184.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\HomePageSettingsUITest.swift,22,48.0,184.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\BookmarkingTests.swift,35,73.0,183.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Intro\OnboardingCardViewController.swift,40,5.0,182.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\OpenInHelper.swift,35,10.0,181.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\Punycode.swift,14,3.0,181.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Intro\IntroViewController.swift,39,15.0,181.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\PhotonActionSheet\PhotonActionSheetWidgets.swift,39,8.0,181.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\ActivityStreamTest.swift,38,26.0,181.0
+firefox-ios,Swift,D:\clones\firefox-ios\ThirdParty\Deferred\DeferredTests\DeferredTests.swift,46,14.0,179.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Login Management\BreachAlertsDetailView.swift,23,7.0,178.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\MockProfile.swift,50,4.0,178.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\WallpaperMigrationUtilityTests.swift,40,6.0,178.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\TimeConstants.swift,47,18.0,178.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\HistoryHighlights\HistoryHighlightsCell.swift,38,13.0,177.0
+firefox-ios,Swift,D:\clones\firefox-ios\L10nSnapshotTests\L10nSuite1SnapshotTests.swift,30,34.0,176.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Intro\IntroScreenWelcomeView.swift,19,16.0,175.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\TabsButton.swift,32,13.0,175.0
+firefox-ios,Markdown,D:\clones\firefox-ios\Docs\telemetry.md,69,0.0,175.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\Client\Frontend\UserContent\UserScripts\MainFrame\AtDocumentStart\ReaderMode.js,40,29.0,173.0
+firefox-ios,Swift,D:\clones\firefox-ios\StorageTests\TestBrowserDB.swift,46,11.0,172.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\photon-colors.swift,19,6.0,171.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Utils\FaviconFetcher.swift,30,31.0,171.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Utils\SearchTermGroupsUtility.swift,39,83.0,171.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\modes.h,24,8.0,171.0
+firefox-ios,Swift,D:\clones\firefox-ios\UITests\ClearPrivateDataTests.swift,42,47.0,171.0
+firefox-ios,Swift,D:\clones\firefox-ios\Account\FxAPushMessageHandler.swift,23,20.0,170.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\TopTabsViews.swift,41,7.0,170.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Login Management\LoginDetailTableViewCell.swift,41,13.0,170.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Helpers\DynamicFontHelper.swift,27,41.0,170.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\Pocket\FxHomePocketCollectionCell.swift,40,17.0,169.0
+firefox-ios,Swift,D:\clones\firefox-ios\RustFxA\FirefoxAccountSignInViewController.swift,35,29.0,169.0
+firefox-ios,Markdown,D:\clones\firefox-ios\ThirdParty\ecec\README.md,69,0.0,169.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\AppSettingsTableViewController.swift,38,18.0,167.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Update\UpdateViewController.swift,28,44.0,167.0
+firefox-ios,Swift,D:\clones\firefox-ios\RustFxA\FxAWebViewController.swift,42,34.0,167.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\TabPeekViewController.swift,32,8.0,166.0
+firefox-ios,Swift,D:\clones\firefox-ios\content-blocker-lib-ios\src\TrackingProtectionPageStats.swift,38,20.0,166.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\RecentlySaved\FxHomeRecentlySavedViewModel.swift,43,10.0,165.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\ReaderViewUITest.swift,33,36.0,164.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\FindInPageBar.swift,32,4.0,163.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\SearchEngines.swift,35,43.0,163.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\Wallpapers\Utilities\WallpaperStorageUtility.swift,36,24.0,162.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\FxHomeTopSitesViewModelTests.swift,48,8.0,161.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\conf.h,33,23.0,160.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\ct.h,77,296.0,160.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Experiments\Messaging\GleanPlumbMessageManager.swift,55,74.0,159.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\FeatureFlagsUserPrefsMigrationUtilityTests.swift,42,12.0,159.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\Synchronizers\Downloader.swift,34,37.0,159.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\lhash.h,23,23.0,158.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\ClearPrivateDataTableViewController.swift,31,17.0,157.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\WebsiteDataSearchResultsViewController.swift,28,6.0,156.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\SQL\BrowserDB.swift,43,41.0,156.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Experiments\Experiments.swift,32,66.0,155.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\EnhancedTrackingProtection\EnhancedTrackingProtectionDetailsVC.swift,37,14.0,155.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Theme\LegacyThemeManager\ThemedWidgets.swift,33,3.0,155.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\SearchInputView.swift,41,8.0,154.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\SentryIntegration.swift,37,22.0,154.0
+firefox-ios,Python,D:\clones\firefox-ios\Client\Assets\Search\scrape_plugins.py,44,17.0,153.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\DownloadFilesTests.swift,30,15.0,153.0
+firefox-ios,Python,D:\clones\firefox-ios\taskcluster\scripts\bitrise-schedule.py,55,18.0,153.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\AppIcon_Developer.appiconset\Contents.json,0,0.0,152.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Contextual Hint\ContextualHintViewModel.swift,37,12.0,152.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Library\HistoryPanel\GeneralizedTableView\SearchGroupedItemsViewController.swift,50,17.0,152.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\Synchronizers\TabsSynchronizer.swift,33,20.0,152.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\BaseTestCase.swift,29,10.0,152.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\DragAndDropTests.swift,67,119.0,152.0
+firefox-ios,Bourne Shell,D:\clones\firefox-ios\bin\nimbus-fml.sh,27,43.0,152.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Login Management\BreachAlertsManager.swift,22,32.0,151.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\RecentItemsHelperTests.swift,36,6.0,151.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\DesktopModeTests.swift,31,18.0,151.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\TopSites\DataManagement\FxHomeTopSitesManager.swift,47,31.0,150.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Extensions\UIAlertControllerExtensions.swift,44,30.0,149.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Theme\LegacyThemeManager\LegacyDarkTheme.swift,33,6.0,149.0
+firefox-ios,Objective-C,D:\clones\firefox-ios\ThirdParty\Apple\UIImage+ImageEffects.m,41,98.0,149.0
+firefox-ios,Swift,D:\clones\firefox-ios\Account\TokenServerClient.swift,22,9.0,146.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\SearchBarSettingsViewModelTests.swift,50,9.0,146.0
+firefox-ios,Swift,D:\clones\firefox-ios\StorageTests\TestSQLiteReadingList.swift,25,5.0,146.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\ThirdParty\ecec\include\ece.h,29,450.0,146.0
+firefox-ios,Swift,D:\clones\firefox-ios\Account\SyncAuthState.swift,23,5.0,145.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\EnhancedTrackingProtection\ETPCoverSheetViewController.swift,19,41.0,145.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\Clearables.swift,39,13.0,144.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Utils\FaviconFetcher+Non-Bundled.swift,26,7.0,144.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\DeferredUtils.swift,30,37.0,144.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\content-blocker-lib-ios\js\TrackingProtectionStats.js,31,28.0,143.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\ossl_typ.h,34,14.0,142.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\DomainAutocompleteTest.swift,34,40.0,142.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\ButtonToast.swift,33,4.0,140.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\PhotonActionSheet\PhotonActionSheetViewModel.swift,35,28.0,140.0
+firefox-ios,Swift,D:\clones\firefox-ios\UITests\TrackingProtectionTests.swift,38,14.0,140.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Application\TestAppDelegate.swift,38,18.0,139.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\DownloadToast.swift,41,4.0,139.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\Tabs\InactiveTabViewModel.swift,33,26.0,139.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Login Management\LoginListViewModel.swift,19,17.0,139.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\ui.h,42,197.0,139.0
+firefox-ios,Swift,D:\clones\firefox-ios\SyncTests\MockSyncServerTests.swift,32,25.0,138.0
+firefox-ios,C,D:\clones\firefox-ios\ThirdParty\ecec\test\base64url.c,38,2.0,138.0
+firefox-ios,Python,D:\clones\firefox-ios\SyncIntegrationTests\conftest.py,25,3.0,136.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\TabMetadataManager.swift,27,17.0,135.0
+firefox-ios,Swift,D:\clones\firefox-ios\Extensions\Today\TodayViewController.swift,24,6.0,135.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\SettingsContentViewController.swift,30,14.0,134.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\SyncContentSettingsViewController.swift,35,6.0,134.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\TabMetadataManagerTests.swift,34,5.0,134.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\FirefoxHomeViewModel.swift,33,17.0,133.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Intro\IntroScreenSyncView.swift,13,48.0,132.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Reader\ReaderModeBarView.swift,25,3.0,132.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\CumulativeDaysOfUseCounterTests.swift,39,20.0,132.0
+firefox-ios,Bourne Shell,D:\clones\firefox-ios\bin\sdk_generator.sh,26,27.0,132.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\MailProviders.swift,21,4.0,131.0
+firefox-ios,Swift,D:\clones\firefox-ios\SyncTelemetry\SyncTelemetryEvents.swift,20,4.0,131.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\opensslconf_ios_arm64.h,20,29.0,130.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\opensslconf_ios_armv7s.h,20,29.0,130.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\opensslconf_ios_i386.h,20,29.0,130.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\opensslconf_ios_x86_64.h,20,29.0,130.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\opensslconf_tvos_arm64.h,20,29.0,130.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\opensslconf_tvos_x86_64.h,20,29.0,130.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\SwipeAnimator.swift,25,8.0,129.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Helpers\TabEventHandler.swift,16,58.0,129.0
+firefox-ios,Swift,D:\clones\firefox-ios\Account\HawkHelper.swift,16,6.0,128.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Application\AccessibilityIdentifiers.swift,29,10.0,126.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Library\RecentlyClosedTabsPanel.swift,30,4.0,126.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\GradientProgressBar.swift,34,26.0,126.0
+firefox-ios,Swift,D:\clones\firefox-ios\Extensions\ShareTo\InitialViewController.swift,29,22.0,126.0
+firefox-ios,Swift,D:\clones\firefox-ios\SharedTests\AsyncReducerTests.swift,31,8.0,126.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\xcshareddata\xcschemes\Today.xcscheme,0,0.0,125.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Telemetry\AdsTelemetryHelper.swift,18,5.0,125.0
+firefox-ios,Swift,D:\clones\firefox-ios\Push\PushClient.swift,30,22.0,125.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\DefaultSuggestedSites.swift,3,3.0,124.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\FeatureFlags\NimbusFlaggableFeature.swift,25,28.0,123.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Helpers\UserActivityHandler.swift,27,3.0,122.0
+firefox-ios,Swift,D:\clones\firefox-ios\StorageTests\TestSwiftData.swift,28,16.0,122.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\FindInPageTest.swift,32,23.0,122.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\TabManagerStore.swift,26,17.0,121.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\safestack.h,10,33.0,121.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\SearchTests.swift,30,14.0,120.0
+firefox-ios,Swift,D:\clones\firefox-ios\SharedTests\FeatureSwitchTests.swift,21,6.0,120.0
+firefox-ios,Swift,D:\clones\firefox-ios\ThirdParty\Deferred\Deferred\Deferred.swift,24,11.0,120.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\SearchEnginesTests.swift,32,20.0,119.0
+firefox-ios,Bourne Shell,D:\clones\firefox-ios\rust_components_local.sh,31,13.0,119.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\Wallpapers\WallpaperDataManager.swift,32,35.0,117.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\LibraryPanelViewStateTests.swift,41,7.0,117.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\LoginPayload.swift,30,9.0,117.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\ScreenGraphTest.swift,30,45.0,117.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\BackForwardTableViewCell.swift,19,4.0,116.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Library\LibraryViewController\LibraryPanelViewState.swift,15,24.0,115.0
+firefox-ios,C,D:\clones\firefox-ios\ThirdParty\ecec\test\e2e.c,19,0.0,115.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\FaviconManager.swift,20,10.0,114.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\SearchLoader.swift,33,27.0,114.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Toolbar+URLBar\TabToolbar.swift,36,10.0,114.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Nimbus\NimbusFeatureFlagLayer.swift,31,5.0,114.0
+firefox-ios,JSON,D:\clones\firefox-ios\ClientTests\pocketglobalfeed.json,0,0.0,114.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\EncryptedJSON.swift,30,25.0,114.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\SyncMeta.swift,21,15.0,114.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\ClipboardBarDisplayHandler.swift,24,10.0,113.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\des.h,22,39.0,113.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\ThirdPartySearchTest.swift,26,10.0,113.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Reader\ReaderModeCache.swift,35,12.0,112.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\UserAgent.swift,25,8.0,112.0
+firefox-ios,Swift,D:\clones\firefox-ios\ThirdParty\Deferred\DeferredTests\ReadWriteLockTests.swift,27,80.0,112.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\FeatureFlagManagerTests.swift,21,18.0,111.0
+firefox-ios,Swift,D:\clones\firefox-ios\L10nSnapshotTests\L10nSuite2SnapshotTests.swift,23,8.0,111.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\KeyboardHelper.swift,20,25.0,110.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\TabsPayload.swift,26,19.0,110.0
+firefox-ios,XML,D:\clones\firefox-ios\ThirdParty\Deferred\Deferred.xcodeproj\xcshareddata\xcschemes\DeferredMac.xcscheme,0,0.0,110.0
+firefox-ios,Markdown,D:\clones\firefox-ios\ThirdParty\Deferred\README.md,39,0.0,110.0
+firefox-ios,Swift,D:\clones\firefox-ios\Account\KeyBundle.swift,25,13.0,109.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\Authenticator.swift,25,19.0,109.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\SiteImageHelper.swift,23,15.0,109.0
+firefox-ios,YAML,D:\clones\firefox-ios\.experimenter.yaml,0,0.0,108.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\xcshareddata\xcschemes\Sync.xcscheme,0,0.0,108.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\Keys.swift,23,35.0,108.0
+firefox-ios,Python,D:\clones\firefox-ios\test-fixtures\update-rust-component-version.py,22,19.0,108.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\ASHeaderView.swift,23,10.0,107.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\Wallpapers\WallpaperBackgroundView.swift,24,16.0,107.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\RatingPromptManager.swift,34,28.0,107.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\xcshareddata\xcschemes\L10nSnapshotTests.xcscheme,0,0.0,105.0
+firefox-ios,Swift,D:\clones\firefox-ios\UITests\MenuTests.swift,29,22.0,105.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\Wallpapers\Wallpaper.swift,19,12.0,104.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Library\LibraryPanels.swift,17,6.0,104.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\TabContentsScripts\ContextMenuHelper.swift,28,12.0,104.0
+firefox-ios,Swift,D:\clones\firefox-ios\StorageTests\RustLoginsTests.swift,15,3.0,104.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Extensions\UIImageViewExtensions.swift,18,7.0,103.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Intro\WallpapersCardViewController.swift,27,3.0,103.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\NavigationRouterTests.swift,31,8.0,102.0
+firefox-ios,Swift,D:\clones\firefox-ios\Push\PushRegistration.swift,20,7.0,102.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Application\QuickActions.swift,26,11.0,101.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\RemoteTabsPanelTests.swift,27,5.0,101.0
+firefox-ios,Swift,D:\clones\firefox-ios\Providers\Pocket\PocketFeed.swift,30,8.0,101.0
+firefox-ios,Swift,D:\clones\firefox-ios\ThirdParty\Deferred\Deferred\ReadWriteLock.swift,30,23.0,101.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\DownloadQueueTests.swift,28,3.0,100.0
+firefox-ios,Swift,D:\clones\firefox-ios\CredentialProvider\CredentialProviderViewController.swift,21,27.0,100.0
+firefox-ios,Python,D:\clones\firefox-ios\taskcluster\ffios_taskgraph\job.py,26,3.0,100.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\xcshareddata\xcschemes\ShareTo.xcscheme,0,0.0,99.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\BrowserPrompts.swift,19,18.0,99.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\HistoryHighlights\HistoryHighlightsManager.swift,25,34.0,98.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Reader\ReadabilityService.swift,24,12.0,98.0
+firefox-ios,Swift,D:\clones\firefox-ios\Providers\SyncStatusResolver.swift,13,15.0,98.0
+firefox-ios,Swift,D:\clones\firefox-ios\UITests\SecurityTests.swift,24,27.0,98.0
+firefox-ios,JSON,D:\clones\firefox-ios\WidgetKit\Assets.xcassets\AppIcon.appiconset\Contents.json,0,0.0,98.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\ClosedTabsStoreTests.swift,31,7.0,97.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\SponsoredTileTelemetryTests.swift,36,8.0,97.0
+firefox-ios,Swift,D:\clones\firefox-ios\SyncTelemetry\SyncTelemetry.swift,19,4.0,97.0
+firefox-ios,Swift,D:\clones\firefox-ios\WidgetKit\OpenTabs\OpenTabsWidget.swift,14,3.0,97.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\xcshareddata\xcschemes\Storage.xcscheme,0,0.0,96.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\ToggleButton.swift,23,6.0,96.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\UIStackViewExtensionsTests.swift,30,6.0,96.0
+firefox-ios,Swift,D:\clones\firefox-ios\SharedTests\DeferredTests.swift,29,6.0,96.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\SQL\SQLiteReadingList.swift,22,3.0,96.0
+firefox-ios,Swift,D:\clones\firefox-ios\StorageTests\SyncTelemetryTests.swift,34,9.0,96.0
+firefox-ios,XML,D:\clones\firefox-ios\ThirdParty\Deferred\Deferred.xcodeproj\xcshareddata\xcschemes\DeferredTests.xcscheme,0,0.0,96.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\Synchronizers\IndependentRecordSynchronizer.swift,19,33.0,94.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\PhotonActionSheetTest.swift,17,45.0,94.0
+firefox-ios,Bourne Shell,D:\clones\firefox-ios\test-fixtures\tabs-archive-maker.sh,22,13.0,94.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\AdvancedAccountSettingViewController.swift,18,3.0,93.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\ChevronView.swift,23,7.0,93.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\StartAtHomeHelperTests.swift,25,6.0,93.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\TabToolbarHelperTests.swift,39,3.0,92.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\NSUserDefaultsPrefs.swift,28,16.0,92.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\BrowsingPDFTests.swift,21,11.0,92.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\xcshareddata\xcschemes\Account.xcscheme,0,0.0,91.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\xcshareddata\xcschemes\MarketingUITests.xcscheme,0,0.0,91.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\SyncFAUITests.swift,16,14.0,91.0
+firefox-ios,CSS,D:\clones\firefox-ios\Client\Assets\NetError.css,13,7.0,90.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\Cursor.swift,19,16.0,89.0
+firefox-ios,Swift,D:\clones\firefox-ios\UITests\DomainAutocompleteTests.swift,14,19.0,89.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\FirefoxHomeViewModelTests.swift,21,6.0,88.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\FeatureFlags\FeatureFlagsManager.swift,26,35.0,87.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\Client\Frontend\UserContent\UserScripts\MainFrame\AtDocumentStart\NightModeHelper.js,26,21.0,87.0
+firefox-ios,Swift,D:\clones\firefox-ios\SharedTests\RollingFileLoggerTests.swift,22,11.0,87.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\xcshareddata\xcschemes\Shared.xcscheme,0,0.0,86.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\xcshareddata\xcschemes\Telemetry.xcscheme,0,0.0,86.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\OpenWithSettingsViewController.swift,23,3.0,86.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\HomepageSettings\WallpaperSettings\WallpaperSettingCollectionCell.swift,20,10.0,86.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\PhotonActionSheet\PhotonActionSheetProtocol.swift,17,3.0,86.0
+firefox-ios,JSON,D:\clones\firefox-ios\Extensions\Today\Images.xcassets\go-to-copied-link.imageset\Contents.json,0,0.0,86.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\srp.h,25,20.0,86.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\ExtensionUtils.swift,18,9.0,86.0
+firefox-ios,Swift,D:\clones\firefox-ios\StorageTests\TestSQLiteMetadata.swift,24,5.0,86.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\Wallpapers\WallpaperResourceManager.swift,24,7.0,85.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Share\ShareExtensionHelper.swift,24,19.0,85.0
+firefox-ios,Swift,D:\clones\firefox-ios\SharedTests\UtilsTests.swift,16,7.0,85.0
+firefox-ios,Swift,D:\clones\firefox-ios\WidgetKit\TopSites\TopSitesWidget.swift,12,4.0,85.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Components\BaseContentStackView.swift,25,6.0,84.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Extensions\StringExtensions.swift,22,28.0,84.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\RollingFileLogger.swift,21,10.0,84.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\RemoteTabs.swift,18,5.0,84.0
+firefox-ios,YAML,D:\clones\firefox-ios\.swiftlint.yml,4,25.0,83.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\FirefoxTabContentBlocker.swift,21,7.0,83.0
+firefox-ios,Swift,D:\clones\firefox-ios\CredentialProvider\CredentialPasscodeRequirementViewController.swift,17,3.0,83.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\DiskImageStore.swift,18,13.0,83.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Application\AppDelegate+PushNotifications.swift,18,16.0,82.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\RecentlySaved\FxHomeRecentlySavedCell.swift,21,9.0,82.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Library\LibraryViewController\LibraryViewController+ToolbarActions.swift,18,5.0,82.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Login Management\LoginListTableViewCell.swift,19,4.0,82.0
+firefox-ios,Swift,D:\clones\firefox-ios\CredentialProvider\CredentialWelcomeViewController.swift,18,3.0,82.0
+firefox-ios,C,D:\clones\firefox-ios\ThirdParty\ecec\tool\decrypt.c,7,0.0,81.0
+firefox-ios,Swift,D:\clones\firefox-ios\WidgetKit\QuickLink.swift,8,4.0,81.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\SearchSettingsUITest.swift,21,21.0,81.0
+firefox-ios,Python,D:\clones\firefox-ios\taskcluster\scripts\check-screenshots.py,37,7.0,81.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\FaviconHandler.swift,23,5.0,80.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\TabManagerStoreTests.swift,23,47.0,80.0
+firefox-ios,Swift,D:\clones\firefox-ios\L10nSnapshotTests\L10nMktSuiteSnapshotTests.swift,32,68.0,79.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\RecentlyClosedTabs.swift,19,4.0,79.0
+firefox-ios,Swift,D:\clones\firefox-ios\UITests\LoginInputTests.swift,16,3.0,79.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\SavedTab.swift,11,3.0,78.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Extensions\InstructionsViewController.swift,14,3.0,78.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\SearchBar\SearchBarSettingsViewModel.swift,19,5.0,78.0
+firefox-ios,Swift,D:\clones\firefox-ios\CredentialProvider\CredentialProviderPresenter.swift,12,5.0,78.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\DateGroupedTableData.swift,12,4.0,78.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\NewTabSettings.swift,10,18.0,78.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\TrackingProtectionTests.swift,23,22.0,78.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Experiments\Settings\ExperimentsSettingsViewController.swift,18,5.0,77.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Experiments\initial_experiments.json,0,0.0,77.0
+firefox-ios,Swift,D:\clones\firefox-ios\StorageTests\StorageTestUtils.swift,16,5.0,77.0
+firefox-ios,Swift,D:\clones\firefox-ios\SyncTelemetryTests\EventTests.swift,20,5.0,77.0
+firefox-ios,XML,D:\clones\firefox-ios\ThirdParty\Deferred\Deferred.xcodeproj\xcshareddata\xcschemes\Deferred.xcscheme,0,0.0,77.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\TabsPerformanceTests.swift,13,49.0,77.0
+firefox-ios,Swift,D:\clones\firefox-ios\content-blocker-lib-ios\ContentBlockerGen\Sources\ContentBlockerGenLib\ContentBlockerGenLib.swift,15,5.0,77.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\sha.h,16,27.0,76.0
+firefox-ios,Swift,D:\clones\firefox-ios\content-blocker-lib-ios\src\ContentBlocker+Safelist.swift,17,6.0,76.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Login Management\LoginOnboardingViewController.swift,18,3.0,75.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\AsyncReducer.swift,27,36.0,75.0
+firefox-ios,Swift,D:\clones\firefox-ios\SyncTests\StorageClientTests.swift,22,12.0,75.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\MetadataParserHelper.swift,13,5.0,74.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Login Management\BreachAlertsClient.swift,9,8.0,74.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Theme\LegacyThemeManager\LegacyThemeManager.swift,16,4.0,74.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\PrefsTests.swift,16,10.0,74.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\AppInfo.swift,16,22.0,74.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\SQL\SQLiteFavicons.swift,16,3.0,74.0
+firefox-ios,Swift,D:\clones\firefox-ios\SyncTests\DownloadTests.swift,23,7.0,74.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Library\HistoryPanel\HistoryPanelWithGroups+Search.swift,14,8.0,73.0
+firefox-ios,HTML,D:\clones\firefox-ios\Client\Frontend\Reader\ReaderViewLoading.html,11,3.0,73.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\TabContentsScripts\FormPostHelper.swift,18,3.0,73.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\SyncStatusResolverTests.swift,19,3.0,73.0
+firefox-ios,Swift,D:\clones\firefox-ios\MarketingUITests\MarketingUITests.swift,27,18.0,73.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Extensions\NSFileManagerExtensions.swift,21,14.0,73.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\TabTrayController+KeyCommands.swift,14,5.0,72.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\TopSites\DataManagement\ContileProvider.swift,21,8.0,72.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\Wallpapers\WallpaperManager.swift,22,20.0,72.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\FileAccessor.swift,16,29.0,72.0
+firefox-ios,YAML,D:\clones\firefox-ios\Sync\pings.yaml,2,3.0,72.0
+firefox-ios,Swift,D:\clones\firefox-ios\UITests\ReadingListTest.swift,25,27.0,72.0
+firefox-ios,Swift,D:\clones\firefox-ios\AccountTests\HawkHelperTests.swift,13,3.0,71.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\PhotonActionSheet\SingleActionViewModel.swift,20,21.0,71.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Telemetry\SearchTelemetry.swift,15,19.0,71.0
+firefox-ios,Swift,D:\clones\firefox-ios\ThirdParty\Reachability.swift,20,21.0,71.0
+firefox-ios,Swift,D:\clones\firefox-ios\UITests\BookmarksPanelTests.swift,49,113.0,71.0
+firefox-ios,HTML,D:\clones\firefox-ios\test-fixtures\test-mozilla-book.html,30,12.0,71.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\LoginsListDataSourceHelperTests.swift,9,3.0,70.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\AppConstants.swift,19,11.0,70.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Extensions\WKWebViewExtensions.swift,10,16.0,70.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\Visit.swift,18,37.0,70.0
+firefox-ios,Swift,D:\clones\firefox-ios\SyncTests\StateTests.swift,14,5.0,70.0
+firefox-ios,Swift,D:\clones\firefox-ios\SyncTests\TabsPayloadTests.swift,17,3.0,70.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\ToolbarTest.swift,16,35.0,70.0
+firefox-ios,Python,D:\clones\firefox-ios\taskcluster\ffios_taskgraph\transforms\bitrise.py,30,21.0,70.0
+firefox-ios,HTML,D:\clones\firefox-ios\Client\Assets\SessionRestore.html,6,3.0,69.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\FeatureFlags\FeatureFlagUserPrefsMigrationUtility.swift,20,12.0,69.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\CellWithRoundedButton.swift,17,6.0,69.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\BreachAlertsTests.swift,11,30.0,69.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Logger.swift,15,13.0,69.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Experiments\Settings\Views\ExperimentsSettingsView.swift,11,3.0,68.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Accessors\NewTabAccessors.swift,11,9.0,68.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\ReaderModeStyleTests.swift,20,4.0,68.0
+firefox-ios,HTML,D:\clones\firefox-ios\UITests\scrollablePage.html,0,0.0,68.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Experiments\Messaging\GleanPlumbMessageStore.swift,37,29.0,67.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\Tabs\InactiveTabHeader.swift,15,3.0,67.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Extensions\ArrayExtensions.swift,13,7.0,67.0
+firefox-ios,Swift,D:\clones\firefox-ios\UITests\AuthenticationTests.swift,15,17.0,67.0
+firefox-ios,Swift,D:\clones\firefox-ios\WidgetKit\SearchQuickLinksMedium\SearchQuickLinks.swift,13,3.0,67.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Experiments\Settings\ExperimentsViewController.swift,16,3.0,66.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\EnhancedTrackingProtection\SlideoverPresentationController.swift,13,3.0,66.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\TopSites\DataManagement\GoogleTopSiteManager.swift,14,12.0,66.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Library\ClearHistoryHelper.swift,11,11.0,66.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\TextFieldTableViewCell.swift,18,3.0,66.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\QuickActionsTests.swift,17,5.0,66.0
+firefox-ios,CMake,D:\clones\firefox-ios\ThirdParty\ecec\CMakeLists.txt,9,2.0,66.0
+firefox-ios,Swift,D:\clones\firefox-ios\UITests\HistoryTests.swift,30,41.0,66.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Application\ImageIdentifiers.swift,3,9.0,65.0
+firefox-ios,CSS,D:\clones\firefox-ios\Client\Assets\CertError.css,10,1.0,65.0
+firefox-ios,Swift,D:\clones\firefox-ios\CredentialProvider\CredentialListPresenter.swift,13,3.0,65.0
+firefox-ios,Markdown,D:\clones\firefox-ios\README.md,23,0.0,65.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Extensions\SetExtensions.swift,15,4.0,65.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\SQL\ReadingListSchema.swift,14,3.0,65.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Extensions\UIViewControllerExtension.swift,10,17.0,64.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\Tabs\EmptyPrivateTabsView.swift,16,7.0,64.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\TopSitesHelper.swift,16,13.0,64.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\TranslationToastHandler.swift,18,4.0,64.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\TabEventHandlerTests.swift,19,7.0,64.0
+firefox-ios,Swift,D:\clones\firefox-ios\WidgetKit\TopSites\TopSitesProvider.swift,13,6.0,64.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\DatabaseFixtureTest.swift,12,33.0,64.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Extensions\UIViewExtensions.swift,14,20.0,63.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\DefaultSearchPrefs.swift,9,19.0,63.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\DefaultBrowserOnboarding\DefaultBrowserOnboardingViewModel.swift,18,7.0,63.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Login Management\LoginDataSource.swift,10,7.0,63.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\Client\Frontend\UserContent\UserScripts\MainFrame\AtDocumentStart\NoImageModeHelper.js,12,6.0,63.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\PhotonActionSheet\PhotonActionSheetContainerCell.swift,17,8.0,63.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\aes.h,14,15.0,63.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\async.h,18,17.0,63.0
+firefox-ios,Swift,D:\clones\firefox-ios\L10nSnapshotTests\L10nBaseSnapshotTests.swift,16,3.0,63.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\AuthenticationManager\SensitiveViewController.swift,13,3.0,62.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\BrowserViewController\BrowserViewController+FindInPage.swift,16,8.0,62.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\TemporaryDocument.swift,18,8.0,62.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\Toast.swift,15,3.0,62.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Update\UpdateCoverSheetTableViewCell.swift,8,4.0,62.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\ThirdParty\ecec\include\ece\keys.h,15,14.0,62.0
+firefox-ios,Python,D:\clones\firefox-ios\test-fixtures\update.py,21,19.0,62.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\BackForwardListAnimator.swift,15,3.0,61.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\TopTabsLayout.swift,15,3.0,61.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\LogoHeader\FxHomeLogoHeaderCell.swift,13,9.0,61.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\Wallpapers\Utilities\WallpaperNetworkUtility.swift,19,7.0,61.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\TabContentsScripts\DownloadContentScript.swift,13,12.0,61.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\PhotonActionSheet\PhotonActionSheetAnimator.swift,14,3.0,61.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\DefaultBrowserOnboardingTests\DefaultBrowserOnboardingTests.swift,17,3.0,61.0
+firefox-ios,Swift,D:\clones\firefox-ios\Push\PushConfiguration.swift,13,8.0,61.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Extensions\HexExtensions.swift,9,5.0,61.0
+firefox-ios,Swift,D:\clones\firefox-ios\WidgetKit\ImageButtonWithLabel.swift,7,44.0,61.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Application\WebServer.swift,16,12.0,60.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\SimpleToast.swift,7,3.0,60.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\CustomizeHome\FxHomeCustomizeView.swift,17,9.0,60.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\Pocket\FxHomePocketDiscoverMoreCell.swift,15,11.0,60.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\InternalSchemeHandler\InternalSchemeHandler.swift,18,8.0,60.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\LoginsListSelectionHelperTests.swift,8,3.0,60.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\stack.h,10,8.0,60.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\ClipBoardTests.swift,9,8.0,60.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\EnhancedTrackingProtection\EnhancedTrackingProtectionVM.swift,18,6.0,59.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Reader\ReaderModeHandlers.swift,8,18.0,59.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Utils\CumulativeDaysOfUseCounter.swift,17,8.0,59.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\FileAccessorTests.swift,10,7.0,59.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\Clients.swift,11,5.0,59.0
+firefox-ios,Swift,D:\clones\firefox-ios\StoragePerfTests\StoragePerfTests.swift,15,5.0,59.0
+firefox-ios,Swift,D:\clones\firefox-ios\SyncTests\CryptoTests.swift,17,13.0,59.0
+firefox-ios,Swift,D:\clones\firefox-ios\UITests\SessionRestoreTests.swift,13,8.0,59.0
+firefox-ios,Swift,D:\clones\firefox-ios\WidgetKit\OpenTabs\SimpleTab.swift,9,9.0,59.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\FirstRunTourTests.swift,12,7.0,59.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\WeakList.swift,17,19.0,58.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\HistoryPayload.swift,18,6.0,58.0
+firefox-ios,Swift,D:\clones\firefox-ios\content-blocker-lib-ios\src\TabContentBlocker.swift,15,4.0,58.0
+firefox-ios,YAML,D:\clones\firefox-ios\.github\workflows\check-rust-component-dependency.yml,1,0.0,57.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\SavedTab+ConfigureExtension.swift,8,8.0,57.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\Tabs\TabTableViewHeader.swift,10,3.0,57.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Library\LibraryPanelContextMenu.swift,20,3.0,57.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\TabContentsScripts\UserScriptManager.swift,12,15.0,57.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Toolbar+URLBar\ReaderModeButton.swift,13,5.0,57.0
+firefox-ios,Swift,D:\clones\firefox-ios\RustFxA\FxAWebViewTelemetry.swift,8,24.0,57.0
+firefox-ios,Swift,D:\clones\firefox-ios\StorageTests\DiskImageStoreTests.swift,12,4.0,57.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\TabCounterTests.swift,18,4.0,57.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\AdjustHelper.swift,20,18.0,56.0
+firefox-ios,JSON,D:\clones\firefox-ios\CredentialProvider\CredentialAssets.xcassets\Colors\credentialCellColor.colorset\Contents.json,0,0.0,56.0
+firefox-ios,JSON,D:\clones\firefox-ios\CredentialProvider\CredentialAssets.xcassets\Colors\labelColor.colorset\Contents.json,0,0.0,56.0
+firefox-ios,JSON,D:\clones\firefox-ios\CredentialProvider\CredentialAssets.xcassets\Colors\launchScreenBackgroundColor.colorset\Contents.json,0,0.0,56.0
+firefox-ios,JSON,D:\clones\firefox-ios\Extensions\Today\Images.xcassets\subtitleLableColor.colorset\Contents.json,0,0.0,56.0
+firefox-ios,JSON,D:\clones\firefox-ios\Extensions\Today\Images.xcassets\widgetLabelColors.colorset\Contents.json,0,0.0,56.0
+firefox-ios,Objective-C,D:\clones\firefox-ios\FxA\FxA\NSData+Base16.m,21,3.0,56.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\rand.h,14,19.0,56.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\History.swift,16,35.0,56.0
+firefox-ios,JSON,D:\clones\firefox-ios\WidgetKit\Assets.xcassets\Background Gradients\goToCopiedLinkColorTwo.colorset\Contents.json,0,0.0,56.0
+firefox-ios,JSON,D:\clones\firefox-ios\WidgetKit\Assets.xcassets\Background Gradients\goToCopiedLinkSolid.colorset\Contents.json,0,0.0,56.0
+firefox-ios,JSON,D:\clones\firefox-ios\WidgetKit\Assets.xcassets\Background Gradients\privateGradientOne.colorset\Contents.json,0,0.0,56.0
+firefox-ios,JSON,D:\clones\firefox-ios\WidgetKit\Assets.xcassets\Background Gradients\privateGradientThree.colorset\Contents.json,0,0.0,56.0
+firefox-ios,JSON,D:\clones\firefox-ios\WidgetKit\Assets.xcassets\Background Gradients\privateGradientTwo.colorset\Contents.json,0,0.0,56.0
+firefox-ios,JSON,D:\clones\firefox-ios\WidgetKit\Assets.xcassets\Background Gradients\searchButtonColorOne.colorset\Contents.json,0,0.0,56.0
+firefox-ios,JSON,D:\clones\firefox-ios\WidgetKit\Assets.xcassets\Background Gradients\searchButtonColorTwo.colorset\Contents.json,0,0.0,56.0
+firefox-ios,JSON,D:\clones\firefox-ios\WidgetKit\Assets.xcassets\backgroundColor.colorset\Contents.json,0,0.0,56.0
+firefox-ios,JSON,D:\clones\firefox-ios\WidgetKit\Assets.xcassets\subtitleLabelColor.colorset\Contents.json,0,0.0,56.0
+firefox-ios,JSON,D:\clones\firefox-ios\WidgetKit\Assets.xcassets\widgetLabelColors.colorset\Contents.json,0,0.0,56.0
+firefox-ios,Bourne Shell,D:\clones\firefox-ios\setup_build_tools.sh,9,34.0,56.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\HomepageSettings\TopSitesSettings\TopSitesSettingsViewController.swift,16,6.0,55.0
+firefox-ios,XML,D:\clones\firefox-ios\Extensions\ShareTo\Info.plist,0,0.0,55.0
+firefox-ios,Swift,D:\clones\firefox-ios\Extensions\Today\UIButtonExtensions.swift,6,4.0,55.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\camellia.h,14,14.0,55.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\Site.swift,17,8.0,55.0
+firefox-ios,Swift,D:\clones\firefox-ios\ThirdParty\Result\Result.swift,11,7.0,55.0
+firefox-ios,Ruby,D:\clones\firefox-ios\fastlane\actions\import_build_tools.rb,10,8.0,55.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\ScreenshotHelper.swift,9,19.0,54.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\SessionData.swift,12,16.0,54.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Extensions\SiriShortcuts.swift,7,3.0,54.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\TopSites\HomeTopSite.swift,17,6.0,54.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Login Management\LoginListDataSourceHelper.swift,15,16.0,54.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\MailSchemes.plist,0,0.0,54.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\LoginsListViewModelTests.swift,13,3.0,54.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\UIImageViewExtensionsTests.swift,17,3.0,54.0
+firefox-ios,Swift,D:\clones\firefox-ios\Providers\Pocket\Model\PocketStory.swift,4,3.0,54.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\NetworkUtils.swift,7,4.0,54.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Application\AppDelegate+SyncSentTabs.swift,11,13.0,53.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\TabGroupData.swift,9,3.0,53.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\ThirdPartySearchAlerts.swift,20,15.0,53.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Login Management\DevicePasscodeRequiredViewController.swift,14,3.0,53.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\HistoryBackButton.swift,13,3.0,53.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\ResetTests.swift,17,8.0,53.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\TPStatsBlocklistsTests.swift,12,3.0,53.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\DeviceInfo.swift,13,13.0,53.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\SQL\SQLiteHistoryFactories.swift,13,8.0,53.0
+firefox-ios,C,D:\clones\firefox-ios\ThirdParty\ecec\tool\keygen.c,10,0.0,53.0
+firefox-ios,Swift,D:\clones\firefox-ios\WidgetKit\SearchQuickLinksSmall\SmallQuickLink.swift,11,3.0,53.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\TopSites\DataManagement\TopSiteHistoryManager.swift,14,11.0,52.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\KeychainCache.swift,8,5.0,52.0
+firefox-ios,C,D:\clones\firefox-ios\ThirdParty\ecec\test\test.c,11,3.0,52.0
+firefox-ios,Swift,D:\clones\firefox-ios\UITests\NoImageModeTests.swift,13,3.0,52.0
+firefox-ios,Swift,D:\clones\firefox-ios\UITests\ToolbarTests.swift,15,6.0,52.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\SearchSuggestClient.swift,14,12.0,51.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\TabPrintPageRenderer.swift,15,7.0,51.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\SiriSettingsViewController.swift,15,3.0,51.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\seed.h,14,33.0,51.0
+firefox-ios,Swift,D:\clones\firefox-ios\Providers\Pocket\Model\PocketSponsoredStory.swift,7,3.0,51.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\PageMetadata.swift,6,6.0,51.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\EnvelopeJSON.swift,15,7.0,51.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\Record.swift,16,31.0,51.0
+firefox-ios,Swift,D:\clones\firefox-ios\SyncTests\Mocking.swift,12,5.0,51.0
+firefox-ios,Swift,D:\clones\firefox-ios\WidgetKit\OpenTabs\TabProvider.swift,11,4.0,51.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\SettingsNavigationController.swift,9,3.0,50.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\Client\Frontend\UserContent\UserScripts\AllFrames\AtDocumentEnd\Ads.js,10,23.0,50.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\UIStackViewExtensions.swift,13,3.0,50.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\FeatureSwitch.swift,13,20.0,50.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\Tabs\TabTrayViewModel.swift,12,5.0,49.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\EnhancedTrackingProtection\ETPViewModel.swift,7,14.0,49.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\CalendarExtensionsTests.swift,13,5.0,49.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\ETPCoverSheet\ETPCoverSheetTests.swift,7,11.0,49.0
+firefox-ios,Swift,D:\clones\firefox-ios\CredentialProvider\Cells\ItemListCell.swift,12,3.0,49.0
+firefox-ios,Swift,D:\clones\firefox-ios\ThirdParty\Deferred\DeferredTests\LockProtectedTests.swift,10,10.0,49.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Experiments\Settings\ExperimentsBranchesViewController.swift,10,3.0,48.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\StartAtHomeHelper.swift,10,15.0,48.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\URIFixup.swift,13,14.0,48.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Intro\IntroViewModel.swift,8,3.0,48.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\PocketFeedTests.swift,13,7.0,48.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Extensions\KeychainWrapperExtensions.swift,11,3.0,48.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Extensions\UIImageExtensions.swift,10,7.0,48.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\Tab+ChangeUserAgent.swift,10,7.0,47.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\NewTabContentSettingsViewController.swift,12,4.0,47.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\TabContentsScripts\NightModeHelper.swift,13,4.0,47.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Toolbar+URLBar\ToolbarTextField.swift,14,13.0,47.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\Client\Frontend\UserContent\UserScripts\AllFrames\AtDocumentStart\DownloadHelper.js,11,4.0,47.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\CustomSearchEnginesTest.swift,10,3.0,47.0
+firefox-ios,Swift,D:\clones\firefox-ios\SharedTests\ArrayExtensionTests.swift,12,3.0,47.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\ThirdParty\ecec\test\test.h,20,3.0,47.0
+firefox-ios,Python,D:\clones\firefox-ios\taskcluster\scripts\get-secret.py,16,5.0,47.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\FirefoxHomeSectionType.swift,6,3.0,46.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\LogoHeader\FxHomeLogoHeaderViewModel.swift,17,4.0,46.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Toolbar+URLBar\ToolbarButton.swift,14,7.0,46.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\TestFavicons.swift,7,5.0,46.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Extensions\HashExtensions.swift,9,3.0,46.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\ReadingList.swift,7,4.0,46.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\SQL\SQLiteHistoryRecommendations.swift,10,12.0,46.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\SyncQueue.swift,12,6.0,46.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\CleartextPayloadJSON.swift,11,12.0,46.0
+firefox-ios,HTML,D:\clones\firefox-ios\test-fixtures\test-example.html,3,0.0,46.0
+firefox-ios,Swift,D:\clones\firefox-ios\Extensions\ShareTo\SendToDevice.swift,10,3.0,45.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\idea.h,11,8.0,45.0
+firefox-ios,Swift,D:\clones\firefox-ios\AccountTests\FxATelemtryTests.swift,4,3.0,44.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\BrowserViewController\BrowserViewController+DownloadQueueDelegate.swift,15,8.0,44.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\BadgeIcon.swift,7,4.0,44.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\ErrorToast.swift,8,3.0,44.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\DictionaryExtensionsTests.swift,12,5.0,44.0
+firefox-ios,Swift,D:\clones\firefox-ios\Extensions\Today\ButtonWithSublabel.swift,8,3.0,44.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\SystemUtils.swift,9,16.0,44.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\Info.swift,14,16.0,44.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\KeyboardPressesHandler.swift,15,17.0,43.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Library\HistoryPanel\HistoryActionables.swift,13,8.0,43.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\ThemedDefaultNavigationController.swift,9,3.0,43.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\GleanTelemetryTests.swift,11,3.0,43.0
+firefox-ios,Swift,D:\clones\firefox-ios\CredentialProvider\Extensions\AlertControllerView.swift,10,3.0,43.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\kdf.h,16,16.0,43.0
+firefox-ios,Swift,D:\clones\firefox-ios\PushTests\LivePushClientTests.swift,14,3.0,43.0
+firefox-ios,Swift,D:\clones\firefox-ios\content-blocker-lib-ios\ContentBlockerGen\Tests\ContentBlockerGenTests\ContentBlockerGenTests.swift,8,3.0,43.0
+firefox-ios,Markdown,D:\clones\firefox-ios\Client\Assets\Search\README.md,15,0.0,42.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\MailtoLinkHandler.swift,6,3.0,42.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\StringExtensionsTests.swift,12,8.0,42.0
+firefox-ios,XML,D:\clones\firefox-ios\CredentialProvider\MainInterface.storyboard,0,1.0,42.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\Rust\RustShared.swift,11,6.0,42.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\KeysPayload.swift,10,4.0,42.0
+firefox-ios,YAML,D:\clones\firefox-ios\.github\workflows\import-strings.yml,1,0.0,41.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\TabTrayButtonExtensions.swift,10,3.0,41.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Components\FadeScrollView.swift,13,5.0,41.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\InternalSchemeHandler\SessionRestoreHandler.swift,12,7.0,41.0
+firefox-ios,Objective-C,D:\clones\firefox-ios\Client\Frontend\Reader\FSReadingList.m,10,9.0,41.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Toolbar+URLBar\LockButton.swift,13,6.0,41.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\UpdateCoverSheet\UpdateCoverSheetViewModelTests.swift,9,20.0,41.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Cancellable.swift,11,3.0,41.0
+firefox-ios,Swift,D:\clones\firefox-ios\SyncTelemetryTests\FxALoginRegistrationTelemetryTests.swift,10,4.0,41.0
+firefox-ios,Swift,D:\clones\firefox-ios\SyncTests\InfoTests.swift,12,3.0,41.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\DisplaySettingsTests.swift,9,7.0,41.0
+firefox-ios,YAML,D:\clones\firefox-ios\.github\workflows\build-contributor-pr.yml,0,0.0,40.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\xcshareddata\xcbaselines\2FCAE2231ABB51F800877008.xcbaseline\Info.plist,0,0.0,40.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\xcshareddata\xcbaselines\E6F9650B1B2F1CF20034B023.xcbaseline\Info.plist,0,0.0,40.0
+firefox-ios,HTML,D:\clones\firefox-ios\Client\Assets\CertError.html,7,3.0,40.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\Wallpapers\Protocols\WallpaperFilePathProtocol.swift,10,13.0,40.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Theme\ThemeManager.swift,22,47.0,40.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Update\UpdateViewModel.swift,8,14.0,40.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Telemetry\SponsoredTileTelemetry.swift,11,7.0,40.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\buffer.h,16,20.0,40.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\comp.h,16,16.0,40.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\txt_db.h,9,8.0,40.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Extensions\UIColorExtensions.swift,8,6.0,40.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\ClientPayload.swift,13,4.0,40.0
+firefox-ios,Python,D:\clones\firefox-ios\SyncIntegrationTests\tps.py,12,1.0,40.0
+firefox-ios,YAML,D:\clones\firefox-ios\.github\workflows\update.yml,2,0.0,39.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Extensions\UIPasteboardExtensions.swift,8,12.0,39.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\CustomizeHome\FxHomeCustomizeButtonViewModel.swift,13,6.0,39.0
+firefox-ios,Swift,D:\clones\firefox-ios\CredentialProvider\Cells\EmptyPlaceholderCell.swift,8,3.0,39.0
+firefox-ios,XML,D:\clones\firefox-ios\Extensions\Today\Info.plist,0,0.0,39.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\rc5.h,11,13.0,39.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Extensions\JSONExtensions.swift,12,14.0,39.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\KeychainStore.swift,15,3.0,39.0
+firefox-ios,Swift,D:\clones\firefox-ios\content-blocker-lib-ios\ContentBlockerGen\Sources\ContentBlockerGen\main.swift,9,5.0,39.0
+firefox-ios,Bourne Shell,D:\clones\firefox-ios\l10n-screenshots.sh,11,0.0,39.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\webpack.config.js,5,7.0,39.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Application\AppDelegate+Experiments.swift,6,9.0,38.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\ActionSecondary.colorset\Contents.json,0,0.0,38.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\BorderDivider.colorset\Contents.json,0,0.0,38.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\ControlActive.colorset\Contents.json,0,0.0,38.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\ControlBase.colorset\Contents.json,0,0.0,38.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\IconAccentGreen.colorset\Contents.json,0,0.0,38.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\IconAccentPink.colorset\Contents.json,0,0.0,38.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\IconAccentViolet.colorset\Contents.json,0,0.0,38.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\IconAccentYellow.colorset\Contents.json,0,0.0,38.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\Layer1.colorset\Contents.json,0,0.0,38.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\Layer2Blur.colorset\Contents.json,0,0.0,38.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\Layer3.colorset\Contents.json,0,0.0,38.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\Layer4.colorset\Contents.json,0,0.0,38.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\LayerEmphasis.colorset\Contents.json,0,0.0,38.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\TextDisabled.colorset\Contents.json,0,0.0,38.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\TextLink.colorset\Contents.json,0,0.0,38.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\TextPrimary.colorset\Contents.json,0,0.0,38.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\TextSecondary.colorset\Contents.json,0,0.0,38.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\TextWarning.colorset\Contents.json,0,0.0,38.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\iconAccentBlue.colorset\Contents.json,0,0.0,38.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Theme\FxDefaultTheme.swift,6,9.0,38.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\TabTrayViewControllerTests.swift,13,4.0,38.0
+firefox-ios,Swift,D:\clones\firefox-ios\CredentialProvider\Cells\NoSearchResultCell.swift,9,3.0,38.0
+firefox-ios,XML,D:\clones\firefox-ios\CredentialProvider\Info.plist,0,0.0,38.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\NotificationConstants.swift,33,11.0,38.0
+firefox-ios,JSON,D:\clones\firefox-ios\WidgetKit\Assets.xcassets\normalBackgroundColor.colorset\Contents.json,0,0.0,38.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Application\Settings.bundle\Root.plist,0,0.0,37.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\HomePageHelper.swift,11,4.0,37.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Theme\Theme.swift,4,7.0,37.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\GeneralUtils.swift,9,9.0,37.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\SuggestedSites.swift,6,3.0,37.0
+firefox-ios,Python,D:\clones\firefox-ios\SyncIntegrationTests\xcodebuild.py,7,0.0,37.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\UITests\KIFHelper.js,8,15.0,37.0
+firefox-ios,HTML,D:\clones\firefox-ios\Client\Frontend\Reader\Reader.html,7,3.0,36.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Toolbar+URLBar\StatefulButton.swift,9,4.0,36.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\InnerStrokedView.swift,8,5.0,36.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Protocols\URLCaching.swift,11,5.0,36.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\HelperClass\URLProtocolStub.swift,13,3.0,36.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\MockableHistory.swift,2,8.0,36.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\blowfish.h,12,13.0,36.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Intro\OnboardingCardViewModel.swift,5,3.0,35.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\SearchEnginePicker.swift,9,3.0,35.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Helpers\MenuHelper.swift,6,3.0,35.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\RecentItemsHelper.swift,11,9.0,35.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Utils\Layout.swift,4,8.0,35.0
+firefox-ios,JSON,D:\clones\firefox-ios\Extensions\Today\Images.xcassets\search-button.imageset\Contents.json,0,0.0,35.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\cast.h,10,8.0,35.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Extensions\UIBarButtonItemExtensions.swift,7,4.0,35.0
+firefox-ios,XML,D:\clones\firefox-ios\WidgetKit\Info.plist,0,0.0,35.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\HomeButtonTests.swift,6,3.0,35.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Application\LaunchScreen.xib,0,0.0,34.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Components\ResizableButton.swift,9,3.0,34.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\TabsSettingsViewControler.swift,14,3.0,34.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\ToolbarBadge.swift,8,6.0,34.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\UIPasteboardExtensionsTests.swift,9,3.0,34.0
+firefox-ios,Swift,D:\clones\firefox-ios\Extensions\Today\ImageButtonWithLabel.swift,8,3.0,34.0
+firefox-ios,Swift,D:\clones\firefox-ios\WidgetKit\Helpers.swift,10,5.0,34.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\AuthenticationManager\AppAuthenticator.swift,7,8.0,33.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\TabContentsScripts\FocusHelper.swift,9,3.0,33.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\Client\Frontend\UserContent\UserScripts\AllFrames\WebcompatAtDocumentStart\FullscreenHelper.js,8,3.0,33.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Nimbus\NimbusManager.swift,12,7.0,33.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\DefaultSearchPrefsTests.swift,9,9.0,33.0
+firefox-ios,XML,D:\clones\firefox-ios\Extensions\NotificationService\Info.plist,0,0.0,33.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\rc2.h,10,8.0,33.0
+firefox-ios,HTML,D:\clones\firefox-ios\Client\Assets\NetError.html,10,8.0,32.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Login Management\LoginListSelectionHelper.swift,10,4.0,32.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\SettingsLoadingView.swift,7,3.0,32.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\TabContentsScripts\NoImageModeHelper.swift,10,4.0,32.0
+firefox-ios,Swift,D:\clones\firefox-ios\Providers\Pocket\Model\PocketFeedStory.swift,7,8.0,32.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Bytes.swift,7,12.0,32.0
+firefox-ios,Markdown,D:\clones\firefox-ios\.github\ISSUE_TEMPLATE\release_checklist_template.md,7,0.0,31.0
+firefox-ios,Swift,D:\clones\firefox-ios\AccountTests\TokenServerClientTests.swift,10,12.0,31.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Extensions\NSURLExtensionsMailTo.swift,12,13.0,31.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\Tabs\ASGroup.swift,9,3.0,31.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\UIWindowExtensions.swift,7,4.0,31.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\IntroViewModelTests.swift,10,3.0,31.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\TabsQuantityTelemetryTests.swift,13,3.0,31.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\WebServerTests.swift,7,6.0,31.0
+firefox-ios,Swift,D:\clones\firefox-ios\Extensions\ShareTo\ShareTheme.swift,7,3.0,31.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\whrlpool.h,8,9.0,31.0
+firefox-ios,Swift,D:\clones\firefox-ios\RustFxA\PushNotificationSetup.swift,6,4.0,31.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\SQL\SQLiteMetadata.swift,10,17.0,31.0
+firefox-ios,HTML,D:\clones\firefox-ios\UITests\readerContent.html,0,0.0,31.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\PrivilegedRequest.swift,8,18.0,30.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\InternalSchemeHandler\AboutHomeHandler.swift,4,5.0,30.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\SearchBar\SearchBarSettingsViewController.swift,10,3.0,30.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\Client\Frontend\UserContent\UserScripts\AllFrames\AtDocumentEnd\FocusHelper.js,6,8.0,30.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\NewTabButton.swift,7,3.0,30.0
+firefox-ios,Swift,D:\clones\firefox-ios\Extensions\Today\TodayViewModel.swift,4,3.0,30.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\dtls1.h,15,11.0,30.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\hmac.h,11,8.0,30.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Accessibility.swift,8,3.0,30.0
+firefox-ios,Objective-C,D:\clones\firefox-ios\Shared\FSUtils.m,9,3.0,30.0
+firefox-ios,HTML,D:\clones\firefox-ios\UITests\localhostLoad.html,2,0.0,30.0
+firefox-ios,YAML,D:\clones\firefox-ios\taskcluster\ci\config.yml,4,0.0,30.0
+firefox-ios,Dockerfile,D:\clones\firefox-ios\taskcluster\docker\screenshots\Dockerfile,16,8.0,30.0
+firefox-ios,HTML,D:\clones\firefox-ios\test-fixtures\test-indexeddb-private.html,7,0.0,30.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Extensions\GeometryExtensions.swift,7,9.0,29.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\FeatureFlags\CoreFlaggableFeature.swift,7,10.0,29.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\HistoryHighlights\HighlightItem.swift,9,3.0,29.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\TabContentsScripts\FindInPageHelper.swift,9,3.0,29.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\md4.h,9,13.0,29.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\md5.h,8,13.0,29.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\ripemd.h,10,8.0,29.0
+firefox-ios,Swift,D:\clones\firefox-ios\content-blocker-lib-ios\src\TabContentBlocker+ContentScript.swift,6,5.0,29.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Experiments\Messaging\GleanPlumbMessageUtility.swift,13,12.0,28.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\HomepageSettings\TopSitesSettings\TopSitesRowCountSettingsController.swift,8,3.0,28.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\TabContentsScripts\LocalRequestHelper.swift,7,4.0,28.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Protocols\ReusableCell.swift,10,11.0,28.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\symhacks.h,8,16.0,28.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Extensions\URLProtectionSpaceExtensions.swift,8,7.0,28.0
+firefox-ios,XML,D:\clones\firefox-ios\ThirdParty\Deferred\DeferredMac\Info.plist,0,0.0,28.0
+firefox-ios,Swift,D:\clones\firefox-ios\UITests\NavigationDelegateTests.swift,6,5.0,28.0
+firefox-ios,Swift,D:\clones\firefox-ios\WidgetKit\TopSites\WidgetKitTopSiteModel.swift,5,3.0,28.0
+firefox-ios,Markdown,D:\clones\firefox-ios\CONTRIBUTING.md,6,0.0,27.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Library\HistoryPanel\HistoryPanel+ContextMenuExtensions.swift,8,3.0,27.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\TabContentsScripts\SessionRestoreHelper.swift,7,3.0,27.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\UIConstants.swift,6,7.0,27.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\Client\Frontend\UserContent\UserScripts\MainFrame\AtDocumentEnd\CustomSearchHandler.js,4,4.0,27.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Utils\HistoryDeletionUtility.swift,8,6.0,27.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\ClientTests.swift,7,12.0,27.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\XCTestCaseExtensions.swift,6,3.0,27.0
+firefox-ios,Swift,D:\clones\firefox-ios\Extensions\NotificationService\ExtensionProfile.swift,8,9.0,27.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\md2.h,9,8.0,27.0
+firefox-ios,Swift,D:\clones\firefox-ios\StorageTests\CertTests.swift,10,10.0,27.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\SettingsTest.swift,10,33.0,27.0
+firefox-ios,Python,D:\clones\firefox-ios\taskcluster\ffios_taskgraph\loader\screenshots_locales.py,13,7.0,27.0
+firefox-ios,Python,D:\clones\firefox-ios\taskcluster\ffios_taskgraph\routes.py,12,6.0,27.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\New Tab - Reader\MarkAsUnread.imageset\Contents.json,0,0.0,26.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\New Tab - Reader\SettingsSansSerif.imageset\Contents.json,0,0.0,26.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\New Tab - Reader\SettingsSerif.imageset\Contents.json,0,0.0,26.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Experiments\Messaging\GleanPlumbMessage.swift,19,15.0,26.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Library\LibraryViewController\LibraryViewController+LibraryPanelDelegate.swift,6,9.0,26.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Reader\ReaderModeStyleViewModel.swift,10,5.0,26.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\SettingsViewController.swift,9,3.0,26.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\Client\Frontend\UserContent\UserScripts\AllFrames\AtDocumentEnd\ContextMenu.js,9,6.0,26.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\RelativeDatesTests.swift,11,3.0,26.0
+firefox-ios,Objective-C,D:\clones\firefox-ios\FxA\FxA\NSData+SHA.m,10,5.0,26.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\mdc2.h,8,8.0,26.0
+firefox-ios,Python,D:\clones\firefox-ios\SyncIntegrationTests\test_integration.py,8,5.0,26.0
+firefox-ios,XML,D:\clones\firefox-ios\XCGLogger-Info.plist,0,0.0,26.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\SiteLoadTest.swift,6,6.0,26.0
+firefox-ios,JSON,D:\clones\firefox-ios\package.json,0,0.0,26.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\badge-mask.imageset\Contents.json,0,0.0,25.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\warning-mask.imageset\Contents.json,0,0.0,25.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\FxHomeSectionHandler.swift,11,8.0,25.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Library\LibraryViewController\LibraryViewModel.swift,7,3.0,25.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Login\LoginViewController.swift,7,3.0,25.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\SupportUtils.swift,3,15.0,25.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\DataManagementTests.swift,5,4.0,25.0
+firefox-ios,Bourne Shell,D:\clones\firefox-ios\bootstrap.sh,7,9.0,25.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\Breached Website.imageset\Contents.json,0,0.0,24.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\menuBadge.imageset\Contents.json,0,0.0,24.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\menuWarning.imageset\Contents.json,0,0.0,24.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\privateModeBadge.imageset\Contents.json,0,0.0,24.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\whatsnew.imageset\Contents.json,0,0.0,24.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Accessors\HomePageAccessors.swift,7,7.0,24.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\FxHomeViewModelProtocol.swift,17,14.0,24.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\HomePanelContextMenu.swift,7,3.0,24.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Intro\Intro.xcassets\close-large.imageset\Contents.json,0,0.0,24.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Menu\Menu.xcassets\Image.imageset\Contents.json,0,0.0,24.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\UIScrollViewSwizzled.swift,9,5.0,24.0
+firefox-ios,Swift,D:\clones\firefox-ios\CredentialProvider\Cells\SelectPasswordCell.swift,7,3.0,24.0
+firefox-ios,Swift,D:\clones\firefox-ios\Extensions\ShareTo\UXConstants.swift,4,5.0,24.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\srtp.h,12,14.0,24.0
+firefox-ios,XML,D:\clones\firefox-ios\SyncTelemetry\Info.plist,0,0.0,24.0
+firefox-ios,XML,D:\clones\firefox-ios\ThirdParty\Deferred\DeferredTests\Info.plist,0,0.0,24.0
+firefox-ios,XML,D:\clones\firefox-ios\UITests\Info.plist,0,0.0,24.0
+firefox-ios,JSON,D:\clones\firefox-ios\WidgetKit\Assets.xcassets\placeholderFavicon.imageset\Contents.json,0,0.0,24.0
+firefox-ios,XML,D:\clones\firefox-ios\XCUITests\Info.plist,0,0.0,24.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\MailAppSettingsTests.swift,6,7.0,24.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\New Tab - Reader\MarkAsRead.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\New Tab - Reader\ReaderModeActive.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\New Tab - Reader\brightnessMax.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\New Tab - Reader\brightnessMin.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\faviconFox.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\loginSelected.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\loginUnselected.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\play.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\quickSearch.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\quick_action_last_tab.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\splash.imageset\Contents.json,0,0.0,23.0
+firefox-ios,Python,D:\clones\firefox-ios\Client\Assets\Search\run_tests.py,8,3.0,23.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\BrowserViewController\BrowserViewController+UIDropInteractionDelegate.swift,8,4.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Browser\QRCode.xcassets\qrcode-goBack.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Browser\QRCode.xcassets\qrcode-isLighting.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Browser\QRCode.xcassets\qrcode-light.imageset\Contents.json,0,0.0,23.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\SiteArchiver.swift,5,5.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Intro\Intro.xcassets\tour-Sync.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Intro\Intro.xcassets\tour-Welcome.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Menu\Menu.xcassets\menu-Tools.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Menu\Menu.xcassets\menu-customswitch-background.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Menu\Menu.xcassets\menu-customswitch-off.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Menu\Menu.xcassets\menu-customswitch-on.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Settings\Settings.xcassets\AmberCaution.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Settings\Settings.xcassets\RedCaution.imageset\Contents.json,0,0.0,23.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\UXSizeClass.swift,4,9.0,23.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\FirefoxHomeViewControllerTests.swift,11,5.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\CredentialProvider\Assets.xcassets\empty-list-placeholder.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\CredentialProvider\Assets.xcassets\item-list-placeholder.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\CredentialProvider\CredentialAssets.xcassets\clear-icon.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\CredentialProvider\CredentialAssets.xcassets\empty-list-placeholder.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\CredentialProvider\CredentialAssets.xcassets\item-list-placeholder.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\CredentialProvider\CredentialAssets.xcassets\logo-glyph.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\CredentialProvider\CredentialAssets.xcassets\search-icon.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\CredentialProvider\CredentialAssets.xcassets\warning.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Extensions\ShareTo\Images.xcassets\Icon-Small.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Extensions\ShareTo\Images.xcassets\open-in-firefox.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Extensions\ShareTo\SendTo.xcassets\deviceTypeTablet.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Extensions\ShareTo\SendTo.xcassets\emptySync.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Extensions\Today\Images.xcassets\copy_link_icon.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Extensions\Today\Images.xcassets\new_private_tab_button_highlight.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Extensions\Today\Images.xcassets\new_private_tab_button_normal.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Extensions\Today\Images.xcassets\new_tab_button_highlight.imageset\Contents.json,0,0.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\Extensions\Today\Images.xcassets\new_tab_button_normal.imageset\Contents.json,0,0.0,23.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\cmac.h,9,9.0,23.0
+firefox-ios,Swift,D:\clones\firefox-ios\L10nSnapshotTests\L10nPermissionStringsSnapshotTests.swift,6,3.0,23.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\SQL\SQLiteQueue.swift,8,3.0,23.0
+firefox-ios,JSON,D:\clones\firefox-ios\WidgetKit\Assets.xcassets\faviconFox.imageset\Contents.json,0,0.0,23.0
+firefox-ios,YAML,D:\clones\firefox-ios\.mergify.yml,1,0.0,22.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\xcshareddata\xcbaselines\2FCAE2231ABB51F800877008.xcbaseline\FE8885C6-BB1A-48D2-9B90-E9F952C98F6B.plist,0,0.0,22.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\xcshareddata\xcbaselines\E6F9650B1B2F1CF20034B023.xcbaseline\F9839E4F-67D2-4920-8CE8-94CEE3A6C3D7.plist,0,0.0,22.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\Client\Assets\SpotlightHelper.js,6,3.0,22.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\TextContentDetector.swift,6,3.0,22.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\TopSites\EmptyTopSiteCell.swift,6,4.0,22.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\Wallpapers\Utilities\WallpaperMigrationUtility.swift,8,5.0,22.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Reader\ReaderModeUtils.swift,7,3.0,22.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\TabContentsScripts\PrintHelper.swift,6,3.0,22.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\Client\Frontend\UserContent\UserScripts\MainFrame\AtDocumentEnd\MetadataHelper.js,7,9.0,22.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Utils\ConfigurableGradientView.swift,7,12.0,22.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\ProfileTest.swift,9,7.0,22.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\TabTests.swift,5,3.0,22.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\conf_api.h,7,11.0,22.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\SyncIntegrationTests\test_bookmark_login.js,6,10.0,22.0
+firefox-ios,XML,D:\clones\firefox-ios\SyncTelemetryTests\Info.plist,0,0.0,22.0
+firefox-ios,Swift,D:\clones\firefox-ios\ThirdParty\Deferred\Deferred\LockProtected.swift,6,7.0,22.0
+firefox-ios,Python,D:\clones\firefox-ios\taskcluster\scripts\write-dummy-secret.py,13,3.0,22.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Browser\QRCode.xcassets\qrcode-scanBorder.imageset\Contents.json,0,0.0,21.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Browser\QRCode.xcassets\qrcode-scanLine.imageset\Contents.json,0,0.0,21.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\EnhancedTrackingProtection\ETP.xcassets\shield.imageset\Contents.json,0,0.0,21.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Intro\Intro.xcassets\tour-sync-v2.imageset\Contents.json,0,0.0,21.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Menu\Menu.xcassets\menu-reportSiteIssue.imageset\Contents.json,0,0.0,21.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Settings\Settings.xcassets\FxA-Sync.imageset\Contents.json,0,0.0,21.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Update\Update.xcassets\bugUpdate.imageset\Contents.json,0,0.0,21.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Update\Update.xcassets\darkModeUpdate.imageset\Contents.json,0,0.0,21.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\Client\Frontend\UserContent\UserScripts\AllFrames\AtDocumentStart\__firefox__.js,3,4.0,21.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\PhotonActionSheet\ToggleSwitch.swift,5,3.0,21.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Protocols\TopBottomInterchangeable.swift,5,5.0,21.0
+firefox-ios,JSON,D:\clones\firefox-ios\Extensions\ShareTo\Images.xcassets\AddToBookmarks.imageset\Contents.json,0,0.0,21.0
+firefox-ios,JSON,D:\clones\firefox-ios\Extensions\ShareTo\Images.xcassets\quickSearch.imageset\Contents.json,0,0.0,21.0
+firefox-ios,JSON,D:\clones\firefox-ios\Extensions\ShareTo\SendTo.xcassets\deviceTypeMobile.imageset\Contents.json,0,0.0,21.0
+firefox-ios,JSON,D:\clones\firefox-ios\Extensions\Today\Images.xcassets\close-private-tabs.imageset\Contents.json,0,0.0,21.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\rc4.h,7,8.0,21.0
+firefox-ios,Swift,D:\clones\firefox-ios\RustFxA\Avatar.swift,4,3.0,21.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\NightModeTests.swift,7,8.0,21.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\NoImageTests.swift,8,8.0,21.0
+firefox-ios,YAML,D:\clones\firefox-ios\taskcluster\ci\build\kind.yml,3,3.0,21.0
+firefox-ios,YAML,D:\clones\firefox-ios\taskcluster\ci\generate-screenshots\kind.yml,5,3.0,21.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\ActionPrimary.colorset\Contents.json,0,0.0,20.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\BorderSelectedDefault.colorset\Contents.json,0,0.0,20.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\BorderSelectedPRivate.colorset\Contents.json,0,0.0,20.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\IconDisabled.colorset\Contents.json,0,0.0,20.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\Scrim.colorset\Contents.json,0,0.0,20.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\FxColours.xcassets\TextInverted.colorset\Contents.json,0,0.0,20.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\TabToolbar\nav-forward.imageset\Contents.json,0,0.0,20.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\baidu.xml,1,7.0,20.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-zh-TW.xml,1,4.0,20.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Entitlements\FirefoxApplication.entitlements,0,0.0,20.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Entitlements\FirefoxBetaApplication.entitlements,0,0.0,20.0
+firefox-ios,Objective-C,D:\clones\firefox-ios\Client\Utils\Swizzling.m,3,3.0,20.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\LaunchArguments.swift,3,4.0,20.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\RemoteDevices.swift,4,3.0,20.0
+firefox-ios,HTML,D:\clones\firefox-ios\UITests\JSPrompt.html,5,0.0,20.0
+firefox-ios,JSON,D:\clones\firefox-ios\WidgetKit\Assets.xcassets\AccentColor.colorset\Contents.json,0,0.0,20.0
+firefox-ios,JSON,D:\clones\firefox-ios\WidgetKit\Assets.xcassets\WidgetBackground.colorset\Contents.json,0,0.0,20.0
+firefox-ios,JSON,D:\clones\firefox-ios\WidgetKit\Assets.xcassets\privateLabelColor.colorset\Contents.json,0,0.0,20.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\AuthenticationTest.swift,8,5.0,20.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\CopiedLinksTests.swift,8,8.0,20.0
+firefox-ios,Swift,D:\clones\firefox-ios\content-blocker-lib-ios\ContentBlockerGen\Package.swift,2,4.0,20.0
+firefox-ios,Python,D:\clones\firefox-ios\taskcluster\ffios_taskgraph\util\chunkify.py,14,17.0,20.0
+firefox-ios,Bourne Shell,D:\clones\firefox-ios\test-fixtures\generate-metrics.sh,4,1.0,20.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Components\ActionButton.swift,5,4.0,19.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Login Management\NoLoginsView.swift,6,4.0,19.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Settings\HomepageSettings\WallpaperSettings\WallpaperSettingsViewModel.swift,6,6.0,19.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Toolbar+URLBar\URLTextField.swift,5,3.0,19.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Protocols\Loggable.swift,5,3.0,19.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\NimbusIntegrationTests.swift,6,5.0,19.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\CertStore.swift,6,4.0,19.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\SyncIntegrationTests\test_history_desktop.js,5,9.0,19.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\ThirdParty\ecec\include\ece\trailer.h,6,6.0,19.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\WebPagesForTesting.swift,7,5.0,19.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\ddg.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\duckduckgo.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-NN.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-NO.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-an.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-ar.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-as.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-ast.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-az.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-be.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-bg.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-bn.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-br.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-bs.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-ca.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-cy.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-cz.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-da.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-de.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-dsb.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-el.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-eo.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-es.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-et.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-eu.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-fa.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-fi.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-fr.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-fy-NL.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-ga-IE.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-gd.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-gl.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-gn.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-gu.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-he.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-hi.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-hr.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-hsb.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-hu.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-hy-AM.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-ia.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-id.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-is.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-it.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-ja.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-ka.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-kab.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-kk.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-km.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-kn.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-lo.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-lt.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-ltg.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-lv.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-ml.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-mr.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-ms.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-my.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-ne.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-nl.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-oc.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-or.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-pa.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-pl.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-pt.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-rm.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-ro.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-ru.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-sk.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-sl.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-sq.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-sr.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-sv-SE.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-ta.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-te.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-th.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-tr.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-uk.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-ur.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-uz.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-vi.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-wo.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia-zh-CN.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wikipedia.xml,1,4.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\yandex-tr.xml,1,3.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\yandex.by.xml,1,3.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Entitlements\FennecApplication.entitlements,0,0.0,18.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Entitlements\FennecEnterpriseApplication.entitlements,0,0.0,18.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Share\TitleActivityItemProvider.swift,6,9.0,18.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Protocols\CanRemoveQuickActionBookmark.swift,4,7.0,18.0
+firefox-ios,Swift,D:\clones\firefox-ios\CredentialProvider\Extensions\UIImageExtension.swift,3,3.0,18.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\ebcdic.h,6,9.0,18.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\opensslconf.h,3,6.0,18.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\Sharing.swift,5,6.0,18.0
+firefox-ios,HTML,D:\clones\firefox-ios\test-fixtures\test-user-agent.html,3,0.0,18.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\goBack.imageset\Contents.json,0,0.0,17.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\coccoc.xml,1,3.0,17.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\yandex-ru.xml,1,3.0,17.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\yandex.xml,1,3.0,17.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\UIConstants+BottomInset.swift,3,3.0,17.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\opensslv.h,6,82.0,17.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Loader.swift,6,10.0,17.0
+firefox-ios,Swift,D:\clones\firefox-ios\SharedTests\HexExtensionsTests.swift,4,3.0,17.0
+firefox-ios,Swift,D:\clones\firefox-ios\StorageTests\MockFiles.swift,3,3.0,17.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\tracking-protection-active-block.imageset\Contents.json,0,0.0,16.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\tracking-protection.imageset\Contents.json,0,0.0,16.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\trash-icon.imageset\Contents.json,0,0.0,16.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\sztaki-en-hu.xml,1,3.0,16.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\Tests\Expected\append.xml,0,3.0,16.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Experiments\Settings\Views\ExperimentsTableView.swift,5,3.0,16.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Protocols\Notifiable.swift,4,3.0,16.0
+firefox-ios,XML,D:\clones\firefox-ios\CredentialProvider\CredentialProviderFennec.entitlements,0,0.0,16.0
+firefox-ios,XML,D:\clones\firefox-ios\CredentialProvider\CredentialProviderFirefox.entitlements,0,0.0,16.0
+firefox-ios,XML,D:\clones\firefox-ios\CredentialProvider\CredentialProviderFirefoxBeta.entitlements,0,0.0,16.0
+firefox-ios,Swift,D:\clones\firefox-ios\Providers\LoginRecordExtension.swift,4,3.0,16.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\SyncIntegrationTests\test_password_desktop.js,5,9.0,16.0
+firefox-ios,C,D:\clones\firefox-ios\ThirdParty\ecec\src\trailer.c,3,0.0,16.0
+firefox-ios,Swift,D:\clones\firefox-ios\UITests\ViewMemoryLeakTests.swift,15,69.0,16.0
+firefox-ios,JSON,D:\clones\firefox-ios\WidgetKit\Assets.xcassets\search-button.imageset\Contents.json,0,0.0,16.0
+firefox-ios,JSON,D:\clones\firefox-ios\WidgetKit\Assets.xcassets\smallPrivateMask.imageset\Contents.json,0,0.0,16.0
+firefox-ios,HTML,D:\clones\firefox-ios\test-fixtures\test-password-2.html,7,0.0,16.0
+firefox-ios,Swift,D:\clones\firefox-ios\Account\Telemetry.swift,6,4.0,15.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\New Tab - Activity Stream\pin_small.imageset\Contents.json,0,0.0,15.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\New Tab - Reader\addToReadingList.imageset\Contents.json,0,0.0,15.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\TabToolbar\nav-refresh.imageset\Contents.json,0,0.0,15.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\bookmark.imageset\Contents.json,0,0.0,15.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\qr-scan.imageset\Contents.json,0,0.0,15.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\quick_action_go_to_copied.imageset\Contents.json,0,0.0,15.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\sponsored-star.imageset\Contents.json,0,0.0,15.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\sync_open_tab.imageset\Contents.json,0,0.0,15.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\themeBrightness.imageset\Contents.json,0,0.0,15.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\daum-kr.xml,2,3.0,15.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\yandex-market.xml,2,3.0,15.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\HomePanelDelegate.swift,3,3.0,15.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\TopSites\SponsoredTile.swift,7,5.0,15.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Library\HistoryPanel\GeneralizedTableView\SearchGroupedItemsViewModel.swift,12,10.0,15.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Menu\Menu.xcassets\menu-Bookmark-Remove.imageset\Contents.json,0,0.0,15.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Menu\Menu.xcassets\menu-Bookmark.imageset\Contents.json,0,0.0,15.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Menu\Menu.xcassets\menu-FindInPage.imageset\Contents.json,0,0.0,15.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Menu\Menu.xcassets\menu-Home.imageset\Contents.json,0,0.0,15.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Menu\Menu.xcassets\menu-Settings.imageset\Contents.json,0,0.0,15.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Menu\Menu.xcassets\menu-TrackingProtection.imageset\Contents.json,0,0.0,15.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Menu\Menu.xcassets\menu-panel-ReadingList.imageset\Contents.json,0,0.0,15.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Menu\Menu.xcassets\menu-pocket.imageset\Contents.json,0,0.0,15.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Menu\Menu.xcassets\menu-sync.imageset\Contents.json,0,0.0,15.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Menu\Menu.xcassets\nav-tabcounter.imageset\Contents.json,0,0.0,15.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Toolbar+URLBar\TabLocationContainerView.swift,5,5.0,15.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Telemetry\TabsQuantityTelemetry.swift,4,3.0,15.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Utils\Throttler.swift,5,4.0,15.0
+firefox-ios,YAML,D:\clones\firefox-ios\Client\pings.yaml,2,3.0,15.0
+firefox-ios,Swift,D:\clones\firefox-ios\CredentialProvider\Extensions\UIColorExtension.swift,5,3.0,15.0
+firefox-ios,JSON,D:\clones\firefox-ios\Extensions\Today\Images.xcassets\private-search.imageset\Contents.json,0,0.0,15.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\AlertController.swift,5,5.0,15.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Extensions\NSCoderExtensions.swift,4,22.0,15.0
+firefox-ios,Swift,D:\clones\firefox-ios\SharedTests\DeferredTestUtils.swift,5,3.0,15.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\SyncIntegrationTests\test_password.js,5,9.0,15.0
+firefox-ios,Python,D:\clones\firefox-ios\SyncIntegrationTests\xcrun.py,6,0.0,15.0
+firefox-ios,Markdown,D:\clones\firefox-ios\ThirdParty\Result\README.md,9,0.0,15.0
+firefox-ios,JSON,D:\clones\firefox-ios\WidgetKit\Assets.xcassets\openFirefox.imageset\Contents.json,0,0.0,15.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\LibraryTests.swift,3,5.0,15.0
+firefox-ios,HTML,D:\clones\firefox-ios\test-fixtures\test-password.html,7,0.0,15.0
+firefox-ios,HTML,D:\clones\firefox-ios\test-fixtures\test-window-opener.html,1,0.0,15.0
+firefox-ios,Swift,D:\clones\firefox-ios\Account\FxATelemetry.swift,5,6.0,14.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\bing.xml,1,5.0,14.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\ecosia.xml,1,3.0,14.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\qwant.xml,1,3.0,14.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\salidzinilv.xml,1,3.0,14.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wiktionary-kn.xml,1,3.0,14.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\TopSites\DataManagement\Contile.swift,3,6.0,14.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Update\UpdateModel.swift,4,3.0,14.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Protocols\DataObserver.swift,5,4.0,14.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\UILabelExtensions.swift,4,3.0,14.0
+firefox-ios,Objective-C,D:\clones\firefox-ios\Client\Utils\Try.m,4,3.0,14.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\VersionSettingTests.swift,6,6.0,14.0
+firefox-ios,XML,D:\clones\firefox-ios\Extensions\Entitlements\Fennec.entitlements,0,0.0,14.0
+firefox-ios,XML,D:\clones\firefox-ios\Extensions\Entitlements\FennecEnterprise.entitlements,0,0.0,14.0
+firefox-ios,XML,D:\clones\firefox-ios\Extensions\Entitlements\Firefox.entitlements,0,0.0,14.0
+firefox-ios,XML,D:\clones\firefox-ios\Extensions\Entitlements\FirefoxBeta.entitlements,0,0.0,14.0
+firefox-ios,Markdown,D:\clones\firefox-ios\SyncIntegrationTests\README.md,4,0.0,14.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\SyncIntegrationTests\test_history.js,5,9.0,14.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\ThirdParty\Apple\UIImage+ImageEffects.h,21,81.0,14.0
+firefox-ios,HTML,D:\clones\firefox-ios\UITests\findPage.html,1,1.0,14.0
+firefox-ios,HTML,D:\clones\firefox-ios\UITests\readablePage.html,0,0.0,14.0
+firefox-ios,Swift,D:\clones\firefox-ios\WidgetKit\WidgetKit.swift,2,3.0,14.0
+firefox-ios,Python,D:\clones\firefox-ios\taskcluster\ffios_taskgraph\transforms\secrets.py,6,6.0,14.0
+firefox-ios,HTML,D:\clones\firefox-ios\test-fixtures\empty-login-form.html,7,0.0,14.0
+firefox-ios,Markdown,D:\clones\firefox-ios\.github\ISSUE_TEMPLATE\---bug-report.md,5,0.0,13.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\amazon-jp.xml,1,16.0,13.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\amazondotcom.xml,1,3.0,13.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\azerdict.xml,1,3.0,13.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\google-b-1-m.xml,1,3.0,13.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\google-b-m.xml,1,3.0,13.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\seznam-cz.xml,1,3.0,13.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wiktionary-oc.xml,1,3.0,13.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wiktionary-or.xml,1,3.0,13.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wiktionary-ta.xml,1,3.0,13.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\wiktionary-te.xml,1,3.0,13.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\Tests\Base\testplugin.xml,1,3.0,13.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\TabEventHandlers.swift,3,3.0,13.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Utils\View.swift,4,24.0,13.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\TestHashExtensions.swift,3,3.0,13.0
+firefox-ios,Swift,D:\clones\firefox-ios\Extensions\Today\TodayUX.swift,2,3.0,13.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Extensions\DataExtensions.swift,3,3.0,13.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\DatabaseError.swift,5,6.0,13.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\SQL\Schema.swift,4,6.0,13.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\AddSearch.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\Wallpapers\FirefoxDefault\fxAmethyst.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\Wallpapers\FirefoxDefault\fxAmethyst_ls.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\Wallpapers\FirefoxDefault\fxAmethyst_pad.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\Wallpapers\FirefoxDefault\fxAmethyst_pad_ls.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\Wallpapers\FirefoxDefault\fxCerulean.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\Wallpapers\FirefoxDefault\fxCerulean_ls.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\Wallpapers\FirefoxDefault\fxCerulean_pad.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\Wallpapers\FirefoxDefault\fxCerulean_pad_ls.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\Wallpapers\FirefoxDefault\fxSunrise.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\Wallpapers\FirefoxDefault\fxSunrise_ls.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\Wallpapers\FirefoxDefault\fxSunrise_pad.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\Wallpapers\FirefoxDefault\fxSunrise_pad_ls.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\bookmarkFolder.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\bookmarkHighlighted.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\bookmark_results.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\context_pocket.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\edit.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\file.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\fxHomeHeaderLogo.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\fxHomeHeaderLogo_dark.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\help.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\lock_blocked.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\lock_blocked_dark.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Assets\Images.xcassets\lock_verified.imageset\Contents.json,0,0.0,12.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\amazon-co-uk.xml,1,3.0,12.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\amazon-de.xml,1,3.0,12.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\amazon-es.xml,1,3.0,12.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\amazon-fr.xml,1,3.0,12.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\amazon-it.xml,1,3.0,12.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\amazon-se.xml,1,3.0,12.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\gulesider-mobile-NO.xml,1,3.0,12.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\yahoo-jp.xml,1,3.0,12.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\Tests\Expected\replace.xml,0,3.0,12.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\CalendarExtensions.swift,5,3.0,12.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\EnhancedTrackingProtection\ETPModel.swift,3,5.0,12.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Home\HomePanelType.swift,4,3.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Library\Library.xcassets\ReaderModeCircle.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Library\Library.xcassets\library-readinglist.imageset\Contents.json,0,0.0,12.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Library\Library.xcassets\panelIconTopSites.imageset\Contents.json,0,0.0,12.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Utils\DynamicHeightCollectionView.swift,3,3.0,12.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\NSData+Base16.h,9,3.0,12.0
+firefox-ios,Swift,D:\clones\firefox-ios\SharedTests\ResultTests.swift,2,4.0,12.0
+firefox-ios,Swift,D:\clones\firefox-ios\SharedTests\SupportUtilsTests.swift,2,3.0,12.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\SyncIntegrationTests\test_bookmark_desktop.js,5,9.0,12.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\SyncIntegrationTests\test_tabs_desktop.js,5,8.0,12.0
+firefox-ios,HTML,D:\clones\firefox-ios\UITests\loginForm.html,0,0.0,12.0
+firefox-ios,Python,D:\clones\firefox-ios\taskcluster\ffios_taskgraph\screenshots_locales.py,7,5.0,12.0
+firefox-ios,Markdown,D:\clones\firefox-ios\CODE_OF_CONDUCT.md,4,0.0,11.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchOverlays\baidu.xml,0,0.0,11.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchOverlays\yahoo.xml,0,3.0,11.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\amazon-au.xml,1,3.0,11.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\amazon-ca.xml,1,3.0,11.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\amazon-in.xml,1,3.0,11.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\amazon-nl.xml,1,3.0,11.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\ceneje.xml,1,3.0,11.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\danawa-kr.xml,1,3.0,11.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\elebila.xml,1,3.0,11.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\leo_ende_de.xml,1,3.0,11.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\odpiralni.xml,1,3.0,11.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\reta-vortaro.xml,1,3.0,11.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\skroutz.xml,1,3.0,11.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\slovnik-sk.xml,1,3.0,11.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\twitter-ja.xml,1,3.0,11.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\vatera.xml,1,3.0,11.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Browser\EnhancedTrackingProtection\EnhancedTrackingProtectionDetailsVM.swift,3,3.0,11.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\HomePageTests.swift,3,3.0,11.0
+firefox-ios,Swift,D:\clones\firefox-ios\CredentialProvider\Extensions\UIFontExtension.swift,4,11.0,11.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\ssl2.h,5,8.0,11.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\SyncIntegrationTests\test_bookmark.js,5,9.0,11.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\SyncIntegrationTests\test_tabs.js,5,9.0,11.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\WhatsNewTest.swift,2,3.0,11.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\project.xcworkspace\xcshareddata\WorkspaceSettings.xcsettings,0,0.0,10.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\xcshareddata\IDETemplateMacros.plist,0,0.0,10.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchOverlays\bing.xml,0,1.0,10.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\google-com-nocodes.xml,1,3.0,10.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\leit-is.xml,1,3.0,10.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\mapy-cz.xml,1,3.0,10.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\mercadolibre-ar.xml,1,3.0,10.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\mercadolibre-cl.xml,1,3.0,10.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\mercadolibre-mx.xml,1,3.0,10.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\prisjakt-sv-SE.xml,1,3.0,10.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\rediff.xml,1,3.0,10.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\Client\Client-Bridging-Header.h,5,0.0,10.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\DispatchQueueExtensions.swift,2,5.0,10.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Login Management\LoginOnboarding.swift,4,3.0,10.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Extensions\DictionaryExtensions.swift,3,3.0,10.0
+firefox-ios,HTML,D:\clones\firefox-ios\test-fixtures\test-popup-blocker.html,4,3.0,10.0
+firefox-ios,Markdown,D:\clones\firefox-ios\.github\ISSUE_TEMPLATE\---feature.md,3,0.0,9.0
+firefox-ios,Markdown,D:\clones\firefox-ios\.github\ISSUE_TEMPLATE\---intermittent-ui-issue.md,4,0.0,9.0
+firefox-ios,Markdown,D:\clones\firefox-ios\.github\ISSUE_TEMPLATE\new-issue.md,3,0.0,9.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Application\DebugSettingsBundleOptions.swift,4,5.0,9.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Application\main.swift,5,5.0,9.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\faclair-beag.xml,1,3.0,9.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\hotline.xml,3,3.0,9.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\twitter.xml,1,3.0,9.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Experiments\Messaging\GleanPlumbContextProvider.swift,5,7.0,9.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Experiments\UserResearch.swift,3,5.0,9.0
+firefox-ios,JSON,D:\clones\firefox-ios\Client\Frontend\Menu\Menu.xcassets\Contents.json,0,0.0,9.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\FxAPushMessageTest.swift,4,3.0,9.0
+firefox-ios,Swift,D:\clones\firefox-ios\Extensions\Today\TodayModel.swift,3,3.0,9.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\pem2.h,3,8.0,9.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Extensions\URLRequestExtensions.swift,2,3.0,9.0
+firefox-ios,HTML,D:\clones\firefox-ios\UITests\numberedPage.html,0,0.0,9.0
+firefox-ios,YAML,D:\clones\firefox-ios\.cron.yml,1,3.0,8.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\project.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist,0,0.0,8.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchOverlays\duckduckgo.xml,0,0.0,8.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\amazon-br.xml,1,3.0,8.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\amazon-mx.xml,1,3.0,8.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\bolcom-fy-NL.xml,1,3.0,8.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\Tests\Overlays\append.xml,0,1.0,8.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Theme\CustomTheme.swift,4,7.0,8.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\Client\Frontend\UserContent\UserScripts\MainFrame\AtDocumentEnd\ErrorPage.js,4,5.0,8.0
+firefox-ios,JSON,D:\clones\firefox-ios\ClientTests\defaultOnlyTestList.json,0,0.0,8.0
+firefox-ios,XML,D:\clones\firefox-ios\CredentialProvider\CredentialProvider.entitlements,0,0.0,8.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\PrivateKey.h,9,3.0,8.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\UITests\UITests-Bridging-Header.h,3,3.0,8.0
+firefox-ios,HTML,D:\clones\firefox-ios\UITests\navigationDelegate.html,0,0.0,8.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\XCUITests\XCUITests-Bridging-Header.h,3,3.0,8.0
+firefox-ios,Swift,D:\clones\firefox-ios\content-blocker-lib-ios\ContentBlockerGen\Tests\ContentBlockerGenTests\XCTestManifests.swift,1,0.0,8.0
+firefox-ios,Bourne Shell,D:\clones\firefox-ios\import-strings.sh,3,0.0,8.0
+firefox-ios,YAML,D:\clones\firefox-ios\taskcluster\ci\docker-image\kind.yml,3,3.0,8.0
+firefox-ios,HTML,D:\clones\firefox-ios\test-fixtures\test-password-submit.html,1,0.0,8.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\Account\Account-Bridging-Header.h,3,0.0,7.0
+firefox-ios,XML,D:\clones\firefox-ios\Client.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\Client\Assets\FxASignIn.js,3,8.0,7.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\pledarigrond.xml,1,3.0,7.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchPlugins\yaani.xml,1,3.0,7.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\Tests\Overlays\replace.xml,0,0.0,7.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Extensions\NSAttributedStringExtensions.swift,2,4.0,7.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Extensions\SnapKitExtensions.swift,3,3.0,7.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\FeatureFlags\FlaggableFeatureOptions.swift,3,6.0,7.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\Widgets\InsetButton.swift,1,6.0,7.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Nimbus\NimbusSearchBarLayer.swift,4,4.0,7.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\TestBookmarks.swift,7,30.0,7.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\Favicons.swift,4,10.0,7.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\Queue.swift,2,3.0,7.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\Syncable.swift,3,14.0,7.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\Sync\Sync-Bridging-Header.h,3,0.0,7.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\SyncTests\SyncTests-Bridging-Header.h,2,0.0,7.0
+firefox-ios,XML,D:\clones\firefox-ios\ThirdParty\Deferred\Deferred.xcodeproj\project.xcworkspace\contents.xcworkspacedata,0,0.0,7.0
+firefox-ios,Bourne Shell,D:\clones\firefox-ios\update_version.sh,1,3.0,7.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Assets\Search\get_supported_locales.swift,4,3.0,6.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Frontend\FirefoxColors.swift,2,3.0,6.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\Client\Frontend\UserContent\UserScripts\AllFrames\AtDocumentEnd\PrintHandler.js,2,6.0,6.0
+firefox-ios,Swift,D:\clones\firefox-ios\Client\Nimbus\NimbusSponsoredTileLayer.swift,3,4.0,6.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\FxADeepLinkingTests.swift,3,3.0,6.0
+firefox-ios,JSON,D:\clones\firefox-ios\Extensions\ShareTo\SendTo.xcassets\Contents.json,0,0.0,6.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\NSData+SHA.h,6,3.0,6.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\Shared\Shared-Bridging-Header.h,2,0.0,6.0
+firefox-ios,Swift,D:\clones\firefox-ios\Storage\Metadata.swift,2,4.0,6.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\Storage\Storage-Bridging-Header.h,4,0.0,6.0
+firefox-ios,Swift,D:\clones\firefox-ios\Sync\SyncConstants.swift,2,4.0,6.0
+firefox-ios,HTML,D:\clones\firefox-ios\UITests\blobURL.html,0,0.0,6.0
+firefox-ios,JSON,D:\clones\firefox-ios\WidgetKit\Assets.xcassets\Contents.json,0,0.0,6.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\FxScreenGraphTests.swift,2,11.0,6.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\PocketTests.swift,3,29.0,6.0
+firefox-ios,Bourne Shell,D:\clones\firefox-ios\content_blocker_update.sh,5,8.0,6.0
+firefox-ios,Python,D:\clones\firefox-ios\taskcluster\ffios_taskgraph\__init__.py,5,7.0,6.0
+firefox-ios,Python,D:\clones\firefox-ios\taskcluster\ffios_taskgraph\target_tasks.py,5,5.0,6.0
+firefox-ios,Bourne Shell,D:\clones\firefox-ios\test-fixtures\read-rust-component-tag.sh,0,0.0,6.0
+firefox-ios,XML,D:\clones\firefox-ios\Client\Assets\Search\SearchOverlays\qwant.xml,0,0.0,5.0
+firefox-ios,YAML,D:\clones\firefox-ios\Client\tags.yaml,4,7.0,5.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\HelperClass\NimbusMock.swift,3,3.0,5.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Extensions\NSCharacterSetExtensions.swift,2,3.0,5.0
+firefox-ios,Swift,D:\clones\firefox-ios\Shared\Extensions\OptionalExtensions.swift,3,10.0,5.0
+firefox-ios,Swift,D:\clones\firefox-ios\UITests\BrowserTests.swift,8,42.0,5.0
+firefox-ios,HTML,D:\clones\firefox-ios\UITests\noTitle.html,0,0.0,5.0
+firefox-ios,Bourne Shell,D:\clones\firefox-ios\test-fixtures\scheme-postbuild.sh,1,8.0,5.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\Client\Utils\Try.h,2,3.0,4.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\Shared\FSUtils.h,4,9.0,4.0
+firefox-ios,INI,D:\clones\firefox-ios\SyncIntegrationTests\pytest.ini,0,0.0,4.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\Client\Application\Crasher.h,3,7.0,3.0
+firefox-ios,Objective-C,D:\clones\firefox-ios\Client\Application\Crasher.m,3,7.0,3.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\Client\Utils\Swizzling.h,2,3.0,3.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\SyncTelemetry\SyncTelemetry.h,6,6.0,3.0
+firefox-ios,Markdown,D:\clones\firefox-ios\ThirdParty\Deferred\CONTRIBUTING.md,1,0.0,3.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\ThirdParty\Deferred\Deferred\Deferred.h,6,10.0,3.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\ThirdParty\Deferred\DeferredMac\DeferredMac.h,6,10.0,3.0
+firefox-ios,Swift,D:\clones\firefox-ios\UITests\ReopenLastTabTests.swift,13,66.0,3.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\Client\Frontend\Reader\FSReadingList.h,2,3.0,2.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\Client\Frontend\UserContent\UserScripts\AllFrames\AtDocumentStart\TrackingProtectionStats.js,2,4.0,2.0
+firefox-ios,Markdown,D:\clones\firefox-ios\ISSUE_TEMPLATE.md,1,0.0,2.0
+firefox-ios,Swift,D:\clones\firefox-ios\ThirdParty\Result\Error.swift,2,7.0,2.0
+firefox-ios,HTML,D:\clones\firefox-ios\UITests\firefoxScheme.html,0,0.0,2.0
+firefox-ios,JavaScript,D:\clones\firefox-ios\Client\Assets\WebcompatAllFramesAtDocumentStart.js,0,0.0,1.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\asn1_mac.h,1,8.0,1.0
+firefox-ios,C/C++ Header,D:\clones\firefox-ios\FxA\FxA\include\openssl\ecdsa.h,1,8.0,1.0
+firefox-ios,JSON,D:\clones\firefox-ios\content-blocker-lib-ios\base-fingerprinting-track.json,0,0.0,1.0
+firefox-ios,Swift,D:\clones\firefox-ios\ClientTests\NimbusFeatureFlagLayerTests.swift,1,148.0,0.0
+firefox-ios,Swift,D:\clones\firefox-ios\XCUITests\HomePageUITest.swift,1,0.0,0.0

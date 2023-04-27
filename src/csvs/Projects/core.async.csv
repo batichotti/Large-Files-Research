@@ -1,0 +1,59 @@
+project,language,filename,blank,comment,code
+core.async,Clojure,D:\clones\core.async\src\main\clojure\clojure\core\async.clj,145,12.0,1111.0
+core.async,Clojure,D:\clones\core.async\src\main\clojure\clojure\core\async\impl\ioc_macros.clj,128,36.0,953.0
+core.async,ClojureScript,D:\clones\core.async\src\main\clojure\cljs\core\async.cljs,106,11.0,829.0
+core.async,Clojure,D:\clones\core.async\src\main\clojure\cljs\core\async\impl\ioc_macros.clj,108,27.0,815.0
+core.async,Clojure,D:\clones\core.async\src\test\clojure\clojure\core\async\ioc_macros_test.clj,64,11.0,515.0
+core.async,ClojureScript,D:\clones\core.async\src\test\cljs\cljs\core\async\tests.cljs,49,15.0,471.0
+core.async,Clojure,D:\clones\core.async\src\test\clojure\clojure\core\async_test.clj,47,12.0,407.0
+core.async,Clojure,D:\clones\core.async\src\main\clojure\clojure\core\async\impl\channels.clj,13,7.0,286.0
+core.async,ClojureScript,D:\clones\core.async\src\test\cljs\cljs\core\async\runner_tests.cljs,27,7.0,231.0
+core.async,HTML,D:\clones\core.async\epl-v10.html,45,0.0,216.0
+core.async,ClojureScript,D:\clones\core.async\src\main\clojure\cljs\core\async\impl\channels.cljs,12,8.0,175.0
+core.async,Markdown,D:\clones\core.async\README.md,25,0.0,164.0
+core.async,ClojureScript,D:\clones\core.async\src\main\clojure\cljs\core\async\impl\timers.cljs,17,7.0,156.0
+core.async,ClojureScript,D:\clones\core.async\src\main\clojure\cljs\core\async\impl\buffers.cljs,21,11.0,127.0
+core.async,ClojureScript,D:\clones\core.async\src\test\cljs\cljs\core\async\pipeline_test.cljs,14,7.0,104.0
+core.async,ClojureScript,D:\clones\core.async\src\test\cljs\cljs\core\async\timers_test.cljs,2,7.0,104.0
+core.async,Clojure,D:\clones\core.async\src\main\clojure\clojure\core\async\lab.clj,12,7.0,89.0
+core.async,Clojure,D:\clones\core.async\src\test\clojure\clojure\core\pipeline_test.clj,13,1.0,86.0
+core.async,Clojure,D:\clones\core.async\src\main\clojure\cljs\core\async.clj,16,7.0,83.0
+core.async,ClojureScript,D:\clones\core.async\src\test\cljs\cljs\core\async\buffer_tests.cljs,33,8.0,83.0
+core.async,Clojure,D:\clones\core.async\src\main\clojure\clojure\core\async\impl\buffers.clj,12,7.0,78.0
+core.async,Maven,D:\clones\core.async\pom.xml,6,1.0,77.0
+core.async,Clojure,D:\clones\core.async\src\test\clojure\clojure\core\async\lab_test.clj,2,0.0,77.0
+core.async,ClojureScript,D:\clones\core.async\src\test\cljs\cljs\core\async\interop_tests.cljs,9,7.0,70.0
+core.async,Clojure,D:\clones\core.async\src\test\clojure\clojure\core\async\buffers_test.clj,29,7.0,70.0
+core.async,Clojure,D:\clones\core.async\project.clj,3,0.0,59.0
+core.async,ClojureScript,D:\clones\core.async\src\main\clojure\cljs\core\async\impl\ioc_helpers.cljs,15,7.0,54.0
+core.async,Clojure,D:\clones\core.async\src\main\clojure\clojure\core\async\impl\timers.clj,9,7.0,54.0
+core.async,Clojure,D:\clones\core.async\src\test\cljs\cljs\core\async\test_helpers.clj,9,7.0,51.0
+core.async,Clojure,D:\clones\core.async\examples\walkthrough.clj,35,55.0,49.0
+core.async,Clojure,D:\clones\core.async\src\test\clojure\clojure\core\async\exceptions_test.clj,6,7.0,49.0
+core.async,ClojureScript,D:\clones\core.async\src\main\clojure\cljs\core\async\impl\dispatch.cljs,9,7.0,29.0
+core.async,Clojure,D:\clones\core.async\examples\ex-async.clj,5,0.0,28.0
+core.async,Clojure,D:\clones\core.async\examples\ex-go.clj,6,0.0,28.0
+core.async,Clojure,D:\clones\core.async\src\main\clojure\clojure\core\async\impl\protocols.clj,11,8.0,28.0
+core.async,Clojure,D:\clones\core.async\src\main\clojure\clojure\core\async\impl\concurrent.clj,4,7.0,27.0
+core.async,ClojureScript,D:\clones\core.async\src\main\clojure\cljs\core\async\impl\protocols.cljs,9,8.0,26.0
+core.async,Clojure,D:\clones\core.async\src\test\clojure\clojure\core\async\timers_test.clj,2,0.0,25.0
+core.async,Clojure,D:\clones\core.async\examples\ex-altsgo.clj,3,0.0,22.0
+core.async,Clojure,D:\clones\core.async\examples\ex-alts.clj,3,0.0,21.0
+core.async,Clojure,D:\clones\core.async\src\main\clojure\clojure\core\async\impl\dispatch.clj,7,7.0,21.0
+core.async,Clojure,D:\clones\core.async\src\main\clojure\clojure\core\async\impl\exec\threadpool.clj,4,7.0,21.0
+core.async,Clojure,D:\clones\core.async\build.clj,3,0.0,20.0
+core.async,ClojureScript,D:\clones\core.async\src\main\clojure\cljs\core\async\interop.cljs,2,7.0,20.0
+core.async,Clojure,D:\clones\core.async\src\main\clojure\clojure\core\async\impl\mutex.clj,3,8.0,17.0
+core.async,Clojure,D:\clones\core.async\src\main\clojure\cljs\core\async\macros.clj,5,8.0,16.0
+core.async,ClojureScript,D:\clones\core.async\src\test\cljs\cljs\core\async\test_runner.cljs,2,7.0,15.0
+core.async,Clojure,D:\clones\core.async\src\main\clojure\cljs\core\async\interop.clj,2,7.0,11.0
+core.async,Bourne Again Shell,D:\clones\core.async\script\build\branch_revision,4,2.0,10.0
+core.async,Bourne Again Shell,D:\clones\core.async\script\build\revision,7,2.0,10.0
+core.async,ClojureScript,D:\clones\core.async\src\test\cljs\cljs\core\async\test_helpers.cljs,3,7.0,9.0
+core.async,Clojure,D:\clones\core.async\src\test\clojure\clojure\core\async\concurrent_test.clj,3,7.0,9.0
+core.async,HTML,D:\clones\core.async\script\runtests.html,1,0.0,8.0
+core.async,Bourne Again Shell,D:\clones\core.async\script\build\git_revision,5,2.0,6.0
+core.async,Bourne Again Shell,D:\clones\core.async\script\build\trunk_revision,5,3.0,6.0
+core.async,Bourne Again Shell,D:\clones\core.async\script\build\update_version,2,0.0,3.0
+core.async,Markdown,D:\clones\core.async\CONTRIBUTING.md,0,0.0,1.0
+core.async,Markdown,D:\clones\core.async\doc\intro.md,1,0.0,1.0

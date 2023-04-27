@@ -1,0 +1,219 @@
+project,language,filename,blank,comment,code
+distillery,JSON,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\assets\package-lock.json,0,0.0,3829.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\runtime\control.ex,218,75.0,858.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\assembler.ex,178,74.0,778.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\models\release.ex,100,63.0,468.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\config\config.ex,118,65.0,407.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\erts.sh,30,32.0,357.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\utils.ex,88,116.0,314.0
+distillery,Elixir,D:\clones\distillery\test\cases\cli_test.exs,41,22.0,294.0
+distillery,PowerShell,D:\clones\distillery\priv\libexec\win\erts.ps1,21,28.0,291.0
+distillery,Markdown,D:\clones\distillery\docs\config\runtime.md,80,0.0,288.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\appups.ex,68,55.0,281.0
+distillery,Markdown,D:\clones\distillery\docs\faq.md,88,0.0,263.0
+distillery,Markdown,D:\clones\distillery\docs\changelog.md,87,0.0,262.0
+distillery,Markdown,D:\clones\distillery\docs\guides\working_with_docker.md,68,0.0,254.0
+distillery,Markdown,D:\clones\distillery\docs\guides\phoenix_walkthrough.md,98,0.0,247.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\tasks\release.ex,67,55.0,242.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\errors.ex,67,9.0,241.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\config.sh,24,68.0,238.0
+distillery,Markdown,D:\clones\distillery\docs\introduction\walkthrough.md,76,0.0,231.0
+distillery,Markdown,D:\clones\distillery\docs\guides\deploying_to_aws.md,55,0.0,196.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\archiver.ex,43,17.0,196.0
+distillery,Elixir,D:\clones\distillery\test\cases\integration_test.exs,40,40.0,187.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\tasks\init.ex,44,37.0,168.0
+distillery,Elixir,D:\clones\distillery\test\cases\shell_test.exs,47,0.0,164.0
+distillery,Elixir,D:\clones\distillery\test\support\integration_case.ex,22,28.0,161.0
+distillery,PowerShell,D:\clones\distillery\priv\libexec\win\config.ps1,26,59.0,159.0
+distillery,Markdown,D:\clones\distillery\docs\guides\deploying_to_digital_ocean.md,52,0.0,154.0
+distillery,EEx,D:\clones\distillery\priv\templates\release_rc_win_main.ps1.eex,14,0.0,149.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\tasks\clean.ex,41,23.0,147.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\models\boot_script.ex,31,21.0,146.0
+distillery,Elixir,D:\clones\distillery\test\support\while.ex,36,81.0,142.0
+distillery,Markdown,D:\clones\distillery\docs\introduction\understanding_releases.md,22,0.0,136.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\appup\utils.ex,42,9.0,134.0
+distillery,Markdown,D:\clones\distillery\docs\config\distillery.md,39,0.0,130.0
+distillery,Markdown,D:\clones\distillery\docs\guides\deploying_to_google_cloud_platform.md,45,0.0,130.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\tasks\gen.appup.ex,36,22.0,129.0
+distillery,EEx,D:\clones\distillery\priv\templates\release_rc_main.eex,15,0.0,127.0
+distillery,Elixir,D:\clones\distillery\test\support\helpers.ex,21,26.0,127.0
+distillery,Elixir,D:\clones\distillery\test\cases\overlay_test.exs,31,0.0,124.0
+distillery,Elixir,D:\clones\distillery\test\cases\integration_test_win32.exs,22,21.0,116.0
+distillery,Markdown,D:\clones\distillery\docs\guides\running_migrations.md,46,0.0,115.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\config\provider.ex,33,26.0,107.0
+distillery,Markdown,D:\clones\distillery\docs\extensibility\config_providers.md,21,0.0,105.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\overlays.ex,25,22.0,104.0
+distillery,Markdown,D:\clones\distillery\docs\guides\appups.md,23,0.0,102.0
+distillery,Markdown,D:\clones\distillery\docs\introduction\installation.md,32,0.0,98.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\plugins\plugin.ex,48,91.0,96.0
+distillery,Elixir,D:\clones\distillery\mix.exs,9,0.0,94.0
+distillery,Markdown,D:\clones\distillery\docs\guides\upgrades_and_downgrades.md,16,0.0,91.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\shell\macros.ex,18,13.0,87.0
+distillery,Markdown,D:\clones\distillery\docs\upgrading_to_2_0.md,23,0.0,85.0
+distillery,Elixir,D:\clones\distillery\test\cases\appup_test.exs,9,4.0,84.0
+distillery,Elixir,D:\clones\distillery\test\cases\init_test.exs,18,8.0,82.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\helpers.sh,8,11.0,81.0
+distillery,Elixir,D:\clones\distillery\test\cases\config_test.exs,11,0.0,81.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\standard_app\lib\standard_app\b.ex,18,0.0,77.0
+distillery,Markdown,D:\clones\distillery\docs\guides\building_in_docker.md,28,0.0,76.0
+distillery,Markdown,D:\clones\distillery\docs\introduction\terminology.md,41,0.0,74.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\checks\loaded_orphaned_apps.ex,22,36.0,73.0
+distillery,YAML,D:\clones\distillery\mkdocs.yml,0,0.0,73.0
+distillery,Markdown,D:\clones\distillery\docs\extensibility\shell_scripts.md,44,0.0,71.0
+distillery,Markdown,D:\clones\distillery\docs\guides\systemd.md,18,0.0,70.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\appup\transform.ex,19,24.0,66.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\archiver\archive.ex,19,20.0,66.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\models\profile.ex,7,48.0,66.0
+distillery,PowerShell,D:\clones\distillery\priv\libexec\win\helpers.ps1,7,11.0,64.0
+distillery,EEx,D:\clones\distillery\priv\templates\example_config.eex,2,0.0,62.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\runtime\pidfile.ex,15,12.0,59.0
+distillery,Markdown,D:\clones\distillery\docs\extensibility\appup_transforms.md,16,0.0,58.0
+distillery,Markdown,D:\clones\distillery\docs\extensibility\custom_commands.md,25,0.0,58.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\checks.ex,19,19.0,57.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\commands\install.sh,14,13.0,54.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\models\app.ex,12,12.0,52.0
+distillery,Elixir,D:\clones\distillery\test\cases\archive_test.exs,18,0.0,50.0
+distillery,CSS,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\assets\css\phoenix.css,9,18.0,50.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\config\providers\elixir.ex,14,24.0,48.0
+distillery,Elixir,D:\clones\distillery\test\support\purge_transform.ex,19,0.0,47.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\commands\help.sh,3,1.0,45.0
+distillery,Markdown,D:\clones\distillery\docs\config\vm.args.md,18,0.0,44.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\commands\console.sh,10,10.0,44.0
+distillery,Elixir,D:\clones\distillery\test\cases\release_test.exs,7,0.0,44.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\shell.ex,14,33.0,43.0
+distillery,Markdown,D:\clones\distillery\docs\extensibility\boot_hooks.md,16,0.0,42.0
+distillery,PowerShell,D:\clones\distillery\priv\libexec\commands\win\install.ps1,12,7.0,42.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\logger.sh,8,6.0,40.0
+distillery,Markdown,D:\clones\distillery\docs\config\pidfiles.md,10,0.0,39.0
+distillery,Markdown,D:\clones\distillery\docs\extensibility\release_plugins.md,18,0.0,39.0
+distillery,EEx,D:\clones\distillery\priv\templates\release_rc_exec.eex,8,0.0,39.0
+distillery,Bourne Again Shell,D:\clones\distillery\bin\travis,4,1.0,38.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\standard_app\lib\standard_app\a.ex,10,0.0,38.0
+distillery,Elixir,D:\clones\distillery\test\cases\cookies_test.exs,8,0.0,37.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\lib\web_web.ex,12,18.0,37.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\mix.exs,4,7.0,37.0
+distillery,Markdown,D:\clones\distillery\README.md,16,0.0,36.0
+distillery,Markdown,D:\clones\distillery\docs\extensibility\overlays.md,19,0.0,36.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\commands\start.sh,12,4.0,35.0
+distillery,PowerShell,D:\clones\distillery\priv\libexec\commands\win\help.ps1,4,1.0,34.0
+distillery,EEx,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\lib\web_web\templates\page\index.html.eex,2,0.0,34.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\readlink.sh,6,10.0,33.0
+distillery,JavaScript,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\assets\brunch-config.js,6,23.0,33.0
+distillery,Markdown,D:\clones\distillery\docs\tooling\cli.md,14,0.0,32.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\env.sh,6,18.0,32.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\standard_app\rel\config.exs,13,12.0,32.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\appup\transform_error.ex,9,4.0,31.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\rel\config.exs,8,12.0,31.0
+distillery,YAML,D:\clones\distillery\.travis.yml,0,0.0,30.0
+distillery,EEx,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\lib\web_web\templates\layout\app.html.eex,5,0.0,30.0
+distillery,Markdown,D:\clones\distillery\docs\introduction\umbrella_projects.md,7,0.0,29.0
+distillery,EEx,D:\clones\distillery\priv\templates\executable_header.eex,4,0.0,29.0
+distillery,Markdown,D:\clones\distillery\.github\ISSUE_TEMPLATE.md,9,0.0,27.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\commands\command.sh,10,11.0,27.0
+distillery,EEx,D:\clones\distillery\priv\templates\release_rc_entry.eex,5,0.0,27.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\commands\foreground.sh,11,8.0,26.0
+distillery,PowerShell,D:\clones\distillery\priv\libexec\commands\win\foreground.ps1,8,5.0,25.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\ordered_app\mix.exs,3,2.0,25.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\checks\cookie.ex,5,3.0,24.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\lib\web_web\endpoint.ex,10,22.0,24.0
+distillery,EEx,D:\clones\distillery\priv\templates\vm.args.default.eex,7,0.0,23.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\cookies.ex,3,14.0,22.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\ctrl_app\mix.exs,3,4.0,22.0
+distillery,Elixir,D:\clones\distillery\.formatter.exs,0,0.0,21.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\lib\web_web\router.ex,8,4.0,21.0
+distillery,Elixir,D:\clones\distillery\test\support\io_relay.ex,3,0.0,21.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\commands\remote_console.sh,6,5.0,20.0
+distillery,EEx,D:\clones\distillery\priv\templates\vm.args.eex,6,0.0,19.0
+distillery,Elixir,D:\clones\distillery\test\cases\provider_test.exs,4,0.0,19.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\config\dev.exs,5,25.0,19.0
+distillery,Bourne Again Shell,D:\clones\distillery\bin\docs,8,1.0,18.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\checks\erts.ex,2,4.0,18.0
+distillery,PowerShell,D:\clones\distillery\priv\libexec\commands\win\remote_console.ps1,6,1.0,18.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\standard_app\mix.exs,3,12.0,18.0
+distillery,JSON,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\assets\package.json,0,0.0,18.0
+distillery,Markdown,D:\clones\distillery\LICENSE.md,4,0.0,17.0
+distillery,EEx,D:\clones\distillery\priv\templates\release_rc_win_exec.eex,1,0.0,17.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\init_test_app\mix.exs,3,12.0,17.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\ordered_app\rel\config.exs,6,0.0,17.0
+distillery,PowerShell,D:\clones\distillery\priv\libexec\commands\win\console.ps1,7,2.0,16.0
+distillery,PowerShell,D:\clones\distillery\priv\libexec\commands\win\reboot.ps1,5,3.0,16.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\commands\pingpeer.sh,4,6.0,15.0
+distillery,Markdown,D:\clones\distillery\test\fixtures\ctrl_app\README.md,6,0.0,15.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\lib\web\application.ex,4,10.0,15.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\lib\web_web\views\error_helpers.ex,3,26.0,15.0
+distillery,Markdown,D:\clones\distillery\.github\PULL_REQUEST_TEMPLATE.md,7,0.0,14.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\mix.exs,2,5.0,14.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\commands\stop.sh,6,4.0,13.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\standard_app\rel\plugins\env_logger.exs,2,0.0,13.0
+distillery,Markdown,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\README.md,6,0.0,13.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\config\config.exs,4,10.0,13.0
+distillery,Markdown,D:\clones\distillery\docs\home.md,3,0.0,12.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\models\environment.ex,3,6.0,12.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\commands\describe.sh,4,1.0,12.0
+distillery,EEx,D:\clones\distillery\priv\templates\erl_script.eex,1,0.0,12.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\standard_app\lib\standard_app.ex,3,7.0,12.0
+distillery,PowerShell,D:\clones\distillery\priv\libexec\commands\win\describe.ps1,3,1.0,11.0
+distillery,PowerShell,D:\clones\distillery\priv\libexec\commands\win\stop.ps1,7,2.0,11.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\ctrl_app\lib\ctrl_app\application.ex,3,6.0,11.0
+distillery,EEx,D:\clones\distillery\test\fixtures\init_test_app\init_test_config.eex,4,0.0,11.0
+distillery,Bourne Again Shell,D:\clones\distillery\bin\alpine,4,0.0,10.0
+distillery,Bourne Again Shell,D:\clones\distillery\bin\ubuntu,4,0.0,10.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\commands\reboot.sh,6,3.0,10.0
+distillery,PowerShell,D:\clones\distillery\priv\libexec\commands\win\start.ps1,6,2.0,10.0
+distillery,PowerShell,D:\clones\distillery\priv\libexec\commands\win\uninstall.ps1,5,3.0,10.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\rel\config\config.exs,2,1.0,10.0
+distillery,JSON,D:\clones\distillery\coveralls.json,0,0.0,9.0
+distillery,PowerShell,D:\clones\distillery\priv\libexec\commands\win\ping.ps1,3,8.0,9.0
+distillery,PowerShell,D:\clones\distillery\priv\libexec\win\logger.ps1,1,0.0,9.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\ordered_app\lib\ordered_app.ex,3,0.0,9.0
+distillery,Elixir,D:\clones\distillery\test\support\tasks.ex,2,0.0,9.0
+distillery,Markdown,D:\clones\distillery\TODO.md,1,0.0,8.0
+distillery,Elixir,D:\clones\distillery\lib\distillery\releases\config\load_error.ex,1,0.0,8.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\commands\unpack.sh,4,2.0,8.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\ctrl_app\lib\ctrl_app\worker.ex,2,0.0,8.0
+distillery,JavaScript,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\assets\js\socket.js,6,48.0,8.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\lib\web_web\channels\user_socket.ex,4,25.0,8.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\commands\ping.sh,4,8.0,6.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\commands\reload_config.sh,3,1.0,6.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\config\prod.exs,5,52.0,6.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\lib\web_web\controllers\health_controller.ex,1,0.0,6.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\lib\web_web\controllers\page_controller.ex,1,0.0,6.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\lib\web_web\views\error_view.ex,2,8.0,6.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\commands\escript.sh,3,1.0,5.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\commands\pid.sh,3,1.0,5.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\commands\restart.sh,3,1.0,5.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\config\test.exs,2,3.0,5.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\commands\attach.sh,4,3.0,4.0
+distillery,Elixir,D:\clones\distillery\test\cases\test_helper.exs,0,0.0,4.0
+distillery,Elixir,D:\clones\distillery\test\cases\utils_test.exs,0,0.0,4.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\files\eval_file_example.exs,1,0.0,4.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\files\simple.config.exs,2,0.0,4.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\standard_app\config\config.exs,3,26.0,4.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\.formatter.exs,0,1.0,4.0
+distillery,Markdown,D:\clones\distillery\test\fixtures\umbrella_app\README.md,3,0.0,4.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\commands\eval.sh,3,1.0,3.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\commands\info.sh,2,0.0,3.0
+distillery,Bourne Shell,D:\clones\distillery\priv\libexec\commands\rpc.sh,3,1.0,3.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\ctrl_app\.formatter.exs,0,1.0,3.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\standard_app\rel\config\config.exs,1,0.0,3.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\lib\web_web\gettext.ex,6,15.0,3.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\lib\web_web\views\layout_view.ex,0,0.0,3.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\lib\web_web\views\page_view.ex,0,0.0,3.0
+distillery,PO File,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\priv\gettext\en\LC_MESSAGES\errors.po,0,8.0,3.0
+distillery,PowerShell,D:\clones\distillery\bin\appveyor\start-epmd.ps1,0,1.0,2.0
+distillery,Markdown,D:\clones\distillery\docs\introduction\comparison.md,1,0.0,2.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\init_test_app\lib\init_test_app.ex,0,0.0,2.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\lib\web.ex,1,6.0,2.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\umbrella_app\config\config.exs,2,13.0,2.0
+distillery,PowerShell,D:\clones\distillery\priv\libexec\commands\win\escript.ps1,1,1.0,1.0
+distillery,PowerShell,D:\clones\distillery\priv\libexec\commands\win\eval.ps1,1,1.0,1.0
+distillery,PowerShell,D:\clones\distillery\priv\libexec\commands\win\info.ps1,0,0.0,1.0
+distillery,PowerShell,D:\clones\distillery\priv\libexec\commands\win\restart.ps1,1,1.0,1.0
+distillery,PowerShell,D:\clones\distillery\priv\libexec\commands\win\rpc.ps1,1,1.0,1.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\ctrl_app\config\config.exs,3,26.0,1.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\init_test_app\config\config.exs,3,26.0,1.0
+distillery,EEx,D:\clones\distillery\test\fixtures\mock_app\invalid_tmpl.eex,0,0.0,1.0
+distillery,EEx,D:\clones\distillery\test\fixtures\mock_app\template_test.eex,0,0.0,1.0
+distillery,Elixir,D:\clones\distillery\test\fixtures\ordered_app\config\config.exs,0,0.0,1.0
+distillery,JavaScript,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\assets\js\app.js,3,17.0,1.0
+distillery,CSS,D:\clones\distillery\test\fixtures\umbrella_app\apps\web\assets\css\app.css,0,1.0,0.0

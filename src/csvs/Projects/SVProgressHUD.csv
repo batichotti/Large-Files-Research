@@ -1,0 +1,28 @@
+project,language,filename,blank,comment,code
+SVProgressHUD,Objective-C,D:\clones\SVProgressHUD\SVProgressHUD\SVProgressHUD.m,294,121.0,1133.0
+SVProgressHUD,XML,D:\clones\SVProgressHUD\Demo\Base.lproj\Main.storyboard,0,1.0,214.0
+SVProgressHUD,XML,D:\clones\SVProgressHUD\Demo\tvOS Demo\Base.lproj\Main.storyboard,0,1.0,198.0
+SVProgressHUD,Markdown,D:\clones\SVProgressHUD\README.md,69,0.0,150.0
+SVProgressHUD,Objective-C,D:\clones\SVProgressHUD\Demo\Classes\ViewController.m,44,6.0,136.0
+SVProgressHUD,C/C++ Header,D:\clones\SVProgressHUD\SVProgressHUD\SVProgressHUD.h,27,8.0,117.0
+SVProgressHUD,XML,D:\clones\SVProgressHUD\SVProgressHUD.xcodeproj\xcshareddata\xcschemes\SVProgressHUD-Framework.xcscheme,0,0.0,113.0
+SVProgressHUD,Objective-C,D:\clones\SVProgressHUD\SVProgressHUD\SVIndefiniteAnimatedView.m,34,6.0,106.0
+SVProgressHUD,Markdown,D:\clones\SVProgressHUD\CHANGELOG.md,21,0.0,83.0
+SVProgressHUD,Objective-C,D:\clones\SVProgressHUD\SVProgressHUD\SVProgressAnimatedView.m,20,6.0,70.0
+SVProgressHUD,XML,D:\clones\SVProgressHUD\Demo\SVProgressHUD-Info.plist,0,0.0,36.0
+SVProgressHUD,XML,D:\clones\SVProgressHUD\Demo\tvOS Demo\Info.plist,0,0.0,32.0
+SVProgressHUD,XML,D:\clones\SVProgressHUD\Demo\Base.lproj\LaunchScreen.storyboard,0,1.0,26.0
+SVProgressHUD,XML,D:\clones\SVProgressHUD\SVProgressHUD-Framework\Info.plist,0,0.0,26.0
+SVProgressHUD,Ruby,D:\clones\SVProgressHUD\SVProgressHUD.podspec,5,0.0,24.0
+SVProgressHUD,Objective-C,D:\clones\SVProgressHUD\Demo\Classes\AppDelegate.m,18,14.0,18.0
+SVProgressHUD,YAML,D:\clones\SVProgressHUD\.github\stale.yml,0,8.0,16.0
+SVProgressHUD,Objective-C,D:\clones\SVProgressHUD\SVProgressHUD\SVRadialGradientLayer.m,5,6.0,14.0
+SVProgressHUD,C/C++ Header,D:\clones\SVProgressHUD\Demo\Classes\ViewController.h,7,6.0,13.0
+SVProgressHUD,Objective-C,D:\clones\SVProgressHUD\Demo\tvOS Demo\main.m,2,7.0,7.0
+SVProgressHUD,C/C++ Header,D:\clones\SVProgressHUD\SVProgressHUD\SVProgressAnimatedView.h,4,6.0,7.0
+SVProgressHUD,Objective-C,D:\clones\SVProgressHUD\Demo\main.m,2,6.0,6.0
+SVProgressHUD,C/C++ Header,D:\clones\SVProgressHUD\SVProgressHUD\SVIndefiniteAnimatedView.h,5,6.0,6.0
+SVProgressHUD,Objective-C,D:\clones\SVProgressHUD\Demo\tvOS Demo\AppDelegate.m,5,6.0,5.0
+SVProgressHUD,C/C++ Header,D:\clones\SVProgressHUD\Demo\Classes\AppDelegate.h,6,6.0,4.0
+SVProgressHUD,C/C++ Header,D:\clones\SVProgressHUD\Demo\tvOS Demo\AppDelegate.h,6,6.0,4.0
+SVProgressHUD,C/C++ Header,D:\clones\SVProgressHUD\SVProgressHUD\SVRadialGradientLayer.h,4,6.0,4.0

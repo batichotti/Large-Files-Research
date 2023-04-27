@@ -1,0 +1,103 @@
+project,language,filename,blank,comment,code
+twemproxy,C,D:\clones\twemproxy\src\proto\nc_redis.c,516,357.0,2370.0
+twemproxy,C,D:\clones\twemproxy\src\nc_conf.c,368,77.0,1367.0
+twemproxy,C,D:\clones\twemproxy\src\proto\nc_memcache.c,270,185.0,1172.0
+twemproxy,C,D:\clones\twemproxy\src\nc_stats.c,275,36.0,903.0
+twemproxy,C,D:\clones\twemproxy\src\nc_server.c,199,47.0,687.0
+twemproxy,C,D:\clones\twemproxy\src\nc_message.c,166,143.0,603.0
+twemproxy,C/C++ Header,D:\clones\twemproxy\src\nc_queue.h,123,148.0,527.0
+twemproxy,Markdown,D:\clones\twemproxy\notes\redis.md,52,0.0,511.0
+twemproxy,Bourne Shell,D:\clones\twemproxy\scripts\redis-check.sh,105,9.0,508.0
+twemproxy,C,D:\clones\twemproxy\src\nc_request.c,150,117.0,506.0
+twemproxy,C,D:\clones\twemproxy\src\test_all.c,60,51.0,496.0
+twemproxy,C,D:\clones\twemproxy\src\nc.c,110,30.0,459.0
+twemproxy,C,D:\clones\twemproxy\src\nc_util.c,119,92.0,436.0
+twemproxy,C/C++ Header,D:\clones\twemproxy\src\nc_message.h,27,20.0,306.0
+twemproxy,PHP,D:\clones\twemproxy\scripts\extract_redis_commands_argcounts.php,46,11.0,302.0
+twemproxy,C,D:\clones\twemproxy\src\nc_proxy.c,76,34.0,298.0
+twemproxy,C,D:\clones\twemproxy\src\nc_connection.c,82,95.0,295.0
+twemproxy,C,D:\clones\twemproxy\src\event\nc_evport.c,74,54.0,292.0
+twemproxy,C,D:\clones\twemproxy\src\event\nc_kqueue.c,76,53.0,283.0
+twemproxy,C,D:\clones\twemproxy\src\nc_core.c,62,33.0,275.0
+twemproxy,Python,D:\clones\twemproxy\tests\lib\server_modules.py,73,35.0,270.0
+twemproxy,C,D:\clones\twemproxy\src\event\nc_epoll.c,68,16.0,260.0
+twemproxy,Markdown,D:\clones\twemproxy\README.md,57,0.0,256.0
+twemproxy,C,D:\clones\twemproxy\src\nc_rbtree.c,64,24.0,256.0
+twemproxy,C,D:\clones\twemproxy\src\nc_log.c,66,21.0,245.0
+twemproxy,C,D:\clones\twemproxy\src\nc_response.c,73,58.0,241.0
+twemproxy,C,D:\clones\twemproxy\src\hashkit\nc_md5.c,45,54.0,222.0
+twemproxy,C,D:\clones\twemproxy\src\nc_string.c,33,37.0,214.0
+twemproxy,m4,D:\clones\twemproxy\configure.ac,24,0.0,191.0
+twemproxy,C,D:\clones\twemproxy\src\hashkit\nc_ketama.c,40,32.0,174.0
+twemproxy,C,D:\clones\twemproxy\src\nc_mbuf.c,51,75.0,161.0
+twemproxy,Python,D:\clones\twemproxy\tests\test_redis\test_mget_mset.py,65,22.0,161.0
+twemproxy,C/C++ Header,D:\clones\twemproxy\src\nc_stats.h,43,16.0,156.0
+twemproxy,C,D:\clones\twemproxy\src\hashkit\nc_jenkins.c,20,57.0,153.0
+twemproxy,Bourne Shell,D:\clones\twemproxy\scripts\makesrpm.sh,34,43.0,139.0
+twemproxy,C,D:\clones\twemproxy\src\nc_array.c,46,25.0,133.0
+twemproxy,Markdown,D:\clones\twemproxy\notes\memcache.md,36,0.0,132.0
+twemproxy,C,D:\clones\twemproxy\src\nc_client.c,39,23.0,127.0
+twemproxy,C/C++ Header,D:\clones\twemproxy\src\nc_util.h,45,57.0,126.0
+twemproxy,C/C++ Header,D:\clones\twemproxy\src\nc_core.h,23,17.0,117.0
+twemproxy,C/C++ Header,D:\clones\twemproxy\src\proto\nc_proto.h,41,16.0,110.0
+twemproxy,C/C++ Header,D:\clones\twemproxy\src\nc_conf.h,18,16.0,107.0
+twemproxy,Python,D:\clones\twemproxy\tests\test_system\test_reload.py,39,49.0,106.0
+twemproxy,C,D:\clones\twemproxy\src\hashkit\nc_modula.c,30,23.0,103.0
+twemproxy,Markdown,D:\clones\twemproxy\notes\recommendation.md,55,0.0,101.0
+twemproxy,Python,D:\clones\twemproxy\tests\test_redis\test_basic.py,34,17.0,97.0
+twemproxy,C,D:\clones\twemproxy\src\hashkit\nc_random.c,29,22.0,95.0
+twemproxy,Python,D:\clones\twemproxy\tests\lib\utils.py,23,4.0,95.0
+twemproxy,C,D:\clones\twemproxy\src\nc_signal.c,23,16.0,92.0
+twemproxy,C,D:\clones\twemproxy\src\hashkit\nc_crc32.c,9,26.0,88.0
+twemproxy,C/C++ Header,D:\clones\twemproxy\src\nc_log.h,21,27.0,86.0
+twemproxy,C/C++ Header,D:\clones\twemproxy\src\nc_string.h,29,45.0,81.0
+twemproxy,make,D:\clones\twemproxy\src\Makefile.am,10,1.0,78.0
+twemproxy,Python,D:\clones\twemproxy\tests\test_memcache\test_gets.py,22,6.0,78.0
+twemproxy,C/C++ Header,D:\clones\twemproxy\src\nc_server.h,16,54.0,76.0
+twemproxy,C/C++ Header,D:\clones\twemproxy\src\nc_connection.h,19,16.0,74.0
+twemproxy,Python,D:\clones\twemproxy\tests\test_redis\test_auth.py,25,20.0,72.0
+twemproxy,Python,D:\clones\twemproxy\tests\test_redis\test_commands.py,30,2.0,71.0
+twemproxy,YAML,D:\clones\twemproxy\conf\nutcracker.yml,4,0.0,63.0
+twemproxy,Bourne Shell,D:\clones\twemproxy\scripts\nutcracker.init,12,9.0,62.0
+twemproxy,Bourne Shell,D:\clones\twemproxy\scripts\nutcracker.init.debian,12,9.0,62.0
+twemproxy,Python,D:\clones\twemproxy\tests\test_redis\test_protocol.py,21,12.0,61.0
+twemproxy,C/C++ Header,D:\clones\twemproxy\src\hashkit\nc_hashkit.h,7,16.0,56.0
+twemproxy,reStructuredText,D:\clones\twemproxy\tests\README.rst,33,0.0,54.0
+twemproxy,C,D:\clones\twemproxy\src\hashkit\nc_hsieh.c,14,26.0,53.0
+twemproxy,C,D:\clones\twemproxy\src\hashkit\nc_fnv.c,14,16.0,52.0
+twemproxy,C/C++ Header,D:\clones\twemproxy\src\event\nc_event.h,23,16.0,49.0
+twemproxy,Dockerfile,D:\clones\twemproxy\ci\Dockerfile,14,16.0,46.0
+twemproxy,C/C++ Header,D:\clones\twemproxy\src\nc_array.h,11,16.0,46.0
+twemproxy,C,D:\clones\twemproxy\src\hashkit\nc_crc16.c,5,16.0,45.0
+twemproxy,Bourne Shell,D:\clones\twemproxy\test_in_docker.sh,11,3.0,44.0
+twemproxy,Python,D:\clones\twemproxy\tests\test_redis\common.py,13,0.0,43.0
+twemproxy,C/C++ Header,D:\clones\twemproxy\src\nc_mbuf.h,10,16.0,41.0
+twemproxy,Python,D:\clones\twemproxy\tests\test_redis\test_pipeline.py,16,6.0,37.0
+twemproxy,C,D:\clones\twemproxy\src\hashkit\nc_murmur.c,21,43.0,35.0
+twemproxy,Bourne Shell,D:\clones\twemproxy\tests\conf\control.sh,8,0.0,30.0
+twemproxy,Python,D:\clones\twemproxy\scripts\benchmark-mget.py,8,7.0,28.0
+twemproxy,C/C++ Header,D:\clones\twemproxy\src\nc_rbtree.h,6,16.0,25.0
+twemproxy,YAML,D:\clones\twemproxy\.github\workflows\main.yml,7,12.0,23.0
+twemproxy,Python,D:\clones\twemproxy\tests\test_redis\test_mget_large_binary.py,8,3.0,23.0
+twemproxy,Bourne Shell,D:\clones\twemproxy\scripts\pipelined_write.sh,6,2.0,21.0
+twemproxy,Bourne Shell,D:\clones\twemproxy\scripts\multi_get.sh,4,2.0,20.0
+twemproxy,make,D:\clones\twemproxy\src\hashkit\Makefile.am,5,0.0,18.0
+twemproxy,Bourne Shell,D:\clones\twemproxy\scripts\populate_memcached.sh,6,1.0,17.0
+twemproxy,C,D:\clones\twemproxy\src\hashkit\nc_one_at_a_time.c,6,28.0,17.0
+twemproxy,Bourne Shell,D:\clones\twemproxy\ci\build-nutcracker.sh,3,2.0,16.0
+twemproxy,Bourne Shell,D:\clones\twemproxy\scripts\pipelined_read.sh,5,2.0,16.0
+twemproxy,Python,D:\clones\twemproxy\scripts\redis-check.py,5,3.0,15.0
+twemproxy,C/C++ Header,D:\clones\twemproxy\src\nc_signal.h,5,16.0,13.0
+twemproxy,C/C++ Header,D:\clones\twemproxy\src\nc_proxy.h,6,16.0,12.0
+twemproxy,Markdown,D:\clones\twemproxy\.github\PULL_REQUEST_TEMPLATE.md,5,0.0,10.0
+twemproxy,Dockerfile,D:\clones\twemproxy\Dockerfile,2,0.0,10.0
+twemproxy,YAML,D:\clones\twemproxy\conf\nutcracker.leaf.yml,0,0.0,10.0
+twemproxy,make,D:\clones\twemproxy\src\event\Makefile.am,6,0.0,10.0
+twemproxy,Python,D:\clones\twemproxy\tests\conf\conf.py,3,0.0,10.0
+twemproxy,make,D:\clones\twemproxy\src\proto\Makefile.am,5,0.0,9.0
+twemproxy,YAML,D:\clones\twemproxy\conf\nutcracker.root.yml,0,0.0,8.0
+twemproxy,C/C++ Header,D:\clones\twemproxy\src\nc_client.h,4,16.0,8.0
+twemproxy,Markdown,D:\clones\twemproxy\.github\ISSUE_TEMPLATE.md,6,0.0,7.0
+twemproxy,Bourne Shell,D:\clones\twemproxy\tests\nosetests_verbose.sh,3,2.0,7.0
+twemproxy,make,D:\clones\twemproxy\Makefile.am,4,0.0,5.0
+twemproxy,make,D:\clones\twemproxy\contrib\Makefile.am,1,0.0,2.0

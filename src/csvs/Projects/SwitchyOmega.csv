@@ -1,0 +1,183 @@
+project,language,filename,blank,comment,code
+SwitchyOmega,JavaScript,D:\clones\SwitchyOmega\omega-pac\uglifyjs.js,128,0.0,6595.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\uk\LC_MESSAGES\omega-web.po,350,0.0,1118.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\es\LC_MESSAGES\omega-web.po,350,0.0,1007.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\ru\LC_MESSAGES\omega-web.po,350,0.0,994.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\fa\LC_MESSAGES\omega-web.po,350,0.0,980.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\fr\LC_MESSAGES\omega-web.po,350,0.0,951.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\pt_BR\LC_MESSAGES\omega-web.po,350,0.0,948.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\de\LC_MESSAGES\omega-web.po,350,0.0,947.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\es_AR\LC_MESSAGES\omega-web.po,350,0.0,947.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\ach\LC_MESSAGES\omega-web.po,350,0.0,943.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\cs\LC_MESSAGES\omega-web.po,350,0.0,937.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\en_US\LC_MESSAGES\omega-web.po,350,0.0,925.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\ja\LC_MESSAGES\omega-web.po,350,0.0,919.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\zh_CN\LC_MESSAGES\omega-web.po,350,0.0,799.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\tr\LC_MESSAGES\omega-web.po,350,0.0,787.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\nb_NO\LC_MESSAGES\omega-web.po,350,0.0,786.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\zh_TW\LC_MESSAGES\omega-web.po,350,0.0,786.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\sk\LC_MESSAGES\omega-web.po,350,0.0,750.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\sl\LC_MESSAGES\omega-web.po,350,0.0,749.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\is\LC_MESSAGES\omega-web.po,350,0.0,748.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\nl\LC_MESSAGES\omega-web.po,350,0.0,737.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\pt\LC_MESSAGES\omega-web.po,350,0.0,737.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\zh_Hant\LC_MESSAGES\omega-web.po,350,0.0,734.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\it\LC_MESSAGES\omega-web.po,350,0.0,716.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\pl\LC_MESSAGES\omega-web.po,350,0.0,716.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\he_IL\LC_MESSAGES\omega-web.po,350,0.0,715.0
+SwitchyOmega,PO File,D:\clones\SwitchyOmega\omega-locales\si\LC_MESSAGES\omega-web.po,350,0.0,715.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target\src\options.coffee,98,252.0,696.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-pac\test\conditions.coffee,58,18.0,662.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-pac\src\conditions.coffee,31,30.0,626.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-pac\src\profiles.coffee,22,15.0,453.0
+SwitchyOmega,LESS,D:\clones\SwitchyOmega\omega-web\src\less\options.less,88,10.0,413.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-pac\test\rule_list.coffee,3,0.0,404.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\src\omega\controllers\switch_profile.coffee,49,11.0,400.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\src\omega\controllers\master.coffee,41,0.0,314.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\coffee\background.coffee,46,10.0,307.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-pac\test\profiles.coffee,9,2.0,279.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\src\coffee\popup.coffee,33,0.0,279.0
+SwitchyOmega,JavaScript,D:\clones\SwitchyOmega\omega-web\src\popup\js\profiles.js,31,0.0,252.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\module\options.coffee,23,6.0,250.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-pac\src\rule_list.coffee,16,6.0,246.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\profile_switch.jade,0,0.0,190.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\module\proxy\proxy_impl_settings.coffee,6,5.0,187.0
+SwitchyOmega,CSS,D:\clones\SwitchyOmega\omega-web\src\popup\css\index.css,29,13.0,178.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\module\upgrade.coffee,12,0.0,169.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target\test\options_sync.coffee,36,3.0,168.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\module\web_request_monitor.coffee,17,2.0,166.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\coffee\omega_target_web.coffee,4,0.0,149.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\popup.jade,5,14.0,146.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-pac\src\pac_generator.coffee,5,3.0,138.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target\src\options_sync.coffee,18,64.0,132.0
+SwitchyOmega,JSON,D:\clones\SwitchyOmega\omega-web\bower.json,1,0.0,131.0
+SwitchyOmega,LESS,D:\clones\SwitchyOmega\omega-web\src\less\popup.less,28,1.0,129.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\src\coffee\omega_decoration.coffee,5,0.0,120.0
+SwitchyOmega,JavaScript,D:\clones\SwitchyOmega\omega-web\src\popup\js\keyboard.js,16,1.0,117.0
+SwitchyOmega,Markdown,D:\clones\SwitchyOmega\README.md,43,0.0,108.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\src\omega\controllers\profile.coffee,9,2.0,104.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\src\omega\controllers\fixed_profile.coffee,9,0.0,96.0
+SwitchyOmega,CSS,D:\clones\SwitchyOmega\omega-web\src\popup\css\dialog.css,18,9.0,92.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\module\tabs.coffee,12,1.0,90.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\src\omega\app.coffee,15,4.0,90.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\module\storage.coffee,11,3.0,89.0
+SwitchyOmega,YAML,D:\clones\SwitchyOmega\.circleci\config.yml,10,0.0,88.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\module\proxy\proxy_impl_script.coffee,4,15.0,88.0
+SwitchyOmega,JavaScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\js\omega_target_popup.js,4,0.0,83.0
+SwitchyOmega,JavaScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\js\omega_webext_proxy_script.js,6,17.0,83.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\module\proxy\proxy_auth.coffee,9,0.0,78.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\io.jade,0,0.0,76.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\options.jade,1,1.0,70.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\src\coffee\switch_profile_guide.coffee,8,0.0,69.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\src\omega\controllers\io.coffee,8,0.0,69.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\module\inspect.coffee,13,5.0,66.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target\src\storage.coffee,12,69.0,66.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\module\proxy\proxy_impl_listener.coffee,5,17.0,64.0
+SwitchyOmega,JSON,D:\clones\SwitchyOmega\omega-target-chromium-extension\overlay\manifest.json,1,0.0,63.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\module\fetch_url.coffee,10,7.0,63.0
+SwitchyOmega,LESS,D:\clones\SwitchyOmega\omega-web\src\less\common.less,17,5.0,62.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\new_profile.jade,0,0.0,62.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\ui.jade,0,0.0,62.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\module\external_api.coffee,6,0.0,59.0
+SwitchyOmega,HTML,D:\clones\SwitchyOmega\omega-web\src\popup\index.html,0,0.0,57.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\src\coffee\options.coffee,9,0.0,56.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\about.jade,1,0.0,54.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-pac\src\utils.coffee,8,0.0,53.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-pac\test\pac_generator.coffee,3,0.0,53.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target\src\default_options.coffee,3,0.0,53.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\src\omega\directives.coffee,1,0.0,53.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-pac\src\shexp_utils.coffee,2,0.0,49.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\module\switchysharp.coffee,7,1.0,49.0
+SwitchyOmega,JavaScript,D:\clones\SwitchyOmega\omega-web\src\popup\js\index.js,7,1.0,48.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\src\coffee\options_guide.coffee,6,0.0,47.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target\src\browser_storage.coffee,6,0.0,45.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\module\chrome_port.coffee,8,29.0,44.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\grunt\browserify.coffee,0,0.0,43.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\profile_fixed.jade,1,0.0,43.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\coffee\omega_debug.coffee,2,2.0,42.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\module\proxy\proxy_impl.coffee,2,0.0,42.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\profile_pac.jade,0,0.0,40.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\grunt\watch.coffee,0,0.0,39.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\src\omega\controllers\pac_profile.coffee,6,4.0,39.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\profile.jade,0,0.0,39.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\grunt-po2crx.coffee,2,4.0,37.0
+SwitchyOmega,JSON,D:\clones\SwitchyOmega\omega-target-chromium-extension\package.json,0,0.0,36.0
+SwitchyOmega,JSON,D:\clones\SwitchyOmega\omega-target\package.json,0,0.0,35.0
+SwitchyOmega,JavaScript,D:\clones\SwitchyOmega\omega-web\src\popup\js\proxy_not_controllable.js,6,2.0,35.0
+SwitchyOmega,JSON,D:\clones\SwitchyOmega\omega-pac\package.json,0,0.0,34.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target\src\log.coffee,7,30.0,32.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\general.jade,1,0.0,32.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\fixed_auth_edit.jade,0,0.0,31.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\profile_rule_list.jade,1,0.0,31.0
+SwitchyOmega,Markdown,D:\clones\SwitchyOmega\.github\ISSUE_TEMPLATE.md,20,0.0,29.0
+SwitchyOmega,JavaScript,D:\clones\SwitchyOmega\omega-web\src\popup\js\keyboard_help.js,3,0.0,29.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-pac\grunt\browserify.coffee,0,0.0,28.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\grunt\copy.coffee,0,0.0,28.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\grunt\watch.coffee,0,0.0,28.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target\grunt\browserify.coffee,0,0.0,28.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target\src\errors.coffee,5,0.0,28.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\src\omega\filters.coffee,2,0.0,27.0
+SwitchyOmega,JSON,D:\clones\SwitchyOmega\omega-web\package.json,0,0.0,26.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\coffee\background_preload.coffee,4,4.0,24.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\rename_profile.jade,0,0.0,23.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-pac\test\utils.coffee,1,0.0,22.0
+SwitchyOmega,JavaScript,D:\clones\SwitchyOmega\omega-web\src\popup\js\loader.js,0,0.0,22.0
+SwitchyOmega,HTML,D:\clones\SwitchyOmega\omega-web\src\popup\proxy_not_controllable.html,0,0.0,22.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\grunt\jade.coffee,0,0.0,20.0
+SwitchyOmega,HTML,D:\clones\SwitchyOmega\omega-target-chromium-extension\overlay\background.html,0,0.0,19.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\grunt\copy.coffee,0,0.0,19.0
+SwitchyOmega,Markdown,D:\clones\SwitchyOmega\.github\PULL_REQUEST_TEMPLATE.md,8,0.0,18.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-build\Gruntfile.coffee,4,0.0,18.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-pac\test\shexp_utils.coffee,1,0.0,18.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\grunt\coffeelint.coffee,1,1.0,18.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\grunt\compress.coffee,0,0.0,18.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target\grunt\coffeelint.coffee,1,1.0,18.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\grunt\coffeelint.coffee,1,1.0,18.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\omega_profile_select.jade,0,0.0,18.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\profile_virtual.jade,0,0.0,18.0
+SwitchyOmega,JavaScript,D:\clones\SwitchyOmega\omega-web\img\icons\draw_omega.js,2,0.0,17.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\replace_profile.jade,0,0.0,17.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\module\chrome_api.coffee,2,0.0,16.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\rule_remove_confirm.jade,0,0.0,16.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\grunt\po2crx.coffee,0,0.0,15.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\src\omega\controllers\quick_switch.coffee,1,0.0,14.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\cannot_delete_profile.jade,0,0.0,14.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\delete_attached.jade,0,0.0,14.0
+SwitchyOmega,JSON,D:\clones\SwitchyOmega\omega-build\package.json,0,0.0,13.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\options_welcome.jade,0,0.0,13.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\module\index.coffee,1,0.0,12.0
+SwitchyOmega,SVG,D:\clones\SwitchyOmega\omega-web\img\icons\omega-128.svg,0,0.0,12.0
+SwitchyOmega,SVG,D:\clones\SwitchyOmega\omega-web\img\icons\omega-action.svg,0,0.0,12.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\delete_profile.jade,0,0.0,12.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\rule_reset_confirm.jade,0,0.0,12.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target\index.coffee,2,0.0,11.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\grunt\aliases.coffee,0,0.0,11.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\src\omega\controllers\about.coffee,3,0.0,11.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\apply_options_confirm.jade,0,0.0,11.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\grunt\aliases.coffee,0,0.0,10.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target\grunt\watch.coffee,0,0.0,10.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\grunt\coffee.coffee,0,0.0,10.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\reset_options_confirm.jade,0,0.0,10.0
+SwitchyOmega,JavaScript,D:\clones\SwitchyOmega\omega-web\src\popup\js\i18n.js,0,0.0,10.0
+SwitchyOmega,JSON,D:\clones\SwitchyOmega\.tern-project,0,0.0,9.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\src\module\proxy\index.coffee,1,0.0,9.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-pac\index.coffee,1,0.0,8.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\grunt\autoprefixer.coffee,0,0.0,8.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\src\coffee\log_error.coffee,0,0.0,8.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\Gruntfile.coffee,1,0.0,7.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\grunt\coffee.coffee,0,0.0,7.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\grunt\less.coffee,0,0.0,7.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\input_group_clear.jade,0,0.0,7.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target\grunt\aliases.coffee,0,0.0,6.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\grunt\bower.coffee,0,0.0,6.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\grunt\mochaTest.coffee,0,0.0,6.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\grunt\ngAnnotate.coffee,0,0.0,6.0
+SwitchyOmega,Pug,D:\clones\SwitchyOmega\omega-web\src\partials\profile_unsupported.jade,0,0.0,3.0
+SwitchyOmega,JavaScript,D:\clones\SwitchyOmega\omega-pac\uglifyjs-shim.js,0,0.0,2.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\src\omega\controllers\rule_list_profile.coffee,0,0.0,2.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\index.coffee,0,0.0,1.0
+SwitchyOmega,JavaScript,D:\clones\SwitchyOmega\omega-target-chromium-extension\omega_target_shim.js,0,0.0,1.0
+SwitchyOmega,JavaScript,D:\clones\SwitchyOmega\omega-target\omega_pac_shim.js,0,0.0,1.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-target\src\utils.coffee,0,0.0,1.0
+SwitchyOmega,CoffeeScript,D:\clones\SwitchyOmega\omega-web\Gruntfile.coffee,0,0.0,1.0
+SwitchyOmega,JavaScript,D:\clones\SwitchyOmega\omega-web\lib\jquery-ui-1.10.4.custom.min.js,1,4.0,1.0

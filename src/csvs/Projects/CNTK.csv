@@ -1,0 +1,1928 @@
+project,language,filename,blank,comment,code
+CNTK,XML,D:\clones\CNTK\Examples\Image\DataSets\ImageNet\ImageNet1K_mean.xml,0,0.0,37643.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\CNTKToONNX.cpp,1154,1286.0,6831.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\CPUMatrixImpl.h,934,577.0,5866.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\adapter\bvlccaffe\caffe_pb2.py,228,68.0,5677.0
+CNTK,C++,D:\clones\CNTK\Source\Math\Matrix.cpp,864,500.0,5047.0
+CNTK,CUDA,D:\clones\CNTK\Source\Math\GPUMatrixCUDAKernels.cuh,701,475.0,4750.0
+CNTK,CUDA,D:\clones\CNTK\Source\Math\GPUMatrix.cu,751,394.0,4010.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\ONNXToCNTK.cpp,344,321.0,3276.0
+CNTK,Visual Studio Solution,D:\clones\CNTK\CNTK.sln,1,1.0,3161.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\Function.cpp,553,222.0,3152.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\API\CNTKLibrary.h,1032,2521.0,3121.0
+CNTK,C++,D:\clones\CNTK\Source\SGDLib\SGD.cpp,436,419.0,2649.0
+CNTK,CUDA,D:\clones\CNTK\Source\Math\GPUSparseMatrix.cu,511,167.0,2605.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\Kaldi2Reader\msra_mgram.h,356,649.0,2571.0
+CNTK,TeX,D:\clones\CNTK\Documentation\CNTK-TechReport\lyx\references.bib,330,1.0,2447.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathTests\MatrixTests.cpp,443,184.0,2381.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ComputationNetworkLib\TrainingNodes.h,412,489.0,2172.0
+CNTK,C++,D:\clones\CNTK\Source\Math\NoGPU.cpp,429,99.0,2120.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\CompositeFunction.cpp,260,143.0,1956.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ComputationNetworkLib\ComputationNode.h,372,459.0,1771.0
+CNTK,SWIG,D:\clones\CNTK\bindings\python\cntk\cntk_py.i,343,203.0,1674.0
+CNTK,C++,D:\clones\CNTK\Source\Common\fileutil.cpp,212,260.0,1642.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\HTKMLFReader\HTKMLFReader.cpp,245,210.0,1609.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\Kaldi2Reader\HTKMLFReader.cpp,182,282.0,1595.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\tests\onnx_op_test.py,373,239.0,1557.0
+CNTK,C++,D:\clones\CNTK\Source\Math\CPUSparseMatrix.cpp,283,127.0,1527.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ComputationNetworkLib\ReshapingNodes.h,324,517.0,1522.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\LMSequenceReader\SequenceReader.cpp,292,401.0,1507.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\MklDnnCommon.h,147,9.0,1502.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ComputationNetworkLib\LinearAlgebraNodes.h,303,263.0,1485.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\ReaderTests\ReaderLibTests.cpp,359,81.0,1471.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKMLFReader\utterancesourcemulti.h,183,298.0,1469.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\Kaldi2Reader\ssematrix.h,171,288.0,1466.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKMLFReader\msra_mgram.h,168,356.0,1443.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\ssematrix.h,167,255.0,1434.0
+CNTK,C++,D:\clones\CNTK\Source\ActionsLib\SimpleNetworkBuilder.cpp,310,95.0,1408.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\PrimitiveFunction.cpp,150,74.0,1364.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\V2LibraryTests\ValueTests.cpp,246,113.0,1325.0
+CNTK,make,D:\clones\CNTK\Makefile,297,212.0,1271.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ComputationNetworkLib\ConvolutionalNodes.h,203,236.0,1268.0
+CNTK,C++,D:\clones\CNTK\Source\ComputationNetworkLib\ComputationNetwork.cpp,213,186.0,1207.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\configure,107,51.0,1199.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\latticearchive.h,99,180.0,1178.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ComputationNetworkLib\SpecialPurposeNodes.h,211,137.0,1134.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\Kaldi2Reader\utterancesourcemulti.h,120,248.0,1121.0
+CNTK,Markdown,D:\clones\CNTK\Documentation\Documents\Configuration Files.md,532,0.0,1109.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\io\tests\io_tests.py,331,143.0,1104.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\Utils.cpp,190,58.0,1103.0
+CNTK,C++,D:\clones\CNTK\Source\SequenceTrainingLib\latticeforwardbackward.cpp,140,218.0,1079.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\LUSequenceReader\LUSequenceReader.cpp,188,121.0,1043.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\V2LibraryTests\FunctionTests.cpp,249,52.0,1038.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\Config.h,205,324.0,1037.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\NDArrayView.cpp,138,15.0,1036.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\CNTKTextFormatReader\TextParser.cpp,155,73.0,1035.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathTests\CPUMatrixTests.cpp,187,10.0,1023.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\Learner.cpp,192,98.0,1002.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\BinaryReader\BinaryFile.cpp,140,288.0,988.0
+CNTK,C++,D:\clones\CNTK\Source\ComputationNetworkLib\ComputationNode.cpp,146,164.0,963.0
+CNTK,C++,D:\clones\CNTK\Source\Math\ConvolutionEngine.cpp,179,136.0,956.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\RNNHelper.cpp,160,81.0,947.0
+CNTK,Mathematica,D:\clones\CNTK\Examples\LanguageUnderstanding\ATIS\BrainScript\query.wl,0,0.0,943.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKMLFReader\htkfeatio.h,92,146.0,939.0
+CNTK,C++,D:\clones\CNTK\Source\ComputationNetworkLib\ComputationNetworkBuilder.cpp,133,37.0,927.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\__init__.py,657,2582.0,927.0
+CNTK,CUDA,D:\clones\CNTK\Source\Math\GPUTensor.cu,95,267.0,925.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\ReaderTests\CNTKTextFormatReaderTests.cpp,106,44.0,917.0
+CNTK,reStructuredText,D:\clones\CNTK\bindings\python\doc\layerref.rst,327,8.0,917.0
+CNTK,C++,D:\clones\CNTK\Source\Common\MPIWrapper.cpp,242,104.0,916.0
+CNTK,CUDA,D:\clones\CNTK\Source\Math\CntkBatchNormalization.cuh,77,163.0,914.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ComputationNetworkLib\ComputationNetwork.h,194,229.0,910.0
+CNTK,C++,D:\clones\CNTK\Source\ComputationNetworkLib\RecurrentNodes.cpp,136,253.0,894.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\V2LibraryTests\SerializationTests.cpp,200,27.0,894.0
+CNTK,C++,D:\clones\CNTK\Source\ComputationNetworkLib\ComputationNetworkEvaluation.cpp,159,250.0,891.0
+CNTK,C++,D:\clones\CNTK\Source\CNTK\BrainScript\BrainScriptEvaluator.cpp,61,278.0,879.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\kernel_test.py,217,108.0,875.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\patch\onnxruntime\core\session\onnxruntime_c_api.cc,87,161.0,856.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathTests\ConvolutionEngineTests.cpp,165,57.0,855.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\Common.cpp,183,22.0,850.0
+CNTK,C++,D:\clones\CNTK\Source\CNTK\BrainScript\BrainScriptParser.cpp,51,131.0,831.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\layers\tests\layers_test.py,283,252.0,830.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ComputationNetworkLib\EvaluationNodes.h,151,113.0,818.0
+CNTK,C++,D:\clones\CNTK\Source\Common\File.cpp,96,188.0,813.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ActionsLib\NetworkDescriptionLanguage.h,125,210.0,812.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\Serialization.cpp,107,15.0,806.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\Sequences.h,142,307.0,803.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\UCIFastReader\UCIFastReader.cpp,122,203.0,790.0
+CNTK,C++,D:\clones\CNTK\Source\SequenceTrainingLib\parallelforwardbackward.cpp,95,90.0,789.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\ReaderTests\HTKLMFReaderTests.cpp,55,7.0,789.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\latticefunctionskernels.h,95,96.0,770.0
+CNTK,C++,D:\clones\CNTK\Source\ComputationNetworkLib\ReshapingNodes.cpp,117,167.0,752.0
+CNTK,C++,D:\clones\CNTK\Source\CNTK\CNTK.cpp,118,92.0,744.0
+CNTK,SWIG,D:\clones\CNTK\bindings\common\CNTKManagedCommon.i,43,41.0,726.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathTests\HalfGPUTests.cpp,181,73.0,725.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\ScriptableObjects.h,78,192.0,714.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\ReaderTests\ReaderUtilTests.cpp,145,19.0,712.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\functions.py,273,960.0,710.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ImageReader\ImageTransformers.cpp,114,40.0,704.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\cntk_helpers.py,124,126.0,703.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\LibSVMBinaryReader\LibSVMBinaryReader.cpp,102,70.0,697.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\TensorShape.h,41,177.0,688.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKMLFReader\rollingwindowsource.h,73,135.0,688.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\V2LibraryTests\ConvolutionFunctionTests.cpp,163,15.0,680.0
+CNTK,C++,D:\clones\CNTK\Source\ActionsLib\NDLNetworkBuilder.cpp,84,63.0,674.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\reshaping_test.py,180,87.0,673.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\V2LibraryTests\Common.h,138,20.0,651.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathTests\GPUMatrixTests.cpp,150,16.0,648.0
+CNTK,C++,D:\clones\CNTK\Source\Common\BestGpu.cpp,130,103.0,638.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\BackCompat.cpp,75,22.0,636.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\Value.cpp,108,42.0,632.0
+CNTK,CUDA,D:\clones\CNTK\Source\Math\CuDnnConvolutionEngine.cu,72,78.0,628.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\DistributedCommunicator.cpp,105,59.0,627.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ComputationNetworkLib\InputAndParamNodes.h,131,102.0,626.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\CNTKLibraryCSEvalCPUOnlyExamples\CNTKLibraryCSEvalExamples.cs,148,257.0,619.0
+CNTK,JSON,D:\clones\CNTK\Tools\samples.json,0,0.0,614.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\Utils.h,133,20.0,611.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathTests\GPUSparseMatrixTests.cpp,143,16.0,604.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\tests\onnx_sequence_test.py,179,83.0,595.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\V2LibraryTests\RecurrentFunctionTests.cpp,135,35.0,593.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\TestDriver.py,108,220.0,592.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\Operators.cpp,30,45.0,586.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\userfunction_test.py,243,21.0,585.0
+CNTK,XML,D:\clones\CNTK\Source\CNTKv2LibraryDll\CNTKv2LibraryDll.vcxproj.filters,0,0.0,580.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\non_linear_test.py,209,27.0,567.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\API\Internals\PrimitiveFunction.h,95,80.0,566.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\fileutil.h,138,223.0,565.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\layers\layers.py,224,755.0,563.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\learners\tests\learner_test.py,147,76.0,560.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\train\tests\training_session_test.py,163,70.0,560.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ComputationNetworkLib\NonlinearityNodes.h,116,114.0,558.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\BinaryReader\BinaryReader.h,67,67.0,558.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\UCIFastReader\UCIParser.cpp,84,153.0,557.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\Kaldi2Reader\latticearchive.cpp,67,125.0,555.0
+CNTK,PowerShell,D:\clones\CNTK\Tools\devInstall\Windows\helper\Action.ps1,127,15.0,549.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\GPUMatrix.h,149,40.0,545.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\HTKMLFReader\latticearchive.cpp,67,125.0,543.0
+CNTK,C++,D:\clones\CNTK\Source\SGDLib\ASGDHelper.cpp,106,36.0,543.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\ReaderTests\ImageReaderTests.cpp,45,7.0,539.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\MinibatchSource.cpp,96,13.0,536.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKDeserializers\HTKFeaturesIO.h,59,82.0,533.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTK\ModelEditLanguage.h,70,113.0,529.0
+CNTK,C#,D:\clones\CNTK\Tests\UnitTests\ManagedEvalTests\EvalManagedTests.cs,118,28.0,521.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\Matrix.h,141,56.0,519.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\ConvolveGeometry.h,73,175.0,518.0
+CNTK,Markdown,D:\clones\CNTK\Documentation\Documents\Network Description Language.md,372,0.0,517.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\io\__init__.py,208,523.0,517.0
+CNTK,C#,D:\clones\CNTK\bindings\csharp\CNTKLibraryManagedDll\ShimApiClasses\ValueShim.cs,52,329.0,516.0
+CNTK,C++,D:\clones\CNTK\Source\ComputationNetworkLib\InputAndParamNodes.cpp,63,130.0,508.0
+CNTK,C++,D:\clones\CNTK\Source\CNTK\ModelEditLanguage.cpp,78,54.0,507.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\Common\Common.h,124,14.0,506.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\Basics.h,95,84.0,503.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\StringUtil.h,131,29.0,502.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\fpgeneric.h,81,51.0,500.0
+CNTK,C++,D:\clones\CNTK\Source\Extensibility\EvalWrapper\EvalWrapper.cpp,73,100.0,499.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\Variable.cpp,100,18.0,490.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\1BitSGD\BlockMomentumDistributedLearner.h,96,87.0,486.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\sequence_test.py,134,17.0,483.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\HTKDeserializers\HTKDeserializer.cpp,98,68.0,480.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\SGDLib\SGD.h,104,92.0,474.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\CommonMatrix.h,116,58.0,473.0
+CNTK,XML,D:\clones\CNTK\Tests\UnitTests\ReaderTests\ReaderTests.vcxproj.filters,0,0.0,473.0
+CNTK,Markdown,D:\clones\CNTK\Documentation\Documents\Model Editing Language.md,278,0.0,472.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\CPUMatrix.h,135,29.0,466.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\Kaldi2Reader\rollingwindowsource.h,52,90.0,466.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\SGDLib\DataReaderHelpers.h,68,110.0,462.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\1BitSGD\AllReduceDistGradAggregator.h,105,80.0,446.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\Trainer.cpp,110,36.0,438.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\function_tests.py,156,25.0,437.0
+CNTK,C++,D:\clones\CNTK\Source\PerformanceProfilerDll\PerformanceProfiler.cpp,124,86.0,432.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\CPUMatrixTensorImpl.h,51,75.0,430.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\1BitSGD\QuantizedDistributedCommunicator.h,90,48.0,429.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\V2LibraryTests\LearnerTests.cpp,73,5.0,427.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\Kaldi2Reader\htkfeatio.h,79,84.0,424.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\LMSequenceReader\SequenceParser.h,97,127.0,424.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\V2LibraryTests\FeedForwardTests.cpp,79,15.0,421.0
+CNTK,C++,D:\clones\CNTK\Source\CNTK\tests.cpp,52,116.0,416.0
+CNTK,C++,D:\clones\CNTK\Source\ComputationNetworkLib\ComputationNetworkScripting.cpp,70,212.0,416.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FasterRCNN\FasterRCNN_train.py,89,79.0,410.0
+CNTK,C++,D:\clones\CNTK\Source\ActionsLib\OtherActions.cpp,64,91.0,410.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\linear_test.py,116,18.0,408.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\DSSMReader\DSSMReader.cpp,71,185.0,407.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\tests\qlearning_test.py,71,19.0,405.0
+CNTK,C++,D:\clones\CNTK\Examples\Evaluation\CNTKLibraryCPPEvalCPUOnlyExamples\CNTKLibraryCPPEvalExamples.cpp,114,219.0,404.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ActionsLib\NDLNetworkBuilder.h,73,113.0,404.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\SequenceTrainingLib\gammacalculation.h,64,56.0,399.0
+CNTK,C++,D:\clones\CNTK\Source\Math\BatchNormalizationEngine.cpp,74,11.0,398.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\TensorOps.h,62,50.0,398.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\LMSequenceReader\SequenceParser.cpp,68,124.0,397.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\TrainingSession.cpp,69,47.0,396.0
+CNTK,XML,D:\clones\CNTK\bindings\python\PythonBindings.vcxproj.filters,0,0.0,396.0
+CNTK,CUDA,D:\clones\CNTK\Source\Math\Convolution.cuh,72,48.0,395.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_302B_Image_Super-resolution_Using_CNNs_and_GANs.ipynb,0,1231.0,395.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathTests\MatrixQuantizerTests.cpp,59,38.0,394.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\learners\__init__.py,183,640.0,393.0
+CNTK,C++,D:\clones\CNTK\Source\Extensibility\EvalWrapper\EvalExtendedWrapper.cpp,74,106.0,388.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ComputationNetworkLib\SequenceReshapeNodes.h,90,32.0,387.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\basetypes.h,31,27.0,386.0
+CNTK,XML,D:\clones\CNTK\Source\CNTKv2LibraryDll\CNTKv2LibraryDll.vcxproj,0,0.0,376.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\SGDLib\SimpleDistGradAggregator.h,75,70.0,376.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\cudalatticeops.cu.h,48,33.0,374.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ReaderLib\BlockRandomizer.cpp,82,52.0,365.0
+CNTK,C++,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCPPEvalExamplesTest\EvalMultithreads.cpp,70,57.0,362.0
+CNTK,C/C++ Header,D:\clones\CNTK\bindings\python\cntk\SwigDeserializer.h,79,61.0,358.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_301_Image_Recognition_with_Deep_Transfer_Learning.ipynb,0,884.0,356.0
+CNTK,XML,D:\clones\CNTK\Examples\PythonExamples.pyproj,0,0.0,355.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\ReaderTests\Common\ReaderTestHelper.h,67,85.0,351.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\SGDLib\MASGD.h,31,44.0,349.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\CSEvalClient\Program.cs,81,166.0,348.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\GPUSparseMatrix.h,87,51.0,347.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\internal\sanitize.py,124,213.0,345.0
+CNTK,C++,D:\clones\CNTK\Source\EvalDll\CNTKEval.cpp,68,51.0,344.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKMLFReader\chunkevalsource.h,51,31.0,342.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\Kaldi2Reader\chunkevalsource.h,52,31.0,342.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\V2LibraryTests\MinibatchSourceTest.cpp,86,13.0,342.0
+CNTK,PowerShell,D:\clones\CNTK\Scripts\install\windows\ps\_action.ps1,74,8.0,341.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\LUSequenceReader\LUSequenceReader.h,67,38.0,341.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\tests\onnx_model_test.py,48,62.0,338.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\LMSequenceReader\SequenceReader.h,57,36.0,337.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\HTKDeserializers\ConfigHelper.cpp,54,55.0,335.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ReaderLib\ReaderShim.cpp,84,76.0,334.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\V2LibraryTests\UserDefinedFunctionTests.cpp,65,12.0,334.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\tests\policy_gradient_test.py,70,24.0,333.0
+CNTK,PowerShell,D:\clones\CNTK\Tools\devInstall\Windows\helper\Operations.ps1,45,13.0,331.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\API\CNTKLibraryInternals.h,103,69.0,326.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ReaderLib\IndexBuilder.cpp,84,39.0,325.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\tests\onnx_format_test.py,94,29.0,324.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\adapter\bvlccaffe\caffeadapter.py,83,172.0,323.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\DataReader.h,64,113.0,322.0
+CNTK,C#,D:\clones\CNTK\Examples\TrainingCSharp\Common\TransferLearning.cs,61,106.0,320.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ComputationNetworkLib\MatrixPool.h,41,33.0,319.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ComputationNetworkLib\PreComputeNodes.h,70,46.0,317.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\core.py,105,261.0,315.0
+CNTK,reStructuredText,D:\clones\CNTK\bindings\python\doc\extend.rst,102,1.0,313.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ComputationNetworkLib\UserDefinedV2FunctionNode.h,61,58.0,312.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\logging\progress_print.py,107,162.0,311.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_204_Sequence_To_Sequence.ipynb,0,1027.0,307.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\V2LibraryTests\NDArrayViewTests.cpp,63,20.0,306.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\BinaryReader\BinaryReader.cpp,49,83.0,300.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\ReaderTests\SequentialDeserializer.h,52,13.0,299.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\plot_helpers.py,60,20.0,298.0
+CNTK,Python,D:\clones\CNTK\Examples\SequenceToSequence\CMUDict\Python\Sequence2Sequence.py,88,114.0,297.0
+CNTK,Markdown,D:\clones\CNTK\README.md,88,0.0,296.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ReaderLib\TruncatedBpttPacker.cpp,68,74.0,296.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathTests\MatrixBlasTests.cpp,36,18.0,293.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\ControlFlowHelper.h,32,36.0,292.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tools\build-and-test,35,34.0,292.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\1BitSGD\V2BlockMomentumSGD.h,49,44.0,290.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\ssefloat4.h,34,45.0,290.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\CompositeFunction.h,85,48.0,289.0
+CNTK,SWIG,D:\clones\CNTK\bindings\csharp\Swig\std_unordered_map.i,46,29.0,289.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\EvalTests\EvalExtendedTests.cpp,95,38.0,286.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ReaderLib\Bundler.cpp,47,32.0,285.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\reduction_test.py,73,37.0,284.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\BinaryReader\BinaryWriter.cpp,43,116.0,283.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\CPUSparseMatrix.h,53,30.0,282.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ActionsLib\SimpleNetworkBuilder.h,67,31.0,280.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ReaderLib\SequencePacker.cpp,69,57.0,280.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\FastRCNN_train.py,52,29.0,276.0
+CNTK,PowerShell,D:\clones\CNTK\Tools\devInstall\Windows\helper\Verification.ps1,54,12.0,274.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_599A_Sequence_To_Sequence.ipynb,0,934.0,273.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\LibSVMBinaryReader\LibSVMBinaryReader.h,46,11.0,272.0
+CNTK,C++,D:\clones\CNTK\Source\Common\DataReader.cpp,50,81.0,271.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_203_Reinforcement_Learning_Basics.ipynb,0,1043.0,271.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\Learner.h,99,54.0,270.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\CompositeDataReader\CompositeDataReader.cpp,56,58.0,270.0
+CNTK,CUDA,D:\clones\CNTK\Source\Math\MatrixQuantizerGPU.cu,64,52.0,269.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_201B_CIFAR-10_ImageHandsOn.ipynb,0,1091.0,269.0
+CNTK,XML,D:\clones\CNTK\Tests\UnitTests\ReaderTests\ReaderTests.vcxproj,0,0.0,268.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKMLFReader\minibatchiterator.h,29,56.0,267.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ReaderLib\SequenceRandomizer.cpp,55,54.0,266.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_206C_WGAN_LSGAN.ipynb,0,700.0,266.0
+CNTK,C++,D:\clones\CNTK\Source\ComputationNetworkLib\TrainingNodes.cpp,47,36.0,265.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\Kaldi2Reader\UtteranceDerivativeBuffer.cpp,30,27.0,265.0
+CNTK,Python,D:\clones\CNTK\Examples\Text\LightRNN\LightRNN\train.py,50,59.0,263.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathPerformanceTests\MathPerformanceTests.cpp,42,54.0,263.0
+CNTK,XML,D:\clones\CNTK\Source\CNTK\CNTK.vcxproj.filters,0,0.0,262.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_202_Language_Understanding.ipynb,0,1264.0,262.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKDeserializers\MLFDeserializer.h,75,52.0,261.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\simplesenonehmm.h,15,34.0,259.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\half.hpp,44,27.0,256.0
+CNTK,C++,D:\clones\CNTK\Source\Math\TensorView.cpp,54,117.0,255.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\train\tests\trainer_test.py,63,21.0,255.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\SparsePCReader\SparsePCReader.cpp,57,35.0,250.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\fastRCNN\pascal_voc.py,49,65.0,249.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathTests\BatchNormalizationEngineTests.cpp,54,28.0,248.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_104_Finance_Timeseries_Basic_with_Pandas_Numpy.ipynb,0,849.0,248.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\HTKDeserializers\LatticeDeserializer.cpp,61,21.0,247.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\SGDLib\SimpleEvaluator.h,55,39.0,245.0
+CNTK,Perl,D:\clones\CNTK\Tests\EndToEndTests\Examples\Text\Miscellaneous\SLU\Config\conlleval.pl,29,41.0,245.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\MathTests\TensorTestsHelper.h,43,25.0,244.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_105_Basic_Autoencoder_for_Dimensionality_Reduction.ipynb,0,888.0,243.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ActionsLib\SynchronousExecutionEngine.h,41,92.0,242.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\agent\qlearning.py,58,83.0,242.0
+CNTK,XML,D:\clones\CNTK\Source\Math\Math.vcxproj,0,0.0,240.0
+CNTK,DOS Batch,D:\clones\CNTK\bindings\python\doc\make.bat,35,2.0,240.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ImageReader\ImageDataDeserializer.cpp,51,26.0,237.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\1BitSGD\BlockMomentumSGD.h,24,40.0,236.0
+CNTK,C++,D:\clones\CNTK\Source\ComputationNetworkLib\ComputationNetworkEditing.cpp,65,69.0,236.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\logging\graph.py,71,103.0,236.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\variables.py,75,179.0,236.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\ColumnQuantizer.h,35,81.0,235.0
+CNTK,Python,D:\clones\CNTK\bindings\python\setup.py,48,13.0,235.0
+CNTK,C++,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\CPPEvalExtendedClient\CPPEvalExtendedClient.cpp,56,40.0,231.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\proposal_helpers.py,47,16.0,231.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\debugging\debug.py,90,133.0,231.0
+CNTK,C++,D:\clones\CNTK\Source\ComputationNetworkLib\RNNNodes.cpp,50,63.0,230.0
+CNTK,C++,D:\clones\CNTK\Source\Math\cudalattice.cpp,20,15.0,230.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\HTKDeserializers\MLFDeserializer.cpp,47,19.0,228.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ReaderLib\NoRandomizer.cpp,53,21.0,228.0
+CNTK,C++,D:\clones\CNTK\Source\ActionsLib\NetworkDescriptionLanguage.cpp,26,40.0,226.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\Platform.h,31,19.0,226.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\Kaldi2Reader\HTKMLFWriter.cpp,42,15.0,226.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\Kaldi2Reader\minibatchiterator.h,26,64.0,226.0
+CNTK,XML,D:\clones\CNTK\Source\CNTK\CNTK.vcxproj,0,0.0,225.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\File.h,34,34.0,225.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\rpn\anchor_target_layer.py,49,53.0,224.0
+CNTK,Bourne Shell,D:\clones\CNTK\Scripts\install\linux\install-cntk.sh,68,41.0,224.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\API\Internals\ComputationGraphAlgorithms.h,46,152.0,224.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\Kaldi2Reader\readaheadsource.h,7,52.0,224.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\agent\policy_gradient.py,58,91.0,222.0
+CNTK,Python,D:\clones\CNTK\Examples\ReinforcementLearning\DeepQNeuralNetwork.py,106,153.0,221.0
+CNTK,C++,D:\clones\CNTK\Source\Common\ExceptionWithCallStack.cpp,30,44.0,221.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\FileTest\FileTest.cpp,11,9.0,219.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_200_GuidedTour.ipynb,0,1015.0,219.0
+CNTK,C++,D:\clones\CNTK\Source\ActionsLib\TrainActions.cpp,56,42.0,218.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\tensorboard\TensorBoardFileWriter.cpp,53,19.0,218.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\unimodel\cntkinstance.py,70,200.0,218.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\tensorboard\TensorBoardUtils.cpp,38,29.0,217.0
+CNTK,PowerShell,D:\clones\CNTK\Tools\devInstall\Windows\helper\Download.ps1,47,17.0,214.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\free_static_axis_test.py,55,9.0,214.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\SGDLib\SimpleOutputWriter.h,58,28.0,213.0
+CNTK,XML,D:\clones\CNTK\Source\Math\MathCUDA.vcxproj,0,0.0,209.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathTests\MatrixSparseDenseInteractionsTests.cpp,72,39.0,209.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\imdb_data.py,43,59.0,206.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\numahelpers.h,22,47.0,206.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\fastRCNN\train_svms.py,42,68.0,205.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\od_reader.py,49,29.0,205.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\Kaldi2Reader\KaldiSequenceTrainingDerivative.cpp,24,16.0,205.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\FunctionalAPI\CNTK_200_GuidedTour.ipynb,0,991.0,205.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\sparse_test.py,66,13.0,205.0
+CNTK,CUDA,D:\clones\CNTK\Source\Math\MatrixQuantizer_kernel.cu,46,59.0,204.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\rpn\proposal_target_layer.py,48,55.0,202.0
+CNTK,C++,D:\clones\CNTK\Source\Common\Config.cpp,30,80.0,201.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ComputationNetworkLib\DeprecatedNodes.h,49,43.0,201.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\ReaderLib\ReaderLib.vcxproj.filters,0,0.0,201.0
+CNTK,Dockerfile,D:\clones\CNTK\Tools\docker\CNTK-GPU-Image\Dockerfile,26,34.0,201.0
+CNTK,Python,D:\clones\CNTK\Scripts\ctf2bin.py,60,49.0,200.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\1BitSGD\V2AllReduceDistGradAggregator.h,54,45.0,200.0
+CNTK,C++,D:\clones\CNTK\Source\Math\CPUMatrixTensorSpecial.cpp,26,11.0,199.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_207_Training_with_Sampled_Softmax.ipynb,0,430.0,199.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\train\training_session.py,74,163.0,199.0
+CNTK,PowerShell,D:\clones\CNTK\Scripts\install\windows\ps\_verify.ps1,55,11.0,198.0
+CNTK,C++,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\EndToEndTests\Seq2Seq.cpp,49,8.0,198.0
+CNTK,C++,D:\clones\CNTK\Source\ActionsLib\EvalActions.cpp,49,23.0,197.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ComputationNetworkLib\ComputationNetworkBuilder.h,16,18.0,197.0
+CNTK,XML,D:\clones\CNTK\Source\SGDLib\SGDLib.vcxproj.filters,0,0.0,195.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_302A_Evaluation_of_Pretrained_Super-resolution_Models.ipynb,0,497.0,195.0
+CNTK,Protocol Buffers,D:\clones\CNTK\Source\CNTKv2LibraryDll\tensorboard\tensorboard.proto,56,216.0,193.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\layers\blocks.py,99,215.0,193.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\learners\tests\distributed_multi_learner_test.py,55,22.0,193.0
+CNTK,XML,D:\clones\CNTK\Source\Math\Math.vcxproj.filters,0,0.0,192.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\SGDLib\V2SimpleDistGradAggregator.h,47,27.0,192.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\tests\misc_test.py,39,8.0,192.0
+CNTK,XML,D:\clones\CNTK\CNTK.Cpp.props,33,11.0,191.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\CuDnnRNN.h,32,11.0,191.0
+CNTK,Bourne Shell,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\scripts\make_denlats.sh,27,19.0,189.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\patch\onnxruntime\core\platform\windows\env.cc,32,21.0,189.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\Kaldi2Reader\numahelpers.h,24,47.0,189.0
+CNTK,Dockerfile,D:\clones\CNTK\Tools\docker\CNTK-CPUOnly-Image\Dockerfile,24,29.0,188.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Classification\ResNet\Python\TrainResNet_ImageNet_Distributed.py,46,26.0,187.0
+CNTK,Python,D:\clones\CNTK\Examples\ReinforcementLearning\FlappingBirdWithKeras\FlappingBird_with_keras_DQN.py,44,27.0,187.0
+CNTK,XML,D:\clones\CNTK\Source\Math\MathCUDA.vcxproj.filters,0,0.0,187.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ImageReader\ImageTransformers.h,64,40.0,187.0
+CNTK,XML,D:\clones\CNTK\Tests\UnitTests\BrainScriptTests\BrainScriptTests.vcxproj.filters,0,0.0,187.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tools\make_binary_drop_linux,60,57.0,187.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ReaderLib\LocalTimelineRandomizerBase.cpp,50,46.0,186.0
+CNTK,Markdown,D:\clones\CNTK\ThirdPartyNotices.md,101,0.0,185.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\CNTKBinaryReader\BinaryDataDeserializer.h,48,22.0,184.0
+CNTK,C#,D:\clones\CNTK\Examples\TrainingCSharp\Common\CifarResNetClassifier.cs,47,41.0,183.0
+CNTK,XML,D:\clones\CNTK\Source\ComputationNetworkLib\ComputationNetworkLib.vcxproj.filters,0,0.0,183.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\tests\onnx_test_helper.py,40,76.0,183.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Extensibility\BinaryConvolutionLib\BinaryConvolveOp.h,24,27.0,182.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\V2LibraryTests\DeviceSelectionTests.cpp,59,8.0,182.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\losses\tests\losses_test.py,57,19.0,182.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_206B_DCGAN.ipynb,0,507.0,181.0
+CNTK,C#,D:\clones\CNTK\bindings\csharp\CNTKLibraryManagedDll\Helper.cs,18,28.0,181.0
+CNTK,make,D:\clones\CNTK\bindings\python\doc\Makefile,29,6.0,181.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_303_Deep_Structured_Semantic_Modeling_with_LSTM_Networks.ipynb,0,504.0,180.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\tests\value_test.py,53,26.0,180.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Classification\VGG\Python\VGG16_ImageNet_Distributed.py,42,26.0,179.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Classification\VGG\Python\VGG19_ImageNet_Distributed.py,42,26.0,179.0
+CNTK,C++,D:\clones\CNTK\Examples\Text\LightRNN\DLL\DLL\pyreallocate.cpp,23,30.0,179.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\ops_test_utils.py,58,36.0,179.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Classification\AlexNet\Python\AlexNet_ImageNet_Distributed.py,41,35.0,178.0
+CNTK,reStructuredText,D:\clones\CNTK\bindings\python\doc\sequence.rst,43,4.0,177.0
+CNTK,XML,D:\clones\CNTK\Tests\UnitTests\BrainScriptTests\BrainScriptTests.vcxproj,0,0.0,176.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_205_Artistic_Style_Transfer.ipynb,0,306.0,176.0
+CNTK,C#,D:\clones\CNTK\bindings\csharp\CNTKLibraryManagedDll\ShimApiClasses\FunctionShim.cs,32,126.0,176.0
+CNTK,Python,D:\clones\CNTK\Examples\Extensibility\BinaryConvolution\custom_convolution_ops.py,43,93.0,175.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKMLFReader\minibatchsourcehelpers.h,20,31.0,175.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\CNTKLibraryC.cpp,38,9.0,174.0
+CNTK,C++,D:\clones\CNTK\Source\Math\GPUDataTransferer.cpp,36,18.0,174.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\NetworkTests\CropNodeTests.cpp,27,11.0,174.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\netopt\custom_convolution_ops.py,42,92.0,174.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\caffe_layers\anchor_target_layer.py,45,75.0,173.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\EvalDll\EvalReader.h,32,60.0,173.0
+CNTK,C++,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\EndToEndTests\FrameMode.cpp,48,12.0,173.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Classification\GoogLeNet\BN-Inception\Python\BN_Inception_CIFAR10.py,46,28.0,172.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Classification\GoogLeNet\BN-Inception\Python\BN_Inception_ImageNet.py,47,28.0,172.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\selectivesearch\selectivesearch.py,80,90.0,172.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_103D_MNIST_ConvolutionalNeuralNetwork.ipynb,0,907.0,172.0
+CNTK,CMake,D:\clones\CNTK\bindings\csharp\Swig\CMakeLists.txt,23,17.0,172.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\FileWrapper.h,40,10.0,171.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\ValueQuantizer.h,31,26.0,170.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\Kaldi2Reader\HTKMLFReader.h,32,21.0,169.0
+CNTK,XML,D:\clones\CNTK\bindings\python\PythonBindings.vcxproj,0,0.0,169.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\tensor.py,52,44.0,169.0
+CNTK,C/C++ Header,D:\clones\CNTK\Examples\Extensibility\ProposalLayer\ProposalLayerLib\ProposalLayerLib.h,53,22.0,168.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Classification\ConvNet\Python\ConvNet_CIFAR10_DataAug_Distributed.py,41,22.0,168.0
+CNTK,C++,D:\clones\CNTK\Source\Math\NcclComm.cpp,32,5.0,168.0
+CNTK,XML,D:\clones\CNTK\Tests\UnitTests\FileTest\FileTest.vcxproj,0,0.0,168.0
+CNTK,SWIG,D:\clones\CNTK\bindings\java\Swig\cntk_java.i,31,8.0,168.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\tests\persist_test.py,65,12.0,168.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\fastRCNN\test.py,47,127.0,167.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ImageReader\Base64ImageDeserializer.cpp,36,15.0,167.0
+CNTK,C++,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\EndToEndTests\MNISTClassifier.cpp,44,7.0,167.0
+CNTK,XML,D:\clones\CNTK\Tests\UnitTests\MathTests\MathTests.vcxproj,0,0.0,166.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalk\crosstalk_cntk.py,30,54.0,165.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\LMSequenceReader\SequenceWriter.cpp,23,7.0,164.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\CNTK_FastRCNN_Eval.ipynb,0,389.0,163.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\non_diff_test.py,47,23.0,163.0
+CNTK,MSBuild script,D:\clones\CNTK\Examples\Evaluation\CNTKAzureTutorial01\CNTKAzureTutorial01\CNTKAzureTutorial01.csproj,0,7.0,162.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Classification\GoogLeNet\InceptionV3\Python\InceptionV3_ImageNet.py,44,28.0,162.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\A2_RunWithPyModel.py,36,34.0,162.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\Evaluator.cpp,38,7.0,162.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\CrossProcessMutex.h,26,34.0,162.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\simple_checked_arrays.h,11,29.0,162.0
+CNTK,XML,D:\clones\CNTK\Source\ComputationNetworkLib\ComputationNetworkLib.vcxproj,0,0.0,162.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\HTKDeserializers\MLFUtils.cpp,43,21.0,162.0
+CNTK,Python,D:\clones\CNTK\Examples\ReinforcementLearning\deeprl\scripts\run.py,23,19.0,161.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\ProgressWriter.cpp,30,13.0,161.0
+CNTK,XML,D:\clones\CNTK\Source\SGDLib\SGDLib.vcxproj,0,0.0,161.0
+CNTK,MSBuild script,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\EvalDll_AzureTutorial\EvalDll_AzureTutorial\EvalDll_AzureTutorial.csproj,0,7.0,160.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Manual\Manual_How_to_feed_data.ipynb,0,658.0,160.0
+CNTK,Python,D:\clones\CNTK\Examples\Text\WordLMWithSampledSoftmax\word_rnn.py,48,34.0,158.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Classification\ResNet\Python\TrainResNet_CIFAR10_Distributed.py,40,25.0,157.0
+CNTK,XML,D:\clones\CNTK\Examples\Text\LightRNN\DLL\DLL\DLL.vcxproj,0,0.0,157.0
+CNTK,C#,D:\clones\CNTK\Examples\TrainingCSharp\Common\LSTMSequenceClassifier.cs,33,35.0,157.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\LUSequenceReader\LUSequenceParser.h,35,43.0,157.0
+CNTK,Python,D:\clones\CNTK\Examples\Video\GettingStarted\Python\Conv3D_UCF11.py,45,44.0,156.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\DataParallelDistributedLearner.cpp,26,9.0,156.0
+CNTK,C++,D:\clones\CNTK\Source\Math\QuantizedMatrix.cpp,28,3.0,155.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\layers\sequence.py,115,398.0,155.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\stop_gradient_test.py,39,24.0,155.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\userfunction_complex_test.py,65,22.0,155.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKMLFReader\HTKMLFReader.h,36,16.0,154.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\Kaldi2Reader\ssefloat4.h,20,41.0,154.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\SGDLib\Criterion.h,27,47.0,154.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathTests\CPUSparseMatrixTests.cpp,41,5.0,154.0
+CNTK,Python,D:\clones\CNTK\Examples\ReinforcementLearning\FlappingBirdWithKeras\game\wrapped_flappy_bird.py,46,28.0,153.0
+CNTK,C#,D:\clones\CNTK\Examples\TrainingCSharp\Common\TestHelper.cs,28,8.0,153.0
+CNTK,XML,D:\clones\CNTK\Source\EvalDll\EvalDll.vcxproj,0,0.0,153.0
+CNTK,CUDA,D:\clones\CNTK\Source\Math\CuDnnBatchNormalization.cu,24,11.0,153.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\rpn_unit_test.py,47,25.0,153.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Manual\Manual_How_to_write_a_custom_deserializer.ipynb,0,301.0,152.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\DataSets\Pascal\mappings\create_mappings.py,36,12.0,151.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\HTKDeserializers\HTKMLFReader.cpp,26,27.0,151.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\HTKDeserializers\MLFBinaryDeserializer.cpp,40,17.0,151.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\train\tests\distributed_test.py,50,41.0,150.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Manual\Manual_How_to_debug.ipynb,0,1781.0,149.0
+CNTK,C++,D:\clones\CNTK\Source\ActionsLib\NetworkFactory.cpp,17,33.0,149.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\cudabasetypes.h,9,7.0,149.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\HTKMLFReader\HTKMLFReader.vcxproj,0,0.0,149.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\LUSequenceReader\LUSequenceWriter.cpp,21,6.0,149.0
+CNTK,XML,D:\clones\CNTK\Tests\UnitTests\EvalTests\EvalTests.vcxproj,0,0.0,149.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\Eval.h,58,159.0,148.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\DSSMReader\DSSMReader.h,23,15.0,148.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\ImageReader\ImageReader.vcxproj,0,0.0,148.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\Kaldi2Reader\minibatchsourcehelpers.h,19,27.0,148.0
+CNTK,C#,D:\clones\CNTK\bindings\csharp\CNTKLibraryManagedDll\ShimApiClasses\NDShapeShim.cs,25,95.0,148.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\logging\tests\graph_test.py,45,15.0,148.0
+CNTK,XML,D:\clones\CNTK\Source\PerformanceProfilerDll\PerformanceProfilerDll.vcxproj,0,0.0,147.0
+CNTK,XML,D:\clones\CNTK\Tests\UnitTests\V2LibraryTests\V2LibraryTests.vcxproj,0,0.0,147.0
+CNTK,PowerShell,D:\clones\CNTK\Tools\devInstall\Windows\helper\Display.ps1,37,5.0,147.0
+CNTK,Python,D:\clones\CNTK\Examples\Speech\AN4\Python\HTK_LSTM_Truncated_Distributed.py,36,15.0,146.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\RNNHelper.h,34,14.0,146.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\UCIFastReader\UCIFastReader.h,29,16.0,146.0
+CNTK,CMake,D:\clones\CNTK\bindings\csharp\CNTKLibraryManagedDll\CMakeLists.txt,16,3.0,146.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\TransferLearning\TransferLearning.py,40,39.0,145.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_201A_CIFAR-10_DataLoader.ipynb,0,209.0,145.0
+CNTK,MSBuild script,D:\clones\CNTK\bindings\csharp\CNTKLibraryManagedDll\CNTKLibraryManagedDll.csproj,12,18.0,145.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\internal\tests\utils_test.py,28,6.0,145.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\API\Internals\EvaluatorWrapper.h,26,11.0,144.0
+CNTK,C++,D:\clones\CNTK\Source\Math\CuDnnRNN.cpp,21,13.0,144.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\ReaderUtil.h,33,18.0,144.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\prepare_test_data.py,44,24.0,144.0
+CNTK,XML,D:\clones\CNTK\Tests\UnitTests\NetworkTests\NetworkTests.vcxproj,0,0.0,144.0
+CNTK,XML,D:\clones\CNTK\CppCntk.vssettings,0,0.0,143.0
+CNTK,XML,D:\clones\CNTK\Source\ActionsLib\ActionsLib.vcxproj,0,0.0,143.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKDeserializers\HTKChunkDescription.h,33,34.0,143.0
+CNTK,Bourne Shell,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\run_sdm.sh,46,28.0,142.0
+CNTK,Bourne Shell,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\scripts\train_nnet_sequence.sh,33,10.0,142.0
+CNTK,XML,D:\clones\CNTK\bindings\csharp\Swig\CNTKLibraryCSBinding.vcxproj,0,2.0,142.0
+CNTK,DOS Batch,D:\clones\CNTK\bindings\python\build.bat,28,0.0,142.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\LMSequenceReader\LMSequenceReader.vcxproj,0,0.0,141.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\fastRCNN\imdb.py,30,31.0,140.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\Kaldi2Reader\simplethread.h,7,26.0,140.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\LUSequenceReader\LUSequenceReader.vcxproj,0,0.0,140.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\random\tests\random_ops_tests.py,38,11.0,140.0
+CNTK,XML,D:\clones\CNTK\bindings\java\Swig\CNTKLibraryJavaBinding.vcxproj,0,2.0,139.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\learners\tests\bmuf_metrics_aggregation_test.py,34,37.0,139.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Classification\ResNet\Python\TrainResNet_CIFAR10.py,37,26.0,138.0
+CNTK,Markdown,D:\clones\CNTK\Examples\LanguageUnderstanding\ATIS\README.md,26,0.0,138.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_106B_LSTM_Timeseries_with_IOT_Data.ipynb,0,535.0,138.0
+CNTK,Python,D:\clones\CNTK\Examples\Text\CharacterLM\char_rnn.py,47,43.0,137.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Text\LightRNN\README.md,44,0.0,137.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\BlockFunction.h,30,17.0,137.0
+CNTK,Java,D:\clones\CNTK\bindings\java\Swig\CNTKNativeUtils.java,15,44.0,137.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalk\crosstalk_tensorflow.py,27,36.0,137.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Manual\Manual_How_to_train_using_declarative_and_imperative_API.ipynb,0,374.0,136.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\Operators.h,34,51.0,136.0
+CNTK,XML,D:\clones\CNTK\Source\DelayLoadedExtensionsDll\DelayLoadedExtensionsDll.vcxproj,0,0.0,136.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\HTKMLFReader\HTKMLFWriter.cpp,30,10.0,136.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\GAN\Basic_GAN_Distributed.py,34,25.0,135.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Manual\Manual_How_to_use_learners.ipynb,0,696.0,135.0
+CNTK,C++,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCPPUWPEvalExamplesTests\UnitTest.cpp,18,8.0,135.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tools\generate_build_info,17,34.0,135.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\API\Internals\PrimitiveFunctionAttribute.h,6,4.0,134.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\HTKDeserializers\HTKDeserializers.vcxproj,0,0.0,134.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\SparsePCReader\SparsePCReader.vcxproj,0,0.0,134.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\UCIFastReader\UCIFastReader.vcxproj,0,0.0,134.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\language_understanding_test.py,29,116.0,134.0
+CNTK,SWIG,D:\clones\CNTK\bindings\csharp\Swig\cntk_cs.i,26,25.0,134.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\MetricsDriver.py,33,23.0,133.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\train\trainer.py,56,152.0,133.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Manual\Manual_How_to_create_user_minibatch_sources.ipynb,0,350.0,132.0
+CNTK,XML,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\EndToEndTests\V2LibraryEndToEndTests.vcxproj,0,0.0,132.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_206A_Basic_GAN.ipynb,0,571.0,132.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\UserDefinedFunction.cpp,35,12.0,131.0
+CNTK,C++,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\EndToEndTests\SequenceClassification.cpp,42,4.0,131.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathTests\TensorTests.cpp,39,26.0,131.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ComputationNetworkLib\RecurrentNodes.h,21,20.0,130.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\BinaryReader\BinaryReader.vcxproj,0,0.0,130.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\LibSVMBinaryReader\LibSVMBinaryReader.vcxproj,0,0.0,130.0
+CNTK,XML,D:\clones\CNTK\Tests\UnitTests\MathPerformanceTests\MathPerformanceTests.vcxproj,0,0.0,130.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_103C_MNIST_MultiLayerPerceptron.ipynb,0,661.0,130.0
+CNTK,SWIG,D:\clones\CNTK\bindings\common\CNTKValueExtend.i,28,16.0,130.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\tests\op2cntk_test.py,23,100.0,130.0
+CNTK,Mathematica,D:\clones\CNTK\Examples\LanguageUnderstanding\ATIS\BrainScript\slots.wl,0,0.0,129.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\Value.h,26,12.0,129.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\losses\__init__.py,68,259.0,129.0
+CNTK,Bourne Shell,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\run_ihm.sh,52,28.0,128.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\learners\tests\distributed_learner_test.py,26,11.0,128.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\CNTKBinaryReader\BinaryChunkDeserializer.cpp,47,30.0,127.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\HTKDeserializers\MLFIndexBuilder.cpp,34,20.0,127.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\NetworkTests\AccumulatorNodeTests.cpp,37,14.0,127.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\ProgressTracing.h,24,37.0,126.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ReaderLib\PackerBase.cpp,29,13.0,126.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\ReaderLib\ReaderLib.vcxproj,0,0.0,126.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\fastRCNN\voc_eval.py,24,55.0,125.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_103B_MNIST_LogisticRegression.ipynb,0,664.0,125.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\RandomOrdering.h,18,32.0,124.0
+CNTK,C#,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCSEvalExamplesTest\SetupMemoryTests.cs,24,15.0,124.0
+CNTK,C#,D:\clones\CNTK\bindings\csharp\CNTKLibraryManagedDll\ShimApiClasses\VariableShim.cs,26,105.0,124.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\sequence\__init__.py,102,439.0,124.0
+CNTK,DOS Batch,D:\clones\CNTK\bindings\python\vsbuild.bat,21,18.0,124.0
+CNTK,XML,D:\clones\CNTK\Examples\Extensibility\CPP\CPPExtensibilityExamples.vcxproj,0,0.0,123.0
+CNTK,XML,D:\clones\CNTK\Examples\Extensibility\ProposalLayer\ProposalLayerLib\ProposalLayerLib.vcxproj,0,0.0,122.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Classification\GoogLeNet\BN-Inception\Python\BN_Inception_CIFAR10_Distributed.py,33,17.0,122.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\EvaluatorWrapper.cpp,25,10.0,122.0
+CNTK,XML,D:\clones\CNTK\Source\Extensibility\BinaryConvolutionLib\BinaryConvolutionLib.vcxproj,0,0.0,122.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\LUSequenceReader\LUSequenceParser.cpp,21,13.0,122.0
+CNTK,XML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCPPUWPEvalExamplesTests\CNTKLibraryCPPUWPEvalExamplesTests.vcxproj,0,0.0,122.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\internal\utils.py,38,85.0,122.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\CPPEvalClient\CPPEvalClient.vcxproj,0,0.0,121.0
+CNTK,C#,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2CSharp\CNTKLibraryCSTrainingTest\Program.cs,20,10.0,121.0
+CNTK,C++,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\EndToEndTests\CifarResNet.cpp,32,7.0,121.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\NetworkTests\Common\NetworkTestHelper.h,26,17.0,121.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\debugging\tests\debug_test.py,50,25.0,121.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Classification\ConvNet\Python\ConvNet_CIFAR10_DataAug.py,35,52.0,120.0
+CNTK,Python,D:\clones\CNTK\Examples\Text\LightRNN\LightRNN\data_reader.py,22,12.0,120.0
+CNTK,Python,D:\clones\CNTK\Scripts\uci2ctf.py,24,2.0,120.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\PrimitiveFunctionAttribute.cpp,4,6.0,120.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\MPIWrapper.h,31,28.0,120.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\CPPEvalExtendedClient\CPPEvalExtendedClient.vcxproj,0,0.0,119.0
+CNTK,XML,D:\clones\CNTK\Examples\Extensibility\CPPLib\CPPExtensibilityExamplesLibrary.vcxproj,0,0.0,119.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\CNTKTextFormatReader\CNTKTextFormatReader.vcxproj,0,0.0,119.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ImageReader\ZipByteReader.cpp,20,6.0,119.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\DataSets\CIFAR-10\cifar_utils.py,12,2.0,118.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\FastRCNN_eval.py,26,14.0,118.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\CNTKBinaryReader\CNTKBinaryReader.vcxproj,0,0.0,118.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\DSSMReader\DSSMReader.vcxproj,0,0.0,118.0
+CNTK,MSBuild script,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\UWPImageRecognitionTest\ImageRecognitionAppCS\ImageRecognitionAppCS.csproj,1,8.0,118.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_102_FeedForward.ipynb,0,775.0,118.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\recurrent_test.py,33,12.0,118.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Classification\GoogLeNet\BN-Inception\Python\BN_Inception_ImageNet_Distributed.py,35,19.0,117.0
+CNTK,PowerShell,D:\clones\CNTK\Scripts\install\windows\ps\_info.ps1,27,4.0,117.0
+CNTK,C++,D:\clones\CNTK\Source\ComputationNetworkLib\SpecialPurposeNodes.cpp,19,13.0,117.0
+CNTK,CMake,D:\clones\CNTK\Tools\cmake\cpp_common.cmake,25,55.0,117.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\caffe_layers\default_config.py,58,111.0,116.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\patch\onnxruntime\core\platform\windows\stacktrace.cc,28,10.0,116.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\CNTKTextFormatReader\TextConfigHelper.cpp,19,5.0,116.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ImageReader\ImageConfigHelper.cpp,29,8.0,116.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\losses\tests\cosine_distance_test.py,20,10.0,116.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\CNTKLibraryCPPEvalGPUExamples\CNTKLibraryCPPEvalGPUExamples.vcxproj,0,0.0,115.0
+CNTK,HTML,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\EvalDll_AzureTutorial\EvalDll_AzureTutorial\Project_Readme.html,22,0.0,115.0
+CNTK,Python,D:\clones\CNTK\Examples\Text\LightRNN\LightRNN\reallocate.py,22,27.0,115.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\run-test-common,23,21.0,115.0
+CNTK,XML,D:\clones\CNTK\Tests\UnitTests\CommandEval\CommandEval.vcxproj,0,0.0,115.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\misc\optimized_rnnstack_converter.py,27,27.0,115.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\UWPImageRecognition\ImageRecognizerLib\ImageRecognizerLib.vcxproj,0,0.0,114.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\CNTKTextFormatReader\TextParser.h,57,39.0,114.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\ReaderTests\CNTKBinaryReaderTests.cpp,14,8.0,114.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\CNTKLibraryCPPEvalCPUOnlyExamples\CNTKLibraryCPPEvalCPUOnlyExamples.vcxproj,0,0.0,113.0
+CNTK,XML,D:\clones\CNTK\Source\Common\Common.vcxproj,0,0.0,113.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\V2LibraryTests\TensorTests.cpp,33,9.0,112.0
+CNTK,C#,D:\clones\CNTK\Examples\TrainingCSharp\Common\MNISTClassifier.cs,24,43.0,111.0
+CNTK,XML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCPPEvalExamplesTest\CNTKLibraryCPPEvalExamplesTest.vcxproj,0,0.0,111.0
+CNTK,XML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CPPEvalClientTest\CPPEvalClientTest.vcxproj,0,2.0,111.0
+CNTK,XML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CPPEvalExtendedClientTest\CPPEvalExtendedClientTest.vcxproj,0,2.0,111.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\debugging\tests\userlearner_test.py,39,14.0,111.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\block_test.py,46,15.0,111.0
+CNTK,Python,D:\clones\CNTK\Examples\SequenceToSequence\CMUDict\Python\Sequence2Sequence_Distributed.py,33,8.0,110.0
+CNTK,Bourne Shell,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\scripts\train_nnet.sh,25,8.0,110.0
+CNTK,MATLAB,D:\clones\CNTK\Examples\Speech\Miscellaneous\TIMIT\AdditionalFiles\ComputeConfusion.m,21,53.0,110.0
+CNTK,PowerShell,D:\clones\CNTK\Scripts\install\windows\ps\install.ps1,43,48.0,110.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_101_LogisticRegression.ipynb,0,725.0,110.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\GPUDataTransferer.h,36,6.0,109.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\UCIFastReader\UCIParser.h,43,64.0,109.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\ONNX.cpp,20,15.0,108.0
+CNTK,C++,D:\clones\CNTK\Source\Math\CuDnnCommon.cpp,14,9.0,108.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\HTKDeserializers\HTKDeserializers.vcxproj.filters,0,0.0,108.0
+CNTK,C#,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCSEvalExamplesTest\MemoryTests.cs,12,8.0,108.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_106A_LSTM_Timeseries_with_Simulated_Data.ipynb,0,473.0,108.0
+CNTK,C#,D:\clones\CNTK\bindings\csharp\CNTKLibraryManagedDll\ShimApiClasses\NDArrayViewShim.cs,16,88.0,108.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Classification\ConvNet\Python\ConvNetLRN_CIFAR10_DataAug.py,27,32.0,107.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\CompositeDataReader\CompositeDataReader.vcxproj,0,0.0,107.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\ReaderShim.h,43,24.0,107.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\V2LibraryTests\BlockTests.cpp,24,4.0,107.0
+CNTK,DOS Batch,D:\clones\CNTK\bindings\python\test.bat,21,0.0,107.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Classification\GoogLeNet\InceptionV3\Python\InceptionV3_ImageNet_Distributed.py,33,19.0,106.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\API\Internals\PrimitiveOpType.h,2,8.0,106.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\DistributedCommunicator.h,37,10.0,106.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalk\__init__.py,57,143.0,106.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\metrics\tests\metrics_test.py,35,12.0,106.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\PARAMETERS.py,24,26.0,105.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\tests\variables_test.py,25,8.0,105.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\UWPImageRecognition\App\ImageRecognizerDriver.cs,17,5.0,104.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\rpn\rpn_helpers.py,32,50.0,104.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTK\BrainScript\BrainScriptParser.h,19,24.0,104.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\TensorView.h,26,49.0,104.0
+CNTK,XML,D:\clones\CNTK\Tests\UnitTests\V2LibraryTests\V2LibraryTests.vcxproj.filters,0,0.0,104.0
+CNTK,C/C++ Header,D:\clones\CNTK\Examples\Extensibility\CPP\UserMatrixMultiplicationOp.h,30,8.0,103.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ActionsLib\NDLUtil.h,22,43.0,103.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\API\CNTKLibraryC.h,37,126.0,103.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKMLFReader\biggrowablevectors.h,15,31.0,103.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\Kaldi2Reader\biggrowablevectors.h,15,31.0,103.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ReaderLib\ChunkRandomizer.cpp,18,19.0,103.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\SGDLib\AccumulatorAggregation.h,14,20.0,103.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\unimodel\cntkmodel.py,28,44.0,103.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\CSEvalClient\ModelEvaluator.cs,28,85.0,102.0
+CNTK,MSBuild script,D:\clones\CNTK\Examples\Evaluation\UWPImageRecognition\App\ImageRecognitionApp.csproj,0,1.0,102.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\A1_GenerateInputROIs.py,23,27.0,102.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\annotations\annotations_helper.py,27,9.0,102.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\map_helpers.py,24,45.0,102.0
+CNTK,Python,D:\clones\CNTK\Examples\LanguageUnderstanding\ATIS\Python\LanguageUnderstanding.py,38,74.0,102.0
+CNTK,Bourne Shell,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\run_dnn.sh,22,49.0,102.0
+CNTK,Bourne Shell,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\run_mdm.sh,37,17.0,102.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\latticestorage.h,6,14.0,102.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ReaderLib\LTTumblingWindowRandomizer.cpp,24,13.0,102.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\TransformController.h,18,16.0,102.0
+CNTK,C#,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2CSharp\CNTKLibraryCSTrainingTest\SimpleFeedForwardClassifierTest.cs,21,19.0,102.0
+CNTK,C#,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCSEvalExamplesTest\Program.cs,28,13.0,102.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\netopt\test\quantization_test.py,36,11.0,102.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Classification\GoogLeNet\InceptionV3\Python\InceptionV3.py,48,84.0,101.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\rpn\proposal_layer.py,34,67.0,101.0
+CNTK,C++,D:\clones\CNTK\Source\Common\Eval.cpp,19,31.0,101.0
+CNTK,C++,D:\clones\CNTK\Source\ComputationNetworkLib\LinearAlgebraNodes.cpp,19,14.0,101.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\tests\tabular_qlearning_test.py,20,16.0,101.0
+CNTK,MSBuild script,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\CSEvalClient\CSEvalClient.csproj,0,0.0,100.0
+CNTK,Bourne Shell,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\run_sdm_cntk.sh,13,28.0,100.0
+CNTK,XML,D:\clones\CNTK\Source\Extensibility\EvalWrapper\EvalWrapper.vcxproj,0,0.0,100.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\caffe_layers\proposal_target_layer.py,38,74.0,99.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\GettingStarted\07_Deconvolution_Visualizer.py,25,15.0,99.0
+CNTK,Python,D:\clones\CNTK\Scripts\txt2ctf.py,21,31.0,99.0
+CNTK,C++,D:\clones\CNTK\Source\Math\CPUMatrixHalf.cpp,23,11.0,99.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\fast_divmod.h,18,22.0,99.0
+CNTK,C++,D:\clones\CNTK\Source\SGDLib\PostComputingActions.cpp,36,25.0,99.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\IndexBuilder.h,44,30.0,98.0
+CNTK,C++,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\EndToEndTests\Main.cpp,20,7.0,98.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\CommandEval\CNTKCommandEval.cpp,12,7.0,98.0
+CNTK,MSBuild script,D:\clones\CNTK\Tests\UnitTests\ManagedEvalTests\ManagedEvalTests.csproj,0,0.0,98.0
+CNTK,DOS Batch,D:\clones\CNTK\Tools\devInstall\Windows\buildZLibVS17.bat,20,1.0,98.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\netopt\test\factorization_test.py,42,16.0,98.0
+CNTK,Markdown,D:\clones\CNTK\PretrainedModels\Image.md,25,0.0,97.0
+CNTK,PowerShell,D:\clones\CNTK\Tools\make_binary_drop_windows.ps1,26,37.0,97.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalk\tests\rnn_test.py,21,1.0,97.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\agent\agent.py,42,92.0,97.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Detection\FasterRCNN\README.md,41,0.0,96.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\od_utils.py,21,50.0,96.0
+CNTK,MSBuild script,D:\clones\CNTK\Examples\TrainingCSharp\CSTrainingGPUExamples\CSTrainingGPUExamples.csproj,0,7.0,96.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\HTKDeserializers\LatticeIndexBuilder.cpp,22,9.0,96.0
+CNTK,C++,D:\clones\CNTK\Source\SequenceTrainingLib\latticeNoGPU.cpp,12,0.0,96.0
+CNTK,MSBuild script,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2CSharp\CNTKLibraryCSTrainingTest\CNTKLibraryCSTrainingTest.standard.csproj,0,1.0,96.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\htk_deserializer_test.py,40,4.0,95.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\NDMask.cpp,22,10.0,94.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\Serialization.h,12,6.0,94.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\EvalDll\EvalWriter.h,19,22.0,94.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\HTKDeserializers\MLFBinaryIndexBuilder.cpp,27,17.0,94.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Classification\MLP\Python\SimpleMNIST.py,32,19.0,93.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FasterRCNN\FasterRCNN_eval.py,23,12.0,93.0
+CNTK,MSBuild script,D:\clones\CNTK\Examples\TrainingCSharp\CSTrainingCPUOnlyExamples\CSTrainingCPUOnlyExamples.csproj,0,7.0,93.0
+CNTK,C#,D:\clones\CNTK\Examples\TrainingCSharp\Common\LogisticRegression.cs,18,16.0,93.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\CNTKAzureTutorial01\CNTKAzureTutorial01\Controllers\ValuesController.cs,22,18.0,92.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\cudalattice.h,11,28.0,92.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCSEvalExamplesTest\train_models_for_evaluation.py,25,9.0,92.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\ComputeInputStatistics.cpp,23,7.0,91.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ImageReader\ImageDeserializerBase.cpp,17,9.0,91.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\EvalTests\EvalTestHelper.h,18,12.0,91.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathTests\MatrixLearnerTests.cpp,21,13.0,91.0
+CNTK,PowerShell,D:\clones\CNTK\Tools\test-samples-json.ps1,22,6.0,91.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_103A_MNIST_DataLoader.ipynb,0,228.0,91.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\agent\shared\replay_memory.py,24,48.0,91.0
+CNTK,XML,D:\clones\CNTK\Source\ActionsLib\ActionsLib.vcxproj.filters,0,0.0,90.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\CNTKBinaryReader\BinaryChunkDeserializer.h,37,13.0,90.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\LocalTimelineRandomizerBase.h,36,40.0,90.0
+CNTK,DOS Batch,D:\clones\CNTK\Tools\devInstall\Windows\buildMklDnnVS17.bat,18,1.0,90.0
+CNTK,Bourne Shell,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\scripts\train_dnn_cntk.sh,27,15.0,89.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\debugging\__init__.py,9,13.0,89.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\evaluation_test.py,33,7.0,89.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\random_sample_test.py,26,16.0,89.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\EvalDll_AzureTutorial\EvalDll_AzureTutorial\Controllers\ValuesController.cs,20,13.0,88.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Classification\ResNet\Python\resnet_models.py,27,22.0,88.0
+CNTK,Bourne Shell,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\train_dnn_cntk.sh,28,15.0,88.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\API\CNTKLibraryExperimental.h,32,100.0,88.0
+CNTK,DOS Batch,D:\clones\CNTK\Source\CNTKv2LibraryDll\prebuild.bat,18,21.0,88.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\NcclComm.h,14,6.0,88.0
+CNTK,PowerShell,D:\clones\CNTK\Tools\devInstall\Windows\DevInstall.ps1,43,52.0,88.0
+CNTK,reStructuredText,D:\clones\CNTK\bindings\python\doc\concepts.rst,34,0.0,88.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Classification\ConvNet\Python\ConvNet_CIFAR10.py,27,19.0,87.0
+CNTK,Python,D:\clones\CNTK\Examples\Text\LightRNN\LightRNN\converter.py,18,13.0,86.0
+CNTK,MSBuild script,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCSEvalExamplesTest\CNTKLibraryCSEvalExamplesTest.standard.csproj,0,8.0,86.0
+CNTK,DOS Batch,D:\clones\CNTK\Tools\devInstall\Windows\buildProtoVS17.bat,19,1.0,86.0
+CNTK,Protocol Buffers,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\CNTK.proto,19,5.0,85.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\RNNCommon.h,11,6.0,85.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ReaderLib\BufferedFileReader.cpp,22,10.0,85.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\Index.h,40,32.0,85.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\agent\shared\models.py,23,48.0,85.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\internal\tests\types_test.py,31,6.0,85.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\README.md,47,0.0,84.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\EvalDll\CNTKEval.h,32,19.0,84.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalk\tests\conv2d_in_sequences_test.py,18,2.0,84.0
+CNTK,Python,D:\clones\CNTK\Examples\Video\DataSets\UCF11\split_ucf11.py,18,24.0,83.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\ConvolutionEngine.h,34,8.0,83.0
+CNTK,C++,D:\clones\CNTK\Source\Math\MatrixQuantizerCPU.cpp,16,13.0,83.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\SparsePCReader\SparsePCReader.h,8,7.0,83.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\FasterRCNN_test.py,18,7.0,83.0
+CNTK,XML,D:\clones\CNTK\Tests\UnitTests\NetworkTests\NetworkTests.vcxproj.filters,0,0.0,83.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\netopt\quantization.py,40,55.0,83.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\tests\onnx_verify_helper.py,18,7.0,83.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\GettingStarted\07_Deconvolution_PY.py,30,22.0,82.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ComputationNetworkLib\RNNNodes.h,18,10.0,82.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\QuantizedMatrix.h,28,16.0,82.0
+CNTK,Java,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\JavaEvalTest\src\Main.java,22,13.0,82.0
+CNTK,Python,D:\clones\CNTK\Examples\1stSteps\MNIST_Complex_Training.py,24,67.0,81.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\Kaldi2Reader\UtteranceDerivativeBuffer.h,18,10.0,81.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ReaderLib\Index.cpp,27,9.0,81.0
+CNTK,C++,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\EndToEndTests\TruncatedLSTMAcousticModel.cpp,26,5.0,81.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathTests\MatrixDataSynchronizationTests.cpp,18,10.0,81.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalk\tests\conv2d_test.py,16,2.0,81.0
+CNTK,reStructuredText,D:\clones\CNTK\bindings\python\doc\gettingstarted.rst,29,3.0,81.0
+CNTK,C++,D:\clones\CNTK\Examples\Evaluation\UWPImageRecognition\ImageRecognizerLib\CNTKImageRecognizer.cpp,25,20.0,80.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\TransferLearning\TransferLearning_Extended.py,20,10.0,80.0
+CNTK,Python,D:\clones\CNTK\Examples\ReinforcementLearning\deeprl\env\puddleworld.py,16,6.0,80.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\DataWriter.h,15,75.0,80.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ImageReader\ImageUtil.h,11,11.0,80.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Tutorials\CNTK_208_Speech_Connectionist_Temporal_Classification.ipynb,0,210.0,80.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\tests\attributes_test.py,7,4.0,80.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\train\distributed.py,29,95.0,80.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\ImageExtension\CNTKImageProcessing.cs,14,25.0,79.0
+CNTK,C++,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\CPPEvalClient\CPPEvalClient.cpp,18,34.0,79.0
+CNTK,Python,D:\clones\CNTK\Examples\Extensibility\BinaryConvolution\binary_convnet.py,31,36.0,79.0
+CNTK,Bourne Shell,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\scripts\align.sh,21,10.0,79.0
+CNTK,Python,D:\clones\CNTK\Examples\Text\WordLMWithSampledSoftmax\download_data.py,26,21.0,79.0
+CNTK,MSBuild script,D:\clones\CNTK\Examples\Evaluation\CNTKLibraryCSEvalGPUExamples\CNTKLibraryCSEvalGPUExamples.csproj,0,7.0,78.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Classification\ConvNet\Python\ConvNet_MNIST.py,29,19.0,78.0
+CNTK,PowerShell,D:\clones\CNTK\Scripts\install\windows\ps\Modules\Download\Download.psm1,9,7.0,78.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\agent\tabular_qlearning.py,25,18.0,78.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\od_mb_source.py,19,4.0,77.0
+CNTK,C++,D:\clones\CNTK\Source\ComputationNetworkLib\ComputationNetworkAnalysis.cpp,18,32.0,77.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\SGDLib\DistGradHeader.h,14,6.0,77.0
+CNTK,XML,D:\clones\CNTK\Source\SequenceTrainingLib\SequenceTrainingLib.vcxproj,0,0.0,77.0
+CNTK,DOS Batch,D:\clones\CNTK\bindings\java\Swig\post-build.cmd,14,3.0,77.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\README.md,38,0.0,76.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\BlockRandomizer.h,38,59.0,76.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\annotations\C1_DrawBboxesOnImages.py,24,24.0,75.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\cntk_py_init.py,11,17.0,75.0
+CNTK,Python,D:\clones\CNTK\Examples\ReinforcementLearning\deeprl\env\maze2d.py,16,5.0,74.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\API\HalfConverter.hpp,14,6.0,74.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\assign_test.py,30,11.0,74.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Extensibility\BinaryConvolutionLib\halide_binary_convolve.h,13,10.0,73.0
+CNTK,MATLAB,D:\clones\CNTK\Tests\EndToEndTests\Simple2d\AdditionalFiles\MakeData.m,13,24.0,73.0
+CNTK,MSBuild script,D:\clones\CNTK\Examples\Evaluation\CNTKLibraryCSEvalCPUOnlyExamples\CNTKLibraryCSEvalCPUOnlyExamples.csproj,0,7.0,72.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Classification\GoogLeNet\BN-Inception\Python\BN_Inception.py,33,49.0,72.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Extensibility\EvalWrapper\CNTKException.h,27,6.0,72.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\BufferedFileReader.h,30,29.0,72.0
+CNTK,XML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\UWPImageRecognitionTest\ImageRecognizerLib\ImageRecognizerLib.vcxproj,0,0.0,72.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\patch\onnxruntime\core\platform\windows\env_time.cc,22,27.0,71.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\PerformanceProfilerDll\PerformanceProfiler.h,36,78.0,71.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\lattice_deserializer_test.py,19,4.0,71.0
+CNTK,MSBuild script,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CSEvalClientTest\CSEvalClientTest.csproj,1,0.0,71.0
+CNTK,Bourne Shell,D:\clones\CNTK\Tests\Install\linux\test.sh,17,3.0,71.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\netopt\factorization.py,28,58.0,71.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\fp16_test.py,12,0.0,71.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\rpn\bbox_transform.py,20,31.0,70.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\CorpusDescriptor.h,19,15.0,70.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\PackerBase.h,29,37.0,70.0
+CNTK,C#,D:\clones\CNTK\bindings\csharp\CNTKLibraryManagedDll\ShimApiClasses\DeviceDescriptorShim.cs,12,48.0,70.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\GettingStarted\README.md,57,0.0,69.0
+CNTK,Bourne Shell,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\scripts\decode_cntk2.sh,20,11.0,69.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\Quantizers.h,16,22.0,69.0
+CNTK,Maven,D:\clones\CNTK\bindings\java\Swig\pom.xml,8,0.0,69.0
+CNTK,XML,D:\clones\CNTK\bindings\python\examples\CNTKv2.pyproj,0,0.0,69.0
+CNTK,C/C++ Header,D:\clones\CNTK\Examples\Extensibility\ProposalLayer\ProposalLayerLib\RpnUtils.h,17,18.0,68.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\caffe_layers\proposal_layer.py,31,83.0,68.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\CNTKBinaryReader\BinaryDataChunk.h,18,20.0,68.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\Kaldi2Reader\pplhelpers.h,12,23.0,68.0
+CNTK,C++,D:\clones\CNTK\Source\SGDLib\SimpleDistGradAggregatorHelper.cpp,9,5.0,68.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\ConvNet_CIFAR10_DataAug_Distributed_test.py,13,9.0,68.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\BrainScriptTests\ParserTests.cpp,25,12.0,68.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\agent\shared\qlearning_parameters.py,35,52.0,68.0
+CNTK,PowerShell,D:\clones\CNTK\Scripts\install\windows\ps\Modules\Disk\Disk.psm1,12,7.0,67.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\1BitSGD\QuantizedDataParallelDistributedLearner.h,19,13.0,67.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\MatrixQuantizerGPU.h,22,16.0,67.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\layers\models\attention.py,11,37.0,67.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\layers\tests\higher_order_layers_test.py,39,4.0,67.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\tests\function_test.py,24,13.0,67.0
+CNTK,Bourne Shell,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\scripts\decode_cntk.sh,19,10.0,66.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\pplhelpers.h,13,24.0,66.0
+CNTK,C++,D:\clones\CNTK\Source\Math\MatrixQuantizerImpl.cpp,10,1.0,66.0
+CNTK,C++,D:\clones\CNTK\Source\Math\cudalib.cpp,15,9.0,66.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ImageReader\ImageReader.cpp,15,16.0,66.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\StringToIdMap.h,14,15.0,66.0
+CNTK,Python,D:\clones\CNTK\Tutorials\ImageHandsOn\CifarConverter.py,7,1.0,66.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\agent\shared\preprocessing.py,31,28.0,66.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\tests\preprocessing_test.py,10,5.0,66.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\sample_installer.py,17,18.0,66.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\UserFunctionFactory.h,13,4.0,65.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\latticesource.h,10,4.0,65.0
+CNTK,C++,D:\clones\CNTK\Source\Math\CUDAPageLockedMemAllocator.cpp,15,2.0,65.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\SequenceData.h,19,14.0,65.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\transfer_learning_extended_test.py,19,7.0,65.0
+CNTK,Python,D:\clones\CNTK\bindings\python\doc\conf.py,22,16.0,65.0
+CNTK,Python,D:\clones\CNTK\Examples\Text\WordLMWithSampledSoftmax\data_reader.py,19,13.0,64.0
+CNTK,Python,D:\clones\CNTK\PretrainedModels\download_model.py,8,5.0,64.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathTests\GPUMatrixCudaBlasTests.cpp,16,8.0,64.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\HTKDeserializers\Exports.cpp,13,12.0,63.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\Reader.h,26,38.0,63.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\SparsePCReader\SparsePCReader.vcxproj.filters,0,0.0,63.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\word_rnn_test.py,20,7.0,63.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Manual\conftest.py,15,6.0,63.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\conftest.py,15,6.0,63.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\NetworkTests\BatchNormalizationTests.cpp,17,4.0,63.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalk\tests\basic_test.py,15,1.0,63.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FasterRCNN\FasterRCNN_config.py,27,59.0,62.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathTests\MatrixFileWriteReadTests.cpp,28,6.0,62.0
+CNTK,C#,D:\clones\CNTK\Tests\UnitTests\V2LibraryCSTests\FunctionTests.cs,6,3.0,62.0
+CNTK,diff,D:\clones\CNTK\Tools\docker\Patches\Swig\wchar.i.patch,6,22.0,62.0
+CNTK,C++,D:\clones\CNTK\Examples\Extensibility\CPP\Main.cpp,24,5.0,61.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\LMSequenceReader\SequenceWriter.h,13,4.0,61.0
+CNTK,XML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCPPUWPEvalExamplesTests\CNTKLibraryCPPUWPEvalExamplesTests.vcxproj.filters,0,0.0,61.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\MathTests\common.h,9,5.0,61.0
+CNTK,MATLAB,D:\clones\CNTK\Examples\Speech\Miscellaneous\TIMIT\AdditionalFiles\ShowConfusions.m,6,11.0,60.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\ConfigUtil.h,13,10.0,60.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ReaderLib\ReaderBase.cpp,14,9.0,60.0
+CNTK,XML,D:\clones\CNTK\bindings\java\Swig\CNTKLibraryJavaBinding.vcxproj.filters,0,0.0,60.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\tests\agent_test.py,22,6.0,60.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\DataSets\MNIST\mnist_utils.py,4,6.0,59.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\BestGpu.h,20,10.0,59.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\CNTKBinaryReader\BinaryConfigHelper.cpp,13,12.0,59.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\CNTKTextFormatReader\CNTKTextFormatReader.cpp,9,8.0,59.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ImageReader\ImageConfigHelper.h,19,10.0,59.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\Kaldi2Reader\htkfeatio_utils.h,13,0.0,59.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\ChunkRandomizer.h,22,26.0,59.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ReaderLib\LTNoRandomizer.cpp,15,8.0,59.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\Common\Image.h,18,8.0,59.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\V2LibraryTests\LoadLegacyModelTests.cpp,20,4.0,59.0
+CNTK,C#,D:\clones\CNTK\bindings\csharp\CNTKLibraryManagedDll\ShimApiClasses\AxisShim.cs,11,42.0,59.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\DataSets\Pascal\install_pascalvoc.py,5,0.0,58.0
+CNTK,Bourne Shell,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\train_cntk2.sh,28,8.0,58.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\DistributedLearnerBase.cpp,11,8.0,58.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\Variable.h,11,6.0,58.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\cudalib.h,6,6.0,58.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\CNTKBinaryReader\CNTKBinaryReader.cpp,9,8.0,58.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\FastRCNNBS_test.py,21,5.0,58.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\FastRCNN_test.py,12,7.0,58.0
+CNTK,XML,D:\clones\CNTK\bindings\csharp\Swig\CNTKLibraryCSBinding.vcxproj.filters,0,0.0,58.0
+CNTK,Python,D:\clones\CNTK\bindings\python\doc\simplernn.py,16,7.0,58.0
+CNTK,Perl,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\scripts\convert_to_kaldi_list.pl,5,19.0,57.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\1BitSGD\MatrixQuantizer.h,18,12.0,57.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\SequenceRandomizer.h,32,74.0,57.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\ConvNet_CIFAR10_test.py,21,7.0,57.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\NetworkTests\TestHelpers.cpp,11,6.0,57.0
+CNTK,C#,D:\clones\CNTK\bindings\csharp\CNTKLibraryManagedDll\ShimApiClasses\MinibatchSourceShim.cs,9,54.0,57.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalk\tests\embed_test.py,15,1.0,57.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\QuantizedOperations.h,14,19.0,56.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKDeserializers\MLFUtils.h,20,15.0,56.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ImageReader\Exports.cpp,13,15.0,56.0
+CNTK,MSBuild script,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2CSharp\CNTKLibraryCSTrainingTest\CNTKLibraryCSTrainingTest.csproj,20,0.0,56.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\DetectionDemo_test.py,13,6.0,56.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathTests\QuantizersTests.cpp,20,4.0,56.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\combine_test.py,23,8.0,56.0
+CNTK,XML,D:\clones\CNTK\Source\EvalDll\EvalDll.vcxproj.filters,0,0.0,55.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\LUSequenceReader\LUSequenceWriter.h,12,4.0,55.0
+CNTK,PowerShell,D:\clones\CNTK\Tools\devInstall\Windows\helper\PreRequisites.ps1,9,5.0,55.0
+CNTK,Python,D:\clones\CNTK\bindings\python\onnx_cntk\backend.py,14,7.0,55.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\annotations\C2_AssignLabelsToBboxes.py,15,21.0,54.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\MatrixQuantizerImpl.h,16,3.0,54.0
+CNTK,XML,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\EndToEndTests\V2LibraryEndToEndTests.vcxproj.filters,0,0.0,54.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\layers_test.py,16,32.0,54.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\transfer_learning_test.py,13,5.0,54.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\BrainScriptTests\ComputationNetworkTests.cpp,19,4.0,54.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\axis.py,33,94.0,54.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\default_options.py,18,50.0,54.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\nms_wrapper.py,16,32.0,53.0
+CNTK,Markdown,D:\clones\CNTK\Examples\ReinforcementLearning\FlappingBirdWithKeras\README.md,19,0.0,53.0
+CNTK,C++,D:\clones\CNTK\Source\Common\DataWriter.cpp,16,25.0,53.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\Kaldi2Reader\DataWriter.cpp,14,25.0,53.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\multiple_distributed_learners_test.py,14,4.0,53.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\internal\__init__.py,14,7.0,53.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\internal\swig_helper.py,6,13.0,53.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\HTKMLFReader\HTKMLFReader.vcxproj.filters,0,0.0,52.0
+CNTK,MSBuild script,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCSEvalExamplesTest\CNTKLibraryCSEvalExamplesTest.csproj,20,0.0,52.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCSEvalExamplesTest\run-test,10,11.0,52.0
+CNTK,reStructuredText,D:\clones\CNTK\bindings\python\doc\tutorials.rst,25,8.0,52.0
+CNTK,Markdown,D:\clones\CNTK\Documentation\Documents\External Buffer Behavior.md,18,0.0,51.0
+CNTK,C++,D:\clones\CNTK\Source\Common\TimerUtility.cpp,12,1.0,51.0
+CNTK,CUDA,D:\clones\CNTK\Source\Math\GPUWatcher.cu,8,5.0,51.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\cudalatticeops.h,14,5.0,51.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\Kaldi2Reader\HTKMLFWriter.h,4,6.0,51.0
+CNTK,C++,D:\clones\CNTK\Source\SGDLib\Profiler.cpp,6,5.0,51.0
+CNTK,C++,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCPPEvalExamplesTest\CNTKLibraryCPPEvalExamplesTest.cpp,9,6.0,51.0
+CNTK,C++,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCPPUWPEvalExamplesTests\UnitTestApp.xaml.cpp,19,40.0,51.0
+CNTK,SWIG,D:\clones\CNTK\bindings\java\Swig\std_unordered_map.i,8,5.0,51.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\eval\tests\evaluator_distributed_test.py,10,4.0,51.0
+CNTK,Python,D:\clones\CNTK\Examples\Extensibility\ProposalLayer\native_proposal_layer.py,28,10.0,50.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\DetectionDemo.py,15,16.0,50.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\FastRCNN_config.py,17,51.0,50.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\1st_tests.py,8,15.0,50.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\SaveBestModelPerCriterion\testcases.yml,6,0.0,50.0
+CNTK,XML,D:\clones\CNTK\Tests\UnitTests\EvalTests\EvalTests.vcxproj.filters,0,0.0,50.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\validation\validcore.py,15,23.0,50.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\tests\replay_memory_test.py,16,5.0,50.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\internal\tests\swig_helper_tests.py,17,4.0,50.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Detection\README.md,27,0.0,49.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\MinibatchSource.h,12,11.0,49.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\dllmain.cpp,4,11.0,49.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\TimerUtility.h,11,0.0,49.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\lightrnn_test.py,7,5.0,49.0
+CNTK,HTML,D:\clones\CNTK\Tests\EndToEndTests\Speech\Data\AN4.LICENSE.html,4,0.0,49.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\DataSets\Flowers\install_flowers.py,12,9.0,48.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Speech\AN4\README.md,26,0.0,48.0
+CNTK,C++,D:\clones\CNTK\Source\ActionsLib\SpecialPurposeActions.cpp,14,13.0,48.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ComputationNetworkLib\ComputationEnvironment.h,16,20.0,48.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\BatchNormalizationEngine.h,19,8.0,48.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\CompositeDataReader\CompositeDataReader.h,25,28.0,48.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\NoRandomizer.h,28,29.0,48.0
+CNTK,C++,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\Common\Common.cpp,12,4.0,48.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\UnitTests\CNTKv2Library\run-test,16,11.0,48.0
+CNTK,Visual Studio Solution,D:\clones\CNTK\Tests\UnitTests\FileTest\FileTest.sln,1,1.0,48.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Downloads\run-test,9,1.0,47.0
+CNTK,C#,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\UWPImageRecognitionTest\ImageRecognitionAppCS\App.xaml.cs,10,38.0,47.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\tests\discretize_test.py,13,5.0,47.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\random\__init__.py,47,164.0,47.0
+CNTK,C/C++ Header,D:\clones\CNTK\Examples\Extensibility\ProposalLayer\ProposalLayerLib\Rectangle2D.h,15,11.0,46.0
+CNTK,Python,D:\clones\CNTK\Examples\SequenceClassification\SimpleExample\Python\SequenceClassification.py,22,14.0,46.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\ConcStack.h,12,8.0,46.0
+CNTK,C++,D:\clones\CNTK\Source\ComputationNetworkLib\ComputationNodeScripting.cpp,9,16.0,46.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ImageReader\ByteReader.h,14,4.0,46.0
+CNTK,Python,D:\clones\CNTK\Tutorials\NumpyInterop\FeedForwardNet.py,18,18.0,46.0
+CNTK,C#,D:\clones\CNTK\bindings\csharp\CNTKLibraryManagedDll\Utils.cs,9,50.0,46.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\validation\validcaffe.py,9,23.0,46.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\misc\converter.py,6,23.0,46.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\annotations\LabelMeConverter.py,18,4.0,45.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\caffe_layers\bbox_transform.py,14,17.0,45.0
+CNTK,Markdown,D:\clones\CNTK\Examples\SequenceToSequence\PennTreebank\README.md,26,0.0,45.0
+CNTK,Perl,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\scripts\convert_kaldi_label.pl,8,20.0,45.0
+CNTK,Python,D:\clones\CNTK\Examples\Text\LightRNN\LightRNN\lightrnn.py,20,8.0,45.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ActionsLib\Actions.h,13,12.0,45.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\HTKMLFReader\DataWriterLocal.cpp,13,25.0,45.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\AlexNet_ImageNet_Distributed_test.py,9,5.0,45.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\binary_convnet_test.py,16,7.0,45.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Keras\run-test,10,20.0,45.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\layers\typing.py,41,174.0,45.0
+CNTK,Python,D:\clones\CNTK\Examples\1stSteps\LogisticRegression_GraphAPI.py,13,29.0,44.0
+CNTK,Python,D:\clones\CNTK\Examples\ReinforcementLearning\FlappingBirdWithKeras\game\flappy_bird_utils.py,14,31.0,44.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Text\CharacterLM\README.md,21,0.0,44.0
+CNTK,YAML,D:\clones\CNTK\Scripts\install\windows\conda-windows-cntk-py35-environment.yml,0,1.0,44.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\CuDnnCommon.h,14,4.0,44.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\DSSMReader\DSSMReader.vcxproj.filters,0,0.0,44.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKMLFReader\HTKMLFWriter.h,5,6.0,44.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\ImageReader\ImageReader.vcxproj.filters,0,0.0,44.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\LUSequenceReader\DataWriterLocal.cpp,12,25.0,44.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\LUSequenceReader\Exports.cpp,8,8.0,44.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\LUSequenceReader\LUSequenceReader.vcxproj.filters,0,0.0,44.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\TransformBase.h,13,12.0,44.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\adapter\bvlccaffe\caffeimpl.py,14,18.0,44.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\initializer.py,42,118.0,44.0
+CNTK,Python,D:\clones\CNTK\bindings\python\doc\simplenet.py,12,9.0,44.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\rpn\generate_anchors.py,13,21.0,43.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\FeatureExtraction\FeatureExtraction.py,13,17.0,43.0
+CNTK,Bourne Shell,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\scripts\extract_feats_fbank.sh,24,12.0,43.0
+CNTK,Perl,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\scripts\rand_select_data.pl,15,18.0,43.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\ParallelCrossValidation\testcases.yml,5,0.0,43.0
+CNTK,PowerShell,D:\clones\CNTK\Tools\devInstall\Windows\helper\Common.ps1,4,5.0,43.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\conftest.py,14,12.0,43.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\utils\globalconf.py,19,31.0,43.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\UWPImageRecognition\App\Package.appxmanifest,0,0.0,42.0
+CNTK,PowerShell,D:\clones\CNTK\Scripts\install\windows\ps\_operations.ps1,1,4.0,42.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\Kaldi2Reader\KaldiSequenceTrainingDerivative.h,9,5.0,42.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\HTK_LSTM_Truncated_Distributed_test.py,14,6.0,42.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\distributed_common.py,10,4.0,42.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Sphinx\run-test,18,17.0,42.0
+CNTK,XML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\UWPImageRecognitionTest\ImageRecognitionAppCS\Package.appxmanifest,0,0.0,42.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\BrainScriptTests\BrainScriptTestsHelper.h,11,2.0,42.0
+CNTK,Python,D:\clones\CNTK\bindings\python\doc\conftest.py,15,11.0,42.0
+CNTK,C#,D:\clones\CNTK\Examples\TrainingCSharp\CSTrainingGPUExamples\Program.cs,6,0.0,41.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKDeserializers\HTKDeserializer.h,25,26.0,41.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\LibSVMBinaryReader\LibSVMBinaryReader.vcxproj.filters,0,0.0,41.0
+CNTK,XML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCPPUWPEvalExamplesTests\Package.appxmanifest,0,0.0,41.0
+CNTK,Bourne Shell,D:\clones\CNTK\Tests\Install\linux\prep-run-test.sh,18,13.0,41.0
+CNTK,Python,D:\clones\CNTK\Tutorials\HelloWorld-LogisticRegression\create_data.py,16,10.0,41.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\agent\shared\policy_gradient_parameters.py,23,49.0,41.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\device.py,38,103.0,41.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\misc\tests\convert_optimized_rnnstack_test.py,10,2.0,41.0
+CNTK,XML,D:\clones\CNTK\CNTK.Common.props,19,14.0,40.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\B1_VisualizeInputROIs.py,13,11.0,40.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\B2_EvaluateInputROIs.py,10,12.0,40.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\ConcVector.h,11,8.0,40.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\CNTKTextFormatReader\Exports.cpp,12,11.0,40.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKDeserializers\ConfigHelper.h,25,26.0,40.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Text\SparseDSSM\run-test,7,6.0,40.0
+CNTK,C#,D:\clones\CNTK\Tests\UnitTests\V2LibraryCSTests\UtilTests.cs,4,3.0,40.0
+CNTK,Bourne Shell,D:\clones\CNTK\Tools\check-git-head.sh,12,6.0,40.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\__init__.py,10,9.0,40.0
+CNTK,C++,D:\clones\CNTK\Examples\Evaluation\UWPImageRecognition\ImageRecognizerLib\utils.inl,6,6.0,39.0
+CNTK,Python,D:\clones\CNTK\Examples\Speech\Miscellaneous\TIMIT\AdditionalFiles\TimitGetFiles.py,11,16.0,39.0
+CNTK,YAML,D:\clones\CNTK\Scripts\install\linux\conda-linux-cntk-py34-environment.yml,1,1.0,39.0
+CNTK,YAML,D:\clones\CNTK\Scripts\install\linux\conda-linux-cntk-py35-environment.yml,0,1.0,39.0
+CNTK,YAML,D:\clones\CNTK\Scripts\install\linux\conda-linux-cntk-py36-environment.yml,0,1.0,39.0
+CNTK,YAML,D:\clones\CNTK\Scripts\install\windows\conda-windows-cntk-py36-environment.yml,0,1.0,39.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\ExceptionWithCallStack.h,11,9.0,39.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\HTKMLFReader\Exports.cpp,8,10.0,39.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\ExceptionCapture.h,8,11.0,39.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\UCIFastReader\UCIFastReader.vcxproj.filters,0,0.0,39.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2CSharp\ExampleTests\TransferLearningTest\run-test,10,5.0,39.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\BN_Inception_CIFAR10_test.py,12,7.0,39.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\TrainResNet_CIFAR10_Distributed_test.py,10,5.0,39.0
+CNTK,Visual Studio Solution,D:\clones\CNTK\Examples\Evaluation\CNTKLibraryEvalExamples.sln,1,1.0,38.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\DataSets\Grocery\install_grocery.py,7,4.0,38.0
+CNTK,YAML,D:\clones\CNTK\Scripts\install\linux\conda-linux-cntk-py27-environment.yml,0,1.0,38.0
+CNTK,YAML,D:\clones\CNTK\Scripts\install\windows\conda-windows-cntk-py27-environment.yml,0,1.0,38.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\hostname.h,8,9.0,38.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\CNTKBinaryReader\CNTKBinaryReader.vcxproj.filters,0,0.0,38.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\CNTKTextFormatReader\TextConfigHelper.h,19,11.0,38.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\BN_Inception_ImageNet_test.py,12,5.0,38.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\feature_extraction_test.py,10,4.0,38.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_FastRCNNEval_test.py,12,6.0,38.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CSEvalClientTest\testcases.yml,11,1.0,38.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Image\FCN\run-test,7,10.0,38.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\ParallelBM\testcases.yml,7,0.0,38.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\DNN\ParallelBM\testcases.yml,7,0.0,38.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\DNN\ParallelBMWithAdjustLR\testcases.yml,7,0.0,38.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\UWPImageRecognition\App\MainPage.xaml.cs,7,7.0,37.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\A2_RunWithBSModel.py,13,11.0,37.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\config_helpers.py,9,8.0,37.0
+CNTK,Python,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\scripts\Convert_label_to_cntk.py,6,1.0,37.0
+CNTK,Bourne Shell,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\train_cntk2_smbr.sh,9,11.0,37.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\patch\onnxruntime\core\framework\path_lib.cc,4,44.0,37.0
+CNTK,XML,D:\clones\CNTK\Source\Extensibility\EvalWrapper\EvalWrapper.vcxproj.filters,0,0.0,37.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\CuDnnFactories.h,8,7.0,37.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\CNTKBinaryReader\Exports.cpp,12,9.0,37.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\CNTKTextFormatReader\CNTKTextFormatReader.vcxproj.filters,0,0.0,37.0
+CNTK,XML,D:\clones\CNTK\Source\SequenceTrainingLib\SequenceTrainingLib.vcxproj.filters,0,0.0,37.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\FlappingBird_with_keras_DQN_test.py,17,8.0,37.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\InceptionV3_ImageNet_test.py,13,5.0,37.0
+CNTK,C#,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\UWPImageRecognitionTest\ImageRecognitionAppCS\MainPage.xaml.cs,8,7.0,37.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\CNTKLibraryCSEvalGPUExamples\Program.cs,17,18.0,36.0
+CNTK,XML,D:\clones\CNTK\Examples\Extensibility\ProposalLayer\ProposalLayerLib\ProposalLayerLib.vcxproj.filters,0,0.0,36.0
+CNTK,YAML,D:\clones\CNTK\Scripts\install\windows\conda-windows-cntk-py34-environment.yml,0,1.0,36.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\BinaryReader\BinaryReader.vcxproj.filters,0,0.0,36.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ImageReader\ImageDataDeserializer.h,16,21.0,36.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\SGDLib\IDistGradAggregator.h,10,1.0,36.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\TrainResNet_CIFAR10_test.py,14,14.0,36.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\ParallelBufferedAsyncGradientAggregation\testcases.yml,4,0.0,36.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\ParallelNoQuantizationBufferedAsyncGradientAggregation\testcases.yml,4,0.0,36.0
+CNTK,Python,D:\clones\CNTK\Examples\1stSteps\LogisticRegression_FunctionalAPI.py,13,32.0,35.0
+CNTK,Markdown,D:\clones\CNTK\Examples\ReinforcementLearning\deeprl\README.md,14,0.0,35.0
+CNTK,DOS Batch,D:\clones\CNTK\Scripts\install\windows\install.bat,5,0.0,35.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\CNTKBinaryReader\CBFUtils.h,11,7.0,35.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\CompositeDataReader\Exports.cpp,11,8.0,35.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\Bundler.h,24,27.0,35.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\SGDLib\PostComputingActions.h,9,21.0,35.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\EvalSimpleNetwork\testcases.yml,7,2.0,35.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Image\FCN\testcases.yml,6,0.0,35.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\Dropout\testcases.yml,4,0.0,35.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\Parallel1BitQuantization\testcases.yml,4,0.0,35.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\Parallel1BitQuantizationWithAutoMBScaling\testcases.yml,4,0.0,35.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\ParallelNoQuantization\testcases.yml,4,0.0,35.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\DNN\Dropout\testcases.yml,4,0.0,35.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\NetworkTests\EditDistanceTests.cpp,10,4.0,35.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\agent\shared\discretize.py,9,8.0,35.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\layers\higher_order_layers.py,49,146.0,35.0
+CNTK,C++,D:\clones\CNTK\Examples\Evaluation\CNTKLibraryCPPEvalGPUExamples\CNTKLibraryCPPEvalGPUExamples.cpp,24,26.0,34.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\cudadevice.h,7,7.0,34.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\binary_convolution_native_eval_test.py,11,22.0,34.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\ParallelTraining\NoQuantization\DoublePrecision\testcases.yml,4,0.0,34.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\ParallelTraining\NoQuantization\SinglePrecision\testcases.yml,5,0.0,34.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\DNN\WriteCommand\run-test,12,2.0,34.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathTests\QuantizedOperationsTests.cpp,13,9.0,34.0
+CNTK,Markdown,D:\clones\CNTK\Tools\cntk-binary-drop\linux\gpu\license\CNTK-License.md,31,0.0,34.0
+CNTK,C#,D:\clones\CNTK\bindings\csharp\CNTKLibraryManagedDll\ShimApiClasses\NDMaskShim.cs,6,29.0,34.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\EvalDll_AzureTutorial\EvalDll_AzureTutorial\Web.config,0,4.0,33.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\ASGDHelper.h,10,24.0,33.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKDeserializers\LatticeDeserializer.h,15,15.0,33.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\LTTumblingWindowRandomizer.h,11,10.0,33.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\SequencePacker.h,16,12.0,33.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\TruncatedBpttPacker.h,17,26.0,33.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\conftest.py,10,4.0,33.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CSEvalClientTest\run-test,11,9.0,33.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\EvalSimpleNetwork\testcases.yml,7,0.0,33.0
+CNTK,C#,D:\clones\CNTK\bindings\csharp\CNTKLibraryManagedDll\ShimApiClasses\CNTKLibShim.cs,4,43.0,33.0
+CNTK,C#,D:\clones\CNTK\bindings\csharp\CNTKLibraryManagedDll\ShimApiClasses\TrainerShim.cs,4,34.0,33.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\comparison_test.py,12,8.0,33.0
+CNTK,Visual Studio Solution,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\EvalClients.sln,1,1.0,32.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\BatchNormalization\NonSpatial\CNTK\testcases.yml,6,1.0,32.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\BatchNormalization\NonSpatial\CuDNN\testcases.yml,6,1.0,32.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2CSharp\ExampleTests\CifarResNetClassifierTest\run-test,11,6.0,32.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\ucf11_conv3d_test.py,13,6.0,32.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_202_Language_Understanding_test.py,6,6.0,32.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_302B_Image_Super-resolution_Using_CNNs_and_GANs_test.py,7,6.0,32.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_303_Deep_Structured_Semantic_Modeling_with_LSTM_Networks.py,7,5.0,32.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\WriteScaledLogLike\run-test,14,13.0,32.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Text\SLU\testcases.yml,5,0.0,32.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\FileTest\FileTest.h,4,6.0,32.0
+CNTK,MSBuild script,D:\clones\CNTK\Tests\UnitTests\V2LibraryCSTests\V2LibraryCSTests.csproj,14,0.0,32.0
+CNTK,CMake,D:\clones\CNTK\Tools\cmake\cntk_common.cmake,8,8.0,32.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Classification\GoogLeNet\BN-Inception\Python\README.md,29,0.0,31.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\DataSets\Pascal\README.md,11,0.0,31.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\B3_VisualizeOutputROIs.py,13,14.0,31.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Detection\utils\Readme.md,15,0.0,31.0
+CNTK,Python,D:\clones\CNTK\Examples\Text\LightRNN\LightRNN\preprocess.py,10,10.0,31.0
+CNTK,Markdown,D:\clones\CNTK\Examples\TrainingCSharp\README.md,7,0.0,31.0
+CNTK,PowerShell,D:\clones\CNTK\Scripts\install\windows\ps\_download.ps1,12,4.0,31.0
+CNTK,C++,D:\clones\CNTK\Source\Common\EnvironmentUtil.cpp,9,8.0,31.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\ChunkCache.h,13,12.0,31.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\ConvNet_CIFAR10_DataAug_test.py,10,5.0,31.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\DeepQNeuralNetwork_test.py,16,10.0,31.0
+CNTK,XML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCPPEvalExamplesTest\CNTKLibraryCPPEvalExamplesTest.vcxproj.filters,0,0.0,31.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCPPEvalExamplesTest\run-test,12,6.0,31.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\JavaEvalTest\run-test,10,6.0,31.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\CrossValidateSimpleNetwork\testcases.yml,7,2.0,31.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Simple2d\MultiGpu\testcases.yml,6,0.0,31.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Simple2d\OneHidden\testcases.yml,6,0.0,31.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\WriteCommand\run-test,10,2.0,31.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\WriteBottleneck\run-test,15,14.0,31.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Text\SparseDSSM\testcases.yml,5,0.0,31.0
+CNTK,Bourne Shell,D:\clones\CNTK\Tools\devInstall\Linux\install-swig.sh,6,11.0,31.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\agent\shared\customized_models.py,12,28.0,31.0
+CNTK,YAML,D:\clones\CNTK\.clang-format,1,1.0,30.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\A3_ParseAndEvaluateOutput.py,11,17.0,30.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\Globals.h,10,6.0,30.0
+CNTK,XML,D:\clones\CNTK\Source\Extensibility\BinaryConvolutionLib\BinaryConvolutionLib.vcxproj.filters,0,0.0,30.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\LTNoRandomizer.h,12,10.0,30.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\deconv_MNIST_test.py,13,6.0,30.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_103D_MNIST_ConvolutionalNeuralNetwork_test.py,6,5.0,30.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCPPUWPEvalExamplesTests\run-test,13,4.0,30.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Text\Miscellaneous\SLU\testcases.yml,5,0.0,30.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\ModelExport\Model0\run-test,8,6.0,30.0
+CNTK,Python,D:\clones\CNTK\Tools\msvc_collect_coverage.py,10,4.0,30.0
+CNTK,C#,D:\clones\CNTK\bindings\csharp\CNTKLibraryManagedDll\ShimApiClasses\ConstantShim.cs,3,14.0,30.0
+CNTK,C/C++ Header,D:\clones\CNTK\Examples\Extensibility\ProposalLayer\ProposalLayerLib\NmsUtils.h,12,8.0,29.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Classification\ConvNet\Python\README.md,26,0.0,29.0
+CNTK,Markdown,D:\clones\CNTK\Examples\LanguageUnderstanding\ATIS\README_Tutorial.md,4,0.0,29.0
+CNTK,Perl,D:\clones\CNTK\Examples\Speech\Miscellaneous\TIMIT\lib\mlf\make_dr_mlf.pl,4,1.0,29.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\Logger.h,8,0.0,29.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\DataTransferer.h,17,22.0,29.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\CNTKBinaryReader\BinaryConfigHelper.h,15,10.0,29.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\DataDeserializerBase.h,13,8.0,29.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\Seq2Seq_CMUDict_Distributed_test.py,7,4.0,29.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CPPEvalClientTest\run-test,10,6.0,29.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\WriteBottleneck\run-test,12,11.0,29.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\ModelExport\Model1\run-test,8,6.0,29.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\CrossValidateSimpleNetwork\testcases.yml,7,0.0,29.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\SVD\testcases.yml,5,0.0,29.0
+CNTK,C#,D:\clones\CNTK\bindings\csharp\CNTKLibraryManagedDll\ShimApiClasses\LearnerShim.cs,2,16.0,29.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\losses\tests\h_softmax_test.py,9,8.0,29.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\tests\initializer_test.py,8,4.0,29.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\CNTKLibraryCPPEvalCPUOnlyExamples\CNTKLibraryCPPEvalCPUOnlyExamples.vcxproj.filters,0,0.0,28.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\CNTKLibraryCPPEvalGPUExamples\CNTKLibraryCPPEvalGPUExamples.vcxproj.filters,0,0.0,28.0
+CNTK,Visual Studio Solution,D:\clones\CNTK\Examples\Evaluation\UWPImageRecognition\ImageRecognition.sln,1,1.0,28.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Classification\ResNet\Python\README.md,25,0.0,28.0
+CNTK,Python,D:\clones\CNTK\Examples\Text\LightRNN\PTB\Data\download_data.py,8,5.0,28.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\MatrixQuantizerCPU.h,7,2.0,28.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\CudaMemoryProvider.h,9,6.0,28.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\VGG16_ImageNet_Distributed_test.py,6,5.0,28.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\VGG19_ImageNet_Distributed_test.py,6,5.0,28.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Keras\conftest.py,8,6.0,28.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_201B_CIFAR-10_ImageHandsOn_test.py,5,5.0,28.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\GettingStarted\07_Deconvolution\testcases.yml,6,0.0,28.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\ParallelTraining\AsynchronousSGD\run-test-common,6,3.0,28.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\ParallelTraining\AsynchronousSGD\testcases.yml,5,0.0,28.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\SVD\testcases.yml,5,1.0,28.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\eval\evaluator.py,18,54.0,28.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\metrics\__init__.py,26,93.0,28.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\tests\test_utils.py,12,14.0,28.0
+CNTK,C++,D:\clones\CNTK\Examples\Evaluation\CNTKLibraryCPPEvalCPUOnlyExamples\CNTKLibraryCPPEvalCPUOnlyExamples.cpp,16,20.0,27.0
+CNTK,XML,D:\clones\CNTK\Examples\Extensibility\CPP\CPPExtensibilityExamples.vcxproj.filters,0,0.0,27.0
+CNTK,XML,D:\clones\CNTK\Examples\Extensibility\CPPLib\CPPExtensibilityExamplesLibrary.vcxproj.filters,0,0.0,27.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\DataSets\Animals\install_animals.py,6,4.0,27.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FasterRCNN\run_faster_rcnn.py,11,13.0,27.0
+CNTK,Markdown,D:\clones\CNTK\Examples\ReinforcementLearning\README.md,13,0.0,27.0
+CNTK,Python,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\scripts\select_by_id.py,8,1.0,27.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKDeserializers\MLFBinaryIndexBuilder.h,11,4.0,27.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\SequenceEnumerator.h,16,23.0,27.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\MNISTClassifier\run-test,11,5.0,27.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\InceptionV3_ImageNet_Distributed_test.py,9,6.0,27.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\deeprl_test.py,10,4.0,27.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\finalize_test.py,8,4.0,27.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CPPEvalExtendedClientTest\run-test,10,6.0,27.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\ResNet_CIFAR\run-test-common,7,4.0,27.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Regression\run-test-common,6,3.0,27.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\DNN\Dropout\run-test,4,1.0,27.0
+CNTK,SWIG,D:\clones\CNTK\bindings\common\CNTKExceptionHandling.i,5,10.0,27.0
+CNTK,Markdown,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\README.md,23,0.0,27.0
+CNTK,Markdown,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\examples\README.md,17,0.0,27.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\agent\random_agent.py,15,15.0,27.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\tests\spaces.py,16,8.0,27.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Evaluation\README.md,17,0.0,26.0
+CNTK,Mathematica,D:\clones\CNTK\Examples\LanguageUnderstanding\ATIS\BrainScript\intent.wl,0,0.0,26.0
+CNTK,Perl,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\scripts\createCNTKinputList.pl,3,18.0,26.0
+CNTK,Visual Studio Solution,D:\clones\CNTK\Examples\Text\LightRNN\DLL\DLL.sln,1,1.0,26.0
+CNTK,Visual Studio Solution,D:\clones\CNTK\Examples\TrainingCSharp\CNTKLibraryCSharpTrainingExamples.sln,1,1.0,26.0
+CNTK,Jupyter Notebook,D:\clones\CNTK\Manual\Manual_How_to_use_network_optimizations.ipynb,0,328.0,26.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\ONNXToCNTK.h,5,8.0,26.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\CNTKTextFormatReader\TextReaderConstants.h,13,4.0,26.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\BatchNormalization\Spatial\CNTK\testcases.yml,5,1.0,26.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\BatchNormalization\Spatial\CuDNN\testcases.yml,5,1.0,26.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\CifarResNet\run-test,11,5.0,26.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\LSTMSequenceClassifier\run-test,11,5.0,26.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\SequenceToSequenceTranslator\run-test,11,5.0,26.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\TruncatedLSTMAcousticModel\run-test,11,5.0,26.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\BN_Inception_CIFAR10_Distributed_test.py,7,4.0,26.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\BN_Inception_ImageNet_Distributed_test.py,7,4.0,26.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\bptt_checkpointing_test.py,9,4.0,26.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_103A_MNIST_DataLoader_test.py,6,6.0,26.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_106B_LSTM_Timeseries_with_IOT_Data_test.py,9,4.0,26.0
+CNTK,XAML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\UWPImageRecognitionTest\ImageRecognitionAppCS\MainPage.xaml,2,0.0,26.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\ConvNet_CIFAR\run-test-common,6,3.0,26.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\TrainSimpleNetwork\testcases.yml,5,2.0,26.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Image\QuickE2E\testcases.yml,5,0.0,26.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\WriteCommand\testcases.yml,4,0.0,26.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\DNN\WriteCommand\testcases.yml,4,0.0,26.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\TrainSimpleNetwork\testcases.yml,5,0.0,26.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\LSTM\FullUtterance\testcases.yml,5,0.0,26.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\LSTM\FullUtteranceCuDNN5\testcases.yml,5,1.0,26.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\LSTM\FullUtteranceLayers\testcases.yml,5,1.0,26.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\LSTM\Truncated\testcases.yml,5,8.0,26.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\LSTM\TruncatedLayers\testcases.yml,5,1.0,26.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\QuickE2E\testcases.yml,5,0.0,26.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\Simple\testcases.yml,5,2.0,26.0
+CNTK,DOS Batch,D:\clones\CNTK\Tests\Install\windows\test-install.bat,7,0.0,26.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\NetworkTests\TestHelpers.h,13,5.0,26.0
+CNTK,diff,D:\clones\CNTK\Tools\docker\Patches\Swig\std_wstring.i.patch,3,11.0,26.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\examples\run_convert.py,5,11.0,26.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\internal\tests\sanitize.py,10,4.0,26.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\CNTKLibraryCSEvalCPUOnlyExamples\Program.cs,13,16.0,25.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\CPPEvalClient\CPPEvalClient.vcxproj.filters,0,0.0,25.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\CPPEvalExtendedClient\CPPEvalExtendedClient.vcxproj.filters,0,0.0,25.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Classification\ResNet\BrainScript\README.md,21,0.0,25.0
+CNTK,Python,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\scripts\convert_scp_to_cntk.py,5,1.0,25.0
+CNTK,C#,D:\clones\CNTK\Examples\TrainingCSharp\CSTrainingCPUOnlyExamples\Program.cs,7,8.0,25.0
+CNTK,Markdown,D:\clones\CNTK\Scripts\README.md,15,0.0,25.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\CNTKToONNX.h,5,4.0,25.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\CUDAPageLockedMemAllocator.h,6,0.0,25.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKDeserializers\UtteranceDescription.h,10,8.0,25.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\Distribution\run-test,11,3.0,25.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Manual\Manual_How_to_train_using_declarative_and_imperative_API_test.py,7,4.0,25.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_201A_CIFAR-10_DataLoader_test.py,7,6.0,25.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_205_Artistic_Style_Transfer_test.py,6,4.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\MLP_MNIST\MLP_MNIST\testcases.yml,6,6.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\ResNet_CIFAR\ResNet20_CIFAR10\testcases.yml,6,6.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Deprecated\MNIST\01_OneHidden_ndl\testcases.yml,6,8.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Deprecated\MNIST\03_ConvBatchNorm_ndl\testcases.yml,6,8.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\GettingStarted\03_OneConvDropout\testcases.yml,6,6.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\GettingStarted\04_OneConvBN\testcases.yml,6,8.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\GettingStarted\06_OneConvRegrMultiNode\testcases.yml,6,3.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\TrainLstm\testcases.yml,5,2.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\TrainMultiInput\testcases.yml,5,2.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\TrainMultiTask\testcases.yml,5,2.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\TrainNdlNetwork\testcases.yml,5,2.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\TrainWithPreTrain\testcases.yml,7,2.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\WriteScaledLogLike\testcases.yml,5,2.0,25.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\run-timit-test-common,7,4.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Text\PennTreebank\RNN\testcases.yml,5,0.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Image\AlexNet\Composite\testcases.yml,5,0.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Image\AlexNet\testcases.yml,5,0.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\DiscriminativePreTraining\testcases.yml,5,5.0,25.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\Dropout\run-test,3,1.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\SequenceTrainingNewReader\testcases.yml,5,1.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\LSTM\Truncated\testcases.yml,5,7.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\QuickE2E\testcases.yml,5,1.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\AdaptLearnRate\testcases.yml,5,0.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\TrainLstm\testcases.yml,5,0.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\TrainMultiInput\testcases.yml,5,0.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\TrainMultiTask\testcases.yml,5,0.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\TrainNdlNetwork\testcases.yml,5,0.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\TrainWithPreTrain\testcases.yml,7,0.0,25.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\LSTM\Truncated-Kaldi\testcases.yml,5,1.0,25.0
+CNTK,CMake,D:\clones\CNTK\Tools\cmake\common.cmake,3,9.0,25.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\losses\tests\fmeasure_test.py,9,7.0,25.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\tests\axis_test.py,6,4.0,25.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\CNTKAzureTutorial01\CNTKAzureTutorial01\App_Start\SwaggerConfig.cs,31,216.0,24.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\EvalDll_AzureTutorial\EvalDll_AzureTutorial\App_Start\SwaggerConfig.cs,31,216.0,24.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\fastRCNN\nms.py,7,6.0,24.0
+CNTK,Python,D:\clones\CNTK\Examples\Video\DataSets\UCF11\ucf11_utils.py,6,4.0,24.0
+CNTK,C++,D:\clones\CNTK\Source\DelayLoadedExtensionsDll\ImageWriter.cpp,7,8.0,24.0
+CNTK,C++,D:\clones\CNTK\Source\Math\CPUMatrixTensorDouble.cpp,6,0.0,24.0
+CNTK,C++,D:\clones\CNTK\Source\Math\CPUMatrixTensorFloat.cpp,6,0.0,24.0
+CNTK,C++,D:\clones\CNTK\Source\Math\CPUMatrixTensorHalf.cpp,6,0.0,24.0
+CNTK,CUDA,D:\clones\CNTK\Source\Math\GPURNGHandle.cu,6,6.0,24.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\BinaryReader\Exports.cpp,5,6.0,24.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKDeserializers\HTKMLFReader.h,13,14.0,24.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\ConvNetLRN_CIFAR10_DataAug_test.py,11,13.0,24.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\sequence_to_sequence_test.py,12,10.0,24.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\simple_mnist_test.py,9,6.0,24.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Manual\Manual_How_to_write_a_custom_deserializer_test.py,7,4.0,24.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_208_Speech_Connectionist_Temporal_Classification_test.py,6,5.0,24.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_302A_Evaluation_of_Pretrained_Super-resolution_Models_test.py,8,5.0,24.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\GooLeNet_ImageNet\run-test-common,6,3.0,24.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\ResNet_ImageNet\run-test-common,6,3.0,24.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\WriteBottleneck\testcases.yml,7,5.0,24.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Text\G2P\testcases.yml,5,0.0,24.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Image\AlexNet\Composite\run-test,11,6.0,24.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\DNN\DiscriminativePreTraining\testcases.yml,5,6.0,24.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\WriteBottleneck\testcases.yml,7,3.0,24.0
+CNTK,Bourne Shell,D:\clones\CNTK\Tools\get-datasets.sh,6,9.0,24.0
+CNTK,PowerShell,D:\clones\CNTK\Tools\make_samples_zip.ps1,13,5.0,24.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\tests\cntk_utils_test.py,10,5.0,24.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Extensibility\BinaryConvolution\README.md,11,0.0,23.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\run_fast_rcnn.py,8,13.0,23.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\V2Dependencies.h,6,9.0,23.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ImageReader\ImageDeserializerBase.h,14,18.0,23.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\Kaldi2Reader\stdafx.h,5,11.0,23.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\LMSequenceReader\Exports.cpp,5,6.0,23.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\ReaderBase.h,15,17.0,23.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ReaderLib\ReaderUtil.cpp,8,7.0,23.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\SparsePCReader\stdafx.h,6,7.0,23.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_106A_LSTM_Timeseries_with_Simulated_Data_test.py,6,4.0,23.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_200_GuidedTour_test.py,6,5.0,23.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\FunctionalAPI_CNTK_200_GuidedTour_test.py,6,5.0,23.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Deprecated\CIFAR-10\run-test-common,3,3.0,23.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\TrainAutoEncoder\testcases.yml,5,2.0,23.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\WriteScaledLogLike\run-test,11,7.0,23.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Image\Base64Write\run-test,10,3.0,23.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\TrainAutoEncoder\testcases.yml,5,0.0,23.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\WriteScaledLogLike\testcases.yml,5,1.0,23.0
+CNTK,Python,D:\clones\CNTK\Tools\run_boost_unit_tests.py,7,5.0,23.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\utils\format.py,11,23.0,23.0
+CNTK,DOS Batch,D:\clones\CNTK\bindings\python\doc\build.bat,5,0.0,23.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Classification\ConvNet\BrainScript\README.md,20,0.0,22.0
+CNTK,XML,D:\clones\CNTK\Examples\Text\LightRNN\DLL\DLL\DLL.vcxproj.filters,0,0.0,22.0
+CNTK,C++,D:\clones\CNTK\Source\EvalDll\dllmain.cpp,2,6.0,22.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\stdafx.h,6,11.0,22.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKMLFReader\stdafx.h,5,11.0,22.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ReaderLib\DataDeserializerBase.cpp,9,4.0,22.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\UCIFastReader\stdafx.h,4,6.0,22.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_103B_MNIST_LogisticRegression_test.py,6,5.0,22.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_103C_MNIST_MultiLayerPerceptron_test.py,6,5.0,22.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_105_Basic_Autoencoder_for_Dimensionality_Reduction_test.py,8,4.0,22.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_203_Reinforcement_Learning_Basics_test.py,7,4.0,22.0
+CNTK,XML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CPPEvalClientTest\CPPEvalClientTest.vcxproj.filters,0,0.0,22.0
+CNTK,XML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CPPEvalExtendedClientTest\CPPEvalExtendedClientTest.vcxproj.filters,0,0.0,22.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Deprecated\CIFAR-10\01_Convolution\testcases.yml,5,9.0,22.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Deprecated\CIFAR-10\02_BatchNormConv\testcases.yml,5,9.0,22.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Deprecated\CIFAR-10\03_ResNet\testcases.yml,5,7.0,22.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Deprecated\CIFAR-10\04_ResNet_56\testcases.yml,5,7.0,22.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Deprecated\CIFAR-10\05_ConvLocal\testcases.yml,5,7.0,22.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Regression\RegrSimple\testcases.yml,5,4.0,22.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Image\AlexNet\run-test,9,5.0,22.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\External\Parallel1BitQuantLSTM_CE\run-test,6,2.0,22.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\External\ParallelBMUFLSTM_CE\run-test,8,2.0,22.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\External\ParallelMALSTM_CE\run-test,8,2.0,22.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\convert.py,8,17.0,22.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\logging\__init__.py,9,20.0,22.0
+CNTK,reStructuredText,D:\clones\CNTK\bindings\python\doc\examples.rst,7,0.0,22.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\CNTKAzureTutorial01\CNTKAzureTutorial01\Global.asax.cs,3,0.0,21.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\EvalDll_AzureTutorial\EvalDll_AzureTutorial\Global.asax.cs,3,0.0,21.0
+CNTK,C/C++ Header,D:\clones\CNTK\Examples\Evaluation\UWPImageRecognition\ImageRecognizerLib\CNTKImageRecognizer.h,4,4.0,21.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\UWPImageRecognition\ImageRecognizerLib\ImageRecognizerLib.vcxproj.filters,0,0.0,21.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\install_data_and_model.py,7,4.0,21.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\BackCompat.h,8,4.0,21.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\GPURNGHandle.h,8,6.0,21.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\RNGHandle.h,10,6.0,21.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ImageReader\Base64ImageDeserializer.h,11,9.0,21.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\DataDeserializer.h,13,9.0,21.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ReaderLib\FramePacker.cpp,6,5.0,21.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\Basic_GAN_Distributed_test.py,7,5.0,21.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_104_Finance_Timeseries_Basic_with_Pandas_Numpy_test.py,6,4.0,21.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\VGG_ImageNet\run-test-common,5,3.0,21.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Deprecated\MNIST\02_Convolution_ndl\testcases.yml,6,13.0,21.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\SaveBestModelPerCriterion\run-test,4,2.0,21.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\NetworkTests\OperatorEvaluation.cpp,8,6.0,21.0
+CNTK,XML,D:\clones\CNTK\Tests\UnitTests\ReaderTests\Data\ImageNet1K_intensity.xml,0,0.0,21.0
+CNTK,Markdown,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\README.md,5,0.0,21.0
+CNTK,Python,D:\clones\CNTK\bindings\python\onnx_cntk\tests\onnx_backend_test.py,15,22.0,21.0
+CNTK,Visual Studio Solution,D:\clones\CNTK\Examples\Evaluation\CNTKAzureTutorial01\CNTKAzureTutorial01.sln,1,1.0,20.0
+CNTK,Visual Studio Solution,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\EvalDll_AzureTutorial\EvalDll_AzureTutorial.sln,1,1.0,20.0
+CNTK,Python,D:\clones\CNTK\Examples\ReinforcementLearning\deeprl\env\env_factory.py,5,4.0,20.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Video\GettingStarted\README.md,13,0.0,20.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\DSSMReader\stdafx.h,6,7.0,20.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKDeserializers\MLFIndexBuilder.h,10,4.0,20.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\Kaldi2Reader\DataReader.cpp,7,28.0,20.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\LUSequenceReader\stdafx.h,4,6.0,20.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_101_LogisticRegression_test.py,6,4.0,20.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_102_FeedForward_test.py,6,4.0,20.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_204_Sequence_To_Sequence_test.py,6,4.0,20.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_599A_Sequence_To_Sequence_test.py,6,4.0,20.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\PlotDNN\run-test,2,4.0,20.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\LSTM_CTC_MLF\testcases.yml,3,0.0,20.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Text\IRMetric\testcases.yml,4,1.0,20.0
+CNTK,PowerShell,D:\clones\CNTK\Tests\Install\windows\test.ps1,4,6.0,20.0
+CNTK,C#,D:\clones\CNTK\bindings\csharp\CNTKLibraryManagedDll\ShimApiClasses\MinibatchSourceConfigShim.cs,3,4.0,20.0
+CNTK,JSON,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\examples\Classification\AlexNet_ImageNet\global.json,0,0.0,20.0
+CNTK,JSON,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\examples\Classification\GoogLeNet_ImageNet\global.json,0,0.0,20.0
+CNTK,JSON,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\examples\Classification\NIN_ImageNet\global.json,0,0.0,20.0
+CNTK,JSON,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\examples\Classification\ResNet_ImageNet\global_resnet101.json,0,0.0,20.0
+CNTK,JSON,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\examples\Classification\ResNet_ImageNet\global_resnet152.json,0,0.0,20.0
+CNTK,JSON,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\examples\Classification\ResNet_ImageNet\global_resnet50.json,0,0.0,20.0
+CNTK,JSON,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\examples\Classification\VGG_ImageNet\global_vgg16.json,0,0.0,20.0
+CNTK,JSON,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\examples\Classification\VGG_ImageNet\global_vgg19.json,0,0.0,20.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\agent\agent_factory.py,8,17.0,20.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\tests\tensor_test.py,11,8.0,20.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\CNTKAzureTutorial01\CNTKAzureTutorial01\App_Start\WebApiConfig.cs,3,2.0,19.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\EvalDll_AzureTutorial\EvalDll_AzureTutorial\App_Start\WebApiConfig.cs,3,2.0,19.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Classification\GoogLeNet\README.md,13,0.0,19.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\fastRCNN\timer.py,4,9.0,19.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\configs\Grocery_config.py,6,14.0,19.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTK\stdafx.h,4,10.0,19.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\DistributedLearnerBase.h,9,7.0,19.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\UserDefinedFunction.h,9,4.0,19.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\DelayLoadedExtensionsDll\ImageWriter.h,6,11.0,19.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Extensibility\EvalWrapper\EvalCommon.h,5,7.0,19.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\LibSVMBinaryReader\stdafx.h,4,6.0,19.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\FramePacker.h,6,5.0,19.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\BatchNormalization\Spatial\run-test-common,4,3.0,19.0
+CNTK,PowerShell,D:\clones\CNTK\Tests\Install\windows\test-install.ps1,6,5.0,19.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathTests\fixtures.cpp,7,13.0,19.0
+CNTK,SWIG,D:\clones\CNTK\bindings\common\CNTKWarnFilters.i,10,14.0,19.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\eval\tests\evaluator_test.py,9,4.0,19.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Classification\AlexNet\README.md,11,0.0,18.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Classification\MLP\README.md,12,0.0,18.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Classification\ResNet\README.md,11,0.0,18.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Classification\VGG\README.md,11,0.0,18.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\configs\AlexNet_config.py,4,6.0,18.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\configs\VGG16_config.py,5,8.0,18.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\GAN\README.md,13,0.0,18.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Regression\README.md,12,0.0,18.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\MemAllocator.h,3,0.0,18.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\HeapMemoryProvider.h,7,5.0,18.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_301_Image_Recognition_with_Deep_Transfer_Learning_test.py,9,15.0,18.0
+CNTK,XML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\UWPImageRecognitionTest\ImageRecognizerLib\ImageRecognizerLib.vcxproj.filters,0,0.0,18.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\SequenceTrainingNewReader\run-test,8,5.0,18.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\UnitTests\CNTKv2Library\testcases.yml,5,0.0,18.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\UnitTests\EvalTests\testcases.yml,4,0.0,18.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\UnitTests\MathTests\testcases.yml,4,1.0,18.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\UnitTests\NetworkTests\testcases.yml,4,1.0,18.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\UnitTests\ReaderTests\testcases.yml,4,1.0,18.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathTests\constants.cpp,3,4.0,18.0
+CNTK,C#,D:\clones\CNTK\Tests\UnitTests\V2LibraryCSTests\TensorTests.cs,2,3.0,18.0
+CNTK,CMake,D:\clones\CNTK\Tools\cmake\csharp_common.cmake,8,9.0,18.0
+CNTK,Markdown,D:\clones\CNTK\Tutorials\README.md,9,0.0,18.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\patch\onnxruntime\core\session\abi_session_options_impl.h,3,2.0,17.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\tensorboard\TensorBoardUtils.h,6,7.0,17.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\CPURNGHandle.h,7,6.0,17.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\GPUTensor.h,7,5.0,17.0
+CNTK,C++,D:\clones\CNTK\Source\Math\RNGHandle.cpp,4,6.0,17.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\ConvNet_MNIST_test.py,8,4.0,17.0
+CNTK,DOS Batch,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\UWPImageRecognitionTest\ImageRecognitionAppCS\GenerateTemporaryKey.cmd,5,3.0,17.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\ResNet_CIFAR\ResNet110_CIFAR10\testcases.yml,6,14.0,17.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\ResNet_ImageNet\ResNet50_ImageNet\testcases.yml,6,14.0,17.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\VGG_ImageNet\VGG19_ImageNet\testcases.yml,6,14.0,17.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\CommandEval\stdafx.h,5,6.0,17.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\tests\models_test.py,7,5.0,17.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\ops\tests\transpose_test.py,8,9.0,17.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\CNTKAzureTutorial01\CNTKAzureTutorial01\packages.config,0,0.0,16.0
+CNTK,JSON,D:\clones\CNTK\Examples\Evaluation\UWPImageRecognition\App\project.json,0,0.0,16.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Classification\ConvNet\README.md,10,0.0,16.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Classification\GoogLeNet\BN-Inception\README.md,10,0.0,16.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Classification\GoogLeNet\InceptionV3\Python\README.md,15,0.0,16.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Classification\GoogLeNet\InceptionV3\README.md,10,0.0,16.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\DataSets\CIFAR-10\install_cifar10.py,2,0.0,16.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\configs\Pascal_config.py,5,6.0,16.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\ONNX.h,4,4.0,16.0
+CNTK,C++,D:\clones\CNTK\Source\Math\dllmain.cpp,0,6.0,16.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKDeserializers\LatticeIndexBuilder.h,7,4.0,16.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKDeserializers\MLFBinaryDeserializer.h,7,9.0,16.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\Transformer.h,8,12.0,16.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\SparsePCReader\dllmain.cpp,1,1.0,16.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\UCIFastReader\dllmain.cpp,1,6.0,16.0
+CNTK,awk,D:\clones\CNTK\Tests\EndToEndTests\Image\Base64Write\Comparator.awk,4,4.0,16.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Text\IRMetric\run-test,6,4.0,16.0
+CNTK,Bourne Shell,D:\clones\CNTK\Tests\Install\linux\test_wrapper.sh,7,10.0,16.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\MathTests\stdafx.h,6,8.0,16.0
+CNTK,Markdown,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\utils\README.md,15,0.0,16.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\io\transforms.py,18,117.0,16.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\CNTKAzureTutorial01\CNTKAzureTutorial01\Properties\AssemblyInfo.cs,4,16.0,15.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\CNTKLibraryCSEvalCPUOnlyExamples\Properties\AssemblyInfo.cs,4,17.0,15.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\CNTKLibraryCSEvalGPUExamples\Properties\AssemblyInfo.cs,4,17.0,15.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\CSEvalClient\Properties\AssemblyInfo.cs,4,17.0,15.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\EvalDll_AzureTutorial\EvalDll_AzureTutorial\Properties\AssemblyInfo.cs,4,16.0,15.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\EvalDll_AzureTutorial\EvalDll_AzureTutorial\packages.config,0,0.0,15.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Classification\GoogLeNet\Inception-ResNet-V1\README.md,9,0.0,15.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\DataSets\MNIST\install_mnist.py,1,0.0,15.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\TransferLearning\install_data_and_model.py,9,4.0,15.0
+CNTK,Markdown,D:\clones\CNTK\Examples\SequenceToSequence\CMUDict\README.md,5,0.0,15.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Text\WordLMWithSampledSoftmax\README.md,7,0.0,15.0
+CNTK,C#,D:\clones\CNTK\Examples\TrainingCSharp\CSTrainingCPUOnlyExamples\Properties\AssemblyInfo.cs,4,17.0,15.0
+CNTK,C#,D:\clones\CNTK\Examples\TrainingCSharp\CSTrainingGPUExamples\Properties\AssemblyInfo.cs,4,17.0,15.0
+CNTK,C++,D:\clones\CNTK\Source\Math\CPUMatrixFloat.cpp,5,5.0,15.0
+CNTK,CUDA,D:\clones\CNTK\Source\Math\cudalatticeops.cu,6,6.0,15.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ImageReader\ImageReader.h,9,10.0,15.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\Kaldi2Reader\UtteranceDerivativeComputationInterface.h,4,5.0,15.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ReaderLib\ChunkCache.cpp,7,4.0,15.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\Packer.h,9,7.0,15.0
+CNTK,C#,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2CSharp\CNTKLibraryCSTrainingTest\Properties\AssemblyInfo.cs,4,17.0,15.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_206B_DCGAN_test.py,6,12.0,15.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_206C_WGAN_LSGAN_test.py,6,12.0,15.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\NumpyInterop_FeedForwardNet_test.py,8,4.0,15.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCPPUWPEvalExamplesTests\UnitTestApp.xaml.h,5,11.0,15.0
+CNTK,C#,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCSEvalExamplesTest\Properties\AssemblyInfo.cs,4,17.0,15.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Image\Base64Write\testcases.yml,3,0.0,15.0
+CNTK,Markdown,D:\clones\CNTK\Tests\EndToEndTests\Speech\LSTM_CTC_MLF\README.md,7,0.0,15.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Text\SequenceClassification\testcases.yml,4,14.0,15.0
+CNTK,reStructuredText,D:\clones\CNTK\bindings\python\doc\index.rst,7,14.0,15.0
+CNTK,Markdown,D:\clones\CNTK\Documentation\current_iteration.md,5,0.0,14.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\UWPImageRecognition\App\Properties\AssemblyInfo.cs,2,13.0,14.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Classification\VGG\Python\README.md,13,0.0,14.0
+CNTK,make,D:\clones\CNTK\Examples\Text\LightRNN\Makefile,6,0.0,14.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Video\DataSets\UCF11\README.md,10,0.0,14.0
+CNTK,XML,D:\clones\CNTK\Source\Readers\CompositeDataReader\CompositeDataReader.vcxproj.filters,0,0.0,14.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\DSSMReader\Exports.cpp,4,6.0,14.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\LibSVMBinaryReader\Exports.cpp,4,6.0,14.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\SparsePCReader\Exports.cpp,4,6.0,14.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\UCIFastReader\Exports.cpp,4,6.0,14.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2CSharp\ExampleTests\LSTMSequenceClassifierTest\testcases.yml,3,0.0,14.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2CSharp\ExampleTests\MNISTClassifierTest\testcases.yml,3,0.0,14.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2CSharp\ExampleTests\SimpleFeedForwardClassifierTest\run-test,4,0.0,14.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2CSharp\ExampleTests\SimpleFeedForwardClassifierTest\testcases.yml,3,0.0,14.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Doc\run-test,7,0.0,14.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\feed_forward_net_test.py,6,4.0,14.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\run-test,5,4.0,14.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Manual\Manual_How_to_debug_test.py,6,5.0,14.0
+CNTK,C#,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\UWPImageRecognitionTest\ImageRecognitionAppCS\Properties\AssemblyInfo.cs,2,13.0,14.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\ParallelTraining\AsynchronousSGD\run-test,5,5.0,14.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\External\ParallelMALSTM_CE\testcases.yml,3,0.0,14.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\LSTM\FullUtteranceBinaryMLF\testcases.yml,3,14.0,14.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\UnitTests\MultiversoTests\testcases.yml,4,0.0,14.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\EvalTests\stdafx.h,6,7.0,14.0
+CNTK,C#,D:\clones\CNTK\Tests\UnitTests\ManagedEvalTests\Properties\AssemblyInfo.cs,3,14.0,14.0
+CNTK,Bourne Shell,D:\clones\CNTK\Tools\docker\Patches\patch_swig.sh,8,5.0,14.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\netopt\__init__.py,4,11.0,14.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\logging\tests\progress_print_test.py,3,5.0,14.0
+CNTK,C#,D:\clones\CNTK\Examples\Evaluation\CNTKLibraryCSEvalCPUOnlyExamples\CNTKExtensions.cs,1,10.0,13.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\selectivesearch\README.md,7,0.0,13.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\FeatureExtraction\README.md,8,0.0,13.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\TransferLearning\README.md,8,0.0,13.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\SGDLib\Profiler.h,3,6.0,13.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\SGDLib\SimpleDistGradAggregatorHelper.h,6,5.0,13.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2CSharp\ExampleTests\LSTMSequenceClassifierTest\run-test,4,0.0,13.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2CSharp\ExampleTests\MNISTClassifierTest\run-test,4,0.0,13.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2CSharp\ExampleTests\TransferLearningTest\extract_animal_data.py,3,0.0,13.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\sequence_classification_test.py,7,4.0,13.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Manual\Manual_How_to_feed_data_test.py,12,5.0,13.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_206A_Basic_GAN_test.py,8,12.0,13.0
+CNTK,C#,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CSEvalClientTest\Properties\AssemblyInfo.cs,4,21.0,13.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\ParallelTraining\NoQuantization\DoublePrecision\run-test,3,1.0,13.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\ParallelTraining\NoQuantization\SinglePrecision\run-test,3,1.0,13.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\DNN\ParallelBM\run-test,4,1.0,13.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\QuickE2E\run-test,4,2.0,13.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\UnitTests\V2LibraryCSTests\testcases.yml,4,1.0,13.0
+CNTK,Python,D:\clones\CNTK\bindings\python\doc\test\simplenet_test.py,6,4.0,13.0
+CNTK,Python,D:\clones\CNTK\bindings\python\doc\test\simplernn_test.py,8,4.0,13.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Classification\GoogLeNet\Inception-ResNet-V1\BrainScript\README.md,11,0.0,12.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Classification\GoogLeNet\InceptionV3\BrainScript\README.md,11,0.0,12.0
+CNTK,XML,D:\clones\CNTK\Examples\Image\DataSets\CIFAR-10\CIFAR-10_mean.xml,0,0.0,12.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\DataSets\CIFAR-10\README.md,9,0.0,12.0
+CNTK,Bourne Shell,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\path.sh,6,4.0,12.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTK\BrainScript\BrainScriptEvaluator.h,8,5.0,12.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\DataParallelDistributedLearner.h,4,8.0,12.0
+CNTK,C++,D:\clones\CNTK\Source\Common\Globals.cpp,5,5.0,12.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\Helpers.h,3,8.0,12.0
+CNTK,C++,D:\clones\CNTK\Source\PerformanceProfilerDll\dllmain.cpp,2,8.0,12.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\CNTKBinaryReader\CNTKBinaryReader.h,7,7.0,12.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\MemoryProvider.h,8,11.0,12.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ReaderLib\ReaderConstants.h,11,4.0,12.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\ModuleTests\run-test,4,1.0,12.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\CNTK_207_Training_with_Sampled_Softmax_test.py,4,4.0,12.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Text\Miscellaneous\SLU\run-test,5,0.0,12.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\Parallel1BitQuantization\run-test,3,1.0,12.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\ParallelBufferedAsyncGradientAggregation\run-test,3,1.0,12.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\ParallelNoQuantization\run-test,3,1.0,12.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\ParallelNoQuantizationBufferedAsyncGradientAggregation\run-test,3,1.0,12.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\PlotDNN\testcases.yml,2,0.0,12.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\UnitTests\ManagedEvalTests\testcases.yml,3,1.0,12.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\MathTests\fixtures.h,4,4.0,12.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\NetworkTests\stdafx.h,5,5.0,12.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\ReaderTests\stdafx.h,5,5.0,12.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\V2LibraryTests\stdafx.h,5,8.0,12.0
+CNTK,C#,D:\clones\CNTK\bindings\csharp\CNTKLibraryManagedDll\ShimApiClasses\ParameterShim.cs,1,20.0,12.0
+CNTK,C/C++ Header,D:\clones\CNTK\Examples\Evaluation\UWPImageRecognition\ImageRecognizerLib\pch.h,1,0.0,11.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Classification\GoogLeNet\BN-Inception\BrainScript\README.md,10,0.0,11.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\utils\rpn\cntk_smoothL1_loss.py,7,10.0,11.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\FeatureExtraction\install_data_and_model.py,6,4.0,11.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\Kaldi2Reader\kaldi.h,1,0.0,11.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2CSharp\ExampleTests\LogisticRegressionTest\run-test,4,1.0,11.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\Distribution\testcases.yml,3,1.0,11.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\char_rnn_test.py,5,5.0,11.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Manual\Manual_How_to_create_user_minibatch_sources_test.py,7,5.0,11.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Manual\Manual_How_to_use_learners_test.py,7,5.0,11.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\Parallel1BitQuantizationWithAutoMBScaling\run-test,3,1.0,11.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\ParallelBM\run-test,3,1.0,11.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\ParallelCrossValidation\run-test,3,1.0,11.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\DNN\ParallelBMWithAdjustLR\run-test,3,1.0,11.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Text\SequenceClassification\run-test,3,2.0,11.0
+CNTK,C#,D:\clones\CNTK\bindings\csharp\CNTKLibraryManagedDll\ShimApiClasses\StreamConfigurationShim.cs,0,15.0,11.0
+CNTK,C++,D:\clones\CNTK\Examples\Extensibility\CPPLib\CPPExtensibilityExamplesLibrary.cpp,2,0.0,10.0
+CNTK,C++,D:\clones\CNTK\Examples\Extensibility\ProposalLayer\ProposalLayerLib\ProposalLayerLib.cpp,2,0.0,10.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Classification\VGG\BrainScript\README.md,9,0.0,10.0
+CNTK,Markdown,D:\clones\CNTK\Examples\README.md,2,0.0,10.0
+CNTK,Markdown,D:\clones\CNTK\Examples\SequenceToSequence\CMUDict\Data\ThirdPartyNotice.md,9,0.0,10.0
+CNTK,Perl,D:\clones\CNTK\Examples\Speech\Miscellaneous\TIMIT\lib\mlf\make_mlf_cntk.pl,2,1.0,10.0
+CNTK,XML,D:\clones\CNTK\Source\DelayLoadedExtensionsDll\DelayLoadedExtensionsDll.vcxproj.filters,0,0.0,10.0
+CNTK,C++,D:\clones\CNTK\Source\Extensibility\BinaryConvolutionLib\BinaryConvolutionLib.cpp,3,5.0,10.0
+CNTK,C++,D:\clones\CNTK\Source\Math\CPURNGHandle.cpp,4,6.0,10.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\GPUWatcher.h,3,4.0,10.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\CNTKTextFormatReader\CNTKTextFormatReader.h,5,8.0,10.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2CSharp\ExampleTests\CifarResNetClassifierTest\testcases.yml,3,0.0,10.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2CSharp\ExampleTests\LogisticRegressionTest\testcases.yml,3,5.0,10.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2CSharp\ExampleTests\TransferLearningTest\testcases.yml,3,0.0,10.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\testcases.yml,3,1.0,10.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Keras\testcases.yml,3,2.0,10.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\ModuleTests\testcases.yml,3,1.0,10.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Sphinx\testcases.yml,3,1.0,10.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\run-test,4,0.0,10.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\testcases.yml,3,1.0,10.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCSEvalExamplesTest\testcases.yml,3,0.0,10.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\ConvNet_MNIST\run-test-common,4,0.0,10.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\MLP_MNIST\run-test-common,4,0.0,10.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Deprecated\CIFAR-10\03_ResNet\ProjWeightsGen.py,2,0.0,10.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\GettingStarted\run-test-common,4,0.0,10.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\ScriptTest\testcases.yml,3,0.0,10.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\QuickE2E\run-test,2,2.0,10.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\Simple\run-test,2,2.0,10.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\TestDriverTest\testcases.yml,3,0.0,10.0
+CNTK,CMake,D:\clones\CNTK\Tools\cmake\options.cmake,3,1.0,10.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\tests\device_test.py,6,7.0,10.0
+CNTK,Bourne Shell,D:\clones\CNTK\Examples\Speech\Miscellaneous\TIMIT\AdditionalFiles\TrainSimpleTimit.sh,8,0.0,9.0
+CNTK,Python,D:\clones\CNTK\Examples\Video\DataSets\UCF11\install_ucf11.py,2,4.0,9.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\stdafx.h,3,5.0,9.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\EnvironmentUtil.h,5,10.0,9.0
+CNTK,C++,D:\clones\CNTK\Source\Math\DataTransferer.cpp,4,4.0,9.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\CNTKTextFormatReader\Descriptors.h,5,8.0,9.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\HTKDeserializers\stdafx.h,4,10.0,9.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ImageReader\stdafx.h,3,9.0,9.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\CifarResNet\testcases.yml,3,0.0,9.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\LSTMSequenceClassifier\testcases.yml,3,0.0,9.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\MNISTClassifier\testcases.yml,3,0.0,9.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\SequenceToSequenceTranslator\testcases.yml,3,0.0,9.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Library\TruncatedLSTMAcousticModel\testcases.yml,2,0.0,9.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCPPEvalExamplesTest\testcases.yml,3,0.0,9.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCPPUWPEvalExamplesTests\testcases.yml,4,6.0,9.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CPPEvalClientTest\testcases.yml,3,1.0,9.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CPPEvalExtendedClientTest\testcases.yml,23,61.0,9.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\JavaEvalTest\testcases.yml,2,0.0,9.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\AN4\LSTM\testcases.yml,3,0.0,9.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\ModelExport\Model1\testcases.yml,2,0.0,9.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\ScriptTest\run-test,6,0.0,9.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\UnitTests\V2LibraryCSTests\run-test,6,0.0,9.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\MathTests\constants.h,2,4.0,9.0
+CNTK,Markdown,D:\clones\CNTK\Tutorials\HelloWorld-LogisticRegression\README.md,5,0.0,9.0
+CNTK,DOS Batch,D:\clones\CNTK\bindings\java\Swig\generate-java-bindings.cmd,5,0.0,9.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\debugging\profiler.py,12,22.0,9.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\DataSets\MNIST\README.md,6,0.0,8.0
+CNTK,Bourne Shell,D:\clones\CNTK\Examples\Speech\Miscellaneous\AMI\path_cntk.sh,2,3.0,8.0
+CNTK,C++,D:\clones\CNTK\Source\Common\Sequences.cpp,4,5.0,8.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\HTKDeserializers\dllmain.cpp,1,6.0,8.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\SGDLib\stdafx.h,4,9.0,8.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\BatchNormalization\Spatial\CNTK\run-test,6,1.0,8.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\Downloads\testcases.yml,3,0.0,8.0
+CNTK,CMake,D:\clones\CNTK\Tools\cmake\debug.cmake,2,1.0,8.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\adapter\baseadapter.py,5,11.0,8.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\agent\shared\cntk_utils.py,7,9.0,8.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\layers\tests\models_tests.py,7,4.0,8.0
+CNTK,reStructuredText,D:\clones\CNTK\bindings\python\doc\manuals.rst,8,6.0,8.0
+CNTK,CMake,D:\clones\CNTK\CMakeLists.txt,4,0.0,7.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\CNTKLibraryCPPEvalGPUExamples\packages.config,0,0.0,7.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\CNTKLibraryCSEvalGPUExamples\packages.config,0,0.0,7.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Classification\AlexNet\Python\README.md,6,0.0,7.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\DataSets\Animals\README.md,5,0.0,7.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\DataSets\Flowers\README.md,5,0.0,7.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\DataSets\Grocery\README.md,5,0.0,7.0
+CNTK,XML,D:\clones\CNTK\Examples\TrainingCSharp\CSTrainingGPUExamples\packages.config,0,0.0,7.0
+CNTK,Markdown,D:\clones\CNTK\PretrainedModels\README.md,6,0.0,7.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\patch\onnxruntime\core\common\logging\ostream_sink.cc,8,18.0,7.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\BatchNormalization\NonSpatial\run-test-common,3,0.0,7.0
+CNTK,XAML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCPPUWPEvalExamplesTests\UnitTestApp.xaml,1,0.0,7.0
+CNTK,XAML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\UWPImageRecognitionTest\ImageRecognitionAppCS\App.xaml,1,0.0,7.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Deprecated\MNIST\run-test-common,3,0.0,7.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\CrossValidateSimpleNetwork\run-test,6,4.0,7.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\EvalSimpleNetwork\run-test,6,4.0,7.0
+CNTK,reStructuredText,D:\clones\CNTK\bindings\python\doc\setup.rst,3,0.0,7.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\CNTKLibraryCPPEvalCPUOnlyExamples\packages.config,0,0.0,6.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\CNTKLibraryCSEvalCPUOnlyExamples\packages.config,0,0.0,6.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\CSEvalClient\App.config,0,0.0,6.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\EvalDll_AzureTutorial\EvalDll_AzureTutorial\Web.Release.config,4,21.0,6.0
+CNTK,Markdown,D:\clones\CNTK\Examples\Image\Classification\AlexNet\BrainScript\README.md,5,0.0,6.0
+CNTK,XML,D:\clones\CNTK\Examples\TrainingCSharp\CSTrainingCPUOnlyExamples\packages.config,0,0.0,6.0
+CNTK,XML,D:\clones\CNTK\Examples\TrainingCSharp\CSTrainingGPUExamples\App.config,0,0.0,6.0
+CNTK,Markdown,D:\clones\CNTK\LICENSE.md,4,0.0,6.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\Constants.h,4,4.0,6.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\ComputationNetworkLib\stdafx.h,4,9.0,6.0
+CNTK,C++,D:\clones\CNTK\Source\Math\CPUMatrixDouble.cpp,2,5.0,6.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\BatchNormalization\Spatial\CuDNN\run-test,4,1.0,6.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\test_decorators.py,3,4.0,6.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Manual\run-test,3,0.0,6.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\__init__.py,0,0.0,6.0
+CNTK,XML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCSEvalExamplesTest\App.config,0,0.0,6.0
+CNTK,XML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CSEvalClientTest\App.config,0,0.0,6.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Deprecated\CIFAR-10\01_Convolution\run-test,4,2.0,6.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Deprecated\CIFAR-10\02_BatchNormConv\run-test,4,2.0,6.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Deprecated\CIFAR-10\03_ResNet\run-test,4,3.0,6.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Deprecated\CIFAR-10\04_ResNet_56\run-test,4,3.0,6.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Deprecated\CIFAR-10\05_ConvLocal\run-test,4,2.0,6.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Regression\RegrSimple\run-test,4,2.0,6.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\DNN\DiscriminativePreTraining\run-test,4,1.0,6.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\LSTM\Truncated\run-test,4,1.0,6.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\SVD\run-test,4,1.0,6.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\AdaptLearnRate\run-test,5,2.0,6.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\TrainAutoEncoder\run-test,5,2.0,6.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\TrainLstm\run-test,5,3.0,6.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\TrainMultiInput\run-test,5,2.0,6.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\TrainMultiTask\run-test,5,2.0,6.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\TrainNdlNetwork\run-test,5,2.0,6.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\TrainSimpleNetwork\run-test,5,2.0,6.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\TIMIT\TrainWithPreTrain\run-test,5,2.0,6.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\LSTM_CTC_MLF\run-test,2,1.0,6.0
+CNTK,YAML,D:\clones\CNTK\Tests\EndToEndTests\TestDriverTest\EmptyTest\testcases.yml,2,2.0,6.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\layers\__init__.py,3,8.0,6.0
+CNTK,INI,D:\clones\CNTK\bindings\python\cntk\pytest.ini,0,0.0,6.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\CPPEvalClient\packages.config,0,0.0,5.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\CPPEvalExtendedClient\packages.config,0,0.0,5.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\CSEvalClient\packages.config,0,0.0,5.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\EvalDll_AzureTutorial\EvalDll_AzureTutorial\Web.Debug.config,4,21.0,5.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\UWPImageRecognition\App\Properties\Default.rd.xml,9,17.0,5.0
+CNTK,Python,D:\clones\CNTK\Examples\Text\LightRNN\PTB\Allocation\generate.py,1,0.0,5.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ImageReader\dllmain.cpp,1,6.0,5.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\BatchNormalization\NonSpatial\CNTK\run-test,4,0.0,5.0
+CNTK,XML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCPPUWPEvalExamplesTests\UnitTestApp.rd.xml,8,17.0,5.0
+CNTK,XML,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\UWPImageRecognitionTest\ImageRecognitionAppCS\Properties\Default.rd.xml,9,17.0,5.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\CrossValidateSimpleNetwork\run-test,4,3.0,5.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\EvalSimpleNetwork\run-test,4,3.0,5.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\UnitTests\ManagedEvalTests\run-test,4,0.0,5.0
+CNTK,Bourne Shell,D:\clones\CNTK\Tests\Install\linux\visudo-helper.sh,0,1.0,5.0
+CNTK,Markdown,D:\clones\CNTK\Tutorials\ImageHandsOn\README.md,4,0.0,5.0
+CNTK,Markdown,D:\clones\CNTK\Tutorials\SLUHandsOn\README.md,5,0.0,5.0
+CNTK,reStructuredText,D:\clones\CNTK\bindings\python\doc\readersprofetc.rst,3,0.0,5.0
+CNTK,Markdown,D:\clones\CNTK\CONTRIBUTING.md,3,0.0,4.0
+CNTK,XML,D:\clones\CNTK\Examples\Evaluation\UWPImageRecognition\ImageRecognizerLib\packages.config,0,0.0,4.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\CNTK.pb.cc.VS_wrapper.cpp,1,4.0,4.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\onnx-ml.pb.cc.VS_wrapper.cpp,1,4.0,4.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\onnx-operators-ml.pb.cc.VS_wrapper.cpp,1,4.0,4.0
+CNTK,C++,D:\clones\CNTK\Source\CNTKv2LibraryDll\tensorboard\tensorboard.pb.cc.VS_wrapper.cpp,1,4.0,4.0
+CNTK,C++,D:\clones\CNTK\Source\Extensibility\EvalWrapper\EvalWrapperAssemblyInfo.cpp,3,12.0,4.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Math\targetver.h,3,7.0,4.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\ImageReader\targetver.h,3,7.0,4.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\LMSequenceReader\targetver.h,2,3.0,4.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Readers\UCIFastReader\targetver.h,3,3.0,4.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCPPUWPEvalExamplesTests\pch.h,3,4.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\GooLeNet_ImageNet\BN_Inception\run-test,3,0.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\GooLeNet_ImageNet\InceptionV3\run-test,3,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\ResNet_ImageNet\ResNet101_ImageNet\run-test,3,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\ResNet_ImageNet\ResNet152_ImageNet\run-test,3,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\ResNet_ImageNet\ResNet18_ImageNet\run-test,3,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\ResNet_ImageNet\ResNet34_ImageNet\run-test,3,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\ResNet_ImageNet\ResNet50_ImageNet\run-test,3,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\VGG_ImageNet\VGG16_ImageNet\run-test,3,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\VGG_ImageNet\VGG19_ImageNet\run-test,3,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\AN4\FeedForward\run-test,4,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\AN4\LSTM\run-test,4,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\AdaptLearnRate\run-test,3,2.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\TrainAutoEncoder\run-test,3,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\TrainLstm\run-test,3,2.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\TrainMultiInput\run-test,3,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\TrainMultiTask\run-test,3,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\TrainNdlNetwork\run-test,3,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\TrainSimpleNetwork\run-test,3,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Speech\TIMIT\TrainWithPreTrain\run-test,3,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Text\G2P\run-test,3,3.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Text\PennTreebank\RNN\run-test,3,3.0,4.0
+CNTK,Markdown,D:\clones\CNTK\Tests\EndToEndTests\README.md,3,0.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Simple2d\MultiGpu\run-test,4,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Simple2d\OneHidden\run-test,4,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\LSTM\FullUtterance\run-test,4,8.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\HTKDeserializers\LSTM\FullUtteranceBinaryMLF\run-test,3,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\LSTM\FullUtterance\run-test,3,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\LSTM\FullUtteranceCuDNN5\run-test,3,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\LSTM\FullUtteranceLayers\run-test,3,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\LSTM\Truncated-Kaldi\run-test,3,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\LSTM\Truncated\run-test,3,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\LSTM\TruncatedLayers\run-test,4,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\TestDriverTest\run-test,3,1.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\UnitTests\BrainScriptTests\run-test,2,0.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\UnitTests\EvalTests\run-test,2,0.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\UnitTests\MathTests\run-test,2,0.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\UnitTests\MultiversoTests\run-test,2,0.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\UnitTests\NetworkTests\run-test,2,0.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\UnitTests\ReaderTests\run-test,2,0.0,4.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\BrainScriptTests\stdafx.cpp,2,6.0,4.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\FileTest\stdafx.h,4,9.0,4.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\MathPerformanceTests\stdafx.h,4,9.0,4.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\NetworkTests\stdafx.cpp,1,7.0,4.0
+CNTK,Markdown,D:\clones\CNTK\Tools\devInstall\Windows\README.md,6,0.0,4.0
+CNTK,Markdown,D:\clones\CNTK\Tools\docker\README.md,2,0.0,4.0
+CNTK,Markdown,D:\clones\CNTK\Tutorials\FunctionalAPI\README.md,2,0.0,4.0
+CNTK,Bourne Shell,D:\clones\CNTK\bindings\java\Swig\maven-deploy.sh,0,0.0,4.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\adapter\__init__.py,2,5.0,4.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\BatchNormalization\NonSpatial\CuDNN\run-test,2,0.0,3.0
+CNTK,INI,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Examples\pytest.ini,0,0.0,3.0
+CNTK,Python,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\nb_helper.py,2,4.0,3.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\AlexNet_ImageNet\AlexNet_ImageNet\run-test,2,1.0,3.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\ConvNet_CIFAR\ConvNetLRN_CIFAR10_DataAug\run-test,2,1.0,3.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\ConvNet_CIFAR\ConvNet_CIFAR10\run-test,2,0.0,3.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\ConvNet_CIFAR\ConvNet_CIFAR10_DataAug\run-test,2,0.0,3.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\ConvNet_MNIST\ConvNet_MNIST\run-test,2,0.0,3.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\MLP_MNIST\MLP_MNIST\run-test,2,0.0,3.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\ResNet_CIFAR\ResNet110_CIFAR10\run-test,2,0.0,3.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Classification\ResNet_CIFAR\ResNet20_CIFAR10\run-test,2,0.0,3.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Deprecated\MNIST\01_OneHidden_ndl\run-test,2,0.0,3.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Deprecated\MNIST\02_Convolution_ndl\run-test,2,0.0,3.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\Deprecated\MNIST\03_ConvBatchNorm_ndl\run-test,2,0.0,3.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\GettingStarted\01_OneHidden\run-test,2,0.0,3.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\GettingStarted\02_OneConv\run-test,2,0.0,3.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\GettingStarted\03_OneConvDropout\run-test,2,0.0,3.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\GettingStarted\04_OneConvBN\run-test,2,0.0,3.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\GettingStarted\05_OneConvRegr\run-test,2,0.0,3.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\GettingStarted\06_OneConvRegrMultiNode\run-test,2,0.0,3.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\GettingStarted\07_Deconvolution\run-test,2,0.0,3.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Image\run-test-common,2,0.0,3.0
+CNTK,Bourne Shell,D:\clones\CNTK\Tests\EndToEndTests\Examples\Text\Miscellaneous\SLU\Config\score.sh,5,4.0,3.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\DNN\DiscriminativePreTraining\run-test,2,1.0,3.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Speech\SVD\run-test,2,1.0,3.0
+CNTK,Bourne Again Shell,D:\clones\CNTK\Tests\EndToEndTests\Text\SLU\run-test,2,0.0,3.0
+CNTK,Dockerfile,D:\clones\CNTK\Tests\Install\windows\Dockerfile,2,1.0,3.0
+CNTK,Markdown,D:\clones\CNTK\Tests\README.md,2,0.0,3.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathTests\stdafx.cpp,0,6.0,3.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\ReaderTests\stdafx.cpp,0,6.0,3.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\V2LibraryTests\stdafx.cpp,2,6.0,3.0
+CNTK,Markdown,D:\clones\CNTK\Tools\README.md,4,0.0,3.0
+CNTK,Markdown,D:\clones\CNTK\Tools\devInstall\Linux\README.md,1,0.0,3.0
+CNTK,C#,D:\clones\CNTK\bindings\csharp\CNTKLibraryManagedDll\CNTKLibraryManagedDll-CPUOnly-AssemblyInfo.cs,2,12.0,3.0
+CNTK,C#,D:\clones\CNTK\bindings\csharp\CNTKLibraryManagedDll\CNTKLibraryManagedDll-GPU-AssemblyInfo.cs,2,12.0,3.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\__init__.py,5,8.0,3.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\train\__init__.py,1,7.0,3.0
+CNTK,Markdown,D:\clones\CNTK\bindings\python\setup_py_long_description.md,2,0.0,3.0
+CNTK,Bourne Shell,D:\clones\CNTK\bindings\python\swig_install.sh,0,0.0,3.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\fastRCNN\__init__.py,1,6.0,2.0
+CNTK,INI,D:\clones\CNTK\Scripts\pytest.ini,0,0.0,2.0
+CNTK,INI,D:\clones\CNTK\Tests\EndToEndTests\CNTKv2Python\Tutorials\pytest.ini,0,0.0,2.0
+CNTK,Markdown,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CPPEvalClientTest\README.md,0,0.0,2.0
+CNTK,Markdown,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CPPEvalExtendedClientTest\README.md,0,0.0,2.0
+CNTK,Markdown,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CSEvalClientTest\README.md,0,0.0,2.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\EvalTests\stdafx.cpp,3,5.0,2.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\EvalTests\targetver.h,3,3.0,2.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\NetworkTests\targetver.h,3,7.0,2.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\ReaderTests\targetver.h,3,7.0,2.0
+CNTK,C/C++ Header,D:\clones\CNTK\Tests\UnitTests\V2LibraryTests\targetver.h,4,7.0,2.0
+CNTK,Markdown,D:\clones\CNTK\Tutorials\NumpyInterop\README.md,1,0.0,2.0
+CNTK,Markdown,D:\clones\CNTK\bindings\python\README.md,1,0.0,2.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\misc\__init__.py,0,7.0,2.0
+CNTK,INI,D:\clones\CNTK\bindings\python\doc\pytest.ini,0,0.0,2.0
+CNTK,ASP.NET,D:\clones\CNTK\Examples\Evaluation\CNTKAzureTutorial01\CNTKAzureTutorial01\Global.asax,0,0.0,1.0
+CNTK,ASP.NET,D:\clones\CNTK\Examples\Evaluation\LegacyEvalDll\EvalDll_AzureTutorial\EvalDll_AzureTutorial\Global.asax,0,0.0,1.0
+CNTK,C++,D:\clones\CNTK\Examples\Evaluation\UWPImageRecognition\ImageRecognizerLib\pch.cpp,0,0.0,1.0
+CNTK,Python,D:\clones\CNTK\Examples\Image\Detection\FastRCNN\BrainScript\selectivesearch\__init__.py,1,0.0,1.0
+CNTK,Python,D:\clones\CNTK\Examples\ReinforcementLearning\FlappingBirdWithKeras\__init__.py,1,9.0,1.0
+CNTK,C++,D:\clones\CNTK\Source\CNTK\stdafx.cpp,1,8.0,1.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\onnx-ml.pb.h,0,0.0,1.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\onnx-operators-ml.pb.h,0,0.0,1.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\CNTKv2LibraryDll\proto\onnx\patch\onnxruntime\platform_specifics\windows\onnxruntime_config.h,3,9.0,1.0
+CNTK,C/C++ Header,D:\clones\CNTK\Source\Common\Include\stdafx.h,1,4.0,1.0
+CNTK,C++,D:\clones\CNTK\Source\Math\stdafx.cpp,2,10.0,1.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\CompositeDataReader\stdafx.cpp,2,9.0,1.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\HTKDeserializers\stdafx.cpp,2,10.0,1.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\ImageReader\stdafx.cpp,2,10.0,1.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\Kaldi2Reader\stdafx.cpp,2,10.0,1.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\LibSVMBinaryReader\stdafx.cpp,2,5.0,1.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\SparsePCReader\stdafx.cpp,2,5.0,1.0
+CNTK,C++,D:\clones\CNTK\Source\Readers\UCIFastReader\stdafx.cpp,2,5.0,1.0
+CNTK,C++,D:\clones\CNTK\Source\SGDLib\stdafx.cpp,2,10.0,1.0
+CNTK,C++,D:\clones\CNTK\Tests\EndToEndTests\EvalClientTests\CNTKLibraryCPPUWPEvalExamplesTests\pch.cpp,1,4.0,1.0
+CNTK,Markdown,D:\clones\CNTK\Tests\EndToEndTests\Speech\LSTM_CTC\README.md,1,0.0,1.0
+CNTK,Markdown,D:\clones\CNTK\Tests\Install\windows\InstallCache\README.md,0,0.0,1.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\CommandEval\stdafx.cpp,2,5.0,1.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\FileTest\stdafx.cpp,2,10.0,1.0
+CNTK,C++,D:\clones\CNTK\Tests\UnitTests\MathPerformanceTests\stdafx.cpp,2,10.0,1.0
+CNTK,Markdown,D:\clones\CNTK\bindings\java\Swig\README.md,0,0.0,1.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\__init__.py,2,4.0,1.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\eval\__init__.py,4,7.0,1.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\layers\models\__init__.py,2,8.0,1.0
+CNTK,Python,D:\clones\CNTK\Examples\ReinforcementLearning\FlappingBirdWithKeras\game\__init__.py,1,8.0,0.0
+CNTK,Python,D:\clones\CNTK\Examples\Speech\Miscellaneous\EndToEnd.py,1,6.0,0.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\adapter\bvlccaffe\__init__.py,0,5.0,0.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\utils\__init__.py,0,5.0,0.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\crosstalkcaffe\validation\__init__.py,1,5.0,0.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\deeprl\agent\shared\__init__.py,1,0.0,0.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\contrib\netopt\test\__init__.py,1,7.0,0.0
+CNTK,Python,D:\clones\CNTK\bindings\python\cntk\train\tests\__init__.py,1,4.0,0.0

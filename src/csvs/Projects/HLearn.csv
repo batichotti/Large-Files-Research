@@ -1,0 +1,67 @@
+project,language,filename,blank,comment,code
+HLearn,CSV,D:\clones\HLearn\test\allknn-verify\dataset-10000x2.csv,0,0.0,10000.0
+HLearn,CSV,D:\clones\HLearn\test\allknn-verify\dataset-10000x20.csv,0,0.0,10000.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Data\SpaceTree\CoverTree.hs,149,224.0,819.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Data\SpaceTree\CoverTree_Specialized.hs,142,193.0,813.0
+HLearn,C++,D:\clones\HLearn\bench\allknn\cover_tree\cover_tree.cc,77,15.0,673.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Optimization\Univariate.hs,95,146.0,562.0
+HLearn,Haskell,D:\clones\HLearn\executables\hlearn-allknn\Main.hs,120,96.0,400.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\History.hs,111,109.0,369.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Optimization\Multivariate.hs,94,130.0,365.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Data\Graph.hs,73,83.0,201.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Data\SpaceTree.hs,42,49.0,199.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Data\Image.hs,49,18.0,168.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Data\LoadData.hs,55,129.0,167.0
+HLearn,C++,D:\clones\HLearn\bench\allknn\cover_tree\test_nn.cc,18,53.0,155.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Data\SpaceTree\Algorithms\NearestNeighbor.Old.hs,50,18.0,134.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Classifiers\Linear.hs,31,26.0,125.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Evaluation\CrossValidation.hs,23,34.0,93.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Evaluation\CrossValidationHom.hs,29,19.0,93.0
+HLearn,C++,D:\clones\HLearn\bench\allknn\cover_tree\point.cc,14,68.0,86.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Data\SpaceTree\Algorithms_Specialized.hs,22,19.0,84.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Optimization\StochasticGradientDescent.hs,18,12.0,84.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Data\SpaceTree\Algorithms\NearestNeighbor.hs,23,35.0,81.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Data\SpaceTree\Algorithms.hs,21,17.0,80.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Optimization\Amoeba.hs,19,22.0,80.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Optimization\Conic.hs,19,14.0,78.0
+HLearn,Java,D:\clones\HLearn\bench\allknn\AllKnn.java,12,16.0,73.0
+HLearn,Markdown,D:\clones\HLearn\README.md,17,0.0,69.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Data\SpaceTree\Algorithms\KernelDensityEstimation.hs,23,7.0,69.0
+HLearn,Bourne Shell,D:\clones\HLearn\install\ubuntu-precise-extras.sh,12,12.0,61.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Models\Distributions.hs,39,33.0,55.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Data\SpaceTree\Algorithms\RangeSearch.hs,20,58.0,51.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Data\SpaceTree\Algorithms\Correlation.hs,17,4.0,50.0
+HLearn,Bourne Shell,D:\clones\HLearn\bench\allknn\runtest.sh,22,36.0,49.0
+HLearn,Bourne Shell,D:\clones\HLearn\install\ubuntu-precise.sh,13,12.0,41.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Optimization\StepSize\AlmeidaLanglois.hs,9,26.0,36.0
+HLearn,R,D:\clones\HLearn\bench\allknn\allknn.R,13,11.0,35.0
+HLearn,C/C++ Header,D:\clones\HLearn\bench\allknn\cover_tree\stack.h,5,0.0,32.0
+HLearn,Haskell,D:\clones\HLearn\test\BashTests.hs,4,9.0,32.0
+HLearn,Haskell,D:\clones\HLearn\test\QuickCheck.hs,6,1.0,30.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Optimization\StepSize\Linear.hs,9,17.0,28.0
+HLearn,C/C++ Header,D:\clones\HLearn\bench\allknn\cover_tree\cover_tree.h,3,5.0,27.0
+HLearn,Haskell,D:\clones\HLearn\examples\example0001-optimization-univariate.hs,13,2.0,27.0
+HLearn,Haskell,D:\clones\HLearn\examples\example0003-classification.hs,9,6.0,27.0
+HLearn,Haskell,D:\clones\HLearn\examples\example0002-optimization-multivariate.hs,9,1.0,25.0
+HLearn,C++,D:\clones\HLearn\bench\allknn\cover_tree\knn.cc,8,11.0,24.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\History\Timing.hs,6,3.0,24.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Optimization\StepSize\Const.hs,9,1.0,20.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Optimization\TestFunctions.hs,14,38.0,19.0
+HLearn,Markdown,D:\clones\HLearn\bench\allknn\README.md,5,0.0,17.0
+HLearn,C,D:\clones\HLearn\cbits\emd.c,7,15.0,17.0
+HLearn,YAML,D:\clones\HLearn\.travis.yml,5,11.0,16.0
+HLearn,Python,D:\clones\HLearn\bench\allknn\allknn.flann,4,0.0,15.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Data\SpaceTree\CoverTree\Unsafe.hs,6,4.0,15.0
+HLearn,Bourne Shell,D:\clones\HLearn\test\allknn-mlpack\runtest.sh,5,0.0,15.0
+HLearn,make,D:\clones\HLearn\bench\allknn\cover_tree\Makefile,6,0.0,12.0
+HLearn,Bourne Shell,D:\clones\HLearn\test\allknn-verify\runtest.sh,5,0.0,12.0
+HLearn,Haskell,D:\clones\HLearn\bench\allknn\time2sec.hs,4,0.0,11.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Optimization\StepSize.hs,4,7.0,11.0
+HLearn,YAML,D:\clones\HLearn\stack.yaml,0,0.0,10.0
+HLearn,C/C++ Header,D:\clones\HLearn\bench\allknn\cover_tree\point.h,3,0.0,9.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Data\SpaceTree\Diagrams.hs,16,64.0,9.0
+HLearn,Python,D:\clones\HLearn\bench\allknn\allknn.scikit,4,0.0,8.0
+HLearn,Haskell,D:\clones\HLearn\src\HLearn\Evaluation\CrossValidationData.hs,3,0.0,8.0
+HLearn,Markdown,D:\clones\HLearn\install\README.md,1,0.0,7.0
+HLearn,Markdown,D:\clones\HLearn\executables\README.md,1,0.0,4.0
+HLearn,Haskell,D:\clones\HLearn\Setup.hs,0,0.0,2.0

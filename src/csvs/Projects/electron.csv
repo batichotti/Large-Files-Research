@@ -1,0 +1,2039 @@
+project,language,filename,blank,comment,code
+electron,TypeScript,D:\clones\electron\spec-main\api-browser-window-spec.ts,552,105.0,4394.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_web_contents.cc,552,249.0,3384.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\api\print-to-pdf.html,250,7.0,2125.0
+electron,YAML,D:\clones\electron\.circleci\build_config.yml,220,131.0,2110.0
+electron,diff,D:\clones\electron\patches\node\build_add_gn_build_files.patch,8,52.0,1996.0
+electron,TypeScript,D:\clones\electron\spec-main\api-web-contents-spec.ts,276,45.0,1853.0
+electron,TypeScript,D:\clones\electron\spec-main\api-net-spec.ts,160,24.0,1771.0
+electron,TypeScript,D:\clones\electron\spec-main\chromium-spec.ts,202,35.0,1762.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_app.cc,228,43.0,1612.0
+electron,TypeScript,D:\clones\electron\spec-main\api-app-spec.ts,288,93.0,1581.0
+electron,C++,D:\clones\electron\shell\browser\electron_browser_client.cc,216,82.0,1542.0
+electron,JavaScript,D:\clones\electron\spec\asar-spec.js,188,8.0,1523.0
+electron,Markdown,D:\clones\electron\docs\api\web-contents.md,620,0.0,1443.0
+electron,Objective-C++,D:\clones\electron\shell\browser\native_window_mac.mm,297,194.0,1392.0
+electron,C++,D:\clones\electron\shell\browser\native_window_views.cc,250,116.0,1339.0
+electron,Markdown,D:\clones\electron\docs\api\browser-window.md,610,0.0,1253.0
+electron,TypeScript,D:\clones\electron\spec-main\api-context-bridge-spec.ts,80,11.0,1159.0
+electron,Markdown,D:\clones\electron\docs\breaking-changes.md,366,0.0,1114.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_session.cc,166,26.0,1099.0
+electron,Markdown,D:\clones\electron\docs\api\app.md,449,0.0,1097.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_base_window.cc,229,34.0,1093.0
+electron,TypeScript,D:\clones\electron\spec-main\api-session-spec.ts,122,14.0,1053.0
+electron,JavaScript,D:\clones\electron\spec\webview-spec.js,202,30.0,1036.0
+electron,TypeScript,D:\clones\electron\spec\ts-smoke\electron\main.ts,163,98.0,960.0
+electron,TypeScript,D:\clones\electron\spec-main\api-protocol-spec.ts,104,23.0,925.0
+electron,C++,D:\clones\electron\shell\browser\ui\inspectable_web_contents.cc,153,31.0,894.0
+electron,C++,D:\clones\electron\shell\browser\osr\osr_render_widget_host_view.cc,188,22.0,865.0
+electron,TypeScript,D:\clones\electron\spec-main\api-menu-spec.ts,97,9.0,833.0
+electron,Markdown,D:\clones\electron\docs\api\session.md,309,0.0,785.0
+electron,diff,D:\clones\electron\patches\node\reland_macos_use_posix_spawn_instead_of_fork_3257.patch,41,79.0,769.0
+electron,C++,D:\clones\electron\shell\renderer\api\electron_api_web_frame.cc,134,43.0,757.0
+electron,Objective-C++,D:\clones\electron\shell\browser\ui\cocoa\electron_touch_bar.mm,131,5.0,751.0
+electron,Markdown,D:\clones\electron\docs\api\webview-tag.md,366,0.0,733.0
+electron,TypeScript,D:\clones\electron\spec-main\webview-spec.ts,93,20.0,720.0
+electron,TypeScript,D:\clones\electron\lib\asar\fs-wrapper.ts,145,28.0,681.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\web-contents.ts,87,77.0,680.0
+electron,C++,D:\clones\electron\shell\browser\net\proxying_url_loader_factory.cc,130,141.0,671.0
+electron,diff,D:\clones\electron\patches\squirrel.mac\build_add_gn_config.patch,36,97.0,647.0
+electron,C++,D:\clones\electron\shell\browser\notifications\win\win32_desktop_notifications\toast.cc,173,49.0,645.0
+electron,C++,D:\clones\electron\shell\browser\browser_win.cc,121,97.0,640.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_web_contents.h,118,86.0,638.0
+electron,TypeScript,D:\clones\electron\spec-main\extensions-spec.ts,86,11.0,601.0
+electron,C++,D:\clones\electron\shell\renderer\api\electron_api_context_bridge.cc,93,40.0,599.0
+electron,Markdown,D:\clones\electron\docs\tutorial\security.md,181,0.0,589.0
+electron,Objective-C++,D:\clones\electron\shell\browser\api\electron_api_system_preferences_mac.mm,64,6.0,585.0
+electron,C++,D:\clones\electron\shell\browser\native_window.cc,138,27.0,580.0
+electron,TypeScript,D:\clones\electron\spec-main\api-crash-reporter-spec.ts,58,15.0,544.0
+electron,TypeScript,D:\clones\electron\spec-main\api-autoupdater-darwin-spec.ts,39,4.0,543.0
+electron,C++,D:\clones\electron\shell\common\gin_converters\blink_converter.cc,55,16.0,532.0
+electron,C++,D:\clones\electron\shell\common\api\electron_api_native_image.cc,95,27.0,531.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_url_loader.cc,63,33.0,523.0
+electron,TypeScript,D:\clones\electron\spec-main\api-ipc-spec.ts,48,2.0,512.0
+electron,C++,D:\clones\electron\shell\browser\net\electron_url_loader_factory.cc,74,59.0,504.0
+electron,JavaScript,D:\clones\electron\spec\api-native-image-spec.js,111,21.0,500.0
+electron,C++,D:\clones\electron\shell\renderer\renderer_client_base.cc,86,44.0,486.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_browser_window.cc,99,63.0,470.0
+electron,C++,D:\clones\electron\shell\browser\notifications\win\windows_toast_notification.cc,126,44.0,470.0
+electron,C++,D:\clones\electron\shell\common\node_bindings.cc,117,119.0,462.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_web_request.cc,69,32.0,454.0
+electron,JavaScript,D:\clones\electron\script\release\notes\notes.js,105,75.0,453.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\net.ts,67,35.0,451.0
+electron,JSON,D:\clones\electron\shell\common\extensions\api\tabs.json,0,0.0,449.0
+electron,Markdown,D:\clones\electron\docs\tutorial\ipc.md,125,0.0,446.0
+electron,JavaScript,D:\clones\electron\spec\chromium-spec.js,52,30.0,442.0
+electron,diff,D:\clones\electron\patches\chromium\feat_enable_offscreen_rendering_with_viz_compositor.patch,35,208.0,440.0
+electron,TypeScript,D:\clones\electron\spec-main\api-menu-item-spec.ts,72,4.0,440.0
+electron,C++,D:\clones\electron\shell\browser\file_select_helper.cc,80,61.0,435.0
+electron,C++,D:\clones\electron\shell\browser\web_contents_preferences.cc,54,25.0,431.0
+electron,Objective-C++,D:\clones\electron\shell\browser\browser_mac.mm,84,25.0,430.0
+electron,diff,D:\clones\electron\patches\node\fix_crypto_tests_to_run_with_bssl.patch,97,492.0,423.0
+electron,C++,D:\clones\electron\shell\browser\electron_browser_main_parts.cc,90,70.0,420.0
+electron,C++,D:\clones\electron\shell\browser\native_window_views_win.cc,42,70.0,418.0
+electron,Objective-C++,D:\clones\electron\shell\browser\ui\cocoa\electron_menu_controller.mm,74,67.0,417.0
+electron,JavaScript,D:\clones\electron\script\release\release.js,48,5.0,415.0
+electron,C++,D:\clones\electron\shell\browser\ui\views\autofill_popup_view.cc,85,20.0,389.0
+electron,JavaScript,D:\clones\electron\spec-main\video-helpers.js,47,65.0,386.0
+electron,Markdown,D:\clones\electron\docs\tutorial\quick-start.md,126,0.0,382.0
+electron,JavaScript,D:\clones\electron\spec\node-spec.js,63,10.0,378.0
+electron,C++,D:\clones\electron\shell\browser\ui\file_dialog_gtk.cc,71,22.0,375.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_tray.cc,68,6.0,372.0
+electron,C++,D:\clones\electron\shell\browser\net\proxying_websocket.cc,69,17.0,371.0
+electron,C++,D:\clones\electron\shell\common\v8_value_converter.cc,88,62.0,370.0
+electron,Objective-C++,D:\clones\electron\shell\browser\ui\file_dialog_mac.mm,73,33.0,368.0
+electron,C++,D:\clones\electron\shell\browser\extensions\api\tabs\tabs_api.cc,89,48.0,367.0
+electron,C++,D:\clones\electron\shell\app\electron_main_delegate.cc,68,57.0,366.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\touch-bar.ts,90,3.0,364.0
+electron,C++,D:\clones\electron\shell\browser\electron_permission_manager.cc,44,3.0,364.0
+electron,C++,D:\clones\electron\shell\common\platform_util_win.cc,63,31.0,362.0
+electron,diff,D:\clones\electron\patches\chromium\feat_add_data_transfer_to_requestsingleinstancelock.patch,47,194.0,359.0
+electron,C++,D:\clones\electron\shell\browser\ui\views\client_frame_view_linux.cc,85,19.0,359.0
+electron,C++,D:\clones\electron\shell\browser\electron_browser_context.cc,67,13.0,357.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\menu-item-roles.ts,22,8.0,355.0
+electron,TypeScript,D:\clones\electron\spec-main\api-web-request-spec.ts,52,153.0,355.0
+electron,TypeScript,D:\clones\electron\spec-main\api-browser-view-spec.ts,62,3.0,353.0
+electron,C++,D:\clones\electron\shell\common\gin_converters\net_converter.cc,40,20.0,348.0
+electron,diff,D:\clones\electron\patches\chromium\printing.patch,87,412.0,347.0
+electron,C++,D:\clones\electron\shell\browser\ui\webui\accessibility_ui.cc,49,25.0,343.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_cookies.cc,51,11.0,340.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\native_window.h,78,44.0,337.0
+electron,diff,D:\clones\electron\patches\node\feat_add_uv_loop_interrupt_on_io_change_option_to_uv_loop_configure.patch,55,113.0,335.0
+electron,C++,D:\clones\electron\shell\common\asar\archive.cc,70,14.0,335.0
+electron,Markdown,D:\clones\electron\docs\tutorial\performance.md,102,0.0,332.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_web_frame_main.cc,70,12.0,330.0
+electron,JavaScript,D:\clones\electron\script\release\ci-release-build.js,31,5.0,329.0
+electron,Objective-C++,D:\clones\electron\shell\browser\ui\cocoa\electron_bundle_mover.mm,77,55.0,328.0
+electron,Markdown,D:\clones\electron\docs\api\system-preferences.md,146,0.0,323.0
+electron,Markdown,D:\clones\electron\docs\tutorial\automated-testing.md,86,0.0,323.0
+electron,TypeScript,D:\clones\electron\spec-main\node-spec.ts,52,6.0,323.0
+electron,C++,D:\clones\electron\shell\browser\notifications\win\win32_desktop_notifications\desktop_notification_controller.cc,83,31.0,321.0
+electron,C++,D:\clones\electron\shell\common\keyboard_util.cc,12,5.0,319.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\menus\customize-menus\main.js,23,24.0,313.0
+electron,C++,D:\clones\electron\shell\common\platform_util_linux.cc,72,21.0,313.0
+electron,C++,D:\clones\electron\shell\browser\javascript_environment.cc,51,27.0,310.0
+electron,C++,D:\clones\electron\shell\browser\net\asar\asar_url_loader.cc,46,50.0,309.0
+electron,Markdown,D:\clones\electron\docs\api\menu.md,100,0.0,308.0
+electron,Markdown,D:\clones\electron\docs\api\dialog.md,65,0.0,306.0
+electron,C++,D:\clones\electron\shell\browser\extensions\electron_extensions_browser_client.cc,55,16.0,305.0
+electron,C++,D:\clones\electron\shell\browser\hid\hid_chooser_controller.cc,40,22.0,304.0
+electron,TypeScript,D:\clones\electron\script\run-clang-tidy.ts,54,17.0,299.0
+electron,TypeScript,D:\clones\electron\lib\browser\guest-view-manager.ts,64,30.0,297.0
+electron,Objective-C++,D:\clones\electron\shell\browser\ui\tray_icon_cocoa.mm,69,33.0,296.0
+electron,TypeScript,D:\clones\electron\typings\internal-ambient.d.ts,34,7.0,296.0
+electron,JavaScript,D:\clones\electron\script\lint.js,29,20.0,292.0
+electron,C++,D:\clones\electron\shell\browser\ui\gtk\app_indicator_icon.cc,67,23.0,291.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\electron_browser_client.h,38,11.0,290.0
+electron,Python,D:\clones\electron\script\run-clang-format.py,48,22.0,289.0
+electron,TypeScript,D:\clones\electron\spec-main\version-bump-spec.ts,57,8.0,281.0
+electron,Objective-C++,D:\clones\electron\shell\browser\native_browser_view_mac.mm,68,23.0,279.0
+electron,C++,D:\clones\electron\shell\browser\ui\win\jump_list.cc,61,19.0,279.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_protocol.cc,44,22.0,278.0
+electron,Markdown,D:\clones\electron\docs\tutorial\message-ports.md,54,0.0,271.0
+electron,Python,D:\clones\electron\script\release\uploaders\upload.py,62,63.0,270.0
+electron,C++,D:\clones\electron\shell\browser\ui\views\global_menu_bar_x11.cc,55,18.0,270.0
+electron,C++,D:\clones\electron\shell\common\api\electron_bindings.cc,46,21.0,270.0
+electron,Markdown,D:\clones\electron\docs\tutorial\mac-app-store-submission-guide.md,86,0.0,266.0
+electron,C++,D:\clones\electron\shell\common\gin_converters\content_converter.cc,27,19.0,266.0
+electron,TypeScript,D:\clones\electron\typings\internal-electron.d.ts,46,11.0,266.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_menu.cc,58,7.0,265.0
+electron,C++,D:\clones\electron\shell\browser\ui\autofill_popup.cc,61,20.0,265.0
+electron,Objective-C++,D:\clones\electron\shell\browser\ui\cocoa\electron_inspectable_web_contents_view.mm,54,17.0,263.0
+electron,TypeScript,D:\clones\electron\spec-main\api-web-frame-main-spec.ts,46,7.0,259.0
+electron,C++,D:\clones\electron\shell\browser\ui\gtk\menu_util.cc,51,26.0,258.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_crash_reporter.cc,34,13.0,257.0
+electron,C++,D:\clones\electron\shell\common\api\electron_api_clipboard.cc,38,5.0,255.0
+electron,TypeScript,D:\clones\electron\spec-main\api-subframe-spec.ts,35,1.0,255.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\native_window_views.h,60,41.0,254.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\dialog.ts,45,13.0,252.0
+electron,TypeScript,D:\clones\electron\spec-main\api-system-preferences-spec.ts,37,0.0,251.0
+electron,C++,D:\clones\electron\shell\browser\ui\message_box_win.cc,39,48.0,249.0
+electron,C++,D:\clones\electron\shell\browser\browser_process_impl.cc,57,12.0,247.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_base_window.h,30,14.0,246.0
+electron,C++,D:\clones\electron\shell\browser\net\system_network_context_manager.cc,55,27.0,245.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_notification.cc,56,7.0,244.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_download_item.cc,50,14.0,242.0
+electron,diff,D:\clones\electron\patches\ReactiveObjC\build_conditionally_import_ext_headers_from_framework_or_from.patch,47,247.0,241.0
+electron,Objective-C++,D:\clones\electron\shell\browser\ui\cocoa\electron_ns_window_delegate.mm,64,40.0,241.0
+electron,JavaScript,D:\clones\electron\script\spec-runner.js,36,7.0,239.0
+electron,Markdown,D:\clones\electron\docs\api\native-image.md,120,0.0,234.0
+electron,Markdown,D:\clones\electron\docs\api\protocol.md,97,0.0,232.0
+electron,C++,D:\clones\electron\shell\browser\api\message_port.cc,46,17.0,232.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\osr\osr_render_widget_host_view.h,65,13.0,232.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\menu.ts,48,20.0,228.0
+electron,TypeScript,D:\clones\electron\default_app\main.ts,38,14.0,227.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_system_preferences_win.cc,33,10.0,226.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_app.h,41,13.0,224.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_helper\function_template.h,44,64.0,224.0
+electron,Markdown,D:\clones\electron\docs\api\web-frame.md,95,0.0,221.0
+electron,Python,D:\clones\electron\script\lib\native_tests.py,71,15.0,221.0
+electron,C++,D:\clones\electron\shell\browser\printing\print_preview_message_handler.cc,50,5.0,221.0
+electron,C++,D:\clones\electron\shell\app\node_main.cc,59,30.0,216.0
+electron,Objective-C++,D:\clones\electron\shell\browser\mac\in_app_purchase_product.mm,58,58.0,216.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\browser.h,96,71.0,215.0
+electron,C++,D:\clones\electron\shell\browser\browser.cc,52,24.0,214.0
+electron,C++,D:\clones\electron\shell\browser\extensions\electron_extension_system.cc,46,4.0,214.0
+electron,C++,D:\clones\electron\shell\browser\web_contents_zoom_controller.cc,43,30.0,214.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\native_window_mac.h,43,35.0,213.0
+electron,C++,D:\clones\electron\shell\browser\ui\file_dialog_win.cc,55,17.0,213.0
+electron,XML,D:\clones\electron\shell\common\resources\mac\MainMenu.xib,0,6.0,213.0
+electron,Markdown,D:\clones\electron\docs\api\web-request.md,43,0.0,212.0
+electron,C++,D:\clones\electron\shell\browser\ui\views\menu_bar.cc,42,11.0,211.0
+electron,Markdown,D:\clones\electron\docs\tutorial\window-customization.md,61,0.0,210.0
+electron,C++,D:\clones\electron\shell\browser\notifications\win\win32_desktop_notifications\toast_uia.cc,39,9.0,210.0
+electron,C++,D:\clones\electron\shell\browser\ui\message_box_gtk.cc,39,12.0,210.0
+electron,C++,D:\clones\electron\shell\renderer\api\electron_api_spell_check_client.cc,47,21.0,210.0
+electron,TypeScript,D:\clones\electron\spec-main\guest-window-manager-spec.ts,35,6.0,210.0
+electron,Python,D:\clones\electron\script\lib\git.py,48,37.0,208.0
+electron,YAML,D:\clones\electron\appveyor.yml,4,43.0,206.0
+electron,C++,D:\clones\electron\shell\browser\hid\hid_chooser_context.cc,43,23.0,206.0
+electron,C++,D:\clones\electron\shell\browser\electron_download_manager_delegate.cc,39,13.0,204.0
+electron,C++,D:\clones\electron\shell\renderer\api\electron_api_ipc_renderer.cc,32,5.0,204.0
+electron,Objective-C++,D:\clones\electron\shell\browser\api\electron_api_menu_mac.mm,40,25.0,203.0
+electron,C++,D:\clones\electron\shell\browser\extensions\api\cryptotoken_private\cryptotoken_private_api.cc,45,63.0,203.0
+electron,Markdown,D:\clones\electron\docs\development\build-instructions-gn.md,87,0.0,202.0
+electron,JavaScript,D:\clones\electron\script\release\prepare-release.js,21,2.0,202.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\net\proxying_url_loader_factory.h,39,42.0,202.0
+electron,C++,D:\clones\electron\shell\renderer\electron_sandboxed_renderer_client.cc,47,10.0,202.0
+electron,C++,D:\clones\electron\shell\app\electron_content_client.cc,34,25.0,200.0
+electron,C++,D:\clones\electron\shell\common\api\electron_api_asar.cc,38,11.0,200.0
+electron,TypeScript,D:\clones\electron\lib\browser\guest-window-manager.ts,23,51.0,199.0
+electron,C++,D:\clones\electron\shell\browser\ui\win\notify_icon.cc,37,20.0,199.0
+electron,Markdown,D:\clones\electron\docs\api\client-request.md,68,0.0,198.0
+electron,Markdown,D:\clones\electron\docs\tutorial\snapcraft.md,50,0.0,197.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\inspectable_web_contents.h,34,18.0,197.0
+electron,C++,D:\clones\electron\shell\browser\web_contents_permission_helper.cc,33,7.0,196.0
+electron,TypeScript,D:\clones\electron\lib\renderer\web-view\web-view-attributes.ts,40,33.0,195.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_in_app_purchase.cc,36,6.0,193.0
+electron,TypeScript,D:\clones\electron\spec-main\api-tray-spec.ts,36,0.0,193.0
+electron,TypeScript,D:\clones\electron\spec-main\spellchecker-spec.ts,34,12.0,192.0
+electron,Objective-C++,D:\clones\electron\shell\browser\ui\cocoa\window_buttons_proxy.mm,42,18.0,191.0
+electron,TypeScript,D:\clones\electron\spec-main\security-warnings-spec.ts,35,2.0,191.0
+electron,JavaScript,D:\clones\electron\script\release\publish-to-npm.js,19,14.0,190.0
+electron,C++,D:\clones\electron\shell\browser\ui\views\inspectable_web_contents_view_views.cc,40,9.0,190.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_converters\std_converter.h,22,4.0,189.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_net_log.cc,38,15.0,188.0
+electron,C++,D:\clones\electron\shell\renderer\electron_autofill_agent.cc,39,5.0,185.0
+electron,Markdown,D:\clones\electron\docs\api\tray.md,121,0.0,184.0
+electron,Markdown,D:\clones\electron\docs\development\pull-requests.md,67,0.0,184.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_desktop_capturer.cc,35,21.0,183.0
+electron,Objective-C++,D:\clones\electron\shell\browser\ui\cocoa\electron_ns_window.mm,42,44.0,181.0
+electron,TypeScript,D:\clones\electron\spec-main\api-desktop-capturer-spec.ts,44,27.0,181.0
+electron,Markdown,D:\clones\electron\docs\api\clipboard.md,101,0.0,180.0
+electron,TypeScript,D:\clones\electron\lib\renderer\web-view\web-view-impl.ts,35,37.0,180.0
+electron,diff,D:\clones\electron\patches\chromium\chore_provide_iswebcontentscreationoverridden_with_full_params.patch,11,224.0,180.0
+electron,TypeScript,D:\clones\electron\spec-main\api-debugger-spec.ts,32,6.0,180.0
+electron,C++,D:\clones\electron\shell\browser\extensions\api\management\electron_management_api_delegate.cc,32,35.0,179.0
+electron,C++,D:\clones\electron\shell\browser\browser_linux.cc,45,8.0,178.0
+electron,TypeScript,D:\clones\electron\spec-main\api-ipc-renderer-spec.ts,28,0.0,177.0
+electron,Markdown,D:\clones\electron\docs\api\command-line-switches.md,105,0.0,176.0
+electron,Markdown,D:\clones\electron\docs\tutorial\windows-taskbar.md,65,0.0,176.0
+electron,C++,D:\clones\electron\shell\common\v8_value_serializer.cc,30,10.0,175.0
+electron,TypeScript,D:\clones\electron\spec-main\api-dialog-spec.ts,34,2.0,175.0
+electron,TypeScript,D:\clones\electron\spec-main\logging-spec.ts,12,5.0,175.0
+electron,C++,D:\clones\electron\shell\browser\media\media_stream_devices_controller.cc,23,22.0,174.0
+electron,C++,D:\clones\electron\shell\browser\ui\views\win_caption_button.cc,39,23.0,174.0
+electron,C++,D:\clones\electron\shell\browser\ui\views\win_frame_view.cc,45,67.0,174.0
+electron,C++,D:\clones\electron\shell\renderer\electron_api_service_impl.cc,43,6.0,174.0
+electron,Markdown,D:\clones\electron\docs\tutorial\code-signing.md,48,0.0,172.0
+electron,JavaScript,D:\clones\electron\script\release\notes\index.js,30,9.0,172.0
+electron,C++,D:\clones\electron\shell\app\electron_crash_reporter_client.cc,33,10.0,172.0
+electron,TypeScript,D:\clones\electron\lib\renderer\security-warnings.ts,45,76.0,171.0
+electron,Python,D:\clones\electron\script\lib\util.py,35,3.0,171.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_debugger.cc,39,4.0,170.0
+electron,C++,D:\clones\electron\shell\browser\osr\osr_web_contents_view.cc,46,4.0,170.0
+electron,C++,D:\clones\electron\shell\common\gin_converters\gfx_converter.cc,16,3.0,170.0
+electron,Markdown,D:\clones\electron\docs\api\menu-item.md,63,0.0,168.0
+electron,Markdown,D:\clones\electron\docs\tutorial\launch-app-from-url-in-another-app.md,46,0.0,168.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_browser_view.cc,46,9.0,168.0
+electron,C++,D:\clones\electron\shell\browser\ui\views\root_view.cc,43,16.0,168.0
+electron,C++,D:\clones\electron\shell\app\electron_main_win.cc,31,41.0,167.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_helper\dictionary.h,29,21.0,167.0
+electron,Markdown,D:\clones\electron\docs\api\process.md,84,0.0,166.0
+electron,diff,D:\clones\electron\patches\chromium\disable_color_correct_rendering.patch,44,173.0,166.0
+electron,C++,D:\clones\electron\shell\browser\extensions\electron_extension_loader.cc,36,28.0,166.0
+electron,Markdown,D:\clones\electron\docs\styleguide.md,94,0.0,165.0
+electron,C++,D:\clones\electron\shell\browser\serial\serial_chooser_controller.cc,22,4.0,165.0
+electron,C++,D:\clones\electron\shell\browser\ui\win\notify_icon_host.cc,36,22.0,164.0
+electron,C++,D:\clones\electron\shell\browser\ui\win\taskbar_host.cc,40,23.0,164.0
+electron,JavaScript,D:\clones\electron\script\release\version-bumper.js,24,10.0,163.0
+electron,Objective-C++,D:\clones\electron\shell\browser\mac\electron_application.mm,38,9.0,163.0
+electron,TypeScript,D:\clones\electron\spec-main\release-notes-spec.ts,31,20.0,163.0
+electron,Markdown,D:\clones\electron\docs\glossary.md,73,0.0,161.0
+electron,C++,D:\clones\electron\shell\renderer\electron_render_frame_observer.cc,30,38.0,161.0
+electron,C++,D:\clones\electron\shell\browser\ui\electron_desktop_window_tree_host_linux.cc,29,21.0,160.0
+electron,C++,D:\clones\electron\shell\common\api\electron_api_shell.cc,22,3.0,160.0
+electron,TypeScript,D:\clones\electron\spec-main\visibility-state-spec.ts,20,4.0,160.0
+electron,diff,D:\clones\electron\patches\chromium\process_singleton.patch,29,138.0,159.0
+electron,Markdown,D:\clones\electron\docs\tutorial\dark-mode.md,47,0.0,158.0
+electron,C++,D:\clones\electron\shell\browser\electron_browser_main_parts_posix.cc,35,50.0,158.0
+electron,TypeScript,D:\clones\electron\spec-main\modules-spec.ts,23,1.0,158.0
+electron,diff,D:\clones\electron\patches\chromium\command-ismediakey.patch,32,175.0,157.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_session.h,32,13.0,157.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_global_shortcut.cc,38,8.0,156.0
+electron,C++,D:\clones\electron\shell\browser\serial\serial_chooser_context.cc,33,17.0,156.0
+electron,TypeScript,D:\clones\electron\spec-main\api-deprecate-spec.ts,45,0.0,156.0
+electron,Objective-C++,D:\clones\electron\shell\common\platform_util_mac.mm,35,16.0,155.0
+electron,Markdown,D:\clones\electron\docs\tutorial\process-model.md,54,0.0,154.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\menu-utils.ts,20,3.0,152.0
+electron,Markdown,D:\clones\electron\docs\api\ipc-renderer.md,61,0.0,151.0
+electron,JavaScript,D:\clones\electron\build\webpack\webpack.config.base.js,18,4.0,150.0
+electron,Markdown,D:\clones\electron\docs\api\crash-reporter.md,60,0.0,150.0
+electron,JavaScript,D:\clones\electron\spec\static\main.js,30,12.0,150.0
+electron,Objective-C++,D:\clones\electron\shell\browser\mac\electron_application_delegate.mm,31,14.0,149.0
+electron,Objective-C++,D:\clones\electron\shell\common\api\electron_api_native_image_mac.mm,26,14.0,148.0
+electron,TypeScript,D:\clones\electron\spec-main\api-power-monitor-spec.ts,18,17.0,148.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\electron_browser_context.h,34,14.0,147.0
+electron,diff,D:\clones\electron\patches\chromium\allow_in-process_windows_to_have_different_web_prefs.patch,8,58.0,146.0
+electron,Python,D:\clones\electron\script\patches-mtime-cache.py,39,7.0,146.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_screen.cc,38,5.0,145.0
+electron,Objective-C++,D:\clones\electron\shell\browser\ui\message_box_mac.mm,33,29.0,145.0
+electron,JSON,D:\clones\electron\package.json,0,0.0,144.0
+electron,C++,D:\clones\electron\shell\browser\notifications\linux\libnotify_notification.cc,32,12.0,144.0
+electron,TypeScript,D:\clones\electron\spec-main\api-net-log-spec.ts,20,1.0,144.0
+electron,Objective-C++,D:\clones\electron\shell\browser\auto_updater_mac.mm,25,15.0,142.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\net\electron_url_loader_factory.h,24,14.0,142.0
+electron,C++,D:\clones\electron\shell\browser\lib\power_observer_linux.cc,25,13.0,141.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_helper\constructor.h,19,11.0,141.0
+electron,Markdown,D:\clones\electron\docs\api\touch-bar.md,56,0.0,140.0
+electron,diff,D:\clones\electron\patches\chromium\network_service_allow_remote_certificate_verification_logic.patch,12,50.0,140.0
+electron,diff,D:\clones\electron\patches\node\fix_crash_caused_by_gethostnamew_on_windows_7.patch,7,21.0,140.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_service_worker_context.cc,22,5.0,140.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_content_tracing.cc,27,14.0,139.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_native_theme.cc,31,8.0,139.0
+electron,C++,D:\clones\electron\shell\renderer\electron_renderer_client.cc,39,29.0,139.0
+electron,XML,D:\clones\electron\electron_strings.grdp,4,6.0,138.0
+electron,diff,D:\clones\electron\patches\node\fix_handle_boringssl_and_openssl_incompatibilities.patch,21,173.0,138.0
+electron,XML,D:\clones\electron\script\codesign\trust.xml,0,0.0,138.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_data_pipe_holder.cc,35,22.0,137.0
+electron,C++,D:\clones\electron\shell\browser\api\frame_subscriber.cc,32,17.0,136.0
+electron,C++,D:\clones\electron\shell\browser\font_defaults.cc,20,21.0,136.0
+electron,C++,D:\clones\electron\shell\browser\hid\electron_hid_delegate.cc,30,9.0,136.0
+electron,Objective-C++,D:\clones\electron\shell\browser\mac\in_app_purchase_observer.mm,48,51.0,136.0
+electron,C++,D:\clones\electron\shell\common\crash_keys.cc,25,11.0,136.0
+electron,Objective-C++,D:\clones\electron\shell\browser\notifications\mac\cocoa_notification.mm,33,5.0,135.0
+electron,Markdown,D:\clones\electron\docs\api\web-frame-main.md,66,0.0,134.0
+electron,Markdown,D:\clones\electron\docs\tutorial\installation.md,49,0.0,134.0
+electron,Markdown,D:\clones\electron\docs\tutorial\sandbox.md,35,0.0,134.0
+electron,Markdown,D:\clones\electron\docs\tutorial\using-native-node-modules.md,40,0.0,134.0
+electron,Objective-C++,D:\clones\electron\shell\browser\ui\cocoa\NSString+ANSI.mm,23,10.0,133.0
+electron,C++,D:\clones\electron\shell\browser\native_browser_view_views.cc,18,11.0,132.0
+electron,C++,D:\clones\electron\shell\common\asar\asar_util.cc,33,7.0,132.0
+electron,CSS,D:\clones\electron\default_app\styles.css,24,0.0,131.0
+electron,C++,D:\clones\electron\shell\browser\api\process_metric.cc,38,4.0,130.0
+electron,TypeScript,D:\clones\electron\spec\ts-smoke\electron\renderer.ts,44,27.0,130.0
+electron,JSON,D:\clones\electron\script\node-disabled-tests.json,0,0.0,129.0
+electron,C++,D:\clones\electron\shell\browser\net\node_stream_loader.cc,26,17.0,129.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\net\proxying_websocket.h,26,26.0,129.0
+electron,JSON,D:\clones\electron\shell\common\extensions\api\i18n.json,1,0.0,129.0
+electron,Markdown,D:\clones\electron\docs\README.md,28,0.0,128.0
+electron,C++,D:\clones\electron\shell\browser\extensions\electron_extension_message_filter.cc,22,8.0,128.0
+electron,TypeScript,D:\clones\electron\spec-main\spec-helpers.ts,19,0.0,128.0
+electron,Markdown,D:\clones\electron\docs\tutorial\windows-store-guide.md,31,0.0,127.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_system_preferences.h,35,13.0,127.0
+electron,TypeScript,D:\clones\electron\spec-main\api-notification-spec.ts,21,1.0,127.0
+electron,Markdown,D:\clones\electron\docs\api\environment-variables.md,65,0.0,126.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_power_monitor.cc,30,5.0,126.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\file_select_helper.h,44,62.0,126.0
+electron,C++,D:\clones\electron\shell\browser\relauncher.cc,33,34.0,126.0
+electron,Markdown,D:\clones\electron\docs\tutorial\keyboard-shortcuts.md,42,0.0,125.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\electron_browser_main_parts.h,40,15.0,125.0
+electron,C++,D:\clones\electron\shell\browser\ui\views\win_caption_button_container.cc,23,10.0,125.0
+electron,C++,D:\clones\electron\shell\browser\win\dark_mode.cc,30,25.0,125.0
+electron,JavaScript,D:\clones\electron\spec\api-clipboard-spec.js,18,1.0,125.0
+electron,Markdown,D:\clones\electron\docs\api\download-item.md,73,0.0,124.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\browser-window.ts,35,6.0,124.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_helper\callback.h,18,10.0,124.0
+electron,C/C++ Header,D:\clones\electron\shell\renderer\renderer_client_base.h,29,10.0,124.0
+electron,Markdown,D:\clones\electron\docs\faq.md,41,0.0,123.0
+electron,C++,D:\clones\electron\shell\common\skia_util.cc,29,17.0,123.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extensions\electron_extensions_browser_client.h,17,11.0,122.0
+electron,diff,D:\clones\electron\patches\chromium\picture-in-picture.patch,21,188.0,121.0
+electron,C++,D:\clones\electron\shell\browser\zoom_level_delegate.cc,30,24.0,120.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_helper\promise.h,31,33.0,120.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_web_request.h,27,12.0,119.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_converters\net_converter.h,21,3.0,119.0
+electron,HTML,D:\clones\electron\docs\fiddles\menus\customize-menus\index.html,10,0.0,118.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_auto_updater.cc,31,9.0,118.0
+electron,C++,D:\clones\electron\shell\browser\lib\bluetooth_chooser.cc,20,16.0,118.0
+electron,Markdown,D:\clones\electron\docs\development\creating-api.md,54,0.0,117.0
+electron,C++,D:\clones\electron\shell\browser\extensions\electron_messaging_delegate.cc,18,8.0,117.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\web_contents_preferences.h,25,13.0,117.0
+electron,C/C++ Header,D:\clones\electron\shell\common\options_switches.h,19,5.0,116.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_menu.h,25,13.0,115.0
+electron,C++,D:\clones\electron\shell\common\gin_helper\callback.cc,27,12.0,115.0
+electron,C++,D:\clones\electron\shell\common\options_switches.cc,88,73.0,115.0
+electron,TypeScript,D:\clones\electron\spec-main\api-touch-bar-spec.ts,13,0.0,115.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_system_preferences.cc,22,4.0,114.0
+electron,YAML,D:\clones\electron\spec\configs\unittests.yml,1,11.0,114.0
+electron,Markdown,D:\clones\electron\docs\api\notification.md,81,0.0,113.0
+electron,C++,D:\clones\electron\shell\browser\bluetooth\electron_bluetooth_delegate.cc,23,5.0,113.0
+electron,Markdown,D:\clones\electron\docs\tutorial\updates.md,34,0.0,112.0
+electron,diff,D:\clones\electron\patches\chromium\mas_no_private_api.patch,33,162.0,112.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_power_save_blocker.cc,27,10.0,112.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\electron_permission_manager.h,22,7.0,112.0
+electron,C++,D:\clones\electron\shell\browser\media\media_capture_devices_dispatcher.cc,26,6.0,112.0
+electron,C/C++ Header,D:\clones\electron\shell\common\api\electron_api_native_image.h,28,7.0,112.0
+electron,TypeScript,D:\clones\electron\spec-main\api-content-tracing-spec.ts,24,10.0,111.0
+electron,TypeScript,D:\clones\electron\spec-main\asar-spec.ts,16,0.0,111.0
+electron,TypeScript,D:\clones\electron\lib\common\api\deprecate.ts,13,12.0,110.0
+electron,C++,D:\clones\electron\shell\browser\net\asar\asar_file_validator.cc,26,16.0,110.0
+electron,Python,D:\clones\electron\script\verify-mksnapshot.py,14,1.0,109.0
+electron,C++,D:\clones\electron\shell\browser\certificate_manager_model.cc,26,35.0,109.0
+electron,C++,D:\clones\electron\shell\browser\notifications\platform_notification_service.cc,28,12.0,109.0
+electron,YAML,D:\clones\electron\.circleci\config.yml,22,15.0,108.0
+electron,diff,D:\clones\electron\patches\chromium\crash_allow_disabling_compression_on_linux.patch,12,27.0,108.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\notifications\win\windows_toast_notification.h,21,10.0,108.0
+electron,C++,D:\clones\electron\shell\browser\osr\osr_video_consumer.cc,26,11.0,108.0
+electron,C++,D:\clones\electron\shell\browser\ui\views\menu_delegate.cc,29,9.0,108.0
+electron,C++,D:\clones\electron\shell\common\api\electron_api_v8_util.cc,22,8.0,108.0
+electron,C++,D:\clones\electron\shell\common\logging.cc,19,23.0,108.0
+electron,Markdown,D:\clones\electron\docs\tutorial\notifications.md,45,0.0,107.0
+electron,JavaScript,D:\clones\electron\spec\api-process-spec.js,15,2.0,107.0
+electron,TypeScript,D:\clones\electron\lib\browser\init.ts,38,48.0,106.0
+electron,Bourne Shell,D:\clones\electron\spec\fixtures\certificates\generate_certs.sh,16,5.0,106.0
+electron,YAML,D:\clones\electron\azure-pipelines-arm.yml,16,0.0,105.0
+electron,Markdown,D:\clones\electron\docs\tutorial\recent-documents.md,37,0.0,105.0
+electron,diff,D:\clones\electron\patches\node\build_modify_js2c_py_to_allow_injection_of_original-fs_and_custom_embedder_js.patch,27,57.0,105.0
+electron,Objective-C++,D:\clones\electron\shell\browser\mac\in_app_purchase.mm,37,52.0,105.0
+electron,Markdown,D:\clones\electron\docs\development\debugging-on-macos.md,29,0.0,104.0
+electron,diff,D:\clones\electron\patches\chromium\can_create_window.patch,20,109.0,104.0
+electron,C++,D:\clones\electron\shell\browser\api\gpu_info_enumerator.cc,25,5.0,104.0
+electron,C++,D:\clones\electron\shell\browser\linux\unity_service.cc,30,9.0,104.0
+electron,C++,D:\clones\electron\shell\browser\ui\devtools_ui.cc,21,7.0,104.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\api\sandbox.html,3,0.0,104.0
+electron,Markdown,D:\clones\electron\docs\development\build-instructions-linux.md,40,0.0,103.0
+electron,Python,D:\clones\electron\script\check-relative-doc-links.py,22,5.0,103.0
+electron,C++,D:\clones\electron\shell\browser\electron_javascript_dialog_manager.cc,26,8.0,103.0
+electron,C++,D:\clones\electron\shell\browser\ui\devtools_manager_delegate.cc,23,15.0,103.0
+electron,JavaScript,D:\clones\electron\spec-main\index.js,24,20.0,103.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_url_loader.h,20,8.0,102.0
+electron,TypeScript,D:\clones\electron\spec-main\api-native-theme-spec.ts,14,3.0,101.0
+electron,TypeScript,D:\clones\electron\spec-main\api-notification-dbus-spec.ts,13,12.0,101.0
+electron,Markdown,D:\clones\electron\docs\api\context-bridge.md,32,0.0,100.0
+electron,Markdown,D:\clones\electron\docs\tutorial\electron-versioning.md,52,0.0,100.0
+electron,JavaScript,D:\clones\electron\script\release\version-utils.js,17,3.0,100.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\views\client_frame_view_linux.h,34,9.0,100.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_converters\blink_converter.h,20,3.0,100.0
+electron,C++,D:\clones\electron\shell\common\mouse_util.cc,6,3.0,100.0
+electron,YAML,D:\clones\electron\azure-pipelines-woa.yml,15,16.0,99.0
+electron,Markdown,D:\clones\electron\docs\api\ipc-main.md,41,0.0,99.0
+electron,TypeScript,D:\clones\electron\lib\sandboxed_renderer\init.ts,25,20.0,99.0
+electron,Objective-C++,D:\clones\electron\shell\browser\file_select_helper_mac.mm,31,16.0,99.0
+electron,C++,D:\clones\electron\shell\browser\ui\electron_menu_model.cc,24,3.0,99.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\views\autofill_popup_view.h,37,21.0,99.0
+electron,C/C++ Header,D:\clones\electron\shell\common\node_bindings.h,43,34.0,99.0
+electron,Python,D:\clones\electron\build\profile_toolchain.py,23,5.0,98.0
+electron,Markdown,D:\clones\electron\docs\api\screen.md,60,0.0,98.0
+electron,diff,D:\clones\electron\patches\chromium\mas_disable_remote_accessibility.patch,35,154.0,98.0
+electron,diff,D:\clones\electron\patches\node\process_monitor_for_exit_with_kqueue_on_bsds_3441.patch,12,60.0,98.0
+electron,C++,D:\clones\electron\shell\common\extensions\electron_extensions_client.cc,28,12.0,98.0
+electron,Markdown,D:\clones\electron\CODE_OF_CONDUCT.md,38,0.0,97.0
+electron,HTML,D:\clones\electron\docs\fiddles\native-ui\external-links-file-manager\index.html,7,0.0,97.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_printing.cc,18,3.0,97.0
+electron,Markdown,D:\clones\electron\docs\tutorial\in-app-purchases.md,37,0.0,96.0
+electron,TypeScript,D:\clones\electron\script\gen-filenames.ts,10,6.0,96.0
+electron,Objective-C++,D:\clones\electron\shell\browser\ui\certificate_trust_mac.mm,23,5.0,96.0
+electron,HTML,D:\clones\electron\docs\fiddles\native-ui\dialogs\open-file-or-directory\index.html,13,0.0,95.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_web_contents_view.cc,21,11.0,95.0
+electron,Markdown,D:\clones\electron\docs\tutorial\application-distribution.md,39,0.0,94.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_browser_window.h,29,17.0,94.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_notification.h,21,9.0,94.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_safe_storage.cc,22,5.0,94.0
+electron,C++,D:\clones\electron\shell\utility\electron_content_utility_client.cc,23,8.0,94.0
+electron,YAML,D:\clones\electron\vsts-arm-test-steps.yml,15,1.0,94.0
+electron,Markdown,D:\clones\electron\docs\api\auto-updater.md,51,0.0,93.0
+electron,Markdown,D:\clones\electron\docs\development\source-code-directory-structure.md,8,0.0,93.0
+electron,JavaScript,D:\clones\electron\script\nan-spec-runner.js,15,4.0,93.0
+electron,JavaScript,D:\clones\electron\script\release\release-artifact-cleanup.js,13,4.0,93.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_tray.h,19,8.0,93.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\electron_menu_model.h,28,10.0,93.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_helper\trackable_object.h,31,16.0,93.0
+electron,HTML,D:\clones\electron\docs\fiddles\native-ui\dialogs\information-dialog\index.html,12,0.0,92.0
+electron,C++,D:\clones\electron\shell\browser\relauncher_win.cc,24,14.0,92.0
+electron,Markdown,D:\clones\electron\spec-main\fixtures\version-bumper\fixture_support.md,30,0.0,92.0
+electron,Markdown,D:\clones\electron\docs\api\desktop-capturer.md,22,0.0,91.0
+electron,Markdown,D:\clones\electron\docs\api\window-open.md,20,0.0,91.0
+electron,TypeScript,D:\clones\electron\lib\renderer\web-view\web-view-element.ts,17,20.0,91.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\tray_icon.h,30,19.0,91.0
+electron,Markdown,D:\clones\electron\docs\api\cookies.md,31,0.0,90.0
+electron,Objective-C++,D:\clones\electron\shell\browser\api\electron_api_power_monitor_mac.mm,23,12.0,90.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\browser_process_impl.h,14,11.0,90.0
+electron,C++,D:\clones\electron\shell\browser\extensions\electron_extensions_api_client.cc,21,8.0,90.0
+electron,Objective-C++,D:\clones\electron\shell\browser\mac\dict_util.mm,14,3.0,90.0
+electron,HTML,D:\clones\electron\spec\static\index.html,17,0.0,90.0
+electron,Markdown,D:\clones\electron\docs\development\build-instructions-windows.md,39,0.0,89.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_power_monitor_win.cc,17,9.0,89.0
+electron,C++,D:\clones\electron\shell\browser\electron_api_ipc_handler_impl.cc,15,4.0,89.0
+electron,C++,D:\clones\electron\shell\browser\extensions\electron_component_extension_resource_manager.cc,17,7.0,89.0
+electron,C++,D:\clones\electron\shell\browser\web_view_guest_delegate.cc,21,12.0,89.0
+electron,HTML,D:\clones\electron\default_app\index.html,4,0.0,88.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_web_frame_main.h,33,16.0,88.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\hid\hid_chooser_context.h,28,20.0,88.0
+electron,C++,D:\clones\electron\shell\browser\ui\accelerator_util.cc,13,6.0,88.0
+electron,C++,D:\clones\electron\shell\browser\ui\gtk\app_indicator_icon_menu.cc,21,11.0,88.0
+electron,C++,D:\clones\electron\shell\common\application_info_win.cc,24,4.0,88.0
+electron,Python,D:\clones\electron\build\zip.py,6,18.0,87.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\app.ts,20,6.0,87.0
+electron,Python,D:\clones\electron\script\release\uploaders\upload-node-checksums.py,20,0.0,87.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_dialog.cc,18,3.0,87.0
+electron,C++,D:\clones\electron\shell\browser\net\network_context_service.cc,30,9.0,87.0
+electron,C++,D:\clones\electron\shell\browser\ui\views\frameless_view.cc,31,19.0,87.0
+electron,diff,D:\clones\electron\patches\chromium\fix_properly_honor_printing_page_ranges.patch,6,38.0,86.0
+electron,JavaScript,D:\clones\electron\script\lib\utils.js,14,5.0,86.0
+electron,C++,D:\clones\electron\shell\browser\ui\tray_icon.cc,30,3.0,86.0
+electron,TypeScript,D:\clones\electron\script\release\uploaders\upload-to-github.ts,12,0.0,85.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extensions\electron_extension_system.h,25,14.0,85.0
+electron,C++,D:\clones\electron\shell\browser\ui\views\electron_views_delegate_win.cc,22,50.0,85.0
+electron,Markdown,D:\clones\electron\docs\api\extensions.md,42,0.0,84.0
+electron,TypeScript,D:\clones\electron\lib\browser\devtools.ts,16,0.0,84.0
+electron,C++,D:\clones\electron\shell\browser\serial\electron_serial_delegate.cc,18,7.0,84.0
+electron,Markdown,D:\clones\electron\docs\development\debugging-on-windows.md,26,0.0,83.0
+electron,Markdown,D:\clones\electron\docs\tutorial\devices.md,25,0.0,83.0
+electron,Markdown,D:\clones\electron\docs\tutorial\devtools-extension.md,22,0.0,83.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\base-window.ts,23,3.0,83.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\menu-item.ts,15,2.0,82.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\osr\osr_web_contents_view.h,20,7.0,82.0
+electron,C++,D:\clones\electron\shell\renderer\electron_renderer_pepper_host_factory.cc,16,10.0,82.0
+electron,HTML,D:\clones\electron\docs\fiddles\native-ui\dialogs\save-dialog\index.html,10,0.0,81.0
+electron,Markdown,D:\clones\electron\docs\tutorial\progress-bar.md,31,0.0,81.0
+electron,TypeScript,D:\clones\electron\lib\renderer\init.ts,23,36.0,81.0
+electron,diff,D:\clones\electron\patches\squirrel.mac\feat_add_new_squirrel_mac_bundle_installation_method_behind_flag.patch,10,37.0,81.0
+electron,C++,D:\clones\electron\shell\browser\electron_autofill_driver_factory.cc,19,21.0,81.0
+electron,C++,D:\clones\electron\shell\browser\extensions\api\resources_private\resources_private_api.cc,20,8.0,81.0
+electron,C++,D:\clones\electron\shell\browser\window_list.cc,24,16.0,81.0
+electron,TypeScript,D:\clones\electron\spec-main\api-ipc-main-spec.ts,11,0.0,81.0
+electron,TypeScript,D:\clones\electron\spec-main\api-safe-storage-spec.ts,15,7.0,81.0
+electron,Markdown,D:\clones\electron\README.md,35,0.0,80.0
+electron,TypeScript,D:\clones\electron\default_app\default_app.ts,19,3.0,80.0
+electron,JavaScript,D:\clones\electron\npm\install.js,17,5.0,80.0
+electron,diff,D:\clones\electron\patches\chromium\crash_allow_setting_more_options.patch,18,57.0,80.0
+electron,Python,D:\clones\electron\script\verify-ffmpeg.py,14,4.0,80.0
+electron,C++,D:\clones\electron\shell\browser\osr\osr_host_display_client.cc,21,4.0,80.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\cocoa\electron_touch_bar.h,13,6.0,80.0
+electron,TypeScript,D:\clones\electron\spec-main\api-service-workers-spec.ts,14,1.0,80.0
+electron,YAML,D:\clones\electron\.github\ISSUE_TEMPLATE\bug_report.yml,1,0.0,79.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\notifications\win\win32_desktop_notifications\toast.h,25,3.0,79.0
+electron,C++,D:\clones\electron\shell\browser\ui\gtk_util.cc,23,6.0,79.0
+electron,C++,D:\clones\electron\shell\browser\ui\views\global_menu_bar_registrar_x11.cc,24,26.0,79.0
+electron,C++,D:\clones\electron\shell\common\extensions\electron_extensions_api_provider.cc,18,5.0,79.0
+electron,Markdown,D:\clones\electron\docs\tutorial\electron-timelines.md,22,0.0,78.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\auto-updater\squirrel-update-win.ts,16,23.0,78.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extensions\api\management\electron_management_api_delegate.h,6,4.0,78.0
+electron,C++,D:\clones\electron\shell\browser\net\url_pipe_loader.cc,19,6.0,78.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\printing\print_preview_message_handler.h,22,8.0,78.0
+electron,C++,D:\clones\electron\shell\browser\ui\views\submenu_button.cc,17,4.0,78.0
+electron,C++,D:\clones\electron\shell\common\api\electron_api_native_image_win.cc,20,9.0,78.0
+electron,TypeScript,D:\clones\electron\spec-main\api-screen-spec.ts,13,0.0,78.0
+electron,Markdown,D:\clones\electron\docs\tutorial\debugging-vscode.md,22,0.0,77.0
+electron,diff,D:\clones\electron\patches\node\process_fix_hang_after_note_exit_3521.patch,13,68.0,77.0
+electron,Python,D:\clones\electron\script\native-tests.py,25,6.0,77.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\event_emitter_mixin.h,13,8.0,77.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\web_contents_permission_helper.h,17,9.0,77.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\pages\overlay.html,7,0.0,77.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\notifications\win\win32_desktop_notifications\desktop_notification_controller.h,20,4.0,76.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\bluetooth\electron_bluetooth_delegate.h,13,8.0,75.0
+electron,C++,D:\clones\electron\shell\browser\extensions\api\runtime\electron_runtime_api_delegate.cc,18,4.0,75.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extensions\api\tabs\tabs_api.h,31,6.0,75.0
+electron,C/C++ Header,D:\clones\electron\shell\common\asar\archive.h,25,18.0,75.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_helper\event_emitter.h,17,12.0,75.0
+electron,TypeScript,D:\clones\electron\spec-main\api-auto-updater-spec.ts,12,2.0,75.0
+electron,JavaScript,D:\clones\electron\spec\api-shell-spec.js,12,0.0,75.0
+electron,C++,D:\clones\electron\shell\browser\badging\badge_manager.cc,23,4.0,74.0
+electron,Markdown,D:\clones\electron\docs\tutorial\context-isolation.md,32,0.0,73.0
+electron,diff,D:\clones\electron\patches\chromium\feat_expose_raw_response_headers_from_urlloader.patch,10,75.0,73.0
+electron,C++,D:\clones\electron\shell\browser\notifications\win\notification_presenter_win.cc,21,6.0,73.0
+electron,TypeScript,D:\clones\electron\spec-main\api-shell-spec.ts,9,5.0,73.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\devtools-extensions\foo\panel.js,5,1.0,73.0
+electron,Markdown,D:\clones\electron\docs\tutorial\testing-widevine-cdm.md,23,0.0,72.0
+electron,TypeScript,D:\clones\electron\lib\common\web-view-methods.ts,2,1.0,72.0
+electron,diff,D:\clones\electron\patches\squirrel.mac\refactor_use_posix_spawn_instead_of_nstask_so_we_can_disclaim_the.patch,8,21.0,72.0
+electron,C++,D:\clones\electron\shell\browser\ui\views\electron_views_delegate.cc,21,7.0,72.0
+electron,C++,D:\clones\electron\shell\browser\ui\x\x_window_utils.cc,15,3.0,72.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_converters\content_converter.h,16,3.0,72.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_helper\wrappable.h,19,10.0,72.0
+electron,JavaScript,D:\clones\electron\spec\api-web-frame-spec.js,23,19.0,72.0
+electron,Markdown,D:\clones\electron\docs\api\browser-view.md,29,0.0,71.0
+electron,Markdown,D:\clones\electron\docs\api\synopsis.md,22,0.0,71.0
+electron,HTML,D:\clones\electron\docs\fiddles\native-ui\dialogs\error-dialog\index.html,10,0.0,71.0
+electron,Objective-C++,D:\clones\electron\shell\app\electron_main_delegate_mac.mm,15,5.0,71.0
+electron,Objective-C++,D:\clones\electron\shell\browser\api\electron_api_app_mac.mm,13,3.0,71.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\hid\hid_chooser_controller.h,25,29.0,71.0
+electron,C++,D:\clones\electron\shell\browser\login_handler.cc,16,9.0,71.0
+electron,C++,D:\clones\electron\shell\common\api\features.cc,18,3.0,71.0
+electron,Markdown,D:\clones\electron\docs\api\global-shortcut.md,34,0.0,70.0
+electron,Markdown,D:\clones\electron\docs\development\testing.md,30,0.0,70.0
+electron,JavaScript,D:\clones\electron\script\node-spec-runner.js,12,3.0,70.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_protocol.h,23,13.0,70.0
+electron,C++,D:\clones\electron\shell\browser\api\gpuinfo_manager.cc,16,12.0,70.0
+electron,C++,D:\clones\electron\shell\browser\net\resolve_proxy_helper.cc,22,9.0,70.0
+electron,C++,D:\clones\electron\shell\common\gin_helper\promise.cc,21,5.0,70.0
+electron,Markdown,D:\clones\electron\docs\api\incoming-message.md,35,0.0,69.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\native_window_observer.h,26,19.0,69.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\web_contents_zoom_controller.h,29,27.0,69.0
+electron,C++,D:\clones\electron\shell\common\gin_helper\wrappable.cc,18,6.0,69.0
+electron,Markdown,D:\clones\electron\docs\development\patches.md,25,0.0,68.0
+electron,HTML,D:\clones\electron\docs\fiddles\native-ui\drag-and-drop\index.html,8,0.0,68.0
+electron,HTML,D:\clones\electron\docs\fiddles\windows\manage-windows\frameless-window\index.html,9,0.0,68.0
+electron,C/C++ Header,D:\clones\electron\shell\app\electron_crash_reporter_client.h,21,5.0,68.0
+electron,Objective-C++,D:\clones\electron\shell\browser\notifications\mac\notification_center_delegate.mm,14,10.0,68.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\serial\serial_chooser_context.h,20,6.0,68.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_helper\event_emitter_caller.h,15,8.0,68.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\inspector-binding.js,7,1.0,68.0
+electron,Markdown,D:\clones\electron\docs\api\accelerator.md,15,0.0,67.0
+electron,Markdown,D:\clones\electron\docs\tutorial\online-offline-events.md,22,0.0,67.0
+electron,diff,D:\clones\electron\patches\chromium\fix_crash_when_saving_edited_pdf_files.patch,7,12.0,67.0
+electron,diff,D:\clones\electron\patches\chromium\notification_provenance.patch,18,105.0,67.0
+electron,JavaScript,D:\clones\electron\script\download-circleci-artifacts.js,5,0.0,67.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\hid\electron_hid_delegate.h,16,5.0,67.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\win\jump_list.h,17,39.0,67.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\mixed-sandbox-app\main.js,10,0.0,67.0
+electron,Markdown,D:\clones\electron\docs\tutorial\windows-arm.md,36,0.0,66.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\auto-updater\auto-updater-win.ts,7,3.0,66.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\crash-reporter.ts,17,0.0,66.0
+electron,C/C++ Header,D:\clones\electron\shell\renderer\api\electron_api_spell_check_client.h,23,27.0,66.0
+electron,HTML,D:\clones\electron\docs\fiddles\native-ui\external-links-file-manager\external-links\index.html,2,0.0,65.0
+electron,HTML,D:\clones\electron\docs\fiddles\system\protocol-handler\launch-app-from-URL-in-another-app\index.html,14,2.0,65.0
+electron,TypeScript,D:\clones\electron\lib\browser\parse-features-string.ts,12,19.0,65.0
+electron,diff,D:\clones\electron\patches\chromium\pepper_plugin_support.patch,28,113.0,65.0
+electron,Python,D:\clones\electron\script\release\uploaders\upload-node-headers.py,19,5.0,65.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_download_item.h,21,8.0,65.0
+electron,C++,D:\clones\electron\shell\browser\electron_web_contents_utility_handler_impl.cc,14,4.0,65.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\gtk\app_indicator_icon.h,31,22.0,65.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_converters\guid_converter.h,13,8.0,65.0
+electron,TypeScript,D:\clones\electron\spec-main\api-web-frame-spec.ts,6,2.0,65.0
+electron,Markdown,D:\clones\electron\docs\api\debugger.md,31,0.0,64.0
+electron,Markdown,D:\clones\electron\docs\api\net.md,22,0.0,64.0
+electron,Python,D:\clones\electron\script\lib\config.py,19,1.0,64.0
+electron,Python,D:\clones\electron\script\zip-symbols.py,9,0.0,64.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_browser_view.h,25,8.0,64.0
+electron,C++,D:\clones\electron\shell\browser\relauncher_mac.cc,18,14.0,64.0
+electron,C/C++ Header,D:\clones\electron\shell\renderer\electron_autofill_agent.h,21,11.0,64.0
+electron,diff,D:\clones\electron\patches\chromium\add_didinstallconditionalfeatures.patch,11,63.0,63.0
+electron,Python,D:\clones\electron\script\release\uploaders\upload-symbols.py,24,6.0,63.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\badging\badge_manager.h,22,23.0,63.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extensions\api\cryptotoken_private\cryptotoken_private_api.h,17,6.0,63.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\notifications\notification.h,21,9.0,63.0
+electron,XML,D:\clones\electron\shell\browser\resources\mac\Info.plist,0,0.0,63.0
+electron,C++,D:\clones\electron\shell\common\gin_converters\value_converter.cc,11,3.0,63.0
+electron,Markdown,D:\clones\electron\docs\tutorial\macos-dock.md,17,0.0,62.0
+electron,C++,D:\clones\electron\shell\browser\ui\gtk\gtk_status_icon.cc,17,7.0,62.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\win\notify_icon.h,29,19.0,62.0
+electron,C++,D:\clones\electron\shell\common\gin_converters\file_dialog_converter.cc,12,3.0,62.0
+electron,C++,D:\clones\electron\shell\common\gin_converters\frame_converter.cc,21,6.0,62.0
+electron,Markdown,D:\clones\electron\docs\development\coding-style.md,17,0.0,61.0
+electron,HTML,D:\clones\electron\docs\fiddles\menus\shortcuts\index.html,12,0.0,61.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\native-ui\dialogs\error-dialog\main.js,13,21.0,61.0
+electron,HTML,D:\clones\electron\docs\fiddles\native-ui\notifications\index.html,6,0.0,61.0
+electron,Markdown,D:\clones\electron\docs\tutorial\tray.md,22,0.0,61.0
+electron,TypeScript,D:\clones\electron\lib\browser\rpc-server.ts,10,2.0,61.0
+electron,Objective-C++,D:\clones\electron\shell\browser\api\electron_api_browser_window_mac.mm,20,26.0,61.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_menu_views.cc,19,16.0,61.0
+electron,C++,D:\clones\electron\shell\browser\extensions\electron_extension_host_delegate.cc,15,7.0,61.0
+electron,C++,D:\clones\electron\shell\common\gin_helper\event_emitter.cc,14,5.0,61.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\module\preload-sandbox.js,3,0.0,61.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\osr\osr_host_display_client.h,20,6.0,60.0
+electron,C/C++ Header,D:\clones\electron\shell\common\api\electron_bindings.h,20,7.0,60.0
+electron,diff,D:\clones\electron\patches\chromium\allow_disabling_blink_scheduler_throttling_per_renderview.patch,14,62.0,59.0
+electron,diff,D:\clones\electron\patches\chromium\fix_media_key_usage_with_globalshortcuts.patch,10,34.0,59.0
+electron,Python,D:\clones\electron\script\copy-debug-symbols.py,8,2.0,59.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\net\url_pipe_loader.h,16,13.0,59.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\notifications\win\win32_desktop_notifications\toast_uia.h,17,8.0,59.0
+electron,Windows Resource File,D:\clones\electron\shell\browser\resources\win\electron.rc,20,28.0,59.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\views\electron_views_delegate.h,14,9.0,59.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\views\menu_delegate.h,18,6.0,59.0
+electron,C++,D:\clones\electron\shell\common\asar\scoped_temporary_file.cc,17,7.0,59.0
+electron,C/C++ Header,D:\clones\electron\shell\common\key_weak_map.h,17,12.0,59.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\apps\crash\main.js,6,0.0,59.0
+electron,TypeScript,D:\clones\electron\spec-main\screen-helpers.ts,9,20.0,59.0
+electron,HTML,D:\clones\electron\docs\fiddles\windows\manage-windows\manage-window-state\index.html,6,0.0,58.0
+electron,DOS Batch,D:\clones\electron\script\setup-win-for-dev.bat,15,10.0,58.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_power_monitor.h,23,12.0,58.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_view.cc,20,5.0,58.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\electron_api_ipc_handler_impl.h,16,6.0,58.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\mac\in_app_purchase_observer.h,20,6.0,58.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_converters\gfx_converter.h,13,3.0,58.0
+electron,Markdown,D:\clones\electron\docs\api\content-tracing.md,29,0.0,57.0
+electron,diff,D:\clones\electron\patches\node\be_compatible_with_cppgc.patch,13,27.0,57.0
+electron,diff,D:\clones\electron\patches\node\src_allow_embedders_to_provide_a_custom_pageallocator_to.patch,16,55.0,57.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_desktop_capturer.h,19,8.0,57.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\frame_subscriber.h,21,6.0,57.0
+electron,C++,D:\clones\electron\shell\browser\extensions\api\streams_private\streams_private_api.cc,11,5.0,57.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extensions\electron_extension_loader.h,23,21.0,57.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\net\node_stream_loader.h,23,26.0,57.0
+electron,C++,D:\clones\electron\shell\browser\ui\certificate_trust_win.cc,21,10.0,57.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\file_dialog.h,16,4.0,57.0
+electron,C++,D:\clones\electron\shell\browser\ui\win\electron_desktop_window_tree_host_win.cc,13,32.0,57.0
+electron,C++,D:\clones\electron\shell\renderer\extensions\electron_extensions_renderer_client.cc,20,5.0,57.0
+electron,C++,D:\clones\electron\shell\renderer\web_worker_observer.cc,20,15.0,57.0
+electron,TypeScript,D:\clones\electron\spec-main\api-global-shortcut-spec.ts,17,0.0,57.0
+electron,Bourne Shell,D:\clones\electron\.devcontainer\on-create-command.sh,9,9.0,56.0
+electron,diff,D:\clones\electron\patches\chromium\desktop_media_list.patch,11,62.0,56.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\views\menu_bar.h,24,15.0,56.0
+electron,Mojo,D:\clones\electron\shell\common\api\api.mojom,17,10.0,56.0
+electron,C++,D:\clones\electron\shell\common\language_util_win.cc,15,5.0,56.0
+electron,Markdown,D:\clones\electron\docs\development\README.md,25,0.0,55.0
+electron,diff,D:\clones\electron\patches\chromium\mas_disable_remote_layer.patch,23,69.0,55.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_debugger.h,19,7.0,55.0
+electron,Objective-C++,D:\clones\electron\shell\browser\api\electron_api_web_contents_mac.mm,16,15.0,55.0
+electron,C++,D:\clones\electron\shell\browser\api\event.cc,16,6.0,55.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\autofill_popup.h,25,13.0,55.0
+electron,IDL,D:\clones\electron\shell\common\extensions\api\cryptotoken_private.idl,8,0.0,55.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\singleton-data\main.js,10,3.0,55.0
+electron,JSON,D:\clones\electron\.eslintrc.json,0,0.0,54.0
+electron,Markdown,D:\clones\electron\docs\tutorial\native-file-drag-drop.md,22,0.0,54.0
+electron,JavaScript,D:\clones\electron\script\doc-only-change.js,4,3.0,54.0
+electron,C++,D:\clones\electron\shell\app\electron_main_mac.cc,12,3.0,54.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_native_theme.h,17,6.0,54.0
+electron,C++,D:\clones\electron\shell\common\api\electron_api_command_line.cc,13,3.0,54.0
+electron,C/C++ Header,D:\clones\electron\shell\common\v8_value_converter.h,16,8.0,54.0
+electron,Markdown,D:\clones\electron\docs\tutorial\spellchecker.md,21,0.0,53.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\desktop-capturer.ts,15,4.0,53.0
+electron,diff,D:\clones\electron\patches\boringssl\expose_ripemd160.patch,7,37.0,53.0
+electron,diff,D:\clones\electron\patches\chromium\mas_disable_custom_window_frame.patch,22,71.0,53.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_net_log.h,21,6.0,53.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\message_port.h,22,16.0,53.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\certificate_manager_model.h,20,43.0,53.0
+electron,Objective-C++,D:\clones\electron\shell\browser\ui\cocoa\NSColor+Hex.mm,19,5.0,53.0
+electron,Markdown,D:\clones\electron\docs\development\issues.md,18,0.0,52.0
+electron,HTML,D:\clones\electron\docs\fiddles\windows\manage-windows\window-events\index.html,6,0.0,52.0
+electron,Markdown,D:\clones\electron\docs\tutorial\represented-file.md,17,0.0,52.0
+electron,TypeScript,D:\clones\electron\lib\renderer\web-view\guest-view-internal.ts,15,0.0,52.0
+electron,diff,D:\clones\electron\patches\chromium\fix_patch_out_profile_refs_in_accessibility_ui.patch,16,81.0,52.0
+electron,diff,D:\clones\electron\patches\chromium\support_mixed_sandbox_with_zygote.patch,9,34.0,52.0
+electron,C++,D:\clones\electron\shell\browser\electron_navigation_throttle.cc,13,5.0,52.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\mac\in_app_purchase_product.h,20,10.0,52.0
+electron,TypeScript,D:\clones\electron\lib\browser\default-menu.ts,7,0.0,51.0
+electron,Python,D:\clones\electron\script\add-debug-link.py,9,2.0,51.0
+electron,Python,D:\clones\electron\script\release\uploaders\upload-index-json.py,16,1.0,51.0
+electron,Python,D:\clones\electron\script\strip-binaries.py,7,0.0,51.0
+electron,C/C++ Header,D:\clones\electron\shell\app\electron_main_delegate.h,13,5.0,51.0
+electron,C++,D:\clones\electron\shell\browser\electron_autofill_driver.cc,14,3.0,51.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\media\media_capture_devices_dispatcher.h,19,23.0,51.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\serial\serial_chooser_controller.h,18,6.0,51.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\win\dialog_thread.h,9,20.0,51.0
+electron,C/C++ Header,D:\clones\electron\shell\common\api\electron_api_clipboard.h,19,4.0,51.0
+electron,C++,D:\clones\electron\shell\renderer\printing\print_render_frame_helper_delegate.cc,10,10.0,51.0
+electron,Markdown,D:\clones\electron\CONTRIBUTING.md,20,0.0,50.0
+electron,TypeScript,D:\clones\electron\lib\common\reset-search-paths.ts,6,5.0,50.0
+electron,diff,D:\clones\electron\patches\chromium\fix_dont_delete_SerialPortManager_on_main_thread.patch,5,9.0,50.0
+electron,diff,D:\clones\electron\patches\chromium\port_autofill_colors_to_the_color_pipeline.patch,8,47.0,50.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\process_metric.h,12,3.0,50.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\browser_observer.h,21,26.0,50.0
+electron,Objective-C++,D:\clones\electron\shell\browser\electron_browser_main_parts_mac.mm,17,10.0,50.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\electron_web_contents_utility_handler_impl.h,16,6.0,50.0
+electron,C++,D:\clones\electron\shell\browser\plugins\plugin_utils.cc,7,8.0,50.0
+electron,C++,D:\clones\electron\shell\browser\ui\tray_icon_gtk.cc,19,4.0,50.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\win\taskbar_host.h,24,13.0,50.0
+electron,JSON,D:\clones\electron\shell\common\extensions\api\extension.json,1,0.0,50.0
+electron,C++,D:\clones\electron\shell\common\gin_helper\destroyable.cc,14,9.0,50.0
+electron,TypeScript,D:\clones\electron\default_app\preload.ts,8,1.0,49.0
+electron,Markdown,D:\clones\electron\docs\api\shell.md,35,0.0,49.0
+electron,Markdown,D:\clones\electron\docs\development\azure-vm-setup.md,13,0.0,49.0
+electron,JavaScript,D:\clones\electron\script\gn-asar.js,8,6.0,49.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_cookies.h,19,7.0,49.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\native_browser_view.h,20,6.0,49.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\net\web_request_api_interface.h,9,4.0,49.0
+electron,C++,D:\clones\electron\shell\browser\notifications\win\win32_notification.cc,16,5.0,49.0
+electron,C++,D:\clones\electron\shell\browser\protocol_registry.cc,15,11.0,49.0
+electron,C++,D:\clones\electron\shell\common\application_info_linux.cc,20,9.0,49.0
+electron,C++,D:\clones\electron\shell\common\color_util.cc,15,8.0,49.0
+electron,C/C++ Header,D:\clones\electron\shell\renderer\electron_api_service_impl.h,18,6.0,49.0
+electron,TypeScript,D:\clones\electron\spec-main\crash-spec.ts,5,0.0,49.0
+electron,Markdown,D:\clones\electron\docs\api\native-theme.md,26,0.0,48.0
+electron,Markdown,D:\clones\electron\docs\api\service-workers.md,25,0.0,48.0
+electron,Markdown,D:\clones\electron\docs\tutorial\boilerplates-and-clis.md,17,0.0,48.0
+electron,TypeScript,D:\clones\electron\lib\renderer\common-init.ts,8,6.0,48.0
+electron,diff,D:\clones\electron\patches\v8\workaround_an_undefined_symbol_error.patch,8,19.0,48.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\gpu_info_enumerator.h,8,6.0,48.0
+electron,C++,D:\clones\electron\shell\browser\api\save_page_handler.cc,13,9.0,48.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\notifications\win\win32_desktop_notifications\common.h,17,3.0,48.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\electron_desktop_window_tree_host_linux.h,15,12.0,48.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\views\inspectable_web_contents_view_views.h,16,6.0,48.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\extensions\chrome-api\main.js,3,1.0,48.0
+electron,Markdown,D:\clones\electron\docs\api\structures\trace-config.md,4,0.0,47.0
+electron,diff,D:\clones\electron\patches\node\fix_allow_preventing_initializeinspector_in_env.patch,5,29.0,47.0
+electron,Python,D:\clones\electron\script\generate-config-gypi.py,11,7.0,47.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\javascript_environment.h,19,8.0,47.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\views\root_view.h,16,9.0,47.0
+electron,Python,D:\clones\electron\build\fuses\build.py,29,27.0,46.0
+electron,Markdown,D:\clones\electron\docs\tutorial\offscreen-rendering.md,17,0.0,46.0
+electron,diff,D:\clones\electron\patches\chromium\fix_patch_out_permissions_checks_in_exclusive_access.patch,15,64.0,46.0
+electron,diff,D:\clones\electron\patches\chromium\worker_feat_add_hook_to_notify_script_ready.patch,7,38.0,46.0
+electron,Python,D:\clones\electron\script\verify-chromedriver.py,15,0.0,46.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\electron_download_manager_delegate.h,15,6.0,46.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extensions\electron_messaging_delegate.h,9,6.0,46.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\net\resolve_proxy_helper.h,21,11.0,46.0
+electron,C++,D:\clones\electron\shell\browser\relauncher_linux.cc,16,11.0,46.0
+electron,C/C++ Header,D:\clones\electron\shell\common\extensions\electron_extensions_client.h,13,6.0,46.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_helper\object_template_builder.h,12,19.0,46.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\picture-in-picture.html,5,0.0,46.0
+electron,Markdown,D:\clones\electron\docs\api\dock.md,36,0.0,45.0
+electron,Markdown,D:\clones\electron\docs\api\touch-bar-scrubber.md,21,0.0,45.0
+electron,Markdown,D:\clones\electron\docs\development\debugging.md,26,0.0,45.0
+electron,HTML,D:\clones\electron\docs\fiddles\native-ui\tray\index.html,2,0.0,45.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\system\protocol-handler\launch-app-from-URL-in-another-app\main.js,10,8.0,45.0
+electron,Markdown,D:\clones\electron\docs\tutorial\introduction.md,14,0.0,45.0
+electron,Markdown,D:\clones\electron\docs\tutorial\web-embeds.md,12,0.0,45.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\power-monitor.ts,8,6.0,45.0
+electron,diff,D:\clones\electron\patches\chromium\blink_local_frame.patch,10,22.0,45.0
+electron,C++,D:\clones\electron\shell\app\uv_task_runner.cc,12,5.0,45.0
+electron,Objective-C++,D:\clones\electron\shell\browser\api\electron_api_app_mas.mm,16,8.0,45.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_auto_updater.h,15,7.0,45.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_net.cc,13,3.0,45.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\auto_updater.h,21,13.0,45.0
+electron,Objective-C++,D:\clones\electron\shell\browser\ui\inspectable_web_contents_view_mac.mm,16,4.0,45.0
+electron,C/C++ Header,D:\clones\electron\shell\common\api\electron_api_key_weak_map.h,16,5.0,45.0
+electron,JSON,D:\clones\electron\shell\common\extensions\api\_api_features.json,0,0.0,45.0
+electron,Markdown,D:\clones\electron\docs\api\power-monitor.md,38,0.0,44.0
+electron,Markdown,D:\clones\electron\docs\api\structures\printer-info.md,5,0.0,44.0
+electron,Markdown,D:\clones\electron\docs\tutorial\testing-on-headless-ci.md,15,0.0,44.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\module-list.ts,3,2.0,44.0
+electron,diff,D:\clones\electron\patches\chromium\feat_add_streaming-protocol_registry_to_multibuffer_data_source.patch,8,27.0,44.0
+electron,diff,D:\clones\electron\patches\node\unix_remove_uv_cloexec_ioctl_3515.patch,10,37.0,44.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_screen.h,16,5.0,44.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extensions\electron_extension_message_filter.h,16,11.0,44.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\serial\electron_serial_delegate.h,14,4.0,44.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\message_box.h,15,5.0,44.0
+electron,C++,D:\clones\electron\shell\common\gin_helper\trackable_object.cc,17,5.0,44.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\apps\background-color-transparent\main.js,12,3.0,44.0
+electron,JSON,D:\clones\electron\.devcontainer\devcontainer.json,0,0.0,43.0
+electron,Python,D:\clones\electron\build\zip_libcxx.py,4,0.0,43.0
+electron,Markdown,D:\clones\electron\docs\development\debugging-with-symbol-server.md,14,0.0,43.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\web-serial\main.js,11,0.0,43.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\windows\manage-windows\window-events\main.js,8,13.0,43.0
+electron,diff,D:\clones\electron\patches\chromium\render_widget_host_view_mac.patch,9,35.0,43.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_service_worker_context.h,16,6.0,43.0
+electron,Objective-C++,D:\clones\electron\shell\browser\ui\drag_util_mac.mm,11,7.0,43.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\views\global_menu_bar_x11.h,20,20.0,43.0
+electron,Objective-C++,D:\clones\electron\shell\common\asar\archive_mac.mm,17,5.0,43.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_converters\callback_converter.h,9,7.0,43.0
+electron,Objective-C++,D:\clones\electron\shell\common\mac\main_application_bundle.mm,12,11.0,43.0
+electron,Markdown,D:\clones\electron\docs\api\touch-bar-segmented-control.md,14,0.0,42.0
+electron,diff,D:\clones\electron\patches\chromium\build_do_not_depend_on_packed_resource_integrity.patch,7,41.0,42.0
+electron,diff,D:\clones\electron\patches\chromium\expose_setuseragent_on_networkcontext.patch,8,40.0,42.0
+electron,diff,D:\clones\electron\patches\chromium\feat_add_set_theme_source_to_allow_apps_to.patch,8,26.0,42.0
+electron,diff,D:\clones\electron\patches\chromium\worker_context_will_destroy.patch,7,36.0,42.0
+electron,C++,D:\clones\electron\shell\app\command_line_args.cc,14,7.0,42.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_web_contents_impl.cc,11,7.0,42.0
+electron,C++,D:\clones\electron\shell\browser\cookie_change_notifier.cc,17,6.0,42.0
+electron,C++,D:\clones\electron\shell\browser\electron_speech_recognition_manager_delegate.cc,20,3.0,42.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\net\system_network_context_manager.h,22,45.0,42.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\notifications\platform_notification_service.h,11,5.0,42.0
+electron,C++,D:\clones\electron\shell\browser\osr\osr_view_proxy.cc,13,3.0,42.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_helper\persistent_dictionary.h,13,8.0,42.0
+electron,TypeScript,D:\clones\electron\spec-main\api-in-app-purchase-spec.ts,10,4.0,42.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_global_shortcut.h,16,6.0,41.0
+electron,C++,D:\clones\electron\shell\browser\api\views\electron_api_image_view.cc,16,6.0,41.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\electron_speech_recognition_manager_delegate.h,10,6.0,41.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\osr\osr_video_consumer.h,16,5.0,41.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\views\win_caption_button_container.h,16,19.0,41.0
+electron,C++,D:\clones\electron\shell\renderer\extensions\electron_extensions_dispatcher_delegate.cc,10,3.0,41.0
+electron,C++,D:\clones\electron\shell\renderer\guest_view_container.cc,15,4.0,41.0
+electron,YAML,D:\clones\electron\.github\ISSUE_TEMPLATE\feature_request.yml,0,0.0,40.0
+electron,Python,D:\clones\electron\build\dump_syms.py,10,3.0,40.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\web-hid\main.js,10,0.0,40.0
+electron,Markdown,D:\clones\electron\docs\tutorial\linux-desktop-actions.md,12,0.0,40.0
+electron,diff,D:\clones\electron\patches\node\macos_don_t_use_thread-unsafe_strtok_3524.patch,8,6.0,40.0
+electron,JavaScript,D:\clones\electron\script\generate-deps-hash.js,11,7.0,40.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_web_view_manager.cc,10,4.0,40.0
+electron,C++,D:\clones\electron\shell\browser\electron_web_ui_controller_factory.cc,12,4.0,40.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\gtk\app_indicator_icon_menu.h,21,16.0,40.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\gtk\gtk_status_icon.h,18,7.0,40.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\crash-cases\js-execute-iframe\index.js,11,0.0,40.0
+electron,Markdown,D:\clones\electron\.devcontainer\README.md,20,0.0,39.0
+electron,Markdown,D:\clones\electron\docs\development\goma.md,17,0.0,39.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\ipc\pattern-3\main.js,8,1.0,39.0
+electron,TypeScript,D:\clones\electron\lib\common\init.ts,9,18.0,39.0
+electron,diff,D:\clones\electron\patches\chromium\refactor_expose_cursor_changes_to_the_webcontentsobserver.patch,7,48.0,39.0
+electron,JavaScript,D:\clones\electron\script\gen-libc++-filenames.js,9,0.0,39.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\lib\power_observer_linux.h,13,4.0,39.0
+electron,C++,D:\clones\electron\shell\browser\notifications\win\notification_presenter_win7.cc,12,3.0,39.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\cocoa\electron_inspectable_web_contents_view.h,13,3.0,39.0
+electron,C++,D:\clones\electron\shell\browser\ui\gtk\status_icon.cc,15,6.0,39.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\inspectable_web_contents_view.h,15,9.0,39.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\views\frameless_view.h,16,10.0,39.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\views\submenu_button.h,16,6.0,39.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\views\win_frame_view.h,24,28.0,39.0
+electron,C++,D:\clones\electron\shell\browser\ui\win\electron_desktop_native_widget_aura.cc,10,11.0,39.0
+electron,C++,D:\clones\electron\shell\common\api\electron_api_testing.cc,6,3.0,39.0
+electron,C++,D:\clones\electron\shell\common\gin_converters\image_converter.cc,10,5.0,39.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_helper\function_template_extensions.h,10,11.0,39.0
+electron,C++,D:\clones\electron\shell\renderer\api\context_bridge\object_cache.cc,15,3.0,39.0
+electron,C/C++ Header,D:\clones\electron\shell\renderer\electron_renderer_client.h,17,13.0,39.0
+electron,C++,D:\clones\electron\spec-main\fixtures\native-addon\uv-dlopen\main.cpp,7,0.0,39.0
+electron,Markdown,D:\clones\electron\docs\api\command-line.md,26,0.0,38.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\drag-and-drop\main.js,9,1.0,38.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\native-ui\dialogs\open-file-or-directory\main.js,11,21.0,38.0
+electron,diff,D:\clones\electron\patches\chromium\allow_setting_secondary_label_via_simplemenumodel.patch,8,40.0,38.0
+electron,diff,D:\clones\electron\patches\chromium\disable-redraw-lock.patch,8,30.0,38.0
+electron,diff,D:\clones\electron\patches\node\darwin_remove_eprototype_error_workaround_3405.patch,10,17.0,38.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\electron_autofill_driver_factory.h,16,4.0,38.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\lib\bluetooth_chooser.h,11,5.0,38.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\login_handler.h,12,5.0,38.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\native_browser_view_views.h,16,5.0,38.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\net\asar\asar_file_validator.h,14,11.0,38.0
+electron,Objective-C++,D:\clones\electron\shell\browser\osr\osr_web_contents_view_mac.mm,13,3.0,38.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\pref_store_delegate.h,15,6.0,38.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\protocol_registry.h,17,3.0,38.0
+electron,C++,D:\clones\electron\shell\common\application_info.cc,8,4.0,38.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_converters\base_converter.h,6,3.0,38.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_helper\constructible.h,6,25.0,38.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\menus\shortcuts\main.js,11,21.0,37.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\native-ui\dialogs\information-dialog\main.js,12,21.0,37.0
+electron,Markdown,D:\clones\electron\docs\tutorial\fuses.md,17,0.0,37.0
+electron,Markdown,D:\clones\electron\docs\tutorial\multithreading.md,13,0.0,37.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\screen.ts,4,7.0,37.0
+electron,diff,D:\clones\electron\patches\node\process_bsd_handle_kevent_note_exit_failure_3451.patch,7,26.0,37.0
+electron,JavaScript,D:\clones\electron\script\release\get-url-hash.js,2,0.0,37.0
+electron,JSON,D:\clones\electron\script\sysroots.json,1,0.0,37.0
+electron,Objective-C++,D:\clones\electron\shell\app\electron_library_main.mm,6,3.0,37.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_in_app_purchase.h,15,6.0,37.0
+electron,C++,D:\clones\electron\shell\browser\feature_list.cc,10,9.0,37.0
+electron,C++,D:\clones\electron\shell\browser\hid\hid_chooser_context_factory.cc,12,6.0,37.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\win\notify_icon_host.h,22,12.0,37.0
+electron,C++,D:\clones\electron\shell\common\heap_snapshot.cc,17,4.0,37.0
+electron,C/C++ Header,D:\clones\electron\shell\renderer\electron_sandboxed_renderer_client.h,12,9.0,37.0
+electron,TypeScript,D:\clones\electron\spec-main\events-helpers.ts,4,14.0,37.0
+electron,Markdown,D:\clones\electron\docs\api\message-port-main.md,22,0.0,36.0
+electron,Markdown,D:\clones\electron\docs\api\power-save-blocker.md,20,0.0,36.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\macos-dark-mode\main.js,7,0.0,36.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\macos-dock-menu\main.js,6,0.0,36.0
+electron,Markdown,D:\clones\electron\docs\tutorial\accessibility.md,13,0.0,36.0
+electron,TypeScript,D:\clones\electron\lib\browser\web-view-events.ts,0,0.0,36.0
+electron,diff,D:\clones\electron\patches\chromium\accelerator.patch,10,39.0,36.0
+electron,diff,D:\clones\electron\patches\chromium\gin_enable_disable_v8_platform.patch,7,34.0,36.0
+electron,diff,D:\clones\electron\patches\chromium\gpu_notify_when_dxdiag_request_fails.patch,6,28.0,36.0
+electron,JavaScript,D:\clones\electron\script\check-symlinks.js,6,0.0,36.0
+electron,JavaScript,D:\clones\electron\script\release\get-asset.js,7,0.0,36.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_menu_mac.h,17,4.0,36.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_power_save_blocker.h,19,8.0,36.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\electron_javascript_dialog_manager.h,11,4.0,36.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\net\cert_verifier_client.h,12,4.0,36.0
+electron,C++,D:\clones\electron\shell\browser\network_hints_handler_impl.cc,8,3.0,36.0
+electron,Objective-C++,D:\clones\electron\shell\browser\notifications\mac\notification_presenter_mac.mm,12,4.0,36.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\cocoa\window_buttons_proxy.h,16,13.0,36.0
+electron,C++,D:\clones\electron\shell\browser\ui\drag_util_views.cc,9,5.0,36.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\tray_icon_observer.h,9,3.0,36.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\views\global_menu_bar_registrar_x11.h,14,13.0,36.0
+electron,C++,D:\clones\electron\shell\browser\web_view_manager.cc,11,4.0,36.0
+electron,C/C++ Header,D:\clones\electron\shell\renderer\electron_render_frame_observer.h,12,6.0,36.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\cookie-app\main.js,7,0.0,36.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\no-proprietary-codecs.js,10,5.0,36.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\native-ui\dialogs\save-dialog\main.js,10,21.0,35.0
+electron,TypeScript,D:\clones\electron\lib\renderer\window-setup.ts,7,11.0,35.0
+electron,diff,D:\clones\electron\patches\chromium\resource_file_conflict.patch,14,30.0,35.0
+electron,JavaScript,D:\clones\electron\script\lib\s3put.js,4,1.0,35.0
+electron,C++,D:\clones\electron\shell\app\electron_main_linux.cc,5,5.0,35.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extensions\electron_extension_host_delegate.h,9,6.0,35.0
+electron,C++,D:\clones\electron\shell\browser\extensions\electron_extension_system_factory.cc,12,5.0,35.0
+electron,C++,D:\clones\electron\shell\browser\media\media_device_id_salt.cc,14,5.0,35.0
+electron,C++,D:\clones\electron\shell\browser\printing\print_view_manager_electron.cc,13,4.0,35.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\cocoa\electron_ns_window.h,10,4.0,35.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\web_view_guest_delegate.h,15,10.0,35.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_converters\value_converter.h,9,3.0,35.0
+electron,C++,D:\clones\electron\shell\renderer\content_settings_observer.cc,9,4.0,35.0
+electron,C/C++ Header,D:\clones\electron\shell\renderer\extensions\electron_extensions_renderer_client.h,14,5.0,35.0
+electron,TypeScript,D:\clones\electron\spec-main\window-helpers.ts,4,8.0,35.0
+electron,Markdown,D:\clones\electron\docs\api\net-log.md,17,0.0,34.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\progress-bar\main.js,10,4.0,34.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\media\screenshot\take-screenshot\renderer.js,8,0.0,34.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\windows\manage-windows\manage-window-state\main.js,9,13.0,34.0
+electron,TypeScript,D:\clones\electron\lib\renderer\inspector.ts,6,4.0,34.0
+electron,diff,D:\clones\electron\patches\chromium\feat_allow_embedders_to_add_observers_on_created_hunspell.patch,7,24.0,34.0
+electron,diff,D:\clones\electron\patches\node\feat_add_knostartdebugsignalhandler_to_environment_to_prevent.patch,5,30.0,34.0
+electron,diff,D:\clones\electron\patches\node\process_only_use_f_dupfd_cloexec_if_it_is_defined_3512.patch,5,15.0,34.0
+electron,JavaScript,D:\clones\electron\script\push-patch.js,5,2.0,34.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_event_emitter.cc,12,3.0,34.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_view.h,17,5.0,34.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\save_page_handler.h,15,6.0,34.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\mac\electron_application.h,12,6.0,34.0
+electron,C++,D:\clones\electron\shell\browser\notifications\notification_presenter.cc,10,3.0,34.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\osr\osr_view_proxy.h,17,3.0,34.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\relauncher.h,21,64.0,34.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\cocoa\electron_menu_controller.h,16,19.0,34.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\views\win_caption_button.h,15,14.0,34.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\zoom_level_delegate.h,16,14.0,34.0
+electron,C++,D:\clones\electron\shell\renderer\api\electron_api_crash_reporter_renderer.cc,8,3.0,34.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\auto-update\update-json\index.js,9,0.0,34.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\crash-cases\native-window-open-exit\index.js,6,0.0,34.0
+electron,JSON,D:\clones\electron\spec\package.json,0,0.0,34.0
+electron,Markdown,D:\clones\electron\docs\api\in-app-purchase.md,30,0.0,33.0
+electron,Markdown,D:\clones\electron\docs\development\build-instructions-macos.md,18,0.0,33.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\native-ui\drag-and-drop\main.js,10,21.0,33.0
+electron,Markdown,D:\clones\electron\docs\tutorial\application-debugging.md,15,0.0,33.0
+electron,diff,D:\clones\electron\patches\chromium\render_widget_host_view_base.patch,5,36.0,33.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_web_contents_view.h,17,10.0,33.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\electron_autofill_driver.h,13,3.0,33.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extensions\electron_component_extension_resource_manager.h,14,8.0,33.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\gtk\menu_util.h,17,13.0,33.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\inspectable_web_contents_view_mac.h,13,5.0,33.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\tray_icon_cocoa.h,13,5.0,33.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\window_list.h,20,12.0,33.0
+electron,C++,D:\clones\electron\shell\common\api\electron_api_environment.cc,9,3.0,33.0
+electron,C/C++ Header,D:\clones\electron\shell\common\electron_paths.h,15,3.0,33.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_converters\file_path_converter.h,8,3.0,33.0
+electron,C++,D:\clones\electron\shell\common\platform_util.cc,8,4.0,33.0
+electron,C/C++ Header,D:\clones\electron\shell\common\platform_util.h,17,13.0,33.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\auto-update\update\index.js,9,0.0,33.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\extensions\chrome-runtime\main.js,5,1.0,33.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\pages\service-worker\service-worker-badge.js,0,0.0,33.0
+electron,Markdown,D:\clones\electron\docs\api\message-channel-main.md,14,0.0,32.0
+electron,Markdown,D:\clones\electron\docs\api\structures\protocol-response.md,2,0.0,32.0
+electron,Markdown,D:\clones\electron\docs\api\touch-bar-button.md,19,0.0,32.0
+electron,Markdown,D:\clones\electron\docs\development\clang-tidy.md,5,0.0,32.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\windows\manage-windows\window-events\renderer.js,7,0.0,32.0
+electron,TypeScript,D:\clones\electron\lib\renderer\web-view\web-view-init.ts,7,4.0,32.0
+electron,diff,D:\clones\electron\patches\chromium\proxy_config_monitor.patch,11,52.0,32.0
+electron,diff,D:\clones\electron\patches\node\chore_allow_the_node_entrypoint_to_be_a_builtin_module.patch,3,15.0,32.0
+electron,JavaScript,D:\clones\electron\script\release\find-github-release.js,7,0.0,32.0
+electron,C/C++ Header,D:\clones\electron\shell\app\uv_task_runner.h,13,6.0,32.0
+electron,C++,D:\clones\electron\shell\browser\net\cert_verifier_client.cc,10,3.0,32.0
+electron,C++,D:\clones\electron\shell\browser\notifications\notification.cc,11,3.0,32.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\printing\print_view_manager_electron.h,11,4.0,32.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\cocoa\electron_bundle_mover.h,10,4.0,32.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\win\electron_desktop_window_tree_host_win.h,10,4.0,32.0
+electron,C/C++ Header,D:\clones\electron\shell\common\skia_util.h,13,3.0,32.0
+electron,C/C++ Header,D:\clones\electron\shell\renderer\api\electron_api_context_bridge.h,12,14.0,32.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\web-frame-main.ts,7,0.0,31.0
+electron,TypeScript,D:\clones\electron\lib\browser\ipc-main-internal-utils.ts,7,0.0,31.0
+electron,diff,D:\clones\electron\patches\chromium\add_webmessageportconverter_entangleandinjectmessageportchannel.patch,7,21.0,31.0
+electron,diff,D:\clones\electron\patches\node\darwin_translate_eprototype_to_econnreset_3413.patch,7,6.0,31.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_data_pipe_holder.h,15,10.0,31.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\gpuinfo_manager.h,12,8.0,31.0
+electron,C++,D:\clones\electron\shell\common\gin_converters\message_box_converter.cc,5,3.0,31.0
+electron,C++,D:\clones\electron\shell\common\node_bindings_mac.cc,10,5.0,31.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\apps\libuv-hang\main.js,5,0.0,31.0
+electron,TypeScript,D:\clones\electron\spec-main\pipe-transport.ts,5,1.0,31.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\window-opener-targetOrigin.html,0,0.0,31.0
+electron,YAML,D:\clones\electron\.github\ISSUE_TEMPLATE\mac_app_store_private_api_rejection.yml,0,0.0,30.0
+electron,Markdown,D:\clones\electron\docs\api\share-menu.md,17,0.0,30.0
+electron,diff,D:\clones\electron\patches\chromium\chore_do_not_use_chrome_windows_in_cryptotoken_webrequestsender.patch,4,14.0,30.0
+electron,diff,D:\clones\electron\patches\chromium\dcheck.patch,4,16.0,30.0
+electron,diff,D:\clones\electron\patches\chromium\don_t_run_pcscan_notifythreadcreated_if_pcscan_is_disabled.patch,12,38.0,30.0
+electron,diff,D:\clones\electron\patches\chromium\web_contents.patch,7,28.0,30.0
+electron,diff,D:\clones\electron\patches\node\chore_fix_-wimplicit-fallthrough.patch,6,40.0,30.0
+electron,diff,D:\clones\electron\patches\node\repl_fix_crash_when_sharedarraybuffer_disabled.patch,8,25.0,30.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\electron_web_ui_controller_factory.h,12,5.0,30.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\notifications\notification_presenter.h,16,4.0,30.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\inspectable_web_contents_delegate.h,8,5.0,30.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_helper\arguments.h,9,12.0,30.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_helper\wrappable_base.h,15,25.0,30.0
+electron,C/C++ Header,D:\clones\electron\shell\renderer\extensions\electron_extensions_dispatcher_delegate.h,7,5.0,30.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\service-worker\badge-index.html,1,0.0,30.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\webview-in-page-navigate.html,0,0.0,30.0
+electron,JSON,D:\clones\electron\.markdownlint.json,0,0.0,29.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\keyboard-shortcuts\local\main.js,7,0.0,29.0
+electron,TypeScript,D:\clones\electron\lib\browser\ipc-main-impl.ts,4,0.0,29.0
+electron,diff,D:\clones\electron\patches\chromium\refactor_restore_base_adaptcallbackforrepeating.patch,5,6.0,29.0
+electron,diff,D:\clones\electron\patches\node\refactor_allow_embedder_overriding_of_internal_fs_calls.patch,7,31.0,29.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_menu_views.h,13,4.0,29.0
+electron,C++,D:\clones\electron\shell\browser\extensions\electron_process_manager_delegate.cc,8,3.0,29.0
+electron,C++,D:\clones\electron\shell\browser\fake_location_provider.cc,11,4.0,29.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\net\network_context_service.h,10,6.0,29.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\net\network_context_service_factory.h,14,7.0,29.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\notifications\mac\cocoa_notification.h,13,4.0,29.0
+electron,C++,D:\clones\electron\shell\browser\session_preferences.cc,11,6.0,29.0
+electron,C++,D:\clones\electron\shell\browser\special_storage_policy.cc,13,3.0,29.0
+electron,C++,D:\clones\electron\shell\browser\ui\drag_util.cc,7,6.0,29.0
+electron,C++,D:\clones\electron\shell\common\electron_constants.cc,7,3.0,29.0
+electron,C++,D:\clones\electron\shell\common\node_util.cc,7,5.0,29.0
+electron,C/C++ Header,D:\clones\electron\shell\renderer\api\context_bridge\object_cache.h,14,4.0,29.0
+electron,C++,D:\clones\electron\shell\renderer\browser_exposed_renderer_interfaces.cc,7,3.0,29.0
+electron,YAML,D:\clones\electron\.github\config.yml,9,4.0,28.0
+electron,Python,D:\clones\electron\build\generate_node_defines.py,6,0.0,28.0
+electron,Markdown,D:\clones\electron\docs\api\structures\jump-list-item.md,1,0.0,28.0
+electron,Markdown,D:\clones\electron\docs\api\structures\process-metric.md,1,0.0,28.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\ipc\pattern-2\main.js,4,0.0,28.0
+electron,diff,D:\clones\electron\patches\boringssl\expose_aes-cfb.patch,6,37.0,28.0
+electron,diff,D:\clones\electron\patches\chromium\dom_storage_limits.patch,7,12.0,28.0
+electron,diff,D:\clones\electron\patches\chromium\feat_add_support_for_overriding_the_base_spellchecker_download_url.patch,7,23.0,28.0
+electron,diff,D:\clones\electron\patches\chromium\fix_aspect_ratio_with_max_size.patch,2,8.0,28.0
+electron,diff,D:\clones\electron\patches\chromium\isolate_holder.patch,4,21.0,28.0
+electron,diff,D:\clones\electron\patches\node\process_simplify_uv_write_int_calls_3519.patch,10,25.0,28.0
+electron,diff,D:\clones\electron\patches\v8\do_not_export_private_v8_symbols_on_windows.patch,7,17.0,28.0
+electron,TypeScript,D:\clones\electron\script\codesign\gen-trust.ts,9,1.0,28.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_browser_window_views.cc,10,3.0,28.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\cookie_change_notifier.h,13,7.0,28.0
+electron,C++,D:\clones\electron\shell\browser\event_emitter_mixin.cc,14,3.0,28.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extensions\api\runtime\electron_runtime_api_delegate.h,11,5.0,28.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\notifications\linux\libnotify_notification.h,10,4.0,28.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\tray_icon_gtk.h,10,7.0,28.0
+electron,C++,D:\clones\electron\shell\browser\win\scoped_hstring.cc,11,3.0,28.0
+electron,C++,D:\clones\electron\shell\common\node_bindings_win.cc,12,11.0,28.0
+electron,C/C++ Header,D:\clones\electron\shell\renderer\guest_view_container.h,15,4.0,28.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\apps\remote-control\main.js,3,1.0,28.0
+electron,C++,D:\clones\electron\spec-main\fixtures\native-addon\echo\binding.cc,10,0.0,28.0
+electron,Markdown,D:\clones\electron\docs\development\chromium-development.md,12,0.0,27.0
+electron,TypeScript,D:\clones\electron\lib\renderer\api\context-bridge.ts,5,0.0,27.0
+electron,TypeScript,D:\clones\electron\lib\renderer\api\ipc-renderer.ts,9,0.0,27.0
+electron,TypeScript,D:\clones\electron\lib\sandboxed_renderer\api\module-list.ts,0,1.0,27.0
+electron,diff,D:\clones\electron\patches\chromium\add_ui_scopedcliboardwriter_writeunsaferawdata.patch,5,13.0,27.0
+electron,diff,D:\clones\electron\patches\chromium\breakpad_treat_node_processes_as_browser_processes.patch,3,15.0,27.0
+electron,diff,D:\clones\electron\patches\chromium\feat_add_onclose_to_messageport.patch,4,20.0,27.0
+electron,diff,D:\clones\electron\patches\chromium\fix_non-client_mouse_tracking_and_message_bubbling_on_windows.patch,4,26.0,27.0
+electron,C/C++ Header,D:\clones\electron\shell\app\electron_content_client.h,9,5.0,27.0
+electron,Objective-C++,D:\clones\electron\shell\browser\api\electron_api_native_theme_mac.mm,7,3.0,27.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\event.h,15,10.0,27.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extensions\electron_process_manager_delegate.h,9,7.0,27.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\hid\hid_chooser_context_factory.h,11,5.0,27.0
+electron,C++,D:\clones\electron\shell\browser\net\network_context_service_factory.cc,10,4.0,27.0
+electron,C++,D:\clones\electron\shell\browser\serial\serial_chooser_context_factory.cc,10,5.0,27.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\session_preferences.h,12,4.0,27.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\win\electron_desktop_native_widget_aura.h,13,7.0,27.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\web_view_manager.h,12,6.0,27.0
+electron,C/C++ Header,D:\clones\electron\shell\common\asar\scoped_temporary_file.h,11,9.0,27.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\apps\self-module-paths\main.js,6,1.0,27.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\extensions\chrome-api\background.js,5,2.0,27.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\extensions\chrome-i18n\main.js,5,1.0,27.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\default-menu\main.js,5,0.0,27.0
+electron,Markdown,D:\clones\electron\docs\api\structures\gpu-feature-status.md,3,0.0,26.0
+electron,Markdown,D:\clones\electron\docs\api\touch-bar-slider.md,14,0.0,26.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\recent-documents\main.js,6,0.0,26.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\native-ui\notifications\main.js,9,21.0,26.0
+electron,HTML,D:\clones\electron\docs\fiddles\system\system-app-user-information\app-information\index.html,0,0.0,26.0
+electron,HTML,D:\clones\electron\docs\fiddles\system\system-information\get-version-information\index.html,0,0.0,26.0
+electron,HTML,D:\clones\electron\docs\fiddles\windows\manage-windows\create-frameless-window\index.html,0,0.0,26.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\windows\manage-windows\frameless-window\main.js,7,13.0,26.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\windows\manage-windows\new-window\main.js,7,13.0,26.0
+electron,diff,D:\clones\electron\patches\chromium\fix_use_electron_generated_resources.patch,8,19.0,26.0
+electron,diff,D:\clones\electron\patches\chromium\mas_blink_no_private_api.patch,12,36.0,26.0
+electron,diff,D:\clones\electron\patches\node\fix_add_default_values_for_variables_in_common_gypi.patch,4,6.0,26.0
+electron,JavaScript,D:\clones\electron\script\gen-hunspell-filenames.js,9,0.0,26.0
+electron,JavaScript,D:\clones\electron\script\gn-check.js,9,5.0,26.0
+electron,C++,D:\clones\electron\shell\browser\badging\badge_manager_factory.cc,10,5.0,26.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extensions\electron_extension_system_factory.h,11,7.0,26.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\serial\serial_chooser_context_factory.h,11,5.0,26.0
+electron,C++,D:\clones\electron\shell\common\api\object_life_monitor.cc,8,6.0,26.0
+electron,C/C++ Header,D:\clones\electron\shell\common\electron_constants.h,9,5.0,26.0
+electron,C/C++ Header,D:\clones\electron\shell\common\extensions\electron_extensions_api_provider.h,9,5.0,26.0
+electron,C++,D:\clones\electron\shell\common\gin_helper\error_thrower.cc,12,6.0,26.0
+electron,C++,D:\clones\electron\shell\common\gin_helper\object_template_builder.cc,7,3.0,26.0
+electron,C/C++ Header,D:\clones\electron\shell\utility\electron_content_utility_client.h,11,5.0,26.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\isolated.html,3,0.0,26.0
+electron,Markdown,D:\clones\electron\docs\api\file-object.md,6,0.0,25.0
+electron,Markdown,D:\clones\electron\docs\api\structures\desktop-capturer-source.md,1,0.0,25.0
+electron,HTML,D:\clones\electron\docs\fiddles\media\screenshot\take-screenshot\index.html,0,0.0,25.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\quick-start\main.js,6,0.0,25.0
+electron,HTML,D:\clones\electron\docs\fiddles\windows\manage-windows\new-window\index.html,0,0.0,25.0
+electron,diff,D:\clones\electron\patches\node\unix_simplify_uv_cloexec_fcntl_3492.patch,4,7.0,25.0
+electron,diff,D:\clones\electron\patches\v8\fix_build_deprecated_attirbute_for_older_msvc_versions.patch,4,14.0,25.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_crash_reporter.h,12,4.0,25.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extensions\electron_extension_web_contents_observer.h,11,7.0,25.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extensions\electron_extensions_api_client.h,10,4.0,25.0
+electron,C++,D:\clones\electron\shell\browser\extensions\electron_navigation_ui_data.cc,12,3.0,25.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extensions\electron_navigation_ui_data.h,12,13.0,25.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\media\media_stream_devices_controller.h,14,10.0,25.0
+electron,C++,D:\clones\electron\shell\browser\net\asar\asar_url_loader_factory.cc,10,6.0,25.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_converters\gurl_converter.h,7,3.0,25.0
+electron,C/C++ Header,D:\clones\electron\shell\renderer\electron_renderer_pepper_host_factory.h,9,6.0,25.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\api\webrequest.html,2,0.0,25.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\tab-focus-loop-elements.html,2,0.0,25.0
+electron,JSON,D:\clones\electron\tsconfig.json,0,0.0,25.0
+electron,YAML,D:\clones\electron\.clang-format,0,11.0,24.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\notifications\main\main.js,7,0.0,24.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\offscreen-rendering\main.js,5,0.0,24.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\represented-file\main.js,6,0.0,24.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\web-bluetooth\main.js,6,0.0,24.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\ipc\pattern-1\main.js,6,0.0,24.0
+electron,HTML,D:\clones\electron\docs\fiddles\native-ui\external-links-file-manager\path-in-file-manager\index.html,0,0.0,24.0
+electron,HTML,D:\clones\electron\docs\fiddles\system\clipboard\copy\index.html,0,0.0,24.0
+electron,HTML,D:\clones\electron\docs\fiddles\system\clipboard\paste\index.html,0,0.0,24.0
+electron,TypeScript,D:\clones\electron\lib\browser\message-port-main.ts,4,0.0,24.0
+electron,diff,D:\clones\electron\patches\chromium\add_contentgpuclient_precreatemessageloop_callback.patch,8,17.0,24.0
+electron,diff,D:\clones\electron\patches\chromium\chore_use_electron_resources_not_chrome_for_spellchecker.patch,4,30.0,24.0
+electron,Python,D:\clones\electron\script\apply_all_patches.py,10,0.0,24.0
+electron,C++,D:\clones\electron\shell\browser\api\ui_event.cc,6,3.0,24.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\views\electron_api_image_view.h,12,3.0,24.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\badging\badge_manager_factory.h,13,8.0,24.0
+electron,C++,D:\clones\electron\shell\browser\electron_pdf_web_contents_helper_client.cc,5,3.0,24.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\net\asar\asar_url_loader_factory.h,8,5.0,24.0
+electron,Objective-C++,D:\clones\electron\shell\browser\osr\osr_host_display_client_mac.mm,8,3.0,24.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\devtools_manager_delegate.h,10,5.0,24.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\webui\accessibility_ui.h,8,6.0,24.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\win\scoped_hstring.h,12,9.0,24.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_converters\frame_converter.h,8,3.0,24.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_converters\native_window_converter.h,7,4.0,24.0
+electron,C++,D:\clones\electron\shell\common\gin_helper\cleaned_up_at_exit.cc,7,4.0,24.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_helper\error_thrower.h,10,3.0,24.0
+electron,C/C++ Header,D:\clones\electron\shell\common\node_includes.h,9,7.0,24.0
+electron,TypeScript,D:\clones\electron\spec-main\api-web-contents-view-spec.ts,5,8.0,24.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\api\net-log\main.js,7,0.0,24.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\crash-cases\fs-promises-renderer-crash\index.js,4,0.0,24.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\crash-cases\js-execute-iframe\index.html,5,0.0,24.0
+electron,JavaScript,D:\clones\electron\spec\events-helpers.js,4,14.0,24.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\webview-custom-zoom-level.html,0,0.0,24.0
+electron,Markdown,D:\clones\electron\docs\api\safe-storage.md,17,0.0,23.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\keyboard-shortcuts\global\main.js,5,0.0,23.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\media\screenshot\take-screenshot\main.js,6,0.0,23.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\native-ui\notifications\renderer.js,6,0.0,23.0
+electron,TypeScript,D:\clones\electron\lib\worker\init.ts,10,11.0,23.0
+electron,diff,D:\clones\electron\patches\boringssl\expose_blowfish_ciphers.patch,2,22.0,23.0
+electron,diff,D:\clones\electron\patches\chromium\chore_expose_v8_initialization_isolate_callbacks.patch,4,14.0,23.0
+electron,diff,D:\clones\electron\patches\chromium\crashpad_pid_check.patch,5,10.0,23.0
+electron,diff,D:\clones\electron\patches\chromium\webview_fullscreen.patch,5,7.0,23.0
+electron,diff,D:\clones\electron\patches\devtools_frontend\fix_expose_globals_to_allow_patching_devtools_dock.patch,3,22.0,23.0
+electron,Markdown,D:\clones\electron\patches\v8\README.md,4,0.0,23.0
+electron,diff,D:\clones\electron\patches\v8\fix_disable_implies_dcheck_for_node_stream_array_buffers.patch,6,7.0,23.0
+electron,Python,D:\clones\electron\script\export_all_patches.py,10,0.0,23.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\electron_quota_permission_context.h,11,5.0,23.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extended_web_contents_observer.h,8,5.0,23.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\fake_location_provider.h,9,5.0,23.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\native_browser_view_mac.h,10,3.0,23.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\notifications\win\win32_notification.h,10,3.0,23.0
+electron,Objective-C++,D:\clones\electron\shell\browser\ui\cocoa\event_dispatching_window.mm,7,4.0,23.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\drag_util.h,10,4.0,23.0
+electron,JSON,D:\clones\electron\shell\common\extensions\api\_permission_features.json,0,0.0,23.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_converters\file_dialog_converter.h,7,3.0,23.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_converters\image_converter.h,8,3.0,23.0
+electron,C++,D:\clones\electron\shell\common\gin_helper\function_template.cc,8,5.0,23.0
+electron,C++,D:\clones\electron\shell\common\node_bindings_linux.cc,8,5.0,23.0
+electron,C/C++ Header,D:\clones\electron\shell\common\v8_value_serializer.h,8,3.0,23.0
+electron,TypeScript,D:\clones\electron\spec-main\autofill-spec.ts,5,0.0,23.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\tab-focus-loop-elements-wv.html,2,0.0,23.0
+electron,Markdown,D:\clones\electron\docs\api\structures\jump-list-category.md,3,0.0,22.0
+electron,Markdown,D:\clones\electron\docs\development\debugging-with-xcode.md,8,0.0,22.0
+electron,HTML,D:\clones\electron\docs\fiddles\native-ui\notifications\basic-notification\index.html,0,0.0,22.0
+electron,HTML,D:\clones\electron\docs\fiddles\native-ui\notifications\notification-with-image\index.html,0,0.0,22.0
+electron,Markdown,D:\clones\electron\docs\tutorial\debugging-main-process.md,11,0.0,22.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\protocol.ts,8,3.0,22.0
+electron,diff,D:\clones\electron\patches\chromium\boringssl_build_gn.patch,4,6.0,22.0
+electron,diff,D:\clones\electron\patches\chromium\build_libc_as_static_library.patch,4,20.0,22.0
+electron,diff,D:\clones\electron\patches\chromium\disable_hidden.patch,7,19.0,22.0
+electron,diff,D:\clones\electron\patches\chromium\disable_unload_metrics.patch,7,16.0,22.0
+electron,diff,D:\clones\electron\patches\chromium\mas-cfisobjc.patch,5,17.0,22.0
+electron,diff,D:\clones\electron\patches\chromium\mas_avoid_usage_of_pthread_fchdir_np.patch,8,36.0,22.0
+electron,diff,D:\clones\electron\patches\node\pass_all_globals_through_require.patch,3,15.0,22.0
+electron,JavaScript,D:\clones\electron\script\generate-version-json.js,6,0.0,22.0
+electron,Python,D:\clones\electron\script\lib\patches.py,6,4.0,22.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\child_web_contents_tracker.h,11,6.0,22.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\notifications\win\notification_presenter_win7.h,12,3.0,22.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\cocoa\electron_native_widget_mac.h,10,5.0,22.0
+electron,Objective-C++,D:\clones\electron\shell\browser\ui\cocoa\views_delegate_mac.mm,10,7.0,22.0
+electron,C/C++ Header,D:\clones\electron\shell\common\application_info.h,11,4.0,22.0
+electron,Objective-C++,D:\clones\electron\shell\common\application_info_mac.mm,11,3.0,22.0
+electron,C/C++ Header,D:\clones\electron\shell\common\asar\asar_util.h,12,7.0,22.0
+electron,C/C++ Header,D:\clones\electron\shell\renderer\web_worker_observer.h,12,6.0,22.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\crash-cases\api-browser-destroy\index.js,2,1.0,22.0
+electron,JSON,D:\clones\electron\spec-main\package.json,0,0.0,22.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\snapshot-items-available\main.js,3,1.0,22.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\online-detection\main.js,5,0.0,21.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\native-ui\dialogs\information-dialog\renderer.js,4,0.0,21.0
+electron,JSON,D:\clones\electron\lib\browser\.eslintrc.json,0,0.0,21.0
+electron,TypeScript,D:\clones\electron\lib\common\ipc-messages.ts,5,0.0,21.0
+electron,diff,D:\clones\electron\patches\chromium\mas_gate_private_enterprise_APIs.patch,5,10.0,21.0
+electron,diff,D:\clones\electron\patches\chromium\skip_atk_toolchain_check.patch,12,14.0,21.0
+electron,diff,D:\clones\electron\patches\chromium\webview_cross_drag.patch,6,13.0,21.0
+electron,Python,D:\clones\electron\script\dbus_mock.py,8,0.0,21.0
+electron,Python,D:\clones\electron\script\zip_manifests\check-zip-manifest.py,4,0.0,21.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\electron_pdf_web_contents_helper_client.h,5,4.0,21.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\media\media_device_id_salt.h,12,7.0,21.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\network_hints_handler_impl.h,9,4.0,21.0
+electron,C++,D:\clones\electron\shell\browser\pref_store_delegate.cc,8,3.0,21.0
+electron,C++,D:\clones\electron\shell\common\gin_helper\event_emitter_caller.cc,7,10.0,21.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_helper\pinnable.h,8,5.0,21.0
+electron,C++,D:\clones\electron\shell\renderer\pepper_helper.cc,7,5.0,21.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\basic-auth.html,0,0.0,21.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\filesystem.html,3,0.0,21.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\service-worker\custom-scheme-index.html,0,0.0,21.0
+electron,Markdown,D:\clones\electron\docs\api\structures\display.md,2,0.0,20.0
+electron,Markdown,D:\clones\electron\docs\api\touch-bar-color-picker.md,10,0.0,20.0
+electron,Markdown,D:\clones\electron\docs\api\touch-bar-label.md,13,0.0,20.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\native-ui\external-links-file-manager\external-links\main.js,5,0.0,20.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\native-ui\external-links-file-manager\path-in-file-manager\main.js,5,0.0,20.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\native-ui\notifications\basic-notification\main.js,5,0.0,20.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\native-ui\notifications\notification-with-image\main.js,5,0.0,20.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\system\clipboard\copy\main.js,5,0.0,20.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\system\clipboard\paste\main.js,5,0.0,20.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\system\system-information\get-version-information\main.js,5,0.0,20.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\windows\manage-windows\manage-window-state\renderer.js,5,0.0,20.0
+electron,XML,D:\clones\electron\electron_resources.grd,0,5.0,20.0
+electron,TypeScript,D:\clones\electron\lib\renderer\ipc-renderer-internal-utils.ts,4,0.0,20.0
+electron,TypeScript,D:\clones\electron\lib\renderer\web-view\web-view-constants.ts,1,2.0,20.0
+electron,JavaScript,D:\clones\electron\npm\cli.js,5,0.0,20.0
+electron,diff,D:\clones\electron\patches\chromium\allow_new_privileges_in_unsandboxed_child_processes.patch,3,7.0,20.0
+electron,diff,D:\clones\electron\patches\chromium\build_gn.patch,5,12.0,20.0
+electron,diff,D:\clones\electron\patches\chromium\enable_reset_aspect_ratio.patch,6,12.0,20.0
+electron,diff,D:\clones\electron\patches\chromium\mas_use_public_apis_to_determine_if_a_font_is_a_system_font.patch,6,14.0,20.0
+electron,diff,D:\clones\electron\patches\chromium\upload_list_add_loadsync_method.patch,4,14.0,20.0
+electron,Python,D:\clones\electron\script\git-import-patches,7,0.0,20.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\notifications\mac\notification_presenter_mac.h,10,4.0,20.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\notifications\win\notification_presenter_win.h,13,19.0,20.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\accelerator_util.h,10,6.0,20.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\cocoa\electron_ns_window_delegate.h,7,6.0,20.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\inspectable_web_contents_view_delegate.h,10,6.0,20.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\views\native_frame_view.h,10,7.0,20.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\x\event_disabler.h,9,5.0,20.0
+electron,C/C++ Header,D:\clones\electron\shell\common\api\object_life_monitor.h,11,4.0,20.0
+electron,C/C++ Header,D:\clones\electron\shell\common\electron_command_line.h,10,7.0,20.0
+electron,IDL,D:\clones\electron\shell\common\extensions\api\resources_private.idl,3,0.0,20.0
+electron,C++,D:\clones\electron\shell\common\gin_converters\extension_converter.cc,6,4.0,20.0
+electron,C++,D:\clones\electron\shell\common\gin_helper\persistent_dictionary.cc,9,3.0,20.0
+electron,C/C++ Header,D:\clones\electron\shell\renderer\printing\print_render_frame_helper_delegate.h,8,5.0,20.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\auto-update\check-with-headers\index.js,6,0.0,20.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\crash-cases\setimmediate-window-open-crash\index.html,1,0.0,20.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\pages\half-background-color.html,0,0.0,20.0
+electron,TypeScript,D:\clones\electron\spec-main\internal-spec.ts,1,0.0,20.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\new-window-webview.html,0,0.0,20.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\shared-worker\shared-worker.html,5,0.0,20.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\window-all-closed\main.js,4,0.0,20.0
+electron,JSON,D:\clones\electron\spec\ts-smoke\tsconfig.json,0,0.0,20.0
+electron,Python,D:\clones\electron\build\npm-run.py,1,0.0,19.0
+electron,Markdown,D:\clones\electron\docs\api\touch-bar-popover.md,10,0.0,19.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\notifications\renderer\main.js,5,0.0,19.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\native-ui\dialogs\save-dialog\renderer.js,4,0.0,19.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\windows\manage-windows\create-frameless-window\main.js,3,0.0,19.0
+electron,diff,D:\clones\electron\patches\chromium\fix_expose_decrementcapturercount_in_web_contents_impl.patch,4,14.0,19.0
+electron,diff,D:\clones\electron\patches\chromium\frame_host_manager.patch,6,12.0,19.0
+electron,diff,D:\clones\electron\patches\chromium\introduce_ozoneplatform_electron_can_call_x11_property.patch,3,15.0,19.0
+electron,diff,D:\clones\electron\patches\chromium\logging_win32_only_create_a_console_if_logging_to_stderr.patch,3,7.0,19.0
+electron,diff,D:\clones\electron\patches\node\chore_add_context_to_context_aware_module_prevention.patch,3,13.0,19.0
+electron,diff,D:\clones\electron\patches\node\expose_get_builtin_module_function.patch,7,12.0,19.0
+electron,diff,D:\clones\electron\patches\node\fix_expose_tracing_agent_and_use_tracing_tracingcontroller_instead.patch,7,18.0,19.0
+electron,diff,D:\clones\electron\patches\node\process_reset_the_signal_mask_if_the_fork_fails_3537.patch,6,11.0,19.0
+electron,diff,D:\clones\electron\patches\v8\dcheck.patch,4,14.0,19.0
+electron,Python,D:\clones\electron\script\run-gn-format.py,5,2.0,19.0
+electron,C++,D:\clones\electron\shell\browser\api\electron_api_event.cc,6,3.0,19.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extensions\api\resources_private\resources_private_api.h,9,5.0,19.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extensions\api\streams_private\streams_private_api.h,7,16.0,19.0
+electron,C++,D:\clones\electron\shell\browser\native_browser_view.cc,8,3.0,19.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\notifications\notification_delegate.h,10,6.0,19.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\plugins\plugin_utils.h,8,8.0,19.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\special_storage_policy.h,8,4.0,19.0
+electron,C++,D:\clones\electron\shell\browser\ui\accelerator_util_unittests.cc,6,4.0,19.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\cocoa\root_view_mac.h,10,6.0,19.0
+electron,Objective-C++,D:\clones\electron\shell\browser\ui\cocoa\root_view_mac.mm,10,3.0,19.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_helper\locker.h,11,7.0,19.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_helper\microtasks_scope.h,9,6.0,19.0
+electron,C/C++ Header,D:\clones\electron\shell\common\mouse_util.h,8,7.0,19.0
+electron,C/C++ Header,D:\clones\electron\shell\renderer\content_settings_observer.h,9,6.0,19.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\api\native-window-open-native-addon.html,3,0.0,19.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\extensions\chrome-api\manifest.json,0,0.0,19.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\extensions\content-script\manifest.json,0,0.0,19.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\gpu-info.js,2,0.0,19.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\native-window-open-cross-origin.html,0,0.0,19.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\relaunch\main.js,3,0.0,19.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\webview-opener-postMessage.html,0,0.0,19.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\webview-origin-zoom-level.html,0,0.0,19.0
+electron,Markdown,D:\clones\electron\docs\api\structures\thumbar-button.md,3,0.0,18.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\keyboard-shortcuts\web-apis\main.js,6,11.0,18.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\web-serial\renderer.js,1,0.0,18.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\native-ui\dialogs\open-file-or-directory\renderer.js,4,0.0,18.0
+electron,TypeScript,D:\clones\electron\lib\common\api\clipboard.ts,6,2.0,18.0
+electron,JavaScript,D:\clones\electron\npm\index.js,3,0.0,18.0
+electron,JSON,D:\clones\electron\npm\package.json,0,0.0,18.0
+electron,diff,D:\clones\electron\patches\chromium\breakpad_allow_getting_string_values_for_crash_keys.patch,4,7.0,18.0
+electron,diff,D:\clones\electron\patches\chromium\export_gin_v8platform_pageallocator_for_usage_outside_of_the_gin.patch,3,16.0,18.0
+electron,diff,D:\clones\electron\patches\chromium\load_v8_snapshot_in_browser_process.patch,3,7.0,18.0
+electron,diff,D:\clones\electron\patches\chromium\mas-cgdisplayusesforcetogray.patch,3,8.0,18.0
+electron,diff,D:\clones\electron\patches\chromium\sysroot.patch,7,10.0,18.0
+electron,diff,D:\clones\electron\patches\nan\use_new_constructor_for_scriptorigin.patch,5,19.0,18.0
+electron,diff,D:\clones\electron\patches\node\fix_readbarrier_undefined_symbol_error_on_woa_arm64.patch,4,7.0,18.0
+electron,diff,D:\clones\electron\patches\v8\build_gn.patch,9,14.0,18.0
+electron,C++,D:\clones\electron\shell\browser\auto_updater.cc,10,3.0,18.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\electron_navigation_throttle.h,10,4.0,18.0
+electron,C++,D:\clones\electron\shell\browser\extensions\electron_extension_web_contents_observer.cc,8,4.0,18.0
+electron,C++,D:\clones\electron\shell\browser\microtasks_runner.cc,8,12.0,18.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\microtasks_runner.h,9,10.0,18.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\views\menu_model_adapter.h,9,4.0,18.0
+electron,C++,D:\clones\electron\shell\common\electron_command_line.cc,9,9.0,18.0
+electron,C/C++ Header,D:\clones\electron\shell\common\node_util.h,10,8.0,18.0
+electron,XML,D:\clones\electron\shell\common\resources\mac\Info.plist,0,0.0,18.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\chromium\visibilitystate.html,0,0.0,18.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\crash-cases\quit-on-crashed-event\index.js,1,0.0,18.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\crash-cases\setimmediate-renderer-crash\index.js,4,0.0,18.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\service-worker\index.html,0,0.0,18.0
+electron,Markdown,D:\clones\electron\docs\api\structures\product.md,1,0.0,17.0
+electron,Markdown,D:\clones\electron\docs\api\structures\trace-categories-and-options.md,1,0.0,17.0
+electron,Markdown,D:\clones\electron\docs\experimental.md,6,0.0,17.0
+electron,HTML,D:\clones\electron\docs\fiddles\features\macos-dark-mode\index.html,2,0.0,17.0
+electron,HTML,D:\clones\electron\docs\fiddles\features\represented-file\index.html,0,0.0,17.0
+electron,HTML,D:\clones\electron\docs\fiddles\features\web-hid\index.html,4,0.0,17.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\web-hid\renderer.js,2,0.0,17.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\native-ui\drag-and-drop\renderer.js,4,0.0,17.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\native-ui\external-links-file-manager\external-links\renderer.js,4,0.0,17.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\net-log.ts,3,2.0,17.0
+electron,TypeScript,D:\clones\electron\lib\renderer\ipc-renderer-internal.ts,6,0.0,17.0
+electron,diff,D:\clones\electron\patches\chromium\mas_avoid_usage_of_setapplicationisdaemon_and.patch,8,25.0,17.0
+electron,diff,D:\clones\electron\patches\chromium\ui_gtk_public_header.patch,4,17.0,17.0
+electron,diff,D:\clones\electron\patches\node\fix_failing_node_js_test_on_outdated.patch,7,11.0,17.0
+electron,diff,D:\clones\electron\patches\node\refactor_alter_child_process_fork_to_use_execute_script_with.patch,4,7.0,17.0
+electron,diff,D:\clones\electron\patches\node\worker_thread_add_asar_support.patch,4,20.0,17.0
+electron,Python,D:\clones\electron\script\git-export-patches,6,0.0,17.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extensions\electron_extensions_browser_api_provider.h,8,4.0,17.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\certificate_trust.h,8,3.0,17.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\cocoa\delayed_native_view_host.h,9,7.0,17.0
+electron,Objective-C++,D:\clones\electron\shell\browser\ui\cocoa\electron_native_widget_mac.mm,7,3.0,17.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\cocoa\views_delegate_mac.h,8,5.0,17.0
+electron,C++,D:\clones\electron\shell\browser\ui\views\native_frame_view.cc,9,5.0,17.0
+electron,C/C++ Header,D:\clones\electron\shell\common\crash_keys.h,10,3.0,17.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_helper\accessor.h,5,5.0,17.0
+electron,C++,D:\clones\electron\shell\common\process_util.cc,7,3.0,17.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\api\beforeunload-false-prevent3.html,0,0.0,17.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\auto-update\check\index.js,6,0.0,17.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\isolated-preload.js,3,0.0,17.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\no-leak.html,0,0.0,17.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\node-promise-timer.js,3,3.0,17.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\test.asar\repack.js,3,2.0,17.0
+electron,Python,D:\clones\electron\build\js2c.py,12,11.0,16.0
+electron,Markdown,D:\clones\electron\docs\api\structures\shortcut-details.md,1,0.0,16.0
+electron,HTML,D:\clones\electron\docs\fiddles\quick-start\index.html,0,0.0,16.0
+electron,Markdown,D:\clones\electron\docs\tutorial\repl.md,7,0.0,16.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\in-app-purchase.ts,4,0.0,16.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\system-preferences.ts,3,0.0,16.0
+electron,diff,D:\clones\electron\patches\chromium\blink_file_path.patch,4,14.0,16.0
+electron,diff,D:\clones\electron\patches\chromium\extend_apply_webpreferences.patch,4,13.0,16.0
+electron,diff,D:\clones\electron\patches\node\enable_31_bit_smis_on_64bit_arch_and_ptr_compression.patch,3,13.0,16.0
+electron,diff,D:\clones\electron\patches\node\fix_account_for_debugger_agent_race_condition.patch,3,16.0,16.0
+electron,Bourne Shell,D:\clones\electron\script\codesign\generate-identity.sh,13,17.0,16.0
+electron,JavaScript,D:\clones\electron\script\yarn.js,5,1.0,16.0
+electron,XML,D:\clones\electron\shell\app\resources\mac\loginhelper-Info.plist,0,0.0,16.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\mac\in_app_purchase.h,15,5.0,16.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\gtk\status_icon.h,10,6.0,16.0
+electron,C++,D:\clones\electron\shell\browser\ui\views\menu_model_adapter.cc,6,3.0,16.0
+electron,C++,D:\clones\electron\shell\browser\ui\x\event_disabler.cc,8,3.0,16.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\win\dark_mode.h,9,3.0,16.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\window_list_observer.h,11,7.0,16.0
+electron,JSON,D:\clones\electron\shell\common\extensions\api\_manifest_features.json,2,0.0,16.0
+electron,C++,D:\clones\electron\shell\common\gin_helper\microtasks_scope.cc,6,3.0,16.0
+electron,Objective-C++,D:\clones\electron\shell\common\language_util_mac.mm,6,3.0,16.0
+electron,XML,D:\clones\electron\shell\renderer\resources\mac\Info.plist,0,0.0,16.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\api\context-bridge\context-bridge-mutability\main.js,4,0.0,16.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\chromium\other-window.js,5,0.0,16.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\crash-cases\setimmediate-window-open-crash\index.js,4,0.0,16.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\extensions\chrome-runtime\manifest.json,0,0.0,16.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\extensions\lazy-background-page\manifest.json,0,0.0,16.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\pages\webview-devtools.html,0,0.0,16.0
+electron,JavaScript,D:\clones\electron\spec\expect-helpers.js,2,0.0,16.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\preload.html,0,0.0,16.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\content.html,0,0.0,16.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\fullscreen-oopif.html,3,0.0,16.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\webview-did-attach-event.html,0,0.0,16.0
+electron,JavaScript,D:\clones\electron\spec\ts-smoke\runner.js,2,0.0,16.0
+electron,Markdown,D:\clones\electron\.github\PULL_REQUEST_TEMPLATE.md,5,0.0,15.0
+electron,HTML,D:\clones\electron\docs\fiddles\features\drag-and-drop\index.html,0,0.0,15.0
+electron,HTML,D:\clones\electron\docs\fiddles\features\keyboard-shortcuts\web-apis\index.html,1,1.0,15.0
+electron,HTML,D:\clones\electron\docs\fiddles\features\progress-bar\index.html,0,0.0,15.0
+electron,HTML,D:\clones\electron\docs\fiddles\features\recent-documents\index.html,0,0.0,15.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\native-ui\dialogs\error-dialog\renderer.js,3,0.0,15.0
+electron,TypeScript,D:\clones\electron\lib\common\define-properties.ts,1,1.0,15.0
+electron,diff,D:\clones\electron\patches\ReactiveObjC\chore_explicitly_cast_long_max_to_double.patch,5,6.0,15.0
+electron,diff,D:\clones\electron\patches\boringssl\expose_des-ede3.patch,2,22.0,15.0
+electron,diff,D:\clones\electron\patches\node\fix_add_v8_enable_reverse_jsargs_defines_in_common_gypi.patch,5,17.0,15.0
+electron,diff,D:\clones\electron\patches\node\fix_serdes_test.patch,7,14.0,15.0
+electron,diff,D:\clones\electron\patches\node\fix_suppress_clang_-wdeprecated-declarations_in_libuv.patch,3,11.0,15.0
+electron,diff,D:\clones\electron\patches\perfetto\define_ssize_t_to_be_intptr_t_to_match_libuv.patch,6,5.0,15.0
+electron,diff,D:\clones\electron\patches\v8\export_symbols_needed_for_windows_build.patch,2,16.0,15.0
+electron,Python,D:\clones\electron\script\lib\npx.py,6,0.0,15.0
+electron,JavaScript,D:\clones\electron\script\run-if-exists.js,2,0.0,15.0
+electron,C/C++ Header,D:\clones\electron\shell\app\electron_library_main.h,5,3.0,15.0
+electron,C++,D:\clones\electron\shell\app\uv_stdio_fix.cc,3,10.0,15.0
+electron,C++,D:\clones\electron\shell\browser\electron_gpu_client.cc,7,3.0,15.0
+electron,C++,D:\clones\electron\shell\browser\extensions\electron_extensions_browser_api_provider.cc,6,4.0,15.0
+electron,C++,D:\clones\electron\shell\browser\notifications\linux\notification_presenter_linux.cc,8,5.0,15.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\notifications\mac\notification_center_delegate.h,5,3.0,15.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\devtools_ui.h,7,4.0,15.0
+electron,C++,D:\clones\electron\shell\browser\unresponsive_suppressor.cc,9,3.0,15.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_converters\accelerator_converter.h,7,3.0,15.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_converters\extension_converter.h,8,3.0,15.0
+electron,C/C++ Header,D:\clones\electron\shell\common\mac\main_application_bundle.h,7,8.0,15.0
+electron,C/C++ Header,D:\clones\electron\shell\renderer\pepper_helper.h,6,7.0,15.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\api\context-bridge\context-bridge-mutability\index.html,2,0.0,15.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\apps\background-color-transparent\index.html,0,0.0,15.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\apps\libuv-hang\preload.js,1,0.0,15.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\crash-cases\fs-promises-renderer-crash\index.html,2,0.0,15.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\extensions\chrome-storage\manifest.json,0,0.0,15.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\extensions\content-script\frame-with-frame.html,0,0.0,15.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\pages\fetch.html,0,0.0,15.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\exit-closes-all-windows-app\main.js,4,0.0,15.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\window-open-location-change.html,0,0.0,15.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\window-opener-no-node-integration.html,0,0.0,15.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\window-opener-no-webview-tag.html,0,0.0,15.0
+electron,Python,D:\clones\electron\build\mac\make_locale_dirs.py,5,9.0,14.0
+electron,Markdown,D:\clones\electron\docs\api\structures\cookie.md,1,0.0,14.0
+electron,Markdown,D:\clones\electron\docs\api\structures\task.md,1,0.0,14.0
+electron,Markdown,D:\clones\electron\docs\api\touch-bar-spacer.md,8,0.0,14.0
+electron,HTML,D:\clones\electron\docs\fiddles\features\notifications\renderer\index.html,1,0.0,14.0
+electron,HTML,D:\clones\electron\docs\fiddles\features\web-bluetooth\index.html,3,0.0,14.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\native-ui\tray\main.js,4,0.0,14.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\system\system-app-user-information\app-information\renderer.js,4,0.0,14.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\share-menu.ts,5,0.0,14.0
+electron,TypeScript,D:\clones\electron\lib\renderer\web-frame-init.ts,2,5.0,14.0
+electron,diff,D:\clones\electron\patches\boringssl\fix_sync_evp_get_cipherbynid_and_evp_get_cipherbyname.patch,4,7.0,14.0
+electron,diff,D:\clones\electron\patches\chromium\chrome_key_systems.patch,4,19.0,14.0
+electron,diff,D:\clones\electron\patches\chromium\disable_compositor_recycling.patch,4,6.0,14.0
+electron,diff,D:\clones\electron\patches\chromium\gtk_visibility.patch,6,12.0,14.0
+electron,diff,D:\clones\electron\patches\chromium\hack_plugin_response_interceptor_to_point_to_electron.patch,2,8.0,14.0
+electron,diff,D:\clones\electron\patches\chromium\ignore_rc_check.patch,4,6.0,14.0
+electron,diff,D:\clones\electron\patches\chromium\remove_usage_of_incognito_apis_in_the_spellchecker.patch,4,7.0,14.0
+electron,diff,D:\clones\electron\patches\node\darwin_bump_minimum_supported_version_to_10_15_3406.patch,3,8.0,14.0
+electron,diff,D:\clones\electron\patches\node\feat_initialize_asar_support.patch,4,12.0,14.0
+electron,diff,D:\clones\electron\patches\node\fix_don_t_create_console_window_when_creating_process.patch,4,7.0,14.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\mac\dict_util.h,7,3.0,14.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\notifications\linux\notification_presenter_linux.h,7,4.0,14.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\gtk_util.h,8,6.0,14.0
+electron,Objective-C++,D:\clones\electron\shell\common\api\electron_api_clipboard_mac.mm,7,3.0,14.0
+electron,C++,D:\clones\electron\shell\common\gin_converters\time_converter.cc,5,3.0,14.0
+electron,C/C++ Header,D:\clones\electron\shell\common\node_bindings_linux.h,8,4.0,14.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\api\beforeunload-empty-string.html,0,0.0,14.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\api\beforeunload-false.html,0,0.0,14.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\api\test-menu-null\main.js,2,0.0,14.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\api\test-menu-visibility\main.js,2,3.0,14.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\native-addon\uv-dlopen\index.js,2,0.0,14.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\sub-frames\webview-iframe-preload.js,1,0.0,14.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\locale-check\main.js,3,0.0,14.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\new-window.html,0,0.0,14.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\singleton\main.js,4,0.0,14.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\access-blink-apis.js,3,0.0,14.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\fork_ping.js,2,0.0,14.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\preload-pdf-loaded-in-nested-subframe.js,1,0.0,14.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\video.html,0,0.0,14.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\webframe-spell-check.html,0,0.0,14.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\window-open-postMessage.html,0,0.0,14.0
+electron,HTML,D:\clones\electron\spec\fixtures\workers\load_shared_worker.html,1,0.0,14.0
+electron,HTML,D:\clones\electron\spec\fixtures\workers\load_worker.html,0,0.0,14.0
+electron,JavaScript,D:\clones\electron\spec\static\get-files.js,1,0.0,14.0
+electron,YAML,D:\clones\electron\.devcontainer\docker-compose.yml,6,0.0,13.0
+electron,Python,D:\clones\electron\build\generate-template.py,3,0.0,13.0
+electron,Markdown,D:\clones\electron\docs\api\structures\notification-action.md,7,0.0,13.0
+electron,HTML,D:\clones\electron\docs\fiddles\features\web-serial\index.html,3,0.0,13.0
+electron,HTML,D:\clones\electron\docs\fiddles\ipc\pattern-1\index.html,0,1.0,13.0
+electron,HTML,D:\clones\electron\docs\fiddles\ipc\pattern-2\index.html,0,1.0,13.0
+electron,diff,D:\clones\electron\patches\chromium\build_disable_partition_alloc_on_mac.patch,4,6.0,13.0
+electron,diff,D:\clones\electron\patches\chromium\build_make_libcxx_abi_unstable_false_for_electron.patch,4,6.0,13.0
+electron,diff,D:\clones\electron\patches\chromium\gritsettings_resource_ids.patch,4,6.0,13.0
+electron,diff,D:\clones\electron\patches\chromium\hack_to_allow_gclient_sync_with_host_os_mac_on_linux_in_ci.patch,4,8.0,13.0
+electron,diff,D:\clones\electron\patches\chromium\mas_avoid_usage_of_abort_report_np.patch,7,15.0,13.0
+electron,diff,D:\clones\electron\patches\chromium\unsandboxed_ppapi_processes_skip_zygote.patch,3,13.0,13.0
+electron,JSON,D:\clones\electron\patches\config.json,10,0.0,13.0
+electron,diff,D:\clones\electron\patches\webrtc\add_thread_local_to_x_error_trap_cc.patch,5,6.0,13.0
+electron,JavaScript,D:\clones\electron\script\start.js,3,0.0,13.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\ui_event.h,6,3.0,13.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\electron_gpu_client.h,8,5.0,13.0
+electron,C++,D:\clones\electron\shell\browser\electron_quota_permission_context.cc,8,3.0,13.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extensions\electron_display_info_provider.h,7,4.0,13.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extensions\electron_kiosk_delegate.h,7,6.0,13.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\net\asar\asar_url_loader.h,6,3.0,13.0
+electron,Objective-C++,D:\clones\electron\shell\browser\ui\cocoa\electron_preview_item.mm,5,3.0,13.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\x\x_window_utils.h,12,10.0,13.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\unresponsive_suppressor.h,7,4.0,13.0
+electron,C++,D:\clones\electron\shell\common\gin_converters\accelerator_converter.cc,6,4.0,13.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_converters\message_box_converter.h,6,3.0,13.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_converters\time_converter.h,7,3.0,13.0
+electron,C/C++ Header,D:\clones\electron\shell\common\node_bindings_mac.h,7,3.0,13.0
+electron,C/C++ Header,D:\clones\electron\shell\common\node_bindings_win.h,7,3.0,13.0
+electron,C/C++ Header,D:\clones\electron\shell\common\platform_util_internal.h,8,5.0,13.0
+electron,C/C++ Header,D:\clones\electron\shell\common\world_ids.h,9,8.0,13.0
+electron,C/C++ Header,D:\clones\electron\shell\renderer\browser_exposed_renderer_interfaces.h,6,3.0,13.0
+electron,TypeScript,D:\clones\electron\spec-main\api-view-spec.ts,2,0.0,13.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\api\custom-protocol-shutdown.js,5,0.0,13.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\apps\libuv-hang\index.html,0,0.0,13.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\extensions\chrome-i18n\manifest.json,0,0.0,13.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\extensions\content-script-document-end\manifest.json,1,0.0,13.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\extensions\content-script-document-idle\manifest.json,1,0.0,13.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\extensions\content-script-document-start\manifest.json,1,0.0,13.0
+electron,Python,D:\clones\electron\spec-main\fixtures\native-addon\uv-dlopen\binding.gyp,0,0.0,13.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\pages\datalist.html,0,0.0,13.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\sub-frames\frame-container-webview.html,0,0.0,13.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\sub-frames\frame-container.html,0,0.0,13.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\sub-frames\frame-with-frame-container-webview.html,0,0.0,13.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\sub-frames\frame-with-frame-container.html,0,0.0,13.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\sub-frames\frame-with-frame.html,0,0.0,13.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\globals.html,0,0.0,13.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\preload-node-off.js,0,0.0,13.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\beforeunload-false.html,0,0.0,13.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\c.html,0,0.0,13.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\fullscreen-ipif.html,2,0.0,13.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\target-name.html,0,0.0,13.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\visibilitychange.html,0,0.0,13.0
+electron,Python,D:\clones\electron\build\strip_framework.py,4,2.0,12.0
+electron,Markdown,D:\clones\electron\docs\api\structures\transaction.md,1,0.0,12.0
+electron,HTML,D:\clones\electron\docs\fiddles\features\keyboard-shortcuts\global\index.html,0,0.0,12.0
+electron,HTML,D:\clones\electron\docs\fiddles\features\keyboard-shortcuts\interception-from-main\index.html,0,0.0,12.0
+electron,HTML,D:\clones\electron\docs\fiddles\features\keyboard-shortcuts\local\index.html,0,0.0,12.0
+electron,HTML,D:\clones\electron\docs\fiddles\features\macos-dock-menu\index.html,0,0.0,12.0
+electron,HTML,D:\clones\electron\docs\fiddles\features\notifications\main\index.html,0,0.0,12.0
+electron,HTML,D:\clones\electron\docs\fiddles\features\online-detection\index.html,1,0.0,12.0
+electron,HTML,D:\clones\electron\docs\fiddles\ipc\pattern-3\index.html,0,1.0,12.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\native-ui\notifications\notification-with-image\renderer.js,2,0.0,12.0
+electron,TypeScript,D:\clones\electron\lib\renderer\api\crash-reporter.ts,3,0.0,12.0
+electron,diff,D:\clones\electron\patches\Mantle\remove_mtlmanagedobjectadapter_h.patch,3,7.0,12.0
+electron,diff,D:\clones\electron\patches\chromium\don_t_use_potentially_null_getwebframe_-_view_when_get_blink.patch,6,7.0,12.0
+electron,diff,D:\clones\electron\patches\chromium\dump_syms.patch,4,6.0,12.0
+electron,diff,D:\clones\electron\patches\chromium\fix_export_zlib_symbols.patch,3,7.0,12.0
+electron,diff,D:\clones\electron\patches\chromium\mas-audiodeviceduck.patch,5,18.0,12.0
+electron,TypeScript,D:\clones\electron\script\check-patch-diff.ts,3,2.0,12.0
+electron,Python,D:\clones\electron\script\lib\npm.py,6,0.0,12.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_event_emitter.h,6,3.0,12.0
+electron,C++,D:\clones\electron\shell\browser\ui\cocoa\delayed_native_view_host.cc,6,3.0,12.0
+electron,C++,D:\clones\electron\shell\common\gin_helper\arguments.cc,5,6.0,12.0
+electron,C/C++ Header,D:\clones\electron\shell\common\heap_snapshot.h,7,3.0,12.0
+electron,C/C++ Header,D:\clones\electron\shell\common\logging.h,7,3.0,12.0
+electron,C/C++ Header,D:\clones\electron\shell\common\process_util.h,7,3.0,12.0
+electron,TypeScript,D:\clones\electron\spec-main\api-power-save-blocker-spec.ts,1,0.0,12.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\api\window-open-preload.js,1,0.0,12.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\apps\xwindow-icon\main.js,1,0.0,12.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\auto-update\initial\index.js,6,0.0,12.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\extensions\content-script\all_frames-preload.js,1,1.0,12.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\extensions\content-script\frame.html,0,0.0,12.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\extensions\red-bg\manifest.json,0,0.0,12.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\sub-frames\frame.html,0,0.0,12.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\webview\fullscreen\frame.html,0,0.0,12.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\native-window-open-file.html,0,0.0,12.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\window-open-location-open.html,0,0.0,12.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\no-asar.js,3,0.0,12.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\preload-required-module.js,0,0.0,12.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\a.html,0,0.0,12.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\d.html,0,0.0,12.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\geolocation\index.html,0,0.0,12.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\key-events.html,0,0.0,12.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\shared_worker.html,0,0.0,12.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\webview-did-navigate-in-page.html,0,0.0,12.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\webview-zoom-inherited.html,0,0.0,12.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\window-no-javascript.html,0,0.0,12.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\worker.html,0,0.0,12.0
+electron,JavaScript,D:\clones\electron\spec\global-paths.js,1,0.0,12.0
+electron,YAML,D:\clones\electron\vsts-arm32v7.yml,1,0.0,12.0
+electron,YAML,D:\clones\electron\vsts-arm64v8.yml,1,0.0,12.0
+electron,JSON5,D:\clones\electron\build\fuses\fuses.json5,0,0.0,11.0
+electron,Markdown,D:\clones\electron\docs\api\structures\certificate.md,1,0.0,11.0
+electron,Markdown,D:\clones\electron\docs\api\structures\mouse-input-event.md,1,0.0,11.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\keyboard-shortcuts\interception-from-main\main.js,2,0.0,11.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\native-ui\notifications\basic-notification\renderer.js,3,0.0,11.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\windows\manage-windows\new-window\renderer.js,3,0.0,11.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\message-channel.ts,1,0.0,11.0
+electron,diff,D:\clones\electron\patches\chromium\build_add_electron_tracing_category.patch,2,8.0,11.0
+electron,diff,D:\clones\electron\patches\chromium\fix_add_check_for_sandbox_then_result.patch,3,7.0,11.0
+electron,diff,D:\clones\electron\patches\node\chore_read_nobrowserglobals_from_global_not_process.patch,3,7.0,11.0
+electron,diff,D:\clones\electron\patches\v8\revert_fix_cppgc_removed_deleted_cstors_in_cppheapcreateparams.patch,3,7.0,11.0
+electron,Python,D:\clones\electron\script\generate-zip-manifest.py,3,0.0,11.0
+electron,JavaScript,D:\clones\electron\script\gn-plist-but-with-hashes.js,5,0.0,11.0
+electron,Objective-C++,D:\clones\electron\shell\app\electron_login_helper.mm,2,3.0,11.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\api\electron_api_safe_storage.h,8,6.0,11.0
+electron,C++,D:\clones\electron\shell\browser\extensions\electron_browser_context_keyed_service_factories.cc,6,5.0,11.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\font_defaults.h,6,3.0,11.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\mac\electron_application_delegate.h,7,4.0,11.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_helper\cleaned_up_at_exit.h,6,10.0,11.0
+electron,C/C++ Header,D:\clones\electron\shell\common\gin_helper\destroyable.h,7,6.0,11.0
+electron,C/C++ Header,D:\clones\electron\shell\common\keyboard_util.h,8,8.0,11.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\api\safe-storage\decrypt-app\main.js,2,0.0,11.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\apps\crash\node-crash.js,0,0.0,11.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\crash-cases\transparent-window-get-background-color\index.js,2,1.0,11.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\crash-cases\webview-contents-error-on-creation\index.js,3,0.0,11.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\devtools-extensions\foo\index.html,0,0.0,11.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\webview\fullscreen\main.html,1,0.0,11.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\frame-subscriber.html,0,0.0,11.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\native-window-open-blank.html,0,0.0,11.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\offscreen-rendering.html,0,0.0,11.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\webview-opener-no-node-integration.html,0,0.0,11.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\webview-will-navigate.html,0,0.0,11.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\window-open-hide.html,1,0.0,11.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\window-opener-location.html,0,0.0,11.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\window-opener-webview.html,0,0.0,11.0
+electron,JSON,D:\clones\electron\tsconfig.script.json,0,0.0,11.0
+electron,Markdown,D:\clones\electron\docs\api\structures\custom-scheme.md,1,0.0,10.0
+electron,Markdown,D:\clones\electron\docs\api\structures\ipc-main-event.md,1,0.0,10.0
+electron,Markdown,D:\clones\electron\docs\api\structures\mouse-wheel-input-event.md,1,0.0,10.0
+electron,Markdown,D:\clones\electron\docs\api\structures\user-default-types.md,2,0.0,10.0
+electron,Markdown,D:\clones\electron\docs\api\touch-bar-other-items-proxy.md,3,0.0,10.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\native-ui\external-links-file-manager\renderer.js,3,0.0,10.0
+electron,diff,D:\clones\electron\patches\chromium\scroll_bounce_flag.patch,4,6.0,10.0
+electron,diff,D:\clones\electron\patches\chromium\v8_context_snapshot_generator.patch,2,8.0,10.0
+electron,diff,D:\clones\electron\patches\squirrel.mac\fix_ensure_that_self_is_retained_until_the_racsignal_is_complete.patch,3,7.0,10.0
+electron,diff,D:\clones\electron\patches\squirrel.mac\fix_use_kseccschecknestedcode_kseccsstrictvalidate_in_the_sec.patch,3,8.0,10.0
+electron,Bourne Shell,D:\clones\electron\script\codesign\get-trusted-identity.sh,2,1.0,10.0
+electron,PowerShell,D:\clones\electron\script\start-goma.ps1,0,0.0,10.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\cocoa\electron_preview_item.h,4,3.0,10.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\cocoa\event_dispatching_window.h,6,3.0,10.0
+electron,C++,D:\clones\electron\shell\browser\ui\run_all_unittests.cc,2,3.0,10.0
+electron,C++,D:\clones\electron\shell\browser\ui\win\dialog_thread.cc,5,8.0,10.0
+electron,C/C++ Header,D:\clones\electron\shell\common\color_util.h,9,7.0,10.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\api\safe-storage\encrypt-app\main.js,2,0.0,10.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\api\service-workers\index.html,0,0.0,10.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\api\service-workers\logs.html,0,0.0,10.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\devtools-extensions\foo\_locales\en\messages.json,0,0.0,10.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\devtools-extensions\foo\manifest.json,0,0.0,10.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\extensions\chrome-webRequest-wss\background.js,1,1.0,10.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\extensions\chrome-webRequest\manifest.json,0,0.0,10.0
+electron,Python,D:\clones\electron\spec-main\fixtures\native-addon\echo\binding.gyp,0,0.0,10.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\close.html,0,0.0,10.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\command-line\main.js,3,0.0,10.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\native-window-open-iframe.html,0,0.0,10.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\native-window-open-isolated.html,0,0.0,10.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\native-window-open-noopener.html,0,0.0,10.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\window-open-location-final.html,0,0.0,10.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\set-immediate.js,1,0.0,10.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\base-page-security-onload-message.html,0,0.0,10.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\history-replace.html,0,0.0,10.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\insecure-resources.html,0,0.0,10.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\post.html,0,0.0,10.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\webview-allowpopups.html,0,0.0,10.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\window-open-postMessage-driver.html,0,0.0,10.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\window-opener.html,1,0.0,10.0
+electron,JSON,D:\clones\electron\tsconfig.default_app.json,0,0.0,10.0
+electron,JSON,D:\clones\electron\tsconfig.electron.json,0,0.0,10.0
+electron,Markdown,D:\clones\electron\SECURITY.md,8,0.0,9.0
+electron,Python,D:\clones\electron\build\run-node.py,4,1.0,9.0
+electron,Markdown,D:\clones\electron\docs\api\structures\serial-port.md,1,0.0,9.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\quick-start\preload.js,2,0.0,9.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\screen\fit-screen\main.js,5,6.0,9.0
+electron,diff,D:\clones\electron\patches\v8\expose_mksnapshot.patch,4,6.0,9.0
+electron,C++,D:\clones\electron\shell\browser\child_web_contents_tracker.cc,6,3.0,9.0
+electron,C++,D:\clones\electron\shell\browser\extensions\electron_kiosk_delegate.cc,6,3.0,9.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\resources\win\resource.h,2,4.0,9.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\cocoa\NSColor+Hex.h,4,5.0,9.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\api\context-bridge\can-bind-preload.js,3,1.0,9.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\apps\self-module-paths\renderer.js,3,0.0,9.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\extensions\mv3-service-worker\manifest.json,0,0.0,9.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\extensions\persistent-background-page\manifest.json,0,0.0,9.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\native-window-open-no-allowpopups.html,0,0.0,9.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\quit-app\main.js,2,1.0,9.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\unload.html,0,0.0,9.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\preload-pdf-loaded-in-subframe.js,1,0.0,9.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\base-page-security.html,0,0.0,9.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\close.html,0,0.0,9.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\dom-ready.html,0,0.0,9.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\media-id-reset.html,0,0.0,9.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\onkeyup.html,0,0.0,9.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\onmouseup.html,0,0.0,9.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\permissions\notification.html,1,0.0,9.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\send-after-node.html,0,0.0,9.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\storage\web_sql.html,0,0.0,9.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\webframe-zoom.html,0,0.0,9.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\webview-did-navigate-in-page-with-hash.html,0,0.0,9.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\webview-did-navigate-in-page-with-history.html,0,0.0,9.0
+electron,Python,D:\clones\electron\build\run-in-dir.py,2,0.0,8.0
+electron,Markdown,D:\clones\electron\docs\api\structures\post-body.md,1,0.0,8.0
+electron,Markdown,D:\clones\electron\docs\api\structures\product-discount.md,1,0.0,8.0
+electron,Markdown,D:\clones\electron\docs\api\structures\referrer.md,2,0.0,8.0
+electron,Markdown,D:\clones\electron\docs\api\structures\upload-file.md,1,0.0,8.0
+electron,Markdown,D:\clones\electron\docs\development\v8-development.md,3,0.0,8.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\drag-and-drop\renderer.js,1,0.0,8.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\macos-dark-mode\renderer.js,1,0.0,8.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\system\clipboard\copy\renderer.js,2,0.0,8.0
+electron,TypeScript,D:\clones\electron\lib\common\webpack-provider.ts,2,8.0,8.0
+electron,C/C++ Header,D:\clones\electron\shell\app\command_line_args.h,6,3.0,8.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\extensions\electron_browser_context_keyed_service_factories.h,5,5.0,8.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\linux\unity_service.h,7,8.0,8.0
+electron,XML,D:\clones\electron\shell\browser\resources\win\disable_window_filtering.manifest,0,1.0,8.0
+electron,XML,D:\clones\electron\shell\browser\resources\win\dpi_aware.manifest,0,1.0,8.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\ui\cocoa\NSString+ANSI.h,4,5.0,8.0
+electron,C++,D:\clones\electron\shell\browser\ui\tray_icon_win.cc,4,4.0,8.0
+electron,C++,D:\clones\electron\shell\common\gin_helper\locker.cc,5,3.0,8.0
+electron,C/C++ Header,D:\clones\electron\shell\common\language_util.h,6,5.0,8.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\api\beforeunload-undefined.html,1,0.0,8.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\api\send-sync-message.html,1,0.0,8.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\apps\crash\sandbox-preload.js,2,0.0,8.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\crash-cases\webview-attach-destroyed\index.js,1,0.0,8.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\devtools-extensions\foo\foo.html,0,0.0,8.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\extensions\chrome-runtime\background.js,2,2.0,8.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\extensions\devtools-extension\foo.html,0,1.0,8.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\extensions\lazy-background-page\runtime-get-background-page.js,0,1.0,8.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\extensions\load-error\manifest.json,0,0.0,8.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\sub-frames\debug-frames.html,0,0.0,8.0
+electron,TypeScript,D:\clones\electron\spec-main\types-spec.ts,1,2.0,8.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\native-window-open-argv.html,0,0.0,8.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\preload-context.js,2,0.0,8.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\b.html,0,0.0,8.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\form-with-data.html,0,0.0,8.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\history.html,0,0.0,8.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\native-module.html,1,0.0,8.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\pages\service-worker\service-worker.js,1,0.0,8.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\storage\cookie.html,0,0.0,8.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\storage\indexed_db.html,0,0.0,8.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\storage\local_storage.html,0,0.0,8.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\storage\session_storage.html,0,0.0,8.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\webview-trusted-types.html,0,0.0,8.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\pages\world-safe-preload-error.js,1,1.0,8.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\zoom-factor.html,0,0.0,8.0
+electron,JavaScript,D:\clones\electron\build\webpack\webpack.config.renderer.js,0,0.0,7.0
+electron,JavaScript,D:\clones\electron\build\webpack\webpack.config.worker.js,0,0.0,7.0
+electron,Markdown,D:\clones\electron\docs\api\structures\certificate-principal.md,1,0.0,7.0
+electron,Markdown,D:\clones\electron\docs\api\structures\extension.md,1,0.0,7.0
+electron,Markdown,D:\clones\electron\docs\api\structures\hid-device.md,1,0.0,7.0
+electron,Markdown,D:\clones\electron\docs\api\structures\io-counters.md,1,0.0,7.0
+electron,Markdown,D:\clones\electron\docs\api\structures\memory-info.md,2,0.0,7.0
+electron,Markdown,D:\clones\electron\docs\api\touch-bar-group.md,4,0.0,7.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\drag-and-drop\preload.js,1,0.0,7.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\web-bluetooth\renderer.js,1,0.0,7.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\ipc\pattern-3\renderer.js,1,0.0,7.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\system\clipboard\paste\renderer.js,2,0.0,7.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\system\protocol-handler\launch-app-from-URL-in-another-app\preload.js,1,3.0,7.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\session.ts,1,0.0,7.0
+electron,JavaScript,D:\clones\electron\script\gn-asar-hash.js,2,0.0,7.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\feature_list.h,3,3.0,7.0
+electron,C/C++ Header,D:\clones\electron\shell\browser\native_window_features.h,4,3.0,7.0
+electron,C++,D:\clones\electron\shell\common\language_util_linux.cc,5,5.0,7.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\apps\background-color-transparent\renderer.js,2,0.0,7.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\apps\self-module-paths\index.html,0,0.0,7.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\crash-cases\early-in-memory-session-create\index.js,1,0.0,7.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\extensions\chrome-storage\main.js,0,1.0,7.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\extensions\chrome-webRequest\background.js,1,1.0,7.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\module\echo-renamed.js,0,0.0,7.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\pages\jquery.html,0,0.0,7.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\app-path\lib\index.js,3,0.0,7.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\electron-main-module\app\index.js,1,0.0,7.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\localstorage.html,0,0.0,7.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\locale-compare.js,0,0.0,7.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\preload-ipc-ping-pong.js,2,0.0,7.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\preload.js,0,0.0,7.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\cache-storage.html,0,0.0,7.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\e.html,0,0.0,7.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\ipc-message.html,0,0.0,7.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\permissions\media.html,1,0.0,7.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\ping.html,0,0.0,7.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\set-global.html,0,0.0,7.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\theme-color.html,0,0.0,7.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\useragent.html,0,0.0,7.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\webview-stripped-preload.html,0,0.0,7.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\will-navigate.html,0,0.0,7.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\window-open-size.html,0,0.0,7.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\window-open.html,0,0.0,7.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\window-opener-node.html,0,0.0,7.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\window-opener-postMessage.html,0,0.0,7.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\workers\shared_worker.js,0,0.0,7.0
+electron,JSON,D:\clones\electron\tsconfig.spec.json,0,0.0,7.0
+electron,JSON,D:\clones\electron\.markdownlint.autofix.json,0,0.0,6.0
+electron,Python,D:\clones\electron\build\fake_v8_context_snapshot_generator.py,2,0.0,6.0
+electron,JavaScript,D:\clones\electron\build\webpack\webpack.config.sandboxed_renderer.js,0,0.0,6.0
+electron,Markdown,D:\clones\electron\docs\api\structures\cpu-usage.md,1,0.0,6.0
+electron,Markdown,D:\clones\electron\docs\api\structures\keyboard-event.md,1,0.0,6.0
+electron,Markdown,D:\clones\electron\docs\api\structures\notification-response.md,1,0.0,6.0
+electron,Markdown,D:\clones\electron\docs\api\structures\payment-discount.md,1,0.0,6.0
+electron,Markdown,D:\clones\electron\docs\api\structures\point.md,2,0.0,6.0
+electron,Markdown,D:\clones\electron\docs\api\structures\process-memory-info.md,1,0.0,6.0
+electron,Markdown,D:\clones\electron\docs\api\structures\protocol-request.md,1,0.0,6.0
+electron,CSS,D:\clones\electron\docs\fiddles\features\macos-dark-mode\styles.css,1,0.0,6.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\online-detection\renderer.js,2,0.0,6.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\ipc\pattern-1\renderer.js,0,0.0,6.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\ipc\pattern-2\renderer.js,1,0.0,6.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\native-ui\external-links-file-manager\path-in-file-manager\renderer.js,2,0.0,6.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\system\system-information\get-version-information\renderer.js,2,0.0,6.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\windows\manage-windows\frameless-window\renderer.js,2,0.0,6.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\exports\electron.ts,2,0.0,6.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\notification.ts,2,0.0,6.0
+electron,TypeScript,D:\clones\electron\lib\common\api\module-list.ts,0,2.0,6.0
+electron,TypeScript,D:\clones\electron\lib\renderer\api\exports\electron.ts,2,0.0,6.0
+electron,TypeScript,D:\clones\electron\lib\renderer\api\module-list.ts,0,1.0,6.0
+electron,C/C++ Header,D:\clones\electron\shell\app\electron_main_delegate_mac.h,5,4.0,6.0
+electron,C/C++ Header,D:\clones\electron\shell\app\node_main.h,5,3.0,6.0
+electron,C++,D:\clones\electron\shell\browser\ui\inspectable_web_contents_view_delegate.cc,4,4.0,6.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\api\ipc-main-listeners\main.js,2,0.0,6.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\api\service-workers\sw-logs.js,0,0.0,6.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\apps\libuv-hang\renderer.js,2,0.0,6.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\crash-cases\in-memory-session-double-free\index.js,1,0.0,6.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\extensions\chrome-i18n\_locales\en\messages.json,0,0.0,6.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\extensions\devtools-extension\manifest.json,0,0.0,6.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\extensions\lazy-background-page\get-background-page.js,0,1.0,6.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\extensions\ui-page\manifest.json,0,0.0,6.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\pages\pdf-in-iframe.html,0,0.0,6.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\sub-frames\preload.js,3,0.0,6.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\hello-child.js,0,0.0,6.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\hello.js,0,0.0,6.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\preload-sandbox���� ����.js,0,0.0,6.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\partition\one.html,0,0.0,6.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\save_page\index.html,0,0.0,6.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\pages\world-safe-preload.js,1,1.0,6.0
+electron,Bourne Shell,D:\clones\electron\.circleci\fix-known-hosts.sh,2,0.0,5.0
+electron,JavaScript,D:\clones\electron\build\webpack\webpack.config.asar.js,0,0.0,5.0
+electron,JavaScript,D:\clones\electron\build\webpack\webpack.config.isolated_renderer.js,0,0.0,5.0
+electron,JSON,D:\clones\electron\default_app\package.json,0,0.0,5.0
+electron,Markdown,D:\clones\electron\docs\api\structures\input-event.md,1,0.0,5.0
+electron,Markdown,D:\clones\electron\docs\api\structures\ipc-main-invoke-event.md,1,0.0,5.0
+electron,Markdown,D:\clones\electron\docs\api\structures\ipc-renderer-event.md,2,0.0,5.0
+electron,Markdown,D:\clones\electron\docs\api\structures\keyboard-input-event.md,1,0.0,5.0
+electron,Markdown,D:\clones\electron\docs\api\structures\rectangle.md,1,0.0,5.0
+electron,Markdown,D:\clones\electron\docs\api\structures\upload-data.md,1,0.0,5.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\keyboard-shortcuts\web-apis\renderer.js,1,1.0,5.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\macos-dark-mode\preload.js,1,0.0,5.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\features\notifications\renderer\renderer.js,1,0.0,5.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\menus\customize-menus\renderer.js,2,1.0,5.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\auto-updater.ts,0,0.0,5.0
+electron,TypeScript,D:\clones\electron\lib\isolated_renderer\init.ts,2,2.0,5.0
+electron,JSON,D:\clones\electron\shell\app\BRANDING.json,0,0.0,5.0
+electron,C++,D:\clones\electron\shell\browser\native_window_features.cc,2,3.0,5.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\api\new-window-preload.js,1,0.0,5.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\auto-update\check-with-headers\package.json,0,0.0,5.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\auto-update\check\package.json,0,0.0,5.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\auto-update\initial\package.json,0,0.0,5.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\auto-update\update-json\package.json,0,0.0,5.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\auto-update\update\package.json,0,0.0,5.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\chromium\spellchecker.html,0,0.0,5.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\crash-cases\native-window-open-exit\preload.js,1,0.0,5.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\crash-cases\webcontents-create-leak-exit\index.js,1,0.0,5.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\crash-cases\webcontentsview-create-leak-exit\index.js,1,0.0,5.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\extensions\lazy-background-page\content_script.js,0,1.0,5.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\module\echo.js,1,0.0,5.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\native-addon\echo\package.json,1,0.0,5.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\native-addon\uv-dlopen\package.json,0,0.0,5.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\blank.html,0,0.0,5.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\did-fail-load-iframe.html,0,0.0,5.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\delay-exit.js,1,0.0,5.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\run-as-node.js,0,0.0,5.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\permissions\geolocation.html,0,0.0,5.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\permissions\midi-sysex.html,0,0.0,5.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\permissions\midi.html,0,0.0,5.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\webview-isolated.html,0,0.0,5.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\webview-no-script.html,0,0.0,5.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\webview-visibilitychange.html,0,0.0,5.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\webview-zoom-factor.html,0,0.0,5.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\workers\shared_worker_node.js,0,0.0,5.0
+electron,JavaScript,D:\clones\electron\build\webpack\webpack.config.browser.js,0,0.0,4.0
+electron,Markdown,D:\clones\electron\docs\api\structures\memory-usage-details.md,1,0.0,4.0
+electron,Markdown,D:\clones\electron\docs\api\structures\mime-typed-buffer.md,1,0.0,4.0
+electron,Markdown,D:\clones\electron\docs\api\structures\segmented-control-segment.md,1,0.0,4.0
+electron,Markdown,D:\clones\electron\docs\api\structures\service-worker-info.md,1,0.0,4.0
+electron,Markdown,D:\clones\electron\docs\api\structures\sharing-item.md,1,0.0,4.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\ipc\pattern-1\preload.js,1,0.0,4.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\ipc\pattern-2\preload.js,1,0.0,4.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\ipc\pattern-3\preload.js,1,0.0,4.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\system\system-app-user-information\app-information\main.js,1,0.0,4.0
+electron,Markdown,D:\clones\electron\docs\tutorial\support.md,1,0.0,4.0
+electron,Markdown,D:\clones\electron\docs\tutorial\using-pepper-flash-plugin.md,2,0.0,4.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\ipc-main.ts,3,1.0,4.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\views\image-view.ts,3,0.0,4.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\web-contents-view.ts,3,0.0,4.0
+electron,TypeScript,D:\clones\electron\lib\sandboxed_renderer\api\exports\electron.ts,2,0.0,4.0
+electron,C/C++ Header,D:\clones\electron\shell\app\uv_stdio_fix.h,3,3.0,4.0
+electron,C++,D:\clones\electron\shell\browser\extensions\electron_display_info_provider.cc,4,3.0,4.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\api\context-bridge\context-bridge-mutability\package.json,0,0.0,4.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\api\context-bridge\context-bridge-mutability\preload.js,1,0.0,4.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\api\ipc-main-listeners\package.json,0,0.0,4.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\api\net-log\package.json,0,0.0,4.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\api\safe-storage\decrypt-app\package.json,0,0.0,4.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\api\safe-storage\encrypt-app\package.json,0,0.0,4.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\api\test-menu-visibility\package.json,0,0.0,4.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\apps\background-color-transparent\package.json,0,0.0,4.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\apps\crash\package.json,0,0.0,4.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\apps\remote-control\package.json,0,0.0,4.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\apps\self-module-paths\package.json,0,0.0,4.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\apps\xwindow-icon\package.json,0,0.0,4.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\crash-cases\js-execute-iframe\page2.html,0,0.0,4.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\extensions\devtools-extension\index.html,0,1.0,4.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\extensions\lazy-background-page\background.js,0,1.0,4.0
+electron,JSON,D:\clones\electron\spec\fixtures\api\app-path\package.json,0,0.0,4.0
+electron,JSON,D:\clones\electron\spec\fixtures\api\command-line\package.json,0,0.0,4.0
+electron,JSON,D:\clones\electron\spec\fixtures\api\cookie-app\package.json,0,0.0,4.0
+electron,JSON,D:\clones\electron\spec\fixtures\api\default-menu\package.json,0,0.0,4.0
+electron,JSON,D:\clones\electron\spec\fixtures\api\electron-main-module\app\node_modules\some-module\package.json,0,0.0,4.0
+electron,JSON,D:\clones\electron\spec\fixtures\api\exit-closes-all-windows-app\package.json,0,0.0,4.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\isolated-fetch-preload.js,1,1.0,4.0
+electron,JSON,D:\clones\electron\spec\fixtures\api\locale-check\package.json,1,0.0,4.0
+electron,JSON,D:\clones\electron\spec\fixtures\api\mixed-sandbox-app\package.json,1,0.0,4.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\native-window-open-isolated-preload.js,1,0.0,4.0
+electron,JSON,D:\clones\electron\spec\fixtures\api\quit-app\package.json,0,0.0,4.0
+electron,JSON,D:\clones\electron\spec\fixtures\api\relaunch\package.json,1,0.0,4.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\shared-worker\shared-worker2.js,0,0.0,4.0
+electron,JSON,D:\clones\electron\spec\fixtures\api\singleton-data\package.json,1,0.0,4.0
+electron,JSON,D:\clones\electron\spec\fixtures\api\singleton\package.json,1,0.0,4.0
+electron,JSON,D:\clones\electron\spec\fixtures\api\window-all-closed\package.json,0,0.0,4.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\asar.js,0,0.0,4.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\check-arguments.js,0,0.0,4.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\create_socket.js,0,0.0,4.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\empty.js,1,0.0,4.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\ping.js,0,0.0,4.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\preload-ipc.js,0,0.0,4.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\preload-pdf-loaded.js,1,0.0,4.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\preload-webview.js,1,0.0,4.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\process_args.js,0,0.0,4.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\send-later.js,0,0.0,4.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\base-page.html,0,0.0,4.0
+electron,JSON,D:\clones\electron\spec\fixtures\snapshot-items-available\package.json,0,0.0,4.0
+electron,Bourne Shell,D:\clones\electron\.husky\pre-commit,1,0.0,3.0
+electron,Bourne Shell,D:\clones\electron\.husky\pre-push,1,0.0,3.0
+electron,Markdown,D:\clones\electron\docs\api\structures\bluetooth-device.md,1,0.0,3.0
+electron,Markdown,D:\clones\electron\docs\api\structures\crash-report.md,1,0.0,3.0
+electron,Markdown,D:\clones\electron\docs\api\structures\extension-info.md,1,0.0,3.0
+electron,Markdown,D:\clones\electron\docs\api\structures\file-filter.md,1,0.0,3.0
+electron,Markdown,D:\clones\electron\docs\api\structures\file-path-with-headers.md,1,0.0,3.0
+electron,Markdown,D:\clones\electron\docs\api\structures\product-subscription-period.md,1,0.0,3.0
+electron,Markdown,D:\clones\electron\docs\api\structures\protocol-response-upload-data.md,1,0.0,3.0
+electron,Markdown,D:\clones\electron\docs\api\structures\scrubber-item.md,1,0.0,3.0
+electron,Markdown,D:\clones\electron\docs\api\structures\shared-worker-info.md,1,0.0,3.0
+electron,Markdown,D:\clones\electron\docs\api\structures\size.md,1,0.0,3.0
+electron,Markdown,D:\clones\electron\docs\api\structures\upload-raw-data.md,1,0.0,3.0
+electron,Markdown,D:\clones\electron\docs\api\structures\web-source.md,1,0.0,3.0
+electron,JavaScript,D:\clones\electron\docs\fiddles\system\protocol-handler\launch-app-from-URL-in-another-app\renderer.js,1,4.0,3.0
+electron,TypeScript,D:\clones\electron\lib\browser\ipc-main-internal.ts,2,1.0,3.0
+electron,JSON,D:\clones\electron\script\native-test-targets.json,0,0.0,3.0
+electron,TypeScript,D:\clones\electron\spec-main\ambient.d.ts,1,0.0,3.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\api\service-workers\sw.js,0,0.0,3.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\crash-cases\native-window-open-exit\index.html,0,0.0,3.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\crash-cases\setimmediate-renderer-crash\preload.js,0,0.0,3.0
+electron,CSS,D:\clones\electron\spec-main\fixtures\extensions\content-script\all_frames-disabled.css,0,0.0,3.0
+electron,CSS,D:\clones\electron\spec-main\fixtures\extensions\content-script\all_frames-enabled.css,0,0.0,3.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\extensions\devtools-extension\index.js,0,1.0,3.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\original-fs.js,0,0.0,3.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\preload-node-off-wrapper.js,0,0.0,3.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\workers\worker.js,0,0.0,3.0
+electron,JavaScript,D:\clones\electron\spec\spec-helpers.js,1,0.0,3.0
+electron,Markdown,D:\clones\electron\docs\api\structures\event.md,1,0.0,2.0
+electron,Markdown,D:\clones\electron\docs\api\structures\new-window-web-contents-event.md,1,0.0,2.0
+electron,Markdown,D:\clones\electron\docs\api\structures\web-request-filter.md,1,0.0,2.0
+electron,TypeScript,D:\clones\electron\lib\asar\init.ts,1,0.0,2.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\auto-updater\auto-updater-native.ts,1,0.0,2.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\browser-view.ts,1,0.0,2.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\global-shortcut.ts,0,0.0,2.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\native-theme.ts,1,0.0,2.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\power-save-blocker.ts,0,0.0,2.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\safe-storage.ts,1,0.0,2.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\tray.ts,1,0.0,2.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\view.ts,1,0.0,2.0
+electron,TypeScript,D:\clones\electron\lib\common\api\native-image.ts,1,0.0,2.0
+electron,TypeScript,D:\clones\electron\lib\common\api\shell.ts,1,0.0,2.0
+electron,TypeScript,D:\clones\electron\lib\renderer\api\web-frame.ts,1,0.0,2.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\extensions\ui-page\bare-page.html,0,0.0,2.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\module\declare-buffer.js,0,0.0,2.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\module\declare-global.js,0,0.0,2.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\module\declare-process.js,0,0.0,2.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\module\print-crash-parameters.js,0,0.0,2.0
+electron,YAML,D:\clones\electron\spec\configs\browsertests.yml,0,0.0,2.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\isolated-process.js,1,0.0,2.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\new-window-webview-preload.js,1,0.0,2.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\isolated-ping.js,0,0.0,2.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\testsnap.js,0,1.0,2.0
+electron,YAML,D:\clones\electron\.github\semantic.yml,0,1.0,1.0
+electron,Windows Module Definition,D:\clones\electron\build\electron.def,0,5.0,1.0
+electron,TypeScript,D:\clones\electron\lib\browser\api\content-tracing.ts,0,0.0,1.0
+electron,TypeScript,D:\clones\electron\lib\common\webpack-globals-provider.ts,1,6.0,1.0
+electron,Markdown,D:\clones\electron\patches\README.md,0,0.0,1.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\api\context-bridge\empty.html,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\apps\self-module-paths\worker.js,0,0.0,1.0
+electron,JSON,D:\clones\electron\spec-main\fixtures\devtools-extensions\bad-manifest\manifest.json,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\devtools-extensions\foo\devtools.js,0,1.0,1.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\extensions\content-script-document-idle\idle.js,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\extensions\devtools-extension\foo.js,0,1.0,1.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\extensions\lazy-background-page\page-runtime-get-background.html,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\extensions\mv3-service-worker\background.js,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\extensions\red-bg\main.js,0,0.0,1.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\extensions\ui-page\page-get-background.html,0,0.0,1.0
+electron,HTML,D:\clones\electron\spec-main\fixtures\extensions\ui-page\page-script-load.html,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\extensions\ui-page\script.js,0,0.0,1.0
+electron,CoffeeScript,D:\clones\electron\spec-main\fixtures\module\test.coffee,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\module\uv-dlopen.js,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\native-addon\echo\lib\echo.js,0,0.0,1.0
+electron,C++,D:\clones\electron\spec-main\fixtures\native-addon\uv-dlopen\foo.cpp,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\pages\jquery-3.6.0.min.js,0,1.0,1.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\sub-frames\test.js,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\loaded-from-dataurl.js,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\mixed-sandbox-app\electron-app-mixed-sandbox-preload.js,0,0.0,1.0
+electron,HTML,D:\clones\electron\spec\fixtures\api\native-window-open-child.html,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\fail.js,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\get-global-preload.js,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\noop.js,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\preload-electron.js,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\preload-error-exception.js,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\preload-error-syntax.js,0,1.0,1.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\preload-set-global.js,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\process-stdout.js,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\set-global-preload-1.js,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\set-global-preload-2.js,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\set-global-preload-3.js,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\module\set-global.js,0,0.0,1.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\external-string.html,0,0.0,1.0
+electron,HTML,D:\clones\electron\spec\fixtures\pages\fullscreen.html,0,0.0,1.0
+electron,CSS,D:\clones\electron\spec\fixtures\pages\save_page\test.css,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\workers\worker_node.js,0,0.0,1.0
+electron,JavaScript,D:\clones\electron\spec-main\fixtures\extensions\persistent-background-page\background.js,0,1.0,0.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\api\electron-main-module\app\node_modules\some-module\main2.js,0,1.0,0.0
+electron,JavaScript,D:\clones\electron\spec\fixtures\pages\save_page\test.js,0,1.0,0.0
