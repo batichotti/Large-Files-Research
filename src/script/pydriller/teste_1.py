@@ -57,3 +57,4 @@ for commit in Repository('https://github.com/Wolfterro/Projetos-em-C').traverse_
         print(f'Lines deleted: {file.deleted_lines}')
         print(f'Lines modified per File: {file.added_lines + file.deleted_lines}')
         print(f'Lines Balance: {file.added_lines - file.deleted_lines}')
+        
