@@ -9,7 +9,7 @@ for commit in Repository('https://github.com/Wolfterro/Projetos-em-C').traverse_
         for file in commit.modified_files:
             summary = pd.DataFrame({
                 'Hash': [commit.hash],
-                'Project Name': [file.project_name],
+                'Project Name': [commit.project_name],
                 'Local Commit PATH': [commit.project_path],
                 'Message': [commit.msg],
                 'Branch': [branch],
@@ -39,7 +39,7 @@ for commit in Repository('https://github.com/Wolfterro/Projetos-em-C').traverse_
                 #    print('Changed Method: ')
                 #    for method in file.changed_methods:
                 #        print(method)
-                'Tokens': [file.tokens],
+                'Tokens': [file.token_count],
                 'Lines Of Code(nloc)': [file.nloc],
                 'Lines Added': [file.added_lines],
                 'Lines Deleted': [file.deleted_lines],
@@ -51,4 +51,4 @@ for commit in Repository('https://github.com/Wolfterro/Projetos-em-C').traverse_
 
 summary_df = pd.concat(dataframe, ignore_index=True)
 
-summary_df.to_csv('summary.csv')
+summary_df.to_csv('Large-Files-Research\src\script\pydriller\\summary.csv')
