@@ -49,7 +49,7 @@ def dataFramer():
     dataframe.append(summary)
 
 
-for commit in Repository('https://github.com/Wolfterro/Projetos-em-C').traverse_commits():
+for commit in Repository('https://github.com/nodejs/node').traverse_commits():
 
     for branch in commit.branches:
         hash = commit.hash
@@ -72,8 +72,8 @@ for commit in Repository('https://github.com/Wolfterro/Projetos-em-C').traverse_
         committer_date = commit.committer_date
         committer_timezone = commit.committer_timezone
         is_merge_commit = commit.merge
-        for file in commit.modified_files:
-            try:
+        try:
+            for file in commit.modified_files:
                 file_name = file.filename
                 file_change_type = str(file.change_type).split('.')[-1]
                 file_old_path = file.old_path
@@ -86,7 +86,7 @@ for commit in Repository('https://github.com/Wolfterro/Projetos-em-C').traverse_
                 file_lines_deleted = file.deleted_lines
                 file_modified_lines = (file.added_lines + file.deleted_lines)
                 file_lines_balance = (file.added_lines - file.deleted_lines)
-            except:
+        except:
                 file_name = 'error'
                 file_change_type = 'error'
                 file_old_path = 'error'
