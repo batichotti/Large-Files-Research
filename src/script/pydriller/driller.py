@@ -49,7 +49,7 @@ def dataFramer():
     dataframe.append(summary)
 
 
-for commit in Repository('https://github.com/nodejs/node').traverse_commits():
+for commit in Repository('https://github.com/matomo-org/matomo').traverse_commits():
 
     for branch in commit.branches:
         hash = commit.hash
@@ -86,7 +86,8 @@ for commit in Repository('https://github.com/nodejs/node').traverse_commits():
                 file_lines_deleted = file.deleted_lines
                 file_modified_lines = (file.added_lines + file.deleted_lines)
                 file_lines_balance = (file.added_lines - file.deleted_lines)
-        except:
+        except Exception as e:
+                print(e)
                 file_name = 'error'
                 file_change_type = 'error'
                 file_old_path = 'error'
