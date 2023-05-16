@@ -72,34 +72,19 @@ for commit in Repository('https://github.com/matomo-org/matomo').traverse_commit
         committer_date = commit.committer_date
         committer_timezone = commit.committer_timezone
         is_merge_commit = commit.merge
-        try:
-            for file in commit.modified_files:
-                file_name = file.filename
-                file_change_type = str(file.change_type).split('.')[-1]
-                file_old_path = file.old_path
-                file_new_path = file.new_path
-                file_complex = (file.complexity if (str(type(file.complexity)).split("\'")[1] != "NoneType") else 'null')
-                file_methods = len(file.methods)
-                file_tokens = (file.token_count if (str(type(file.token_count)).split("\'")[1] != "NoneType") else 'null')
-                file_nloc = (file.nloc if (str(type(file.nloc)).split("\'")[1] != "NoneType") else 'null')
-                file_lines_added = file.added_lines
-                file_lines_deleted = file.deleted_lines
-                file_modified_lines = (file.added_lines + file.deleted_lines)
-                file_lines_balance = (file.added_lines - file.deleted_lines)
-        except Exception as e:
-                print(e)
-                file_name = 'error'
-                file_change_type = 'error'
-                file_old_path = 'error'
-                file_new_path = 'error'
-                file_complex = 'error'
-                file_methods = 'error'
-                file_tokens = 'error'
-                file_nloc = 'error'
-                file_lines_added = 'error'
-                file_lines_deleted = 'error'
-                file_modified_lines = 'error'
-                file_lines_balance = 'error'
+        for file in commit.modified_files:
+            file_name = file.filename
+            file_change_type = str(file.change_type).split('.')[-1]
+            file_old_path = file.old_path
+            file_new_path = file.new_path
+            file_complex = (file.complexity if (str(type(file.complexity)).split("\'")[1] != "NoneType") else 'null')
+            file_methods = len(file.methods)
+            file_tokens = (file.token_count if (str(type(file.token_count)).split("\'")[1] != "NoneType") else 'null')
+            file_nloc = (file.nloc if (str(type(file.nloc)).split("\'")[1] != "NoneType") else 'null')
+            file_lines_added = file.added_lines
+            file_lines_deleted = file.deleted_lines
+            file_modified_lines = (file.added_lines + file.deleted_lines)
+            file_lines_balance = (file.added_lines - file.deleted_lines)
 
         dataFramer()
 
