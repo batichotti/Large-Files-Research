@@ -3,7 +3,7 @@ import pandas as pd
 
 
 dataframe = []
-repositories = ['https://github.com/nodejs/node', 'https://github.com/matomo-org/matomo', 'https://github.com/gabrielfroes/webscraping_python_selenium']
+repositories = ['https://github.com/nodejs/node', 'https://github.com/matomo-org/matomo', 'https://github.com/gabrielfroes/webscraping_python_selenium', 'https://github.com/official-stockfish/Stockfish', 'https://github.com/LorittaBot/Loritta']
 def dataFramer(commit, file):
     summary = pd.DataFrame({
         'Hash': [commit.hash],
@@ -37,7 +37,7 @@ def dataFramer(commit, file):
     })
     dataframe.append(summary)
 
-repo = Repository(repositories[1])
+repo = Repository(repositories[-1])
 i = 0
 for commit in repo.traverse_commits():
     if i == 0:
