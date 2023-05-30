@@ -38,10 +38,11 @@ def dataFramer(commit, file):
     dataframe.append(summary)
 
 repo = Repository(repositories[-1])
-i = 0
+i = -1
 for commit in repo.traverse_commits():
-    if i == 0:
+    if i == -1:
         csv_name = commit.project_name
+        i += 1
     try:
         for file in commit.modified_files:
             dataFramer(commit, file)

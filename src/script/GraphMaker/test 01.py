@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-dataframe = pd.read_csv('Large-Files-Research\src\script\GraphMaker\\summary_webscraping_python_selenium.csv')
+dataframe = pd.read_csv('src\csvs\Commits\summary_webscraping_python_selenium.csv')
 
 files = dataframe['Number of Files'] #commits
 
