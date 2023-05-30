@@ -1,9 +1,10 @@
 from pydriller import Repository
 import pandas as pd
+import os
 
-
-dataframe = []
 repositories = ['https://github.com/nodejs/node', 'https://github.com/matomo-org/matomo', 'https://github.com/gabrielfroes/webscraping_python_selenium', 'https://github.com/official-stockfish/Stockfish', 'https://github.com/LorittaBot/Loritta']
+errors = []
+
 def dataFramer(commit, file):
     summary = pd.DataFrame({
         'Hash': [commit.hash],
@@ -15,7 +16,7 @@ def dataFramer(commit, file):
         'Modified Lines': [commit.lines],
         'File Name': [file.filename],
         'Change Type': [str(file.change_type).split('.')[-1]],
-        'Local File PATH Old': [file.old_path],
+        'Local File PATH Old': [file.old_path if file.old_path else 'none'],
         'Local File PATH New': [file.new_path],
         'Author Name': [commit.author.name],
         'Author Email': [commit.author.email],
@@ -35,22 +36,25 @@ def dataFramer(commit, file):
         'Lines Modified per File': [file.added_lines + file.deleted_lines],
         'Lines Balance': [file.added_lines - file.deleted_lines]
     })
-    dataframe.append(summary)
+    if not os.path.isfile(f'src\\csvs\\Commits\\{commit.project_name}.csv'):
+        summary.to_csv(f'src\\csvs\\Commits\\{commit.project_name}.csv', index=False)
+    else:
+        summary.to_csv(f'src\\csvs\\Commits\\{commit.project_name}.csv', index=False, mode='a', header=False)
 
-repo = Repository(repositories[-1])
-i = -1
+repo = Repository(repositories[3])
+
 for commit in repo.traverse_commits():
-    if i == -1:
-        csv_name = commit.project_name
-        i += 1
     try:
         for file in commit.modified_files:
             dataFramer(commit, file)
             print(commit.committer_date)
-    except Exception:
-        i += 1
-        print("Error")
-
-print(f"ERRORS {i}")
-summary_df = pd.concat(dataframe, ignore_index=True)
-summary_df.to_csv(f'src\\csvs\\Commits\\summary_{csv_name}.csv', index=False)
+    except Exception as e:
+        print(f'Error: {e}')
+        errors.append(e)
+        df = pd.DataFrame({'Error': errors})
+        df = df.reset_index()
+        df.columns = ['Index', 'Error']
+        if not os.path.isfile(f'src\\csvs\\Commits\\errors\\errors_{commit.project_name}.csv'):
+            df.to_csv(f'src\\csvs\\Commits\\errors\\errors_{commit.project_name}.csv')
+        else:
+            df.to_csv(f'src\\csvs\\Commits\\errors\\errors_{commit.project_name}.csv', mode='a', header=False)
