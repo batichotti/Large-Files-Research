@@ -54,7 +54,4 @@ for commit in repo.traverse_commits():
         df = pd.DataFrame({'Error': errors})
         df = df.reset_index()
         df.columns = ['Index', 'Error']
-        if not os.path.isfile(f'src\\csvs\\Commits\\errors\\errors_{commit.project_name}.csv'):
-            df.to_csv(f'src\\csvs\\Commits\\errors\\errors_{commit.project_name}.csv')
-        else:
-            df.to_csv(f'src\\csvs\\Commits\\errors\\errors_{commit.project_name}.csv', mode='a', header=False)
+        df.to_csv(f'src\\csvs\\Commits\\errors\\errors_{commit.project_name}.csv', mode='a', header=False)
