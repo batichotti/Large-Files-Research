@@ -34,17 +34,17 @@ def classify_file_purpose(commit_message):
 # Aplicar a classificação de propósito de arquivo ao DataFrame original
 original_df['File Purpose'] = original_df['Message'].apply(classify_file_purpose)
 
-# Ordenar o DataFrame pelo nome do arquivo e a data do commit
-original_df.sort_values(by=['File Name', 'Author Commit Date'], inplace=True)
+# Ordenar o DataFrame pelo nome do arquivo, autor e a data do commit
+original_df.sort_values(by=['File Name', 'Author Email', 'Author Commit Date'], inplace=True)
 
-# Calcular o sinal de crescimento ou diminuição de linhas
+# Calcular o sinal de crescimento ou diminuição de linhas para cada autor
 original_df['Lines Sinal'] = original_df.apply(lambda row: 'Grew' if row['Lines Added'] > row['Lines Deleted'] else 'Decreased', axis=1)
 
-# Calcular a quantidade total de linhas alteradas no final
-total_lines_changed = original_df.groupby('File Name')['Lines Modified per File'].sum().reset_index()
+# Calcular a quantidade total de linhas alteradas no final para cada autor
+total_lines_changed = original_df.groupby(['File Name', 'Author Email'])['Lines Modified per File'].sum().reset_index()
 
 # Mesclar o total de linhas alteradas de volta ao DataFrame original
-original_df = pd.merge(original_df, total_lines_changed, on='File Name', suffixes=('', '_total'))
+original_df = pd.merge(original_df, total_lines_changed, on=['File Name', 'Author Email'], suffixes=('', '_total'))
 
 # Renomear a coluna para 'Lines Trend'
 original_df.rename(columns={'Lines Modified per File_total': 'Lines Trend'}, inplace=True)
