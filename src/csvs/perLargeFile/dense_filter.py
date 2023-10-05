@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Nome do arquivo CSV original
-input_file_name = 'admin_codemirror.js.csv'
+input_file_name = 'gogs_gogs.js.csv'
 
 # Carregar o CSV original em um DataFrame
 original_df = pd.read_csv("src\\csvs\\perLargeFile\\" + input_file_name)
@@ -38,11 +38,11 @@ total_lines_changed = original_df.groupby(['File Name', 'Author Email'])['Lines 
 
 original_df = pd.merge(original_df, total_lines_changed, on=['File Name', 'Author Email'], suffixes=('', '_total'))
 
-original_df.rename(columns={'Lines Modified per File_total': 'Lines Trend'}, inplace=True)
+original_df.rename(columns={'Lines Modified per File': 'Lines Trend'}, inplace=True)
 
 output_file_name = 'src\\csvs\\perLargeFile\\results.csv'
-columns_to_save = ['File Name', 'File Purpose', 'Author Email', 'Lines Sinal', 'Lines Trend']
-created_df = original_df[columns_to_save]
+columns_to_save = ['File Name', 'Author Commit Date', 'File Purpose', 'Author Email', 'Lines Sinal', 'Lines Trend']
+created_df = original_df[columns_to_save].sort_values('Author Commit Date')
 created_df.to_csv(output_file_name, index=False)
 
 print("O arquivo 'results.csv' foi criado com as colunas relevantes.")

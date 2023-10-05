@@ -1,0 +1,467 @@
+Hash,Project Name,Local Commit PATH,Message,Main Branch,Number of Files,Modified Lines,File Name,Change Type,Local File PATH Old,Local File PATH New,Author Name,Author Email,Author Commit Date,Author Commit Timezone,Committer Name,Committer Email,Committer Commit Date,Committer Timezone,Merge Commit,Complexity,Methods,Tokens,Lines Of Code(nloc),Lines Added,Lines Deleted,Lines Modified per File,Lines Balance
+8dd07c0ddd99ae626a1ec8c06f75f27fed51269f,gogs,/tmp/tmp1n5zcvhx/gogs,New UI merge in progress,True,199,24581,gogs.js,ADD,none,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-07-26 00:24:27-04:00,14400,Unknwon,joe2010xtmf@163.com,2014-07-26 00:24:27-04:00,14400,False,47.0,22,1340.0,178.0,205,0,205,205
+98131614119f39a3f341392c98a4d2320b5b8e21,gogs,/tmp/tmp1n5zcvhx/gogs,"Reser repo owner to organization when error occurs in repo create page, dashboard news feed page, create organization page",True,22,619,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-07-26 23:53:16-04:00,14400,Unknwon,joe2010xtmf@163.com,2014-07-26 23:53:16-04:00,14400,False,52.0,26,1554.0,200.0,122,91,213,31
+3428baa3b57b39f2e010254bffede93e7d3cdf37,gogs,/tmp/tmp1n5zcvhx/gogs,Mirror fix on template,True,5,16,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-07-30 10:02:31-04:00,14400,Unknwon,joe2010xtmf@163.com,2014-07-30 10:02:31-04:00,14400,False,52.0,26,1557.0,202.0,5,3,8,2
+dabf5b057c358655d8635ed6ec8666660abeb92b,gogs,/tmp/tmp1n5zcvhx/gogs,Finish new migrate page,True,10,303,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-08-01 00:06:19-04:00,14400,Unknwon,joe2010xtmf@163.com,2014-08-01 00:06:19-04:00,14400,False,53.0,27,1601.0,207.0,8,2,10,6
+755eec745fa324fdd13078f0147638f8731652ba,gogs,/tmp/tmp1n5zcvhx/gogs,Finish new repo settings page,True,25,849,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-08-02 13:47:33-04:00,14400,Unknwon,joe2010xtmf@163.com,2014-08-02 13:47:33-04:00,14400,False,59.0,31,1725.0,225.0,20,0,20,20
+e8c9bb2c66a1f48820a93b670c2e6e67da94b354,gogs,/tmp/tmp1n5zcvhx/gogs,Finish new collaboration page,True,23,583,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-08-07 06:40:05-04:00,14400,Unknwon,joe2010xtmf@163.com,2014-08-07 06:40:05-04:00,14400,False,81.0,42,2356.0,313.0,95,0,95,95
+5acc948562547b393ba1e89b012e7421143c6dd8,gogs,/tmp/tmp1n5zcvhx/gogs,Page: `/org/:orgname/settings`,True,19,577,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-08-14 14:12:21+08:00,-28800,Unknwon,joe2010xtmf@163.com,2014-08-14 14:12:21+08:00,-28800,False,85.0,43,2459.0,327.0,49,31,80,18
+78add502d71dca43bb59ab9ad91745c64d0bf74d,gogs,/tmp/tmp1n5zcvhx/gogs,Finish new organization members and invitation page,True,5,52,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-08-15 23:37:33+08:00,-28800,Unknwon,joe2010xtmf@163.com,2014-08-15 23:37:33+08:00,-28800,False,91.0,47,2633.0,350.0,25,0,25,25
+21a1b8e5a35c61bff30145ac3194ea893a9c6b68,gogs,/tmp/tmp1n5zcvhx/gogs,"Finish new edit team page, add member to team",True,24,792,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-08-24 21:09:05+08:00,-28800,Unknwon,joe2010xtmf@163.com,2014-08-24 21:09:05+08:00,-28800,False,100.0,53,2883.0,386.0,41,0,41,41
+74b31566cf5caaf6bf73584e621d56ca99c048d1,gogs,/tmp/tmp1n5zcvhx/gogs,Finsih add/remove repo in organization,True,19,592,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-08-26 18:11:15+08:00,-28800,Unknwon,joe2010xtmf@163.com,2014-08-26 18:11:15+08:00,-28800,False,111.0,60,3180.0,427.0,45,1,46,44
+88291745747ffb200b55ca62e1054d1d2c4315d3,gogs,/tmp/tmp1n5zcvhx/gogs,Finish new admin users pages,True,25,1233,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-08-29 15:32:52+08:00,-28800,Unknwon,joe2010xtmf@163.com,2014-08-29 15:32:52+08:00,-28800,False,116.0,63,3367.0,452.0,28,0,28,28
+d2aff9a46a20bfd5345fec8a88d2638997a833c0,gogs,/tmp/tmp1n5zcvhx/gogs,Continue working on new admin pages,True,27,1210,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-08-29 20:50:43+08:00,-28800,Unknwon,joe2010xtmf@163.com,2014-08-29 20:50:43+08:00,-28800,False,121.0,65,3503.0,471.0,25,4,29,21
+676bd764fa602048c1a81d94943f45dcb1a75c76,gogs,/tmp/tmp1n5zcvhx/gogs,UI: SSH/HTTPS address switch and copy,True,6,101,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-08-31 21:03:16+08:00,-28800,Unknwon,joe2010xtmf@163.com,2014-08-31 21:03:16+08:00,-28800,False,132.0,72,3856.0,517.0,61,0,61,61
+2bce24068dc3c64ee5e501c48b7f080c48383970,gogs,/tmp/tmp1n5zcvhx/gogs,add Slack API webhook support,True,15,564,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Christopher Brickley,brickley@gmail.com,2014-08-24 08:59:47-04:00,14400,Christopher Brickley,brickley@gmail.com,2014-08-31 12:01:59-04:00,14400,False,135.0,74,3945.0,529.0,17,1,18,16
+85c35a6b8bb7430568d375d1e792e1417bbd7f4b,gogs,/tmp/tmp1n5zcvhx/gogs,add organization-level webhooks,True,12,232,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Christopher Brickley,brickley@gmail.com,2014-09-04 07:17:00-04:00,14400,Christopher Brickley,brickley@gmail.com,2014-09-05 07:19:34-04:00,14400,False,136.0,75,3959.0,533.0,18,11,29,7
+0ddb1eb769610f1d74997ad12d848ae5a0bdb4ab,gogs,/tmp/tmp1n5zcvhx/gogs,"Finish new install page, almost ready for 0.5 release",True,11,707,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-09-07 19:02:58-04:00,14400,Unknwon,joe2010xtmf@163.com,2014-09-07 19:02:58-04:00,14400,False,143.0,77,4172.0,562.0,41,1,42,40
+0055cbd3651ebde0f8b6cc70c9c44de56dc38830,gogs,/tmp/tmp1n5zcvhx/gogs,"Allow Gogs to run from a suburl behind a reverse proxy. e.g. http://mydomain.com/gogs/
+
+Conflicts:
+	modules/setting/setting.go
+
+Conflicts:
+	templates/repo/release/list.tmpl
+	templates/user/dashboard/dashboard.tmpl
+
+Conflicts:
+	routers/repo/setting.go",True,91,622,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Martin van Beurden,chadoe@gmail.com,2014-09-14 19:35:22+02:00,-7200,Martin van Beurden,chadoe@gmail.com,2014-09-18 20:50:48+02:00,-7200,False,144.0,78,4224.0,567.0,7,6,13,1
+063aacd436da24c2616d68a838959300978afaa5,gogs,/tmp/tmp1n5zcvhx/gogs,UI: Use tooltip not alert when copy clone URL,True,8,363,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-09-22 14:47:47-04:00,14400,Unknwon,joe2010xtmf@163.com,2014-09-22 14:47:47-04:00,14400,False,146.0,80,4310.0,578.0,31,29,60,2
+a1109e6fbc31ec63cec50c3994e487a6bce27454,gogs,/tmp/tmp1n5zcvhx/gogs,Page: Repository home page,True,9,134,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-09-23 13:47:54-04:00,14400,Unknwon,joe2010xtmf@163.com,2014-09-23 13:47:54-04:00,14400,False,149.0,82,4418.0,587.0,16,4,20,12
+93ee0838eb317ce729391fbfafa0595f561e3f65,gogs,/tmp/tmp1n5zcvhx/gogs,Page: Repository home page,True,2,17,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-09-23 13:51:10-04:00,14400,Unknwon,joe2010xtmf@163.com,2014-09-23 13:51:10-04:00,14400,False,149.0,82,4417.0,588.0,5,4,9,1
+7c30ae7002f203aac1841fefdf535b0d017aabbf,gogs,/tmp/tmp1n5zcvhx/gogs,is utils improvement,True,6,95,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,fuxiaohei,fuxiaohei@vip.qq.com,2014-09-25 21:52:58+08:00,-28800,fuxiaohei,fuxiaohei@vip.qq.com,2014-09-25 21:52:58+08:00,-28800,False,149.0,82,4437.0,590.0,5,2,7,3
+71e4689d118b3628a6ef7b93117c54265c4d83a5,gogs,/tmp/tmp1n5zcvhx/gogs,Page: User profile,True,12,354,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-09-25 19:33:39-04:00,14400,Unknwon,joe2010xtmf@163.com,2014-09-25 19:33:39-04:00,14400,False,150.0,83,4472.0,598.0,10,0,10,10
+09c3c4e70c4873171dedb2ea4c217ec9f7fa5a7a,gogs,/tmp/tmp1n5zcvhx/gogs,"bugfix, suburl defaults to empty string when suburl is undefined",True,1,2,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,fundon,cfddream@gmail.com,2014-09-26 10:11:51+08:00,-28800,fundon,cfddream@gmail.com,2014-09-26 10:29:57+08:00,-28800,False,150.0,83,4474.0,598.0,1,1,2,0
+ad2ab6d21496e60e7589c44bdfcc15bba01ae9dd,gogs,/tmp/tmp1n5zcvhx/gogs,"Add modal to change username
+
+Signed-off-by: Unknwon <joe2010xtmf@163.com>",True,10,454,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-09-26 22:33:30-04:00,14400,Unknwon,joe2010xtmf@163.com,2014-09-26 22:33:30-04:00,14400,False,154.0,86,4605.0,620.0,25,3,28,22
+49193bebd283322bb997b7aed09fc7818a881af9,gogs,/tmp/tmp1n5zcvhx/gogs,UI: Confirmation box,True,19,296,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-09-28 01:38:25-04:00,14400,Unknwon,joe2010xtmf@163.com,2014-09-28 01:38:25-04:00,14400,False,157.0,95,4879.0,664.0,98,48,146,50
+a046a31d2be4a72959ec98f1bed7dc5e29ca7126,gogs,/tmp/tmp1n5zcvhx/gogs,UI: Confirmation box,True,12,99,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-09-29 18:52:28-04:00,14400,Unknwon,joe2010xtmf@163.com,2014-09-29 18:52:28-04:00,14400,False,157.0,95,4923.0,672.0,15,4,19,11
+b2632dec099cb2727933149d2d59cc5e46baa15f,gogs,/tmp/tmp1n5zcvhx/gogs,Page: Compare 2 commits,True,19,524,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-10-10 21:40:51-04:00,14400,Unknwon,joe2010xtmf@163.com,2014-10-10 21:40:51-04:00,14400,False,163.0,100,5163.0,702.0,38,0,38,38
+0d7b9065c60604a1ac37af595878d86b0c0679ad,gogs,/tmp/tmp1n5zcvhx/gogs,Fix #540,True,2,21,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-10-12 02:06:46-04:00,14400,Unknwon,joe2010xtmf@163.com,2014-10-12 02:06:46-04:00,14400,False,163.0,100,5163.0,702.0,1,1,2,0
+8c9338a5377c60c84cdee1f5781b3de5933bb3b0,gogs,/tmp/tmp1n5zcvhx/gogs,add personal access token panel #12,True,20,373,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-11-12 06:48:50-05:00,18000,Unknwon,joe2010xtmf@163.com,2014-11-12 06:48:50-05:00,18000,False,163.0,100,5185.0,705.0,7,4,11,3
+8eb5120fbd19dac1221f82d84c339b4be9b0975b,gogs,/tmp/tmp1n5zcvhx/gogs,"#12, API: list user repos, list repo hooks",True,12,352,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-11-13 02:32:18-05:00,18000,Unknwon,joe2010xtmf@163.com,2014-11-13 02:32:18-05:00,18000,False,163.0,100,5185.0,705.0,2,2,4,0
+54ef1cee1d25ce823531cd3e3571a6b3b847d1ea,gogs,/tmp/tmp1n5zcvhx/gogs,add full name to found users' list,True,2,18,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Deiwin Sarjas,deiwin.sarjas@gmail.com,2014-12-02 16:55:52+02:00,-7200,Deiwin Sarjas,deiwin.sarjas@gmail.com,2014-12-02 16:55:52+02:00,-7200,False,166.0,101,5226.0,712.0,8,1,9,7
+0daef29053ac112e9cd86dc8fac7b78f4f38d387,gogs,/tmp/tmp1n5zcvhx/gogs,add label-create ui elements,True,7,152,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,fuxiaohei,fuxiaohei@vip.qq.com,2014-12-07 21:29:37+08:00,-28800,fuxiaohei,fuxiaohei@vip.qq.com,2014-12-07 21:29:37+08:00,-28800,False,166.0,101,5226.0,712.0,1,0,1,1
+bc8721fb6c704255fd8be9edc9372e4d17adaee9,gogs,/tmp/tmp1n5zcvhx/gogs,Finish new UI for release page,True,16,759,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-12-10 16:37:54-05:00,18000,Unknwon,joe2010xtmf@163.com,2014-12-10 16:37:54-05:00,18000,False,172.0,107,5399.0,733.0,25,0,25,25
+cf7ebfbdc8d1e36c6ed0cf5a50810da056f8a559,gogs,/tmp/tmp1n5zcvhx/gogs,mirror fix on release JS,True,2,15,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-12-10 16:41:49-05:00,18000,Unknwon,joe2010xtmf@163.com,2014-12-10 16:41:49-05:00,18000,False,173.0,107,5443.0,737.0,7,2,9,5
+97b39ae2e4acc3cbdef0dbfb110d6eebf2c1977b,gogs,/tmp/tmp1n5zcvhx/gogs,fix invite bug(shouldn't include full name to search box),True,4,13,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2014-12-22 03:44:49-05:00,18000,Unknwon,joe2010xtmf@163.com,2014-12-22 03:44:49-05:00,18000,False,173.0,107,5450.0,737.0,2,2,4,0
+3d9cda2d98940102b1bdffc053e036cc696b9f8e,gogs,/tmp/tmp1n5zcvhx/gogs,public/ng: fix auto-completion #832,True,4,22,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2015-02-01 08:46:53-05:00,18000,Unknwon,joe2010xtmf@163.com,2015-02-01 08:46:53-05:00,18000,False,173.0,107,5455.0,737.0,1,1,2,0
+7f71fe9dae05d11c51ee5009580c14c47edf5043,gogs,/tmp/tmp1n5zcvhx/gogs,fix diff lines highlighting,True,3,34,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Alexey Makhov,makhov.alex@gmail.com,2015-02-03 23:53:34+03:00,-10800,Alexey Makhov,makhov.alex@gmail.com,2015-02-04 12:41:35+03:00,-10800,False,174.0,107,5537.0,744.0,14,7,21,7
+7140f50637219cbaffcf21d5082cf6b5c9f1994c,gogs,/tmp/tmp1n5zcvhx/gogs,public/ng/js: script fix on #901,True,4,98,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,joe2010xtmf@163.com,2015-02-04 19:52:31-05:00,18000,Unknwon,joe2010xtmf@163.com,2015-02-04 19:52:31-05:00,18000,False,189.0,112,6104.0,808.0,75,5,80,70
+01cef678a352fc3c4d5e1c2258171c887a04925c,gogs,/tmp/tmp1n5zcvhx/gogs,new lines highlighting format,True,1,34,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Alexey Makhov,makhov.alex@gmail.com,2015-02-05 10:49:04+03:00,-10800,Alexey Makhov,makhov.alex@gmail.com,2015-02-05 10:49:04+03:00,-10800,False,188.0,112,6207.0,813.0,20,14,34,6
+563e8b4ea98e57adf3992dcaef76b86d29c13cec,gogs,/tmp/tmp1n5zcvhx/gogs,gitlab-like hash naming,True,3,31,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Alexey Makhov,makhov.alex@gmail.com,2015-02-19 00:52:22+03:00,-10800,Alexey Makhov,makhov.alex@gmail.com,2015-02-19 00:52:22+03:00,-10800,False,188.0,112,6222.0,813.0,10,10,20,0
+3efe3f42e80a2fd5dfff639be120b2bc5cf28474,gogs,/tmp/tmp1n5zcvhx/gogs,js fix R1-L1 highlight,True,1,33,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Alexey Makhov,makhov.alex@gmail.com,2015-02-19 11:08:47+03:00,-10800,Alexey Makhov,makhov.alex@gmail.com,2015-02-19 11:08:47+03:00,-10800,False,188.0,112,6183.0,814.0,17,16,33,1
+4b9fb43a708d0aaaf710a060f7b2dd0b7ad959d0,gogs,/tmp/tmp1n5zcvhx/gogs,home: new UI,True,38,3968,gogs.js,ADD,none,public/js/gogs.js,Unknwon,u@gogs.io,2015-03-07 15:12:13-05:00,18000,Unknwon,u@gogs.io,2015-03-07 15:12:13-05:00,18000,False,1.0,1,28.0,5.0,6,0,6,6
+182003aa417ba67661c6743e0fabe6e1f67efd1c,gogs,/tmp/tmp1n5zcvhx/gogs,Add PAM authentication,True,10,146,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Paolo Borelli,pborelli@gnome.org,2015-04-23 13:58:57+02:00,-7200,Ignacio Casal Quinteiro,icq@gnome.org,2015-04-24 10:13:01+02:00,-7200,False,189.0,112,6236.0,821.0,7,0,7,7
+5dd3dd71a0529590a209c0e58e0a962b83515ae8,gogs,/tmp/tmp1n5zcvhx/gogs,UI: install - database settings,True,12,472,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-07-08 01:09:03+08:00,-28800,Unknwon,u@gogs.io,2015-07-08 01:09:03+08:00,-28800,False,8.0,3,233.0,36.0,39,2,41,37
+5cf37323396fa08e8f93baa6f19ad3b1a6371324,gogs,/tmp/tmp1n5zcvhx/gogs,UI: install - new version,True,17,408,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-07-08 19:47:56+08:00,-28800,Unknwon,u@gogs.io,2015-07-08 19:47:56+08:00,-28800,False,8.0,3,251.0,38.0,2,0,2,2
+b9dc2147b43667d39fd6e61027e84c51aad6485c,gogs,/tmp/tmp1n5zcvhx/gogs,UI: install - done,True,21,1108,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-07-09 13:17:48+08:00,-28800,Unknwon,u@gogs.io,2015-07-09 13:17:48+08:00,-28800,False,8.0,3,260.0,39.0,1,0,1,1
+4447a20f872776123c42d5b8ca987c114fb4b80b,gogs,/tmp/tmp1n5zcvhx/gogs,UI: issues - finish basic frame,True,38,754,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-07-24 04:50:05+08:00,-28800,Unknwon,u@gogs.io,2015-07-24 04:50:05+08:00,-28800,False,8.0,3,274.0,42.0,3,0,3,3
+86dbda0b42d05caf11d5c6d040f18dfbcc742e04,gogs,/tmp/tmp1n5zcvhx/gogs,"UI: basci issue list without filters
+
+- fix isRead check
+- fix paging",True,16,259,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-07-24 16:42:47+08:00,-28800,Unknwon,u@gogs.io,2015-07-24 16:42:47+08:00,-28800,False,8.0,3,274.0,42.0,1,1,2,0
+ac95f6d50f674cae1a5ae3889fdf3c56eb7c005d,gogs,/tmp/tmp1n5zcvhx/gogs,"UI: basic label list
+
+- create new label",True,27,3852,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-07-24 21:02:49+08:00,-28800,Unknwon,u@gogs.io,2015-07-24 21:02:49+08:00,-28800,False,13.0,6,386.0,59.0,19,0,19,19
+dc4aab9925b46f8ad4b18f7926e2904163c1c5b5,gogs,/tmp/tmp1n5zcvhx/gogs,"UI: CURD labels
+
+- fix update lable break connection with repository",True,14,271,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-07-24 23:13:42+08:00,-28800,Unknwon,u@gogs.io,2015-07-24 23:13:42+08:00,-28800,False,16.0,11,622.0,88.0,36,4,40,32
+04458d49a066c8befd79b59e62df00fbf49fa46b,gogs,/tmp/tmp1n5zcvhx/gogs,milestone: list view,True,16,405,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-03 17:42:09+08:00,-28800,Unknwon,u@gogs.io,2015-08-03 17:42:09+08:00,-28800,False,16.0,11,636.0,91.0,3,0,3,3
+eebcbf9d3438a9910dee56fd76ab624726eb207c,gogs,/tmp/tmp1n5zcvhx/gogs,add clipboard API support,True,2,146,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Fernando San Julián,fjsanjulian@hotmail.com,2015-08-03 21:27:15+02:00,-7200,Fernando San Julián,fjsanjulian@hotmail.com,2015-08-03 21:27:15+02:00,-7200,False,193.0,115,6396.0,841.0,48,20,68,28
+3e4cdccf6bfe1904c97204b65c3143414a3c725d,gogs,/tmp/tmp1n5zcvhx/gogs,milestone: create page,True,76,6367,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-05 15:24:26+08:00,-28800,Unknwon,u@gogs.io,2015-08-05 15:24:26+08:00,-28800,False,18.0,13,744.0,108.0,56,36,92,20
+74bd6b939c725e6e9c7395fe6356e9a6d7d662e6,gogs,/tmp/tmp1n5zcvhx/gogs,milestone: edit,True,10,206,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-05 18:26:18+08:00,-28800,Unknwon,u@gogs.io,2015-08-05 18:26:18+08:00,-28800,False,18.0,13,744.0,108.0,2,2,4,0
+0705f55ce097b9892a7c4c11faa5396c4e557232,gogs,/tmp/tmp1n5zcvhx/gogs,finish new milestone page,True,19,466,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-05 20:23:08+08:00,-28800,Unknwon,u@gogs.io,2015-08-05 20:23:08+08:00,-28800,False,18.0,13,757.0,110.0,20,15,35,5
+39a3b768bc8b0288cb4aa91d27485f46cfbfeb29,gogs,/tmp/tmp1n5zcvhx/gogs,#334: Add Deployment Key Support,True,26,840,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-06 22:48:11+08:00,-28800,Unknwon,u@gogs.io,2015-08-06 22:48:11+08:00,-28800,False,20.0,14,793.0,115.0,7,0,7,7
+dea3a8c6a42ea7e4921c0e4beee5d4fd0437dbe5,gogs,/tmp/tmp1n5zcvhx/gogs,WIP: create PR - choose branch,True,34,608,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-08 22:43:14+08:00,-28800,Unknwon,u@gogs.io,2015-08-08 22:43:14+08:00,-28800,False,22.0,15,842.0,124.0,11,0,11,11
+43a87b0caf50abe6d6b19adf10dd9f082c58ad61,gogs,/tmp/tmp1n5zcvhx/gogs,auto-redirect when finish filter branch,True,2,9,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-08 23:12:23+08:00,-28800,Unknwon,u@gogs.io,2015-08-08 23:12:23+08:00,-28800,False,22.0,15,846.0,123.0,2,3,5,-1
+590c464c56c993c461f10470926a96448f4f7d00,gogs,/tmp/tmp1n5zcvhx/gogs,UI: create issue with title and content,True,18,1161,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-09 15:23:02+08:00,-28800,Unknwon,u@gogs.io,2015-08-09 15:23:02+08:00,-28800,False,24.0,17,967.0,141.0,20,0,20,20
+7372042441804370ddcdf00c5ea29acedef99e1d,gogs,/tmp/tmp1n5zcvhx/gogs,"list view: issue, label, milestone",True,19,822,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-09 22:45:38+08:00,-28800,Unknwon,u@gogs.io,2015-08-09 22:45:38+08:00,-28800,False,22.0,16,824.0,121.0,10,2,12,8
+48f12d4eaddf08282086199d94a306b47483521f,gogs,/tmp/tmp1n5zcvhx/gogs,upgrade new issue to SUI v2,True,9,43,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-10 01:04:23+08:00,-28800,Unknwon,u@gogs.io,2015-08-10 01:04:23+08:00,-28800,False,24.0,19,1015.0,149.0,4,2,6,2
+922f3f306239aca309279dbdf1bdedfb9788b6e8,gogs,/tmp/tmp1n5zcvhx/gogs,finish create issue with labels,True,9,201,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-10 16:52:08+08:00,-28800,Unknwon,u@gogs.io,2015-08-10 16:52:08+08:00,-28800,False,32.0,24,1372.0,186.0,58,17,75,41
+09a1b2a1f5ca4c510be2828635a790b2a775ac94,gogs,/tmp/tmp1n5zcvhx/gogs,finish create issue with milestone,True,10,410,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-10 18:57:57+08:00,-28800,Unknwon,u@gogs.io,2015-08-10 18:57:57+08:00,-28800,False,37.0,29,1601.0,210.0,89,60,149,29
+75aff60c903c2c5ab92d75c9f067d6815f3daa2e,gogs,/tmp/tmp1n5zcvhx/gogs,finish create issue with milestone and assignee,True,13,475,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-10 21:47:23+08:00,-28800,Unknwon,u@gogs.io,2015-08-10 21:47:23+08:00,-28800,False,40.0,30,1697.0,222.0,32,19,51,13
+4cc198179c7b8f87e7075c36fbd6e06ca065b784,gogs,/tmp/tmp1n5zcvhx/gogs,new top menu,True,6,288,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Fernando San Julián,fjsanjulian@hotmail.com,2015-08-10 16:38:21+02:00,-7200,Fernando San Julián,fjsanjulian@hotmail.com,2015-08-10 16:38:21+02:00,-7200,False,25.0,18,877.0,131.0,11,1,12,10
+17f3e840ec7e7dbff5d3d6e6da4e8347844f6817,gogs,/tmp/tmp1n5zcvhx/gogs,fix cannot parse JSON for attachments,True,2,8,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-11 12:44:14+08:00,-28800,Unknwon,u@gogs.io,2015-08-11 12:44:14+08:00,-28800,False,43.0,32,1750.0,232.0,3,3,6,0
+89c2bd4a0dd85261f72565ba8395644da8129fea,gogs,/tmp/tmp1n5zcvhx/gogs,finish create issue attachment UI,True,12,2205,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-11 17:54:00+08:00,-28800,Unknwon,u@gogs.io,2015-08-11 17:54:00+08:00,-28800,False,46.0,35,1934.0,258.0,29,0,29,29
+34f6cbfc2a13295d2c8ab33f17ddbca27337b18b,gogs,/tmp/tmp1n5zcvhx/gogs,finish attachments when create issue,True,16,442,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-11 23:24:40+08:00,-28800,Unknwon,u@gogs.io,2015-08-11 23:24:40+08:00,-28800,False,47.0,35,1969.0,260.0,5,3,8,2
+1fb53067f478414302096d5d976a3db85df9e2eb,gogs,/tmp/tmp1n5zcvhx/gogs,finish close/reopen issue,True,12,142,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-13 23:21:43+08:00,-28800,Unknwon,u@gogs.io,2015-08-13 23:21:43+08:00,-28800,False,50.0,37,2080.0,274.0,16,0,16,16
+cec38f2a8cf4f6721cc412d1d6cf3ea6f25b16c7,gogs,/tmp/tmp1n5zcvhx/gogs,able edit issue labels/milestone/assignee,True,12,494,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-15 00:42:43+08:00,-28800,Unknwon,u@gogs.io,2015-08-15 00:42:43+08:00,-28800,False,57.0,39,2325.0,305.0,41,2,43,39
+e633425f276a0b95702e2a12b3d5f0d217e76f6d,gogs,/tmp/tmp1n5zcvhx/gogs,#1180 and #1250: migration,True,10,347,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-15 16:03:20+08:00,-28800,Unknwon,u@gogs.io,2015-08-15 16:03:20+08:00,-28800,False,57.0,39,2372.0,311.0,9,1,10,8
+c8bb475abb1c661930ca7c835405d7d62f9b154d,gogs,/tmp/tmp1n5zcvhx/gogs,fix autocomplete on migration,True,6,35,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-15 18:16:39+08:00,-28800,Unknwon,u@gogs.io,2015-08-15 18:16:39+08:00,-28800,False,57.0,39,2325.0,305.0,0,9,9,-9
+249345458737e4db5a06250593787b483726dff0,gogs,/tmp/tmp1n5zcvhx/gogs,new delete account UI and password confirmation,True,14,189,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-19 02:49:44+08:00,-28800,Unknwon,u@gogs.io,2015-08-19 02:49:44+08:00,-28800,False,58.0,39,2354.0,309.0,5,0,5,5
+4c7b6414eb91d12473ee0000bc3fccfd105feef9,gogs,/tmp/tmp1n5zcvhx/gogs,new access token UI,True,15,433,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-19 03:36:16+08:00,-28800,Unknwon,u@gogs.io,2015-08-19 03:36:16+08:00,-28800,False,58.0,39,2349.0,307.0,3,7,10,-4
+87f5ca8e1f74616d9dc36a5f6fe57023444ed25c,gogs,/tmp/tmp1n5zcvhx/gogs,able edit issue title,True,13,411,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-19 23:14:57+08:00,-28800,Unknwon,u@gogs.io,2015-08-19 23:14:57+08:00,-28800,False,61.0,42,2551.0,336.0,33,0,33,33
+371572cf5f853211fb11bb28bc41658119d3e247,gogs,/tmp/tmp1n5zcvhx/gogs,allow edit issue and comment,True,11,286,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-20 04:31:28+08:00,-28800,Unknwon,u@gogs.io,2015-08-20 04:31:28+08:00,-28800,False,69.0,47,3020.0,388.0,74,10,84,64
+4275b3720a04ccbca99907e800a55ab9df9fdcf6,gogs,/tmp/tmp1n5zcvhx/gogs,finsih diff and compare,True,7,436,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-21 00:18:30+08:00,-28800,Unknwon,u@gogs.io,2015-08-21 00:18:30+08:00,-28800,False,71.0,49,3174.0,404.0,19,0,19,19
+23f42d92c917564435a00e8e75633b8056bd7b0d,gogs,/tmp/tmp1n5zcvhx/gogs,add webhook recent deliveries,True,18,701,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-27 23:06:14+08:00,-28800,Unknwon,u@gogs.io,2015-08-27 23:06:14+08:00,-28800,False,71.0,49,3184.0,405.0,5,4,9,1
+70e0153b939a2446bf1d8e459a1b965660463585,gogs,/tmp/tmp1n5zcvhx/gogs,add highlight js,True,9,262,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-27 23:58:50+08:00,-28800,Unknwon,u@gogs.io,2015-08-27 23:58:50+08:00,-28800,False,71.0,49,3190.0,406.0,3,0,3,3
+a7686e8749f46b13c62c67c7b4fc5dbc0c5a42c3,gogs,/tmp/tmp1n5zcvhx/gogs,#1203 bundle jquery with gogs,True,24,167,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-28 14:24:05+08:00,-28800,Unknwon,u@gogs.io,2015-08-28 14:24:05+08:00,-28800,False,71.0,49,3199.0,408.0,3,1,4,2
+f509c59ac13dffdff6a246572de04150ee295314,gogs,/tmp/tmp1n5zcvhx/gogs,new create webhook event,True,16,705,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-28 23:36:13+08:00,-28800,Unknwon,u@gogs.io,2015-08-28 23:36:13+08:00,-28800,False,77.0,52,3298.0,424.0,18,0,18,18
+302938e646d764cb7f0f63720d6b44fd1fa6e065,gogs,/tmp/tmp1n5zcvhx/gogs,#1333 Disable Gravatar option when install,True,8,27,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-30 00:22:26+08:00,-28800,Unknwon,u@gogs.io,2015-08-30 00:22:26+08:00,-28800,False,79.0,53,3336.0,429.0,6,0,6,6
+c6b039c6f96762709af109613b5262ea061e25b8,gogs,/tmp/tmp1n5zcvhx/gogs,new repo options UI,True,10,351,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-30 03:21:59+08:00,-28800,Unknwon,u@gogs.io,2015-08-30 03:21:59+08:00,-28800,False,80.0,54,3368.0,432.0,3,0,3,3
+cb381078ffa9f9a6178110be304dfcac5715e323,gogs,/tmp/tmp1n5zcvhx/gogs,finish new repo options page,True,7,111,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-31 13:36:31+08:00,-28800,Unknwon,u@gogs.io,2015-08-31 13:36:31+08:00,-28800,False,82.0,55,3449.0,442.0,12,0,12,12
+ee3e0c3c49d2a4bf9a33386ab22d4c521e5016b6,gogs,/tmp/tmp1n5zcvhx/gogs,fix dropdown search,True,4,22,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-08-31 17:10:28+09:00,-32400,Unknwon,u@gogs.io,2015-08-31 17:10:28+09:00,-32400,False,82.0,55,3449.0,442.0,1,1,2,0
+dde9ace91b3e492386d4b31996ae970f5c9c10bd,gogs,/tmp/tmp1n5zcvhx/gogs,fix rename repo JS,True,2,26,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-09-01 09:37:41-04:00,14400,Unknwon,u@gogs.io,2015-09-01 09:37:41-04:00,14400,False,82.0,55,3457.0,442.0,1,1,2,0
+2d1db4bf055a425bf4529b2f9f0378d58e3ec648,gogs,/tmp/tmp1n5zcvhx/gogs,Added LDAP simple auth support.,True,9,662,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Sergio Benitez,sbenitez@mit.edu,2015-09-04 20:39:23-07:00,25200,Sergio Benitez,sbenitez@mit.edu,2015-09-04 20:48:34-07:00,25200,False,194.0,118,6398.0,833.0,14,18,32,-4
+3b0c2cb480de28c97fced6857f9c0e006ac2a943,gogs,/tmp/tmp1n5zcvhx/gogs,#633 Add Emoji support,True,888,212,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-09-05 14:11:05-04:00,14400,Unknwon,u@gogs.io,2015-09-05 14:11:05-04:00,14400,False,83.0,56,3518.0,450.0,23,13,36,10
+d48cde6ec8ec47083100326b3ac2c42e6859e078,gogs,/tmp/tmp1n5zcvhx/gogs,#633 emoji,True,5,26,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,u@gogs.io,2015-09-05 14:14:03-04:00,14400,Unknwon,u@gogs.io,2015-09-05 14:14:03-04:00,14400,False,193.0,115,6413.0,845.0,4,0,4,4
+46dce2d65311fa37f04acfb4516b0dcb8cfbde5c,gogs,/tmp/tmp1n5zcvhx/gogs,fix emoji edit not rendered,True,1,1,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-09-05 14:18:02-04:00,14400,Unknwon,u@gogs.io,2015-09-05 14:18:02-04:00,14400,False,83.0,56,3528.0,451.0,1,0,1,1
+24658fcbdd507bd66cd76b6ca96e1ef5e1c15af5,gogs,/tmp/tmp1n5zcvhx/gogs,#633 dix suburl,True,5,30,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-09-06 06:57:25-04:00,14400,Unknwon,u@gogs.io,2015-09-06 06:57:25-04:00,14400,False,83.0,56,3545.0,453.0,4,2,6,2
+24658fcbdd507bd66cd76b6ca96e1ef5e1c15af5,gogs,/tmp/tmp1n5zcvhx/gogs,#633 dix suburl,True,5,30,gogs.js,MODIFY,public/ng/js/gogs.js,public/ng/js/gogs.js,Unknwon,u@gogs.io,2015-09-06 06:57:25-04:00,14400,Unknwon,u@gogs.io,2015-09-06 06:57:25-04:00,14400,False,193.0,115,6417.0,845.0,1,1,2,0
+edc99bc8a4691d09cd42804fd0530c352201340e,gogs,/tmp/tmp1n5zcvhx/gogs,new org options UI,True,10,158,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-09-06 10:56:31-04:00,14400,Unknwon,u@gogs.io,2015-09-06 10:56:31-04:00,14400,False,88.0,58,3659.0,469.0,21,0,21,21
+85f34ba53843177999cb98bad046e9cce22bfc8f,gogs,/tmp/tmp1n5zcvhx/gogs,"new user profile settings UI
+
+Signed-off-by: Unknwon <u@gogs.io>",True,16,269,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-09-06 16:31:22-04:00,14400,Unknwon,u@gogs.io,2015-09-06 16:31:22-04:00,14400,False,94.0,60,3777.0,485.0,19,2,21,17
+06174482826e81fb7c4675efff092e2986c4dac0,gogs,/tmp/tmp1n5zcvhx/gogs,finish new add auth UI,True,8,405,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-09-10 17:11:41-04:00,14400,Unknwon,u@gogs.io,2015-09-10 17:11:41-04:00,14400,False,102.0,62,3993.0,520.0,40,1,41,39
+8e0a69f86a9e103d1d82d3c5000e01b4e2570a51,gogs,/tmp/tmp1n5zcvhx/gogs,#697 disable captcha and new admin create user UI,True,19,407,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-09-13 09:51:51-04:00,14400,Unknwon,u@gogs.io,2015-09-13 09:51:51-04:00,14400,False,109.0,63,4158.0,538.0,34,10,44,24
+83e747bfda43c2c8fa0aceb2c989d42fe5ca1582,gogs,/tmp/tmp1n5zcvhx/gogs,#697 and #1606 and new admin edit user UI,True,15,335,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-09-13 11:07:21-04:00,14400,Unknwon,u@gogs.io,2015-09-13 11:07:21-04:00,14400,False,111.0,63,4183.0,541.0,9,3,12,6
+5f1183cecf4f3c6bf677369c4e2a2788b795ab15,gogs,/tmp/tmp1n5zcvhx/gogs,#697 add install option,True,7,33,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-09-13 12:14:32-04:00,14400,Unknwon,u@gogs.io,2015-09-13 12:14:32-04:00,14400,False,115.0,65,4259.0,551.0,10,0,10,10
+d9c5b3bceef42f269e16c6d2f2b4a4ad29f7882d,gogs,/tmp/tmp1n5zcvhx/gogs,#1659 fix change label title resets color,True,4,6,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-09-18 06:18:31-04:00,14400,Unknwon,u@gogs.io,2015-09-18 06:18:31-04:00,14400,False,115.0,65,4277.0,552.0,1,0,1,1
+4465c58f4b1b7e1f9d5cc17fa4fcee352d572092,gogs,/tmp/tmp1n5zcvhx/gogs,new quick start page,True,15,4277,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-10-02 19:58:36-04:00,14400,Unknwon,u@gogs.io,2015-10-02 19:58:36-04:00,14400,False,119.0,69,4617.0,580.0,35,1,36,34
+7d72c8333e05b377d42fb773ef2d952c8ec87d32,gogs,/tmp/tmp1n5zcvhx/gogs,work on #470 and fix miror JS issue when choose targets on compare and pull,True,7,44,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-10-29 21:09:48-04:00,14400,Unknwon,u@gogs.io,2015-10-29 21:09:48-04:00,14400,False,119.0,69,4626.0,580.0,9,9,18,0
+908f2924ceacc89bd75c5b89f68a653a16dcfbec,gogs,/tmp/tmp1n5zcvhx/gogs,fix #1824 and fix #1917,True,6,23,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-11-11 16:19:28-05:00,18000,Unknwon,u@gogs.io,2015-11-11 16:19:28-05:00,18000,False,122.0,71,4672.0,588.0,11,0,11,11
+020fb43b775eff2cf60360be61554124d9b1b9dc,gogs,/tmp/tmp1n5zcvhx/gogs,space bar as click,True,1,2,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-11-11 18:44:39-05:00,18000,Unknwon,u@gogs.io,2015-11-11 18:44:39-05:00,18000,False,123.0,71,4678.0,588.0,1,1,2,0
+0f438ef0b3fe641df102212becb32cdfb4dd3305,gogs,/tmp/tmp1n5zcvhx/gogs,new dashboard ui,True,8,620,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-11-13 12:05:48-05:00,18000,Unknwon,u@gogs.io,2015-11-13 12:05:48-05:00,18000,False,123.0,71,4687.0,589.0,1,0,1,1
+6a664e88c77f1ddd9c5bff4898e21a8271a5da9a,gogs,/tmp/tmp1n5zcvhx/gogs,#1854 show issue content,True,6,35,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-11-13 12:11:45-05:00,18000,Unknwon,u@gogs.io,2015-11-13 12:11:45-05:00,18000,False,122.0,70,4666.0,587.0,1,3,4,-2
+7b1c10ea7eadf83706ca7e27094104749636d26a,gogs,/tmp/tmp1n5zcvhx/gogs,"new repo ui
+
+- copy link button: #1396, #1168, #1668,
+- synxtax highlight: #1712, #1549, #1315, #670
+- z-index: #1942",True,24,1482,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-11-14 04:34:01-05:00,18000,Unknwon,u@gogs.io,2015-11-14 04:34:01-05:00,18000,False,149.0,81,5580.0,693.0,166,44,210,122
+ff5f14431eb2df2e68e6b3765607fa4aef99c707,gogs,/tmp/tmp1n5zcvhx/gogs,fix #1448,True,12,247,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-11-17 02:18:05-05:00,18000,Unknwon,u@gogs.io,2015-11-17 02:18:05-05:00,18000,False,165.0,89,5956.0,746.0,60,0,60,60
+52c8f691630548fe091d30bcfe8164545a05d3d5,gogs,/tmp/tmp1n5zcvhx/gogs,fix #650,True,84,13489,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-11-22 01:32:09-05:00,18000,Unknwon,u@gogs.io,2015-11-22 01:32:09-05:00,18000,False,177.0,97,6273.0,792.0,56,4,60,52
+52c8f691630548fe091d30bcfe8164545a05d3d5,gogs,/tmp/tmp1n5zcvhx/gogs,fix #650,True,84,13489,gogs.js,DELETE,public/ng/js/gogs.js,,Unknwon,u@gogs.io,2015-11-22 01:32:09-05:00,18000,Unknwon,u@gogs.io,2015-11-22 01:32:09-05:00,18000,False,,0,,,0,970,970,-970
+e6b2a01e5d4f556ce35d4343094b74dc680d7cce,gogs,/tmp/tmp1n5zcvhx/gogs,minor JS fix,True,2,20,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-11-22 02:29:20-05:00,18000,Unknwon,u@gogs.io,2015-11-22 02:29:20-05:00,18000,False,177.0,97,6280.0,793.0,2,0,2,2
+880849a28382f70b975f5ac471946377c3fcd1c3,gogs,/tmp/tmp1n5zcvhx/gogs,"Fixing Dropzone should accept all files when config is ""*/*"".",True,1,2,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Andrey Nering,andrey.nering@gmail.com,2015-11-23 13:46:58-02:00,7200,Andrey Nering,andrey.nering@gmail.com,2015-11-23 13:46:58-02:00,7200,False,178.0,97,6293.0,793.0,1,1,2,0
+2b10fdc4dcb987b347b031f460cf4f02fd48a31a,gogs,/tmp/tmp1n5zcvhx/gogs,Wiki: UI for page new,True,20,356,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-11-25 20:10:25-05:00,18000,Unknwon,u@gogs.io,2015-11-25 20:10:25-05:00,18000,False,183.0,101,6525.0,836.0,48,0,48,48
+e42fcb033d4a7ee44fe397be3e933d7031b7d8f7,gogs,/tmp/tmp1n5zcvhx/gogs,wiki: finish edit,True,14,380,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-11-27 01:50:38-05:00,18000,Unknwon,u@gogs.io,2015-11-27 01:50:38-05:00,18000,False,183.0,101,6543.0,839.0,24,19,43,5
+98e989d52c61f6f38a57753d9f4c81a2b332fa82,gogs,/tmp/tmp1n5zcvhx/gogs,minor JS and UI fix,True,3,5,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-12-03 15:01:15-05:00,18000,Unknwon,u@gogs.io,2015-12-03 15:01:15-05:00,18000,False,183.0,101,6543.0,839.0,1,1,2,0
+f41360d864bfa3fb850d669a0a8321820fc550de,gogs,/tmp/tmp1n5zcvhx/gogs,#2052 advanced select ops for system notices,True,13,240,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-12-05 01:09:14-05:00,18000,Unknwon,u@gogs.io,2015-12-05 01:09:14-05:00,18000,False,193.0,106,6809.0,880.0,66,19,85,47
+404867f206f97ec4ea2e6032fea47bc0499d3497,gogs,/tmp/tmp1n5zcvhx/gogs,fix #2105 and fix #1857,True,13,803,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-12-05 13:24:13-05:00,18000,Unknwon,u@gogs.io,2015-12-05 13:24:13-05:00,18000,False,195.0,108,6882.0,891.0,13,0,13,13
+9bd3ebe20708b3d61f1cab8daeeffe8748f93852,gogs,/tmp/tmp1n5zcvhx/gogs,"Dropdown on commits page to choose branch #1846
+
+I've mostly duplicated the dropdown code from repo/home.tmpl, which
+basically only required a change to the URL. This could probably be
+broken out into something more modular.",True,2,51,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Angus Gibson,angus.gibson@anu.edu.au,2015-12-09 16:14:54+11:00,-39600,Angus Gibson,angus.gibson@anu.edu.au,2015-12-09 16:37:04+11:00,-39600,False,195.0,108,6890.0,892.0,4,3,7,1
+7a3eccc709d4d0c7cb5e2224015212b1e748d62d,gogs,/tmp/tmp1n5zcvhx/gogs,Drop 0.5.x support,True,2,311,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-12-10 19:52:06-05:00,18000,Unknwon,u@gogs.io,2015-12-10 19:52:06-05:00,18000,False,195.0,108,6891.0,892.0,2,2,4,0
+ed001d70e4438484f9c9916cd3ef6c59fbc967a4,gogs,/tmp/tmp1n5zcvhx/gogs,#2171 fix wiki preview does not work on Firefox,True,1,5,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-12-13 17:55:13-05:00,18000,Unknwon,u@gogs.io,2015-12-13 17:55:13-05:00,18000,False,194.0,108,6876.0,889.0,1,4,5,-3
+7436ce640394d06129d8c10f7b69f28135892126,gogs,/tmp/tmp1n5zcvhx/gogs,emojify.js: ignore_emoticons,True,1,3,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2015-12-14 06:04:24-05:00,18000,Unknwon,u@gogs.io,2015-12-14 06:04:24-05:00,18000,False,194.0,108,6880.0,890.0,2,1,3,1
+d56801930668597bb8329978e384e61c0bd314ac,gogs,/tmp/tmp1n5zcvhx/gogs,"Remember last selected clone protocol, and establish uniform order (https, ssh)",True,4,36,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Florian Kaiser,florian.kaiser@fnkr.net,2016-02-01 16:30:28+00:00,0,Florian Kaiser,florian.kaiser@fnkr.net,2016-02-01 17:04:58+00:00,0,False,196.0,108,6949.0,902.0,14,0,14,14
+3e0a27157c8a87d8da166530f290260264185b4e,gogs,/tmp/tmp1n5zcvhx/gogs,Make highlighted markdown code blocks work on issue pages,True,2,8,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Florian Kaiser,florian.kaiser@fnkr.net,2016-02-01 19:52:47+00:00,0,Florian Kaiser,florian.kaiser@fnkr.net,2016-02-01 19:53:58+00:00,0,False,195.0,109,6909.0,893.0,3,0,3,3
+84749736a81ea768e30aaa312d729c165dc1017d,gogs,/tmp/tmp1n5zcvhx/gogs,Select HTTPS if remembered clone protocol is SSH but SSH is disabled now,True,1,4,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Florian Kaiser,florian.kaiser@fnkr.net,2016-02-01 20:42:10+00:00,0,Florian Kaiser,florian.kaiser@fnkr.net,2016-02-01 20:42:10+00:00,0,False,197.0,108,6967.0,904.0,3,1,4,2
+0d41827f23c04678f1ff7db236d5150cc8ee539d,gogs,/tmp/tmp1n5zcvhx/gogs,Fix syntax highlighting for markdown code blocks on issue description/comment save,True,1,3,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Florian Kaiser,florian.kaiser@fnkr.net,2016-02-01 22:48:04+00:00,0,Florian Kaiser,florian.kaiser@fnkr.net,2016-02-01 22:50:22+00:00,0,False,199.0,110,7025.0,910.0,3,0,3,3
+13e71acadf538124724c24b6332e4fa8a59baadb,gogs,/tmp/tmp1n5zcvhx/gogs,Render emojis in more places.,True,11,43,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Andrey Nering,andrey.nering@gmail.com,2016-03-02 21:18:58-03:00,10800,Andrey Nering,andrey.nering@gmail.com,2016-03-02 21:54:05-03:00,10800,False,199.0,110,7057.0,913.0,4,1,5,3
+a2f13eae559c71d35662b7767a8b8347a26eb53e,gogs,/tmp/tmp1n5zcvhx/gogs,"#1157 some avatar setting changes
+
+- Allow to delete current avatar",True,10,125,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2016-03-05 00:51:51-05:00,18000,Unknwon,u@gogs.io,2016-03-05 00:51:51-05:00,18000,False,200.0,112,7149.0,925.0,31,18,49,13
+045f14fbd0e3553521f5092cf839be363c74a090,gogs,/tmp/tmp1n5zcvhx/gogs,"#1146 finsih UI work for access mode of collaborators
+
+Collaborators have write access as default, and can be changed via repository
+collaboration settings page to change between read, write and admin.",True,16,456,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2016-03-05 18:08:42-05:00,18000,Unknwon,u@gogs.io,2016-03-05 18:08:42-05:00,18000,False,202.0,114,7230.0,937.0,16,1,17,15
+b35157f4ffa6b94b49494f9de13fe7bc4307ed2b,gogs,/tmp/tmp1n5zcvhx/gogs,reduce line number creation to one DOM manipulation,True,1,8,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,PsychoMario,pink.banana.fish@gmail.com,2016-03-30 20:28:40+01:00,-3600,PsychoMario,pink.banana.fish@gmail.com,2016-03-30 20:28:40+01:00,-3600,False,202.0,114,7266.0,941.0,6,2,8,4
+b3c05026df1ed3664541c1fb3e8c2da693a0eded,gogs,/tmp/tmp1n5zcvhx/gogs,"[Feature/WIP] Confirm on editing forms (fixes #2881) (#2980)
+
+* Add and start jQuery AreYouSure
+
+* Update SimpleMDE to 1.10.1 for `forceSync` support
+
+* Forgot to remove old version SimpleMDE 1.10.0
+
+* formatting -.-",True,7,246,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Kim Carlbäcker,kim.carlbacker@gmail.com,2016-04-19 22:45:28+02:00,-7200,Unknwon,u@gogs.io,2016-04-19 16:45:28-04:00,14400,False,203.0,115,7288.0,945.0,6,1,7,5
+401bf944ef4b09e7d4ca85d7272dbd32e7e950a0,gogs,/tmp/tmp1n5zcvhx/gogs,"Use SecurityProtocol to replace UseSSL in LDAP config
+
+Initially proposed by #2376 and fixes #3068 as well.",True,15,295,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2016-07-08 07:25:09+08:00,-28800,Unknwon,u@gogs.io,2016-07-08 07:25:09+08:00,-28800,False,210.0,116,7419.0,964.0,21,0,21,21
+c2fb01a257cfcddf5dc279fcd66175280778f7a9,gogs,/tmp/tmp1n5zcvhx/gogs,#3299 don’t pop up confirm box when leave on signin page,True,1,1,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2016-07-21 14:36:26+08:00,-28800,Unknwon,u@gogs.io,2016-07-21 14:36:26+08:00,-28800,False,211.0,116,7432.0,965.0,1,0,1,1
+899e7994595f5fc500de8cdf39e1b737f9f00982,gogs,/tmp/tmp1n5zcvhx/gogs,#1601 support delete issue comment,True,14,140,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2016-07-26 02:48:17+08:00,-28800,Unknwon,u@gogs.io,2016-07-26 02:48:17+08:00,-28800,False,214.0,118,7517.0,976.0,14,1,15,13
+4d8b9055412abc3f135aa2fb4370f2d8c8246dbf,gogs,/tmp/tmp1n5zcvhx/gogs,models/ssh_key: code cleaning,True,5,124,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2016-07-26 10:47:25+08:00,-28800,Unknwon,u@gogs.io,2016-07-26 10:47:25+08:00,-28800,False,214.0,118,7518.0,976.0,1,1,2,0
+991ce42c48d2dc5e8be42245a432e782df0f3d23,gogs,/tmp/tmp1n5zcvhx/gogs,"#2162 improve repository advance options UI display
+
+Enable/disable input based on user chosen options for wiki and issue tracker.",True,4,118,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2016-07-31 01:26:43+08:00,-28800,Unknwon,u@gogs.io,2016-07-31 01:26:43+08:00,-28800,False,219.0,120,7650.0,990.0,25,9,34,16
+99385db0c418fb49838eb1a23f391cf826d99202,gogs,/tmp/tmp1n5zcvhx/gogs,#3320 code cleanup,True,12,85,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2016-08-07 11:01:47-07:00,25200,Unknwon,u@gogs.io,2016-08-07 11:01:47-07:00,25200,False,223.0,122,7759.0,1004.0,15,0,15,15
+c8b45ecc2762a9d64dbe83cafd68b137661448a5,gogs,/tmp/tmp1n5zcvhx/gogs,"Render the Code view on the server (minus syntax highlighting) (#2942)
+
+* render code view server side
+
+* remove debug print
+
+* fix multiline selection bug
+
+* change string concatenation to bytes.Buffer for efficiency
+
+* Fix newlines added by previous for hljs
+
+* fix selection highlighting
+
+* make css changes in .less",True,5,44,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Rory McNamara,psychomario@users.noreply.github.com,2016-08-09 20:35:20+01:00,-3600,无闻,u@gogs.io,2016-08-09 12:35:20-07:00,25200,False,222.0,122,7616.0,992.0,1,17,18,-16
+d0a0239bacf02eb004634dfe1bb0a3f7dfe5adb6,gogs,/tmp/tmp1n5zcvhx/gogs,"Squashed commit of the following:
+
+commit 0afcb843d7ffd596991c4885cab768273a6eb42c
+Author: Richard Mahn <richard_mahn@wycliffeassociates.org>
+Date:   Sun Jul 31 17:13:29 2016 -0600
+
+    Removed Upload stats as the upload table is just a temporary table
+
+commit 7ecd73ff5535612d79d471409173ee7f1fcfa157
+Author: Richard Mahn <richard_mahn@wycliffeassociates.org>
+Date:   Sun Jul 31 08:42:41 2016 -0600
+
+    Fix for CodeMirror mode
+
+commit c29b9ab531e2e7af0fb5db24dc17e51027dd1174
+Author: Richard Mahn <richard_mahn@wycliffeassociates.org>
+Date:   Sun Jul 31 08:03:33 2016 -0600
+
+    Made tabbing in editor use spaces
+
+commit 23af384c53206a8a40e11e45bf49d7a149c4adcd
+Author: Richard Mahn <richard_mahn@wycliffeassociates.org>
+Date:   Sun Jul 31 07:56:46 2016 -0600
+
+    Fix for data-url
+
+commit cfb8a97591cb6fc0a92e49563b7b764c524db0e9
+Merge: 7fc8a89 991ce42
+Author: Richard Mahn <richard_mahn@wycliffeassociates.org>
+Date:   Sun Jul 31 07:42:53 2016 -0600
+
+    Merge remote-tracking branch 'gogits/develop' into feature-create-and-edit-repo-file
+
+    Conflicts:
+    	modules/bindata/bindata.go
+    	public/js/gogs.js
+
+commit 7fc8a89cb495478225b02d613e647f99a1489634
+Merge: fd3d86c c03d040
+Author: Richard Mahn <richard_mahn@wycliffeassociates.org>
+Date:   Sun Jul 31 07:40:00 2016 -0600
+
+    Merge branch 'feature-create-and-edit-repo-file' of github.com:richmahn/gogs into feature-create-and-edit-repo-file
+
+commit fd3d86ca6bbc02cfda566a504ffd6b03db4f75ef
+Author: Richard Mahn <richard_mahn@wycliffeassociates.org>
+Date:   Sun Jul 31 07:39:44 2016 -0600
+
+    Code cleanup
+
+commit c03d0401c1049eeeccc32ab1f9c3303c130be5ee
+Author: Richard Mahn <richard_mahn@wycliffeassociates.org>
+Date:   Fri Jul 29 15:38:23 2016 -0600
+
+    Code cleanup
+
+commit 98e1206ccf9f9a4503c020e3a7830cf9f861dfae
+Author: Richard Mahn <richard_mahn@wycliffeassociates.org>
+Date:   Thu Jul 28 18:36:01 2016 -0600
+
+    Code cleanup and fixes
+
+commit c2895dc742f25f8412879c9fa15e18f27f42f194
+Author: Richard Mahn <richard_mahn@wycliffeassociates.org>
+Date:   Thu Jul 28 18:24:04 2016 -0600
+
+    Fixes per Unknwon's requests
+
+commit 6aa7e46b21ad4c96e562daa2eac26a8fb408f8ef
+Merge: 889e9fa ad7ea88
+Author: Richard Mahn <richard_mahn@wycliffeassociates.org>
+Date:   Thu Jul 28 17:13:43 2016 -0600
+
+    Merge remote-tracking branch 'gogits/develop' into feature-create-and-edit-repo-file
+
+    Conflicts:
+    	modules/bindata/bindata.go
+    	modules/setting/setting.go
+
+commit 889e9faf1bd8559a4979c8f46005d488c1a234d4
+Author: Richard Mahn <richard_mahn@wycliffeassociates.org>
+Date:   Fri Jul 22 14:09:18 2016 -0600
+
+    Fix in gogs.js
+
+commit 47603edf223f147b114be65f3bd27bc1e88827a5
+Merge: bb57912 cf85e9e
+Author: Richard Mahn <richard_mahn@wycliffeassociates.org>
+Date:   Fri Jul 22 14:07:36 2016 -0600
+
+    Merge remote-tracking branch 'gogits/develop' into feature-create-and-edit-repo-file
+
+    Conflicts:
+    	modules/bindata/bindata.go
+    	public/js/gogs.js
+
+commit bb5791255867a71c11a77b639db050ad09c597a4
+Author: Richard Mahn <richard_mahn@wycliffeassociates.org>
+Date:   Fri Jul 22 14:02:18 2016 -0600
+
+    Update for using CodeMirror mode addon
+
+commit d10d128c51039be19e2af9c66c63db66a9f2ec6d
+Author: Richard Mahn <richard_mahn@wycliffeassociates.org>
+Date:   Tue Jul 19 16:12:57 2016 -0600
+
+    Update for Edit
+
+commit 34a34982025144e3225e389f7849eb6273c1d576
+Merge: fa1b752 1c7dcdd
+Author: Richard Mahn <richard_mahn@wycliffeassociates.org>
+Date:   Tue Jul 19 11:52:02 2016 -0600
+
+    Merge remote-tracking branch 'gogits/develop' into feature-create-and-edit-repo-file
+
+    Conflicts:
+    	modules/bindata/bindata.go
+
+commit fa1b752be29cd455c5184ddac2ffe80b3489763e
+Author: Richard Mahn <richard_mahn@wycliffeassociates.org>
+Date:   Fri Jul 15 18:35:42 2016 -0600
+
+    Feature for editing, creating, uploading and deleting files",True,34,2703,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Richard Mahn,richard_mahn@wycliffeassociates.org,2016-08-11 05:48:08-07:00,25200,Unknwon,u@gogs.io,2016-08-14 23:52:24-07:00,25200,False,283.0,153,9618.0,1293.0,423,81,504,342
+15845cb28763c1542556ad61d2aa9735541dbf45,gogs,/tmp/tmp1n5zcvhx/gogs,Code clean up for new config options,True,17,197,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2016-08-12 02:29:29-07:00,25200,Unknwon,u@gogs.io,2016-08-14 23:52:24-07:00,25200,False,283.0,153,9618.0,1293.0,6,6,12,0
+4a19fd64412dc111bac3c1b56cf3eb55728d2ba3,gogs,/tmp/tmp1n5zcvhx/gogs,"Web editor: temporarily disable upload and quick fix for edit and new
+
+Try to merge into develop branch ASAP, then continue minor fixes afterwards.",True,9,598,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2016-08-15 01:42:20-07:00,25200,Unknwon,u@gogs.io,2016-08-15 01:42:20-07:00,25200,False,283.0,153,9618.0,1293.0,1,1,2,0
+a00c932bbc5a76ba9b0457d7d20cd1d5fc185b3d,gogs,/tmp/tmp1n5zcvhx/gogs,General code quality improvement,True,17,351,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2016-08-16 23:06:38-07:00,25200,Unknwon,u@gogs.io,2016-08-16 23:06:38-07:00,25200,False,283.0,153,9616.0,1292.0,2,4,6,-2
+ec332cf903354f8ab291ea33962d244a879c330d,gogs,/tmp/tmp1n5zcvhx/gogs,Minor naming improvement,True,4,90,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2016-08-17 16:10:07-07:00,25200,Unknwon,u@gogs.io,2016-08-17 16:10:07-07:00,25200,False,284.0,153,9616.0,1291.0,37,38,75,-1
+7f7216be6e4a55af83a614fb2782d643af40825a,gogs,/tmp/tmp1n5zcvhx/gogs,Code quality improvement on JS,True,7,640,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2016-08-17 22:44:07-07:00,25200,Unknwon,u@gogs.io,2016-08-17 22:44:07-07:00,25200,False,275.0,146,9438.0,1257.0,274,314,588,-40
+f8a48ffaad481ee9eaa8a42e0e7d64c12c90ef86,gogs,/tmp/tmp1n5zcvhx/gogs,Web editor: improve code quality,True,19,156,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2016-08-24 21:35:03-07:00,25200,Unknwon,u@gogs.io,2016-08-24 21:35:03-07:00,25200,False,275.0,146,9438.0,1257.0,1,1,2,0
+0114fdcba40270731d59fe24e8fa6c6147d69e01,gogs,/tmp/tmp1n5zcvhx/gogs,Web editor: improve delete file process,True,19,391,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2016-08-28 01:41:44-07:00,25200,Unknwon,u@gogs.io,2016-08-28 01:41:44-07:00,25200,False,275.0,146,9462.0,1259.0,10,10,20,0
+c0c1a4b01b4dee3cc85d26f4081ff0a456a16b38,gogs,/tmp/tmp1n5zcvhx/gogs,js: fix comment issue status button title change,True,1,26,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2016-08-30 14:37:46-07:00,25200,Unknwon,u@gogs.io,2016-08-30 14:37:46-07:00,25200,False,272.0,144,9350.0,1236.0,1,25,26,-24
+9ac46fb983f31cfece76e2181a9fe73b71f02e2e,gogs,/tmp/tmp1n5zcvhx/gogs,Support Editorconfig on web editor,True,7,56,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Andrey Nering,andrey.nering@gmail.com,2016-08-30 20:18:40-03:00,10800,Andrey Nering,andrey.nering@gmail.com,2016-08-30 20:30:47-03:00,10800,False,281.0,148,9639.0,1281.0,28,0,28,28
+d674cb7f20e62f7f1c68465768b3fc7784008897,gogs,/tmp/tmp1n5zcvhx/gogs,"Fix wrong anchors for non-latin headings (#3981)
+
+Change Javascript regular expression to match non-latin characters
+The regex comes from here: http://stackoverflow.com/questions/150033/regular-expression-to-match-non-english-characters#comment22322603_150078
+
+And this patch should fixed these two issues: #3919 #3843",True,1,2,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Joel-Liang,liangyuzhou@gmail.com,2016-12-27 11:37:20+08:00,-28800,无闻,u@gogs.io,2016-12-26 22:37:20-05:00,18000,False,278.0,146,9537.0,1258.0,1,1,2,0
+5179063e71d7234250209389e6f69db1cd6f0caa,gogs,/tmp/tmp1n5zcvhx/gogs,Added mssql support. (#3772),True,5,51,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,dlob,dlob@users.noreply.github.com,2017-02-14 02:50:00+01:00,-3600,无闻,u@gogs.io,2017-02-13 20:50:00-05:00,18000,False,277.0,147,9524.0,1257.0,11,12,23,-1
+7e09d210ba421a1baf03ef7ba8770bebe8d28b72,gogs,/tmp/tmp1n5zcvhx/gogs,"Initial version of protected branches (#776)
+
+- Able to restrict force push and deletion
+- Able to restrict direct push",True,26,627,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2017-02-17 15:10:50-05:00,18000,Unknwon,u@gogs.io,2017-02-17 15:10:50-05:00,18000,False,279.0,148,9603.0,1267.0,12,0,12,12
+266586e8667705822acd136e4e566b4d19a54d73,gogs,/tmp/tmp1n5zcvhx/gogs,repo: assignee can be anyone who has read access (#3739),True,9,48,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2017-02-17 22:17:27-05:00,18000,Unknwon,u@gogs.io,2017-02-17 22:17:27-05:00,18000,False,279.0,148,9603.0,1267.0,1,1,2,0
+21d538a73857e4732dc2060279ee486caa93e921,gogs,/tmp/tmp1n5zcvhx/gogs,install: able to enable builtin SSH server (#3773),True,10,68,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2017-02-18 12:47:35-05:00,18000,Unknwon,u@gogs.io,2017-02-18 12:47:35-05:00,18000,False,275.0,148,9553.0,1264.0,2,5,7,-3
+934734a85a1e4cb68d8c1aa68c518b511c7be190,gogs,/tmp/tmp1n5zcvhx/gogs,diff: able to highlight line with hashtag URL,True,7,125,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2017-02-20 16:16:32-05:00,18000,Unknwon,u@gogs.io,2017-02-20 16:16:32-05:00,18000,False,279.0,150,9669.0,1276.0,14,0,14,14
+6072e9a52cf01723aea2b9a5ca7dfe22b101fbfc,gogs,/tmp/tmp1n5zcvhx/gogs,"repo: add protect branch whitelist (#4177)
+
+Add options to add users and teams to whitelist of a protected
+branch. This is only available for organizational repositories.",True,16,330,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2017-02-23 18:25:12-05:00,18000,Unknwon,u@gogs.io,2017-02-23 18:25:12-05:00,18000,False,279.0,150,9674.0,1278.0,4,2,6,2
+452551fa23893961ac83dd20b0babef917f42453,gogs,/tmp/tmp1n5zcvhx/gogs,"webhook: highlight delivery response on click
+
+This decreases page load time for webhook edit page.",True,3,23,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2017-02-24 12:22:22-05:00,18000,Unknwon,u@gogs.io,2017-02-24 12:22:22-05:00,18000,False,282.0,153,9745.0,1285.0,9,0,9,9
+50b36a732c4b57248a2ee1757668155c5f77d3bb,gogs,/tmp/tmp1n5zcvhx/gogs,ui: added Select class to ui.dropdown menus to prevent label changing (#4294),True,1,5,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Brian Paulson,brian@brianpaulson.com,2017-03-15 14:35:13-06:00,21600,无闻,u@gogs.io,2017-03-15 16:35:13-04:00,14400,False,282.0,153,9749.0,1286.0,3,2,5,1
+86c7f45383755e7c2d19952b1a577ffa6630fda9,gogs,/tmp/tmp1n5zcvhx/gogs,js: minor fix for #4294,True,1,3,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2017-03-15 16:38:41-04:00,14400,Unknwon,u@gogs.io,2017-03-15 16:38:41-04:00,14400,False,282.0,153,9745.0,1285.0,1,2,3,-1
+d591cb0dfb0fbd9572a3cbf600ef662ca5a99b05,gogs,/tmp/tmp1n5zcvhx/gogs,dashboard/feeds: able to load more history (#2511),True,8,69,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2017-03-16 22:05:53-04:00,14400,Unknwon,u@gogs.io,2017-03-16 22:05:53-04:00,14400,False,285.0,155,9863.0,1304.0,24,0,24,24
+2d4dc544bea95239f620246610ccd9ed0a0ffd46,gogs,/tmp/tmp1n5zcvhx/gogs,install: able to enable console mode (#3119),True,8,191,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2017-03-17 00:16:46-04:00,14400,Unknwon,u@gogs.io,2017-03-17 00:16:46-04:00,14400,False,268.0,147,9435.0,1242.0,0,71,71,-71
+2807274e2dca1780443bcbbab946b1551c4c88f5,gogs,/tmp/tmp1n5zcvhx/gogs,repo/webhook: able to retrigger delivery history (#2187),True,15,319,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2017-03-19 17:44:46-04:00,14400,Unknwon,u@gogs.io,2017-03-19 17:44:46-04:00,14400,False,267.0,147,9421.0,1239.0,67,71,138,-4
+71753cdd468fffd3ba6b5ff548084dedf2d137ef,gogs,/tmp/tmp1n5zcvhx/gogs,templates/label: another minor style improve,True,6,21,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2017-03-22 16:20:31-04:00,14400,Unknwon,u@gogs.io,2017-03-22 16:20:31-04:00,14400,False,268.0,148,9461.0,1242.0,8,3,11,5
+66c1e6b0e8308068dbddaec03585f388875f4192,gogs,/tmp/tmp1n5zcvhx/gogs,user/settings: complete repositories panel (#4312),True,16,297,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2017-03-23 14:28:31-04:00,14400,Unknwon,u@gogs.io,2017-03-23 14:28:31-04:00,14400,False,268.0,148,9461.0,1242.0,1,1,2,0
+8196430f47842fba4f227b105cd96d4b981d077d,gogs,/tmp/tmp1n5zcvhx/gogs,"repo: allow private repository to have public wiki or issues
+
+Relates to #649 and #2157",True,15,306,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2017-03-24 16:25:40-04:00,14400,Unknwon,u@gogs.io,2017-03-24 16:25:40-04:00,14400,False,266.0,148,9440.0,1239.0,3,6,9,-3
+864761c2d0d77b40afc8271f43f3dff91d5b2b11,gogs,/tmp/tmp1n5zcvhx/gogs,js: use jQuery .find() (#4343),True,1,2,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Hassan Amouhzi,github@anezi.net,2017-03-28 23:36:48+02:00,-7200,无闻,u@gogs.io,2017-03-28 17:36:48-04:00,14400,False,266.0,148,9445.0,1239.0,1,1,2,0
+3c0de1713367ffecfe4606ad0553a550f568e74d,gogs,/tmp/tmp1n5zcvhx/gogs,js: set cursor to the end of autofocus input string,True,1,5,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2017-04-06 17:00:12-04:00,14400,Unknwon,u@gogs.io,2017-04-06 17:00:12-04:00,14400,False,267.0,149,9475.0,1242.0,5,0,5,5
+6ea9642d6415073c6312c80bf6533a5070630ad2,gogs,/tmp/tmp1n5zcvhx/gogs,"js: remove Preview, Full Screen and Side-by-side buttons for repository file editing (#4402)",True,1,2,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2017-04-07 18:46:03-04:00,14400,Unknwon,u@gogs.io,2017-04-07 18:46:03-04:00,14400,False,267.0,149,9469.0,1242.0,1,1,2,0
+91cd350b631f721d1d6dd38bbafd3cac612e53c6,gogs,/tmp/tmp1n5zcvhx/gogs,repo/editor: fix wrong context for subdirectory (#4368),True,7,218,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2017-04-07 21:44:55-04:00,14400,Unknwon,u@gogs.io,2017-04-07 21:44:55-04:00,14400,False,267.0,149,9503.0,1244.0,6,3,9,3
+a1d411a0182dd5c5ba227acf43781181c11a1ae3,gogs,/tmp/tmp1n5zcvhx/gogs,ldap: minor fix for PR #4398,True,9,195,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2017-05-29 23:18:34-04:00,14400,Unknwon,u@gogs.io,2017-05-29 23:18:34-04:00,14400,False,267.0,149,9503.0,1244.0,14,14,28,0
+57897cc8c2c90ab1566a65bcd1eabfd41a906070,gogs,/tmp/tmp1n5zcvhx/gogs,"repo: update repository description field to contain more than 256 symbols (#5219)
+
+* Update repository description field to contain more than 256 symbols
+
+- update repository model - description field now is `TEXT` and limited by 4000 symbols
+- new migration
+- add description to html forms - repo creation and repo settings
+- add translation for description
+
+* Update for description field, new features
+
+- add autosize (height) for description textarea, new plugin
+- set max description length to 512 symbols
+- update locales
+
+* Fix migration - typo in var
+
+* Update repo description behaviour
+
+- add textarea autosize for /repo/create
+- add symbols counter under description testarea (create/edit)
+
+* Fix function definition - it a var
+
+* Revert ru-RU locale
+
+* Update by review
+
+- Use type `varchar(512)` in migration
+- Remove unused files from autosize plugin
+
+* Fix migration - new project paths
+
+* Fixes after review 2
+
+- copyright year
+- format includes
+- use switch instead of multi-if
+
+* Remove unused `default:` option.",True,12,112,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Sergey Dryabzhinsky,sergey.dryabzhinsky@gmail.com,2018-06-11 15:34:26+03:00,-10800,无闻,u@gogs.io,2018-06-11 20:34:26+08:00,-28800,False,270.0,151,9639.0,1260.0,21,0,21,21
+dfd494c113cfa2a25ee0c2f5a12c6403f24742a4,gogs,/tmp/tmp1n5zcvhx/gogs,repo: minor improve for PR #5219 and support UTF-8 byte count,True,12,77,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2018-06-11 21:06:24+08:00,-28800,Unknwon,u@gogs.io,2018-06-11 21:06:24+08:00,-28800,False,278.0,152,9793.0,1278.0,27,3,30,24
+f6bdefe3f3937e1434b9692822e0ff6f599df758,gogs,/tmp/tmp1n5zcvhx/gogs,public: minor fix for PR #5276,True,8,45,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2018-06-26 21:16:29+08:00,-28800,Unknwon,u@gogs.io,2018-06-26 21:16:29+08:00,-28800,False,281.0,153,9856.0,1287.0,12,3,15,9
+f545faa06d553750b9f4018336e810530389f88c,gogs,/tmp/tmp1n5zcvhx/gogs,"templates: make state changing routes to POST method (#5541)
+
+- pkg/context: add ParamsUser to unify the injection process",True,12,356,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2018-12-06 22:58:02-05:00,18000,Unknwon,u@gogs.io,2018-12-06 22:58:02-05:00,18000,False,282.0,154,9887.0,1290.0,60,56,116,4
+311df9c521f05cdca880152e73dbed47afb74cde,gogs,/tmp/tmp1n5zcvhx/gogs,"auth: add new authentication source: GitHub, including GitHub Enterprise (#5340)
+
+* Add new Authentication Source: GitHub, including GitHub Enterprise.
+
+* Add vendor dependencies.",True,97,27885,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,haixunlu,luhaixun@gmail.com,2018-12-18 12:49:30-08:00,28800,无闻,u@gogs.io,2018-12-18 15:49:30-05:00,18000,False,283.0,154,9910.0,1294.0,5,1,6,4
+7a0fbd0eb14f865753c5918fe73ecc4d24cfe503,gogs,/tmp/tmp1n5zcvhx/gogs,"public: makes CodeMirror mode by filename lookups case-insensitive (#5857)
+
+* updated the highlight.js plugin
+
+* added some explicit mappings for syntax highlighting
+
+* public: makes CodeMirror mode by filename extension lookup case-insensitive",True,1,2,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Johannes,jh@maschinensehen.de,2019-11-09 00:23:08+01:00,-3600,Unknwon,u@gogs.io,2019-11-08 15:23:08-08:00,28800,False,283.0,154,9914.0,1294.0,1,1,2,0
+54067d105b71f436eb29c83d11a32fe4af92a1cb,gogs,/tmp/tmp1n5zcvhx/gogs,public/js: upgrade clipboard 1.5.9 to 2.0.4,True,5,20,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2020-01-31 21:21:30+08:00,-28800,Unknwon,u@gogs.io,2020-01-31 21:21:30+08:00,-28800,False,283.0,154,9914.0,1294.0,1,1,2,0
+2e00f00ab0b9fe99cb1bdc1c576e8423e5b86a81,gogs,/tmp/tmp1n5zcvhx/gogs,public/plugins: upgrade Dropzone 4.2.0 to 5.5.0,True,7,2155,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2020-01-31 23:27:56+08:00,-28800,Unknwon,u@gogs.io,2020-01-31 23:27:56+08:00,-28800,False,283.0,154,9908.0,1293.0,0,3,3,-3
+19ae04da66bc30ba97b2524ce4df89c9005f2feb,gogs,/tmp/tmp1n5zcvhx/gogs,public/plugins: upgrade highlight.js 9.16.2 to 9.18.0,True,7,18,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Unknwon,u@gogs.io,2020-01-31 23:33:47+08:00,-28800,Unknwon,u@gogs.io,2020-01-31 23:33:47+08:00,-28800,False,283.0,154,9893.0,1290.0,0,5,5,-5
+4d83fd4238e177d9327c760a5386bc53f25dedbb,gogs,/tmp/tmp1n5zcvhx/gogs,"Use go-bindata to embed `public` and `templates` files into binary (#5920)
+
+* fixed private repositories are hidden in the organization's view
+
+* use go-bindata integrate public and templates files to gogs binary
+
+* optimize Dockerfile don't COPY public and templates files
+
+* use kevinburke's go-bindata to generate assets code
+
+* reset develepment as default run mode in configure file
+
+* optimize generated assets code relayout and help function
+
+* fixed code format
+
+* Update conf/app.ini
+
+* assets: add LICENSE headers
+
+* Some housekeeping
+
+* assets/public: simplify code logic
+
+* assets/templates: simplify code logic
+
+* cmd/web: more concise variable names
+
+* Minor changes
+
+* Add custom public and templates support back
+
+Co-authored-by: ᴜɴᴋɴᴡᴏɴ <u@gogs.io>",True,30,47222,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,Michael Li,alimy@gility.net,2020-02-17 22:48:24+08:00,-28800,GitHub,noreply@github.com,2020-02-17 22:48:24+08:00,-28800,False,283.0,154,9889.0,1289.0,0,1,1,-1
+40214ef109fda6d0ca1e7cc188cbaa3976c1e194,gogs,/tmp/tmp1n5zcvhx/gogs,"public: fix jquery3.x syntax error (#5951)
+
+$.post().success -> $.post().done",True,1,4,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,guan,33579835+g-u-a-n@users.noreply.github.com,2020-02-28 22:52:26+08:00,-28800,GitHub,noreply@github.com,2020-02-28 22:52:26+08:00,-28800,False,283.0,154,9889.0,1289.0,2,2,4,0
+344b784d6943ac033d2ce755b6eee34ffc0401e4,gogs,/tmp/tmp1n5zcvhx/gogs,js: fix jQuery error,True,3,75,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,ᴜɴᴋɴᴡᴏɴ,u@gogs.io,2020-02-29 23:52:35+08:00,-28800,ᴜɴᴋɴᴡᴏɴ,u@gogs.io,2020-02-29 23:52:35+08:00,-28800,False,283.0,154,9889.0,1289.0,1,1,2,0
+af0cfe112b4fcab674494dfb1a716a4bede2d7ca,gogs,/tmp/tmp1n5zcvhx/gogs,web: rename CSRF header (#6027),True,4,2962,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,ᴜɴᴋɴᴡᴏɴ,u@gogs.io,2020-03-28 19:17:15+08:00,-28800,GitHub,noreply@github.com,2020-03-28 19:17:15+08:00,-28800,False,288.0,154,9898.0,1589.0,1618,1320,2938,298
+3e055e329cf93eb5de77562d7795240808d31c08,gogs,/tmp/tmp1n5zcvhx/gogs,repo: disable public access option when using external wiki and issue tracker (#6081),True,5,33,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,alpencrossi,62932811+alpencrossi@users.noreply.github.com,2020-04-08 22:13:50+02:00,-7200,GitHub,noreply@github.com,2020-04-09 04:13:50+08:00,-28800,False,288.0,154,9938.0,1591.0,2,0,2,2
+3af91d7cfdb334e602d312743a89e64cd2d369ee,gogs,/tmp/tmp1n5zcvhx/gogs,auth: decouple types and functions from db (#6320),True,36,2012,gogs.js,MODIFY,public/js/gogs.js,public/js/gogs.js,ᴜɴᴋɴᴡᴏɴ,u@gogs.io,2020-09-20 11:19:02+08:00,-28800,GitHub,noreply@github.com,2020-09-20 11:19:02+08:00,-28800,False,288.0,154,9947.0,1592.0,1,0,1,1
