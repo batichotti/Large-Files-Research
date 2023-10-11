@@ -34,7 +34,7 @@ original_df.sort_values(by=['File Name', 'Author Email', 'Author Commit Date'], 
 
 original_df['Lines Sinal'] = original_df.apply(lambda row: 'Grew' if row['Lines Added'] > row['Lines Deleted'] else 'Decreased', axis=1)
 
-original_df['Change alone'] = original_df['Number of Files'] > 1
+original_df['Change+ alone'] = original_df['Number of Files'] > 1
 
 total_lines_changed = original_df.groupby(['File Name', 'Author Email'])['Lines Modified per File'].sum().reset_index()
 
